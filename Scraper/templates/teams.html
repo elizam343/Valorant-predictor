@@ -1,0 +1,161 @@
+{% extends "base.html" %}
+
+{% block title %}VLR Stats - Teams{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <h1><i class="fas fa-shield-alt"></i> Teams</h1>
+        <p class="text-muted">Browse all Valorant professional teams and their rosters</p>
+    </div>
+</div>
+
+<div class="row mb-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <form method="GET" class="row g-3">
+                    <div class="col-md-10">
+                        <label for="search" class="form-label">Search Teams</label>
+                        <input type="text" class="form-control" id="search" name="search" 
+                               placeholder="Enter team name or abbreviation..." value="{{ search }}">
+                    </div>
+                    <div class="col-md-2">
+                        <label class="form-label">&nbsp;</label>
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-search"></i> Search
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col-12">
+        <div class="d-flex justify-content-between align-items-center">
+            <h5>{{ teams|length }} teams found</h5>
+            <div class="text-end">
+                {% if search %}
+                <a href="/teams" class="btn btn-outline-secondary btn-sm me-2">
+                    <i class="fas fa-times"></i> Clear Search
+                </a>
+                {% endif %}
+                <div class="text-muted">
+                    <i class="fas fa-info-circle"></i> Click on a team to view their roster
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    {% for team in teams %}
+    <div class="col-lg-4 col-md-6 mb-4">
+        <div class="card h-100 team-card">
+            <div class="card-header bg-primary text-white">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <h5 class="mb-0">
+                            <i class="fas fa-shield-alt"></i> {{ team.display_name }}
+                        </h5>
+                        {% if team.display_name != team.name %}
+                        <small class="text-light opacity-75">({{ team.name }})</small>
+                        {% endif %}
+                    </div>
+                    <span class="badge bg-light text-dark">
+                        {{ team.player_count }} players
+                    </span>
+                </div>
+            </div>
+            <div class="card-body d-flex flex-column">
+                <div class="mb-3">
+                    <div class="row text-center">
+                        <div class="col-12">
+                            <div class="stat-card p-3">
+                                <h6 class="text-white">Active Players</h6>
+                                <div class="display-4 text-white">{{ team.player_count }}</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mt-auto">
+                    <div class="d-grid gap-2">
+                        <a href="/team/{{ team.name }}" class="btn btn-primary">
+                            <i class="fas fa-users"></i> View Roster
+                        </a>
+                        <a href="/players?team={{ team.name }}" class="btn btn-outline-secondary">
+                            <i class="fas fa-search"></i> Filter Players
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+{% if not teams %}
+<div class="row">
+    <div class="col-12">
+        <div class="text-center py-5">
+            <i class="fas fa-shield-alt fa-3x text-muted mb-3"></i>
+            <h4>No teams found</h4>
+            <p class="text-muted">
+                No team data available. Try updating the database to fetch the latest team information.
+            </p>
+            <button class="btn btn-primary" onclick="updateData()">
+                <i class="fas fa-sync-alt"></i> Update Data
+            </button>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-info-circle"></i> Team Information</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h6>About Teams</h6>
+                        <ul class="list-unstyled">
+                            <li><i class="fas fa-check text-success"></i> Teams are automatically organized from player data</li>
+                            <li><i class="fas fa-check text-success"></i> Player counts are updated in real-time</li>
+                            <li><i class="fas fa-check text-success"></i> No duplicate players across teams</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h6>Navigation</h6>
+                        <ul class="list-unstyled">
+                            <li><i class="fas fa-arrow-right text-primary"></i> <strong>View Roster:</strong> See all players in the team</li>
+                            <li><i class="fas fa-arrow-right text-primary"></i> <strong>Filter Players:</strong> Browse players from this team only</li>
+                            <li><i class="fas fa-arrow-right text-primary"></i> <strong>Player Profiles:</strong> Access detailed statistics</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<style>
+    .team-card {
+        transition: transform 0.2s;
+        border: 1px solid #ddd;
+    }
+    .team-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+    }
+</style>
+{% endblock %}

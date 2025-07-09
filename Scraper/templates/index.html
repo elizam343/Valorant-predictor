@@ -1,0 +1,125 @@
+{% extends "base.html" %}
+
+{% block title %}VLR Stats - Home{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="jumbotron bg-primary text-white p-5 rounded mb-4">
+            <h1 class="display-4"><i class="fas fa-crosshairs"></i> Valorant Stats Dashboard</h1>
+            <p class="lead">Track professional Valorant players and teams with up-to-date statistics from VLR.gg</p>
+            <hr class="my-4">
+            <p>Browse player profiles, compare team statistics, and stay updated with the latest competitive data.</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="stat-card">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h3><i class="fas fa-users"></i> Total Players</h3>
+                    <div class="stat-value">{{ stats.total_players }}</div>
+                </div>
+                <div class="text-end">
+                    <a href="/players" class="btn btn-light btn-sm">
+                        <i class="fas fa-arrow-right"></i> View All
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-6">
+        <div class="stat-card">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h3><i class="fas fa-shield-alt"></i> Total Teams</h3>
+                    <div class="stat-value">{{ stats.total_teams }}</div>
+                </div>
+                <div class="text-end">
+                    <a href="/teams" class="btn btn-light btn-sm">
+                        <i class="fas fa-arrow-right"></i> View All
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-info-circle"></i> Quick Actions</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-4 mb-3">
+                        <div class="d-grid">
+                            <a href="/players" class="btn btn-outline-primary">
+                                <i class="fas fa-search"></i> Browse Players
+                            </a>
+                        </div>
+                        <small class="text-muted">Search and filter through all players</small>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="d-grid">
+                            <a href="/teams" class="btn btn-outline-success">
+                                <i class="fas fa-list"></i> View Teams
+                            </a>
+                        </div>
+                        <small class="text-muted">Explore team rosters and statistics</small>
+                    </div>
+                    <div class="col-md-4 mb-3">
+                        <div class="d-grid">
+                            <button class="btn btn-outline-warning" onclick="updateData()">
+                                <i class="fas fa-sync-alt"></i> Update Data
+                            </button>
+                        </div>
+                        <small class="text-muted">Fetch latest stats from VLR.gg</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-chart-bar"></i> Database Information</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p><strong>Last Updated:</strong> {{ stats.last_updated }}</p>
+                        <p><strong>Data Source:</strong> VLR.gg API</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p><strong>Database:</strong> SQLite</p>
+                        <p><strong>Auto-deduplication:</strong> Enabled</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="alert alert-info">
+            <h6><i class="fas fa-lightbulb"></i> Features:</h6>
+            <ul class="mb-0">
+                <li>Real-time player statistics from VLR.gg</li>
+                <li>Team roster management with no duplicates</li>
+                <li>Advanced search and filtering capabilities</li>
+                <li>Detailed player profiles with comprehensive stats</li>
+                <li>Responsive design for all devices</li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}

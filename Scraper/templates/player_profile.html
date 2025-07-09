@@ -1,0 +1,353 @@
+{% extends "base.html" %}
+
+{% block title %}VLR Stats - {{ player.name }}{% endblock %}
+
+{% block scripts %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Generate simulated performance data based on current stats
+    function generatePerformanceData() {
+        const currentACS = parseFloat('{{ player.average_combat_score }}') || 150;
+        const currentRating = parseFloat('{{ player.rating }}') || 1.0;
+        const currentKD = parseFloat('{{ player.kill_deaths }}') || 1.0;
+        
+        // Generate 12 months of simulated data (every month for the past year)
+        const months = [];
+        const acsData = [];
+        const ratingData = [];
+        const kdData = [];
+        
+        const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 
+                           'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+        
+        for (let i = 11; i >= 0; i--) {
+            const date = new Date();
+            date.setMonth(date.getMonth() - i);
+            months.push(monthNames[date.getMonth()]);
+            
+            // Simulate progression with some variance
+            const progress = (12 - i) / 12; // 0 to 1 progression
+            const variance = (Math.random() - 0.5) * 0.2; // ±10% variance
+            
+            // ACS progression (simulate improvement over time)
+            const baseACS = currentACS * (0.7 + progress * 0.3);
+            acsData.push(Math.max(50, baseACS + (baseACS * variance)));
+            
+            // Rating progression
+            const baseRating = currentRating * (0.8 + progress * 0.2);
+            ratingData.push(Math.max(0.5, baseRating + (baseRating * variance)));
+            
+            // K/D progression
+            const baseKD = currentKD * (0.8 + progress * 0.2);
+            kdData.push(Math.max(0.3, baseKD + (baseKD * variance)));
+        }
+        
+        return { months, acsData, ratingData, kdData };
+    }
+    
+    // Create the performance chart
+    document.addEventListener('DOMContentLoaded', function() {
+        const ctx = document.getElementById('performanceChart').getContext('2d');
+        const data = generatePerformanceData();
+        
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: data.months,
+                datasets: [
+                    {
+                        label: 'Average Combat Score',
+                        data: data.acsData,
+                        borderColor: '#ff4655',
+                        backgroundColor: 'rgba(255, 70, 85, 0.1)',
+                        tension: 0.4,
+                        yAxisID: 'y'
+                    },
+                    {
+                        label: 'Rating',
+                        data: data.ratingData,
+                        borderColor: '#667eea',
+                        backgroundColor: 'rgba(102, 126, 234, 0.1)',
+                        tension: 0.4,
+                        yAxisID: 'y1'
+                    },
+                    {
+                        label: 'K/D Ratio',
+                        data: data.kdData,
+                        borderColor: '#28a745',
+                        backgroundColor: 'rgba(40, 167, 69, 0.1)',
+                        tension: 0.4,
+                        yAxisID: 'y1'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                interaction: {
+                    mode: 'index',
+                    intersect: false,
+                },
+                plugins: {
+                    title: {
+                        display: true,
+                        text: '{{ player.name }} - Performance Trends (Last 12 Months)'
+                    },
+                    legend: {
+                        position: 'top',
+                    }
+                },
+                scales: {
+                    x: {
+                        display: true,
+                        title: {
+                            display: true,
+                            text: 'Month'
+                        }
+                    },
+                    y: {
+                        type: 'linear',
+                        display: true,
+                        position: 'left',
+                        title: {
+                            display: true,
+                            text: 'Average Combat Score',
+                            color: '#ff4655'
+                        },
+                        ticks: {
+                            color: '#ff4655'
+                        }
+                    },
+                    y1: {
+                        type: 'linear',
+                        display: true,
+                        position: 'right',
+                        title: {
+                            display: true,
+                            text: 'Rating / K/D Ratio',
+                            color: '#667eea'
+                        },
+                        ticks: {
+                            color: '#667eea'
+                        },
+                        grid: {
+                            drawOnChartArea: false,
+                        },
+                    }
+                }
+            }
+        });
+    });
+</script>
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item"><a href="/players">Players</a></li>
+                <li class="breadcrumb-item active">{{ player.name }}</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card mb-4">
+            <div class="card-header bg-primary text-white">
+                <div class="d-flex justify-content-between align-items-center">
+                    <h2 class="mb-0">
+                        <i class="fas fa-user"></i> {{ player.name }}
+                    </h2>
+                    <span class="badge bg-light text-dark fs-6">{{ player.team }}</span>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <a href="/team/{{ player.team }}" class="btn btn-outline-primary">
+                            <i class="fas fa-shield-alt"></i> View Team: {{ player.team }}
+                        </a>
+                    </div>
+                    <div class="col-md-6 text-md-end">
+                        <a href="/players" class="btn btn-outline-secondary">
+                            <i class="fas fa-arrow-left"></i> Back to Players
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-6 mb-4">
+        <div class="card h-100">
+            <div class="card-header">
+                <h5><i class="fas fa-chart-line"></i> Core Statistics</h5>
+            </div>
+            <div class="card-body">
+                <div class="row text-center">
+                    <div class="col-6 mb-3">
+                        <div class="stat-card p-3">
+                            <h6 class="text-white">Rating</h6>
+                            <div class="display-6 text-white">{{ player.rating or 'N/A' }}</div>
+                        </div>
+                    </div>
+                    <div class="col-6 mb-3">
+                        <div class="stat-card p-3">
+                            <h6 class="text-white">Average Combat Score</h6>
+                            <div class="display-6 text-white">{{ player.average_combat_score or 'N/A' }}</div>
+                        </div>
+                    </div>
+                    <div class="col-6 mb-3">
+                        <div class="stat-card p-3">
+                            <h6 class="text-white">Kill/Death Ratio</h6>
+                            <div class="display-6 text-white">{{ player.kill_deaths or 'N/A' }}</div>
+                        </div>
+                    </div>
+                    <div class="col-6 mb-3">
+                        <div class="stat-card p-3">
+                            <h6 class="text-white">KAST</h6>
+                            <div class="display-6 text-white">{{ player.kill_assists_survived_traded or 'N/A' }}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-6 mb-4">
+        <div class="card h-100">
+            <div class="card-header">
+                <h5><i class="fas fa-crosshairs"></i> Combat Statistics</h5>
+            </div>
+            <div class="card-body">
+                <div class="mb-3">
+                    <label class="form-label"><strong>Average Damage per Round</strong></label>
+                    <div class="progress">
+                        <div class="progress-bar bg-danger" style="width: 75%">
+                            {{ player.average_damage_per_round or 'N/A' }}
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mb-3">
+                    <label class="form-label"><strong>Kills per Round</strong></label>
+                    <div class="progress">
+                        <div class="progress-bar bg-success" style="width: 60%">
+                            {{ player.kills_per_round or 'N/A' }}
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mb-3">
+                    <label class="form-label"><strong>Assists per Round</strong></label>
+                    <div class="progress">
+                        <div class="progress-bar bg-info" style="width: 45%">
+                            {{ player.assists_per_round or 'N/A' }}
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mb-3">
+                    <label class="form-label"><strong>Headshot Percentage</strong></label>
+                    <div class="progress">
+                        <div class="progress-bar bg-warning" style="width: 50%">
+                            {{ player.headshot_percentage or 'N/A' }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-6 mb-4">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-bolt"></i> First Engagement Stats</h5>
+            </div>
+            <div class="card-body">
+                <div class="row text-center">
+                    <div class="col-6">
+                        <h6>First Kills per Round</h6>
+                        <div class="stat-value">{{ player.first_kills_per_round or 'N/A' }}</div>
+                    </div>
+                    <div class="col-6">
+                        <h6>First Deaths per Round</h6>
+                        <div class="stat-value">{{ player.first_deaths_per_round or 'N/A' }}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-6 mb-4">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-trophy"></i> Clutch Performance</h5>
+            </div>
+            <div class="card-body text-center">
+                <h6>Clutch Success Percentage</h6>
+                <div class="display-4 stat-value">{{ player.clutch_success_percentage or 'N/A' }}</div>
+                <p class="text-muted mt-2">Success rate in 1vX situations</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card mb-4">
+            <div class="card-header">
+                <h5><i class="fas fa-chart-line"></i> Performance Over Time</h5>
+            </div>
+            <div class="card-body">
+                <canvas id="performanceChart" width="400" height="200"></canvas>
+                <div class="mt-3">
+                    <small class="text-muted">
+                        <i class="fas fa-info-circle"></i> 
+                        Performance trends based on current statistics. Historical data simulation for demonstration.
+                    </small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-info-circle"></i> Statistics Explanation</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h6>Core Metrics</h6>
+                        <ul class="list-unstyled">
+                            <li><strong>Rating:</strong> Overall performance metric combining multiple stats</li>
+                            <li><strong>ACS:</strong> Average Combat Score per round</li>
+                            <li><strong>K/D:</strong> Kill to Death ratio</li>
+                            <li><strong>KAST:</strong> Percentage of rounds with Kill, Assist, Survive, or Trade</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h6>Advanced Metrics</h6>
+                        <ul class="list-unstyled">
+                            <li><strong>ADR:</strong> Average Damage dealt per Round</li>
+                            <li><strong>HS%:</strong> Percentage of kills that were headshots</li>
+                            <li><strong>FK/FD:</strong> First Kills and First Deaths per round</li>
+                            <li><strong>Clutch%:</strong> Success rate in clutch situations</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

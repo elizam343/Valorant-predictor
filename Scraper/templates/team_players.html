@@ -1,0 +1,208 @@
+{% extends "base.html" %}
+
+{% block title %}VLR Stats - {{ team_name }} Roster{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                <li class="breadcrumb-item"><a href="/teams">Teams</a></li>
+                <li class="breadcrumb-item active">{{ team_name }}</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card mb-4">
+            <div class="card-header bg-primary text-white">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <h1 class="mb-0">
+                            <i class="fas fa-shield-alt"></i> {{ team_mapping.get_display_name(team_name) }}
+                        </h1>
+                        {% if team_mapping.get_display_name(team_name) != team_name %}
+                        <small class="text-light opacity-75">({{ team_name }})</small>
+                        {% endif %}
+                    </div>
+                    <span class="badge bg-light text-dark fs-6">{{ players|length }} players</span>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <a href="/players?team={{ team_name }}" class="btn btn-outline-primary">
+                            <i class="fas fa-filter"></i> Filter All Players by {{ team_name }}
+                        </a>
+                    </div>
+                    <div class="col-md-6 text-md-end">
+                        <a href="/teams" class="btn btn-outline-secondary">
+                            <i class="fas fa-arrow-left"></i> Back to Teams
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% if players %}
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-users"></i> Team Roster</h5>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead class="table-dark">
+                            <tr>
+                                <th>Player</th>
+                                <th>Rating</th>
+                                <th>ACS</th>
+                                <th>K/D</th>
+                                <th>ADR</th>
+                                <th>HS%</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for player in players %}
+                            <tr>
+                                <td>
+                                    <strong>{{ player.name }}</strong>
+                                </td>
+                                <td>
+                                    <span class="stat-value">{{ player.rating or 'N/A' }}</span>
+                                </td>
+                                <td>{{ player.average_combat_score or 'N/A' }}</td>
+                                <td>{{ player.kill_deaths or 'N/A' }}</td>
+                                <td>{{ player.average_damage_per_round or 'N/A' }}</td>
+                                <td>{{ player.headshot_percentage or 'N/A' }}</td>
+                                <td>
+                                    <a href="/player/{{ player.id }}" class="btn btn-sm btn-outline-primary">
+                                        <i class="fas fa-user"></i> Profile
+                                    </a>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    {% for player in players %}
+    <div class="col-lg-6 col-xl-4 mb-3">
+        <div class="player-card">
+            <div class="d-flex justify-content-between align-items-start mb-2">
+                <h6 class="mb-0">
+                    <a href="/player/{{ player.id }}" class="text-decoration-none">
+                        {{ player.name }}
+                    </a>
+                </h6>
+                <span class="team-badge">{{ team_name }}</span>
+            </div>
+            
+            <div class="row text-center">
+                <div class="col-4">
+                    <small class="text-muted">Rating</small>
+                    <div class="stat-value">{{ player.rating or 'N/A' }}</div>
+                </div>
+                <div class="col-4">
+                    <small class="text-muted">ACS</small>
+                    <div class="stat-value">{{ player.average_combat_score or 'N/A' }}</div>
+                </div>
+                <div class="col-4">
+                    <small class="text-muted">K/D</small>
+                    <div class="stat-value">{{ player.kill_deaths or 'N/A' }}</div>
+                </div>
+            </div>
+            
+            <div class="row text-center mt-2">
+                <div class="col-4">
+                    <small class="text-muted">ADR</small>
+                    <div class="small">{{ player.average_damage_per_round or 'N/A' }}</div>
+                </div>
+                <div class="col-4">
+                    <small class="text-muted">HS%</small>
+                    <div class="small">{{ player.headshot_percentage or 'N/A' }}</div>
+                </div>
+                <div class="col-4">
+                    <small class="text-muted">KAST</small>
+                    <div class="small">{{ player.kill_assists_survived_traded or 'N/A' }}</div>
+                </div>
+            </div>
+            
+            <div class="mt-3">
+                <a href="/player/{{ player.id }}" class="btn btn-outline-primary btn-sm w-100">
+                    <i class="fas fa-user"></i> View Profile
+                </a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-chart-bar"></i> Team Statistics Summary</h5>
+            </div>
+            <div class="card-body">
+                <div class="row text-center">
+                    <div class="col-md-3">
+                        <div class="stat-card p-3">
+                            <h6 class="text-white">Total Players</h6>
+                            <div class="display-6 text-white">{{ players|length }}</div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="stat-card p-3">
+                            <h6 class="text-white">Team</h6>
+                            <div class="h4 text-white">{{ team_name }}</div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="stat-card p-3">
+                            <h6 class="text-white">Data Source</h6>
+                            <div class="h4 text-white">VLR.gg</div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="stat-card p-3">
+                            <h6 class="text-white">Status</h6>
+                            <div class="h4 text-white">Active</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% else %}
+<div class="row">
+    <div class="col-12">
+        <div class="text-center py-5">
+            <i class="fas fa-users fa-3x text-muted mb-3"></i>
+            <h4>No players found for {{ team_name }}</h4>
+            <p class="text-muted">
+                This team doesn't have any players in the database yet. Try updating the data to fetch the latest roster information.
+            </p>
+            <button class="btn btn-primary" onclick="updateData()">
+                <i class="fas fa-sync-alt"></i> Update Data
+            </button>
+        </div>
+    </div>
+</div>
+{% endif %}
+{% endblock %}

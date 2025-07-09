@@ -1,0 +1,162 @@
+{% extends "base.html" %}
+
+{% block title %}VLR Stats - Players{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <h1><i class="fas fa-users"></i> Players</h1>
+        <p class="text-muted">Browse and search through all Valorant professional players</p>
+    </div>
+</div>
+
+<div class="row mb-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <form method="GET" class="row g-3">
+                    <div class="col-md-6">
+                        <label for="search" class="form-label">Search Players</label>
+                        <input type="text" class="form-control" id="search" name="search" 
+                               placeholder="Enter player name..." value="{{ search }}">
+                    </div>
+                    <div class="col-md-4">
+                        <label for="team" class="form-label">Filter by Team</label>
+                        <select class="form-select" id="team" name="team">
+                            <option value="">All Teams</option>
+                            {% for team in teams %}
+                            <option value="{{ team }}" {% if team == team_filter %}selected{% endif %}>
+                                {{ team }}
+                            </option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                        <label class="form-label">&nbsp;</label>
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-search"></i> Search
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col-12">
+        <div class="d-flex justify-content-between align-items-center">
+            <h5>Found {{ players|length }} players</h5>
+            {% if search or team_filter %}
+            <a href="/players" class="btn btn-outline-secondary btn-sm">
+                <i class="fas fa-times"></i> Clear Filters
+            </a>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    {% for player in players %}
+    <div class="col-lg-6 col-xl-4 mb-3">
+        <div class="player-card">
+            <div class="d-flex justify-content-between align-items-start mb-2">
+                <h6 class="mb-0">
+                    <a href="/player/{{ player.id }}" class="text-decoration-none">
+                        {{ player.name }}
+                    </a>
+                </h6>
+                <span class="team-badge">{{ player.team }}</span>
+            </div>
+            
+            <div class="row text-center">
+                <div class="col-4">
+                    <small class="text-muted">Rating</small>
+                    <div class="stat-value">{{ player.rating or 'N/A' }}</div>
+                </div>
+                <div class="col-4">
+                    <small class="text-muted">ACS</small>
+                    <div class="stat-value">{{ player.average_combat_score or 'N/A' }}</div>
+                </div>
+                <div class="col-4">
+                    <small class="text-muted">K/D</small>
+                    <div class="stat-value">{{ player.kill_deaths or 'N/A' }}</div>
+                </div>
+            </div>
+            
+            <div class="row text-center mt-2">
+                <div class="col-6">
+                    <small class="text-muted">ADR</small>
+                    <div class="small">{{ player.average_damage_per_round or 'N/A' }}</div>
+                </div>
+                <div class="col-6">
+                    <small class="text-muted">HS%</small>
+                    <div class="small">{{ player.headshot_percentage or 'N/A' }}</div>
+                </div>
+            </div>
+            
+            <div class="mt-3">
+                <a href="/player/{{ player.id }}" class="btn btn-outline-primary btn-sm w-100">
+                    <i class="fas fa-user"></i> View Profile
+                </a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+{% if not players %}
+<div class="row">
+    <div class="col-12">
+        <div class="text-center py-5">
+            <i class="fas fa-search fa-3x text-muted mb-3"></i>
+            <h4>No players found</h4>
+            <p class="text-muted">
+                {% if search or team_filter %}
+                Try adjusting your search criteria or <a href="/players">clear all filters</a>.
+                {% else %}
+                No player data available. Try updating the database.
+                {% endif %}
+            </p>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h6><i class="fas fa-info-circle"></i> Statistics Legend</h6>
+                <div class="row">
+                    <div class="col-md-6">
+                        <ul class="list-unstyled">
+                            <li><strong>Rating:</strong> Overall performance rating</li>
+                            <li><strong>ACS:</strong> Average Combat Score</li>
+                            <li><strong>K/D:</strong> Kill/Death Ratio</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <ul class="list-unstyled">
+                            <li><strong>ADR:</strong> Average Damage per Round</li>
+                            <li><strong>HS%:</strong> Headshot Percentage</li>
+                            <li><strong>KAST:</strong> Kill, Assist, Survive, Trade %</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Auto-submit form on team selection change
+    document.getElementById('team').addEventListener('change', function() {
+        this.form.submit();
+    });
+</script>
+{% endblock %}
