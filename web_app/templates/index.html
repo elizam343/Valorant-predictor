@@ -1,0 +1,222 @@
+{% extends "base.html" %}
+
+{% block title %}Home - Valorant Kill Line Predictor{% endblock %}
+
+{% block content %}
+<div class="row">
+    <!-- Welcome Section -->
+    <div class="col-12">
+        <div class="jumbotron bg-primary text-white p-4 rounded">
+            <h1 class="display-4">
+                <i class="fas fa-crosshairs"></i> Valorant Kill Line Predictor
+            </h1>
+            <p class="lead">Advanced machine learning predictions for Valorant esports betting. Get data-driven insights to make informed betting decisions.</p>
+            {% if not current_user.is_authenticated %}
+            <a href="{{ url_for('register') }}" class="btn btn-light btn-lg">Get Started</a>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <!-- Quick Stats -->
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body">
+                <i class="fas fa-users fa-2x text-primary mb-2"></i>
+                <h5 class="card-title">Active Players</h5>
+                <h3 class="text-primary" id="active-players-count">--</h3>
+                <p class="card-text text-muted">Tracked in database</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body">
+                <i class="fas fa-chart-line fa-2x text-success mb-2"></i>
+                <h5 class="card-title">Prediction Accuracy</h5>
+                <h3 class="text-success" id="prediction-accuracy">--%</h3>
+                <p class="card-text text-muted">Last 30 days</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body">
+                <i class="fas fa-gamepad fa-2x text-warning mb-2"></i>
+                <h5 class="card-title">Upcoming Matches</h5>
+                <h3 class="text-warning" id="upcoming-matches">--</h3>
+                <p class="card-text text-muted">Next 7 days</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body">
+                <i class="fas fa-trophy fa-2x text-info mb-2"></i>
+                <h5 class="card-title">High Confidence Picks</h5>
+                <h3 class="text-info" id="high-confidence-picks">--</h3>
+                <p class="card-text text-muted">Available now</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <!-- Quick Actions -->
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-bolt"></i> Quick Actions</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-6 mb-3">
+                        <a href="{{ url_for('predictions') }}" class="btn btn-primary w-100">
+                            <i class="fas fa-chart-line"></i><br>
+                            Make Prediction
+                        </a>
+                    </div>
+                    <div class="col-6 mb-3">
+                        <a href="{{ url_for('matches') }}" class="btn btn-success w-100">
+                            <i class="fas fa-gamepad"></i><br>
+                            View Matches
+                        </a>
+                    </div>
+                    <div class="col-6 mb-3">
+                        <a href="{{ url_for('players') }}" class="btn btn-info w-100">
+                            <i class="fas fa-users"></i><br>
+                            Player Stats
+                        </a>
+                    </div>
+                    <div class="col-6 mb-3">
+                        <button class="btn btn-warning w-100" onclick="refreshStats()">
+                            <i class="fas fa-sync-alt"></i><br>
+                            Refresh Data
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Recent Predictions -->
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-history"></i> Recent Predictions</h5>
+            </div>
+            <div class="card-body">
+                <div id="recent-predictions">
+                    <p class="text-muted text-center">Loading recent predictions...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <!-- System Status -->
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-server"></i> System Status</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h6>Data Pipeline</h6>
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="badge bg-success me-2" id="scraper-status">Online</span>
+                            <span>Player Data Scraper</span>
+                        </div>
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="badge bg-success me-2" id="model-status">Online</span>
+                            <span>ML Prediction Model</span>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <span class="badge bg-success me-2" id="api-status">Online</span>
+                            <span>Prediction API</span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <h6>Last Updates</h6>
+                        <p class="mb-1"><small>Player Stats: <span id="last-stats-update">--</span></small></p>
+                        <p class="mb-1"><small>Model Training: <span id="last-model-update">--</span></small></p>
+                        <p class="mb-1"><small>Database: <span id="last-db-update">--</span></small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Quick Prediction Form -->
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-magic"></i> Quick Prediction</h5>
+            </div>
+            <div class="card-body">
+                <form id="quick-prediction-form">
+                    <div class="mb-3">
+                        <label for="player-select" class="form-label">Player</label>
+                        <select class="form-select" id="player-select" required>
+                            <option value="">Select a player...</option>
+                            <!-- TODO: Populate with actual players -->
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="kill-line" class="form-label">Kill Line</label>
+                        <input type="number" class="form-control" id="kill-line" step="0.5" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">
+                        <i class="fas fa-calculator"></i> Get Prediction
+                    </button>
+                </form>
+                <div id="quick-prediction-result" class="mt-3" style="display: none;">
+                    <!-- Prediction result will be displayed here -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+// TODO: Implement JavaScript functionality
+function refreshStats() {
+    // TODO: Implement stats refresh
+    console.log('Refreshing stats...');
+}
+
+function loadDashboardData() {
+    // TODO: Load dashboard data from API
+    console.log('Loading dashboard data...');
+}
+
+// Quick prediction form handler
+document.getElementById('quick-prediction-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+    
+    const player = document.getElementById('player-select').value;
+    const killLine = document.getElementById('kill-line').value;
+    
+    if (!player || !killLine) {
+        alert('Please fill in all fields');
+        return;
+    }
+    
+    // TODO: Implement prediction API call
+    console.log('Making prediction for:', player, 'at kill line:', killLine);
+});
+
+// Load data when page loads
+document.addEventListener('DOMContentLoaded', function() {
+    loadDashboardData();
+});
+</script>
+{% endblock %} 
