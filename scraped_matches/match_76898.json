@@ -1,0 +1,612 @@
+{
+  "date": "2022-03-08 21:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "325",
+          "name": "vaLentina",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "309",
+          "name": "JuW",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "162",
+          "name": "LiNLiN",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "181",
+          "name": "Aleksandra",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "155",
+          "name": "mmonch",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "248",
+          "name": "waifu",
+          "team": "Monterrey Esports Fem"
+        },
+        {
+          "kills": "222",
+          "name": "Dyna",
+          "team": "Monterrey Esports Fem"
+        },
+        {
+          "kills": "192",
+          "name": "Lesi",
+          "team": "Monterrey Esports Fem"
+        },
+        {
+          "kills": "151",
+          "name": "Chocotroll",
+          "team": "Monterrey Esports Fem"
+        },
+        {
+          "kills": "129",
+          "name": "Lulu",
+          "team": "Monterrey Esports Fem"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.59\n1.38\n1.81",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "211\n202\n221",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "10\n6\n4",
+            "kills": "325",
+            "name": "vaLentina",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.44\n1.07\n1.85",
+            "adr": "+11\n0\n+11",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "201\n171\n233",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "1\n1\n0",
+            "kills": "309",
+            "name": "JuW",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.12\n1.27\n0.96",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "93\n111\n73",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "12\n5\n7",
+            "kills": "162",
+            "name": "LiNLiN",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "0.95\n0.89\n1.02",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "130\n128\n134",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "14\n5\n9",
+            "kills": "181",
+            "name": "Aleksandra",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "0.85\n0.25\n1.50",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "116\n79\n157",
+            "hs%": "83%\n67%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "155",
+            "name": "mmonch",
+            "team": "FiRePOWER"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n0.74\n1.55",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "160\n116\n201",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "248",
+            "name": "waifu",
+            "team": "Monterrey Esports Fem"
+          },
+          {
+            "acs": "1.02\n0.88\n1.15",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "173\n174\n172",
+            "hs%": "65%\n45%\n83%",
+            "kdr": "1\n1\n0",
+            "kills": "222",
+            "name": "Dyna",
+            "team": "Monterrey Esports Fem"
+          },
+          {
+            "acs": "0.99\n0.84\n1.13",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "122\n92\n151",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "14\n5\n9",
+            "kills": "192",
+            "name": "Lesi",
+            "team": "Monterrey Esports Fem"
+          },
+          {
+            "acs": "0.65\n0.30\n0.97",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "104\n72\n133",
+            "hs%": "65%\n36%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "151",
+            "name": "Chocotroll",
+            "team": "Monterrey Esports Fem"
+          },
+          {
+            "acs": "0.54\n0.46\n0.60",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "96\n66\n123",
+            "hs%": "57%\n36%\n75%",
+            "kdr": "7\n1\n6",
+            "kills": "129",
+            "name": "Lulu",
+            "team": "Monterrey Esports Fem"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "298",
+          "name": "vaLentina",
+          "team": null
+        },
+        {
+          "kills": "228",
+          "name": "JuW",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "LiNLiN",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "Aleksandra",
+          "team": null
+        },
+        {
+          "kills": "106",
+          "name": "mmonch",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "waifu",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "Lulu",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Dyna",
+          "team": null
+        },
+        {
+          "kills": "118",
+          "name": "Lesi",
+          "team": null
+        },
+        {
+          "kills": "108",
+          "name": "Chocotroll",
+          "team": null
+        },
+        {
+          "kills": "59",
+          "name": "Perse",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.32\n1.95\n1.67",
+            "adr": "+22\n+3\n+19",
+            "agent": "",
+            "assists": "/\n\n24\n15\n9\n\n/",
+            "deaths": "46\n18\n28",
+            "fk": "214\n179\n241",
+            "hs%": "83%\n72%\n91%",
+            "kdr": "19\n10\n9",
+            "kills": "298",
+            "name": "vaLentina",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.65\n1.31",
+            "adr": "+15\n-2\n+17",
+            "agent": "",
+            "assists": "/\n\n27\n16\n11\n\n/",
+            "deaths": "42\n14\n28",
+            "fk": "190\n151\n221",
+            "hs%": "78%\n67%\n87%",
+            "kdr": "8\n2\n6",
+            "kills": "228",
+            "name": "JuW",
+            "team": null
+          },
+          {
+            "acs": "1.25\n1.21\n1.23",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "115\n111\n118",
+            "hs%": "78%\n72%\n83%",
+            "kdr": "15\n7\n8",
+            "kills": "190",
+            "name": "LiNLiN",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.30\n1.06",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "129\n109\n145",
+            "hs%": "83%\n72%\n91%",
+            "kdr": "17\n7\n10",
+            "kills": "149",
+            "name": "Aleksandra",
+            "team": null
+          },
+          {
+            "acs": "0.42\n1.22\n0.87",
+            "adr": "-3\n-10\n+7",
+            "agent": "",
+            "assists": "/\n\n25\n15\n10\n\n/",
+            "deaths": "22\n5\n17",
+            "fk": "114\n84\n137",
+            "hs%": "85%\n72%\n96%",
+            "kdr": "14\n5\n9",
+            "kills": "106",
+            "name": "mmonch",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.80\n1.28\n1.01",
+            "adr": "-1\n-8\n+7",
+            "agent": "",
+            "assists": "/\n\n33\n21\n12\n\n/",
+            "deaths": "32\n13\n19",
+            "fk": "155\n136\n179",
+            "hs%": "63%\n52%\n78%",
+            "kdr": "8\n4\n4",
+            "kills": "191",
+            "name": "waifu",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.97\n0.89",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n31\n19\n12\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "115\n111\n121",
+            "hs%": "59%\n43%\n78%",
+            "kdr": "10\n4\n6",
+            "kills": "162",
+            "name": "Lulu",
+            "team": null
+          },
+          {
+            "acs": "0.60\n1.19\n0.86",
+            "adr": "-6\n-11\n+5",
+            "agent": "",
+            "assists": "/\n\n34\n23\n11\n\n/",
+            "deaths": "28\n12\n16",
+            "fk": "132\n118\n150",
+            "hs%": "56%\n39%\n78%",
+            "kdr": "6\n3\n3",
+            "kills": "173",
+            "name": "Dyna",
+            "team": null
+          },
+          {
+            "acs": "0.49\n1.09\n0.75",
+            "adr": "-12\n-13\n+1",
+            "agent": "",
+            "assists": "/\n\n32\n21\n11\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "97\n72\n130",
+            "hs%": "71%\n57%\n89%",
+            "kdr": "24\n11\n13",
+            "kills": "118",
+            "name": "Lesi",
+            "team": null
+          },
+          {
+            "acs": "0.30\n0.97\n0.65",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "104\n72\n133",
+            "hs%": "65%\n36%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "108",
+            "name": "Chocotroll",
+            "team": null
+          },
+          {
+            "acs": "0.04\n1.17\n0.40",
+            "adr": "-11\n-11\n0",
+            "agent": "",
+            "assists": "/\n\n17\n13\n4\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "75\n36\n152",
+            "hs%": "50%\n42%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "59",
+            "name": "Perse",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "384",
+          "name": "vaLentina",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "231",
+          "name": "LiNLiN",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "276",
+          "name": "Aleksandra",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "293",
+          "name": "JuW",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "180",
+          "name": "mmonch",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "252",
+          "name": "Lulu",
+          "team": "Monterrey Esports Fem"
+        },
+        {
+          "kills": "183",
+          "name": "waifu",
+          "team": "Monterrey Esports Fem"
+        },
+        {
+          "kills": "181",
+          "name": "Dyna",
+          "team": "Monterrey Esports Fem"
+        },
+        {
+          "kills": "146",
+          "name": "Lesi",
+          "team": "Monterrey Esports Fem"
+        },
+        {
+          "kills": "211",
+          "name": "Perse",
+          "team": "Monterrey Esports Fem"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.79\n1.19\n2.09",
+            "adr": "+11\n0\n+11",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "20\n4\n16",
+            "fk": "217\n133\n259",
+            "hs%": "83%\n50%\n100%",
+            "kdr": "9\n4\n5",
+            "kills": "384",
+            "name": "vaLentina",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.37\n1.21\n1.45",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "143\n110\n160",
+            "hs%": "83%\n67%\n92%",
+            "kdr": "3\n2\n1",
+            "kills": "231",
+            "name": "LiNLiN",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.19\n0.46\n1.56",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "127\n72\n155",
+            "hs%": "89%\n67%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "276",
+            "name": "Aleksandra",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.15\n0.51\n1.47",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "176\n109\n209",
+            "hs%": "78%\n50%\n92%",
+            "kdr": "7\n1\n6",
+            "kills": "293",
+            "name": "JuW",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "0.90\n0.76\n0.97",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "111\n94\n119",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "7\n0\n7",
+            "kills": "180",
+            "name": "mmonch",
+            "team": "FiRePOWER"
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n1.18\n1.70",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "141\n152\n119",
+            "hs%": "61%\n50%\n83%",
+            "kdr": "3\n3\n0",
+            "kills": "252",
+            "name": "Lulu",
+            "team": "Monterrey Esports Fem"
+          },
+          {
+            "acs": "0.82\n0.86\n0.74",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "149\n155\n136",
+            "hs%": "56%\n50%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "183",
+            "name": "waifu",
+            "team": "Monterrey Esports Fem"
+          },
+          {
+            "acs": "0.65\n0.34\n1.26",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n13\n2\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "79\n66\n105",
+            "hs%": "44%\n33%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "181",
+            "name": "Dyna",
+            "team": "Monterrey Esports Fem"
+          },
+          {
+            "acs": "0.45\n0.18\n1.00",
+            "adr": "-10\n-10\n0",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "66\n54\n90",
+            "hs%": "61%\n50%\n83%",
+            "kdr": "10\n6\n4",
+            "kills": "146",
+            "name": "Lesi",
+            "team": "Monterrey Esports Fem"
+          },
+          {
+            "acs": "0.40\n0.04\n1.17",
+            "adr": "-11\n-11\n0",
+            "agent": "",
+            "assists": "/\n\n17\n13\n4\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "75\n36\n152",
+            "hs%": "50%\n42%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "211",
+            "name": "Perse",
+            "team": "Monterrey Esports Fem"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 76898,
+  "teams": [
+    "Monterrey Esports Fem",
+    "FiRePOWER"
+  ],
+  "tournament": "Latin America: North: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

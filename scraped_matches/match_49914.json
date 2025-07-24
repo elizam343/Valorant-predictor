@@ -1,0 +1,594 @@
+{
+  "date": "2021-11-07 07:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "378",
+          "name": "STYRON",
+          "team": "Huat Zai"
+        },
+        {
+          "kills": "256",
+          "name": "nephh",
+          "team": "Huat Zai"
+        },
+        {
+          "kills": "275",
+          "name": "splashske",
+          "team": "Huat Zai"
+        },
+        {
+          "kills": "230",
+          "name": "dzii",
+          "team": "Huat Zai"
+        },
+        {
+          "kills": "158",
+          "name": "Salvestro",
+          "team": "Huat Zai"
+        },
+        {
+          "kills": "208",
+          "name": "KelmerKorKor",
+          "team": "The Kor Kors"
+        },
+        {
+          "kills": "144",
+          "name": "ViP3RDuDeZz",
+          "team": "The Kor Kors"
+        },
+        {
+          "kills": "97",
+          "name": "Joossshua",
+          "team": "The Kor Kors"
+        },
+        {
+          "kills": "71",
+          "name": "klein",
+          "team": "The Kor Kors"
+        },
+        {
+          "kills": "40",
+          "name": "Dissimilar",
+          "team": "The Kor Kors"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "2.61\n1.89\n2.67",
+            "adr": "+20\n+1\n+19",
+            "agent": "",
+            "assists": "/\n\n0\n0\n0\n\n/",
+            "deaths": "20\n1\n19",
+            "fk": "267\n78\n283",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "378",
+            "name": "STYRON",
+            "team": "Huat Zai"
+          },
+          {
+            "acs": "1.53\n2.23\n1.47",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n4\n0\n4\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "140\n135\n140",
+            "hs%": "92%\n100%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "256",
+            "name": "nephh",
+            "team": "Huat Zai"
+          },
+          {
+            "acs": "1.46\n1.72\n1.43",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "14\n1\n13",
+            "fk": "175\n105\n181",
+            "hs%": "85%\n100%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "275",
+            "name": "splashske",
+            "team": "Huat Zai"
+          },
+          {
+            "acs": "1.33\n2.03\n1.28",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "132\n221\n125",
+            "hs%": "92%\n100%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "230",
+            "name": "dzii",
+            "team": "Huat Zai"
+          },
+          {
+            "acs": "0.95\n0.02\n1.05",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "110\n50\n115",
+            "hs%": "92%\n100%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "158",
+            "name": "Salvestro",
+            "team": "Huat Zai"
+          }
+        ],
+        [
+          {
+            "acs": "0.76\n0.87\n0.01",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "9\n9\n0",
+            "fk": "129\n140",
+            "hs%": "62%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "208",
+            "name": "KelmerKorKor",
+            "team": "The Kor Kors"
+          },
+          {
+            "acs": "0.49\n0.34\n2.34",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "92\n82\n217",
+            "hs%": "38%\n33%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "144",
+            "name": "ViP3RDuDeZz",
+            "team": "The Kor Kors"
+          },
+          {
+            "acs": "0.27\n0.28\n0.21",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "71\n72\n55",
+            "hs%": "38%\n33%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "97",
+            "name": "Joossshua",
+            "team": "The Kor Kors"
+          },
+          {
+            "acs": "0.25\n0.32\n0.01",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "2\n2\n0",
+            "fk": "64\n69",
+            "hs%": "38%\n42%",
+            "kdr": "2\n2\n0",
+            "kills": "71",
+            "name": "klein",
+            "team": "The Kor Kors"
+          },
+          {
+            "acs": "0.07\n0.08\n0.02",
+            "adr": "-12\n-11\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "1\n1\n0",
+            "fk": "32\n34",
+            "hs%": "8%\n8%",
+            "kdr": "0\n0\n0",
+            "kills": "40",
+            "name": "Dissimilar",
+            "team": "The Kor Kors"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "247",
+          "name": "STYRON",
+          "team": null
+        },
+        {
+          "kills": "286",
+          "name": "nephh",
+          "team": null
+        },
+        {
+          "kills": "231",
+          "name": "splashske",
+          "team": null
+        },
+        {
+          "kills": "270",
+          "name": "Salvestro",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "dzii",
+          "team": null
+        },
+        {
+          "kills": "251",
+          "name": "KelmerKorKor",
+          "team": null
+        },
+        {
+          "kills": "127",
+          "name": "klein",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "Joossshua",
+          "team": null
+        },
+        {
+          "kills": "84",
+          "name": "Dissimilar",
+          "team": null
+        },
+        {
+          "kills": "104",
+          "name": "ViP3RDuDeZz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.87\n2.10\n2.01",
+            "adr": "+30\n+12\n+18",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "37\n14\n23",
+            "fk": "207\n169\n235",
+            "hs%": "97%\n100%\n94%",
+            "kdr": "9\n3\n6",
+            "kills": "247",
+            "name": "STYRON",
+            "team": null
+          },
+          {
+            "acs": "1.60\n1.33\n1.44",
+            "adr": "+14\n+7\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "163\n198\n138",
+            "hs%": "77%\n69%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "286",
+            "name": "nephh",
+            "team": null
+          },
+          {
+            "acs": "1.32\n1.32\n1.32",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "29\n11\n18",
+            "fk": "165\n152\n174",
+            "hs%": "87%\n92%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "231",
+            "name": "splashske",
+            "team": null
+          },
+          {
+            "acs": "1.38\n1.15\n1.24",
+            "adr": "+10\n+6\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "146\n158\n137",
+            "hs%": "84%\n77%\n89%",
+            "kdr": "11\n5\n6",
+            "kills": "270",
+            "name": "Salvestro",
+            "team": null
+          },
+          {
+            "acs": "1.30\n1.16\n1.22",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "121\n129\n115",
+            "hs%": "90%\n100%\n83%",
+            "kdr": "13\n8\n5",
+            "kills": "243",
+            "name": "dzii",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n0.21\n0.71",
+            "adr": "-9\n+1\n-10",
+            "agent": "",
+            "assists": "/\n\n28\n15\n13\n\n/",
+            "deaths": "19\n16\n3",
+            "fk": "114\n156\n56",
+            "hs%": "55%\n67%\n38%",
+            "kdr": "2\n2\n0",
+            "kills": "251",
+            "name": "KelmerKorKor",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.89\n0.69",
+            "adr": "-14\n-8\n-6",
+            "agent": "",
+            "assists": "/\n\n28\n16\n12\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "119\n81\n172",
+            "hs%": "48%\n56%\n38%",
+            "kdr": "2\n2\n0",
+            "kills": "127",
+            "name": "klein",
+            "team": null
+          },
+          {
+            "acs": "0.51\n0.48\n0.50",
+            "adr": "-14\n-8\n-6",
+            "agent": "",
+            "assists": "/\n\n28\n16\n12\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "91\n89\n93",
+            "hs%": "42%\n44%\n38%",
+            "kdr": "5\n4\n1",
+            "kills": "143",
+            "name": "Joossshua",
+            "team": null
+          },
+          {
+            "acs": "0.21\n0.71\n0.42",
+            "adr": "-18\n-14\n-4",
+            "agent": "",
+            "assists": "/\n\n31\n18\n13\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "93\n62\n134",
+            "hs%": "29%\n22%\n38%",
+            "kdr": "3\n2\n1",
+            "kills": "84",
+            "name": "Dissimilar",
+            "team": null
+          },
+          {
+            "acs": "0.44\n0.29\n0.37",
+            "adr": "-20\n-11\n-9",
+            "agent": "",
+            "assists": "/\n\n29\n16\n13\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "75\n80\n68",
+            "hs%": "42%\n44%\n38%",
+            "kdr": "8\n6\n2",
+            "kills": "104",
+            "name": "ViP3RDuDeZz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "174",
+          "name": "STYRON",
+          "team": "Huat Zai"
+        },
+        {
+          "kills": "289",
+          "name": "Salvestro",
+          "team": "Huat Zai"
+        },
+        {
+          "kills": "164",
+          "name": "nephh",
+          "team": "Huat Zai"
+        },
+        {
+          "kills": "246",
+          "name": "splashske",
+          "team": "Huat Zai"
+        },
+        {
+          "kills": "125",
+          "name": "dzii",
+          "team": "Huat Zai"
+        },
+        {
+          "kills": "229",
+          "name": "klein",
+          "team": "The Kor Kors"
+        },
+        {
+          "kills": "89",
+          "name": "KelmerKorKor",
+          "team": "The Kor Kors"
+        },
+        {
+          "kills": "217",
+          "name": "Dissimilar",
+          "team": "The Kor Kors"
+        },
+        {
+          "kills": "164",
+          "name": "Joossshua",
+          "team": "The Kor Kors"
+        },
+        {
+          "kills": "65",
+          "name": "ViP3RDuDeZz",
+          "team": "The Kor Kors"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.57\n1.87\n0.98",
+            "adr": "+10\n+11\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "164\n177\n137",
+            "hs%": "94%\n100%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "174",
+            "name": "STYRON",
+            "team": "Huat Zai"
+          },
+          {
+            "acs": "1.45\n1.49\n1.37",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "172\n167\n181",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "289",
+            "name": "Salvestro",
+            "team": "Huat Zai"
+          },
+          {
+            "acs": "1.38\n1.55\n1.04",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "180\n204\n133",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "164",
+            "name": "nephh",
+            "team": "Huat Zai"
+          },
+          {
+            "acs": "1.22\n1.28\n1.08",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "158\n156\n161",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "6\n5\n1",
+            "kills": "246",
+            "name": "splashske",
+            "team": "Huat Zai"
+          },
+          {
+            "acs": "1.13\n1.24\n0.91",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "112\n121\n96",
+            "hs%": "89%\n100%\n67%",
+            "kdr": "8\n7\n1",
+            "kills": "125",
+            "name": "dzii",
+            "team": "Huat Zai"
+          }
+        ],
+        [
+          {
+            "acs": "1.00\n1.08\n0.96",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "159\n106\n186",
+            "hs%": "56%\n83%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "229",
+            "name": "klein",
+            "team": "The Kor Kors"
+          },
+          {
+            "acs": "0.68\n1.59\n0.22",
+            "adr": "-5\n+4\n-9",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "103\n189\n61",
+            "hs%": "50%\n67%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "89",
+            "name": "KelmerKorKor",
+            "team": "The Kor Kors"
+          },
+          {
+            "acs": "0.67\n0.48\n0.77",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "137\n119\n146",
+            "hs%": "44%\n50%\n42%",
+            "kdr": "3\n2\n1",
+            "kills": "217",
+            "name": "Dissimilar",
+            "team": "The Kor Kors"
+          },
+          {
+            "acs": "0.66\n0.97\n0.50",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "105\n123\n96",
+            "hs%": "44%\n67%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "164",
+            "name": "Joossshua",
+            "team": "The Kor Kors"
+          },
+          {
+            "acs": "0.29\n0.64\n0.11",
+            "adr": "-13\n-3\n-10",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "62\n76\n55",
+            "hs%": "44%\n67%\n33%",
+            "kdr": "7\n5\n2",
+            "kills": "65",
+            "name": "ViP3RDuDeZz",
+            "team": "The Kor Kors"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 49914,
+  "teams": [
+    "The Kor Kors",
+    "Huat Zai"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tQuarterfinals"
+}

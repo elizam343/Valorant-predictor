@@ -1,0 +1,612 @@
+{
+  "date": "2022-05-01 00:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "279",
+          "name": "Sleepycakey",
+          "team": "Not Your Business Female"
+        },
+        {
+          "kills": "230",
+          "name": "PSYCHO",
+          "team": "Not Your Business Female"
+        },
+        {
+          "kills": "163",
+          "name": "Naove",
+          "team": "Not Your Business Female"
+        },
+        {
+          "kills": "117",
+          "name": "Kibbow",
+          "team": "Not Your Business Female"
+        },
+        {
+          "kills": "144",
+          "name": "takeL",
+          "team": "Not Your Business Female"
+        },
+        {
+          "kills": "262",
+          "name": "cuppycake",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "300",
+          "name": "mimii",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "277",
+          "name": "Dolph",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "192",
+          "name": "ceachy",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "133",
+          "name": "casey",
+          "team": "Quintuplet"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.17\n1.09\n1.31",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "171\n148\n211",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "4\n4\n0",
+            "kills": "279",
+            "name": "Sleepycakey",
+            "team": "Not Your Business Female"
+          },
+          {
+            "acs": "1.04\n1.04\n1.05",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "128\n124\n135",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "7\n5\n2",
+            "kills": "230",
+            "name": "PSYCHO",
+            "team": "Not Your Business Female"
+          },
+          {
+            "acs": "0.69\n0.71\n0.65",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "106\n108\n101",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "6\n3\n3",
+            "kills": "163",
+            "name": "Naove",
+            "team": "Not Your Business Female"
+          },
+          {
+            "acs": "0.58\n0.53\n0.65",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "91\n89\n94",
+            "hs%": "42%\n42%\n43%",
+            "kdr": "2\n1\n1",
+            "kills": "117",
+            "name": "Kibbow",
+            "team": "Not Your Business Female"
+          },
+          {
+            "acs": "0.45\n0.45\n0.44",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "94\n88\n105",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "6\n4\n2",
+            "kills": "144",
+            "name": "takeL",
+            "team": "Not Your Business Female"
+          }
+        ],
+        [
+          {
+            "acs": "1.64\n1.67\n1.62",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "161\n174\n154",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "8\n3\n5",
+            "kills": "262",
+            "name": "cuppycake",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.49\n1.15\n1.68",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "171\n158\n178",
+            "hs%": "89%\n86%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "300",
+            "name": "mimii",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.29\n1.18\n1.35",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "192\n188\n194",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "277",
+            "name": "Dolph",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.09\n1.79\n0.67",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "136\n189\n106",
+            "hs%": "84%\n100%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "192",
+            "name": "ceachy",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.57\n0.14\n0.82",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "94\n64\n111",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "133",
+            "name": "casey",
+            "team": "Quintuplet"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "228",
+          "name": "Sleepycakey",
+          "team": null
+        },
+        {
+          "kills": "244",
+          "name": "Naove",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "PSYCHO",
+          "team": null
+        },
+        {
+          "kills": "118",
+          "name": "Majesty",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "Kibbow",
+          "team": null
+        },
+        {
+          "kills": "102",
+          "name": "takeL",
+          "team": null
+        },
+        {
+          "kills": "323",
+          "name": "Dolph",
+          "team": null
+        },
+        {
+          "kills": "241",
+          "name": "cuppycake",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "mimii",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "ceachy",
+          "team": null
+        },
+        {
+          "kills": "107",
+          "name": "casey",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.93\n1.56\n1.25",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n33\n17\n16\n\n/",
+            "deaths": "36\n13\n23",
+            "fk": "188\n147\n229",
+            "hs%": "71%\n68%\n74%",
+            "kdr": "11\n7\n4",
+            "kills": "228",
+            "name": "Sleepycakey",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.83\n0.94",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "28\n16\n12",
+            "fk": "129\n152\n106",
+            "hs%": "68%\n68%\n68%",
+            "kdr": "7\n4\n3",
+            "kills": "244",
+            "name": "Naove",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.88\n0.93",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n30\n16\n14\n\n/",
+            "deaths": "28\n15\n13",
+            "fk": "119\n115\n123",
+            "hs%": "71%\n79%\n63%",
+            "kdr": "15\n10\n5",
+            "kills": "210",
+            "name": "PSYCHO",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.75\n0.73",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "102\n67\n123",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "118",
+            "name": "Majesty",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.65\n0.58",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "91\n89\n94",
+            "hs%": "42%\n42%\n43%",
+            "kdr": "2\n1\n1",
+            "kills": "121",
+            "name": "Kibbow",
+            "team": null
+          },
+          {
+            "acs": "0.29\n0.48\n0.37",
+            "adr": "-22\n-12\n-10",
+            "agent": "",
+            "assists": "/\n\n35\n18\n17\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "82\n65\n99",
+            "hs%": "63%\n63%\n63%",
+            "kdr": "17\n7\n10",
+            "kills": "102",
+            "name": "takeL",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.50\n1.53\n1.52",
+            "adr": "+18\n+9\n+9",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "45\n22\n23",
+            "fk": "214\n214\n214",
+            "hs%": "76%\n68%\n84%",
+            "kdr": "12\n4\n8",
+            "kills": "323",
+            "name": "Dolph",
+            "team": null
+          },
+          {
+            "acs": "1.52\n1.46\n1.49",
+            "adr": "+14\n+8\n+6",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "33\n18\n15",
+            "fk": "141\n147\n134",
+            "hs%": "82%\n74%\n89%",
+            "kdr": "19\n11\n8",
+            "kills": "241",
+            "name": "cuppycake",
+            "team": null
+          },
+          {
+            "acs": "1.10\n1.26\n1.18",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n28\n14\n14\n\n/",
+            "deaths": "36\n17\n19",
+            "fk": "141\n130\n152",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "6\n2\n4",
+            "kills": "233",
+            "name": "mimii",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.02\n0.95",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "121\n118\n123",
+            "hs%": "74%\n74%\n74%",
+            "kdr": "7\n3\n4",
+            "kills": "168",
+            "name": "ceachy",
+            "team": null
+          },
+          {
+            "acs": "0.50\n0.95\n0.73",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n24\n14\n10\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "93\n86\n100",
+            "hs%": "74%\n63%\n84%",
+            "kdr": "12\n6\n6",
+            "kills": "107",
+            "name": "casey",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "396",
+          "name": "Sleepycakey",
+          "team": "Not Your Business Female"
+        },
+        {
+          "kills": "173",
+          "name": "Naove",
+          "team": "Not Your Business Female"
+        },
+        {
+          "kills": "182",
+          "name": "PSYCHO",
+          "team": "Not Your Business Female"
+        },
+        {
+          "kills": "172",
+          "name": "Majesty",
+          "team": "Not Your Business Female"
+        },
+        {
+          "kills": "121",
+          "name": "takeL",
+          "team": "Not Your Business Female"
+        },
+        {
+          "kills": "434",
+          "name": "Dolph",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "143",
+          "name": "cuppycake",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "179",
+          "name": "mimii",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "120",
+          "name": "casey",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "253",
+          "name": "ceachy",
+          "team": "Quintuplet"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.32\n0.67\n1.70",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "18\n3\n15",
+            "fk": "205\n145\n240",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "396",
+            "name": "Sleepycakey",
+            "team": "Not Your Business Female"
+          },
+          {
+            "acs": "1.19\n1.63\n0.94",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "153\n228\n109",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "173",
+            "name": "Naove",
+            "team": "Not Your Business Female"
+          },
+          {
+            "acs": "0.81\n0.85\n0.79",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "110\n99\n116",
+            "hs%": "68%\n86%\n58%",
+            "kdr": "8\n5\n3",
+            "kills": "182",
+            "name": "PSYCHO",
+            "team": "Not Your Business Female"
+          },
+          {
+            "acs": "0.73\n0.71\n0.75",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "102\n67\n123",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "172",
+            "name": "Majesty",
+            "team": "Not Your Business Female"
+          },
+          {
+            "acs": "0.30\n0.03\n0.50",
+            "adr": "-13\n-6\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "70\n27\n96",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "11\n3\n8",
+            "kills": "121",
+            "name": "takeL",
+            "team": "Not Your Business Female"
+          }
+        ],
+        [
+          {
+            "acs": "1.74\n1.69\n1.84",
+            "adr": "+13\n+8\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "27\n16\n11",
+            "fk": "236\n229\n249",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "9\n3\n6",
+            "kills": "434",
+            "name": "Dolph",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.34\n1.43\n1.19",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "120\n132\n100",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "11\n8\n3",
+            "kills": "143",
+            "name": "cuppycake",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.88\n1.08\n0.55",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "111\n113\n107",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "2\n1\n1",
+            "kills": "179",
+            "name": "mimii",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.88\n0.71\n1.17",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "92\n99\n80",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "7\n5\n2",
+            "kills": "120",
+            "name": "casey",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.82\n0.35\n1.62",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "105\n77\n152",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "1\n1\n0",
+            "kills": "253",
+            "name": "ceachy",
+            "team": "Quintuplet"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 95202,
+  "teams": [
+    "Not Your Business Female",
+    "Quintuplet"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup N"
+}

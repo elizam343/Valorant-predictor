@@ -1,0 +1,788 @@
+{
+  "date": "2023-02-05 02:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "276",
+          "name": "Cobolt",
+          "team": "The Who?"
+        },
+        {
+          "kills": "251",
+          "name": "vizsla",
+          "team": "The Who?"
+        },
+        {
+          "kills": "159",
+          "name": "BAZZ",
+          "team": "The Who?"
+        },
+        {
+          "kills": "182",
+          "name": "harry",
+          "team": "The Who?"
+        },
+        {
+          "kills": "141",
+          "name": "Zauqk",
+          "team": "The Who?"
+        },
+        {
+          "kills": "224",
+          "name": "kwon",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "234",
+          "name": "DARK",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "198",
+          "name": "Blessed",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "189",
+          "name": "loubert",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "147",
+          "name": "azuliate",
+          "team": "Mammoth ESC"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.58\n2.19\n1.12",
+            "adr": "+10\n+10\n0",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "173\n252\n114",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "276",
+            "name": "Cobolt",
+            "team": "The Who?"
+          },
+          {
+            "acs": "1.04\n1.16\n0.95",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "148\n129\n162",
+            "hs%": "62%\n78%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "251",
+            "name": "vizsla",
+            "team": "The Who?"
+          },
+          {
+            "acs": "0.94\n1.53\n0.50",
+            "adr": "-1\n+5\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "107\n141\n81",
+            "hs%": "62%\n78%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "159",
+            "name": "BAZZ",
+            "team": "The Who?"
+          },
+          {
+            "acs": "0.86\n0.96\n0.79",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "132\n130\n133",
+            "hs%": "67%\n89%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "182",
+            "name": "harry",
+            "team": "The Who?"
+          },
+          {
+            "acs": "0.80\n0.99\n0.66",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "92\n74\n107",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "141",
+            "name": "Zauqk",
+            "team": "The Who?"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.78\n0.54",
+            "adr": "+5\n+10\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "113\n150\n64",
+            "hs%": "71%\n92%\n44%",
+            "kdr": "8\n4\n4",
+            "kills": "224",
+            "name": "kwon",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "1.09\n1.60\n0.40",
+            "adr": "+3\n+7\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "160\n206\n98",
+            "hs%": "57%\n75%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "234",
+            "name": "DARK",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "0.85\n0.90\n0.79",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "129\n133\n123",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "6\n6\n0",
+            "kills": "198",
+            "name": "Blessed",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "0.80\n1.07\n0.45",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "130\n156\n95",
+            "hs%": "57%\n67%\n44%",
+            "kdr": "7\n6\n1",
+            "kills": "189",
+            "name": "loubert",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "0.73\n0.74\n0.71",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "109\n110\n107",
+            "hs%": "62%\n83%\n33%",
+            "kdr": "4\n3\n1",
+            "kills": "147",
+            "name": "azuliate",
+            "team": "Mammoth ESC"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "223",
+          "name": "Cobolt",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "vizsla",
+          "team": null
+        },
+        {
+          "kills": "287",
+          "name": "harry",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "Zauqk",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "BAZZ",
+          "team": null
+        },
+        {
+          "kills": "290",
+          "name": "kwon",
+          "team": null
+        },
+        {
+          "kills": "250",
+          "name": "Blessed",
+          "team": null
+        },
+        {
+          "kills": "270",
+          "name": "DARK",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "azuliate",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "loubert",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.29\n1.32\n1.31",
+            "adr": "+12\n+7\n+5",
+            "agent": "",
+            "assists": "/\n\n45\n15\n30\n\n/",
+            "deaths": "57\n22\n35",
+            "fk": "155\n144\n163",
+            "hs%": "73%\n79%\n69%",
+            "kdr": "24\n12\n12",
+            "kills": "223",
+            "name": "Cobolt",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.02\n1.07",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n49\n17\n32\n\n/",
+            "deaths": "54\n23\n31",
+            "fk": "147\n137\n154",
+            "hs%": "70%\n71%\n69%",
+            "kdr": "15\n5\n10",
+            "kills": "222",
+            "name": "vizsla",
+            "team": null
+          },
+          {
+            "acs": "1.42\n0.66\n0.99",
+            "adr": "-6\n+9\n-15",
+            "agent": "",
+            "assists": "/\n\n51\n18\n33\n\n/",
+            "deaths": "45\n27\n18",
+            "fk": "152\n183\n128",
+            "hs%": "73%\n82%\n67%",
+            "kdr": "19\n8\n11",
+            "kills": "287",
+            "name": "harry",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.99\n0.92",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n47\n19\n28\n\n/",
+            "deaths": "37\n13\n24",
+            "fk": "116\n95\n132",
+            "hs%": "78%\n75%\n81%",
+            "kdr": "29\n14\n15",
+            "kills": "141",
+            "name": "Zauqk",
+            "team": null
+          },
+          {
+            "acs": "1.25\n0.40\n0.77",
+            "adr": "-13\n+9\n-22",
+            "agent": "",
+            "assists": "/\n\n47\n15\n32\n\n/",
+            "deaths": "34\n24\n10",
+            "fk": "94\n125\n69",
+            "hs%": "63%\n79%\n50%",
+            "kdr": "23\n9\n14",
+            "kills": "204",
+            "name": "BAZZ",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.05\n1.32",
+            "adr": "+19\n+22\n-3",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "60\n42\n18",
+            "fk": "150\n173\n120",
+            "hs%": "81%\n92%\n68%",
+            "kdr": "24\n13\n11",
+            "kills": "290",
+            "name": "kwon",
+            "team": null
+          },
+          {
+            "acs": "1.45\n0.95\n1.23",
+            "adr": "+11\n+15\n-4",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "52\n35\n17",
+            "fk": "144\n159\n125",
+            "hs%": "73%\n83%\n61%",
+            "kdr": "19\n15\n4",
+            "kills": "250",
+            "name": "Blessed",
+            "team": null
+          },
+          {
+            "acs": "1.19\n0.51\n0.89",
+            "adr": "0\n+9\n-9",
+            "agent": "",
+            "assists": "/\n\n49\n26\n23\n\n/",
+            "deaths": "49\n35\n14",
+            "fk": "143\n181\n95",
+            "hs%": "70%\n83%\n54%",
+            "kdr": "12\n9\n3",
+            "kills": "270",
+            "name": "DARK",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.95\n0.84",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "42\n26\n16",
+            "fk": "140\n140\n141",
+            "hs%": "69%\n78%\n57%",
+            "kdr": "14\n8\n6",
+            "kills": "216",
+            "name": "azuliate",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.69\n0.76",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "36\n21\n15",
+            "fk": "118\n118\n118",
+            "hs%": "69%\n72%\n64%",
+            "kdr": "23\n16\n7",
+            "kills": "177",
+            "name": "loubert",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "236",
+          "name": "vizsla",
+          "team": "The Who?"
+        },
+        {
+          "kills": "234",
+          "name": "Zauqk",
+          "team": "The Who?"
+        },
+        {
+          "kills": "182",
+          "name": "harry",
+          "team": "The Who?"
+        },
+        {
+          "kills": "214",
+          "name": "Cobolt",
+          "team": "The Who?"
+        },
+        {
+          "kills": "91",
+          "name": "BAZZ",
+          "team": "The Who?"
+        },
+        {
+          "kills": "176",
+          "name": "Blessed",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "204",
+          "name": "DARK",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "141",
+          "name": "kwon",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "163",
+          "name": "azuliate",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "234",
+          "name": "loubert",
+          "team": "Mammoth ESC"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.35\n1.01",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "155\n175\n143",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "7\n1\n6",
+            "kills": "236",
+            "name": "vizsla",
+            "team": "The Who?"
+          },
+          {
+            "acs": "0.92\n0.59\n1.11",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "118\n77\n143",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "234",
+            "name": "Zauqk",
+            "team": "The Who?"
+          },
+          {
+            "acs": "0.88\n1.30\n0.63",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "140\n168\n124",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "182",
+            "name": "harry",
+            "team": "The Who?"
+          },
+          {
+            "acs": "0.83\n0.67\n0.92",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "110\n69\n134",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "214",
+            "name": "Cobolt",
+            "team": "The Who?"
+          },
+          {
+            "acs": "0.68\n1.38\n0.28",
+            "adr": "-6\n+3\n-9",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "98\n162\n61",
+            "hs%": "58%\n86%\n42%",
+            "kdr": "6\n2\n4",
+            "kills": "91",
+            "name": "BAZZ",
+            "team": "The Who?"
+          }
+        ],
+        [
+          {
+            "acs": "1.81\n2.11\n1.29",
+            "adr": "+11\n+11\n0",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "161\n191\n109",
+            "hs%": "79%\n92%\n57%",
+            "kdr": "6\n6\n0",
+            "kills": "176",
+            "name": "Blessed",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "1.17\n1.33\n0.89",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "169\n198\n121",
+            "hs%": "84%\n100%\n57%",
+            "kdr": "8\n6\n2",
+            "kills": "204",
+            "name": "DARK",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "1.00\n1.22\n0.61",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "137\n173\n74",
+            "hs%": "89%\n100%\n71%",
+            "kdr": "4\n3\n1",
+            "kills": "141",
+            "name": "kwon",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "0.80\n0.89\n0.64",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "16\n14\n2",
+            "fk": "160\n179\n127",
+            "hs%": "68%\n83%\n43%",
+            "kdr": "3\n2\n1",
+            "kills": "163",
+            "name": "azuliate",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "0.71\n0.50\n1.07",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "116\n84\n171",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "4\n3\n1",
+            "kills": "234",
+            "name": "loubert",
+            "team": "Mammoth ESC"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "282",
+          "name": "Cobolt",
+          "team": "The Who?"
+        },
+        {
+          "kills": "270",
+          "name": "harry",
+          "team": "The Who?"
+        },
+        {
+          "kills": "212",
+          "name": "vizsla",
+          "team": "The Who?"
+        },
+        {
+          "kills": "206",
+          "name": "Zauqk",
+          "team": "The Who?"
+        },
+        {
+          "kills": "125",
+          "name": "BAZZ",
+          "team": "The Who?"
+        },
+        {
+          "kills": "302",
+          "name": "kwon",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "226",
+          "name": "Blessed",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "231",
+          "name": "azuliate",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "162",
+          "name": "loubert",
+          "team": "Mammoth ESC"
+        },
+        {
+          "kills": "172",
+          "name": "DARK",
+          "team": "Mammoth ESC"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.46\n0.99\n1.93",
+            "adr": "+7\n-2\n+9",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "24\n6\n18",
+            "fk": "175\n108\n242",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "11\n8\n3",
+            "kills": "282",
+            "name": "Cobolt",
+            "team": "The Who?"
+          },
+          {
+            "acs": "1.20\n1.83\n0.57",
+            "adr": "+1\n+7\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "178\n232\n125",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "270",
+            "name": "harry",
+            "team": "The Who?"
+          },
+          {
+            "acs": "1.05\n1.01\n1.09",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "140\n121\n159",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "212",
+            "name": "vizsla",
+            "team": "The Who?"
+          },
+          {
+            "acs": "1.01\n0.83\n1.20",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "135\n122\n147",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "17\n9\n8",
+            "kills": "206",
+            "name": "Zauqk",
+            "team": "The Who?"
+          },
+          {
+            "acs": "0.70\n0.97\n0.42",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "79\n93\n65",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "14\n6\n8",
+            "kills": "125",
+            "name": "BAZZ",
+            "team": "The Who?"
+          }
+        ],
+        [
+          {
+            "acs": "1.64\n1.59\n1.69",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "193\n197\n189",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "12\n6\n6",
+            "kills": "302",
+            "name": "kwon",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "1.10\n1.32\n0.87",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "144\n152\n136",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "226",
+            "name": "Blessed",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "0.97\n0.63\n1.31",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "153\n133\n173",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "231",
+            "name": "azuliate",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "0.75\n0.85\n0.65",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "110\n115\n104",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "12\n7\n5",
+            "kills": "162",
+            "name": "loubert",
+            "team": "Mammoth ESC"
+          },
+          {
+            "acs": "0.50\n0.64\n0.36",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "108\n141\n76",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "172",
+            "name": "DARK",
+            "team": "Mammoth ESC"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 168040,
+  "teams": [
+    "The Who?",
+    "Mammoth ESC"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tWeek 3"
+}

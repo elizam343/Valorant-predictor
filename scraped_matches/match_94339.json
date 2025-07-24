@@ -1,0 +1,788 @@
+{
+  "date": "2022-04-30 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "302",
+          "name": "Will",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "280",
+          "name": "Asuna",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "188",
+          "name": "Derrek",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "183",
+          "name": "stellar",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "148",
+          "name": "bang",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "235",
+          "name": "Dark3st",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "189",
+          "name": "Soto",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "195",
+          "name": "Cohburg",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "218",
+          "name": "zeldris",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "97",
+          "name": "w0rldw1de",
+          "team": "Moon Raccoons"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.62\n1.60\n1.65",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "181\n191\n171",
+            "hs%": "87%\n82%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "302",
+            "name": "Will",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "1.21\n0.27\n2.07",
+            "adr": "+4\n-8\n+12",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "21\n3\n18",
+            "fk": "178\n95\n254",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "9\n6\n3",
+            "kills": "280",
+            "name": "Asuna",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "1.17\n1.33\n1.02",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "120\n160\n84",
+            "hs%": "91%\n82%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "188",
+            "name": "Derrek",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "1.04\n0.68\n1.37",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "121\n94\n146",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "11\n4\n7",
+            "kills": "183",
+            "name": "stellar",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "0.69\n0.76\n0.63",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "102\n107\n98",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "11\n5\n6",
+            "kills": "148",
+            "name": "bang",
+            "team": "100 Thieves"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.01\n1.43",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "163\n152\n176",
+            "hs%": "74%\n58%\n91%",
+            "kdr": "4\n2\n2",
+            "kills": "235",
+            "name": "Dark3st",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "0.97\n0.80\n1.16",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "123\n113\n135",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "1\n0\n1",
+            "kills": "189",
+            "name": "Soto",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "0.97\n0.96\n0.98",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "118\n120\n116",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "7\n2\n5",
+            "kills": "195",
+            "name": "Cohburg",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "0.67\n0.11\n1.28",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "137\n76\n204",
+            "hs%": "48%\n25%\n73%",
+            "kdr": "4\n1\n3",
+            "kills": "218",
+            "name": "zeldris",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "0.57\n0.41\n0.75",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "57\n60\n54",
+            "hs%": "52%\n50%\n55%",
+            "kdr": "11\n4\n7",
+            "kills": "97",
+            "name": "w0rldw1de",
+            "team": "Moon Raccoons"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "291",
+          "name": "Will",
+          "team": null
+        },
+        {
+          "kills": "142",
+          "name": "stellar",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "Asuna",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "Derrek",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "bang",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "w0rldw1de",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "Soto",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "Dark3st",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "Cohburg",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "zeldris",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.38\n1.20\n1.29",
+            "adr": "+15\n+8\n+7",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "62\n35\n27",
+            "fk": "176\n189\n163",
+            "hs%": "74%\n74%\n73%",
+            "kdr": "19\n6\n13",
+            "kills": "291",
+            "name": "Will",
+            "team": null
+          },
+          {
+            "acs": "0.70\n1.32\n1.00",
+            "adr": "0\n-11\n+11",
+            "agent": "",
+            "assists": "/\n\n44\n26\n18\n\n/",
+            "deaths": "44\n15\n29",
+            "fk": "136\n103\n170",
+            "hs%": "74%\n66%\n82%",
+            "kdr": "22\n10\n12",
+            "kills": "142",
+            "name": "stellar",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.19\n1.00",
+            "adr": "+1\n-7\n+8",
+            "agent": "",
+            "assists": "/\n\n51\n29\n22\n\n/",
+            "deaths": "52\n22\n30",
+            "fk": "139\n125\n154",
+            "hs%": "71%\n71%\n70%",
+            "kdr": "15\n11\n4",
+            "kills": "196",
+            "name": "Asuna",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.89\n0.89",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "38\n18\n20",
+            "fk": "118\n123\n113",
+            "hs%": "78%\n80%\n76%",
+            "kdr": "25\n16\n9",
+            "kills": "162",
+            "name": "Derrek",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.66\n0.83",
+            "adr": "-12\n-3\n-9",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "35\n22\n13",
+            "fk": "101\n111\n90",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "24\n13\n11",
+            "kills": "178",
+            "name": "bang",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.99\n1.19\n1.09",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n41\n23\n18\n\n/",
+            "deaths": "46\n21\n25",
+            "fk": "130\n115\n144",
+            "hs%": "75%\n70%\n80%",
+            "kdr": "26\n11\n15",
+            "kills": "177",
+            "name": "w0rldw1de",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.30\n1.04",
+            "adr": "+5\n-5\n+10",
+            "agent": "",
+            "assists": "/\n\n42\n23\n19\n\n/",
+            "deaths": "47\n18\n29",
+            "fk": "117\n98\n134",
+            "hs%": "69%\n64%\n74%",
+            "kdr": "2\n0\n2",
+            "kills": "148",
+            "name": "Soto",
+            "team": null
+          },
+          {
+            "acs": "1.21\n0.80\n1.00",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "47\n26\n21",
+            "fk": "130\n147\n115",
+            "hs%": "74%\n79%\n69%",
+            "kdr": "18\n8\n10",
+            "kills": "220",
+            "name": "Dark3st",
+            "team": null
+          },
+          {
+            "acs": "0.94\n1.00\n0.97",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "43\n20\n23",
+            "fk": "108\n97\n118",
+            "hs%": "78%\n79%\n77%",
+            "kdr": "21\n9\n12",
+            "kills": "165",
+            "name": "Cohburg",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.04\n0.90",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n54\n27\n27\n\n/",
+            "deaths": "56\n23\n33",
+            "fk": "157\n141\n171",
+            "hs%": "62%\n52%\n71%",
+            "kdr": "12\n5\n7",
+            "kills": "215",
+            "name": "zeldris",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "215",
+          "name": "Will",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "314",
+          "name": "stellar",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "165",
+          "name": "Derrek",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "176",
+          "name": "Asuna",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "72",
+          "name": "bang",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "245",
+          "name": "Cohburg",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "280",
+          "name": "w0rldw1de",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "259",
+          "name": "Soto",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "149",
+          "name": "Dark3st",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "167",
+          "name": "zeldris",
+          "team": "Moon Raccoons"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.51\n0.74",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "21\n15\n6",
+            "fk": "192\n233\n142",
+            "hs%": "59%\n67%\n50%",
+            "kdr": "6\n2\n4",
+            "kills": "215",
+            "name": "Will",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "0.89\n0.47\n1.40",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "162\n110\n224",
+            "hs%": "59%\n42%\n80%",
+            "kdr": "5\n3\n2",
+            "kills": "314",
+            "name": "stellar",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "0.79\n0.77\n0.83",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "116\n106\n128",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "7\n5\n2",
+            "kills": "165",
+            "name": "Derrek",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "0.68\n0.84\n0.48",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "102\n90\n116",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "176",
+            "name": "Asuna",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "0.62\n0.86\n0.34",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "70\n88\n48",
+            "hs%": "59%\n75%\n40%",
+            "kdr": "5\n4\n1",
+            "kills": "72",
+            "name": "bang",
+            "team": "100 Thieves"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.04\n1.71",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "139\n111\n162",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "245",
+            "name": "Cohburg",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "1.38\n1.66\n1.16",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "189\n178\n199",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "10\n3\n7",
+            "kills": "280",
+            "name": "w0rldw1de",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "1.26\n0.84\n1.61",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "131\n99\n158",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "0\n0\n0",
+            "kills": "259",
+            "name": "Soto",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "1.18\n1.90\n0.58",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "142\n206\n89",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "149",
+            "name": "Dark3st",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "0.62\n0.65\n0.59",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "87\n77\n96",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "167",
+            "name": "zeldris",
+            "team": "Moon Raccoons"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "195",
+          "name": "bang",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "236",
+          "name": "Asuna",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "221",
+          "name": "Will",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "190",
+          "name": "stellar",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "165",
+          "name": "Derrek",
+          "team": "100 Thieves"
+        },
+        {
+          "kills": "364",
+          "name": "zeldris",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "222",
+          "name": "w0rldw1de",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "156",
+          "name": "Soto",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "128",
+          "name": "Dark3st",
+          "team": "Moon Raccoons"
+        },
+        {
+          "kills": "106",
+          "name": "Cohburg",
+          "team": "Moon Raccoons"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.17\n1.36\n0.97",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "130\n140\n120",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "8\n4\n4",
+            "kills": "195",
+            "name": "bang",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "1.10\n1.29\n0.88",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "136\n187\n80",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "2\n2\n0",
+            "kills": "236",
+            "name": "Asuna",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "1.08\n1.04\n1.13",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "157\n142\n173",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "8\n3\n5",
+            "kills": "221",
+            "name": "Will",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "1.07\n0.95\n1.19",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "125\n105\n147",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "6\n3\n3",
+            "kills": "190",
+            "name": "stellar",
+            "team": "100 Thieves"
+          },
+          {
+            "acs": "0.69\n0.60\n0.80",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "118\n106\n132",
+            "hs%": "78%\n92%\n64%",
+            "kdr": "11\n8\n3",
+            "kills": "165",
+            "name": "Derrek",
+            "team": "100 Thieves"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.54\n1.28",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "28\n15\n13",
+            "fk": "243\n272\n217",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "364",
+            "name": "zeldris",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "1.34\n1.03\n1.63",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "146\n119\n170",
+            "hs%": "91%\n82%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "222",
+            "name": "w0rldw1de",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "0.89\n0.64\n1.13",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "97\n82\n110",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "156",
+            "name": "Soto",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "0.62\n0.82\n0.44",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "86\n87\n86",
+            "hs%": "70%\n91%\n50%",
+            "kdr": "9\n2\n7",
+            "kills": "128",
+            "name": "Dark3st",
+            "team": "Moon Raccoons"
+          },
+          {
+            "acs": "0.56\n0.83\n0.32",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "69\n60\n78",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "106",
+            "name": "Cohburg",
+            "team": "Moon Raccoons"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 94339,
+  "teams": [
+    "100 Thieves",
+    "Moon Raccoons"
+  ],
+  "tournament": "Open Qualifier #1: \n\t\t\t\t\t\tLower Round 2"
+}

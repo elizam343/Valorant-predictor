@@ -1,0 +1,788 @@
+{
+  "date": "2021-05-16 04:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "152",
+          "name": "ting2k5",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "211",
+          "name": "Layla",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "187",
+          "name": "K1LLERS",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "208",
+          "name": "JCun",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "152",
+          "name": "PlayMaker",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "367",
+          "name": "Roy",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "265",
+          "name": "Nh0zKon",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "188",
+          "name": "BMV",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "143",
+          "name": "Sozi",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "125",
+          "name": "Loco",
+          "team": "SBTC Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.12\n1.02",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "106\n106\n105",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "4\n2\n2",
+            "kills": "152",
+            "name": "ting2k5",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.88\n1.11\n0.57",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "145\n150\n138",
+            "hs%": "57%\n58%\n56%",
+            "kdr": "2\n0\n2",
+            "kills": "211",
+            "name": "Layla",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.79\n0.74\n0.86",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "118\n130\n102",
+            "hs%": "48%\n42%\n56%",
+            "kdr": "5\n1\n4",
+            "kills": "187",
+            "name": "K1LLERS",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.74\n0.98\n0.42",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "125\n159\n79",
+            "hs%": "57%\n58%\n56%",
+            "kdr": "3\n2\n1",
+            "kills": "208",
+            "name": "JCun",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.65\n0.96\n0.24",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "93\n121\n57",
+            "hs%": "62%\n83%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "152",
+            "name": "PlayMaker",
+            "team": "Fancy United Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.74\n2.32\n1.30",
+            "adr": "+14\n+11\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "215\n260\n181",
+            "hs%": "81%\n100%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "367",
+            "name": "Roy",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "1.41\n1.15\n1.60",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "177\n115\n224",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "7\n3\n4",
+            "kills": "265",
+            "name": "Nh0zKon",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "0.89\n1.01\n0.80",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "112\n111\n112",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "188",
+            "name": "BMV",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "0.83\n1.36\n0.43",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "78\n85\n73",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "143",
+            "name": "Sozi",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "0.77\n0.70\n0.82",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "75\n52\n92",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "125",
+            "name": "Loco",
+            "team": "SBTC Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "272",
+          "name": "K1LLERS",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "ting2k5",
+          "team": null
+        },
+        {
+          "kills": "252",
+          "name": "Layla",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "JCun",
+          "team": null
+        },
+        {
+          "kills": "142",
+          "name": "PlayMaker",
+          "team": null
+        },
+        {
+          "kills": "303",
+          "name": "Roy",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "Nh0zKon",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "BMV",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Sozi",
+          "team": null
+        },
+        {
+          "kills": "125",
+          "name": "Loco",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.94\n1.50\n1.24",
+            "adr": "+12\n0\n+12",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "56\n23\n33",
+            "fk": "176\n175\n177",
+            "hs%": "71%\n62%\n80%",
+            "kdr": "12\n4\n8",
+            "kills": "272",
+            "name": "K1LLERS",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.34\n1.17",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n32\n18\n14\n\n/",
+            "deaths": "36\n17\n19",
+            "fk": "102\n102\n103",
+            "hs%": "80%\n69%\n90%",
+            "kdr": "28\n7\n21",
+            "kills": "164",
+            "name": "ting2k5",
+            "team": null
+          },
+          {
+            "acs": "1.13\n1.16\n1.15",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "47\n22\n25",
+            "fk": "172\n157\n185",
+            "hs%": "68%\n65%\n70%",
+            "kdr": "13\n3\n10",
+            "kills": "252",
+            "name": "Layla",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.65\n0.72",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n43\n20\n23\n\n/",
+            "deaths": "33\n16\n17",
+            "fk": "113\n129\n100",
+            "hs%": "64%\n65%\n63%",
+            "kdr": "13\n7\n6",
+            "kills": "199",
+            "name": "JCun",
+            "team": null
+          },
+          {
+            "acs": "0.65\n0.75\n0.70",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n42\n21\n21\n\n/",
+            "deaths": "29\n13\n16",
+            "fk": "81\n93\n71",
+            "hs%": "70%\n69%\n70%",
+            "kdr": "20\n5\n15",
+            "kills": "142",
+            "name": "PlayMaker",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n1.72\n1.51",
+            "adr": "+24\n+7\n+17",
+            "agent": "",
+            "assists": "/\n\n39\n23\n16\n\n/",
+            "deaths": "63\n30\n33",
+            "fk": "185\n176\n196",
+            "hs%": "79%\n80%\n77%",
+            "kdr": "10\n7\n3",
+            "kills": "303",
+            "name": "Roy",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.35\n1.10",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n37\n19\n18\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "150\n121\n185",
+            "hs%": "79%\n70%\n88%",
+            "kdr": "20\n7\n13",
+            "kills": "191",
+            "name": "Nh0zKon",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.01\n0.83",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "33\n16\n17",
+            "fk": "109\n94\n127",
+            "hs%": "73%\n67%\n81%",
+            "kdr": "20\n6\n14",
+            "kills": "165",
+            "name": "BMV",
+            "team": null
+          },
+          {
+            "acs": "1.15\n0.42\n0.81",
+            "adr": "-4\n+6\n-10",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "35\n25\n10",
+            "fk": "97\n107\n85",
+            "hs%": "70%\n73%\n65%",
+            "kdr": "13\n8\n5",
+            "kills": "217",
+            "name": "Sozi",
+            "team": null
+          },
+          {
+            "acs": "0.51\n1.01\n0.75",
+            "adr": "-12\n-13\n+1",
+            "agent": "",
+            "assists": "/\n\n42\n24\n18\n\n/",
+            "deaths": "30\n11\n19",
+            "fk": "100\n76\n127",
+            "hs%": "71%\n63%\n81%",
+            "kdr": "14\n9\n5",
+            "kills": "125",
+            "name": "Loco",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "434",
+          "name": "K1LLERS",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "168",
+          "name": "ting2k5",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "297",
+          "name": "Layla",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "189",
+          "name": "JCun",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "153",
+          "name": "PlayMaker",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "134",
+          "name": "Roy",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "143",
+          "name": "Loco",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "304",
+          "name": "BMV",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "120",
+          "name": "Sozi",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "119",
+          "name": "Nh0zKon",
+          "team": "SBTC Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.83\n0.63\n2.03",
+            "adr": "+13\n0\n+13",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "22\n2\n20",
+            "fk": "205\n42\n233",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "434",
+            "name": "K1LLERS",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "1.66\n1.99\n1.61",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "104\n78\n109",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "13\n2\n11",
+            "kills": "168",
+            "name": "ting2k5",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "1.55\n2.34\n1.42",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n6\n0\n6\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "185\n71\n204",
+            "hs%": "79%\n100%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "297",
+            "name": "Layla",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.93\n0.67\n0.97",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "110\n61\n118",
+            "hs%": "79%\n100%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "189",
+            "name": "JCun",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.92\n0.04\n1.07",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "81\n52\n86",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "9\n1\n8",
+            "kills": "153",
+            "name": "PlayMaker",
+            "team": "Fancy United Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.72\n0.78\n0.36",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "121\n139\n15",
+            "hs%": "71%\n67%\n100%",
+            "kdr": "6\n5\n1",
+            "kills": "134",
+            "name": "Roy",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "0.67\n0.72\n0.38",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "111\n120\n52",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "143",
+            "name": "Loco",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "0.58\n0.46\n1.32",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "74\n70\n102",
+            "hs%": "57%\n50%\n100%",
+            "kdr": "1\n0\n1",
+            "kills": "304",
+            "name": "BMV",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "0.58\n0.61\n0.41",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "93\n94\n89",
+            "hs%": "57%\n58%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "120",
+            "name": "Sozi",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "0.53\n0.53\n0.57",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "99\n114\n11",
+            "hs%": "71%\n67%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "119",
+            "name": "Nh0zKon",
+            "team": "SBTC Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "322",
+          "name": "K1LLERS",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "302",
+          "name": "Layla",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "163",
+          "name": "ting2k5",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "113",
+          "name": "PlayMaker",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "166",
+          "name": "JCun",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "358",
+          "name": "Roy",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "235",
+          "name": "Nh0zKon",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "214",
+          "name": "Sozi",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "188",
+          "name": "BMV",
+          "team": "SBTC Esports"
+        },
+        {
+          "kills": "162",
+          "name": "Loco",
+          "team": "SBTC Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.29\n1.19\n1.42",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "214\n242\n177",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "5\n2\n3",
+            "kills": "322",
+            "name": "K1LLERS",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "1.14\n0.96\n1.39",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "190\n179\n206",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "5\n2\n3",
+            "kills": "302",
+            "name": "Layla",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.94\n0.67\n1.29",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "98\n102\n92",
+            "hs%": "76%\n58%\n100%",
+            "kdr": "11\n3\n8",
+            "kills": "163",
+            "name": "ting2k5",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.60\n0.43\n0.83",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "69\n73\n63",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "9\n2\n7",
+            "kills": "113",
+            "name": "PlayMaker",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.55\n0.62\n0.46",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "104\n110\n96",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "7\n5\n2",
+            "kills": "166",
+            "name": "JCun",
+            "team": "Fancy United Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.82\n1.09\n2.36",
+            "adr": "+16\n+1\n+15",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "29\n9\n20",
+            "fk": "198\n141\n241",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "358",
+            "name": "Roy",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "1.18\n1.10\n1.24",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "158\n136\n174",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "9\n1\n8",
+            "kills": "235",
+            "name": "Nh0zKon",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "0.95\n1.66\n0.41",
+            "adr": "+3\n+7\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "117\n146\n95",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "214",
+            "name": "Sozi",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "0.94\n0.66\n1.16",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "130\n110\n145",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "11\n3\n8",
+            "kills": "188",
+            "name": "BMV",
+            "team": "SBTC Esports"
+          },
+          {
+            "acs": "0.77\n0.05\n1.31",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "118\n42\n175",
+            "hs%": "81%\n67%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "162",
+            "name": "Loco",
+            "team": "SBTC Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 18915,
+  "teams": [
+    "Fancy United Esports",
+    "SBTC Esports"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\t3rd Place Match"
+}

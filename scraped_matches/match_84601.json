@@ -1,0 +1,788 @@
+{
+  "date": "2022-04-06 19:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "293",
+          "name": "Tiraye",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "251",
+          "name": "Carlee",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "165",
+          "name": "hannah",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "165",
+          "name": "leelee",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "154",
+          "name": "Lynn",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "294",
+          "name": "showliana",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "260",
+          "name": "Stefanie",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "171",
+          "name": "rain",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "114",
+          "name": "theia",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "149",
+          "name": "EMUHLEET",
+          "team": "Dignitas"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.45\n1.37",
+            "adr": "+13\n+7\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "179\n160\n198",
+            "hs%": "87%\n100%\n73%",
+            "kdr": "7\n4\n3",
+            "kills": "293",
+            "name": "Tiraye",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "1.29\n1.56\n0.99",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "177\n225\n124",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "11\n4\n7",
+            "kills": "251",
+            "name": "Carlee",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "0.90\n0.98\n0.82",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "103\n126\n78",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "4\n3\n1",
+            "kills": "165",
+            "name": "hannah",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "0.65\n0.43\n0.89",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "116\n90\n143",
+            "hs%": "61%\n50%\n73%",
+            "kdr": "3\n1\n2",
+            "kills": "165",
+            "name": "leelee",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "0.56\n0.43\n0.71",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "117\n113\n122",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "6\n4\n2",
+            "kills": "154",
+            "name": "Lynn",
+            "team": "Gen.G Black"
+          }
+        ],
+        [
+          {
+            "acs": "1.50\n1.15\n1.82",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "23\n6\n17",
+            "fk": "191\n133\n243",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "294",
+            "name": "showliana",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "1.24\n1.20\n1.28",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "171\n169\n172",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "260",
+            "name": "Stefanie",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "0.89\n1.23\n0.58",
+            "adr": "-4\n+4\n-8",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "97\n121\n75",
+            "hs%": "57%\n45%\n67%",
+            "kdr": "8\n0\n8",
+            "kills": "171",
+            "name": "rain",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "0.81\n0.68\n0.92",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "77\n77\n78",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "114",
+            "name": "theia",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "0.77\n0.94\n0.61",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "104\n111\n98",
+            "hs%": "57%\n55%\n58%",
+            "kdr": "9\n4\n5",
+            "kills": "149",
+            "name": "EMUHLEET",
+            "team": "Dignitas"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "233",
+          "name": "Tiraye",
+          "team": null
+        },
+        {
+          "kills": "294",
+          "name": "Carlee",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "leelee",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "Lynn",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "hannah",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "showliana",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "rain",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "theia",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Stefanie",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "EMUHLEET",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.32\n1.53\n1.45",
+            "adr": "+27\n+9\n+18",
+            "agent": "",
+            "assists": "/\n\n33\n12\n21\n\n/",
+            "deaths": "60\n21\n39",
+            "fk": "169\n144\n186",
+            "hs%": "88%\n91%\n86%",
+            "kdr": "19\n9\n10",
+            "kills": "233",
+            "name": "Tiraye",
+            "team": null
+          },
+          {
+            "acs": "1.54\n0.84\n1.12",
+            "adr": "+9\n+12\n-3",
+            "agent": "",
+            "assists": "/\n\n36\n14\n22\n\n/",
+            "deaths": "45\n26\n19",
+            "fk": "135\n189\n100",
+            "hs%": "72%\n78%\n69%",
+            "kdr": "18\n7\n11",
+            "kills": "294",
+            "name": "Carlee",
+            "team": null
+          },
+          {
+            "acs": "1.02\n1.18\n1.12",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n32\n13\n19\n\n/",
+            "deaths": "42\n15\n27",
+            "fk": "144\n124\n156",
+            "hs%": "78%\n70%\n83%",
+            "kdr": "16\n7\n9",
+            "kills": "172",
+            "name": "leelee",
+            "team": null
+          },
+          {
+            "acs": "0.35\n1.42\n1.00",
+            "adr": "+7\n-8\n+15",
+            "agent": "",
+            "assists": "/\n\n43\n19\n24\n\n/",
+            "deaths": "50\n11\n39",
+            "fk": "156\n93\n198",
+            "hs%": "71%\n57%\n80%",
+            "kdr": "9\n5\n4",
+            "kills": "137",
+            "name": "Lynn",
+            "team": null
+          },
+          {
+            "acs": "1.11\n0.91\n0.99",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n38\n17\n21\n\n/",
+            "deaths": "38\n17\n21",
+            "fk": "126\n144\n115",
+            "hs%": "83%\n74%\n89%",
+            "kdr": "14\n9\n5",
+            "kills": "220",
+            "name": "hannah",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.95\n1.34\n1.10",
+            "adr": "-3\n-9\n+6",
+            "agent": "",
+            "assists": "/\n\n49\n30\n19\n\n/",
+            "deaths": "46\n21\n25",
+            "fk": "154\n125\n198",
+            "hs%": "72%\n71%\n74%",
+            "kdr": "17\n13\n4",
+            "kills": "193",
+            "name": "showliana",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.90\n1.03",
+            "adr": "-4\n+3\n-7",
+            "agent": "",
+            "assists": "/\n\n46\n28\n18\n\n/",
+            "deaths": "42\n31\n11",
+            "fk": "121\n131\n105",
+            "hs%": "69%\n66%\n74%",
+            "kdr": "19\n7\n12",
+            "kills": "226",
+            "name": "rain",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.90\n0.78",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n45\n28\n17\n\n/",
+            "deaths": "34\n20\n14",
+            "fk": "101\n100\n102",
+            "hs%": "66%\n66%\n65%",
+            "kdr": "11\n6\n5",
+            "kills": "165",
+            "name": "theia",
+            "team": null
+          },
+          {
+            "acs": "0.51\n1.06\n0.73",
+            "adr": "-13\n-13\n0",
+            "agent": "",
+            "assists": "/\n\n47\n30\n17\n\n/",
+            "deaths": "34\n17\n17",
+            "fk": "119\n98\n149",
+            "hs%": "55%\n49%\n65%",
+            "kdr": "9\n6\n3",
+            "kills": "157",
+            "name": "Stefanie",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.61\n0.69",
+            "adr": "-22\n-12\n-10",
+            "agent": "",
+            "assists": "/\n\n48\n30\n18\n\n/",
+            "deaths": "26\n18\n8",
+            "fk": "101\n105\n94",
+            "hs%": "59%\n54%\n65%",
+            "kdr": "29\n16\n13",
+            "kills": "162",
+            "name": "EMUHLEET",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "385",
+          "name": "Tiraye",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "430",
+          "name": "Lynn",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "206",
+          "name": "leelee",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "110",
+          "name": "hannah",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "121",
+          "name": "Carlee",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "222",
+          "name": "rain",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "289",
+          "name": "showliana",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "197",
+          "name": "EMUHLEET",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "187",
+          "name": "theia",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "79",
+          "name": "Stefanie",
+          "team": "Dignitas"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.49\n0.63\n1.92",
+            "adr": "+6\n-3\n+9",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "18\n1\n17",
+            "fk": "169\n46\n231",
+            "hs%": "83%\n67%\n92%",
+            "kdr": "9\n5\n4",
+            "kills": "385",
+            "name": "Tiraye",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "1.40\n0.23\n1.99",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "23\n3\n20",
+            "fk": "210\n94\n267",
+            "hs%": "72%\n33%\n92%",
+            "kdr": "0\n0\n0",
+            "kills": "430",
+            "name": "Lynn",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "1.30\n1.49\n1.21",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "157\n154\n158",
+            "hs%": "94%\n83%\n100%",
+            "kdr": "8\n5\n3",
+            "kills": "206",
+            "name": "leelee",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "1.03\n1.85\n0.61",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "121\n193\n85",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "110",
+            "name": "hannah",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "0.86\n1.49\n0.55",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "101\n140\n81",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "121",
+            "name": "Carlee",
+            "team": "Gen.G Black"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n1.56\n1.05",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "156\n167\n133",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "8\n5\n3",
+            "kills": "222",
+            "name": "rain",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "1.07\n1.09\n1.04",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "178\n164\n206",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "8\n7\n1",
+            "kills": "289",
+            "name": "showliana",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "0.65\n0.43\n1.08",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "102\n99\n110",
+            "hs%": "56%\n42%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "197",
+            "name": "EMUHLEET",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "0.64\n0.48\n0.95",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "114\n114\n114",
+            "hs%": "67%\n58%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "187",
+            "name": "theia",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "0.36\n0.27\n0.53",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "81\n90\n63",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "79",
+            "name": "Stefanie",
+            "team": "Dignitas"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "237",
+          "name": "leelee",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "244",
+          "name": "Tiraye",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "202",
+          "name": "Carlee",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "248",
+          "name": "Lynn",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "240",
+          "name": "hannah",
+          "team": "Gen.G Black"
+        },
+        {
+          "kills": "212",
+          "name": "theia",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "184",
+          "name": "rain",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "164",
+          "name": "EMUHLEET",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "127",
+          "name": "showliana",
+          "team": "Dignitas"
+        },
+        {
+          "kills": "126",
+          "name": "Stefanie",
+          "team": "Dignitas"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.55\n1.86\n1.43",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "167\n169\n167",
+            "hs%": "82%\n100%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "237",
+            "name": "leelee",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "1.46\n1.87\n1.30",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "157\n224\n129",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "244",
+            "name": "Tiraye",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "1.16\n1.55\n0.99",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "115\n163\n96",
+            "hs%": "76%\n100%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "202",
+            "name": "Carlee",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "1.15\n0.29\n1.51",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "153\n45\n198",
+            "hs%": "82%\n60%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "248",
+            "name": "Lynn",
+            "team": "Gen.G Black"
+          },
+          {
+            "acs": "1.06\n0.54\n1.28",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "163\n128\n178",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "5\n4\n1",
+            "kills": "240",
+            "name": "hannah",
+            "team": "Gen.G Black"
+          }
+        ],
+        [
+          {
+            "acs": "0.91\n0.96\n0.79",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "119\n108\n145",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "3\n2\n1",
+            "kills": "212",
+            "name": "theia",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "0.84\n0.58\n1.46",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "115\n103\n143",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "3\n2\n1",
+            "kills": "184",
+            "name": "rain",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "0.64\n0.90\n0.03",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "8\n8\n0",
+            "fk": "94\n106\n67",
+            "hs%": "65%\n67%\n60%",
+            "kdr": "10\n7\n3",
+            "kills": "164",
+            "name": "EMUHLEET",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "0.60\n0.63\n0.53",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "78\n78\n78",
+            "hs%": "47%\n50%\n40%",
+            "kdr": "4\n3\n1",
+            "kills": "127",
+            "name": "showliana",
+            "team": "Dignitas"
+          },
+          {
+            "acs": "0.43\n0.12\n1.16",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "88\n41\n199",
+            "hs%": "41%\n25%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "126",
+            "name": "Stefanie",
+            "team": "Dignitas"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 84601,
+  "teams": [
+    "Gen.G Black",
+    "Dignitas"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

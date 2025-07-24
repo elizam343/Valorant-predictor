@@ -1,0 +1,806 @@
+{
+  "date": "2022-05-01 00:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "300",
+          "name": "asjrd",
+          "team": "XIAO"
+        },
+        {
+          "kills": "256",
+          "name": "AiShou",
+          "team": "XIAO"
+        },
+        {
+          "kills": "162",
+          "name": "Legend",
+          "team": "XIAO"
+        },
+        {
+          "kills": "119",
+          "name": "ZyphriC",
+          "team": "XIAO"
+        },
+        {
+          "kills": "116",
+          "name": "S1Eugene",
+          "team": "XIAO"
+        },
+        {
+          "kills": "322",
+          "name": "subbey",
+          "team": "Todak"
+        },
+        {
+          "kills": "244",
+          "name": "kael",
+          "team": "Todak"
+        },
+        {
+          "kills": "245",
+          "name": "jeed",
+          "team": "Todak"
+        },
+        {
+          "kills": "273",
+          "name": "IcaaaPftw",
+          "team": "Todak"
+        },
+        {
+          "kills": "168",
+          "name": "Click",
+          "team": "Todak"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.17\n1.23\n1.07",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "189\n208\n159",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "300",
+            "name": "asjrd",
+            "team": "XIAO"
+          },
+          {
+            "acs": "1.02\n0.95\n1.12",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "164\n143\n197",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "8\n7\n1",
+            "kills": "256",
+            "name": "AiShou",
+            "team": "XIAO"
+          },
+          {
+            "acs": "0.74\n1.20\n0.05",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "107\n127\n76",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "7\n4\n3",
+            "kills": "162",
+            "name": "Legend",
+            "team": "XIAO"
+          },
+          {
+            "acs": "0.60\n0.67\n0.50",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "72\n48\n109",
+            "hs%": "50%\n42%\n63%",
+            "kdr": "8\n8\n0",
+            "kills": "119",
+            "name": "ZyphriC",
+            "team": "XIAO"
+          },
+          {
+            "acs": "0.43\n0.37\n0.53",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "71\n71\n71",
+            "hs%": "65%\n58%\n75%",
+            "kdr": "8\n6\n2",
+            "kills": "116",
+            "name": "S1Eugene",
+            "team": "XIAO"
+          }
+        ],
+        [
+          {
+            "acs": "1.59\n1.96\n1.35",
+            "adr": "+12\n+7\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "220\n198\n234",
+            "hs%": "85%\n88%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "322",
+            "name": "subbey",
+            "team": "Todak"
+          },
+          {
+            "acs": "1.49\n1.77\n1.31",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "153\n184\n133",
+            "hs%": "90%\n88%\n92%",
+            "kdr": "5\n4\n1",
+            "kills": "244",
+            "name": "kael",
+            "team": "Todak"
+          },
+          {
+            "acs": "1.48\n1.86\n1.22",
+            "adr": "+12\n+8\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "126\n150\n110",
+            "hs%": "85%\n100%\n75%",
+            "kdr": "11\n7\n4",
+            "kills": "245",
+            "name": "jeed",
+            "team": "Todak"
+          },
+          {
+            "acs": "1.15\n0.65\n1.48",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "200\n161\n225",
+            "hs%": "90%\n88%\n92%",
+            "kdr": "12\n5\n7",
+            "kills": "273",
+            "name": "IcaaaPftw",
+            "team": "Todak"
+          },
+          {
+            "acs": "0.51\n0.44\n0.56",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "100\n111\n93",
+            "hs%": "55%\n63%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "168",
+            "name": "Click",
+            "team": "Todak"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "asjrd",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "AiShou",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "S1Eugene",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "Legend",
+          "team": null
+        },
+        {
+          "kills": "87",
+          "name": "ZyphriC",
+          "team": null
+        },
+        {
+          "kills": "136",
+          "name": "Titanium",
+          "team": null
+        },
+        {
+          "kills": "249",
+          "name": "subbey",
+          "team": null
+        },
+        {
+          "kills": "265",
+          "name": "kael",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "jeed",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "IcaaaPftw",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "Click",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.14\n1.16\n1.15",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "58\n32\n26",
+            "fk": "156\n158\n153",
+            "hs%": "70%\n58%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "245",
+            "name": "asjrd",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.36\n1.04",
+            "adr": "-1\n-8\n+7",
+            "agent": "",
+            "assists": "/\n\n49\n30\n19\n\n/",
+            "deaths": "48\n22\n26",
+            "fk": "147\n119\n180",
+            "hs%": "71%\n61%\n83%",
+            "kdr": "19\n10\n9",
+            "kills": "187",
+            "name": "AiShou",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.95\n0.93",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n48\n29\n19\n\n/",
+            "deaths": "43\n23\n20",
+            "fk": "123\n134\n109",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "24\n14\n10",
+            "kills": "198",
+            "name": "S1Eugene",
+            "team": null
+          },
+          {
+            "acs": "1.03\n0.62\n0.84",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n49\n28\n21\n\n/",
+            "deaths": "41\n24\n17",
+            "fk": "117\n124\n109",
+            "hs%": "62%\n67%\n57%",
+            "kdr": "21\n10\n11",
+            "kills": "200",
+            "name": "Legend",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.93\n0.71",
+            "adr": "-13\n-12\n-1",
+            "agent": "",
+            "assists": "/\n\n35\n20\n15\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "87\n48\n136",
+            "hs%": "60%\n54%\n68%",
+            "kdr": "15\n10\n5",
+            "kills": "87",
+            "name": "ZyphriC",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.35\n0.64",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "79\n98\n58",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "4\n1\n3",
+            "kills": "136",
+            "name": "Titanium",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.32\n1.40",
+            "adr": "+22\n+11\n+11",
+            "agent": "",
+            "assists": "/\n\n43\n16\n27\n\n/",
+            "deaths": "65\n27\n38",
+            "fk": "200\n166\n228",
+            "hs%": "83%\n80%\n86%",
+            "kdr": "24\n9\n15",
+            "kills": "249",
+            "name": "subbey",
+            "team": null
+          },
+          {
+            "acs": "1.16\n1.26\n1.21",
+            "adr": "+13\n+3\n+10",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "59\n27\n32",
+            "fk": "146\n159\n135",
+            "hs%": "74%\n67%\n81%",
+            "kdr": "13\n7\n6",
+            "kills": "265",
+            "name": "kael",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.97\n1.04",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "44\n23\n21",
+            "fk": "106\n113\n100",
+            "hs%": "82%\n87%\n78%",
+            "kdr": "33\n17\n16",
+            "kills": "187",
+            "name": "jeed",
+            "team": null
+          },
+          {
+            "acs": "0.64\n1.32\n1.01",
+            "adr": "+2\n-7\n+9",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "48\n17\n31",
+            "fk": "149\n118\n174",
+            "hs%": "74%\n63%\n83%",
+            "kdr": "15\n6\n9",
+            "kills": "175",
+            "name": "IcaaaPftw",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.71\n0.74",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "34\n15\n19",
+            "fk": "101\n102\n100",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "21\n13\n8",
+            "kills": "156",
+            "name": "Click",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "278",
+          "name": "asjrd",
+          "team": "XIAO"
+        },
+        {
+          "kills": "157",
+          "name": "S1Eugene",
+          "team": "XIAO"
+        },
+        {
+          "kills": "283",
+          "name": "AiShou",
+          "team": "XIAO"
+        },
+        {
+          "kills": "123",
+          "name": "Legend",
+          "team": "XIAO"
+        },
+        {
+          "kills": "243",
+          "name": "ZyphriC",
+          "team": "XIAO"
+        },
+        {
+          "kills": "358",
+          "name": "subbey",
+          "team": "Todak"
+        },
+        {
+          "kills": "276",
+          "name": "kael",
+          "team": "Todak"
+        },
+        {
+          "kills": "126",
+          "name": "Click",
+          "team": "Todak"
+        },
+        {
+          "kills": "208",
+          "name": "jeed",
+          "team": "Todak"
+        },
+        {
+          "kills": "185",
+          "name": "IcaaaPftw",
+          "team": "Todak"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.27\n1.23\n1.31",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "154\n144\n166",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "2\n0\n2",
+            "kills": "278",
+            "name": "asjrd",
+            "team": "XIAO"
+          },
+          {
+            "acs": "1.27\n1.44\n1.08",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "152\n213\n85",
+            "hs%": "83%\n92%\n73%",
+            "kdr": "11\n6\n5",
+            "kills": "157",
+            "name": "S1Eugene",
+            "team": "XIAO"
+          },
+          {
+            "acs": "1.07\n0.48\n1.72",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "127\n81\n178",
+            "hs%": "70%\n50%\n91%",
+            "kdr": "4\n2\n2",
+            "kills": "283",
+            "name": "AiShou",
+            "team": "XIAO"
+          },
+          {
+            "acs": "0.87\n1.07\n0.66",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "102\n130\n71",
+            "hs%": "65%\n83%\n45%",
+            "kdr": "8\n4\n4",
+            "kills": "123",
+            "name": "Legend",
+            "team": "XIAO"
+          },
+          {
+            "acs": "0.80\n0.40\n1.23",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "100\n48\n157",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "7\n2\n5",
+            "kills": "243",
+            "name": "ZyphriC",
+            "team": "XIAO"
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n0.94\n1.39",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "192\n123\n256",
+            "hs%": "87%\n73%\n100%",
+            "kdr": "11\n2\n9",
+            "kills": "358",
+            "name": "subbey",
+            "team": "Todak"
+          },
+          {
+            "acs": "1.13\n1.13\n1.13",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "164\n185\n144",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "276",
+            "name": "kael",
+            "team": "Todak"
+          },
+          {
+            "acs": "0.84\n0.95\n0.74",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "101\n120\n84",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "126",
+            "name": "Click",
+            "team": "Todak"
+          },
+          {
+            "acs": "0.84\n0.37\n1.26",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "92\n57\n125",
+            "hs%": "87%\n82%\n92%",
+            "kdr": "9\n5\n4",
+            "kills": "208",
+            "name": "jeed",
+            "team": "Todak"
+          },
+          {
+            "acs": "0.78\n0.52\n1.02",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "107\n86\n126",
+            "hs%": "61%\n45%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "185",
+            "name": "IcaaaPftw",
+            "team": "Todak"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "231",
+          "name": "AiShou",
+          "team": "XIAO"
+        },
+        {
+          "kills": "216",
+          "name": "S1Eugene",
+          "team": "XIAO"
+        },
+        {
+          "kills": "193",
+          "name": "asjrd",
+          "team": "XIAO"
+        },
+        {
+          "kills": "224",
+          "name": "Legend",
+          "team": "XIAO"
+        },
+        {
+          "kills": "116",
+          "name": "Titanium",
+          "team": "XIAO"
+        },
+        {
+          "kills": "293",
+          "name": "subbey",
+          "team": "Todak"
+        },
+        {
+          "kills": "242",
+          "name": "IcaaaPftw",
+          "team": "Todak"
+        },
+        {
+          "kills": "220",
+          "name": "kael",
+          "team": "Todak"
+        },
+        {
+          "kills": "140",
+          "name": "jeed",
+          "team": "Todak"
+        },
+        {
+          "kills": "143",
+          "name": "Click",
+          "team": "Todak"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.04\n0.91\n1.18",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "152\n134\n171",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "7\n1\n6",
+            "kills": "231",
+            "name": "AiShou",
+            "team": "XIAO"
+          },
+          {
+            "acs": "1.03\n0.95\n1.12",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "139\n120\n161",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "5\n2\n3",
+            "kills": "216",
+            "name": "S1Eugene",
+            "team": "XIAO"
+          },
+          {
+            "acs": "1.01\n0.94\n1.08",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "129\n123\n135",
+            "hs%": "70%\n50%\n91%",
+            "kdr": "0\n0\n0",
+            "kills": "193",
+            "name": "asjrd",
+            "team": "XIAO"
+          },
+          {
+            "acs": "0.90\n0.82\n0.99",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "142\n116\n170",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "6\n2\n4",
+            "kills": "224",
+            "name": "Legend",
+            "team": "XIAO"
+          },
+          {
+            "acs": "0.64\n0.90\n0.35",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "79\n98\n58",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "4\n1\n3",
+            "kills": "116",
+            "name": "Titanium",
+            "team": "XIAO"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.71\n1.22",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "191\n186\n195",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "9\n6\n3",
+            "kills": "293",
+            "name": "subbey",
+            "team": "Todak"
+          },
+          {
+            "acs": "1.13\n0.76\n1.47",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "146\n119\n170",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "1\n1\n0",
+            "kills": "242",
+            "name": "IcaaaPftw",
+            "team": "Todak"
+          },
+          {
+            "acs": "1.06\n0.74\n1.35",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "122\n116\n128",
+            "hs%": "74%\n55%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "220",
+            "name": "kael",
+            "team": "Todak"
+          },
+          {
+            "acs": "0.87\n1.36\n0.42",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "102\n142\n66",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "13\n5\n8",
+            "kills": "140",
+            "name": "jeed",
+            "team": "Todak"
+          },
+          {
+            "acs": "0.83\n0.81\n0.84",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "102\n78\n124",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "9\n7\n2",
+            "kills": "143",
+            "name": "Click",
+            "team": "Todak"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 96104,
+  "teams": [
+    "XIAO",
+    "Todak"
+  ],
+  "tournament": "Open Qualifier (Elimination): \n\t\t\t\t\t\tUpper Round of 32"
+}

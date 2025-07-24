@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-21 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "257",
+          "name": "Aleks",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "232",
+          "name": "fpX",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "218",
+          "name": "lya",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "268",
+          "name": "Sasaki",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "119",
+          "name": "01000010",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "241",
+          "name": "vLn",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "197",
+          "name": "duracel",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "210",
+          "name": "Ludzera",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "204",
+          "name": "celestial",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "138",
+          "name": "Lascalt",
+          "team": "4 ruim e 1 ruim"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.04\n1.63",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "171\n150\n188",
+            "hs%": "91%\n90%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "257",
+            "name": "Aleks",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "1.26\n1.24\n1.27",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "157\n152\n160",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "10\n4\n6",
+            "kills": "232",
+            "name": "fpX",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "1.25\n0.67\n1.74",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "154\n86\n210",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "218",
+            "name": "lya",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "1.24\n0.78\n1.61",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "164\n149\n177",
+            "hs%": "64%\n30%\n92%",
+            "kdr": "8\n1\n7",
+            "kills": "268",
+            "name": "Sasaki",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "0.32\n0.65\n0.05",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "80\n116\n51",
+            "hs%": "59%\n70%\n50%",
+            "kdr": "4\n1\n3",
+            "kills": "119",
+            "name": "01000010",
+            "team": "leptospirose"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.01\n1.43",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "159\n157\n161",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "5\n2\n3",
+            "kills": "241",
+            "name": "vLn",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "1.02\n1.45\n0.51",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "134\n178\n82",
+            "hs%": "55%\n67%\n40%",
+            "kdr": "6\n3\n3",
+            "kills": "197",
+            "name": "duracel",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "0.95\n0.54\n1.44",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "131\n106\n163",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "4\n1\n3",
+            "kills": "210",
+            "name": "Ludzera",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "0.92\n0.43\n1.51",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "126\n91\n167",
+            "hs%": "59%\n42%\n80%",
+            "kdr": "5\n2\n3",
+            "kills": "204",
+            "name": "celestial",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "0.55\n0.41\n0.72",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "103\n113\n92",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "5\n2\n3",
+            "kills": "138",
+            "name": "Lascalt",
+            "team": "4 ruim e 1 ruim"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "182",
+          "name": "Aleks",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "Sasaki",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "fpX",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "lya",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "01000010",
+          "team": null
+        },
+        {
+          "kills": "239",
+          "name": "Ludzera",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "duracel",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "celestial",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "vLn",
+          "team": null
+        },
+        {
+          "kills": "122",
+          "name": "Lascalt",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.84\n1.33\n1.07",
+            "adr": "+6\n-5\n+11",
+            "agent": "",
+            "assists": "/\n\n45\n28\n17\n\n/",
+            "deaths": "51\n23\n28",
+            "fk": "137\n122\n153",
+            "hs%": "75%\n66%\n84%",
+            "kdr": "16\n6\n10",
+            "kills": "182",
+            "name": "Aleks",
+            "team": null
+          },
+          {
+            "acs": "0.50\n1.62\n1.04",
+            "adr": "+5\n-13\n+18",
+            "agent": "",
+            "assists": "/\n\n53\n33\n20\n\n/",
+            "deaths": "58\n20\n38",
+            "fk": "140\n100\n183",
+            "hs%": "63%\n49%\n78%",
+            "kdr": "16\n4\n12",
+            "kills": "152",
+            "name": "Sasaki",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.08\n1.04",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "43\n21\n22",
+            "fk": "142\n136\n148",
+            "hs%": "72%\n69%\n75%",
+            "kdr": "27\n12\n15",
+            "kills": "198",
+            "name": "fpX",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.11\n0.91",
+            "adr": "-6\n-10\n+4",
+            "agent": "",
+            "assists": "/\n\n50\n29\n21\n\n/",
+            "deaths": "44\n19\n25",
+            "fk": "119\n101\n138",
+            "hs%": "73%\n71%\n75%",
+            "kdr": "20\n7\n13",
+            "kills": "147",
+            "name": "lya",
+            "team": null
+          },
+          {
+            "acs": "0.66\n0.51\n0.59",
+            "adr": "-20\n-12\n-8",
+            "agent": "",
+            "assists": "/\n\n58\n32\n26\n\n/",
+            "deaths": "38\n20\n18",
+            "fk": "107\n122\n90",
+            "hs%": "61%\n66%\n56%",
+            "kdr": "11\n5\n6",
+            "kills": "184",
+            "name": "01000010",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n1.44\n1.26",
+            "adr": "+11\n0\n+11",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "56\n26\n30",
+            "fk": "159\n158\n159",
+            "hs%": "76%\n63%\n89%",
+            "kdr": "18\n4\n14",
+            "kills": "239",
+            "name": "Ludzera",
+            "team": null
+          },
+          {
+            "acs": "1.20\n1.03\n1.11",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "46\n23\n23",
+            "fk": "144\n144\n143",
+            "hs%": "70%\n72%\n69%",
+            "kdr": "27\n13\n14",
+            "kills": "213",
+            "name": "duracel",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.25\n1.03",
+            "adr": "+4\n-6\n+10",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "51\n20\n31",
+            "fk": "128\n107\n147",
+            "hs%": "70%\n63%\n77%",
+            "kdr": "12\n6\n6",
+            "kills": "179",
+            "name": "celestial",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.19\n1.02",
+            "adr": "+7\n-3\n+10",
+            "agent": "",
+            "assists": "/\n\n51\n28\n23\n\n/",
+            "deaths": "58\n25\n33",
+            "fk": "158\n154\n162",
+            "hs%": "69%\n59%\n77%",
+            "kdr": "12\n2\n10",
+            "kills": "230",
+            "name": "vLn",
+            "team": null
+          },
+          {
+            "acs": "0.53\n1.37\n0.97",
+            "adr": "-5\n-17\n+12",
+            "agent": "",
+            "assists": "/\n\n46\n28\n18\n\n/",
+            "deaths": "41\n11\n30",
+            "fk": "120\n90\n148",
+            "hs%": "76%\n63%\n89%",
+            "kdr": "20\n10\n10",
+            "kills": "122",
+            "name": "Lascalt",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "222",
+          "name": "fpX",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "292",
+          "name": "Aleks",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "344",
+          "name": "Sasaki",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "190",
+          "name": "lya",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "128",
+          "name": "01000010",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "277",
+          "name": "Ludzera",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "283",
+          "name": "duracel",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "278",
+          "name": "Lascalt",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "117",
+          "name": "celestial",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "246",
+          "name": "vLn",
+          "team": "4 ruim e 1 ruim"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.07\n0.89\n1.25",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "137\n117\n156",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "10\n4\n6",
+            "kills": "222",
+            "name": "fpX",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "0.97\n0.49\n1.44",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "131\n80\n182",
+            "hs%": "73%\n46%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "292",
+            "name": "Aleks",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "0.97\n0.32\n1.61",
+            "adr": "+2\n-7\n+9",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "23\n6\n17",
+            "fk": "151\n103\n200",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "3\n2\n1",
+            "kills": "344",
+            "name": "Sasaki",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "0.93\n1.07\n0.79",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "133\n136\n131",
+            "hs%": "73%\n85%\n62%",
+            "kdr": "2\n1\n1",
+            "kills": "190",
+            "name": "lya",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "0.63\n0.81\n0.45",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "120\n157\n82",
+            "hs%": "62%\n69%\n54%",
+            "kdr": "5\n3\n2",
+            "kills": "128",
+            "name": "01000010",
+            "team": "leptospirose"
+          }
+        ],
+        [
+          {
+            "acs": "1.61\n1.58\n1.64",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "184\n211\n156",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "5\n2\n3",
+            "kills": "277",
+            "name": "Ludzera",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "1.24\n0.92\n1.56",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "164\n123\n205",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "12\n5\n7",
+            "kills": "283",
+            "name": "duracel",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "1.05\n0.26\n1.83",
+            "adr": "-2\n-10\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "110\n31\n190",
+            "hs%": "77%\n54%\n100%",
+            "kdr": "10\n6\n4",
+            "kills": "278",
+            "name": "Lascalt",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "0.86\n1.19\n0.52",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "111\n136\n85",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "4\n3\n1",
+            "kills": "117",
+            "name": "celestial",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "0.63\n0.40\n0.87",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "140\n114\n166",
+            "hs%": "65%\n46%\n85%",
+            "kdr": "5\n0\n5",
+            "kills": "246",
+            "name": "vLn",
+            "team": "4 ruim e 1 ruim"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "174",
+          "name": "Sasaki",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "159",
+          "name": "Aleks",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "213",
+          "name": "01000010",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "171",
+          "name": "fpX",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "81",
+          "name": "lya",
+          "team": "leptospirose"
+        },
+        {
+          "kills": "264",
+          "name": "celestial",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "262",
+          "name": "vLn",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "233",
+          "name": "Lascalt",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "223",
+          "name": "Ludzera",
+          "team": "4 ruim e 1 ruim"
+        },
+        {
+          "kills": "184",
+          "name": "duracel",
+          "team": "4 ruim e 1 ruim"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "0.90\n0.46\n1.67",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "96\n56\n163",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "5\n1\n4",
+            "kills": "174",
+            "name": "Sasaki",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "0.86\n1.03\n0.58",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "105\n144\n40",
+            "hs%": "58%\n67%\n43%",
+            "kdr": "8\n4\n4",
+            "kills": "159",
+            "name": "Aleks",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "0.84\n0.51\n1.42",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "120\n88\n173",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "2\n1\n1",
+            "kills": "213",
+            "name": "01000010",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "0.76\n0.93\n0.46",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "133\n145\n113",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "7\n4\n3",
+            "kills": "171",
+            "name": "fpX",
+            "team": "leptospirose"
+          },
+          {
+            "acs": "0.48\n0.39\n0.62",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "58\n76\n29",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "9\n3\n6",
+            "kills": "81",
+            "name": "lya",
+            "team": "leptospirose"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n0.61\n1.84",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "153\n79\n197",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "264",
+            "name": "celestial",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "1.36\n1.40\n1.34",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "183\n223\n160",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "262",
+            "name": "vLn",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "1.33\n1.22\n1.40",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "154\n159\n151",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "233",
+            "name": "Lascalt",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "1.12\n0.95\n1.22",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "156\n149\n160",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "9\n1\n8",
+            "kills": "223",
+            "name": "Ludzera",
+            "team": "4 ruim e 1 ruim"
+          },
+          {
+            "acs": "1.02\n1.27\n0.88",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "127\n127\n126",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "184",
+            "name": "duracel",
+            "team": "4 ruim e 1 ruim"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 65512,
+  "teams": [
+    "leptospirose",
+    "4 ruim e 1 ruim"
+  ],
+  "tournament": "Open Qualifier #2: \n\t\t\t\t\t\tRound of 64"
+}

@@ -1,0 +1,612 @@
+{
+  "date": "2021-10-29 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "291",
+          "name": "DBE",
+          "team": "Diablada Esports"
+        },
+        {
+          "kills": "272",
+          "name": "Morita",
+          "team": "Diablada Esports"
+        },
+        {
+          "kills": "206",
+          "name": "Devilia",
+          "team": "Diablada Esports"
+        },
+        {
+          "kills": "305",
+          "name": "Maxikiosko",
+          "team": "Diablada Esports"
+        },
+        {
+          "kills": "198",
+          "name": "Anqh",
+          "team": "Diablada Esports"
+        },
+        {
+          "kills": "234",
+          "name": "Zucaritas",
+          "team": "VM Esports"
+        },
+        {
+          "kills": "141",
+          "name": "MkibAx",
+          "team": "VM Esports"
+        },
+        {
+          "kills": "169",
+          "name": "Yume",
+          "team": "VM Esports"
+        },
+        {
+          "kills": "132",
+          "name": "Asamy",
+          "team": "VM Esports"
+        },
+        {
+          "kills": "88",
+          "name": "Ola Juan Carlo",
+          "team": "VM Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.92\n1.73\n3.09",
+            "adr": "+12\n+8\n+4",
+            "agent": "",
+            "assists": "/\n\n4\n4\n0\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "165\n166\n155",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "291",
+            "name": "DBE",
+            "team": "Diablada Esports"
+          },
+          {
+            "acs": "1.56\n1.70\n0.72",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n6\n4\n2\n\n/",
+            "deaths": "12\n11\n1",
+            "fk": "195\n186\n247",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "272",
+            "name": "Morita",
+            "team": "Diablada Esports"
+          },
+          {
+            "acs": "1.56\n1.47\n2.10",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n4\n4\n0\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "168\n161\n212",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "206",
+            "name": "Devilia",
+            "team": "Diablada Esports"
+          },
+          {
+            "acs": "1.55\n1.77\n0.25",
+            "adr": "+10\n+11\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "17\n17\n0",
+            "fk": "225\n257\n35",
+            "hs%": "93%\n100%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "305",
+            "name": "Maxikiosko",
+            "team": "Diablada Esports"
+          },
+          {
+            "acs": "0.90\n0.72\n1.95",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "132\n128\n159",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "7\n6\n1",
+            "kills": "198",
+            "name": "Anqh",
+            "team": "Diablada Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.95\n0.28\n1.07",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "157\n100\n166",
+            "hs%": "71%\n50%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "234",
+            "name": "Zucaritas",
+            "team": "VM Esports"
+          },
+          {
+            "acs": "0.66\n0.04\n0.77",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "90\n77\n92",
+            "hs%": "64%\n50%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "141",
+            "name": "MkibAx",
+            "team": "VM Esports"
+          },
+          {
+            "acs": "0.55\n1.20\n0.44",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "114\n167\n105",
+            "hs%": "50%\n100%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "169",
+            "name": "Yume",
+            "team": "VM Esports"
+          },
+          {
+            "acs": "0.34\n0.30\n0.35",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "5\n0\n5",
+            "fk": "90\n112\n87",
+            "hs%": "57%\n100%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "132",
+            "name": "Asamy",
+            "team": "VM Esports"
+          },
+          {
+            "acs": "0.17\n0.37\n0.14",
+            "adr": "-11\n-1\n-10",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "58\n79\n54",
+            "hs%": "43%\n50%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "88",
+            "name": "Ola Juan Carlo",
+            "team": "VM Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "230",
+          "name": "Devilia",
+          "team": null
+        },
+        {
+          "kills": "260",
+          "name": "Morita",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "DBE",
+          "team": null
+        },
+        {
+          "kills": "315",
+          "name": "Maxikiosko",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "Anqh",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Zucaritas",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "Yume",
+          "team": null
+        },
+        {
+          "kills": "67",
+          "name": "MkibAx",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "Yandiemrkita",
+          "team": null
+        },
+        {
+          "kills": "97",
+          "name": "Asamy",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "Ola Juan Carlo",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.45\n2.34\n1.88",
+            "adr": "+25\n+7\n+18",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "33\n13\n20",
+            "fk": "203\n173\n235",
+            "hs%": "93%\n87%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "230",
+            "name": "Devilia",
+            "team": null
+          },
+          {
+            "acs": "1.69\n1.33\n1.52",
+            "adr": "+15\n+9\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "157\n173\n139",
+            "hs%": "90%\n93%\n86%",
+            "kdr": "9\n4\n5",
+            "kills": "260",
+            "name": "Morita",
+            "team": null
+          },
+          {
+            "acs": "1.39\n1.63\n1.51",
+            "adr": "+16\n+6\n+10",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "29\n12\n17",
+            "fk": "160\n136\n186",
+            "hs%": "79%\n80%\n79%",
+            "kdr": "10\n5\n5",
+            "kills": "223",
+            "name": "DBE",
+            "team": null
+          },
+          {
+            "acs": "1.64\n1.11\n1.38",
+            "adr": "+15\n+12\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "30\n19\n11",
+            "fk": "187\n226\n145",
+            "hs%": "86%\n93%\n79%",
+            "kdr": "8\n4\n4",
+            "kills": "315",
+            "name": "Maxikiosko",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.44\n1.20",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "146\n143\n150",
+            "hs%": "93%\n87%\n100%",
+            "kdr": "11\n8\n3",
+            "kills": "219",
+            "name": "Anqh",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.61\n0.99\n0.81",
+            "adr": "-12\n-6\n-6",
+            "agent": "",
+            "assists": "/\n\n28\n13\n15\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "141\n111\n168",
+            "hs%": "52%\n29%\n73%",
+            "kdr": "5\n0\n5",
+            "kills": "167",
+            "name": "Zucaritas",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.73\n0.77",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "125\n127\n123",
+            "hs%": "55%\n64%\n47%",
+            "kdr": "3\n1\n2",
+            "kills": "193",
+            "name": "Yume",
+            "team": null
+          },
+          {
+            "acs": "0.04\n0.85\n0.45",
+            "adr": "-18\n-14\n-4",
+            "agent": "",
+            "assists": "/\n\n28\n15\n13\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "78\n58\n97",
+            "hs%": "55%\n43%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "67",
+            "name": "MkibAx",
+            "team": null
+          },
+          {
+            "acs": "0.40\n0.32\n0.39",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n13\n3\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "97\n103\n73",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "158",
+            "name": "Yandiemrkita",
+            "team": null
+          },
+          {
+            "acs": "0.17\n0.28\n0.19",
+            "adr": "-21\n-11\n-10",
+            "agent": "",
+            "assists": "/\n\n29\n14\n15\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "77\n73\n80",
+            "hs%": "52%\n57%\n47%",
+            "kdr": "5\n4\n1",
+            "kills": "97",
+            "name": "Asamy",
+            "team": null
+          },
+          {
+            "acs": "0.37\n0.14\n0.17",
+            "adr": "-11\n-1\n-10",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "58\n79\n54",
+            "hs%": "43%\n50%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "149",
+            "name": "Ola Juan Carlo",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "400",
+          "name": "Devilia",
+          "team": "Diablada Esports"
+        },
+        {
+          "kills": "223",
+          "name": "Anqh",
+          "team": "Diablada Esports"
+        },
+        {
+          "kills": "185",
+          "name": "Morita",
+          "team": "Diablada Esports"
+        },
+        {
+          "kills": "251",
+          "name": "Maxikiosko",
+          "team": "Diablada Esports"
+        },
+        {
+          "kills": "297",
+          "name": "DBE",
+          "team": "Diablada Esports"
+        },
+        {
+          "kills": "303",
+          "name": "Yume",
+          "team": "VM Esports"
+        },
+        {
+          "kills": "224",
+          "name": "Zucaritas",
+          "team": "VM Esports"
+        },
+        {
+          "kills": "113",
+          "name": "Yandiemrkita",
+          "team": "VM Esports"
+        },
+        {
+          "kills": "162",
+          "name": "MkibAx",
+          "team": "VM Esports"
+        },
+        {
+          "kills": "55",
+          "name": "Asamy",
+          "team": "VM Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "2.18\n1.38\n2.38",
+            "adr": "+17\n+1\n+16",
+            "agent": "",
+            "assists": "/\n\n4\n2\n2\n\n/",
+            "deaths": "21\n3\n18",
+            "fk": "236\n222\n239",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n3\n2",
+            "kills": "400",
+            "name": "Devilia",
+            "team": "Diablada Esports"
+          },
+          {
+            "acs": "1.49\n2.02\n1.35",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "159\n203\n149",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "223",
+            "name": "Anqh",
+            "team": "Diablada Esports"
+          },
+          {
+            "acs": "1.48\n1.67\n1.44",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n3\n1\n2\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "121\n121\n121",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "185",
+            "name": "Morita",
+            "team": "Diablada Esports"
+          },
+          {
+            "acs": "1.22\n1.11\n1.25",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "151\n100\n163",
+            "hs%": "80%\n67%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "251",
+            "name": "Maxikiosko",
+            "team": "Diablada Esports"
+          },
+          {
+            "acs": "1.13\n0.06\n1.39",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "13\n0\n13",
+            "fk": "156\n16\n191",
+            "hs%": "73%\n67%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "297",
+            "name": "DBE",
+            "team": "Diablada Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.97\n0.74\n1.87",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "135\n120\n194",
+            "hs%": "60%\n58%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "303",
+            "name": "Yume",
+            "team": "VM Esports"
+          },
+          {
+            "acs": "0.67\n0.67\n0.69",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "125\n113\n176",
+            "hs%": "33%\n25%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "224",
+            "name": "Zucaritas",
+            "team": "VM Esports"
+          },
+          {
+            "acs": "0.39\n0.40\n0.32",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n13\n3\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "97\n103\n73",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "113",
+            "name": "Yandiemrkita",
+            "team": "VM Esports"
+          },
+          {
+            "acs": "0.26\n0.04\n1.16",
+            "adr": "-12\n-12\n0",
+            "agent": "",
+            "assists": "/\n\n15\n13\n2\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "67\n55\n117",
+            "hs%": "47%\n42%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "162",
+            "name": "MkibAx",
+            "team": "VM Esports"
+          },
+          {
+            "acs": "0.06\n0.14\n0.01",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "64\n67\n55",
+            "hs%": "47%\n50%\n33%",
+            "kdr": "3\n3\n0",
+            "kills": "55",
+            "name": "Asamy",
+            "team": "VM Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 49981,
+  "teams": [
+    "VM Esports",
+    "Diablada Esports"
+  ],
+  "tournament": "Main Event: LAS: \n\t\t\t\t\t\tQuarterfinals"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2021-12-04 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "214",
+          "name": "FIEND",
+          "team": "Radiance"
+        },
+        {
+          "kills": "179",
+          "name": "venture",
+          "team": "Radiance"
+        },
+        {
+          "kills": "128",
+          "name": "sSef",
+          "team": "Radiance"
+        },
+        {
+          "kills": "85",
+          "name": "cheatcode",
+          "team": "Radiance"
+        },
+        {
+          "kills": "50",
+          "name": "Rebo",
+          "team": "Radiance"
+        },
+        {
+          "kills": "361",
+          "name": "poiz",
+          "team": "Cloud9 Academy"
+        },
+        {
+          "kills": "281",
+          "name": "renz",
+          "team": "Cloud9 Academy"
+        },
+        {
+          "kills": "151",
+          "name": "instinct",
+          "team": "Cloud9 Academy"
+        },
+        {
+          "kills": "246",
+          "name": "GLYPH",
+          "team": "Cloud9 Academy"
+        },
+        {
+          "kills": "317",
+          "name": "d1msumboi",
+          "team": "Cloud9 Academy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "0.79\n0.88\n0.01",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n13\n1\n\n/",
+            "deaths": "9\n9\n0",
+            "fk": "142\n154",
+            "hs%": "62%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "214",
+            "name": "FIEND",
+            "team": "Radiance"
+          },
+          {
+            "acs": "0.69\n0.64\n1.24",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "135\n129\n197",
+            "hs%": "46%\n42%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "179",
+            "name": "venture",
+            "team": "Radiance"
+          },
+          {
+            "acs": "0.46\n0.35\n1.72",
+            "adr": "-9\n-10\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "97\n94\n135",
+            "hs%": "62%\n58%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "128",
+            "name": "sSef",
+            "team": "Radiance"
+          },
+          {
+            "acs": "0.18\n0.13\n0.76",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "47\n44\n90",
+            "hs%": "38%\n33%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "85",
+            "name": "cheatcode",
+            "team": "Radiance"
+          },
+          {
+            "acs": "0.03\n0.05\n0.01",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "2\n2\n0",
+            "fk": "34\n37",
+            "hs%": "31%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "50",
+            "name": "Rebo",
+            "team": "Radiance"
+          }
+        ],
+        [
+          {
+            "acs": "1.76\n0.01\n1.93",
+            "adr": "+11\n-1\n+12",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "18\n0\n18",
+            "fk": "220\n0\n239",
+            "hs%": "77%\n0%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "361",
+            "name": "poiz",
+            "team": "Cloud9 Academy"
+          },
+          {
+            "acs": "1.74\n1.02\n1.80",
+            "adr": "+12\n0\n+12",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "16\n1\n15",
+            "fk": "184\n104\n191",
+            "hs%": "92%\n100%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "281",
+            "name": "renz",
+            "team": "Cloud9 Academy"
+          },
+          {
+            "acs": "1.64\n2.43\n1.58",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n2\n0\n2\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "122\n104\n124",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "10\n1\n9",
+            "kills": "151",
+            "name": "instinct",
+            "team": "Cloud9 Academy"
+          },
+          {
+            "acs": "1.48\n0.33\n1.57",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "11\n0\n11",
+            "fk": "165\n48\n175",
+            "hs%": "92%\n100%\n92%",
+            "kdr": "9\n2\n7",
+            "kills": "246",
+            "name": "GLYPH",
+            "team": "Cloud9 Academy"
+          },
+          {
+            "acs": "1.42\n3.44\n1.25",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "204\n532\n177",
+            "hs%": "92%\n100%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "317",
+            "name": "d1msumboi",
+            "team": "Cloud9 Academy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "243",
+          "name": "venture",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "FIEND",
+          "team": null
+        },
+        {
+          "kills": "71",
+          "name": "Rebo",
+          "team": null
+        },
+        {
+          "kills": "114",
+          "name": "cheatcode",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "sSef",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "renz",
+          "team": null
+        },
+        {
+          "kills": "265",
+          "name": "GLYPH",
+          "team": null
+        },
+        {
+          "kills": "110",
+          "name": "instinct",
+          "team": null
+        },
+        {
+          "kills": "272",
+          "name": "d1msumboi",
+          "team": null
+        },
+        {
+          "kills": "115",
+          "name": "poiz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.19\n0.60\n0.98",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n27\n19\n8\n\n/",
+            "deaths": "22\n20\n2",
+            "fk": "127\n154\n80",
+            "hs%": "58%\n57%\n62%",
+            "kdr": "10\n4\n6",
+            "kills": "243",
+            "name": "venture",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.34\n0.94",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n33\n23\n10\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "156\n130\n203",
+            "hs%": "69%\n65%\n77%",
+            "kdr": "7\n5\n2",
+            "kills": "197",
+            "name": "FIEND",
+            "team": null
+          },
+          {
+            "acs": "0.07\n1.44\n0.56",
+            "adr": "-13\n-18\n+5",
+            "agent": "",
+            "assists": "/\n\n33\n23\n10\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "106\n50\n205",
+            "hs%": "58%\n48%\n77%",
+            "kdr": "8\n3\n5",
+            "kills": "71",
+            "name": "Rebo",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.76\n0.54",
+            "adr": "-14\n-12\n-2",
+            "agent": "",
+            "assists": "/\n\n32\n21\n11\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "96\n80\n123",
+            "hs%": "64%\n57%\n77%",
+            "kdr": "7\n3\n4",
+            "kills": "114",
+            "name": "cheatcode",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.49\n0.52",
+            "adr": "-16\n-11\n-5",
+            "agent": "",
+            "assists": "/\n\n29\n21\n8\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "76\n98\n37",
+            "hs%": "61%\n65%\n54%",
+            "kdr": "7\n5\n2",
+            "kills": "144",
+            "name": "sSef",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.74\n1.57",
+            "adr": "+18\n+1\n+17",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "36\n10\n26",
+            "fk": "183\n137\n209",
+            "hs%": "83%\n77%\n87%",
+            "kdr": "20\n8\n12",
+            "kills": "209",
+            "name": "renz",
+            "team": null
+          },
+          {
+            "acs": "1.45\n1.23\n1.31",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "29\n12\n17",
+            "fk": "158\n165\n154",
+            "hs%": "89%\n85%\n91%",
+            "kdr": "19\n6\n13",
+            "kills": "265",
+            "name": "GLYPH",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.38\n1.30",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "104\n82\n117",
+            "hs%": "86%\n77%\n91%",
+            "kdr": "16\n6\n10",
+            "kills": "110",
+            "name": "instinct",
+            "team": null
+          },
+          {
+            "acs": "1.34\n1.19\n1.24",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n23\n9\n14\n\n/",
+            "deaths": "31\n13\n18",
+            "fk": "163\n167\n161",
+            "hs%": "83%\n77%\n87%",
+            "kdr": "11\n4\n7",
+            "kills": "272",
+            "name": "d1msumboi",
+            "team": null
+          },
+          {
+            "acs": "0.36\n1.70\n1.21",
+            "adr": "+12\n-4\n+16",
+            "agent": "",
+            "assists": "/\n\n26\n10\n16\n\n/",
+            "deaths": "38\n6\n32",
+            "fk": "162\n58\n220",
+            "hs%": "69%\n38%\n87%",
+            "kdr": "6\n1\n5",
+            "kills": "115",
+            "name": "poiz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "70",
+          "name": "venture",
+          "team": "Radiance"
+        },
+        {
+          "kills": "343",
+          "name": "FIEND",
+          "team": "Radiance"
+        },
+        {
+          "kills": "354",
+          "name": "Rebo",
+          "team": "Radiance"
+        },
+        {
+          "kills": "195",
+          "name": "cheatcode",
+          "team": "Radiance"
+        },
+        {
+          "kills": "40",
+          "name": "sSef",
+          "team": "Radiance"
+        },
+        {
+          "kills": "296",
+          "name": "renz",
+          "team": "Cloud9 Academy"
+        },
+        {
+          "kills": "186",
+          "name": "GLYPH",
+          "team": "Cloud9 Academy"
+        },
+        {
+          "kills": "181",
+          "name": "d1msumboi",
+          "team": "Cloud9 Academy"
+        },
+        {
+          "kills": "160",
+          "name": "instinct",
+          "team": "Cloud9 Academy"
+        },
+        {
+          "kills": "365",
+          "name": "poiz",
+          "team": "Cloud9 Academy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.15\n1.80\n0.55",
+            "adr": "+1\n+7\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "15\n14\n1",
+            "fk": "123\n180\n70",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "7\n2\n5",
+            "kills": "70",
+            "name": "venture",
+            "team": "Radiance"
+          },
+          {
+            "acs": "1.02\n0.54\n1.46",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "164\n104\n220",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "343",
+            "name": "FIEND",
+            "team": "Radiance"
+          },
+          {
+            "acs": "0.86\n0.09\n1.56",
+            "adr": "-2\n-8\n+6",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "18\n3\n15",
+            "fk": "146\n64\n222",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "354",
+            "name": "Rebo",
+            "team": "Radiance"
+          },
+          {
+            "acs": "0.74\n0.73\n0.76",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "123\n120\n126",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "195",
+            "name": "cheatcode",
+            "team": "Radiance"
+          },
+          {
+            "acs": "0.55\n0.73\n0.39",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "64\n102\n29",
+            "hs%": "61%\n73%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "40",
+            "name": "sSef",
+            "team": "Radiance"
+          }
+        ],
+        [
+          {
+            "acs": "1.47\n1.28\n1.68",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "183\n140\n229",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "18\n8\n10",
+            "kills": "296",
+            "name": "renz",
+            "team": "Cloud9 Academy"
+          },
+          {
+            "acs": "1.21\n1.55\n0.85",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "154\n175\n130",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "10\n4\n6",
+            "kills": "186",
+            "name": "GLYPH",
+            "team": "Cloud9 Academy"
+          },
+          {
+            "acs": "1.14\n1.17\n1.12",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "140\n137\n143",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "6\n3\n3",
+            "kills": "181",
+            "name": "d1msumboi",
+            "team": "Cloud9 Academy"
+          },
+          {
+            "acs": "1.11\n1.07\n1.16",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "94\n80\n109",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "6\n5\n1",
+            "kills": "160",
+            "name": "instinct",
+            "team": "Cloud9 Academy"
+          },
+          {
+            "acs": "0.90\n0.39\n1.46",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "129\n63\n200",
+            "hs%": "65%\n42%\n91%",
+            "kdr": "4\n1\n3",
+            "kills": "365",
+            "name": "poiz",
+            "team": "Cloud9 Academy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 55299,
+  "teams": [
+    "Radiance",
+    "Cloud9 Academy"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tRound of 32"
+}

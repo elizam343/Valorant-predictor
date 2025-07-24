@@ -1,0 +1,594 @@
+{
+  "date": "2021-10-16 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "201",
+          "name": "Melser",
+          "team": "Australs"
+        },
+        {
+          "kills": "262",
+          "name": "kiNgg",
+          "team": "Australs"
+        },
+        {
+          "kills": "206",
+          "name": "Tacolilla",
+          "team": "Australs"
+        },
+        {
+          "kills": "160",
+          "name": "Capi",
+          "team": "Australs"
+        },
+        {
+          "kills": "156",
+          "name": "adverso",
+          "team": "Australs"
+        },
+        {
+          "kills": "201",
+          "name": "Myssen",
+          "team": "Liberty"
+        },
+        {
+          "kills": "225",
+          "name": "krain",
+          "team": "Liberty"
+        },
+        {
+          "kills": "202",
+          "name": "shion",
+          "team": "Liberty"
+        },
+        {
+          "kills": "166",
+          "name": "pleets",
+          "team": "Liberty"
+        },
+        {
+          "kills": "131",
+          "name": "liazzi",
+          "team": "Liberty"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.34\n1.10\n1.64",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "141\n107\n181",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "7\n6\n1",
+            "kills": "201",
+            "name": "Melser",
+            "team": "Australs"
+          },
+          {
+            "acs": "1.25\n1.72\n0.69",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "178\n225\n121",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "6\n5\n1",
+            "kills": "262",
+            "name": "kiNgg",
+            "team": "Australs"
+          },
+          {
+            "acs": "1.07\n0.75\n1.44",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "127\n44\n228",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "6\n4\n2",
+            "kills": "206",
+            "name": "Tacolilla",
+            "team": "Australs"
+          },
+          {
+            "acs": "1.06\n1.43\n0.61",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "112\n128\n94",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "2\n0\n2",
+            "kills": "160",
+            "name": "Capi",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.78\n0.58\n1.02",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "103\n88\n122",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "7\n5\n2",
+            "kills": "156",
+            "name": "adverso",
+            "team": "Australs"
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.00\n1.11",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "142\n145\n139",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "201",
+            "name": "Myssen",
+            "team": "Liberty"
+          },
+          {
+            "acs": "1.05\n0.76\n1.28",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "151\n118\n178",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "7\n1\n6",
+            "kills": "225",
+            "name": "krain",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.87\n0.56\n1.13",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "126\n85\n160",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "202",
+            "name": "shion",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.86\n1.27\n0.52",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "110\n122\n101",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "166",
+            "name": "pleets",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.67\n0.99\n0.41",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "99\n161\n48",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "131",
+            "name": "liazzi",
+            "team": "Liberty"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "212",
+          "name": "Melser",
+          "team": null
+        },
+        {
+          "kills": "294",
+          "name": "kiNgg",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "Tacolilla",
+          "team": null
+        },
+        {
+          "kills": "214",
+          "name": "Capi",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "adverso",
+          "team": null
+        },
+        {
+          "kills": "228",
+          "name": "shion",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "krain",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "Myssen",
+          "team": null
+        },
+        {
+          "kills": "154",
+          "name": "pleets",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "liazzi",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.76\n1.46",
+            "adr": "+15\n+5\n+10",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "37\n18\n19",
+            "fk": "164\n135\n203",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "11\n9\n2",
+            "kills": "212",
+            "name": "Melser",
+            "team": null
+          },
+          {
+            "acs": "1.65\n0.72\n1.25",
+            "adr": "+11\n+13\n-2",
+            "agent": "",
+            "assists": "/\n\n26\n12\n14\n\n/",
+            "deaths": "37\n25\n12",
+            "fk": "160\n189\n122",
+            "hs%": "79%\n88%\n67%",
+            "kdr": "13\n10\n3",
+            "kills": "294",
+            "name": "kiNgg",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.38\n1.10",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "135\n91\n195",
+            "hs%": "71%\n71%\n72%",
+            "kdr": "10\n7\n3",
+            "kills": "155",
+            "name": "Tacolilla",
+            "team": null
+          },
+          {
+            "acs": "1.62\n0.38\n1.09",
+            "adr": "+4\n+13\n-9",
+            "agent": "",
+            "assists": "/\n\n23\n9\n14\n\n/",
+            "deaths": "27\n22\n5",
+            "fk": "111\n137\n76",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "12\n10\n2",
+            "kills": "214",
+            "name": "Capi",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.99\n0.90",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n26\n16\n10\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "111\n104\n120",
+            "hs%": "74%\n75%\n72%",
+            "kdr": "11\n8\n3",
+            "kills": "155",
+            "name": "adverso",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.01\n1.03",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "32\n14\n18",
+            "fk": "148\n137\n156",
+            "hs%": "74%\n78%\n71%",
+            "kdr": "14\n11\n3",
+            "kills": "228",
+            "name": "shion",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.12\n0.98",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n32\n13\n19\n\n/",
+            "deaths": "29\n12\n17",
+            "fk": "129\n101\n150",
+            "hs%": "67%\n72%\n63%",
+            "kdr": "9\n1\n8",
+            "kills": "158",
+            "name": "krain",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.77\n0.78",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n31\n14\n17\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "118\n138\n103",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n6\n1",
+            "kills": "191",
+            "name": "Myssen",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.46\n0.77",
+            "adr": "-8\n+1\n-9",
+            "agent": "",
+            "assists": "/\n\n30\n10\n20\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "96\n99\n93",
+            "hs%": "69%\n72%\n67%",
+            "kdr": "11\n5\n6",
+            "kills": "154",
+            "name": "pleets",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.33\n0.58",
+            "adr": "-13\n-1\n-12",
+            "agent": "",
+            "assists": "/\n\n31\n13\n18\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "102\n151\n64",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "207",
+            "name": "liazzi",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "389",
+          "name": "Melser",
+          "team": "Australs"
+        },
+        {
+          "kills": "201",
+          "name": "kiNgg",
+          "team": "Australs"
+        },
+        {
+          "kills": "75",
+          "name": "Capi",
+          "team": "Australs"
+        },
+        {
+          "kills": "212",
+          "name": "Tacolilla",
+          "team": "Australs"
+        },
+        {
+          "kills": "152",
+          "name": "adverso",
+          "team": "Australs"
+        },
+        {
+          "kills": "220",
+          "name": "shion",
+          "team": "Liberty"
+        },
+        {
+          "kills": "192",
+          "name": "krain",
+          "team": "Liberty"
+        },
+        {
+          "kills": "139",
+          "name": "pleets",
+          "team": "Liberty"
+        },
+        {
+          "kills": "104",
+          "name": "liazzi",
+          "team": "Liberty"
+        },
+        {
+          "kills": "97",
+          "name": "Myssen",
+          "team": "Liberty"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.60\n1.37\n1.93",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "190\n162\n231",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "4\n3\n1",
+            "kills": "389",
+            "name": "Melser",
+            "team": "Australs"
+          },
+          {
+            "acs": "1.25\n1.58\n0.76",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "141\n153\n122",
+            "hs%": "85%\n92%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "201",
+            "name": "kiNgg",
+            "team": "Australs"
+          },
+          {
+            "acs": "1.13\n1.82\n0.08",
+            "adr": "+4\n+9\n-5",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "110\n147\n54",
+            "hs%": "70%\n83%\n50%",
+            "kdr": "10\n10\n0",
+            "kills": "75",
+            "name": "Capi",
+            "team": "Australs"
+          },
+          {
+            "acs": "1.13\n1.02\n1.31",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "144\n138\n154",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "212",
+            "name": "Tacolilla",
+            "team": "Australs"
+          },
+          {
+            "acs": "1.04\n1.10\n0.95",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "120\n121\n118",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "152",
+            "name": "adverso",
+            "team": "Australs"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.68\n0.89",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "171\n202\n151",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "8\n7\n1",
+            "kills": "220",
+            "name": "shion",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.92\n0.86\n0.95",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "105\n81\n121",
+            "hs%": "50%\n63%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "192",
+            "name": "krain",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.67\n1.06\n0.40",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "80\n71\n86",
+            "hs%": "55%\n63%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "139",
+            "name": "pleets",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.48\n0.81\n0.26",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "104\n139\n81",
+            "hs%": "55%\n63%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "104",
+            "name": "liazzi",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.47\n0.52\n0.44",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "92\n129\n66",
+            "hs%": "60%\n75%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "97",
+            "name": "Myssen",
+            "team": "Liberty"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 42185,
+  "teams": [
+    "Liberty",
+    "Australs"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tSemifinals"
+}

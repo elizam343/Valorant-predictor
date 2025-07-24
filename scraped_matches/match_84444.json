@@ -1,0 +1,612 @@
+{
+  "date": "2022-04-03 04:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "348",
+          "name": "nabbsky",
+          "team": "Alter Ego Celeste"
+        },
+        {
+          "kills": "254",
+          "name": "enerii",
+          "team": "Alter Ego Celeste"
+        },
+        {
+          "kills": "161",
+          "name": "opel",
+          "team": "Alter Ego Celeste"
+        },
+        {
+          "kills": "165",
+          "name": "Eisberg",
+          "team": "Alter Ego Celeste"
+        },
+        {
+          "kills": "150",
+          "name": "Ayumiii",
+          "team": "Alter Ego Celeste"
+        },
+        {
+          "kills": "274",
+          "name": "YCATS",
+          "team": "Cerulean Sentinel Esports White"
+        },
+        {
+          "kills": "261",
+          "name": "Keiiro",
+          "team": "Cerulean Sentinel Esports White"
+        },
+        {
+          "kills": "162",
+          "name": "eluwu",
+          "team": "Cerulean Sentinel Esports White"
+        },
+        {
+          "kills": "114",
+          "name": "Jaded",
+          "team": "Cerulean Sentinel Esports White"
+        },
+        {
+          "kills": "98",
+          "name": "StrwbryBagel",
+          "team": "Cerulean Sentinel Esports White"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "2.03\n1.66\n2.52",
+            "adr": "+20\n+9\n+11",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "29\n15\n14",
+            "fk": "211\n179\n255",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "348",
+            "name": "nabbsky",
+            "team": "Alter Ego Celeste"
+          },
+          {
+            "acs": "1.26\n1.30\n1.21",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "158\n179\n130",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "5\n3\n2",
+            "kills": "254",
+            "name": "enerii",
+            "team": "Alter Ego Celeste"
+          },
+          {
+            "acs": "0.99\n0.99\n1.00",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "95\n70\n127",
+            "hs%": "71%\n83%\n56%",
+            "kdr": "6\n6\n0",
+            "kills": "161",
+            "name": "opel",
+            "team": "Alter Ego Celeste"
+          },
+          {
+            "acs": "0.88\n1.28\n0.36",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "112\n145\n67",
+            "hs%": "62%\n75%\n44%",
+            "kdr": "5\n4\n1",
+            "kills": "165",
+            "name": "Eisberg",
+            "team": "Alter Ego Celeste"
+          },
+          {
+            "acs": "0.76\n1.08\n0.34",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "113\n142\n75",
+            "hs%": "76%\n92%\n56%",
+            "kdr": "13\n8\n5",
+            "kills": "150",
+            "name": "Ayumiii",
+            "team": "Alter Ego Celeste"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n0.84\n1.51",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "188\n139\n224",
+            "hs%": "62%\n78%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "274",
+            "name": "YCATS",
+            "team": "Cerulean Sentinel Esports White"
+          },
+          {
+            "acs": "1.15\n1.40\n0.96",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "173\n211\n144",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "261",
+            "name": "Keiiro",
+            "team": "Cerulean Sentinel Esports White"
+          },
+          {
+            "acs": "0.66\n0.96\n0.42",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "108\n134\n88",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "162",
+            "name": "eluwu",
+            "team": "Cerulean Sentinel Esports White"
+          },
+          {
+            "acs": "0.52\n0.42\n0.59",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "74\n40\n99",
+            "hs%": "52%\n44%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "114",
+            "name": "Jaded",
+            "team": "Cerulean Sentinel Esports White"
+          },
+          {
+            "acs": "0.47\n0.66\n0.34",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "77\n108\n54",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "98",
+            "name": "StrwbryBagel",
+            "team": "Cerulean Sentinel Esports White"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "333",
+          "name": "enerii",
+          "team": null
+        },
+        {
+          "kills": "263",
+          "name": "nabbsky",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "Ayumiii",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "opel",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "Eisberg",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "Keiiro",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "YCATS",
+          "team": null
+        },
+        {
+          "kills": "256",
+          "name": "eluwu",
+          "team": null
+        },
+        {
+          "kills": "131",
+          "name": "nyarks",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "StrwbryBagel",
+          "team": null
+        },
+        {
+          "kills": "69",
+          "name": "Jaded",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.58\n1.31\n1.46",
+            "adr": "+21\n+16\n+5",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "50\n31\n19",
+            "fk": "189\n191\n187",
+            "hs%": "79%\n76%\n82%",
+            "kdr": "12\n5\n7",
+            "kills": "333",
+            "name": "enerii",
+            "team": null
+          },
+          {
+            "acs": "1.35\n1.29\n1.32",
+            "adr": "+15\n+10\n+5",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "44\n25\n19",
+            "fk": "158\n161\n155",
+            "hs%": "77%\n76%\n77%",
+            "kdr": "8\n6\n2",
+            "kills": "263",
+            "name": "nabbsky",
+            "team": null
+          },
+          {
+            "acs": "1.33\n1.13\n1.24",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n29\n12\n17\n\n/",
+            "deaths": "36\n18\n18",
+            "fk": "158\n151\n165",
+            "hs%": "85%\n92%\n77%",
+            "kdr": "21\n12\n9",
+            "kills": "215",
+            "name": "Ayumiii",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.98\n1.05",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "107\n101\n113",
+            "hs%": "74%\n80%\n68%",
+            "kdr": "13\n9\n4",
+            "kills": "153",
+            "name": "opel",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.80\n0.90",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n33\n17\n16\n\n/",
+            "deaths": "32\n15\n17",
+            "fk": "125\n132\n116",
+            "hs%": "68%\n76%\n59%",
+            "kdr": "14\n11\n3",
+            "kills": "198",
+            "name": "Eisberg",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n0.86\n1.01",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n36\n16\n20\n\n/",
+            "deaths": "37\n22\n15",
+            "fk": "152\n170\n136",
+            "hs%": "85%\n91%\n80%",
+            "kdr": "11\n5\n6",
+            "kills": "262",
+            "name": "Keiiro",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.12\n0.97",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n39\n20\n19\n\n/",
+            "deaths": "32\n14\n18",
+            "fk": "150\n119\n177",
+            "hs%": "62%\n77%\n48%",
+            "kdr": "11\n7\n4",
+            "kills": "199",
+            "name": "YCATS",
+            "team": null
+          },
+          {
+            "acs": "1.14\n0.65\n0.88",
+            "adr": "-7\n+2\n-9",
+            "agent": "",
+            "assists": "/\n\n39\n17\n22\n\n/",
+            "deaths": "32\n19\n13",
+            "fk": "146\n172\n122",
+            "hs%": "64%\n68%\n60%",
+            "kdr": "7\n4\n3",
+            "kills": "256",
+            "name": "eluwu",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.71\n0.64",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "108\n93\n123",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "5\n3\n2",
+            "kills": "131",
+            "name": "nyarks",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.48\n0.60",
+            "adr": "-17\n-5\n-12",
+            "agent": "",
+            "assists": "/\n\n36\n16\n20\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "94\n117\n74",
+            "hs%": "55%\n50%\n60%",
+            "kdr": "4\n1\n3",
+            "kills": "150",
+            "name": "StrwbryBagel",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.59\n0.52",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "74\n40\n99",
+            "hs%": "52%\n44%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "69",
+            "name": "Jaded",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "334",
+          "name": "Ayumiii",
+          "team": "Alter Ego Celeste"
+        },
+        {
+          "kills": "326",
+          "name": "enerii",
+          "team": "Alter Ego Celeste"
+        },
+        {
+          "kills": "147",
+          "name": "opel",
+          "team": "Alter Ego Celeste"
+        },
+        {
+          "kills": "285",
+          "name": "Eisberg",
+          "team": "Alter Ego Celeste"
+        },
+        {
+          "kills": "123",
+          "name": "nabbsky",
+          "team": "Alter Ego Celeste"
+        },
+        {
+          "kills": "211",
+          "name": "eluwu",
+          "team": "Cerulean Sentinel Esports White"
+        },
+        {
+          "kills": "165",
+          "name": "Keiiro",
+          "team": "Cerulean Sentinel Esports White"
+        },
+        {
+          "kills": "177",
+          "name": "YCATS",
+          "team": "Cerulean Sentinel Esports White"
+        },
+        {
+          "kills": "146",
+          "name": "StrwbryBagel",
+          "team": "Cerulean Sentinel Esports White"
+        },
+        {
+          "kills": "203",
+          "name": "nyarks",
+          "team": "Cerulean Sentinel Esports White"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.62\n1.56\n1.68",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "193\n158\n228",
+            "hs%": "92%\n92%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "334",
+            "name": "Ayumiii",
+            "team": "Alter Ego Celeste"
+          },
+          {
+            "acs": "1.61\n1.84\n1.38",
+            "adr": "+15\n+11\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "31\n18\n13",
+            "fk": "215\n202\n227",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "7\n2\n5",
+            "kills": "326",
+            "name": "enerii",
+            "team": "Alter Ego Celeste"
+          },
+          {
+            "acs": "1.10\n1.24\n0.97",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "117\n130\n104",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "7\n3\n4",
+            "kills": "147",
+            "name": "opel",
+            "team": "Alter Ego Celeste"
+          },
+          {
+            "acs": "0.91\n0.72\n1.10",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "136\n121\n150",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "9\n7\n2",
+            "kills": "285",
+            "name": "Eisberg",
+            "team": "Alter Ego Celeste"
+          },
+          {
+            "acs": "0.75\n1.05\n0.44",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "115\n145\n85",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "6\n4\n2",
+            "kills": "123",
+            "name": "nabbsky",
+            "team": "Alter Ego Celeste"
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.26\n0.86",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "176\n199\n154",
+            "hs%": "62%\n62%\n62%",
+            "kdr": "5\n3\n2",
+            "kills": "211",
+            "name": "eluwu",
+            "team": "Cerulean Sentinel Esports White"
+          },
+          {
+            "acs": "0.90\n1.04\n0.77",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "135\n142\n128",
+            "hs%": "85%\n92%\n77%",
+            "kdr": "5\n2\n3",
+            "kills": "165",
+            "name": "Keiiro",
+            "team": "Cerulean Sentinel Esports White"
+          },
+          {
+            "acs": "0.77\n0.76\n0.77",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "120\n105\n135",
+            "hs%": "62%\n77%\n46%",
+            "kdr": "8\n4\n4",
+            "kills": "177",
+            "name": "YCATS",
+            "team": "Cerulean Sentinel Esports White"
+          },
+          {
+            "acs": "0.70\n0.79\n0.61",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "108\n123\n92",
+            "hs%": "50%\n46%\n54%",
+            "kdr": "0\n0\n0",
+            "kills": "146",
+            "name": "StrwbryBagel",
+            "team": "Cerulean Sentinel Esports White"
+          },
+          {
+            "acs": "0.64\n0.56\n0.71",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "108\n93\n123",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "5\n3\n2",
+            "kills": "203",
+            "name": "nyarks",
+            "team": "Cerulean Sentinel Esports White"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 84444,
+  "teams": [
+    "Alter Ego Celeste",
+    "Cerulean Sentinel Esports White"
+  ],
+  "tournament": "Knockouts: \n\t\t\t\t\t\tDecider"
+}

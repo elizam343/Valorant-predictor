@@ -1,0 +1,788 @@
+{
+  "date": "2021-08-01 13:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "YouBreak",
+          "team": "PACT"
+        },
+        {
+          "kills": "220",
+          "name": "Katu",
+          "team": "PACT"
+        },
+        {
+          "kills": "247",
+          "name": "Stix",
+          "team": "PACT"
+        },
+        {
+          "kills": "156",
+          "name": "saiko",
+          "team": "PACT"
+        },
+        {
+          "kills": "93",
+          "name": "vilczek",
+          "team": "PACT"
+        },
+        {
+          "kills": "276",
+          "name": "l0udly",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "260",
+          "name": "Dreamas",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "235",
+          "name": "Boo",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "275",
+          "name": "krea6on",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "112",
+          "name": "feqew",
+          "team": "Gydom Galva"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.09\n0.88\n1.19",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "138\n117\n149",
+            "hs%": "67%\n83%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "245",
+            "name": "YouBreak",
+            "team": "PACT"
+          },
+          {
+            "acs": "0.98\n1.06\n0.93",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "140\n164\n127",
+            "hs%": "61%\n67%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "220",
+            "name": "Katu",
+            "team": "PACT"
+          },
+          {
+            "acs": "0.97\n0.82\n1.05",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "140\n109\n155",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "247",
+            "name": "Stix",
+            "team": "PACT"
+          },
+          {
+            "acs": "0.53\n0.76\n0.41",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "96\n71\n109",
+            "hs%": "61%\n67%\n58%",
+            "kdr": "8\n5\n3",
+            "kills": "156",
+            "name": "saiko",
+            "team": "PACT"
+          },
+          {
+            "acs": "0.30\n0.16\n0.38",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "61\n59\n62",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "93",
+            "name": "vilczek",
+            "team": "PACT"
+          }
+        ],
+        [
+          {
+            "acs": "1.75\n1.41\n2.44",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "173\n147\n226",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "8\n5\n3",
+            "kills": "276",
+            "name": "l0udly",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "1.36\n1.70\n0.70",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "172\n201\n114",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "4\n0\n4",
+            "kills": "260",
+            "name": "Dreamas",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "1.27\n1.22\n1.37",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "167\n151\n199",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "11\n7\n4",
+            "kills": "235",
+            "name": "Boo",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "1.21\n1.25\n1.13",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "150\n162\n126",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "11\n9\n2",
+            "kills": "275",
+            "name": "krea6on",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "0.51\n0.56\n0.40",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "68\n93\n19",
+            "hs%": "61%\n67%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "112",
+            "name": "feqew",
+            "team": "Gydom Galva"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "278",
+          "name": "Katu",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "saiko",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "Stix",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "vilczek",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "YouBreak",
+          "team": null
+        },
+        {
+          "kills": "268",
+          "name": "l0udly",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "feqew",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "Dreamas",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "krea6on",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Boo",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.40\n0.96\n1.18",
+            "adr": "+8\n+12\n-4",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "52\n33\n19",
+            "fk": "160\n190\n127",
+            "hs%": "63%\n58%\n69%",
+            "kdr": "5\n3\n2",
+            "kills": "278",
+            "name": "Katu",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.71\n0.90",
+            "adr": "-13\n-4\n-9",
+            "agent": "",
+            "assists": "/\n\n53\n26\n27\n\n/",
+            "deaths": "40\n22\n18",
+            "fk": "132\n133\n130",
+            "hs%": "62%\n68%\n55%",
+            "kdr": "19\n13\n6",
+            "kills": "230",
+            "name": "saiko",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.80\n0.90",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n48\n23\n25\n\n/",
+            "deaths": "39\n20\n19",
+            "fk": "123\n120\n127",
+            "hs%": "65%\n65%\n66%",
+            "kdr": "17\n12\n5",
+            "kills": "197",
+            "name": "Stix",
+            "team": null
+          },
+          {
+            "acs": "0.63\n0.63\n0.63",
+            "adr": "-27\n-13\n-14",
+            "agent": "",
+            "assists": "/\n\n49\n24\n25\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "82\n76\n87",
+            "hs%": "63%\n65%\n62%",
+            "kdr": "18\n11\n7",
+            "kills": "124",
+            "name": "vilczek",
+            "team": null
+          },
+          {
+            "acs": "0.43\n0.86\n0.63",
+            "adr": "-20\n-14\n-6",
+            "agent": "",
+            "assists": "/\n\n52\n28\n24\n\n/",
+            "deaths": "32\n14\n18",
+            "fk": "97\n78\n118",
+            "hs%": "58%\n58%\n59%",
+            "kdr": "9\n2\n7",
+            "kills": "133",
+            "name": "YouBreak",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.58\n1.26\n1.41",
+            "adr": "+24\n+18\n+6",
+            "agent": "",
+            "assists": "/\n\n34\n14\n20\n\n/",
+            "deaths": "58\n32\n26",
+            "fk": "157\n155\n159",
+            "hs%": "83%\n90%\n77%",
+            "kdr": "26\n10\n16",
+            "kills": "268",
+            "name": "l0udly",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.48\n1.24",
+            "adr": "+20\n+4\n+16",
+            "agent": "",
+            "assists": "/\n\n36\n20\n16\n\n/",
+            "deaths": "56\n24\n32",
+            "fk": "155\n142\n167",
+            "hs%": "70%\n69%\n71%",
+            "kdr": "8\n6\n2",
+            "kills": "223",
+            "name": "feqew",
+            "team": null
+          },
+          {
+            "acs": "1.46\n0.73\n1.08",
+            "adr": "+11\n+15\n-4",
+            "agent": "",
+            "assists": "/\n\n33\n12\n21\n\n/",
+            "deaths": "44\n27\n17",
+            "fk": "129\n167\n93",
+            "hs%": "80%\n90%\n71%",
+            "kdr": "13\n3\n10",
+            "kills": "253",
+            "name": "Dreamas",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.90\n0.98",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "48\n25\n23",
+            "fk": "119\n141\n98",
+            "hs%": "72%\n79%\n65%",
+            "kdr": "17\n13\n4",
+            "kills": "227",
+            "name": "krea6on",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.99\n0.93",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n41\n19\n22\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "125\n107\n141",
+            "hs%": "82%\n86%\n77%",
+            "kdr": "23\n11\n12",
+            "kills": "163",
+            "name": "Boo",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "7",
+          "name": "Stix",
+          "team": "PACT"
+        },
+        {
+          "kills": "277",
+          "name": "vilczek",
+          "team": "PACT"
+        },
+        {
+          "kills": "68",
+          "name": "Katu",
+          "team": "PACT"
+        },
+        {
+          "kills": "112",
+          "name": "saiko",
+          "team": "PACT"
+        },
+        {
+          "kills": "52",
+          "name": "YouBreak",
+          "team": "PACT"
+        },
+        {
+          "kills": "396",
+          "name": "feqew",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "318",
+          "name": "l0udly",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "208",
+          "name": "Boo",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "106",
+          "name": "Dreamas",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "135",
+          "name": "krea6on",
+          "team": "Gydom Galva"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "0.74\n0.97\n0.04",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "94\n124\n7",
+            "hs%": "38%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "7",
+            "name": "Stix",
+            "team": "PACT"
+          },
+          {
+            "acs": "0.73\n0.65\n0.96",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "103\n94\n131",
+            "hs%": "50%\n42%\n75%",
+            "kdr": "3\n3\n0",
+            "kills": "277",
+            "name": "vilczek",
+            "team": "PACT"
+          },
+          {
+            "acs": "0.71\n0.96\n0.03",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "114\n134\n51",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "68",
+            "name": "Katu",
+            "team": "PACT"
+          },
+          {
+            "acs": "0.64\n0.76\n0.29",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "108\n134\n32",
+            "hs%": "50%\n58%\n25%",
+            "kdr": "4\n3\n1",
+            "kills": "112",
+            "name": "saiko",
+            "team": "PACT"
+          },
+          {
+            "acs": "0.30\n0.39\n0.04",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "4\n4\n0",
+            "fk": "84\n100\n34",
+            "hs%": "44%\n50%\n25%",
+            "kdr": "1\n0\n1",
+            "kills": "52",
+            "name": "YouBreak",
+            "team": "PACT"
+          }
+        ],
+        [
+          {
+            "acs": "2.17\n2.16\n2.18",
+            "adr": "+19\n+5\n+14",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "24\n6\n18",
+            "fk": "227\n231\n226",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "396",
+            "name": "feqew",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "1.55\n1.96\n1.41",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n0\n7\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "173\n57\n212",
+            "hs%": "81%\n100%\n75%",
+            "kdr": "8\n0\n8",
+            "kills": "318",
+            "name": "l0udly",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "1.18\n1.77\n0.98",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n0\n7\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "140\n120\n146",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "208",
+            "name": "Boo",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "0.88\n1.48\n0.68",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "81\n86\n79",
+            "hs%": "69%\n100%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "106",
+            "name": "Dreamas",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "0.80\n0.29\n0.96",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "69\n41\n78",
+            "hs%": "81%\n100%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "135",
+            "name": "krea6on",
+            "team": "Gydom Galva"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "269",
+          "name": "Katu",
+          "team": "PACT"
+        },
+        {
+          "kills": "290",
+          "name": "saiko",
+          "team": "PACT"
+        },
+        {
+          "kills": "178",
+          "name": "Stix",
+          "team": "PACT"
+        },
+        {
+          "kills": "131",
+          "name": "vilczek",
+          "team": "PACT"
+        },
+        {
+          "kills": "131",
+          "name": "YouBreak",
+          "team": "PACT"
+        },
+        {
+          "kills": "249",
+          "name": "feqew",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "217",
+          "name": "l0udly",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "217",
+          "name": "Dreamas",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "216",
+          "name": "krea6on",
+          "team": "Gydom Galva"
+        },
+        {
+          "kills": "131",
+          "name": "Boo",
+          "team": "Gydom Galva"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.61\n1.95\n1.27",
+            "adr": "+12\n+12\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "27\n18\n9",
+            "fk": "202\n254\n149",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "3\n1\n2",
+            "kills": "269",
+            "name": "Katu",
+            "team": "PACT"
+          },
+          {
+            "acs": "1.31\n1.49\n1.12",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "170\n162\n179",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "7\n5\n2",
+            "kills": "290",
+            "name": "saiko",
+            "team": "PACT"
+          },
+          {
+            "acs": "0.96\n1.12\n0.79",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "130\n123\n137",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "10\n7\n3",
+            "kills": "178",
+            "name": "Stix",
+            "team": "PACT"
+          },
+          {
+            "acs": "0.80\n0.84\n0.76",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "83\n68\n98",
+            "hs%": "81%\n92%\n69%",
+            "kdr": "13\n8\n5",
+            "kills": "131",
+            "name": "vilczek",
+            "team": "PACT"
+          },
+          {
+            "acs": "0.53\n0.24\n0.81",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "78\n39\n116",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "3\n1\n2",
+            "kills": "131",
+            "name": "YouBreak",
+            "team": "PACT"
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n1.02\n1.33",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "170\n161\n180",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "4\n4\n0",
+            "kills": "249",
+            "name": "feqew",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "1.09\n1.61\n0.57",
+            "adr": "+3\n+8\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "136\n193\n79",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "10\n5\n5",
+            "kills": "217",
+            "name": "l0udly",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "1.02\n1.24\n0.79",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "128\n160\n96",
+            "hs%": "81%\n92%\n69%",
+            "kdr": "5\n2\n3",
+            "kills": "217",
+            "name": "Dreamas",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "0.93\n1.11\n0.74",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "128\n152\n104",
+            "hs%": "62%\n69%\n54%",
+            "kdr": "3\n2\n1",
+            "kills": "216",
+            "name": "krea6on",
+            "team": "Gydom Galva"
+          },
+          {
+            "acs": "0.54\n0.26\n0.81",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "86\n63\n109",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "8\n3\n5",
+            "kills": "131",
+            "name": "Boo",
+            "team": "Gydom Galva"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 30034,
+  "teams": [
+    "Gydom Galva",
+    "PACT"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tGrand Final"
+}

@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-18 10:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "293",
+          "name": "TrakyaLee",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "137",
+          "name": "ASAP",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "152",
+          "name": "OrionVx",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "140",
+          "name": "BADOO",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "121",
+          "name": "Sagitarii",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "336",
+          "name": "Ravanue",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "213",
+          "name": "Ckanic",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "201",
+          "name": "Guanji",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "262",
+          "name": "Gloomy",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "224",
+          "name": "Lanky",
+          "team": "Gringo Team"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.28\n1.19",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "163\n185\n112",
+            "hs%": "65%\n58%\n80%",
+            "kdr": "1\n1\n0",
+            "kills": "293",
+            "name": "TrakyaLee",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "0.57\n0.74\n0.15",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "98\n125\n33",
+            "hs%": "53%\n58%\n40%",
+            "kdr": "1\n1\n0",
+            "kills": "137",
+            "name": "ASAP",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "0.49\n0.15\n1.32",
+            "adr": "-8\n-10\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "107\n61\n217",
+            "hs%": "41%\n33%\n60%",
+            "kdr": "3\n2\n1",
+            "kills": "152",
+            "name": "OrionVx",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "0.45\n0.44\n0.47",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "97\n102\n85",
+            "hs%": "59%\n42%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "140",
+            "name": "BADOO",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "0.31\n0.02\n1.46",
+            "adr": "-10\n-12\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n13\n4\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "74\n28\n185",
+            "hs%": "35%\n8%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "121",
+            "name": "Sagitarii",
+            "team": "Merlyn Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.81\n1.56\n1.92",
+            "adr": "+12\n+2\n+10",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "225\n238\n219",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "12\n1\n11",
+            "kills": "336",
+            "name": "Ravanue",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "1.30\n0.23\n1.75",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "138\n44\n177",
+            "hs%": "94%\n80%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "213",
+            "name": "Ckanic",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "1.25\n0.80\n1.44",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "138\n104\n151",
+            "hs%": "94%\n80%\n100%",
+            "kdr": "7\n0\n7",
+            "kills": "201",
+            "name": "Guanji",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "1.20\n0.57\n1.46",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "171\n98\n201",
+            "hs%": "82%\n60%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "262",
+            "name": "Gloomy",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "1.15\n1.59\n0.97",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "150\n242\n112",
+            "hs%": "76%\n60%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "224",
+            "name": "Lanky",
+            "team": "Gringo Team"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "263",
+          "name": "TrakyaLee",
+          "team": null
+        },
+        {
+          "kills": "231",
+          "name": "Sagitarii",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "ASAP",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "BADOO",
+          "team": null
+        },
+        {
+          "kills": "74",
+          "name": "OrionVx",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "Ckanic",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "Ravanue",
+          "team": null
+        },
+        {
+          "kills": "276",
+          "name": "Lanky",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "Guanji",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "Gloomy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.92\n1.16\n1.04",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "52\n26\n26",
+            "fk": "163\n164\n162",
+            "hs%": "65%\n58%\n72%",
+            "kdr": "10\n5\n5",
+            "kills": "263",
+            "name": "TrakyaLee",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.14\n0.96",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n53\n30\n23\n\n/",
+            "deaths": "52\n26\n26",
+            "fk": "148\n134\n162",
+            "hs%": "70%\n48%\n93%",
+            "kdr": "8\n3\n5",
+            "kills": "231",
+            "name": "Sagitarii",
+            "team": null
+          },
+          {
+            "acs": "0.83\n0.96\n0.89",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n43\n24\n19\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "110\n113\n106",
+            "hs%": "68%\n71%\n66%",
+            "kdr": "11\n6\n5",
+            "kills": "163",
+            "name": "ASAP",
+            "team": null
+          },
+          {
+            "acs": "0.51\n0.77\n0.64",
+            "adr": "-22\n-12\n-10",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "90\n84\n97",
+            "hs%": "63%\n48%\n79%",
+            "kdr": "14\n5\n9",
+            "kills": "138",
+            "name": "BADOO",
+            "team": null
+          },
+          {
+            "acs": "0.35\n0.83\n0.58",
+            "adr": "-23\n-18\n-5",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "25\n8\n17",
+            "fk": "84\n49\n120",
+            "hs%": "62%\n52%\n72%",
+            "kdr": "21\n9\n12",
+            "kills": "74",
+            "name": "OrionVx",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.97\n1.46\n1.22",
+            "adr": "+17\n+5\n+12",
+            "agent": "",
+            "assists": "/\n\n38\n20\n18\n\n/",
+            "deaths": "55\n25\n30",
+            "fk": "155\n136\n171",
+            "hs%": "80%\n72%\n87%",
+            "kdr": "13\n9\n4",
+            "kills": "216",
+            "name": "Ckanic",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.57\n1.20",
+            "adr": "+9\n-8\n+17",
+            "agent": "",
+            "assists": "/\n\n39\n24\n15\n\n/",
+            "deaths": "48\n16\n32",
+            "fk": "158\n123\n190",
+            "hs%": "80%\n66%\n94%",
+            "kdr": "24\n9\n15",
+            "kills": "166",
+            "name": "Ravanue",
+            "team": null
+          },
+          {
+            "acs": "1.29\n1.12\n1.20",
+            "adr": "+13\n+9\n+4",
+            "agent": "",
+            "assists": "/\n\n38\n21\n17\n\n/",
+            "deaths": "51\n30\n21",
+            "fk": "165\n197\n134",
+            "hs%": "65%\n66%\n65%",
+            "kdr": "9\n5\n4",
+            "kills": "276",
+            "name": "Lanky",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.99\n1.07",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n38\n18\n20\n\n/",
+            "deaths": "45\n24\n21",
+            "fk": "125\n126\n123",
+            "hs%": "80%\n72%\n87%",
+            "kdr": "19\n6\n13",
+            "kills": "218",
+            "name": "Guanji",
+            "team": null
+          },
+          {
+            "acs": "0.68\n1.31\n1.01",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n42\n21\n21\n\n/",
+            "deaths": "44\n16\n28",
+            "fk": "143\n111\n174",
+            "hs%": "70%\n62%\n77%",
+            "kdr": "14\n4\n10",
+            "kills": "162",
+            "name": "Gloomy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "230",
+          "name": "Sagitarii",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "174",
+          "name": "ASAP",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "271",
+          "name": "TrakyaLee",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "167",
+          "name": "OrionVx",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "192",
+          "name": "BADOO",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "129",
+          "name": "Lanky",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "128",
+          "name": "Guanji",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "233",
+          "name": "Gloomy",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "291",
+          "name": "Ravanue",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "195",
+          "name": "Ckanic",
+          "team": "Gringo Team"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.55\n2.41\n0.84",
+            "adr": "+11\n+13\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "29\n20\n9",
+            "fk": "217\n299\n148",
+            "hs%": "95%\n100%\n92%",
+            "kdr": "5\n3\n2",
+            "kills": "230",
+            "name": "Sagitarii",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "1.26\n1.34\n1.20",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "125\n126\n124",
+            "hs%": "82%\n100%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "174",
+            "name": "ASAP",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "1.00\n0.99\n1.01",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "188\n191\n185",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "9\n4\n5",
+            "kills": "271",
+            "name": "TrakyaLee",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "0.90\n0.86\n0.93",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "88\n55\n115",
+            "hs%": "82%\n100%\n67%",
+            "kdr": "11\n6\n5",
+            "kills": "167",
+            "name": "OrionVx",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "0.85\n0.51\n1.14",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "95\n64\n122",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "192",
+            "name": "BADOO",
+            "team": "Merlyn Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.93\n1.19\n0.61",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "153\n204\n93",
+            "hs%": "55%\n75%\n30%",
+            "kdr": "5\n4\n1",
+            "kills": "129",
+            "name": "Lanky",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "0.92\n1.35\n0.39",
+            "adr": "0\n+6\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "127\n161\n87",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "7\n3\n4",
+            "kills": "128",
+            "name": "Guanji",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "0.86\n0.85\n0.88",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "143\n137\n150",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "4\n1\n3",
+            "kills": "233",
+            "name": "Gloomy",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "0.84\n0.64\n1.08",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "121\n79\n172",
+            "hs%": "64%\n50%\n80%",
+            "kdr": "5\n5\n0",
+            "kills": "291",
+            "name": "Ravanue",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "0.84\n0.89\n0.77",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "135\n139\n131",
+            "hs%": "55%\n50%\n60%",
+            "kdr": "3\n2\n1",
+            "kills": "195",
+            "name": "Ckanic",
+            "team": "Gringo Team"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "226",
+          "name": "TrakyaLee",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "215",
+          "name": "Sagitarii",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "184",
+          "name": "ASAP",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "117",
+          "name": "BADOO",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "88",
+          "name": "OrionVx",
+          "team": "Merlyn Esports"
+        },
+        {
+          "kills": "317",
+          "name": "Ckanic",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "277",
+          "name": "Lanky",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "167",
+          "name": "Guanji",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "197",
+          "name": "Ravanue",
+          "team": "Gringo Team"
+        },
+        {
+          "kills": "179",
+          "name": "Gloomy",
+          "team": "Gringo Team"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "0.90\n0.37\n1.31",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "137\n105\n160",
+            "hs%": "62%\n44%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "226",
+            "name": "TrakyaLee",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "0.86\n0.27\n1.30",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "135\n94\n166",
+            "hs%": "71%\n44%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "215",
+            "name": "Sagitarii",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "0.77\n0.38\n1.06",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "103\n83\n118",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "184",
+            "name": "ASAP",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "0.57\n0.60\n0.54",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "79\n83\n77",
+            "hs%": "57%\n44%\n67%",
+            "kdr": "5\n0\n5",
+            "kills": "117",
+            "name": "BADOO",
+            "team": "Merlyn Esports"
+          },
+          {
+            "acs": "0.33\n0.05\n0.53",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "61\n28\n86",
+            "hs%": "57%\n22%\n83%",
+            "kdr": "7\n1\n6",
+            "kills": "88",
+            "name": "OrionVx",
+            "team": "Merlyn Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.56\n1.35\n1.84",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "188\n172\n209",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "317",
+            "name": "Ckanic",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "1.53\n1.25\n1.89",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "188\n172\n209",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "0\n0\n0",
+            "kills": "277",
+            "name": "Lanky",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "1.10\n1.13\n1.05",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "112\n100\n127",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "5\n3\n2",
+            "kills": "167",
+            "name": "Guanji",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "1.09\n0.67\n1.65",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "141\n120\n170",
+            "hs%": "81%\n67%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "197",
+            "name": "Ravanue",
+            "team": "Gringo Team"
+          },
+          {
+            "acs": "1.00\n0.56\n1.58",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "122\n91\n164",
+            "hs%": "57%\n42%\n78%",
+            "kdr": "4\n1\n3",
+            "kills": "179",
+            "name": "Gloomy",
+            "team": "Gringo Team"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 64396,
+  "teams": [
+    "Gringo Team",
+    "Merlyn Esports"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 64"
+}

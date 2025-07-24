@@ -1,0 +1,788 @@
+{
+  "date": "2021-04-10 13:00:06",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "281",
+          "name": "Raider",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "241",
+          "name": "21bom",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "226",
+          "name": "Emz",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "180",
+          "name": "cnstnt",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "150",
+          "name": "Fluff",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "280",
+          "name": "rizK",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "213",
+          "name": "Mavera",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "177",
+          "name": "FRESH",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "182",
+          "name": "Hardy",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "218",
+          "name": "Kayn",
+          "team": "Average Joes"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.23\n1.04\n1.43",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "179\n143\n214",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "11\n4\n7",
+            "kills": "281",
+            "name": "Raider",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "1.14\n1.28\n0.99",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "155\n138\n172",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "5\n4\n1",
+            "kills": "241",
+            "name": "21bom",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "1.07\n0.90\n1.23",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "153\n113\n194",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "6\n1\n5",
+            "kills": "226",
+            "name": "Emz",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "0.99\n1.25\n0.74",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "116\n154\n78",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "4\n3\n1",
+            "kills": "180",
+            "name": "cnstnt",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "0.44\n0.43\n0.45",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "98\n97\n99",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "7\n2\n5",
+            "kills": "150",
+            "name": "Fluff",
+            "team": "TheLastResort"
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.86\n1.11",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "28\n16\n12",
+            "fk": "177\n225\n130",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "6\n5\n1",
+            "kills": "280",
+            "name": "rizK",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "1.14\n0.67\n1.62",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "114\n83\n145",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "5\n3\n2",
+            "kills": "213",
+            "name": "Mavera",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.86\n1.17\n0.55",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "122\n176\n68",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "12\n7\n5",
+            "kills": "177",
+            "name": "FRESH",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.85\n0.90\n0.81",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "125\n142\n108",
+            "hs%": "62%\n46%\n77%",
+            "kdr": "8\n6\n2",
+            "kills": "182",
+            "name": "Hardy",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.84\n1.08\n0.60",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "134\n170\n98",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "5\n2\n3",
+            "kills": "218",
+            "name": "Kayn",
+            "team": "Average Joes"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "149",
+          "name": "Emz",
+          "team": null
+        },
+        {
+          "kills": "228",
+          "name": "Raider",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "cnstnt",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "Fluff",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "21bom",
+          "team": null
+        },
+        {
+          "kills": "239",
+          "name": "FRESH",
+          "team": null
+        },
+        {
+          "kills": "261",
+          "name": "Kayn",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Mavera",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Hardy",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "rizK",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.68\n1.47\n1.11",
+            "adr": "-1\n-10\n+9",
+            "agent": "",
+            "assists": "/\n\n53\n24\n29\n\n/",
+            "deaths": "52\n14\n38",
+            "fk": "153\n109\n190",
+            "hs%": "75%\n77%\n73%",
+            "kdr": "18\n8\n10",
+            "kills": "149",
+            "name": "Emz",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.09\n1.06",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n50\n23\n27\n\n/",
+            "deaths": "50\n25\n25",
+            "fk": "148\n145\n150",
+            "hs%": "75%\n77%\n73%",
+            "kdr": "30\n14\n16",
+            "kills": "228",
+            "name": "Raider",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.85\n0.98",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n47\n20\n27\n\n/",
+            "deaths": "48\n24\n24",
+            "fk": "122\n134\n112",
+            "hs%": "68%\n74%\n62%",
+            "kdr": "11\n4\n7",
+            "kills": "202",
+            "name": "cnstnt",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.93\n0.88",
+            "adr": "-12\n-3\n-9",
+            "agent": "",
+            "assists": "/\n\n53\n21\n32\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "136\n109\n159",
+            "hs%": "66%\n58%\n73%",
+            "kdr": "25\n8\n17",
+            "kills": "169",
+            "name": "Fluff",
+            "team": null
+          },
+          {
+            "acs": "1.10\n0.58\n0.82",
+            "adr": "-7\n+5\n-12",
+            "agent": "",
+            "assists": "/\n\n48\n20\n28\n\n/",
+            "deaths": "41\n25\n16",
+            "fk": "104\n113\n96",
+            "hs%": "66%\n71%\n62%",
+            "kdr": "15\n7\n8",
+            "kills": "177",
+            "name": "21bom",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n0.97\n1.16",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "45\n28\n17",
+            "fk": "135\n166\n98",
+            "hs%": "82%\n86%\n77%",
+            "kdr": "40\n24\n16",
+            "kills": "239",
+            "name": "FRESH",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.29\n1.11",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n51\n31\n20\n\n/",
+            "deaths": "59\n30\n29",
+            "fk": "161\n176\n142",
+            "hs%": "79%\n76%\n84%",
+            "kdr": "17\n9\n8",
+            "kills": "261",
+            "name": "Kayn",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.05\n1.05",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "49\n24\n25",
+            "fk": "113\n109\n118",
+            "hs%": "71%\n70%\n71%",
+            "kdr": "18\n11\n7",
+            "kills": "173",
+            "name": "Mavera",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.02\n1.01",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n47\n28\n19\n\n/",
+            "deaths": "48\n30\n18",
+            "fk": "132\n147\n114",
+            "hs%": "71%\n65%\n77%",
+            "kdr": "24\n13\n11",
+            "kills": "217",
+            "name": "Hardy",
+            "team": null
+          },
+          {
+            "acs": "1.22\n0.72\n0.99",
+            "adr": "+2\n+6\n-4",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "50\n31\n19",
+            "fk": "128\n155\n97",
+            "hs%": "76%\n81%\n71%",
+            "kdr": "25\n18\n7",
+            "kills": "233",
+            "name": "rizK",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "208",
+          "name": "Raider",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "259",
+          "name": "Fluff",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "358",
+          "name": "cnstnt",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "168",
+          "name": "21bom",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "228",
+          "name": "Emz",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "424",
+          "name": "Kayn",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "180",
+          "name": "FRESH",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "171",
+          "name": "Hardy",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "187",
+          "name": "Mavera",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "85",
+          "name": "rizK",
+          "team": "Average Joes"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.27\n1.33\n1.22",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "150\n165\n137",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "12\n7\n5",
+            "kills": "208",
+            "name": "Raider",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "1.22\n1.31\n1.14",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "169\n138\n195",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "12\n4\n8",
+            "kills": "259",
+            "name": "Fluff",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "1.13\n0.63\n1.55",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "133\n49\n204",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "358",
+            "name": "cnstnt",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "1.00\n1.42\n0.65",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "98\n137\n66",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "168",
+            "name": "21bom",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "0.87\n0.49\n1.19",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "129\n117\n140",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "228",
+            "name": "Emz",
+            "team": "TheLastResort"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n0.99\n1.99",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "207\n190\n228",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "424",
+            "name": "Kayn",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "1.13\n1.19\n1.07",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "125\n146\n100",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "19\n10\n9",
+            "kills": "180",
+            "name": "FRESH",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.82\n0.76\n0.90",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "116\n114\n120",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "5\n2\n3",
+            "kills": "171",
+            "name": "Hardy",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.76\n0.91\n0.58",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "103\n93\n116",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "10\n7\n3",
+            "kills": "187",
+            "name": "Mavera",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.71\n1.00\n0.37",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "89\n127\n44",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "5\n4\n1",
+            "kills": "85",
+            "name": "rizK",
+            "team": "Average Joes"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "281",
+          "name": "Emz",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "219",
+          "name": "Fluff",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "164",
+          "name": "cnstnt",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "143",
+          "name": "Raider",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "80",
+          "name": "21bom",
+          "team": "TheLastResort"
+        },
+        {
+          "kills": "231",
+          "name": "FRESH",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "246",
+          "name": "Hardy",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "229",
+          "name": "Mavera",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "275",
+          "name": "Kayn",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "159",
+          "name": "rizK",
+          "team": "Average Joes"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.43\n0.57\n2.01",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "20\n3\n17",
+            "fk": "178\n91\n236",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "281",
+            "name": "Emz",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "1.08\n0.81\n1.26",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "151\n95\n188",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "219",
+            "name": "Fluff",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "0.79\n1.58\n0.27",
+            "adr": "-4\n+4\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "118\n209\n58",
+            "hs%": "60%\n75%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "164",
+            "name": "cnstnt",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "0.62\n0.64\n0.60",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "106\n121\n95",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "143",
+            "name": "Raider",
+            "team": "TheLastResort"
+          },
+          {
+            "acs": "0.21\n0.40\n0.07",
+            "adr": "-12\n-3\n-9",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "43\n44\n43",
+            "hs%": "50%\n63%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "80",
+            "name": "21bom",
+            "team": "TheLastResort"
+          }
+        ],
+        [
+          {
+            "acs": "1.58\n1.61\n1.54",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "163\n174\n145",
+            "hs%": "90%\n100%\n75%",
+            "kdr": "9\n7\n2",
+            "kills": "231",
+            "name": "FRESH",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "1.43\n1.37\n1.52",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "159\n186\n117",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "11\n5\n6",
+            "kills": "246",
+            "name": "Hardy",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "1.25\n1.61\n0.72",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "124\n154\n77",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "3\n1\n2",
+            "kills": "229",
+            "name": "Mavera",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "1.10\n0.81\n1.54",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "144\n168\n107",
+            "hs%": "85%\n75%\n100%",
+            "kdr": "6\n4\n2",
+            "kills": "275",
+            "name": "Kayn",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.66\n0.76\n0.50",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "109\n108\n110",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "14\n9\n5",
+            "kills": "159",
+            "name": "rizK",
+            "team": "Average Joes"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 15976,
+  "teams": [
+    "Average Joes",
+    "TheLastResort"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 256"
+}

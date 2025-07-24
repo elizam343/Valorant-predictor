@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-11 10:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "409",
+          "name": "iXeonN",
+          "team": "Team Demiral Esports"
+        },
+        {
+          "kills": "196",
+          "name": "EXTREMEE",
+          "team": "Team Demiral Esports"
+        },
+        {
+          "kills": "223",
+          "name": "demo",
+          "team": "Team Demiral Esports"
+        },
+        {
+          "kills": "250",
+          "name": "Surprise",
+          "team": "Team Demiral Esports"
+        },
+        {
+          "kills": "154",
+          "name": "OXMANN",
+          "team": "Team Demiral Esports"
+        },
+        {
+          "kills": "198",
+          "name": "NazgroL",
+          "team": "Godzilla e-Sports"
+        },
+        {
+          "kills": "165",
+          "name": "Keepr",
+          "team": "Godzilla e-Sports"
+        },
+        {
+          "kills": "121",
+          "name": "RadialkanZ",
+          "team": "Godzilla e-Sports"
+        },
+        {
+          "kills": "137",
+          "name": "ghostmamy",
+          "team": "Godzilla e-Sports"
+        },
+        {
+          "kills": "71",
+          "name": "pawn",
+          "team": "Godzilla e-Sports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "2.28\n2.06\n2.34",
+            "adr": "+18\n+3\n+15",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "23\n4\n19",
+            "fk": "274\n162\n301",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "409",
+            "name": "iXeonN",
+            "team": "Team Demiral Esports"
+          },
+          {
+            "acs": "1.71\n3.04\n1.38",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "118\n239\n88",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "11\n1\n10",
+            "kills": "196",
+            "name": "EXTREMEE",
+            "team": "Team Demiral Esports"
+          },
+          {
+            "acs": "1.25\n1.71\n1.14",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "162\n195\n154",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "223",
+            "name": "demo",
+            "team": "Team Demiral Esports"
+          },
+          {
+            "acs": "1.17\n0.20\n1.42",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "15\n1\n14",
+            "fk": "150\n59\n173",
+            "hs%": "73%\n33%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "250",
+            "name": "Surprise",
+            "team": "Team Demiral Esports"
+          },
+          {
+            "acs": "1.03\n0.75\n1.10",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "120\n92\n128",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "9\n3\n6",
+            "kills": "154",
+            "name": "OXMANN",
+            "team": "Team Demiral Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.82\n0.89\n0.54",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "122\n126\n108",
+            "hs%": "47%\n50%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "198",
+            "name": "NazgroL",
+            "team": "Godzilla e-Sports"
+          },
+          {
+            "acs": "0.70\n0.71\n0.67",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "109\n112\n98",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "165",
+            "name": "Keepr",
+            "team": "Godzilla e-Sports"
+          },
+          {
+            "acs": "0.65\n0.63\n0.74",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "100\n92\n131",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "9\n8\n1",
+            "kills": "121",
+            "name": "RadialkanZ",
+            "team": "Godzilla e-Sports"
+          },
+          {
+            "acs": "0.30\n0.29\n0.36",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "93\n88\n113",
+            "hs%": "60%\n58%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "137",
+            "name": "ghostmamy",
+            "team": "Godzilla e-Sports"
+          },
+          {
+            "acs": "0.28\n0.33\n0.05",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "59\n53\n83",
+            "hs%": "33%\n33%\n33%",
+            "kdr": "2\n1\n1",
+            "kills": "71",
+            "name": "pawn",
+            "team": "Godzilla e-Sports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "294",
+          "name": "iXeonN",
+          "team": null
+        },
+        {
+          "kills": "339",
+          "name": "demo",
+          "team": null
+        },
+        {
+          "kills": "236",
+          "name": "EXTREMEE",
+          "team": null
+        },
+        {
+          "kills": "269",
+          "name": "Surprise",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "OXMANN",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "Keepr",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "NazgroL",
+          "team": null
+        },
+        {
+          "kills": "82",
+          "name": "pawn",
+          "team": null
+        },
+        {
+          "kills": "99",
+          "name": "RadialkanZ",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "ghostmamy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.74\n2.34\n2.02",
+            "adr": "+28\n+12\n+16",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "38\n18\n20",
+            "fk": "244\n203\n291",
+            "hs%": "89%\n93%\n85%",
+            "kdr": "12\n7\n5",
+            "kills": "294",
+            "name": "iXeonN",
+            "team": null
+          },
+          {
+            "acs": "1.97\n1.16\n1.59",
+            "adr": "+18\n+16\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "28\n20\n8",
+            "fk": "195\n240\n142",
+            "hs%": "93%\n100%\n85%",
+            "kdr": "11\n5\n6",
+            "kills": "339",
+            "name": "demo",
+            "team": null
+          },
+          {
+            "acs": "1.49\n1.34\n1.42",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "122\n156\n83",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "15\n5\n10",
+            "kills": "236",
+            "name": "EXTREMEE",
+            "team": null
+          },
+          {
+            "acs": "1.13\n1.56\n1.33",
+            "adr": "+17\n+6\n+11",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "33\n16\n17",
+            "fk": "168\n147\n192",
+            "hs%": "79%\n73%\n85%",
+            "kdr": "1\n0\n1",
+            "kills": "269",
+            "name": "Surprise",
+            "team": null
+          },
+          {
+            "acs": "1.06\n1.11\n1.08",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "120\n115\n126",
+            "hs%": "89%\n80%\n100%",
+            "kdr": "17\n11\n6",
+            "kills": "160",
+            "name": "OXMANN",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.66\n0.63\n0.63",
+            "adr": "-13\n-5\n-8",
+            "agent": "",
+            "assists": "/\n\n27\n12\n15\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "118\n103\n131",
+            "hs%": "54%\n46%\n60%",
+            "kdr": "2\n0\n2",
+            "kills": "151",
+            "name": "Keepr",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.32\n0.55",
+            "adr": "-13\n-3\n-10",
+            "agent": "",
+            "assists": "/\n\n27\n12\n15\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "95\n118\n75",
+            "hs%": "43%\n46%\n40%",
+            "kdr": "2\n1\n1",
+            "kills": "195",
+            "name": "NazgroL",
+            "team": null
+          },
+          {
+            "acs": "0.37\n0.63\n0.51",
+            "adr": "-14\n-9\n-5",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "84\n57\n108",
+            "hs%": "46%\n38%\n53%",
+            "kdr": "3\n1\n2",
+            "kills": "82",
+            "name": "pawn",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.34\n0.44",
+            "adr": "-18\n-9\n-9",
+            "agent": "",
+            "assists": "/\n\n27\n12\n15\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "87\n87\n87",
+            "hs%": "46%\n46%\n47%",
+            "kdr": "9\n8\n1",
+            "kills": "99",
+            "name": "RadialkanZ",
+            "team": null
+          },
+          {
+            "acs": "0.29\n0.49\n0.40",
+            "adr": "-18\n-9\n-9",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "94\n89\n99",
+            "hs%": "57%\n54%\n60%",
+            "kdr": "4\n1\n3",
+            "kills": "130",
+            "name": "ghostmamy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "317",
+          "name": "demo",
+          "team": "Team Demiral Esports"
+        },
+        {
+          "kills": "263",
+          "name": "iXeonN",
+          "team": "Team Demiral Esports"
+        },
+        {
+          "kills": "681",
+          "name": "Surprise",
+          "team": "Team Demiral Esports"
+        },
+        {
+          "kills": "230",
+          "name": "OXMANN",
+          "team": "Team Demiral Esports"
+        },
+        {
+          "kills": "25",
+          "name": "EXTREMEE",
+          "team": "Team Demiral Esports"
+        },
+        {
+          "kills": "191",
+          "name": "pawn",
+          "team": "Godzilla e-Sports"
+        },
+        {
+          "kills": "171",
+          "name": "Keepr",
+          "team": "Godzilla e-Sports"
+        },
+        {
+          "kills": "151",
+          "name": "ghostmamy",
+          "team": "Godzilla e-Sports"
+        },
+        {
+          "kills": "106",
+          "name": "NazgroL",
+          "team": "Godzilla e-Sports"
+        },
+        {
+          "kills": "109",
+          "name": "RadialkanZ",
+          "team": "Godzilla e-Sports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.98\n2.03\n1.41",
+            "adr": "+12\n+13\n-1",
+            "agent": "",
+            "assists": "/\n\n3\n3\n0\n\n/",
+            "deaths": "15\n16\n-1",
+            "fk": "232\n252",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "317",
+            "name": "demo",
+            "team": "Team Demiral Esports"
+          },
+          {
+            "acs": "1.71\n1.66\n2.31",
+            "adr": "+10\n+9\n+1",
+            "agent": "",
+            "assists": "/\n\n5\n5\n0\n\n/",
+            "deaths": "15\n14\n1",
+            "fk": "210\n213\n169",
+            "hs%": "92%\n92%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "263",
+            "name": "iXeonN",
+            "team": "Team Demiral Esports"
+          },
+          {
+            "acs": "1.51\n1.37\n3.23",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n8\n0\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "189\n170\n423",
+            "hs%": "85%\n83%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "681",
+            "name": "Surprise",
+            "team": "Team Demiral Esports"
+          },
+          {
+            "acs": "1.14\n1.13\n1.26",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n6\n5\n1\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "119\n120\n105",
+            "hs%": "77%\n75%\n100%",
+            "kdr": "8\n8\n0",
+            "kills": "230",
+            "name": "OXMANN",
+            "team": "Team Demiral Esports"
+          },
+          {
+            "acs": "1.09\n1.10\n0.92",
+            "adr": "+3\n+3",
+            "agent": "",
+            "assists": "/\n\n6\n6\n0\n\n/",
+            "deaths": "9\n9\n0",
+            "fk": "126\n135\n25",
+            "hs%": "77%\n75%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "25",
+            "name": "EXTREMEE",
+            "team": "Team Demiral Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.78\n0.77\n0.78",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "113\n100\n114",
+            "hs%": "62%\n100%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "191",
+            "name": "pawn",
+            "team": "Godzilla e-Sports"
+          },
+          {
+            "acs": "0.55\n0.01\n0.62",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n13\n1\n12\n\n/",
+            "deaths": "5\n0\n5",
+            "fk": "129\n0\n139",
+            "hs%": "54%\n0%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "171",
+            "name": "Keepr",
+            "team": "Godzilla e-Sports"
+          },
+          {
+            "acs": "0.51\n0.37\n0.52",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n1\n13\n\n/",
+            "deaths": "6\n0\n6",
+            "fk": "96\n104\n96",
+            "hs%": "54%\n0%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "151",
+            "name": "ghostmamy",
+            "team": "Godzilla e-Sports"
+          },
+          {
+            "acs": "0.24\n0.03\n0.26",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n13\n1\n12\n\n/",
+            "deaths": "4\n0\n4",
+            "fk": "63\n26\n66",
+            "hs%": "38%\n0%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "106",
+            "name": "NazgroL",
+            "team": "Godzilla e-Sports"
+          },
+          {
+            "acs": "0.19\n0.01\n0.25",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n13\n1\n12\n\n/",
+            "deaths": "4\n0\n4",
+            "fk": "72\n30\n75",
+            "hs%": "38%\n0%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "109",
+            "name": "RadialkanZ",
+            "team": "Godzilla e-Sports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 63391,
+  "teams": [
+    "Godzilla e-Sports",
+    "Team Demiral Esports"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 64"
+}

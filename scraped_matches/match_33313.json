@@ -1,0 +1,788 @@
+{
+  "date": "2021-08-18 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "181",
+          "name": "Apoth",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "198",
+          "name": "Lin",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "220",
+          "name": "Eley",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "174",
+          "name": "snxper",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "164",
+          "name": "iKoniK",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "321",
+          "name": "Nanners",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "227",
+          "name": "shawn",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "213",
+          "name": "Sofa",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "179",
+          "name": "eVoL",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "181",
+          "name": "Berghy",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "0.92\n0.38\n1.27",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "116\n35\n171",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "181",
+            "name": "Apoth",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.90\n0.70\n1.03",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "121\n101\n134",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "198",
+            "name": "Lin",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.88\n1.37\n0.55",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "142\n187\n111",
+            "hs%": "60%\n50%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "220",
+            "name": "Eley",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.83\n0.45\n1.09",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "116\n57\n156",
+            "hs%": "80%\n63%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "174",
+            "name": "snxper",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.49\n0.16\n0.72",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "104\n48\n141",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "164",
+            "name": "iKoniK",
+            "team": "VIRTUOSO"
+          }
+        ],
+        [
+          {
+            "acs": "1.50\n1.55\n1.42",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "183\n180\n188",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "6\n2\n4",
+            "kills": "321",
+            "name": "Nanners",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.35\n1.18\n1.61",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "146\n154\n133",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "5\n4\n1",
+            "kills": "227",
+            "name": "shawn",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.12\n0.72\n1.72",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "131\n75\n215",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "213",
+            "name": "Sofa",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.05\n0.91\n1.26",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "89\n103\n68",
+            "hs%": "90%\n92%\n88%",
+            "kdr": "18\n10\n8",
+            "kills": "179",
+            "name": "eVoL",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.02\n1.25\n0.66",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "121\n167\n52",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "9\n7\n2",
+            "kills": "181",
+            "name": "Berghy",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "201",
+          "name": "Apoth",
+          "team": null
+        },
+        {
+          "kills": "126",
+          "name": "snxper",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Lin",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Eley",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "iKoniK",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "Nanners",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "eVoL",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "Sofa",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "shawn",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "Berghy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.94\n1.16\n1.05",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "55\n24\n31",
+            "fk": "140\n116\n162",
+            "hs%": "76%\n71%\n81%",
+            "kdr": "22\n8\n14",
+            "kills": "201",
+            "name": "Apoth",
+            "team": null
+          },
+          {
+            "acs": "0.66\n1.18\n0.93",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "43\n17\n26",
+            "fk": "108\n77\n137",
+            "hs%": "70%\n59%\n81%",
+            "kdr": "19\n4\n15",
+            "kills": "126",
+            "name": "snxper",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.10\n0.93",
+            "adr": "-7\n-10\n+3",
+            "agent": "",
+            "assists": "/\n\n55\n28\n27\n\n/",
+            "deaths": "48\n18\n30",
+            "fk": "122\n95\n148",
+            "hs%": "73%\n65%\n81%",
+            "kdr": "22\n11\n11",
+            "kills": "157",
+            "name": "Lin",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.82\n0.92",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "45\n23\n22",
+            "fk": "127\n147\n107",
+            "hs%": "67%\n65%\n69%",
+            "kdr": "23\n14\n9",
+            "kills": "209",
+            "name": "Eley",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.80\n0.78",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n58\n30\n28\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "124\n133\n116",
+            "hs%": "71%\n71%\n72%",
+            "kdr": "13\n6\n7",
+            "kills": "204",
+            "name": "iKoniK",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.92\n1.40\n1.15",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n52\n28\n24\n\n/",
+            "deaths": "63\n30\n33",
+            "fk": "149\n128\n171",
+            "hs%": "77%\n78%\n76%",
+            "kdr": "24\n11\n13",
+            "kills": "223",
+            "name": "Nanners",
+            "team": null
+          },
+          {
+            "acs": "1.13\n1.15\n1.14",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "47\n25\n22",
+            "fk": "125\n119\n130",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "39\n16\n23",
+            "kills": "185",
+            "name": "eVoL",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.42\n1.13",
+            "adr": "+8\n-7\n+15",
+            "agent": "",
+            "assists": "/\n\n49\n29\n20\n\n/",
+            "deaths": "57\n22\n35",
+            "fk": "145\n110\n183",
+            "hs%": "73%\n69%\n76%",
+            "kdr": "22\n14\n8",
+            "kills": "191",
+            "name": "Sofa",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.19\n1.08",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n44\n27\n17\n\n/",
+            "deaths": "53\n28\n25",
+            "fk": "138\n139\n136",
+            "hs%": "74%\n72%\n76%",
+            "kdr": "16\n10\n6",
+            "kills": "218",
+            "name": "shawn",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.82\n0.91",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "44\n27\n17",
+            "fk": "116\n126\n106",
+            "hs%": "74%\n78%\n71%",
+            "kdr": "28\n14\n14",
+            "kills": "210",
+            "name": "Berghy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "231",
+          "name": "Apoth",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "214",
+          "name": "snxper",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "248",
+          "name": "Lin",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "104",
+          "name": "Eley",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "141",
+          "name": "iKoniK",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "182",
+          "name": "Sofa",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "265",
+          "name": "Nanners",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "187",
+          "name": "shawn",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "190",
+          "name": "eVoL",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "168",
+          "name": "Berghy",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.12\n1.21\n1.02",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "152\n145\n162",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "6\n4\n2",
+            "kills": "231",
+            "name": "Apoth",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "1.11\n1.04\n1.19",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "109\n92\n131",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "5\n1\n4",
+            "kills": "214",
+            "name": "snxper",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "1.02\n0.92\n1.14",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "130\n123\n139",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "4\n2\n2",
+            "kills": "248",
+            "name": "Lin",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.91\n1.17\n0.60",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "125\n179\n59",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "11\n7\n4",
+            "kills": "104",
+            "name": "Eley",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.66\n0.78\n0.52",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "115\n159\n62",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "2\n1\n1",
+            "kills": "141",
+            "name": "iKoniK",
+            "team": "VIRTUOSO"
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n1.25\n1.01",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "132\n134\n130",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "182",
+            "name": "Sofa",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.11\n0.83\n1.34",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "148\n121\n171",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "265",
+            "name": "Nanners",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.08\n1.27\n0.91",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "153\n180\n131",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "187",
+            "name": "shawn",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.91\n1.12\n0.74",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "126\n111\n138",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "190",
+            "name": "eVoL",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.86\n0.82\n0.90",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "100\n79\n119",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "12\n5\n7",
+            "kills": "168",
+            "name": "Berghy",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "236",
+          "name": "Apoth",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "237",
+          "name": "iKoniK",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "175",
+          "name": "Eley",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "183",
+          "name": "Lin",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "146",
+          "name": "snxper",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "215",
+          "name": "eVoL",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "271",
+          "name": "Sofa",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "204",
+          "name": "Nanners",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "193",
+          "name": "shawn",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "191",
+          "name": "Berghy",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.09\n1.04\n1.15",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "146\n139\n154",
+            "hs%": "79%\n64%\n93%",
+            "kdr": "9\n1\n8",
+            "kills": "236",
+            "name": "Apoth",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "1.07\n1.07\n1.07",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "146\n159\n133",
+            "hs%": "82%\n79%\n86%",
+            "kdr": "8\n5\n3",
+            "kills": "237",
+            "name": "iKoniK",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.95\n0.70\n1.20",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "117\n97\n138",
+            "hs%": "71%\n64%\n79%",
+            "kdr": "11\n6\n5",
+            "kills": "175",
+            "name": "Eley",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.87\n0.62\n1.12",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "117\n68\n165",
+            "hs%": "71%\n50%\n93%",
+            "kdr": "13\n7\n6",
+            "kills": "183",
+            "name": "Lin",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.86\n0.46\n1.25",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "101\n77\n126",
+            "hs%": "68%\n50%\n86%",
+            "kdr": "10\n2\n8",
+            "kills": "146",
+            "name": "snxper",
+            "team": "VIRTUOSO"
+          }
+        ],
+        [
+          {
+            "acs": "1.38\n1.32\n1.44",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "149\n139\n160",
+            "hs%": "82%\n71%\n93%",
+            "kdr": "13\n2\n11",
+            "kills": "215",
+            "name": "eVoL",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.15\n0.71\n1.60",
+            "adr": "+5\n-5\n+10",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "25\n8\n17",
+            "fk": "166\n122\n209",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "8\n6\n2",
+            "kills": "271",
+            "name": "Sofa",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.94\n0.45\n1.44",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "126\n90\n162",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "15\n7\n8",
+            "kills": "204",
+            "name": "Nanners",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.88\n0.58\n1.18",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "120\n98\n142",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "6\n4\n2",
+            "kills": "193",
+            "name": "shawn",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.87\n0.91\n0.83",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "126\n125\n127",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "7\n2\n5",
+            "kills": "191",
+            "name": "Berghy",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 33313,
+  "teams": [
+    "VIRTUOSO",
+    "BASILISK"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tOpening (A)"
+}

@@ -1,0 +1,788 @@
+{
+  "date": "2022-05-29 04:35:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "257",
+          "name": "Shiro",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "256",
+          "name": "NcSlasher",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "211",
+          "name": "Lmemore",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "220",
+          "name": "Monyet",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "136",
+          "name": "severiNe",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "241",
+          "name": "adrnking",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "223",
+          "name": "x v y",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "206",
+          "name": "natz",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "207",
+          "name": "Kushy",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "145",
+          "name": "deLb",
+          "team": "Alter Ego"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.43\n1.47\n1.39",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "165\n160\n169",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "257",
+            "name": "Shiro",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "1.37\n1.30\n1.43",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "159\n128\n188",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "256",
+            "name": "NcSlasher",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "1.04\n1.19\n0.90",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "158\n181\n137",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "8\n5\n3",
+            "kills": "211",
+            "name": "Lmemore",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "0.96\n0.67\n1.22",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "126\n100\n151",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "220",
+            "name": "Monyet",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "0.47\n0.31\n0.61",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "92\n71\n112",
+            "hs%": "52%\n55%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "136",
+            "name": "severiNe",
+            "team": "ONIC G"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n0.92\n1.52",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "154\n131\n181",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "8\n3\n5",
+            "kills": "241",
+            "name": "adrnking",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "1.19\n1.47\n0.88",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "135\n171\n96",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "6\n3\n3",
+            "kills": "223",
+            "name": "x v y",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.94\n0.84\n1.05",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "134\n130\n138",
+            "hs%": "61%\n75%\n45%",
+            "kdr": "3\n2\n1",
+            "kills": "206",
+            "name": "natz",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.85\n0.99\n0.70",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "128\n148\n106",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "7\n4\n3",
+            "kills": "207",
+            "name": "Kushy",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.47\n0.13\n0.84",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "87\n54\n122",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "4\n2\n2",
+            "kills": "145",
+            "name": "deLb",
+            "team": "Alter Ego"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "249",
+          "name": "Shiro",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "NcSlasher",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "Monyet",
+          "team": null
+        },
+        {
+          "kills": "244",
+          "name": "Lmemore",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "severiNe",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "x v y",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "adrnking",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Kushy",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "natz",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "deLb",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.27\n1.33",
+            "adr": "+18\n+12\n+6",
+            "agent": "",
+            "assists": "/\n\n43\n18\n25\n\n/",
+            "deaths": "61\n30\n31",
+            "fk": "159\n162\n156",
+            "hs%": "88%\n81%\n94%",
+            "kdr": "14\n7\n7",
+            "kills": "249",
+            "name": "Shiro",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.31\n1.12",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n45\n21\n24\n\n/",
+            "deaths": "48\n16\n32",
+            "fk": "123\n86\n154",
+            "hs%": "76%\n81%\n72%",
+            "kdr": "32\n16\n16",
+            "kills": "151",
+            "name": "NcSlasher",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.19\n1.10",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "58\n24\n34",
+            "fk": "142\n132\n151",
+            "hs%": "70%\n68%\n72%",
+            "kdr": "14\n7\n7",
+            "kills": "219",
+            "name": "Monyet",
+            "team": null
+          },
+          {
+            "acs": "1.16\n0.97\n1.06",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "141\n154\n130",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "19\n8\n11",
+            "kills": "244",
+            "name": "Lmemore",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.94\n0.85",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n48\n23\n25\n\n/",
+            "deaths": "41\n16\n25",
+            "fk": "118\n103\n131",
+            "hs%": "70%\n71%\n69%",
+            "kdr": "22\n15\n7",
+            "kills": "157",
+            "name": "severiNe",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.14\n1.04\n1.09",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n48\n27\n21\n\n/",
+            "deaths": "47\n28\n19",
+            "fk": "135\n142\n127",
+            "hs%": "72%\n69%\n74%",
+            "kdr": "18\n10\n8",
+            "kills": "223",
+            "name": "x v y",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.08\n1.08",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n48\n28\n20\n\n/",
+            "deaths": "52\n27\n25",
+            "fk": "140\n136\n145",
+            "hs%": "76%\n75%\n77%",
+            "kdr": "16\n9\n7",
+            "kills": "221",
+            "name": "adrnking",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.99\n0.95",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "48\n24\n24",
+            "fk": "144\n136\n154",
+            "hs%": "79%\n75%\n84%",
+            "kdr": "24\n11\n13",
+            "kills": "209",
+            "name": "Kushy",
+            "team": null
+          },
+          {
+            "acs": "0.68\n0.69\n0.68",
+            "adr": "-18\n-9\n-9",
+            "agent": "",
+            "assists": "/\n\n58\n33\n25\n\n/",
+            "deaths": "40\n24\n16",
+            "fk": "103\n116\n89",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "7\n2\n5",
+            "kills": "186",
+            "name": "natz",
+            "team": null
+          },
+          {
+            "acs": "0.43\n0.95\n0.67",
+            "adr": "-14\n-14\n0",
+            "agent": "",
+            "assists": "/\n\n54\n30\n24\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "120\n94\n150",
+            "hs%": "61%\n61%\n61%",
+            "kdr": "8\n3\n5",
+            "kills": "133",
+            "name": "deLb",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "339",
+          "name": "Shiro",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "214",
+          "name": "Monyet",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "175",
+          "name": "NcSlasher",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "148",
+          "name": "Lmemore",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "169",
+          "name": "severiNe",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "230",
+          "name": "Kushy",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "241",
+          "name": "adrnking",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "269",
+          "name": "deLb",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "179",
+          "name": "x v y",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "129",
+          "name": "natz",
+          "team": "Alter Ego"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.61\n1.43\n1.80",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "184\n155\n216",
+            "hs%": "88%\n85%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "339",
+            "name": "Shiro",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "0.99\n1.21\n0.74",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "141\n160\n120",
+            "hs%": "52%\n54%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "214",
+            "name": "Monyet",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "0.94\n0.69\n1.22",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "90\n67\n115",
+            "hs%": "72%\n77%\n67%",
+            "kdr": "9\n6\n3",
+            "kills": "175",
+            "name": "NcSlasher",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "0.94\n1.12\n0.75",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "125\n148\n100",
+            "hs%": "72%\n69%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "148",
+            "name": "Lmemore",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "0.71\n0.61\n0.82",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "99\n78\n123",
+            "hs%": "72%\n69%\n75%",
+            "kdr": "13\n8\n5",
+            "kills": "169",
+            "name": "severiNe",
+            "team": "ONIC G"
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n1.24\n1.15",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "164\n152\n175",
+            "hs%": "76%\n67%\n85%",
+            "kdr": "13\n4\n9",
+            "kills": "230",
+            "name": "Kushy",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "1.13\n1.19\n1.07",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "142\n136\n146",
+            "hs%": "72%\n67%\n77%",
+            "kdr": "5\n3\n2",
+            "kills": "241",
+            "name": "adrnking",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "1.00\n0.80\n1.19",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "147\n125\n167",
+            "hs%": "52%\n50%\n54%",
+            "kdr": "1\n0\n1",
+            "kills": "269",
+            "name": "deLb",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.77\n0.57\n0.95",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "101\n82\n119",
+            "hs%": "72%\n67%\n77%",
+            "kdr": "9\n6\n3",
+            "kills": "179",
+            "name": "x v y",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.70\n0.78\n0.62",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "103\n135\n73",
+            "hs%": "72%\n83%\n62%",
+            "kdr": "4\n0\n4",
+            "kills": "129",
+            "name": "natz",
+            "team": "Alter Ego"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "288",
+          "name": "severiNe",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "259",
+          "name": "Monyet",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "229",
+          "name": "Lmemore",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "206",
+          "name": "NcSlasher",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "147",
+          "name": "Shiro",
+          "team": "ONIC G"
+        },
+        {
+          "kills": "273",
+          "name": "x v y",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "187",
+          "name": "adrnking",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "214",
+          "name": "Kushy",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "160",
+          "name": "deLb",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "119",
+          "name": "natz",
+          "team": "Alter Ego"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.48\n1.63\n1.40",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "173\n199\n158",
+            "hs%": "89%\n100%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "288",
+            "name": "severiNe",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "1.43\n1.14\n1.60",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "165\n132\n184",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "259",
+            "name": "Monyet",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "1.24\n1.21\n1.26",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "142\n123\n153",
+            "hs%": "84%\n100%\n75%",
+            "kdr": "7\n1\n6",
+            "kills": "229",
+            "name": "Lmemore",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "1.05\n0.66\n1.27",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "122\n55\n160",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "15\n7\n8",
+            "kills": "206",
+            "name": "NcSlasher",
+            "team": "ONIC G"
+          },
+          {
+            "acs": "0.86\n1.27\n0.62",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "119\n178\n84",
+            "hs%": "95%\n86%\n100%",
+            "kdr": "8\n4\n4",
+            "kills": "147",
+            "name": "Shiro",
+            "team": "ONIC G"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.38\n1.46",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "181\n175\n191",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "3\n1\n2",
+            "kills": "273",
+            "name": "x v y",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.86\n1.12\n0.41",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "121\n142\n85",
+            "hs%": "74%\n83%\n57%",
+            "kdr": "3\n3\n0",
+            "kills": "187",
+            "name": "adrnking",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.75\n0.51\n1.16",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "138\n108\n190",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "4\n3\n1",
+            "kills": "214",
+            "name": "Kushy",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.48\n0.36\n0.70",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "124\n103\n161",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "3\n1\n2",
+            "kills": "160",
+            "name": "deLb",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.35\n0.41\n0.26",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "68\n83\n43",
+            "hs%": "47%\n42%\n57%",
+            "kdr": "0\n0\n0",
+            "kills": "119",
+            "name": "natz",
+            "team": "Alter Ego"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 103220,
+  "teams": [
+    "Alter Ego",
+    "ONIC G"
+  ],
+  "tournament": "Knockout: \n\t\t\t\t\t\tGrand Final"
+}

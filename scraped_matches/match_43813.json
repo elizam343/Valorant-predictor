@@ -1,0 +1,788 @@
+{
+  "date": "2021-10-07 04:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "219",
+          "name": "psy",
+          "team": "Team XO"
+        },
+        {
+          "kills": "276",
+          "name": "Excali",
+          "team": "Team XO"
+        },
+        {
+          "kills": "226",
+          "name": "blackhawk",
+          "team": "Team XO"
+        },
+        {
+          "kills": "192",
+          "name": "Ghost",
+          "team": "Team XO"
+        },
+        {
+          "kills": "151",
+          "name": "Whimp",
+          "team": "Team XO"
+        },
+        {
+          "kills": "262",
+          "name": "KHG",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "217",
+          "name": "H4wt",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "190",
+          "name": "Flica",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "150",
+          "name": "traNz",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "55",
+          "name": "ItsmeBabar",
+          "team": "Fear Legends"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.84\n1.02",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "155\n177\n140",
+            "hs%": "70%\n88%\n58%",
+            "kdr": "13\n7\n6",
+            "kills": "219",
+            "name": "psy",
+            "team": "Team XO"
+          },
+          {
+            "acs": "1.26\n1.50\n1.11",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "165\n225\n125",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "276",
+            "name": "Excali",
+            "team": "Team XO"
+          },
+          {
+            "acs": "1.21\n0.92\n1.40",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "161\n76\n218",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "226",
+            "name": "blackhawk",
+            "team": "Team XO"
+          },
+          {
+            "acs": "1.18\n1.05\n1.26",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "140\n143\n139",
+            "hs%": "65%\n75%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "192",
+            "name": "Ghost",
+            "team": "Team XO"
+          },
+          {
+            "acs": "0.97\n1.25\n0.79",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "102\n132\n82",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "151",
+            "name": "Whimp",
+            "team": "Team XO"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n1.41\n0.95",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "166\n172\n155",
+            "hs%": "80%\n92%\n63%",
+            "kdr": "7\n5\n2",
+            "kills": "262",
+            "name": "KHG",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.98\n0.91\n1.08",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "136\n149\n117",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "217",
+            "name": "H4wt",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.74\n0.76\n0.72",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "130\n139\n117",
+            "hs%": "65%\n75%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "190",
+            "name": "Flica",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.67\n0.85\n0.39",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "101\n121\n71",
+            "hs%": "75%\n92%\n50%",
+            "kdr": "6\n4\n2",
+            "kills": "150",
+            "name": "traNz",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.36\n0.42\n0.27",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "43\n49\n35",
+            "hs%": "65%\n75%\n50%",
+            "kdr": "7\n7\n0",
+            "kills": "55",
+            "name": "ItsmeBabar",
+            "team": "Fear Legends"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "179",
+          "name": "Ghost",
+          "team": null
+        },
+        {
+          "kills": "310",
+          "name": "psy",
+          "team": null
+        },
+        {
+          "kills": "323",
+          "name": "Excali",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "blackhawk",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "Whimp",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "KHG",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "traNz",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "Flica",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "H4wt",
+          "team": null
+        },
+        {
+          "kills": "134",
+          "name": "ItsmeBabar",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.60\n1.52",
+            "adr": "+26\n+3\n+23",
+            "agent": "",
+            "assists": "/\n\n21\n7\n14\n\n/",
+            "deaths": "47\n10\n37",
+            "fk": "163\n131\n176",
+            "hs%": "80%\n80%\n81%",
+            "kdr": "13\n6\n7",
+            "kills": "179",
+            "name": "Ghost",
+            "team": null
+          },
+          {
+            "acs": "1.73\n1.24\n1.39",
+            "adr": "+18\n+11\n+7",
+            "agent": "",
+            "assists": "/\n\n28\n6\n22\n\n/",
+            "deaths": "46\n17\n29",
+            "fk": "174\n202\n163",
+            "hs%": "76%\n87%\n72%",
+            "kdr": "25\n10\n15",
+            "kills": "310",
+            "name": "psy",
+            "team": null
+          },
+          {
+            "acs": "1.60\n1.09\n1.24",
+            "adr": "+15\n+8\n+7",
+            "agent": "",
+            "assists": "/\n\n30\n9\n21\n\n/",
+            "deaths": "45\n17\n28",
+            "fk": "155\n213\n132",
+            "hs%": "75%\n87%\n69%",
+            "kdr": "8\n4\n4",
+            "kills": "323",
+            "name": "Excali",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.32\n1.24",
+            "adr": "+17\n+4\n+13",
+            "agent": "",
+            "assists": "/\n\n29\n7\n22\n\n/",
+            "deaths": "46\n11\n35",
+            "fk": "162\n107\n185",
+            "hs%": "73%\n80%\n69%",
+            "kdr": "9\n3\n6",
+            "kills": "173",
+            "name": "blackhawk",
+            "team": null
+          },
+          {
+            "acs": "1.36\n1.09\n1.17",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n25\n5\n20\n\n/",
+            "deaths": "36\n12\n24",
+            "fk": "125\n118\n128",
+            "hs%": "80%\n80%\n81%",
+            "kdr": "9\n0\n9",
+            "kills": "188",
+            "name": "Whimp",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.92\n0.79\n0.89",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n42\n28\n14\n\n/",
+            "deaths": "34\n26\n8",
+            "fk": "136\n132\n145",
+            "hs%": "65%\n67%\n60%",
+            "kdr": "10\n7\n3",
+            "kills": "195",
+            "name": "KHG",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.46\n0.69",
+            "adr": "-17\n-9\n-8",
+            "agent": "",
+            "assists": "/\n\n43\n30\n13\n\n/",
+            "deaths": "26\n21\n5",
+            "fk": "113\n134\n61",
+            "hs%": "65%\n72%\n47%",
+            "kdr": "15\n10\n5",
+            "kills": "191",
+            "name": "traNz",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.64\n0.66",
+            "adr": "-21\n-13\n-8",
+            "agent": "",
+            "assists": "/\n\n48\n34\n14\n\n/",
+            "deaths": "27\n21\n6",
+            "fk": "123\n125\n119",
+            "hs%": "65%\n72%\n47%",
+            "kdr": "9\n5\n4",
+            "kills": "185",
+            "name": "Flica",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.74\n0.64",
+            "adr": "-18\n-13\n-5",
+            "agent": "",
+            "assists": "/\n\n44\n31\n13\n\n/",
+            "deaths": "26\n18\n8",
+            "fk": "109\n109\n107",
+            "hs%": "55%\n56%\n53%",
+            "kdr": "7\n6\n1",
+            "kills": "161",
+            "name": "H4wt",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.31\n0.50",
+            "adr": "-23\n-15\n-8",
+            "agent": "",
+            "assists": "/\n\n43\n30\n13\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "80\n88\n61",
+            "hs%": "57%\n64%\n40%",
+            "kdr": "8\n8\n0",
+            "kills": "134",
+            "name": "ItsmeBabar",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "299",
+          "name": "Ghost",
+          "team": "Team XO"
+        },
+        {
+          "kills": "271",
+          "name": "blackhawk",
+          "team": "Team XO"
+        },
+        {
+          "kills": "228",
+          "name": "Whimp",
+          "team": "Team XO"
+        },
+        {
+          "kills": "269",
+          "name": "Excali",
+          "team": "Team XO"
+        },
+        {
+          "kills": "210",
+          "name": "psy",
+          "team": "Team XO"
+        },
+        {
+          "kills": "77",
+          "name": "traNz",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "195",
+          "name": "Flica",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "86",
+          "name": "KHG",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "108",
+          "name": "H4wt",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "242",
+          "name": "ItsmeBabar",
+          "team": "Fear Legends"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.90\n1.70\n1.96",
+            "adr": "+14\n+1\n+13",
+            "agent": "",
+            "assists": "/\n\n4\n2\n2\n\n/",
+            "deaths": "18\n3\n15",
+            "fk": "193\n150\n207",
+            "hs%": "88%\n75%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "299",
+            "name": "Ghost",
+            "team": "Team XO"
+          },
+          {
+            "acs": "1.48\n1.79\n1.38",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "198\n211\n194",
+            "hs%": "81%\n100%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "271",
+            "name": "blackhawk",
+            "team": "Team XO"
+          },
+          {
+            "acs": "1.40\n1.76\n1.28",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "153\n135\n158",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "228",
+            "name": "Whimp",
+            "team": "Team XO"
+          },
+          {
+            "acs": "1.18\n0.92\n1.27",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "150\n73\n176",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "269",
+            "name": "Excali",
+            "team": "Team XO"
+          },
+          {
+            "acs": "1.02\n1.05\n1.01",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "161\n206\n146",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "9\n2\n7",
+            "kills": "210",
+            "name": "psy",
+            "team": "Team XO"
+          }
+        ],
+        [
+          {
+            "acs": "0.69\n0.67\n0.76",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "113\n142\n25",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "77",
+            "name": "traNz",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.67\n0.65\n0.71",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n13\n4\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "128\n126\n134",
+            "hs%": "63%\n67%\n50%",
+            "kdr": "5\n2\n3",
+            "kills": "195",
+            "name": "Flica",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.62\n0.73\n0.29",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "99\n113\n55",
+            "hs%": "69%\n67%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "86",
+            "name": "KHG",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.52\n0.59\n0.31",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "96\n98\n92",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "108",
+            "name": "H4wt",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.51\n0.47\n0.63",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "91\n76\n136",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "242",
+            "name": "ItsmeBabar",
+            "team": "Fear Legends"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "346",
+          "name": "psy",
+          "team": "Team XO"
+        },
+        {
+          "kills": "245",
+          "name": "Ghost",
+          "team": "Team XO"
+        },
+        {
+          "kills": "232",
+          "name": "Excali",
+          "team": "Team XO"
+        },
+        {
+          "kills": "178",
+          "name": "Whimp",
+          "team": "Team XO"
+        },
+        {
+          "kills": "201",
+          "name": "blackhawk",
+          "team": "Team XO"
+        },
+        {
+          "kills": "161",
+          "name": "KHG",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "154",
+          "name": "traNz",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "193",
+          "name": "ItsmeBabar",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "160",
+          "name": "Flica",
+          "team": "Fear Legends"
+        },
+        {
+          "kills": "109",
+          "name": "H4wt",
+          "team": "Fear Legends"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.83\n2.37\n1.69",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "214\n261\n202",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "346",
+            "name": "psy",
+            "team": "Team XO"
+          },
+          {
+            "acs": "1.56\n1.49\n1.58",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "161\n74\n182",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "245",
+            "name": "Ghost",
+            "team": "Team XO"
+          },
+          {
+            "acs": "1.27\n2.78\n0.89",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "149\n367\n94",
+            "hs%": "73%\n100%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "232",
+            "name": "Excali",
+            "team": "Team XO"
+          },
+          {
+            "acs": "1.19\n1.10\n1.21",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n0\n7\n\n/",
+            "deaths": "11\n1\n10",
+            "fk": "126\n56\n144",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "5\n0\n5",
+            "kills": "178",
+            "name": "Whimp",
+            "team": "Team XO"
+          },
+          {
+            "acs": "1.02\n0.40\n1.18",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "11\n1\n10",
+            "fk": "126\n52\n144",
+            "hs%": "60%\n33%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "201",
+            "name": "blackhawk",
+            "team": "Team XO"
+          }
+        ],
+        [
+          {
+            "acs": "0.72\n0.63\n1.06",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "136\n110\n238",
+            "hs%": "40%\n42%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "161",
+            "name": "KHG",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.71\n0.83\n0.25",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "128\n140\n79",
+            "hs%": "60%\n67%\n33%",
+            "kdr": "4\n3\n1",
+            "kills": "154",
+            "name": "traNz",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.69\n0.90\n0.02",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "9\n9\n0",
+            "fk": "117\n139\n29",
+            "hs%": "53%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "193",
+            "name": "ItsmeBabar",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.55\n0.61\n0.35",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "110\n111\n107",
+            "hs%": "67%\n75%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "160",
+            "name": "Flica",
+            "team": "Fear Legends"
+          },
+          {
+            "acs": "0.31\n0.29\n0.41",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "85\n81\n101",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "109",
+            "name": "H4wt",
+            "team": "Fear Legends"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 43813,
+  "teams": [
+    "Team XO",
+    "Fear Legends"
+  ],
+  "tournament": "Wildcard: \n\t\t\t\t\t\tGrand Final"
+}

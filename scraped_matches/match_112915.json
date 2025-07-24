@@ -1,0 +1,788 @@
+{
+  "date": "2022-07-06 20:45:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "269",
+          "name": "zeldris",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "225",
+          "name": "riku",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "256",
+          "name": "Frosty",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "189",
+          "name": "PureVNS",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "165",
+          "name": "OXY",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "206",
+          "name": "mina",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "215",
+          "name": "nerve",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "197",
+          "name": "Tkaz",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "148",
+          "name": "icy",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "149",
+          "name": "ChurmZ",
+          "team": "Cosmic Divide"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.59\n1.41\n1.95",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "169\n154\n198",
+            "hs%": "83%\n75%\n100%",
+            "kdr": "12\n7\n5",
+            "kills": "269",
+            "name": "zeldris",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "1.24\n0.90\n1.91",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "133\n106\n187",
+            "hs%": "78%\n67%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "225",
+            "name": "riku",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "1.02\n1.15\n0.75",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "162\n193\n101",
+            "hs%": "72%\n75%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "256",
+            "name": "Frosty",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "0.96\n0.70\n1.47",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "111\n92\n148",
+            "hs%": "72%\n58%\n100%",
+            "kdr": "6\n4\n2",
+            "kills": "189",
+            "name": "PureVNS",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "0.83\n0.60\n1.29",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "105\n82\n150",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "4\n3\n1",
+            "kills": "165",
+            "name": "OXY",
+            "team": "Knights Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.08\n0.71\n1.26",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "140\n109\n155",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "206",
+            "name": "mina",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.93\n0.35\n1.22",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "136\n69\n170",
+            "hs%": "72%\n33%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "215",
+            "name": "nerve",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.81\n0.54\n0.95",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "142\n149\n138",
+            "hs%": "67%\n83%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "197",
+            "name": "Tkaz",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.73\n0.56\n0.81",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "100\n97\n101",
+            "hs%": "50%\n33%\n58%",
+            "kdr": "4\n0\n4",
+            "kills": "148",
+            "name": "icy",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.69\n0.45\n0.81",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "117\n82\n135",
+            "hs%": "67%\n83%\n58%",
+            "kdr": "6\n4\n2",
+            "kills": "149",
+            "name": "ChurmZ",
+            "team": "Cosmic Divide"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "181",
+          "name": "riku",
+          "team": null
+        },
+        {
+          "kills": "273",
+          "name": "zeldris",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "OXY",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "Frosty",
+          "team": null
+        },
+        {
+          "kills": "115",
+          "name": "PureVNS",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "mina",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "icy",
+          "team": null
+        },
+        {
+          "kills": "109",
+          "name": "nerve",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "Tkaz",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "ChurmZ",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.97\n1.58\n1.25",
+            "adr": "+14\n-4\n+18",
+            "agent": "",
+            "assists": "/\n\n41\n26\n15\n\n/",
+            "deaths": "55\n22\n33",
+            "fk": "154\n119\n195",
+            "hs%": "75%\n69%\n83%",
+            "kdr": "20\n7\n13",
+            "kills": "181",
+            "name": "riku",
+            "team": null
+          },
+          {
+            "acs": "1.32\n1.06\n1.20",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n45\n25\n20\n\n/",
+            "deaths": "56\n33\n23",
+            "fk": "154\n179\n126",
+            "hs%": "80%\n80%\n80%",
+            "kdr": "26\n17\n9",
+            "kills": "273",
+            "name": "zeldris",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.36\n1.11",
+            "adr": "+9\n-3\n+12",
+            "agent": "",
+            "assists": "/\n\n40\n26\n14\n\n/",
+            "deaths": "49\n23\n26",
+            "fk": "128\n118\n139",
+            "hs%": "75%\n63%\n90%",
+            "kdr": "14\n8\n6",
+            "kills": "177",
+            "name": "OXY",
+            "team": null
+          },
+          {
+            "acs": "0.61\n1.25\n0.91",
+            "adr": "-6\n-12\n+6",
+            "agent": "",
+            "assists": "/\n\n54\n32\n22\n\n/",
+            "deaths": "48\n20\n28",
+            "fk": "155\n125\n190",
+            "hs%": "66%\n57%\n77%",
+            "kdr": "16\n9\n7",
+            "kills": "193",
+            "name": "Frosty",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.27\n0.89",
+            "adr": "-7\n-12\n+5",
+            "agent": "",
+            "assists": "/\n\n43\n27\n16\n\n/",
+            "deaths": "36\n15\n21",
+            "fk": "101\n73\n133",
+            "hs%": "72%\n60%\n87%",
+            "kdr": "18\n7\n11",
+            "kills": "115",
+            "name": "PureVNS",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.76\n1.41\n1.11",
+            "adr": "+7\n-6\n+13",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "54\n21\n33",
+            "fk": "146\n122\n166",
+            "hs%": "78%\n67%\n89%",
+            "kdr": "5\n2\n3",
+            "kills": "176",
+            "name": "mina",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.92\n1.01",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "46\n24\n22",
+            "fk": "135\n150\n123",
+            "hs%": "71%\n67%\n74%",
+            "kdr": "19\n8\n11",
+            "kills": "224",
+            "name": "icy",
+            "team": null
+          },
+          {
+            "acs": "0.42\n1.36\n0.93",
+            "adr": "-6\n-17\n+11",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "41\n9\n32",
+            "fk": "133\n80\n179",
+            "hs%": "71%\n53%\n86%",
+            "kdr": "18\n6\n12",
+            "kills": "109",
+            "name": "nerve",
+            "team": null
+          },
+          {
+            "acs": "0.61\n1.09\n0.87",
+            "adr": "-2\n-9\n+7",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "50\n20\n30",
+            "fk": "143\n130\n155",
+            "hs%": "66%\n57%\n74%",
+            "kdr": "10\n6\n4",
+            "kills": "208",
+            "name": "Tkaz",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.83\n0.71",
+            "adr": "-18\n-13\n-5",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "32\n13\n19",
+            "fk": "103\n88\n116",
+            "hs%": "71%\n77%\n66%",
+            "kdr": "17\n9\n8",
+            "kills": "138",
+            "name": "ChurmZ",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "221",
+          "name": "OXY",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "234",
+          "name": "riku",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "169",
+          "name": "zeldris",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "241",
+          "name": "PureVNS",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "285",
+          "name": "Frosty",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "311",
+          "name": "mina",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "172",
+          "name": "icy",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "208",
+          "name": "ChurmZ",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "189",
+          "name": "nerve",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "232",
+          "name": "Tkaz",
+          "team": "Cosmic Divide"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.51\n1.69\n1.35",
+            "adr": "+10\n+6\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "179\n219\n142",
+            "hs%": "87%\n82%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "221",
+            "name": "OXY",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "1.22\n1.49\n0.97",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "175\n181\n169",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "234",
+            "name": "riku",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "0.76\n1.02\n0.51",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "128\n158\n100",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "8\n6\n2",
+            "kills": "169",
+            "name": "zeldris",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "0.75\n0.21\n1.25",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "11\n1\n10",
+            "fk": "101\n31\n166",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "241",
+            "name": "PureVNS",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "0.72\n0.32\n1.09",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "144\n97\n188",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "285",
+            "name": "Frosty",
+            "team": "Knights Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.45\n1.70",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "197\n194\n200",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "3\n1\n2",
+            "kills": "311",
+            "name": "mina",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "1.15\n1.42\n0.87",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "140\n171\n106",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "9\n6\n3",
+            "kills": "172",
+            "name": "icy",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "1.05\n1.01\n1.10",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "143\n133\n155",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "8\n5\n3",
+            "kills": "208",
+            "name": "ChurmZ",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.92\n0.69\n1.17",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "135\n125\n146",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "7\n5\n2",
+            "kills": "189",
+            "name": "nerve",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.58\n0.51\n0.65",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "137\n124\n151",
+            "hs%": "61%\n50%\n73%",
+            "kdr": "4\n3\n1",
+            "kills": "232",
+            "name": "Tkaz",
+            "team": "Cosmic Divide"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "267",
+          "name": "zeldris",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "226",
+          "name": "riku",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "249",
+          "name": "Frosty",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "146",
+          "name": "PureVNS",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "156",
+          "name": "OXY",
+          "team": "Knights Academy"
+        },
+        {
+          "kills": "249",
+          "name": "Tkaz",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "211",
+          "name": "icy",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "195",
+          "name": "nerve",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "158",
+          "name": "mina",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "87",
+          "name": "ChurmZ",
+          "team": "Cosmic Divide"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.33\n1.50\n1.16",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "169\n223\n115",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "267",
+            "name": "zeldris",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "1.29\n0.57\n2.01",
+            "adr": "+7\n-7\n+14",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "21\n4\n17",
+            "fk": "150\n75\n226",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "11\n3\n8",
+            "kills": "226",
+            "name": "riku",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "1.01\n0.35\n1.67",
+            "adr": "-1\n-8\n+7",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "160\n84\n237",
+            "hs%": "63%\n33%\n92%",
+            "kdr": "7\n3\n4",
+            "kills": "249",
+            "name": "Frosty",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "0.97\n0.77\n1.18",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "93\n94\n92",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "146",
+            "name": "PureVNS",
+            "team": "Knights Academy"
+          },
+          {
+            "acs": "0.92\n0.44\n1.41",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "96\n63\n129",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "156",
+            "name": "OXY",
+            "team": "Knights Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n0.73\n1.65",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "151\n127\n175",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "249",
+            "name": "Tkaz",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "1.10\n1.11\n1.08",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "158\n155\n161",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "211",
+            "name": "icy",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.94\n0.18\n1.69",
+            "adr": "-1\n-9\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "17\n2\n15",
+            "fk": "128\n39\n218",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "9\n1\n8",
+            "kills": "195",
+            "name": "nerve",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.69\n0.10\n1.28",
+            "adr": "-4\n-10\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "101\n57\n144",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "1\n1\n0",
+            "kills": "158",
+            "name": "mina",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.41\n0.21\n0.60",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "54\n46\n61",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "87",
+            "name": "ChurmZ",
+            "team": "Cosmic Divide"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 112915,
+  "teams": [
+    "Knights Academy",
+    "Cosmic Divide"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tQuarterfinals"
+}

@@ -1,0 +1,788 @@
+{
+  "date": "2021-09-05 13:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "416",
+          "name": "sym",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "213",
+          "name": "Kepraj",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "223",
+          "name": "bjor",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "173",
+          "name": "tech",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "72",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "225",
+          "name": "Rebo",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "216",
+          "name": "sSef",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "219",
+          "name": "FIEND",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "167",
+          "name": "cheatcode",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "105",
+          "name": "venture",
+          "team": "Good Fellas"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.77\n1.22\n2.51",
+            "adr": "+18\n+5\n+13",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "33\n14\n19",
+            "fk": "256\n164\n380",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "416",
+            "name": "sym",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.34\n0.91\n1.92",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "132\n99\n176",
+            "hs%": "76%\n58%\n100%",
+            "kdr": "6\n0\n6",
+            "kills": "213",
+            "name": "Kepraj",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.23\n1.09\n1.41",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "152\n164\n136",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "5\n2\n3",
+            "kills": "223",
+            "name": "bjor",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.63\n0.75\n0.47",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "115\n144\n77",
+            "hs%": "52%\n50%\n56%",
+            "kdr": "7\n5\n2",
+            "kills": "173",
+            "name": "tech",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.60\n0.66\n0.53",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "46\n64\n20",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "9\n4\n5",
+            "kills": "72",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          }
+        ],
+        [
+          {
+            "acs": "1.03\n0.56\n1.37",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "146\n87\n190",
+            "hs%": "62%\n44%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "225",
+            "name": "Rebo",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.93\n1.02\n0.86",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "134\n125\n141",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "216",
+            "name": "sSef",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.89\n0.37\n1.27",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "155\n81\n211",
+            "hs%": "67%\n44%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "219",
+            "name": "FIEND",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.83\n0.51\n1.06",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "109\n110\n108",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "167",
+            "name": "cheatcode",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.81\n0.81\n0.80",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "81\n97\n68",
+            "hs%": "76%\n56%\n92%",
+            "kdr": "11\n4\n7",
+            "kills": "105",
+            "name": "venture",
+            "team": "Good Fellas"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "238",
+          "name": "Kepraj",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "sym",
+          "team": null
+        },
+        {
+          "kills": "231",
+          "name": "bjor",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "tech",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "MOCKING",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "venture",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "Rebo",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "sSef",
+          "team": null
+        },
+        {
+          "kills": "244",
+          "name": "cheatcode",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "FIEND",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.29\n1.46\n1.37",
+            "adr": "+15\n+5\n+10",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "59\n26\n33",
+            "fk": "162\n151\n171",
+            "hs%": "80%\n75%\n85%",
+            "kdr": "31\n11\n20",
+            "kills": "238",
+            "name": "Kepraj",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.02\n0.96",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n61\n26\n35\n\n/",
+            "deaths": "67\n30\n37",
+            "fk": "163\n142\n180",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "9\n3\n6",
+            "kills": "253",
+            "name": "sym",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.72\n0.88",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n52\n23\n29\n\n/",
+            "deaths": "48\n24\n24",
+            "fk": "138\n163\n117",
+            "hs%": "75%\n81%\n69%",
+            "kdr": "20\n7\n13",
+            "kills": "231",
+            "name": "bjor",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.85\n0.83",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n61\n28\n33\n\n/",
+            "deaths": "53\n23\n30",
+            "fk": "148\n157\n141",
+            "hs%": "62%\n66%\n59%",
+            "kdr": "16\n12\n4",
+            "kills": "233",
+            "name": "tech",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.52\n0.71",
+            "adr": "-18\n-1\n-17",
+            "agent": "",
+            "assists": "/\n\n52\n20\n32\n\n/",
+            "deaths": "34\n19\n15",
+            "fk": "85\n94\n78",
+            "hs%": "63%\n69%\n59%",
+            "kdr": "17\n8\n9",
+            "kills": "139",
+            "name": "MOCKING",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n1.18\n1.26",
+            "adr": "+3\n+7\n-4",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "48\n30\n18",
+            "fk": "143\n152\n132",
+            "hs%": "86%\n85%\n88%",
+            "kdr": "38\n17\n21",
+            "kills": "217",
+            "name": "venture",
+            "team": null
+          },
+          {
+            "acs": "1.16\n1.26\n1.20",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n52\n28\n24\n\n/",
+            "deaths": "63\n32\n31",
+            "fk": "145\n130\n162",
+            "hs%": "72%\n72%\n72%",
+            "kdr": "23\n15\n8",
+            "kills": "222",
+            "name": "Rebo",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.15\n1.05",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "58\n32\n26",
+            "fk": "148\n139\n158",
+            "hs%": "82%\n85%\n78%",
+            "kdr": "18\n9\n9",
+            "kills": "212",
+            "name": "sSef",
+            "team": null
+          },
+          {
+            "acs": "1.22\n0.78\n1.02",
+            "adr": "+1\n+8\n-7",
+            "agent": "",
+            "assists": "/\n\n52\n28\n24\n\n/",
+            "deaths": "53\n36\n17",
+            "fk": "131\n163\n92",
+            "hs%": "80%\n85%\n75%",
+            "kdr": "32\n20\n12",
+            "kills": "244",
+            "name": "cheatcode",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.88\n0.84",
+            "adr": "-13\n-7\n-6",
+            "agent": "",
+            "assists": "/\n\n61\n33\n28\n\n/",
+            "deaths": "48\n26\n22",
+            "fk": "139\n133\n147",
+            "hs%": "63%\n59%\n69%",
+            "kdr": "21\n10\n11",
+            "kills": "209",
+            "name": "FIEND",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "393",
+          "name": "Kepraj",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "137",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "210",
+          "name": "tech",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "91",
+          "name": "bjor",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "68",
+          "name": "sym",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "354",
+          "name": "venture",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "253",
+          "name": "cheatcode",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "412",
+          "name": "FIEND",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "155",
+          "name": "Rebo",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "61",
+          "name": "sSef",
+          "team": "Good Fellas"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.47\n0.01\n1.77",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "16\n0\n16",
+            "fk": "196\n0\n229",
+            "hs%": "71%\n0%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "393",
+            "name": "Kepraj",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.59\n0.87\n0.54",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "91\n114\n87",
+            "hs%": "57%\n50%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "137",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.48\n0.23\n0.52",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n2\n13\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "125\n97\n130",
+            "hs%": "57%\n100%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "210",
+            "name": "tech",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.35\n0.97\n0.24",
+            "adr": "-9\n0\n-9",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "97\n182\n83",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "5\n0\n5",
+            "kills": "91",
+            "name": "bjor",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.11\n0.50\n0.05",
+            "adr": "-11\n-1\n-10",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "53\n55\n53",
+            "hs%": "43%\n50%\n42%",
+            "kdr": "3\n1\n2",
+            "kills": "68",
+            "name": "sym",
+            "team": "Lenny Time"
+          }
+        ],
+        [
+          {
+            "acs": "1.66\n1.47\n2.78",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n5\n5\n0\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "183\n176\n229",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "9\n7\n2",
+            "kills": "354",
+            "name": "venture",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "1.61\n1.73\n0.87",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "16\n14\n2",
+            "fk": "188\n196\n145",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "6\n6\n0",
+            "kills": "253",
+            "name": "cheatcode",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "1.46\n1.27\n2.58",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "187\n181\n226",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "412",
+            "name": "FIEND",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "1.44\n1.61\n0.44",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "14\n13\n1",
+            "fk": "148\n150\n135",
+            "hs%": "86%\n92%\n50%",
+            "kdr": "10\n9\n1",
+            "kills": "155",
+            "name": "Rebo",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "1.05\n1.01\n1.30",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n7\n7\n0\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "127\n139\n56",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "61",
+            "name": "sSef",
+            "team": "Good Fellas"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "242",
+          "name": "Kepraj",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "257",
+          "name": "tech",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "214",
+          "name": "bjor",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "157",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "251",
+          "name": "sym",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "248",
+          "name": "venture",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "236",
+          "name": "Rebo",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "252",
+          "name": "sSef",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "186",
+          "name": "cheatcode",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "178",
+          "name": "FIEND",
+          "team": "Good Fellas"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.70\n1.01",
+            "adr": "+5\n+8\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "27\n19\n8",
+            "fk": "167\n203\n130",
+            "hs%": "86%\n94%\n78%",
+            "kdr": "24\n11\n13",
+            "kills": "242",
+            "name": "Kepraj",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.07\n0.88\n1.26",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "34\n15\n19",
+            "fk": "176\n172\n179",
+            "hs%": "69%\n72%\n67%",
+            "kdr": "7\n5\n2",
+            "kills": "257",
+            "name": "tech",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.89\n1.10\n0.68",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "145\n160\n129",
+            "hs%": "78%\n83%\n72%",
+            "kdr": "10\n5\n5",
+            "kills": "214",
+            "name": "bjor",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.82\n1.15\n0.50",
+            "adr": "-6\n+2\n-8",
+            "agent": "",
+            "assists": "/\n\n27\n10\n17\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "106\n112\n101",
+            "hs%": "58%\n72%\n44%",
+            "kdr": "6\n4\n2",
+            "kills": "157",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.81\n0.70\n0.92",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "31\n15\n16",
+            "fk": "152\n137\n166",
+            "hs%": "67%\n61%\n72%",
+            "kdr": "4\n1\n3",
+            "kills": "251",
+            "name": "sym",
+            "team": "Lenny Time"
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.49\n1.26",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n26\n11\n15\n\n/",
+            "deaths": "29\n17\n12",
+            "fk": "164\n163\n164",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "18\n6\n12",
+            "kills": "248",
+            "name": "venture",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "1.21\n1.15\n1.28",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "32\n15\n17",
+            "fk": "143\n139\n147",
+            "hs%": "72%\n72%\n72%",
+            "kdr": "8\n4\n4",
+            "kills": "236",
+            "name": "Rebo",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "1.13\n0.92\n1.33",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n28\n13\n15\n\n/",
+            "deaths": "31\n15\n16",
+            "fk": "164\n146\n181",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "12\n5\n7",
+            "kills": "252",
+            "name": "sSef",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.91\n1.24\n0.57",
+            "adr": "-3\n+5\n-8",
+            "agent": "",
+            "assists": "/\n\n27\n12\n15\n\n/",
+            "deaths": "24\n17\n7",
+            "fk": "121\n167\n75",
+            "hs%": "83%\n89%\n78%",
+            "kdr": "23\n12\n11",
+            "kills": "186",
+            "name": "cheatcode",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.58\n0.73\n0.43",
+            "adr": "-12\n-3\n-9",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "111\n126\n96",
+            "hs%": "53%\n50%\n56%",
+            "kdr": "7\n4\n3",
+            "kills": "178",
+            "name": "FIEND",
+            "team": "Good Fellas"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 35919,
+  "teams": [
+    "Lenny Time",
+    "Good Fellas"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tQuarterfinals"
+}

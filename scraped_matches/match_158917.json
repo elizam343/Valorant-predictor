@@ -1,0 +1,806 @@
+{
+  "date": "2022-11-21 23:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "253",
+          "name": "Ferru",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "229",
+          "name": "imcoco",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "265",
+          "name": "iron shimmy",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "169",
+          "name": "corgi",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "169",
+          "name": "dre",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "275",
+          "name": "2lx",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "249",
+          "name": "Ayeo",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "170",
+          "name": "Usoppin",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "111",
+          "name": "Lewds",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "75",
+          "name": "Halo",
+          "team": "Northern Alberta Institute of Technology"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.64\n0.94",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "195\n207\n182",
+            "hs%": "91%\n100%\n82%",
+            "kdr": "8\n4\n4",
+            "kills": "253",
+            "name": "Ferru",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "1.20\n1.21\n1.18",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "161\n147\n177",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "9\n4\n5",
+            "kills": "229",
+            "name": "imcoco",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "1.19\n1.51\n0.83",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "147\n168\n124",
+            "hs%": "83%\n92%\n73%",
+            "kdr": "10\n8\n2",
+            "kills": "265",
+            "name": "iron shimmy",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "1.14\n1.64\n0.60",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "111\n138\n81",
+            "hs%": "70%\n83%\n55%",
+            "kdr": "7\n5\n2",
+            "kills": "169",
+            "name": "corgi",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "1.04\n0.98\n1.10",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "112\n101\n123",
+            "hs%": "87%\n100%\n73%",
+            "kdr": "6\n4\n2",
+            "kills": "169",
+            "name": "dre",
+            "team": "Thompson Rivers University"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.72\n1.13",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "163\n181\n146",
+            "hs%": "61%\n73%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "275",
+            "name": "2lx",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "1.09\n1.29\n0.91",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "146\n170\n124",
+            "hs%": "61%\n73%\n50%",
+            "kdr": "6\n2\n4",
+            "kills": "249",
+            "name": "Ayeo",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "0.75\n1.04\n0.49",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "117\n133\n102",
+            "hs%": "65%\n91%\n42%",
+            "kdr": "9\n6\n3",
+            "kills": "170",
+            "name": "Usoppin",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "0.60\n0.75\n0.47",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "72\n93\n54",
+            "hs%": "52%\n64%\n42%",
+            "kdr": "12\n9\n3",
+            "kills": "111",
+            "name": "Lewds",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "0.42\n0.68\n0.18",
+            "adr": "-12\n-3\n-9",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "62\n90\n36",
+            "hs%": "48%\n73%\n25%",
+            "kdr": "7\n5\n2",
+            "kills": "75",
+            "name": "Halo",
+            "team": "Northern Alberta Institute of Technology"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "230",
+          "name": "corgi",
+          "team": null
+        },
+        {
+          "kills": "291",
+          "name": "iron shimmy",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "Ferru",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "imcoco",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "dre",
+          "team": null
+        },
+        {
+          "kills": "314",
+          "name": "2lx",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "Ayeo",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "Lewds",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "igottheSAUCE",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "Usoppin",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "Halo",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.33\n1.24\n1.29",
+            "adr": "+19\n+11\n+8",
+            "agent": "",
+            "assists": "/\n\n41\n19\n22\n\n/",
+            "deaths": "60\n30\n30",
+            "fk": "148\n143\n152",
+            "hs%": "74%\n76%\n71%",
+            "kdr": "18\n12\n6",
+            "kills": "230",
+            "name": "corgi",
+            "team": null
+          },
+          {
+            "acs": "1.43\n0.90\n1.17",
+            "adr": "+10\n+12\n-2",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "62\n39\n23",
+            "fk": "146\n172\n119",
+            "hs%": "81%\n84%\n77%",
+            "kdr": "36\n21\n15",
+            "kills": "291",
+            "name": "iron shimmy",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.08\n1.02",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n56\n29\n27\n\n/",
+            "deaths": "57\n28\n29",
+            "fk": "158\n152\n164",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "18\n7\n11",
+            "kills": "222",
+            "name": "Ferru",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.12\n1.01",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n49\n23\n26\n\n/",
+            "deaths": "50\n23\n27",
+            "fk": "147\n124\n171",
+            "hs%": "69%\n59%\n80%",
+            "kdr": "24\n11\n13",
+            "kills": "175",
+            "name": "imcoco",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.01\n0.96",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n42\n21\n21\n\n/",
+            "deaths": "37\n20\n17",
+            "fk": "111\n113\n109",
+            "hs%": "79%\n84%\n74%",
+            "kdr": "22\n10\n12",
+            "kills": "164",
+            "name": "dre",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.56\n0.96\n1.25",
+            "adr": "+20\n+22\n-2",
+            "agent": "",
+            "assists": "/\n\n50\n22\n28\n\n/",
+            "deaths": "70\n44\n26",
+            "fk": "167\n188\n146",
+            "hs%": "74%\n80%\n68%",
+            "kdr": "5\n0\n5",
+            "kills": "314",
+            "name": "2lx",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.32\n1.05",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n57\n28\n29\n\n/",
+            "deaths": "60\n24\n36",
+            "fk": "156\n126\n184",
+            "hs%": "61%\n63%\n59%",
+            "kdr": "20\n10\n10",
+            "kills": "205",
+            "name": "Ayeo",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.88\n0.99",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "44\n24\n20",
+            "fk": "130\n141\n120",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "23\n11\n12",
+            "kills": "188",
+            "name": "Lewds",
+            "team": null
+          },
+          {
+            "acs": "0.62\n1.19\n0.91",
+            "adr": "-3\n-9\n+6",
+            "agent": "",
+            "assists": "/\n\n33\n20\n13\n\n/",
+            "deaths": "30\n11\n19",
+            "fk": "107\n84\n129",
+            "hs%": "80%\n67%\n92%",
+            "kdr": "29\n11\n18",
+            "kills": "129",
+            "name": "igottheSAUCE",
+            "team": null
+          },
+          {
+            "acs": "1.04\n0.49\n0.75",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "117\n133\n102",
+            "hs%": "65%\n91%\n42%",
+            "kdr": "9\n6\n3",
+            "kills": "215",
+            "name": "Usoppin",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.47\n0.51",
+            "adr": "-32\n-14\n-18",
+            "agent": "",
+            "assists": "/\n\n57\n28\n29\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "83\n89\n78",
+            "hs%": "60%\n63%\n57%",
+            "kdr": "23\n13\n10",
+            "kills": "130",
+            "name": "Halo",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "238",
+          "name": "corgi",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "198",
+          "name": "iron shimmy",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "207",
+          "name": "imcoco",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "255",
+          "name": "Ferru",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "125",
+          "name": "dre",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "329",
+          "name": "Ayeo",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "176",
+          "name": "Lewds",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "166",
+          "name": "2lx",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "185",
+          "name": "igottheSAUCE",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "129",
+          "name": "Halo",
+          "team": "Northern Alberta Institute of Technology"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.15\n1.18\n1.11",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "130\n123\n138",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "4\n2\n2",
+            "kills": "238",
+            "name": "corgi",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "1.12\n1.35\n0.88",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "148\n164\n131",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "14\n9\n5",
+            "kills": "198",
+            "name": "iron shimmy",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "0.96\n1.07\n0.83",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "155\n159\n150",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "7\n2\n5",
+            "kills": "207",
+            "name": "imcoco",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "0.87\n0.72\n1.03",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "135\n128\n142",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "1\n0\n1",
+            "kills": "255",
+            "name": "Ferru",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "0.81\n0.94\n0.66",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "109\n131\n86",
+            "hs%": "70%\n83%\n55%",
+            "kdr": "4\n2\n2",
+            "kills": "125",
+            "name": "dre",
+            "team": "Thompson Rivers University"
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n0.59\n1.84",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "21\n5\n16",
+            "fk": "173\n127\n215",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "7\n5\n2",
+            "kills": "329",
+            "name": "Ayeo",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "1.19\n1.41\n0.99",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "142\n176\n111",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "7\n2\n5",
+            "kills": "176",
+            "name": "Lewds",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "1.11\n1.70\n0.57",
+            "adr": "+5\n+11\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "22\n17\n5",
+            "fk": "173\n219\n131",
+            "hs%": "83%\n100%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "166",
+            "name": "2lx",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "0.84\n0.76\n0.90",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "117\n115\n119",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "14\n4\n10",
+            "kills": "185",
+            "name": "igottheSAUCE",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "0.66\n0.87\n0.46",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "121\n150\n95",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "129",
+            "name": "Halo",
+            "team": "Northern Alberta Institute of Technology"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "294",
+          "name": "corgi",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "235",
+          "name": "iron shimmy",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "157",
+          "name": "dre",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "218",
+          "name": "Ferru",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "188",
+          "name": "imcoco",
+          "team": "Thompson Rivers University"
+        },
+        {
+          "kills": "250",
+          "name": "2lx",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "237",
+          "name": "Lewds",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "177",
+          "name": "igottheSAUCE",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "236",
+          "name": "Ayeo",
+          "team": "Northern Alberta Institute of Technology"
+        },
+        {
+          "kills": "94",
+          "name": "Halo",
+          "team": "Northern Alberta Institute of Technology"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.54\n1.18\n1.90",
+            "adr": "+12\n0\n+12",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "28\n11\n17",
+            "fk": "195\n167\n224",
+            "hs%": "85%\n77%\n92%",
+            "kdr": "7\n5\n2",
+            "kills": "294",
+            "name": "corgi",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "1.20\n1.43\n0.97",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "22\n15\n7",
+            "fk": "144\n183\n105",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "12\n4\n8",
+            "kills": "235",
+            "name": "iron shimmy",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "1.03\n0.82\n1.24",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "111\n107\n116",
+            "hs%": "81%\n69%\n92%",
+            "kdr": "12\n4\n8",
+            "kills": "157",
+            "name": "dre",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "0.92\n0.58\n1.25",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "145\n123\n168",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "9\n3\n6",
+            "kills": "218",
+            "name": "Ferru",
+            "team": "Thompson Rivers University"
+          },
+          {
+            "acs": "0.89\n0.47\n1.32",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "127\n71\n184",
+            "hs%": "69%\n54%\n85%",
+            "kdr": "8\n5\n3",
+            "kills": "188",
+            "name": "imcoco",
+            "team": "Thompson Rivers University"
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n1.31\n1.16",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "165\n169\n160",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "1\n0\n1",
+            "kills": "250",
+            "name": "2lx",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "1.14\n1.11\n1.17",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "172\n153\n190",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "4\n0\n4",
+            "kills": "237",
+            "name": "Lewds",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "0.98\n0.51\n1.46",
+            "adr": "-1\n-8\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "97\n57\n138",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "15\n7\n8",
+            "kills": "177",
+            "name": "igottheSAUCE",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "0.84\n0.44\n1.23",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "149\n88\n210",
+            "hs%": "58%\n46%\n69%",
+            "kdr": "7\n3\n4",
+            "kills": "236",
+            "name": "Ayeo",
+            "team": "Northern Alberta Institute of Technology"
+          },
+          {
+            "acs": "0.47\n0.19\n0.75",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "69\n37\n102",
+            "hs%": "62%\n46%\n77%",
+            "kdr": "12\n5\n7",
+            "kills": "94",
+            "name": "Halo",
+            "team": "Northern Alberta Institute of Technology"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 158917,
+  "teams": [
+    "Thompson Rivers University",
+    "Northern Alberta Institute of Technology"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tElimination (F)"
+}

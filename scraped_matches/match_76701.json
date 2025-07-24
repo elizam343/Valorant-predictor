@@ -1,0 +1,594 @@
+{
+  "date": "2022-03-12 13:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "387",
+          "name": "duck",
+          "team": "Team Nutty"
+        },
+        {
+          "kills": "172",
+          "name": "ohai",
+          "team": "Team Nutty"
+        },
+        {
+          "kills": "231",
+          "name": "Rejante",
+          "team": "Team Nutty"
+        },
+        {
+          "kills": "183",
+          "name": "royal",
+          "team": "Team Nutty"
+        },
+        {
+          "kills": "149",
+          "name": "Nanners",
+          "team": "Team Nutty"
+        },
+        {
+          "kills": "234",
+          "name": "Burton",
+          "team": "4FUN"
+        },
+        {
+          "kills": "249",
+          "name": "fraggleton",
+          "team": "4FUN"
+        },
+        {
+          "kills": "269",
+          "name": "diaamond",
+          "team": "4FUN"
+        },
+        {
+          "kills": "181",
+          "name": "koof",
+          "team": "4FUN"
+        },
+        {
+          "kills": "44",
+          "name": "oneDANimal",
+          "team": "4FUN"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "2.04\n2.17\n1.95",
+            "adr": "+17\n+10\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "29\n13\n16",
+            "fk": "235\n243\n229",
+            "hs%": "85%\n88%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "387",
+            "name": "duck",
+            "team": "Team Nutty"
+          },
+          {
+            "acs": "1.20\n0.88\n1.41",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "135\n69\n179",
+            "hs%": "90%\n88%\n92%",
+            "kdr": "12\n6\n6",
+            "kills": "172",
+            "name": "ohai",
+            "team": "Team Nutty"
+          },
+          {
+            "acs": "1.09\n0.83\n1.26",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "143\n142\n143",
+            "hs%": "85%\n88%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "231",
+            "name": "Rejante",
+            "team": "Team Nutty"
+          },
+          {
+            "acs": "0.98\n2.32\n0.07",
+            "adr": "0\n+10\n-10",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "120\n232\n45",
+            "hs%": "65%\n100%\n42%",
+            "kdr": "6\n2\n4",
+            "kills": "183",
+            "name": "royal",
+            "team": "Team Nutty"
+          },
+          {
+            "acs": "0.82\n0.77\n0.85",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "120\n135\n110",
+            "hs%": "70%\n88%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "149",
+            "name": "Nanners",
+            "team": "Team Nutty"
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n1.06\n1.20",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "166\n137\n210",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "4\n2\n2",
+            "kills": "234",
+            "name": "Burton",
+            "team": "4FUN"
+          },
+          {
+            "acs": "1.09\n1.18\n0.95",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "159\n158\n162",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "2\n1\n1",
+            "kills": "249",
+            "name": "fraggleton",
+            "team": "4FUN"
+          },
+          {
+            "acs": "0.92\n1.08\n0.67",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "183\n228\n114",
+            "hs%": "65%\n83%\n38%",
+            "kdr": "1\n1\n0",
+            "kills": "269",
+            "name": "diaamond",
+            "team": "4FUN"
+          },
+          {
+            "acs": "0.76\n1.30\n0.02",
+            "adr": "-2\n+7\n-9",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n14\n-1",
+            "fk": "126\n186\n36",
+            "hs%": "55%\n83%\n13%",
+            "kdr": "2\n1\n1",
+            "kills": "181",
+            "name": "koof",
+            "team": "4FUN"
+          },
+          {
+            "acs": "0.02\n0.01\n0.05",
+            "adr": "-18\n-11\n-7",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "2\n1\n1",
+            "fk": "34\n34\n34",
+            "hs%": "35%\n33%\n38%",
+            "kdr": "3\n2\n1",
+            "kills": "44",
+            "name": "oneDANimal",
+            "team": "4FUN"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "316",
+          "name": "duck",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "ohai",
+          "team": null
+        },
+        {
+          "kills": "302",
+          "name": "royal",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "Rejante",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "Nanners",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "fraggleton",
+          "team": null
+        },
+        {
+          "kills": "274",
+          "name": "diaamond",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "Burton",
+          "team": null
+        },
+        {
+          "kills": "228",
+          "name": "koof",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "oneDANimal",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.53\n1.95\n1.76",
+            "adr": "+25\n+11\n+14",
+            "agent": "",
+            "assists": "/\n\n32\n13\n19\n\n/",
+            "deaths": "57\n24\n33",
+            "fk": "227\n198\n251",
+            "hs%": "80%\n71%\n88%",
+            "kdr": "13\n4\n9",
+            "kills": "316",
+            "name": "duck",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.32\n1.21",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n28\n12\n16\n\n/",
+            "deaths": "30\n11\n19",
+            "fk": "130\n104\n152",
+            "hs%": "78%\n71%\n84%",
+            "kdr": "23\n12\n11",
+            "kills": "151",
+            "name": "ohai",
+            "team": null
+          },
+          {
+            "acs": "1.82\n0.52\n1.11",
+            "adr": "+6\n+15\n-9",
+            "agent": "",
+            "assists": "/\n\n29\n9\n20\n\n/",
+            "deaths": "35\n24\n11",
+            "fk": "131\n189\n82",
+            "hs%": "72%\n90%\n56%",
+            "kdr": "14\n9\n5",
+            "kills": "302",
+            "name": "royal",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.90\n0.93",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n35\n15\n20\n\n/",
+            "deaths": "30\n16\n14",
+            "fk": "116\n125\n109",
+            "hs%": "76%\n76%\n76%",
+            "kdr": "12\n7\n5",
+            "kills": "194",
+            "name": "Rejante",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.96\n0.91",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n32\n14\n18\n\n/",
+            "deaths": "27\n13\n14",
+            "fk": "142\n142\n142",
+            "hs%": "70%\n81%\n60%",
+            "kdr": "14\n8\n6",
+            "kills": "170",
+            "name": "Nanners",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.93\n1.06\n0.99",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "33\n18\n15",
+            "fk": "135\n124\n148",
+            "hs%": "70%\n68%\n71%",
+            "kdr": "12\n8\n4",
+            "kills": "196",
+            "name": "fraggleton",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.04\n0.97",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n40\n22\n18\n\n/",
+            "deaths": "40\n22\n18",
+            "fk": "179\n188\n169",
+            "hs%": "74%\n80%\n67%",
+            "kdr": "9\n6\n3",
+            "kills": "274",
+            "name": "diaamond",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.84\n0.95",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "32\n19\n13",
+            "fk": "130\n120\n141",
+            "hs%": "67%\n72%\n62%",
+            "kdr": "7\n2\n5",
+            "kills": "197",
+            "name": "Burton",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.25\n0.68",
+            "adr": "-8\n+6\n-14",
+            "agent": "",
+            "assists": "/\n\n36\n17\n19\n\n/",
+            "deaths": "28\n23\n5",
+            "fk": "121\n155\n79",
+            "hs%": "59%\n76%\n38%",
+            "kdr": "5\n4\n1",
+            "kills": "228",
+            "name": "koof",
+            "team": null
+          },
+          {
+            "acs": "0.55\n0.61\n0.57",
+            "adr": "-14\n-9\n-5",
+            "agent": "",
+            "assists": "/\n\n37\n21\n16\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "85\n90\n79",
+            "hs%": "54%\n52%\n57%",
+            "kdr": "11\n7\n4",
+            "kills": "138",
+            "name": "oneDANimal",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "410",
+          "name": "duck",
+          "team": "Team Nutty"
+        },
+        {
+          "kills": "167",
+          "name": "royal",
+          "team": "Team Nutty"
+        },
+        {
+          "kills": "182",
+          "name": "ohai",
+          "team": "Team Nutty"
+        },
+        {
+          "kills": "258",
+          "name": "Nanners",
+          "team": "Team Nutty"
+        },
+        {
+          "kills": "110",
+          "name": "Rejante",
+          "team": "Team Nutty"
+        },
+        {
+          "kills": "327",
+          "name": "diaamond",
+          "team": "4FUN"
+        },
+        {
+          "kills": "179",
+          "name": "oneDANimal",
+          "team": "4FUN"
+        },
+        {
+          "kills": "189",
+          "name": "fraggleton",
+          "team": "4FUN"
+        },
+        {
+          "kills": "154",
+          "name": "Burton",
+          "team": "4FUN"
+        },
+        {
+          "kills": "148",
+          "name": "koof",
+          "team": "4FUN"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.54\n1.13\n1.95",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "28\n11\n17",
+            "fk": "221\n171\n272",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "410",
+            "name": "duck",
+            "team": "Team Nutty"
+          },
+          {
+            "acs": "1.22\n1.51\n0.93",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "139\n162\n116",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "8\n7\n1",
+            "kills": "167",
+            "name": "royal",
+            "team": "Team Nutty"
+          },
+          {
+            "acs": "1.22\n1.21\n1.24",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "126\n126\n127",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "11\n6\n5",
+            "kills": "182",
+            "name": "ohai",
+            "team": "Team Nutty"
+          },
+          {
+            "acs": "0.98\n0.90\n1.07",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "159\n147\n171",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "8\n5\n3",
+            "kills": "258",
+            "name": "Nanners",
+            "team": "Team Nutty"
+          },
+          {
+            "acs": "0.81\n1.04\n0.57",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "96\n114\n77",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "7\n4\n3",
+            "kills": "110",
+            "name": "Rejante",
+            "team": "Team Nutty"
+          }
+        ],
+        [
+          {
+            "acs": "1.01\n0.76\n1.27",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "177\n150\n203",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "8\n5\n3",
+            "kills": "327",
+            "name": "diaamond",
+            "team": "4FUN"
+          },
+          {
+            "acs": "1.00\n1.05\n0.96",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "124\n142\n107",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "8\n5\n3",
+            "kills": "179",
+            "name": "oneDANimal",
+            "team": "4FUN"
+          },
+          {
+            "acs": "0.92\n0.71\n1.13",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "116\n93\n139",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "10\n7\n3",
+            "kills": "189",
+            "name": "fraggleton",
+            "team": "4FUN"
+          },
+          {
+            "acs": "0.83\n1.04\n0.61",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "102\n105\n99",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "3\n0\n3",
+            "kills": "154",
+            "name": "Burton",
+            "team": "4FUN"
+          },
+          {
+            "acs": "0.62\n0.84\n0.39",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "117\n128\n106",
+            "hs%": "62%\n69%\n54%",
+            "kdr": "3\n3\n0",
+            "kills": "148",
+            "name": "koof",
+            "team": "4FUN"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 76701,
+  "teams": [
+    "Team Nutty",
+    "4FUN"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tQuarterfinals"
+}

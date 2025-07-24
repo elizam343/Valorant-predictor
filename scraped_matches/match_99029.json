@@ -1,0 +1,788 @@
+{
+  "date": "2022-05-09 12:15:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "ISSAA",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "252",
+          "name": "xelouz",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "179",
+          "name": "Near",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "147",
+          "name": "B4HA",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "189",
+          "name": "kAzoo",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "203",
+          "name": "Carlito",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "217",
+          "name": "DVDOV",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "222",
+          "name": "Ebeeee",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "187",
+          "name": "TTyke",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "235",
+          "name": "fr1",
+          "team": "vSlash Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.43\n1.30\n1.56",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "159\n180\n136",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "2\n1\n1",
+            "kills": "265",
+            "name": "ISSAA",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "1.37\n1.60\n1.11",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "154\n158\n151",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "9\n6\n3",
+            "kills": "252",
+            "name": "xelouz",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "1.00\n0.78\n1.23",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "129\n100\n160",
+            "hs%": "74%\n58%\n91%",
+            "kdr": "6\n4\n2",
+            "kills": "179",
+            "name": "Near",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "0.74\n0.78\n0.69",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "95\n104\n85",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "6\n4\n2",
+            "kills": "147",
+            "name": "B4HA",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "0.73\n0.70\n0.75",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "139\n139\n140",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "3\n0\n3",
+            "kills": "189",
+            "name": "kAzoo",
+            "team": "YaLLa Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.99\n1.14\n0.86",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "125\n166\n87",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "203",
+            "name": "Carlito",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "0.97\n0.92\n1.02",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "155\n127\n181",
+            "hs%": "65%\n45%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "217",
+            "name": "DVDOV",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "0.97\n0.91\n1.03",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "130\n136\n124",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "222",
+            "name": "Ebeeee",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "0.90\n0.89\n0.92",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "122\n122\n122",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "187",
+            "name": "TTyke",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "0.89\n0.63\n1.12",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "160\n117\n199",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "235",
+            "name": "fr1",
+            "team": "vSlash Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "216",
+          "name": "ISSAA",
+          "team": null
+        },
+        {
+          "kills": "228",
+          "name": "Near",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "xelouz",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "B4HA",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "kAzoo",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "DVDOV",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "TTyke",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "Ebeeee",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "fr1",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "Carlito",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.90\n1.44\n1.17",
+            "adr": "+16\n+1\n+15",
+            "agent": "",
+            "assists": "/\n\n49\n29\n20\n\n/",
+            "deaths": "65\n30\n35",
+            "fk": "145\n137\n153",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "9\n4\n5",
+            "kills": "216",
+            "name": "ISSAA",
+            "team": null
+          },
+          {
+            "acs": "1.19\n1.14\n1.17",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "60\n31\n29",
+            "fk": "141\n149\n132",
+            "hs%": "79%\n77%\n82%",
+            "kdr": "22\n15\n7",
+            "kills": "228",
+            "name": "Near",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.98\n1.01",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n55\n28\n27\n\n/",
+            "deaths": "54\n26\n28",
+            "fk": "135\n138\n132",
+            "hs%": "70%\n67%\n74%",
+            "kdr": "24\n12\n12",
+            "kills": "202",
+            "name": "xelouz",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.83\n0.94",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n56\n30\n26\n\n/",
+            "deaths": "54\n31\n23",
+            "fk": "122\n130\n114",
+            "hs%": "71%\n72%\n71%",
+            "kdr": "23\n11\n12",
+            "kills": "211",
+            "name": "B4HA",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.04\n0.87",
+            "adr": "-7\n-11\n+4",
+            "agent": "",
+            "assists": "/\n\n59\n32\n27\n\n/",
+            "deaths": "52\n21\n31",
+            "fk": "136\n114\n158",
+            "hs%": "70%\n69%\n71%",
+            "kdr": "15\n10\n5",
+            "kills": "170",
+            "name": "kAzoo",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.36\n1.21",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n53\n25\n28\n\n/",
+            "deaths": "64\n26\n38",
+            "fk": "162\n132\n192",
+            "hs%": "65%\n53%\n77%",
+            "kdr": "12\n5\n7",
+            "kills": "190",
+            "name": "DVDOV",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.11\n1.05",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n56\n30\n26\n\n/",
+            "deaths": "62\n29\n33",
+            "fk": "135\n132\n138",
+            "hs%": "70%\n68%\n72%",
+            "kdr": "8\n6\n2",
+            "kills": "215",
+            "name": "TTyke",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.92\n0.88",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n56\n29\n27\n\n/",
+            "deaths": "45\n23\n22",
+            "fk": "116\n116\n116",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "24\n11\n13",
+            "kills": "187",
+            "name": "Ebeeee",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.17\n0.87",
+            "adr": "-8\n-14\n+6",
+            "agent": "",
+            "assists": "/\n\n66\n35\n31\n\n/",
+            "deaths": "58\n21\n37",
+            "fk": "146\n101\n190",
+            "hs%": "64%\n55%\n72%",
+            "kdr": "21\n10\n11",
+            "kills": "166",
+            "name": "fr1",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.65\n0.77",
+            "adr": "-16\n-3\n-13",
+            "agent": "",
+            "assists": "/\n\n54\n27\n27\n\n/",
+            "deaths": "38\n24\n14",
+            "fk": "114\n122\n106",
+            "hs%": "66%\n71%\n62%",
+            "kdr": "22\n10\n12",
+            "kills": "190",
+            "name": "Carlito",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "246",
+          "name": "Near",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "193",
+          "name": "B4HA",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "264",
+          "name": "ISSAA",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "239",
+          "name": "kAzoo",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "197",
+          "name": "xelouz",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "307",
+          "name": "DVDOV",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "285",
+          "name": "TTyke",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "290",
+          "name": "fr1",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "117",
+          "name": "Ebeeee",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "129",
+          "name": "Carlito",
+          "team": "vSlash Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.34\n1.35\n1.33",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "158\n174\n142",
+            "hs%": "90%\n87%\n93%",
+            "kdr": "9\n5\n4",
+            "kills": "246",
+            "name": "Near",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "1.13\n1.25\n1.02",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "134\n147\n122",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "8\n4\n4",
+            "kills": "193",
+            "name": "B4HA",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "1.12\n0.95\n1.29",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "144\n118\n170",
+            "hs%": "80%\n73%\n87%",
+            "kdr": "4\n2\n2",
+            "kills": "264",
+            "name": "ISSAA",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "0.79\n0.69\n0.88",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "133\n95\n172",
+            "hs%": "67%\n80%\n53%",
+            "kdr": "9\n8\n1",
+            "kills": "239",
+            "name": "kAzoo",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "0.58\n0.27\n0.89",
+            "adr": "-10\n-10\n0",
+            "agent": "",
+            "assists": "/\n\n25\n14\n11\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "113\n85\n140",
+            "hs%": "63%\n53%\n73%",
+            "kdr": "4\n1\n3",
+            "kills": "197",
+            "name": "xelouz",
+            "team": "YaLLa Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n1.08\n1.58",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "28\n11\n17",
+            "fk": "177\n145\n209",
+            "hs%": "67%\n60%\n73%",
+            "kdr": "5\n3\n2",
+            "kills": "307",
+            "name": "DVDOV",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "1.31\n1.11\n1.51",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "30\n13\n17",
+            "fk": "160\n138\n182",
+            "hs%": "77%\n67%\n87%",
+            "kdr": "4\n3\n1",
+            "kills": "285",
+            "name": "TTyke",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "0.89\n0.58\n1.20",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n26\n14\n12\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "136\n95\n177",
+            "hs%": "63%\n47%\n80%",
+            "kdr": "11\n5\n6",
+            "kills": "290",
+            "name": "fr1",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "0.87\n0.98\n0.77",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "99\n112\n86",
+            "hs%": "87%\n93%\n80%",
+            "kdr": "9\n4\n5",
+            "kills": "117",
+            "name": "Ebeeee",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "0.64\n0.78\n0.50",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "99\n96\n103",
+            "hs%": "63%\n67%\n60%",
+            "kdr": "11\n6\n5",
+            "kills": "129",
+            "name": "Carlito",
+            "team": "vSlash Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "215",
+          "name": "xelouz",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "212",
+          "name": "Near",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "230",
+          "name": "kAzoo",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "198",
+          "name": "ISSAA",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "207",
+          "name": "B4HA",
+          "team": "YaLLa Esports"
+        },
+        {
+          "kills": "222",
+          "name": "DVDOV",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "194",
+          "name": "TTyke",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "216",
+          "name": "fr1",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "189",
+          "name": "Ebeeee",
+          "team": "vSlash Esports"
+        },
+        {
+          "kills": "154",
+          "name": "Carlito",
+          "team": "vSlash Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.22\n1.46\n0.97",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "144\n185\n103",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "11\n5\n6",
+            "kills": "215",
+            "name": "xelouz",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "1.11\n1.40\n0.81",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "131\n167\n95",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "7\n6\n1",
+            "kills": "212",
+            "name": "Near",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "1.11\n0.73\n1.49",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "135\n112\n159",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "230",
+            "name": "kAzoo",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "0.98\n0.44\n1.52",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "132\n117\n147",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "198",
+            "name": "ISSAA",
+            "team": "YaLLa Esports"
+          },
+          {
+            "acs": "0.90\n1.07\n0.73",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "134\n137\n132",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "9\n3\n6",
+            "kills": "207",
+            "name": "B4HA",
+            "team": "YaLLa Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.15\n1.43",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "151\n119\n183",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "222",
+            "name": "DVDOV",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "0.88\n0.95\n0.81",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "115\n133\n98",
+            "hs%": "58%\n58%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "194",
+            "name": "TTyke",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "0.84\n0.51\n1.18",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "146\n95\n197",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "216",
+            "name": "fr1",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "0.81\n0.63\n0.98",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "123\n102\n144",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "189",
+            "name": "Ebeeee",
+            "team": "vSlash Esports"
+          },
+          {
+            "acs": "0.73\n0.82\n0.64",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "121\n112\n130",
+            "hs%": "58%\n67%\n50%",
+            "kdr": "5\n1\n4",
+            "kills": "154",
+            "name": "Carlito",
+            "team": "vSlash Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 99029,
+  "teams": [
+    "vSlash Esports",
+    "YaLLa Esports"
+  ],
+  "tournament": "GCC and Iraq: \n\t\t\t\t\t\tWeek 1"
+}

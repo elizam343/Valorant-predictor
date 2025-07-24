@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-29 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "222",
+          "name": "jcrueL",
+          "team": "Complexity"
+        },
+        {
+          "kills": "238",
+          "name": "Governor",
+          "team": "Complexity"
+        },
+        {
+          "kills": "233",
+          "name": "agM",
+          "team": "Complexity"
+        },
+        {
+          "kills": "222",
+          "name": "scourge",
+          "team": "Complexity"
+        },
+        {
+          "kills": "114",
+          "name": "truo",
+          "team": "Complexity"
+        },
+        {
+          "kills": "262",
+          "name": "Nanners",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "214",
+          "name": "ohai",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "182",
+          "name": "royal",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "204",
+          "name": "duck",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "130",
+          "name": "shawn",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.22\n1.10",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "134\n144\n123",
+            "hs%": "63%\n67%\n60%",
+            "kdr": "2\n1\n1",
+            "kills": "222",
+            "name": "jcrueL",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.15\n1.18\n1.12",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "162\n176\n148",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "15\n10\n5",
+            "kills": "238",
+            "name": "Governor",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.07\n1.22\n0.93",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "151\n157\n146",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "9\n4\n5",
+            "kills": "233",
+            "name": "agM",
+            "team": "Complexity"
+          },
+          {
+            "acs": "0.91\n1.14\n0.69",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "144\n172\n116",
+            "hs%": "60%\n67%\n53%",
+            "kdr": "1\n1\n0",
+            "kills": "222",
+            "name": "scourge",
+            "team": "Complexity"
+          },
+          {
+            "acs": "0.76\n0.80\n0.72",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "77\n73\n81",
+            "hs%": "77%\n80%\n73%",
+            "kdr": "15\n6\n9",
+            "kills": "114",
+            "name": "truo",
+            "team": "Complexity"
+          }
+        ],
+        [
+          {
+            "acs": "1.36\n1.68\n1.03",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "168\n175\n161",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "11\n5\n6",
+            "kills": "262",
+            "name": "Nanners",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.18\n1.40\n0.96",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "137\n136\n138",
+            "hs%": "80%\n73%\n87%",
+            "kdr": "13\n7\n6",
+            "kills": "214",
+            "name": "ohai",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.96\n1.11\n0.81",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "115\n125\n106",
+            "hs%": "80%\n73%\n87%",
+            "kdr": "12\n6\n6",
+            "kills": "182",
+            "name": "royal",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.83\n0.74\n0.92",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "143\n129\n158",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "204",
+            "name": "duck",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.73\n0.63\n0.84",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "88\n80\n95",
+            "hs%": "70%\n60%\n80%",
+            "kdr": "10\n6\n4",
+            "kills": "130",
+            "name": "shawn",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "256",
+          "name": "Governor",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "agM",
+          "team": null
+        },
+        {
+          "kills": "284",
+          "name": "scourge",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "jcrueL",
+          "team": null
+        },
+        {
+          "kills": "122",
+          "name": "truo",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "royal",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "Nanners",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "ohai",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "duck",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "shawn",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.06\n1.18",
+            "adr": "+7\n+8\n-1",
+            "agent": "",
+            "assists": "/\n\n53\n21\n32\n\n/",
+            "deaths": "60\n29\n31",
+            "fk": "176\n179\n173",
+            "hs%": "76%\n78%\n74%",
+            "kdr": "32\n18\n14",
+            "kills": "256",
+            "name": "Governor",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.05\n1.05",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n46\n19\n27\n\n/",
+            "deaths": "49\n22\n27",
+            "fk": "135\n140\n132",
+            "hs%": "72%\n78%\n67%",
+            "kdr": "22\n10\n12",
+            "kills": "197",
+            "name": "agM",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.85\n1.04",
+            "adr": "+6\n+9\n-3",
+            "agent": "",
+            "assists": "/\n\n54\n24\n30\n\n/",
+            "deaths": "60\n33\n27",
+            "fk": "156\n187\n130",
+            "hs%": "66%\n69%\n64%",
+            "kdr": "10\n5\n5",
+            "kills": "284",
+            "name": "scourge",
+            "team": null
+          },
+          {
+            "acs": "1.16\n0.79\n0.96",
+            "adr": "-1\n+6\n-7",
+            "agent": "",
+            "assists": "/\n\n51\n21\n30\n\n/",
+            "deaths": "50\n27\n23",
+            "fk": "122\n142\n106",
+            "hs%": "68%\n66%\n69%",
+            "kdr": "7\n3\n4",
+            "kills": "221",
+            "name": "jcrueL",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.82\n0.85",
+            "adr": "-11\n-2\n-9",
+            "agent": "",
+            "assists": "/\n\n47\n18\n29\n\n/",
+            "deaths": "36\n16\n20",
+            "fk": "97\n81\n110",
+            "hs%": "77%\n84%\n72%",
+            "kdr": "30\n17\n13",
+            "kills": "122",
+            "name": "truo",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.15\n1.13\n1.14",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "51\n29\n22",
+            "fk": "130\n141\n117",
+            "hs%": "76%\n74%\n78%",
+            "kdr": "26\n15\n11",
+            "kills": "217",
+            "name": "royal",
+            "team": null
+          },
+          {
+            "acs": "1.16\n0.90\n1.04",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n52\n24\n28\n\n/",
+            "deaths": "55\n30\n25",
+            "fk": "148\n138\n160",
+            "hs%": "68%\n67%\n69%",
+            "kdr": "18\n10\n8",
+            "kills": "216",
+            "name": "Nanners",
+            "team": null
+          },
+          {
+            "acs": "1.24\n0.75\n1.02",
+            "adr": "-2\n+6\n-8",
+            "agent": "",
+            "assists": "/\n\n55\n29\n26\n\n/",
+            "deaths": "53\n35\n18",
+            "fk": "138\n157\n116",
+            "hs%": "73%\n74%\n72%",
+            "kdr": "25\n14\n11",
+            "kills": "253",
+            "name": "ohai",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.84\n0.96",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n54\n29\n25\n\n/",
+            "deaths": "54\n33\n21",
+            "fk": "149\n156\n141",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "12\n8\n4",
+            "kills": "230",
+            "name": "duck",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.79\n0.88",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "38\n21\n17",
+            "fk": "102\n109\n93",
+            "hs%": "76%\n77%\n75%",
+            "kdr": "25\n17\n8",
+            "kills": "151",
+            "name": "shawn",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "362",
+          "name": "Governor",
+          "team": "Complexity"
+        },
+        {
+          "kills": "167",
+          "name": "scourge",
+          "team": "Complexity"
+        },
+        {
+          "kills": "181",
+          "name": "jcrueL",
+          "team": "Complexity"
+        },
+        {
+          "kills": "210",
+          "name": "truo",
+          "team": "Complexity"
+        },
+        {
+          "kills": "185",
+          "name": "agM",
+          "team": "Complexity"
+        },
+        {
+          "kills": "203",
+          "name": "royal",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "119",
+          "name": "ohai",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "139",
+          "name": "shawn",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "132",
+          "name": "duck",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "242",
+          "name": "Nanners",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.51\n1.47\n1.55",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "205\n169\n239",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "9\n7\n2",
+            "kills": "362",
+            "name": "Governor",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.14\n1.37\n0.93",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "159\n215\n107",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "167",
+            "name": "scourge",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.11\n1.48\n0.77",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "143\n183\n107",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "181",
+            "name": "jcrueL",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.09\n1.25\n0.95",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "113\n88\n137",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "9\n8\n1",
+            "kills": "210",
+            "name": "truo",
+            "team": "Complexity"
+          },
+          {
+            "acs": "0.94\n0.87\n1.01",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "128\n119\n136",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "185",
+            "name": "agM",
+            "team": "Complexity"
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n0.98\n1.11",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "129\n140\n118",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "7\n5\n2",
+            "kills": "203",
+            "name": "royal",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.97\n1.30\n0.61",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "130\n185\n70",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "7\n5\n2",
+            "kills": "119",
+            "name": "ohai",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.97\n1.18\n0.74",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "128\n160\n94",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "5\n2\n3",
+            "kills": "139",
+            "name": "shawn",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.75\n0.85\n0.65",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "120\n146\n91",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "5\n2\n3",
+            "kills": "132",
+            "name": "duck",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.56\n0.50\n0.63",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "142\n115\n173",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "2\n1\n1",
+            "kills": "242",
+            "name": "Nanners",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "179",
+          "name": "agM",
+          "team": "Complexity"
+        },
+        {
+          "kills": "250",
+          "name": "scourge",
+          "team": "Complexity"
+        },
+        {
+          "kills": "225",
+          "name": "Governor",
+          "team": "Complexity"
+        },
+        {
+          "kills": "136",
+          "name": "truo",
+          "team": "Complexity"
+        },
+        {
+          "kills": "108",
+          "name": "jcrueL",
+          "team": "Complexity"
+        },
+        {
+          "kills": "253",
+          "name": "royal",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "277",
+          "name": "duck",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "198",
+          "name": "Nanners",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "147",
+          "name": "shawn",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "252",
+          "name": "ohai",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.14\n0.94\n1.24",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "118\n132\n111",
+            "hs%": "61%\n83%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "179",
+            "name": "agM",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.12\n1.38\n0.99",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "172\n175\n170",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "250",
+            "name": "scourge",
+            "team": "Complexity"
+          },
+          {
+            "acs": "0.79\n1.35\n0.51",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "160\n203\n138",
+            "hs%": "78%\n100%\n67%",
+            "kdr": "8\n1\n7",
+            "kills": "225",
+            "name": "Governor",
+            "team": "Complexity"
+          },
+          {
+            "acs": "0.69\n0.43\n0.83",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "110\n90\n121",
+            "hs%": "72%\n100%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "136",
+            "name": "truo",
+            "team": "Complexity"
+          },
+          {
+            "acs": "0.42\n0.43\n0.42",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "76\n62\n83",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "108",
+            "name": "jcrueL",
+            "team": "Complexity"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.36\n1.99",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "157\n164\n142",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "253",
+            "name": "royal",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.43\n1.64\n1.01",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "197\n200\n190",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "5\n4\n1",
+            "kills": "277",
+            "name": "duck",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.12\n1.16\n1.05",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "122\n116\n133",
+            "hs%": "78%\n67%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "198",
+            "name": "Nanners",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.02\n1.16\n0.75",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "93\n95\n89",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "10\n9\n1",
+            "kills": "147",
+            "name": "shawn",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.83\n0.99\n0.50",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "151\n154\n145",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "252",
+            "name": "ohai",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 67352,
+  "teams": [
+    "BASILISK",
+    "Complexity"
+  ],
+  "tournament": "Open Qualifier #1: \n\t\t\t\t\t\tLower Round 2"
+}

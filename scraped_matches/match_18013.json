@@ -1,0 +1,788 @@
+{
+  "date": "2021-05-03 20:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "254",
+          "name": "truo",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "201",
+          "name": "jelii",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "186",
+          "name": "nerve",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "214",
+          "name": "Huston",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "97",
+          "name": "Sympul",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "284",
+          "name": "Apoth",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "236",
+          "name": "Eley",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "235",
+          "name": "iKoniK",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "212",
+          "name": "snxper",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "130",
+          "name": "Lin",
+          "team": "VIRTUOSO"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.04\n0.46\n1.38",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "143\n76\n182",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "254",
+            "name": "truo",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "0.97\n1.29\n0.79",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "127\n145\n116",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "201",
+            "name": "jelii",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "0.82\n0.66\n0.91",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "123\n116\n127",
+            "hs%": "47%\n57%\n42%",
+            "kdr": "2\n2\n0",
+            "kills": "186",
+            "name": "nerve",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "0.76\n0.31\n1.02",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "131\n78\n162",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "214",
+            "name": "Huston",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "0.52\n0.40\n0.58",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "59\n72\n51",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "10\n1\n9",
+            "kills": "97",
+            "name": "Sympul",
+            "team": "Frick Ya Bag"
+          }
+        ],
+        [
+          {
+            "acs": "1.58\n1.38\n1.93",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "160\n172\n141",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "284",
+            "name": "Apoth",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "1.42\n1.54\n1.20",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "142\n160\n110",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "4\n1\n3",
+            "kills": "236",
+            "name": "Eley",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "1.16\n1.04\n1.36",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "146\n130\n175",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "6\n4\n2",
+            "kills": "235",
+            "name": "iKoniK",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.83\n0.63\n1.19",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "134\n117\n161",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "11\n4\n7",
+            "kills": "212",
+            "name": "snxper",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.59\n0.35\n1.01",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "84\n66\n114",
+            "hs%": "63%\n50%\n86%",
+            "kdr": "5\n4\n1",
+            "kills": "130",
+            "name": "Lin",
+            "team": "VIRTUOSO"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "255",
+          "name": "truo",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "jelii",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "nerve",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "Huston",
+          "team": null
+        },
+        {
+          "kills": "125",
+          "name": "Sympul",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Eley",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "Apoth",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "iKoniK",
+          "team": null
+        },
+        {
+          "kills": "140",
+          "name": "Lin",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "snxper",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.12\n1.35\n1.24",
+            "adr": "+20\n+5\n+15",
+            "agent": "",
+            "assists": "/\n\n36\n21\n15\n\n/",
+            "deaths": "56\n26\n30",
+            "fk": "147\n150\n144",
+            "hs%": "78%\n74%\n81%",
+            "kdr": "9\n6\n3",
+            "kills": "255",
+            "name": "truo",
+            "team": null
+          },
+          {
+            "acs": "1.46\n1.01\n1.22",
+            "adr": "+15\n+11\n+4",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "45\n26\n19",
+            "fk": "130\n148\n114",
+            "hs%": "72%\n74%\n71%",
+            "kdr": "14\n8\n6",
+            "kills": "253",
+            "name": "jelii",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.24\n1.12",
+            "adr": "+10\n-1\n+11",
+            "agent": "",
+            "assists": "/\n\n39\n20\n19\n\n/",
+            "deaths": "49\n19\n30",
+            "fk": "142\n143\n141",
+            "hs%": "69%\n70%\n68%",
+            "kdr": "12\n8\n4",
+            "kills": "216",
+            "name": "nerve",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.27\n1.07",
+            "adr": "+8\n-2\n+10",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "49\n18\n31",
+            "fk": "163\n127\n195",
+            "hs%": "78%\n78%\n77%",
+            "kdr": "9\n6\n3",
+            "kills": "192",
+            "name": "Huston",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.88\n0.79",
+            "adr": "-14\n-8\n-6",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "81\n84\n78",
+            "hs%": "69%\n67%\n71%",
+            "kdr": "28\n8\n20",
+            "kills": "125",
+            "name": "Sympul",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n1.04\n1.08",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n40\n22\n18\n\n/",
+            "deaths": "42\n24\n18",
+            "fk": "128\n130\n125",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "15\n4\n11",
+            "kills": "209",
+            "name": "Eley",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.28\n1.02",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n41\n22\n19\n\n/",
+            "deaths": "43\n17\n26",
+            "fk": "112\n107\n119",
+            "hs%": "66%\n58%\n74%",
+            "kdr": "13\n5\n8",
+            "kills": "147",
+            "name": "Apoth",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.06\n1.01",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n46\n26\n20\n\n/",
+            "deaths": "41\n21\n20",
+            "fk": "126\n122\n130",
+            "hs%": "69%\n65%\n74%",
+            "kdr": "14\n8\n6",
+            "kills": "204",
+            "name": "iKoniK",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.86\n0.70",
+            "adr": "-15\n-11\n-4",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "32\n14\n18",
+            "fk": "105\n88\n124",
+            "hs%": "60%\n55%\n67%",
+            "kdr": "20\n11\n9",
+            "kills": "140",
+            "name": "Lin",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.57\n0.58",
+            "adr": "-23\n-13\n-10",
+            "agent": "",
+            "assists": "/\n\n46\n25\n21\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "96\n101\n91",
+            "hs%": "66%\n65%\n67%",
+            "kdr": "20\n10\n10",
+            "kills": "143",
+            "name": "snxper",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "264",
+          "name": "truo",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "195",
+          "name": "jelii",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "221",
+          "name": "nerve",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "221",
+          "name": "Huston",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "67",
+          "name": "Sympul",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "245",
+          "name": "Eley",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "167",
+          "name": "Apoth",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "182",
+          "name": "Lin",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "133",
+          "name": "iKoniK",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "68",
+          "name": "snxper",
+          "team": "VIRTUOSO"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.65\n1.80\n1.38",
+            "adr": "+14\n+10\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "24\n16\n8",
+            "fk": "204\n244\n136",
+            "hs%": "79%\n92%\n57%",
+            "kdr": "3\n3\n0",
+            "kills": "264",
+            "name": "truo",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "1.45\n1.66\n1.08",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "144\n171\n100",
+            "hs%": "84%\n92%\n71%",
+            "kdr": "7\n4\n3",
+            "kills": "195",
+            "name": "jelii",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "1.21\n1.52\n0.66",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "155\n196\n86",
+            "hs%": "84%\n92%\n71%",
+            "kdr": "5\n3\n2",
+            "kills": "221",
+            "name": "nerve",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "0.99\n0.91\n1.13",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "147\n134\n169",
+            "hs%": "74%\n83%\n57%",
+            "kdr": "3\n3\n0",
+            "kills": "221",
+            "name": "Huston",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "0.98\n1.21\n0.60",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "98\n134\n38",
+            "hs%": "84%\n92%\n71%",
+            "kdr": "9\n7\n2",
+            "kills": "67",
+            "name": "Sympul",
+            "team": "Frick Ya Bag"
+          }
+        ],
+        [
+          {
+            "acs": "0.99\n1.12\n0.91",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "151\n167\n141",
+            "hs%": "63%\n71%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "245",
+            "name": "Eley",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.85\n0.64\n0.98",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "100\n105\n97",
+            "hs%": "63%\n71%\n58%",
+            "kdr": "7\n4\n3",
+            "kills": "167",
+            "name": "Apoth",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.79\n1.16\n0.57",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "138\n176\n116",
+            "hs%": "63%\n86%\n50%",
+            "kdr": "5\n2\n3",
+            "kills": "182",
+            "name": "Lin",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.54\n0.60\n0.51",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "82\n58\n96",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "133",
+            "name": "iKoniK",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.54\n1.38\n0.05",
+            "adr": "-7\n+3\n-10",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "84\n119\n64",
+            "hs%": "58%\n100%\n33%",
+            "kdr": "4\n2\n2",
+            "kills": "68",
+            "name": "snxper",
+            "team": "VIRTUOSO"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "306",
+          "name": "Huston",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "233",
+          "name": "nerve",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "221",
+          "name": "jelii",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "204",
+          "name": "truo",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "139",
+          "name": "Sympul",
+          "team": "Frick Ya Bag"
+        },
+        {
+          "kills": "254",
+          "name": "iKoniK",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "148",
+          "name": "Eley",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "154",
+          "name": "Lin",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "140",
+          "name": "Apoth",
+          "team": "VIRTUOSO"
+        },
+        {
+          "kills": "92",
+          "name": "snxper",
+          "team": "VIRTUOSO"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.45\n1.23\n1.60",
+            "adr": "+9\n0\n+9",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "209\n158\n242",
+            "hs%": "85%\n75%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "306",
+            "name": "Huston",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "1.32\n0.45\n1.90",
+            "adr": "+8\n-4\n+12",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "19\n3\n16",
+            "fk": "148\n89\n187",
+            "hs%": "75%\n50%\n92%",
+            "kdr": "5\n3\n2",
+            "kills": "233",
+            "name": "nerve",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "1.24\n1.32\n1.18",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "118\n117\n119",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "221",
+            "name": "jelii",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "1.05\n0.67\n1.30",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "97\n74\n112",
+            "hs%": "80%\n63%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "204",
+            "name": "truo",
+            "team": "Frick Ya Bag"
+          },
+          {
+            "acs": "0.87\n0.17\n1.34",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "85\n20\n129",
+            "hs%": "60%\n38%\n75%",
+            "kdr": "9\n0\n9",
+            "kills": "139",
+            "name": "Sympul",
+            "team": "Frick Ya Bag"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.11\n1.62",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "148\n152\n142",
+            "hs%": "55%\n50%\n63%",
+            "kdr": "3\n2\n1",
+            "kills": "254",
+            "name": "iKoniK",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.85\n0.68\n1.11",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "92\n78\n113",
+            "hs%": "50%\n33%\n75%",
+            "kdr": "9\n1\n8",
+            "kills": "148",
+            "name": "Eley",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.72\n0.42\n1.18",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "93\n58\n144",
+            "hs%": "55%\n42%\n75%",
+            "kdr": "10\n5\n5",
+            "kills": "154",
+            "name": "Lin",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.64\n0.28\n1.16",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "78\n43\n131",
+            "hs%": "45%\n25%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "140",
+            "name": "Apoth",
+            "team": "VIRTUOSO"
+          },
+          {
+            "acs": "0.39\n0.11\n0.81",
+            "adr": "-12\n-11\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "73\n74\n70",
+            "hs%": "65%\n42%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "92",
+            "name": "snxper",
+            "team": "VIRTUOSO"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 18013,
+  "teams": [
+    "Frick Ya Bag",
+    "VIRTUOSO"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 16"
+}

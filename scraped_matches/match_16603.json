@@ -1,0 +1,594 @@
+{
+  "date": "2021-04-15 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "402",
+          "name": "UItimatum",
+          "team": "Olympus"
+        },
+        {
+          "kills": "222",
+          "name": "W33",
+          "team": "Olympus"
+        },
+        {
+          "kills": "235",
+          "name": "Jrboo3",
+          "team": "Olympus"
+        },
+        {
+          "kills": "149",
+          "name": "Ozil",
+          "team": "Olympus"
+        },
+        {
+          "kills": "121",
+          "name": "Danny",
+          "team": "Olympus"
+        },
+        {
+          "kills": "277",
+          "name": "Foxy",
+          "team": "Flashpoint"
+        },
+        {
+          "kills": "161",
+          "name": "FOSS",
+          "team": "Flashpoint"
+        },
+        {
+          "kills": "135",
+          "name": "Krumszz",
+          "team": "Flashpoint"
+        },
+        {
+          "kills": "142",
+          "name": "Blitz",
+          "team": "Flashpoint"
+        },
+        {
+          "kills": "142",
+          "name": "Sleepy",
+          "team": "Flashpoint"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "2.16\n2.22\n2.06",
+            "adr": "+20\n+12\n+8",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "28\n18\n10",
+            "fk": "253\n248\n261",
+            "hs%": "85%\n75%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "402",
+            "name": "UItimatum",
+            "team": "Olympus"
+          },
+          {
+            "acs": "1.35\n1.29\n1.45",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "155\n182\n115",
+            "hs%": "90%\n92%\n88%",
+            "kdr": "7\n5\n2",
+            "kills": "222",
+            "name": "W33",
+            "team": "Olympus"
+          },
+          {
+            "acs": "1.07\n0.36\n2.14",
+            "adr": "+5\n-6\n+11",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "106\n54\n186",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "8\n6\n2",
+            "kills": "235",
+            "name": "Jrboo3",
+            "team": "Olympus"
+          },
+          {
+            "acs": "0.80\n0.71\n0.94",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "100\n130\n54",
+            "hs%": "75%\n58%\n100%",
+            "kdr": "1\n0\n1",
+            "kills": "149",
+            "name": "Ozil",
+            "team": "Olympus"
+          },
+          {
+            "acs": "0.50\n0.34\n0.73",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "56\n62\n47",
+            "hs%": "70%\n58%\n88%",
+            "kdr": "2\n2\n0",
+            "kills": "121",
+            "name": "Danny",
+            "team": "Olympus"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n0.81\n1.64",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "171\n103\n217",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "277",
+            "name": "Foxy",
+            "team": "Flashpoint"
+          },
+          {
+            "acs": "0.84\n0.42\n1.11",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "120\n60\n160",
+            "hs%": "60%\n38%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "161",
+            "name": "FOSS",
+            "team": "Flashpoint"
+          },
+          {
+            "acs": "0.76\n0.41\n0.99",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "83\n43\n110",
+            "hs%": "75%\n50%\n92%",
+            "kdr": "5\n0\n5",
+            "kills": "135",
+            "name": "Krumszz",
+            "team": "Flashpoint"
+          },
+          {
+            "acs": "0.68\n0.41\n0.87",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "101\n65\n125",
+            "hs%": "55%\n38%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "142",
+            "name": "Blitz",
+            "team": "Flashpoint"
+          },
+          {
+            "acs": "0.36\n0.04\n0.58",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "98\n41\n137",
+            "hs%": "35%\n25%\n42%",
+            "kdr": "3\n0\n3",
+            "kills": "142",
+            "name": "Sleepy",
+            "team": "Flashpoint"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "366",
+          "name": "UItimatum",
+          "team": null
+        },
+        {
+          "kills": "247",
+          "name": "W33",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "Jrboo3",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "Ozil",
+          "team": null
+        },
+        {
+          "kills": "112",
+          "name": "Danny",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "Foxy",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Blitz",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "Krumszz",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "Sleepy",
+          "team": null
+        },
+        {
+          "kills": "106",
+          "name": "FOSS",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "2.06\n2.44\n2.24",
+            "adr": "+44\n+20\n+24",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "62\n29\n33",
+            "fk": "258\n209\n312",
+            "hs%": "90%\n82%\n100%",
+            "kdr": "8\n3\n5",
+            "kills": "366",
+            "name": "UItimatum",
+            "team": null
+          },
+          {
+            "acs": "1.29\n0.96\n1.14",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n25\n15\n10\n\n/",
+            "deaths": "33\n19\n14",
+            "fk": "139\n166\n109",
+            "hs%": "79%\n86%\n70%",
+            "kdr": "9\n6\n3",
+            "kills": "247",
+            "name": "W33",
+            "team": null
+          },
+          {
+            "acs": "0.65\n1.35\n0.98",
+            "adr": "+6\n-4\n+10",
+            "agent": "",
+            "assists": "/\n\n28\n17\n11\n\n/",
+            "deaths": "34\n13\n21",
+            "fk": "113\n93\n135",
+            "hs%": "71%\n68%\n75%",
+            "kdr": "9\n7\n2",
+            "kills": "166",
+            "name": "Jrboo3",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.66\n0.73",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n28\n16\n12\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "104\n114\n92",
+            "hs%": "76%\n68%\n85%",
+            "kdr": "15\n3\n12",
+            "kills": "176",
+            "name": "Ozil",
+            "team": null
+          },
+          {
+            "acs": "0.41\n0.62\n0.51",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n30\n18\n12\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "78\n68\n90",
+            "hs%": "62%\n50%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "112",
+            "name": "Danny",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.95\n1.30\n1.13",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n32\n16\n16\n\n/",
+            "deaths": "36\n14\n22",
+            "fk": "150\n128\n170",
+            "hs%": "67%\n65%\n68%",
+            "kdr": "9\n6\n3",
+            "kills": "203",
+            "name": "Foxy",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.89\n0.94",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n31\n15\n16\n\n/",
+            "deaths": "27\n13\n14",
+            "fk": "134\n120\n146",
+            "hs%": "62%\n55%\n68%",
+            "kdr": "13\n5\n8",
+            "kills": "179",
+            "name": "Blitz",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.81\n0.90",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n30\n14\n16\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "102\n109\n96",
+            "hs%": "60%\n50%\n68%",
+            "kdr": "7\n1\n6",
+            "kills": "147",
+            "name": "Krumszz",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.74\n0.66",
+            "adr": "-15\n-9\n-6",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "127\n119\n135",
+            "hs%": "43%\n45%\n41%",
+            "kdr": "10\n4\n6",
+            "kills": "170",
+            "name": "Sleepy",
+            "team": null
+          },
+          {
+            "acs": "0.36\n0.90\n0.64",
+            "adr": "-17\n-14\n-3",
+            "agent": "",
+            "assists": "/\n\n37\n20\n17\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "90\n63\n114",
+            "hs%": "60%\n50%\n68%",
+            "kdr": "12\n7\n5",
+            "kills": "106",
+            "name": "FOSS",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "546",
+          "name": "UItimatum",
+          "team": "Olympus"
+        },
+        {
+          "kills": "147",
+          "name": "W33",
+          "team": "Olympus"
+        },
+        {
+          "kills": "171",
+          "name": "Jrboo3",
+          "team": "Olympus"
+        },
+        {
+          "kills": "143",
+          "name": "Ozil",
+          "team": "Olympus"
+        },
+        {
+          "kills": "161",
+          "name": "Danny",
+          "team": "Olympus"
+        },
+        {
+          "kills": "249",
+          "name": "Blitz",
+          "team": "Flashpoint"
+        },
+        {
+          "kills": "129",
+          "name": "Krumszz",
+          "team": "Flashpoint"
+        },
+        {
+          "kills": "206",
+          "name": "Foxy",
+          "team": "Flashpoint"
+        },
+        {
+          "kills": "231",
+          "name": "Sleepy",
+          "team": "Flashpoint"
+        },
+        {
+          "kills": "156",
+          "name": "FOSS",
+          "team": "Flashpoint"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "2.32\n1.87\n2.69",
+            "adr": "+24\n+8\n+16",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "34\n11\n23",
+            "fk": "262\n162\n346",
+            "hs%": "95%\n90%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "546",
+            "name": "UItimatum",
+            "team": "Olympus"
+          },
+          {
+            "acs": "0.94\n1.31\n0.64",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "124\n147\n105",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "147",
+            "name": "W33",
+            "team": "Olympus"
+          },
+          {
+            "acs": "0.90\n1.01\n0.82",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "119\n141\n100",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "171",
+            "name": "Jrboo3",
+            "team": "Olympus"
+          },
+          {
+            "acs": "0.66\n0.87\n0.48",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "107\n95\n118",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "14\n3\n11",
+            "kills": "143",
+            "name": "Ozil",
+            "team": "Olympus"
+          },
+          {
+            "acs": "0.53\n0.50\n0.56",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "99\n75\n119",
+            "hs%": "55%\n40%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "161",
+            "name": "Danny",
+            "team": "Olympus"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n1.40\n0.92",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "163\n157\n171",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "7\n3\n4",
+            "kills": "249",
+            "name": "Blitz",
+            "team": "Flashpoint"
+          },
+          {
+            "acs": "1.02\n1.40\n0.58",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "120\n154\n79",
+            "hs%": "45%\n50%\n40%",
+            "kdr": "2\n1\n1",
+            "kills": "129",
+            "name": "Krumszz",
+            "team": "Flashpoint"
+          },
+          {
+            "acs": "0.98\n1.04\n0.90",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "130\n145\n113",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "6\n4\n2",
+            "kills": "206",
+            "name": "Foxy",
+            "team": "Flashpoint"
+          },
+          {
+            "acs": "0.92\n0.92\n0.93",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "153\n171\n132",
+            "hs%": "50%\n58%\n40%",
+            "kdr": "7\n4\n3",
+            "kills": "231",
+            "name": "Sleepy",
+            "team": "Flashpoint"
+          },
+          {
+            "acs": "0.46\n0.31\n0.65",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "63\n66\n58",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "4\n4\n0",
+            "kills": "156",
+            "name": "FOSS",
+            "team": "Flashpoint"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 16603,
+  "teams": [
+    "Flashpoint",
+    "Olympus"
+  ],
+  "tournament": "GCC and Iraq: \n\t\t\t\t\t\tUpper Bracket Quarterfinals"
+}

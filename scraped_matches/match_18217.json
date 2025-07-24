@@ -1,0 +1,788 @@
+{
+  "date": "2021-05-15 16:10:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "269",
+          "name": "King",
+          "team": "Noble"
+        },
+        {
+          "kills": "294",
+          "name": "zekken",
+          "team": "Noble"
+        },
+        {
+          "kills": "211",
+          "name": "LeviathanAG",
+          "team": "Noble"
+        },
+        {
+          "kills": "195",
+          "name": "bdog",
+          "team": "Noble"
+        },
+        {
+          "kills": "210",
+          "name": "Precision",
+          "team": "Noble"
+        },
+        {
+          "kills": "217",
+          "name": "FireBallOps",
+          "team": "Exotic"
+        },
+        {
+          "kills": "184",
+          "name": "Shifty",
+          "team": "Exotic"
+        },
+        {
+          "kills": "131",
+          "name": "Carbyn",
+          "team": "Exotic"
+        },
+        {
+          "kills": "173",
+          "name": "Agr0",
+          "team": "Exotic"
+        },
+        {
+          "kills": "151",
+          "name": "TonyV",
+          "team": "Exotic"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.61\n1.45\n2.00",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n9\n0\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "162\n188\n100",
+            "hs%": "88%\n92%\n80%",
+            "kdr": "4\n4\n0",
+            "kills": "269",
+            "name": "King",
+            "team": "Noble"
+          },
+          {
+            "acs": "1.38\n1.41\n1.32",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "179\n212\n98",
+            "hs%": "88%\n92%\n80%",
+            "kdr": "5\n5\n0",
+            "kills": "294",
+            "name": "zekken",
+            "team": "Noble"
+          },
+          {
+            "acs": "1.28\n1.50\n0.76",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "13\n12\n1",
+            "fk": "149\n171\n97",
+            "hs%": "88%\n92%\n80%",
+            "kdr": "9\n7\n2",
+            "kills": "211",
+            "name": "LeviathanAG",
+            "team": "Noble"
+          },
+          {
+            "acs": "1.15\n1.31\n0.74",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "141\n161\n94",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "6\n5\n1",
+            "kills": "195",
+            "name": "bdog",
+            "team": "Noble"
+          },
+          {
+            "acs": "1.00\n0.96\n1.12",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "125\n111\n159",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "1\n0\n1",
+            "kills": "210",
+            "name": "Precision",
+            "team": "Noble"
+          }
+        ],
+        [
+          {
+            "acs": "0.93\n0.22\n1.23",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "146\n81\n173",
+            "hs%": "53%\n20%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "217",
+            "name": "FireBallOps",
+            "team": "Exotic"
+          },
+          {
+            "acs": "0.70\n1.05\n0.56",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "101\n145\n82",
+            "hs%": "47%\n80%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "184",
+            "name": "Shifty",
+            "team": "Exotic"
+          },
+          {
+            "acs": "0.63\n0.37\n0.74",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "85\n26\n109",
+            "hs%": "47%\n40%\n50%",
+            "kdr": "4\n1\n3",
+            "kills": "131",
+            "name": "Carbyn",
+            "team": "Exotic"
+          },
+          {
+            "acs": "0.56\n0.62\n0.53",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "109\n66\n127",
+            "hs%": "65%\n80%\n58%",
+            "kdr": "5\n4\n1",
+            "kills": "173",
+            "name": "Agr0",
+            "team": "Exotic"
+          },
+          {
+            "acs": "0.46\n0.71\n0.35",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "73\n50\n82",
+            "hs%": "47%\n60%\n42%",
+            "kdr": "3\n1\n2",
+            "kills": "151",
+            "name": "TonyV",
+            "team": "Exotic"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "218",
+          "name": "LeviathanAG",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "bdog",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "King",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "Precision",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "zekken",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "FireBallOps",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "Agr0",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "TonyV",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "Carbyn",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "Shifty",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.38\n1.25",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n37\n21\n16\n\n/",
+            "deaths": "48\n27\n21",
+            "fk": "147\n137\n159",
+            "hs%": "80%\n80%\n80%",
+            "kdr": "33\n15\n18",
+            "kills": "218",
+            "name": "LeviathanAG",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.28\n1.19",
+            "adr": "+14\n+5\n+9",
+            "agent": "",
+            "assists": "/\n\n39\n22\n17\n\n/",
+            "deaths": "53\n27\n26",
+            "fk": "144\n141\n147",
+            "hs%": "77%\n71%\n83%",
+            "kdr": "20\n9\n11",
+            "kills": "206",
+            "name": "bdog",
+            "team": null
+          },
+          {
+            "acs": "1.20\n1.13\n1.17",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n43\n28\n15\n\n/",
+            "deaths": "51\n30\n21",
+            "fk": "148\n172\n120",
+            "hs%": "77%\n74%\n80%",
+            "kdr": "19\n12\n7",
+            "kills": "262",
+            "name": "King",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.16\n1.05",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "54\n25\n29",
+            "fk": "148\n142\n156",
+            "hs%": "68%\n63%\n73%",
+            "kdr": "10\n3\n7",
+            "kills": "203",
+            "name": "Precision",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.26\n0.96",
+            "adr": "-1\n-10\n+9",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "46\n17\n29",
+            "fk": "128\n117\n140",
+            "hs%": "74%\n66%\n83%",
+            "kdr": "21\n9\n12",
+            "kills": "161",
+            "name": "zekken",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.61\n1.24\n0.95",
+            "adr": "+1\n-7\n+8",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "53\n20\n33",
+            "fk": "143\n127\n156",
+            "hs%": "71%\n60%\n80%",
+            "kdr": "12\n4\n8",
+            "kills": "199",
+            "name": "FireBallOps",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.89\n0.86",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n53\n26\n27\n\n/",
+            "deaths": "41\n19\n22",
+            "fk": "127\n112\n141",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "16\n10\n6",
+            "kills": "193",
+            "name": "Agr0",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.83\n0.85",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n48\n23\n25\n\n/",
+            "deaths": "39\n19\n20",
+            "fk": "100\n103\n97",
+            "hs%": "62%\n67%\n57%",
+            "kdr": "13\n8\n5",
+            "kills": "184",
+            "name": "TonyV",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.92\n0.85",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "35\n14\n21",
+            "fk": "105\n94\n115",
+            "hs%": "55%\n57%\n54%",
+            "kdr": "21\n13\n8",
+            "kills": "148",
+            "name": "Carbyn",
+            "team": null
+          },
+          {
+            "acs": "0.54\n0.94\n0.76",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n51\n27\n24\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "97\n96\n97",
+            "hs%": "57%\n57%\n57%",
+            "kdr": "9\n2\n7",
+            "kills": "159",
+            "name": "Shifty",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "308",
+          "name": "bdog",
+          "team": "Noble"
+        },
+        {
+          "kills": "190",
+          "name": "King",
+          "team": "Noble"
+        },
+        {
+          "kills": "270",
+          "name": "zekken",
+          "team": "Noble"
+        },
+        {
+          "kills": "178",
+          "name": "Precision",
+          "team": "Noble"
+        },
+        {
+          "kills": "143",
+          "name": "LeviathanAG",
+          "team": "Noble"
+        },
+        {
+          "kills": "167",
+          "name": "TonyV",
+          "team": "Exotic"
+        },
+        {
+          "kills": "198",
+          "name": "Agr0",
+          "team": "Exotic"
+        },
+        {
+          "kills": "251",
+          "name": "FireBallOps",
+          "team": "Exotic"
+        },
+        {
+          "kills": "213",
+          "name": "Shifty",
+          "team": "Exotic"
+        },
+        {
+          "kills": "176",
+          "name": "Carbyn",
+          "team": "Exotic"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.30\n0.97\n1.58",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "169\n135\n196",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "308",
+            "name": "bdog",
+            "team": "Noble"
+          },
+          {
+            "acs": "1.23\n1.52\n0.99",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "157\n185\n134",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "190",
+            "name": "King",
+            "team": "Noble"
+          },
+          {
+            "acs": "0.87\n0.60\n1.09",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "142\n89\n187",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "270",
+            "name": "zekken",
+            "team": "Noble"
+          },
+          {
+            "acs": "0.79\n0.81\n0.78",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "138\n134\n142",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "178",
+            "name": "Precision",
+            "team": "Noble"
+          },
+          {
+            "acs": "0.65\n0.66\n0.63",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "93\n87\n98",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "7\n5\n2",
+            "kills": "143",
+            "name": "LeviathanAG",
+            "team": "Noble"
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n1.12\n1.09",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "107\n122\n90",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "5\n3\n2",
+            "kills": "167",
+            "name": "TonyV",
+            "team": "Exotic"
+          },
+          {
+            "acs": "1.10\n1.38\n0.77",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "153\n170\n132",
+            "hs%": "68%\n83%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "198",
+            "name": "Agr0",
+            "team": "Exotic"
+          },
+          {
+            "acs": "0.94\n0.84\n1.07",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "126\n146\n103",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "1\n0\n1",
+            "kills": "251",
+            "name": "FireBallOps",
+            "team": "Exotic"
+          },
+          {
+            "acs": "0.94\n0.60\n1.34",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "110\n106\n114",
+            "hs%": "59%\n50%\n70%",
+            "kdr": "5\n1\n4",
+            "kills": "213",
+            "name": "Shifty",
+            "team": "Exotic"
+          },
+          {
+            "acs": "0.93\n0.96\n0.90",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "121\n114\n129",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "11\n8\n3",
+            "kills": "176",
+            "name": "Carbyn",
+            "team": "Exotic"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "301",
+          "name": "LeviathanAG",
+          "team": "Noble"
+        },
+        {
+          "kills": "273",
+          "name": "Precision",
+          "team": "Noble"
+        },
+        {
+          "kills": "191",
+          "name": "bdog",
+          "team": "Noble"
+        },
+        {
+          "kills": "189",
+          "name": "King",
+          "team": "Noble"
+        },
+        {
+          "kills": "172",
+          "name": "zekken",
+          "team": "Noble"
+        },
+        {
+          "kills": "261",
+          "name": "FireBallOps",
+          "team": "Exotic"
+        },
+        {
+          "kills": "184",
+          "name": "Carbyn",
+          "team": "Exotic"
+        },
+        {
+          "kills": "160",
+          "name": "TonyV",
+          "team": "Exotic"
+        },
+        {
+          "kills": "174",
+          "name": "Agr0",
+          "team": "Exotic"
+        },
+        {
+          "kills": "144",
+          "name": "Shifty",
+          "team": "Exotic"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.73\n1.16\n2.30",
+            "adr": "+12\n+2\n+10",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "191\n144\n239",
+            "hs%": "88%\n77%\n100%",
+            "kdr": "17\n3\n14",
+            "kills": "301",
+            "name": "LeviathanAG",
+            "team": "Noble"
+          },
+          {
+            "acs": "1.29\n1.06\n1.52",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "172\n176\n168",
+            "hs%": "69%\n54%\n85%",
+            "kdr": "8\n3\n5",
+            "kills": "273",
+            "name": "Precision",
+            "team": "Noble"
+          },
+          {
+            "acs": "1.11\n1.02\n1.20",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "124\n126\n122",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "9\n2\n7",
+            "kills": "191",
+            "name": "bdog",
+            "team": "Noble"
+          },
+          {
+            "acs": "0.82\n0.72\n0.92",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "131\n147\n115",
+            "hs%": "73%\n54%\n92%",
+            "kdr": "10\n5\n5",
+            "kills": "189",
+            "name": "King",
+            "team": "Noble"
+          },
+          {
+            "acs": "0.77\n0.14\n1.40",
+            "adr": "-4\n-10\n+6",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "82\n50\n113",
+            "hs%": "62%\n38%\n85%",
+            "kdr": "8\n2\n6",
+            "kills": "172",
+            "name": "zekken",
+            "team": "Noble"
+          }
+        ],
+        [
+          {
+            "acs": "0.96\n0.55\n1.38",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "154\n128\n180",
+            "hs%": "81%\n69%\n92%",
+            "kdr": "9\n4\n5",
+            "kills": "261",
+            "name": "FireBallOps",
+            "team": "Exotic"
+          },
+          {
+            "acs": "0.92\n0.72\n1.11",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "106\n102\n109",
+            "hs%": "54%\n54%\n54%",
+            "kdr": "6\n4\n2",
+            "kills": "184",
+            "name": "Carbyn",
+            "team": "Exotic"
+          },
+          {
+            "acs": "0.90\n0.73\n1.06",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "111\n106\n115",
+            "hs%": "58%\n54%\n62%",
+            "kdr": "5\n4\n1",
+            "kills": "160",
+            "name": "TonyV",
+            "team": "Exotic"
+          },
+          {
+            "acs": "0.84\n0.37\n1.31",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "118\n75\n160",
+            "hs%": "62%\n46%\n77%",
+            "kdr": "7\n2\n5",
+            "kills": "174",
+            "name": "Agr0",
+            "team": "Exotic"
+          },
+          {
+            "acs": "0.64\n0.29\n0.99",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "82\n66\n98",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "3\n0\n3",
+            "kills": "144",
+            "name": "Shifty",
+            "team": "Exotic"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 18217,
+  "teams": [
+    "Noble",
+    "Exotic"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tDecider (G)"
+}

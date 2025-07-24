@@ -1,0 +1,612 @@
+{
+  "date": "2023-01-24 20:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "283",
+          "name": "KarolyneRave",
+          "team": "Team Mayan Esports Fem"
+        },
+        {
+          "kills": "172",
+          "name": "Lila1432",
+          "team": "Team Mayan Esports Fem"
+        },
+        {
+          "kills": "230",
+          "name": "Morgan",
+          "team": "Team Mayan Esports Fem"
+        },
+        {
+          "kills": "174",
+          "name": "Alium",
+          "team": "Team Mayan Esports Fem"
+        },
+        {
+          "kills": "132",
+          "name": "TrixieGT",
+          "team": "Team Mayan Esports Fem"
+        },
+        {
+          "kills": "215",
+          "name": "Angiewes",
+          "team": "AIR Esports"
+        },
+        {
+          "kills": "208",
+          "name": "Suni",
+          "team": "AIR Esports"
+        },
+        {
+          "kills": "253",
+          "name": "Kairysia",
+          "team": "AIR Esports"
+        },
+        {
+          "kills": "158",
+          "name": "Jinx",
+          "team": "AIR Esports"
+        },
+        {
+          "kills": "179",
+          "name": "ReySteRa",
+          "team": "AIR Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.16\n1.66",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "168\n136\n198",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "283",
+            "name": "KarolyneRave",
+            "team": "Team Mayan Esports Fem"
+          },
+          {
+            "acs": "0.95\n0.73\n1.14",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "112\n75\n147",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "13\n8\n5",
+            "kills": "172",
+            "name": "Lila1432",
+            "team": "Team Mayan Esports Fem"
+          },
+          {
+            "acs": "0.89\n0.51\n1.24",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "143\n116\n168",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "230",
+            "name": "Morgan",
+            "team": "Team Mayan Esports Fem"
+          },
+          {
+            "acs": "0.85\n0.73\n0.96",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "131\n150\n113",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "13\n6\n7",
+            "kills": "174",
+            "name": "Alium",
+            "team": "Team Mayan Esports Fem"
+          },
+          {
+            "acs": "0.80\n0.87\n0.73",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "94\n97\n92",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "132",
+            "name": "TrixieGT",
+            "team": "Team Mayan Esports Fem"
+          }
+        ],
+        [
+          {
+            "acs": "1.27\n1.20\n1.35",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "127\n119\n136",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "3\n2\n1",
+            "kills": "215",
+            "name": "Angiewes",
+            "team": "AIR Esports"
+          },
+          {
+            "acs": "1.23\n0.98\n1.50",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "133\n100\n170",
+            "hs%": "74%\n58%\n91%",
+            "kdr": "5\n3\n2",
+            "kills": "208",
+            "name": "Suni",
+            "team": "AIR Esports"
+          },
+          {
+            "acs": "1.03\n0.33\n1.79",
+            "adr": "+2\n-8\n+10",
+            "agent": "",
+            "assists": "/\n\n18\n13\n5\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "156\n102\n215",
+            "hs%": "78%\n58%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "253",
+            "name": "Kairysia",
+            "team": "AIR Esports"
+          },
+          {
+            "acs": "0.80\n0.71\n0.91",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "102\n89\n116",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "8\n4\n4",
+            "kills": "158",
+            "name": "Jinx",
+            "team": "AIR Esports"
+          },
+          {
+            "acs": "0.73\n1.19\n0.24",
+            "adr": "-5\n+3\n-8",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "12\n11\n1",
+            "fk": "128\n160\n93",
+            "hs%": "52%\n58%\n45%",
+            "kdr": "7\n2\n5",
+            "kills": "179",
+            "name": "ReySteRa",
+            "team": "AIR Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "296",
+          "name": "KarolyneRave",
+          "team": null
+        },
+        {
+          "kills": "309",
+          "name": "Morgan",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "Lila1432",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "TrixieGT",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "Alium",
+          "team": null
+        },
+        {
+          "kills": "89",
+          "name": "ChiquiPau",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Angiewes",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "Suni",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "Kairysia",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "Jinx",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "ReySteRa",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.57\n1.18\n1.36",
+            "adr": "+12\n+11\n+1",
+            "agent": "",
+            "assists": "/\n\n28\n12\n16\n\n/",
+            "deaths": "40\n23\n17",
+            "fk": "166\n180\n153",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "16\n9\n7",
+            "kills": "296",
+            "name": "KarolyneRave",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.56\n1.29",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n36\n19\n17\n\n/",
+            "deaths": "47\n20\n27",
+            "fk": "197\n199\n195",
+            "hs%": "76%\n76%\n75%",
+            "kdr": "11\n6\n5",
+            "kills": "309",
+            "name": "Morgan",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.94\n0.92",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n29\n14\n15\n\n/",
+            "deaths": "25\n9\n16",
+            "fk": "101\n81\n118",
+            "hs%": "67%\n76%\n58%",
+            "kdr": "23\n12\n11",
+            "kills": "129",
+            "name": "Lila1432",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.79\n0.86",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "109\n101\n116",
+            "hs%": "76%\n71%\n79%",
+            "kdr": "13\n5\n8",
+            "kills": "163",
+            "name": "TrixieGT",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.96\n0.85",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "131\n150\n113",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "13\n6\n7",
+            "kills": "194",
+            "name": "Alium",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.57\n0.72",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "79\n70\n86",
+            "hs%": "64%\n80%\n50%",
+            "kdr": "13\n6\n7",
+            "kills": "89",
+            "name": "ChiquiPau",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.02\n1.32\n1.16",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n27\n16\n11\n\n/",
+            "deaths": "34\n15\n19",
+            "fk": "123\n99\n151",
+            "hs%": "82%\n83%\n81%",
+            "kdr": "16\n11\n5",
+            "kills": "163",
+            "name": "Angiewes",
+            "team": null
+          },
+          {
+            "acs": "1.15\n0.97\n1.07",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n26\n14\n12\n\n/",
+            "deaths": "30\n17\n13",
+            "fk": "122\n126\n118",
+            "hs%": "69%\n67%\n71%",
+            "kdr": "22\n15\n7",
+            "kills": "199",
+            "name": "Suni",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.25\n1.00",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n34\n20\n14\n\n/",
+            "deaths": "35\n16\n19",
+            "fk": "142\n135\n150",
+            "hs%": "71%\n67%\n76%",
+            "kdr": "13\n8\n5",
+            "kills": "200",
+            "name": "Kairysia",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.92\n0.92",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n30\n18\n12\n\n/",
+            "deaths": "30\n15\n15",
+            "fk": "123\n111\n137",
+            "hs%": "76%\n75%\n76%",
+            "kdr": "14\n9\n5",
+            "kills": "181",
+            "name": "Jinx",
+            "team": null
+          },
+          {
+            "acs": "0.98\n0.16\n0.60",
+            "adr": "-13\n+1\n-14",
+            "agent": "",
+            "assists": "/\n\n37\n19\n18\n\n/",
+            "deaths": "24\n20\n4",
+            "fk": "106\n132\n77",
+            "hs%": "56%\n58%\n52%",
+            "kdr": "12\n3\n9",
+            "kills": "230",
+            "name": "ReySteRa",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "382",
+          "name": "Morgan",
+          "team": "Team Mayan Esports Fem"
+        },
+        {
+          "kills": "134",
+          "name": "KarolyneRave",
+          "team": "Team Mayan Esports Fem"
+        },
+        {
+          "kills": "207",
+          "name": "TrixieGT",
+          "team": "Team Mayan Esports Fem"
+        },
+        {
+          "kills": "160",
+          "name": "Lila1432",
+          "team": "Team Mayan Esports Fem"
+        },
+        {
+          "kills": "117",
+          "name": "ChiquiPau",
+          "team": "Team Mayan Esports Fem"
+        },
+        {
+          "kills": "228",
+          "name": "Jinx",
+          "team": "AIR Esports"
+        },
+        {
+          "kills": "279",
+          "name": "Angiewes",
+          "team": "AIR Esports"
+        },
+        {
+          "kills": "122",
+          "name": "Kairysia",
+          "team": "AIR Esports"
+        },
+        {
+          "kills": "100",
+          "name": "Suni",
+          "team": "AIR Esports"
+        },
+        {
+          "kills": "101",
+          "name": "ReySteRa",
+          "team": "AIR Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.72\n1.52\n1.89",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "30\n14\n16",
+            "fk": "253\n290\n222",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "382",
+            "name": "Morgan",
+            "team": "Team Mayan Esports Fem"
+          },
+          {
+            "acs": "1.30\n2.02\n0.70",
+            "adr": "+5\n+9\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "163\n228\n109",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "134",
+            "name": "KarolyneRave",
+            "team": "Team Mayan Esports Fem"
+          },
+          {
+            "acs": "0.92\n0.99\n0.85",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "124\n105\n141",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "207",
+            "name": "TrixieGT",
+            "team": "Team Mayan Esports Fem"
+          },
+          {
+            "acs": "0.89\n1.07\n0.74",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "89\n89\n90",
+            "hs%": "64%\n80%\n50%",
+            "kdr": "10\n4\n6",
+            "kills": "160",
+            "name": "Lila1432",
+            "team": "Team Mayan Esports Fem"
+          },
+          {
+            "acs": "0.72\n0.89\n0.57",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "79\n70\n86",
+            "hs%": "64%\n80%\n50%",
+            "kdr": "13\n6\n7",
+            "kills": "117",
+            "name": "ChiquiPau",
+            "team": "Team Mayan Esports Fem"
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n1.12\n0.94",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "146\n133\n161",
+            "hs%": "82%\n92%\n70%",
+            "kdr": "6\n5\n1",
+            "kills": "228",
+            "name": "Jinx",
+            "team": "AIR Esports"
+          },
+          {
+            "acs": "1.04\n0.83\n1.28",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "119\n80\n167",
+            "hs%": "86%\n92%\n80%",
+            "kdr": "13\n9\n4",
+            "kills": "279",
+            "name": "Angiewes",
+            "team": "AIR Esports"
+          },
+          {
+            "acs": "0.97\n1.24\n0.65",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "127\n168\n78",
+            "hs%": "64%\n75%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "122",
+            "name": "Kairysia",
+            "team": "AIR Esports"
+          },
+          {
+            "acs": "0.90\n1.33\n0.37",
+            "adr": "-2\n+5\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "111\n152\n61",
+            "hs%": "64%\n75%\n50%",
+            "kdr": "17\n12\n5",
+            "kills": "100",
+            "name": "Suni",
+            "team": "AIR Esports"
+          },
+          {
+            "acs": "0.46\n0.78\n0.07",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "84\n104\n60",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "5\n1\n4",
+            "kills": "101",
+            "name": "ReySteRa",
+            "team": "AIR Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 168631,
+  "teams": [
+    "Team Mayan Esports Fem",
+    "AIR Esports"
+  ],
+  "tournament": "LATAM North - Open Qualifier: \n\t\t\t\t\t\tUpper Round of 16"
+}

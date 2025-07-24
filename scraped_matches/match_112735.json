@@ -1,0 +1,788 @@
+{
+  "date": "2022-07-05 09:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "271",
+          "name": "Yuicaw",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "297",
+          "name": "suyjing",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "239",
+          "name": "BerLIN",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "150",
+          "name": "AAAAY",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "148",
+          "name": "YuChEn",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "348",
+          "name": "Ninebody",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "181",
+          "name": "Knight",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "185",
+          "name": "LuoK1ng",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "195",
+          "name": "yosemite",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "119",
+          "name": "sword9",
+          "team": "KONE eSports Club"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.31\n1.50",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "185\n162\n207",
+            "hs%": "83%\n100%\n67%",
+            "kdr": "5\n5\n0",
+            "kills": "271",
+            "name": "Yuicaw",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.28\n1.94\n0.67",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "21\n16\n5",
+            "fk": "196\n268\n129",
+            "hs%": "74%\n91%\n58%",
+            "kdr": "14\n8\n6",
+            "kills": "297",
+            "name": "suyjing",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.05\n1.46\n0.67",
+            "adr": "+2\n+6\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "156\n170\n144",
+            "hs%": "57%\n73%\n42%",
+            "kdr": "6\n3\n3",
+            "kills": "239",
+            "name": "BerLIN",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.91\n0.85\n0.97",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "93\n72\n113",
+            "hs%": "83%\n100%\n67%",
+            "kdr": "10\n8\n2",
+            "kills": "150",
+            "name": "AAAAY",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.87\n1.59\n0.22",
+            "adr": "-2\n+6\n-8",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "11\n10\n1",
+            "fk": "90\n143\n41",
+            "hs%": "74%\n91%\n58%",
+            "kdr": "9\n6\n3",
+            "kills": "148",
+            "name": "YuChEn",
+            "team": "FunPlus Phoenix ZHUQUE"
+          }
+        ],
+        [
+          {
+            "acs": "1.90\n2.18\n1.60",
+            "adr": "+14\n+11\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "29\n15\n14",
+            "fk": "217\n215\n220",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "8\n5\n3",
+            "kills": "348",
+            "name": "Ninebody",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "0.91\n1.47\n0.29",
+            "adr": "-1\n+5\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "112\n154\n65",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "6\n5\n1",
+            "kills": "181",
+            "name": "Knight",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "0.80\n1.12\n0.45",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "127\n136\n118",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "11\n6\n5",
+            "kills": "185",
+            "name": "LuoK1ng",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "0.71\n0.75\n0.66",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "143\n160\n124",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "6\n2\n4",
+            "kills": "195",
+            "name": "yosemite",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "0.47\n0.74\n0.18",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "72\n68\n76",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "10\n8\n2",
+            "kills": "119",
+            "name": "sword9",
+            "team": "KONE eSports Club"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "246",
+          "name": "Yuicaw",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "BerLIN",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "AAAAY",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "suyjing",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "YuChEn",
+          "team": null
+        },
+        {
+          "kills": "257",
+          "name": "Ninebody",
+          "team": null
+        },
+        {
+          "kills": "285",
+          "name": "yosemite",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "sword9",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Knight",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "LuoK1ng",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.15\n1.30\n1.21",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "58\n31\n27",
+            "fk": "173\n164\n184",
+            "hs%": "73%\n71%\n76%",
+            "kdr": "9\n6\n3",
+            "kills": "246",
+            "name": "Yuicaw",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.10\n1.04",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "46\n25\n21",
+            "fk": "147\n121\n178",
+            "hs%": "64%\n71%\n55%",
+            "kdr": "17\n4\n13",
+            "kills": "188",
+            "name": "BerLIN",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.09\n0.96",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n46\n27\n19\n\n/",
+            "deaths": "44\n21\n23",
+            "fk": "129\n118\n143",
+            "hs%": "73%\n80%\n66%",
+            "kdr": "13\n10\n3",
+            "kills": "188",
+            "name": "AAAAY",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.75\n0.89",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n50\n29\n21\n\n/",
+            "deaths": "39\n26\n13",
+            "fk": "127\n142\n108",
+            "hs%": "70%\n74%\n66%",
+            "kdr": "35\n16\n19",
+            "kills": "224",
+            "name": "suyjing",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.44\n0.63",
+            "adr": "-18\n-5\n-13",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "29\n20\n9",
+            "fk": "89\n111\n62",
+            "hs%": "66%\n71%\n59%",
+            "kdr": "18\n10\n8",
+            "kills": "174",
+            "name": "YuChEn",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.48\n1.43",
+            "adr": "+22\n+9\n+13",
+            "agent": "",
+            "assists": "/\n\n45\n18\n27\n\n/",
+            "deaths": "67\n27\n40",
+            "fk": "188\n166\n207",
+            "hs%": "70%\n66%\n74%",
+            "kdr": "12\n7\n5",
+            "kills": "257",
+            "name": "Ninebody",
+            "team": null
+          },
+          {
+            "acs": "1.31\n0.88\n1.07",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n46\n21\n25\n\n/",
+            "deaths": "50\n29\n21",
+            "fk": "159\n193\n130",
+            "hs%": "66%\n62%\n69%",
+            "kdr": "10\n2\n8",
+            "kills": "285",
+            "name": "yosemite",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.21\n1.07",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n39\n18\n21\n\n/",
+            "deaths": "42\n16\n26",
+            "fk": "115\n87\n138",
+            "hs%": "78%\n76%\n80%",
+            "kdr": "25\n12\n13",
+            "kills": "144",
+            "name": "sword9",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.83\n0.94",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n45\n18\n27\n\n/",
+            "deaths": "42\n19\n23",
+            "fk": "117\n113\n121",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "20\n12\n8",
+            "kills": "179",
+            "name": "Knight",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.82\n0.85",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "34\n14\n20",
+            "fk": "111\n108\n113",
+            "hs%": "67%\n66%\n69%",
+            "kdr": "28\n15\n13",
+            "kills": "164",
+            "name": "LuoK1ng",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "BerLIN",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "285",
+          "name": "AAAAY",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "252",
+          "name": "Yuicaw",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "189",
+          "name": "suyjing",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "167",
+          "name": "YuChEn",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "188",
+          "name": "yosemite",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "331",
+          "name": "Ninebody",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "229",
+          "name": "sword9",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "214",
+          "name": "Knight",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "184",
+          "name": "LuoK1ng",
+          "team": "KONE eSports Club"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.32\n1.10\n1.55",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "168\n126\n210",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "9\n0\n9",
+            "kills": "265",
+            "name": "BerLIN",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.11\n0.73\n1.48",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "156\n106\n205",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "285",
+            "name": "AAAAY",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.06\n0.87\n1.25",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "150\n125\n176",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "1\n0\n1",
+            "kills": "252",
+            "name": "Yuicaw",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.67\n0.37\n0.97",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "86\n65\n107",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "14\n4\n10",
+            "kills": "189",
+            "name": "suyjing",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.60\n0.47\n0.72",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "86\n68\n103",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "167",
+            "name": "YuChEn",
+            "team": "FunPlus Phoenix ZHUQUE"
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n1.66\n0.99",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "170\n227\n112",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "0\n0\n0",
+            "kills": "188",
+            "name": "yosemite",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "1.23\n0.94\n1.53",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "181\n150\n212",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "331",
+            "name": "Ninebody",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "1.09\n0.58\n1.60",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "125\n74\n177",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "7\n1\n6",
+            "kills": "229",
+            "name": "sword9",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "0.80\n0.69\n0.90",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "115\n100\n131",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "9\n6\n3",
+            "kills": "214",
+            "name": "Knight",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "0.71\n0.31\n1.12",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "91\n56\n125",
+            "hs%": "58%\n33%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "184",
+            "name": "LuoK1ng",
+            "team": "KONE eSports Club"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "275",
+          "name": "Yuicaw",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "213",
+          "name": "AAAAY",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "132",
+          "name": "suyjing",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "153",
+          "name": "BerLIN",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "122",
+          "name": "YuChEn",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "280",
+          "name": "sword9",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "202",
+          "name": "Knight",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "246",
+          "name": "yosemite",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "183",
+          "name": "LuoK1ng",
+          "team": "KONE eSports Club"
+        },
+        {
+          "kills": "222",
+          "name": "Ninebody",
+          "team": "KONE eSports Club"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.27\n0.91",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "188\n206\n146",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "3\n1\n2",
+            "kills": "275",
+            "name": "Yuicaw",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.82\n0.98\n0.43",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "142\n173\n66",
+            "hs%": "59%\n67%\n40%",
+            "kdr": "1\n1\n0",
+            "kills": "213",
+            "name": "AAAAY",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.67\n0.80\n0.38",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "90\n103\n59",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "7\n4\n3",
+            "kills": "132",
+            "name": "suyjing",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.62\n0.45\n1.04",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "104\n70\n184",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "2\n1\n1",
+            "kills": "153",
+            "name": "BerLIN",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.36\n0.39\n0.29",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "92\n123\n16",
+            "hs%": "59%\n75%\n20%",
+            "kdr": "3\n1\n2",
+            "kills": "122",
+            "name": "YuChEn",
+            "team": "FunPlus Phoenix ZHUQUE"
+          }
+        ],
+        [
+          {
+            "acs": "1.84\n2.05\n1.75",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "159\n162\n158",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "8\n3\n5",
+            "kills": "280",
+            "name": "sword9",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "1.20\n1.07\n1.25",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n1\n9\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "127\n44\n162",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "202",
+            "name": "Knight",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "1.20\n1.80\n0.96",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "164\n193\n153",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "246",
+            "name": "yosemite",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "1.12\n1.74\n0.87",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "116\n164\n97",
+            "hs%": "71%\n100%\n58%",
+            "kdr": "10\n6\n4",
+            "kills": "183",
+            "name": "LuoK1ng",
+            "team": "KONE eSports Club"
+          },
+          {
+            "acs": "1.07\n0.47\n1.32",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "160\n89\n189",
+            "hs%": "65%\n40%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "222",
+            "name": "Ninebody",
+            "team": "KONE eSports Club"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 112735,
+  "teams": [
+    "FunPlus Phoenix ZHUQUE",
+    "KONE eSports Club"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tUpper Semifinals"
+}

@@ -1,0 +1,806 @@
+{
+  "date": "2022-04-10 03:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "228",
+          "name": "Emman",
+          "team": "Action PH"
+        },
+        {
+          "kills": "209",
+          "name": "ABATMAN",
+          "team": "Action PH"
+        },
+        {
+          "kills": "231",
+          "name": "Georggyyy",
+          "team": "Action PH"
+        },
+        {
+          "kills": "219",
+          "name": "theDoctorr",
+          "team": "Action PH"
+        },
+        {
+          "kills": "156",
+          "name": "Aryu",
+          "team": "Action PH"
+        },
+        {
+          "kills": "288",
+          "name": "jEEE",
+          "team": "NAOS"
+        },
+        {
+          "kills": "218",
+          "name": "Kevzii",
+          "team": "NAOS"
+        },
+        {
+          "kills": "170",
+          "name": "Zey",
+          "team": "NAOS"
+        },
+        {
+          "kills": "203",
+          "name": "blurred",
+          "team": "NAOS"
+        },
+        {
+          "kills": "142",
+          "name": "Kakarot",
+          "team": "NAOS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.30\n1.63\n0.97",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "150\n185\n115",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "6\n5\n1",
+            "kills": "228",
+            "name": "Emman",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.21\n0.99\n1.43",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "132\n103\n161",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "13\n10\n3",
+            "kills": "209",
+            "name": "ABATMAN",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.01\n1.49\n0.52",
+            "adr": "0\n+6\n-6",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "166\n215\n117",
+            "hs%": "65%\n77%\n54%",
+            "kdr": "6\n4\n2",
+            "kills": "231",
+            "name": "Georggyyy",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.98\n0.79\n1.16",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "143\n145\n140",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "10\n4\n6",
+            "kills": "219",
+            "name": "theDoctorr",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.80\n0.82\n0.78",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "101\n99\n103",
+            "hs%": "69%\n85%\n54%",
+            "kdr": "14\n12\n2",
+            "kills": "156",
+            "name": "Aryu",
+            "team": "Action PH"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.69\n1.14",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "24\n15\n9",
+            "fk": "197\n242\n152",
+            "hs%": "85%\n92%\n77%",
+            "kdr": "11\n4\n7",
+            "kills": "288",
+            "name": "jEEE",
+            "team": "NAOS"
+          },
+          {
+            "acs": "1.16\n0.95\n1.38",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "135\n82\n189",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "5\n2\n3",
+            "kills": "218",
+            "name": "Kevzii",
+            "team": "NAOS"
+          },
+          {
+            "acs": "0.85\n0.83\n0.88",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "107\n132\n82",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "3\n3\n0",
+            "kills": "170",
+            "name": "Zey",
+            "team": "NAOS"
+          },
+          {
+            "acs": "0.78\n0.77\n0.78",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "136\n173\n99",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "5\n2\n3",
+            "kills": "203",
+            "name": "blurred",
+            "team": "NAOS"
+          },
+          {
+            "acs": "0.68\n0.78\n0.57",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "112\n130\n94",
+            "hs%": "58%\n62%\n54%",
+            "kdr": "3\n1\n2",
+            "kills": "142",
+            "name": "Kakarot",
+            "team": "NAOS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "209",
+          "name": "Emman",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "ABATMAN",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "Aryu",
+          "team": null
+        },
+        {
+          "kills": "214",
+          "name": "Georggyyy",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "theDoctorr",
+          "team": null
+        },
+        {
+          "kills": "258",
+          "name": "jEEE",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "Kevzii",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "Blas",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "blurred",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "Kakarot",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Zey",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.05\n1.27\n1.15",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n45\n27\n18\n\n/",
+            "deaths": "55\n27\n28",
+            "fk": "148\n139\n158",
+            "hs%": "68%\n65%\n72%",
+            "kdr": "24\n16\n8",
+            "kills": "209",
+            "name": "Emman",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.49\n1.13",
+            "adr": "+6\n-7\n+13",
+            "agent": "",
+            "assists": "/\n\n46\n29\n17\n\n/",
+            "deaths": "52\n22\n30",
+            "fk": "131\n113\n155",
+            "hs%": "74%\n68%\n83%",
+            "kdr": "18\n13\n5",
+            "kills": "166",
+            "name": "ABATMAN",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.20\n0.96",
+            "adr": "-6\n-11\n+5",
+            "agent": "",
+            "assists": "/\n\n47\n29\n18\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "122\n105\n144",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "21\n14\n7",
+            "kills": "161",
+            "name": "Aryu",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.55\n0.78",
+            "adr": "-16\n-4\n-12",
+            "agent": "",
+            "assists": "/\n\n57\n30\n27\n\n/",
+            "deaths": "41\n26\n15",
+            "fk": "137\n147\n125",
+            "hs%": "62%\n65%\n59%",
+            "kdr": "18\n11\n7",
+            "kills": "214",
+            "name": "Georggyyy",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.73\n0.69",
+            "adr": "-19\n-13\n-6",
+            "agent": "",
+            "assists": "/\n\n54\n33\n21\n\n/",
+            "deaths": "35\n20\n15",
+            "fk": "109\n112\n105",
+            "hs%": "70%\n65%\n76%",
+            "kdr": "22\n10\n12",
+            "kills": "164",
+            "name": "theDoctorr",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.10\n1.19",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n46\n20\n26\n\n/",
+            "deaths": "53\n26\n27",
+            "fk": "159\n173\n148",
+            "hs%": "79%\n76%\n81%",
+            "kdr": "27\n10\n17",
+            "kills": "258",
+            "name": "jEEE",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.35\n1.16",
+            "adr": "+11\n-2\n+13",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "50\n17\n33",
+            "fk": "131\n90\n162",
+            "hs%": "73%\n66%\n78%",
+            "kdr": "21\n7\n14",
+            "kills": "143",
+            "name": "Kevzii",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.32\n1.13",
+            "adr": "+6\n-3\n+9",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "32\n10\n22",
+            "fk": "137\n95\n165",
+            "hs%": "75%\n63%\n83%",
+            "kdr": "9\n1\n8",
+            "kills": "156",
+            "name": "Blas",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.29\n1.09",
+            "adr": "+9\n-3\n+12",
+            "agent": "",
+            "assists": "/\n\n45\n25\n20\n\n/",
+            "deaths": "54\n22\n32",
+            "fk": "146\n155\n139",
+            "hs%": "68%\n66%\n70%",
+            "kdr": "15\n9\n6",
+            "kills": "233",
+            "name": "blurred",
+            "team": null
+          },
+          {
+            "acs": "0.93\n1.05\n1.00",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n49\n24\n25\n\n/",
+            "deaths": "43\n17\n26",
+            "fk": "133\n133\n134",
+            "hs%": "73%\n69%\n76%",
+            "kdr": "30\n14\n16",
+            "kills": "194",
+            "name": "Kakarot",
+            "team": null
+          },
+          {
+            "acs": "0.83\n0.88\n0.85",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "107\n132\n82",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "3\n3\n0",
+            "kills": "209",
+            "name": "Zey",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "260",
+          "name": "ABATMAN",
+          "team": "Action PH"
+        },
+        {
+          "kills": "296",
+          "name": "Aryu",
+          "team": "Action PH"
+        },
+        {
+          "kills": "346",
+          "name": "Emman",
+          "team": "Action PH"
+        },
+        {
+          "kills": "148",
+          "name": "Georggyyy",
+          "team": "Action PH"
+        },
+        {
+          "kills": "56",
+          "name": "theDoctorr",
+          "team": "Action PH"
+        },
+        {
+          "kills": "252",
+          "name": "Kevzii",
+          "team": "NAOS"
+        },
+        {
+          "kills": "284",
+          "name": "jEEE",
+          "team": "NAOS"
+        },
+        {
+          "kills": "215",
+          "name": "Kakarot",
+          "team": "NAOS"
+        },
+        {
+          "kills": "285",
+          "name": "blurred",
+          "team": "NAOS"
+        },
+        {
+          "kills": "190",
+          "name": "Blas",
+          "team": "NAOS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.32\n0.96\n1.79",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "144\n134\n157",
+            "hs%": "71%\n58%\n89%",
+            "kdr": "2\n1\n1",
+            "kills": "260",
+            "name": "ABATMAN",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.25\n0.88\n1.75",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "156\n114\n212",
+            "hs%": "67%\n50%\n89%",
+            "kdr": "2\n2\n0",
+            "kills": "296",
+            "name": "Aryu",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.08\n0.51\n1.84",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "129\n72\n206",
+            "hs%": "57%\n33%\n89%",
+            "kdr": "9\n3\n6",
+            "kills": "346",
+            "name": "Emman",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.53\n0.60\n0.43",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "98\n92\n105",
+            "hs%": "57%\n50%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "148",
+            "name": "Georggyyy",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.25\n0.45\n0.03",
+            "adr": "-14\n-7\n-7",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "78\n98\n52",
+            "hs%": "52%\n42%\n67%",
+            "kdr": "9\n4\n5",
+            "kills": "56",
+            "name": "theDoctorr",
+            "team": "Action PH"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.00\n1.53",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "145\n113\n168",
+            "hs%": "76%\n56%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "252",
+            "name": "Kevzii",
+            "team": "NAOS"
+          },
+          {
+            "acs": "1.30\n0.95\n1.57",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "166\n119\n201",
+            "hs%": "76%\n56%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "284",
+            "name": "jEEE",
+            "team": "NAOS"
+          },
+          {
+            "acs": "1.15\n1.14\n1.17",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "152\n179\n132",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "15\n7\n8",
+            "kills": "215",
+            "name": "Kakarot",
+            "team": "NAOS"
+          },
+          {
+            "acs": "1.03\n0.50\n1.42",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "131\n98\n156",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "285",
+            "name": "blurred",
+            "team": "NAOS"
+          },
+          {
+            "acs": "0.91\n0.73\n1.04",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "106\n75\n130",
+            "hs%": "76%\n56%\n92%",
+            "kdr": "4\n0\n4",
+            "kills": "190",
+            "name": "Blas",
+            "team": "NAOS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "226",
+          "name": "Emman",
+          "team": "Action PH"
+        },
+        {
+          "kills": "175",
+          "name": "Aryu",
+          "team": "Action PH"
+        },
+        {
+          "kills": "183",
+          "name": "ABATMAN",
+          "team": "Action PH"
+        },
+        {
+          "kills": "165",
+          "name": "theDoctorr",
+          "team": "Action PH"
+        },
+        {
+          "kills": "204",
+          "name": "Georggyyy",
+          "team": "Action PH"
+        },
+        {
+          "kills": "281",
+          "name": "blurred",
+          "team": "NAOS"
+        },
+        {
+          "kills": "265",
+          "name": "Blas",
+          "team": "NAOS"
+        },
+        {
+          "kills": "235",
+          "name": "Kakarot",
+          "team": "NAOS"
+        },
+        {
+          "kills": "169",
+          "name": "Kevzii",
+          "team": "NAOS"
+        },
+        {
+          "kills": "155",
+          "name": "jEEE",
+          "team": "NAOS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.01\n0.97\n1.08",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "164\n158\n176",
+            "hs%": "79%\n83%\n71%",
+            "kdr": "9\n8\n1",
+            "kills": "226",
+            "name": "Emman",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.86\n0.62\n1.28",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "114\n104\n133",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "5\n0\n5",
+            "kills": "175",
+            "name": "Aryu",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.81\n0.58\n1.19",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "117\n102\n142",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "3\n2\n1",
+            "kills": "183",
+            "name": "ABATMAN",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.78\n0.75\n0.85",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "97\n89\n109",
+            "hs%": "84%\n83%\n86%",
+            "kdr": "3\n2\n1",
+            "kills": "165",
+            "name": "theDoctorr",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.74\n0.72\n0.77",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "142\n127\n167",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "4\n3\n1",
+            "kills": "204",
+            "name": "Georggyyy",
+            "team": "Action PH"
+          }
+        ],
+        [
+          {
+            "acs": "1.60\n1.42\n1.71",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "176\n196\n164",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "281",
+            "name": "blurred",
+            "team": "NAOS"
+          },
+          {
+            "acs": "1.38\n1.01\n1.59",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "170\n120\n199",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "265",
+            "name": "Blas",
+            "team": "NAOS"
+          },
+          {
+            "acs": "1.26\n0.94\n1.44",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "142\n79\n179",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "12\n6\n6",
+            "kills": "235",
+            "name": "Kakarot",
+            "team": "NAOS"
+          },
+          {
+            "acs": "1.00\n0.75\n1.15",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "109\n76\n128",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "10\n4\n6",
+            "kills": "169",
+            "name": "Kevzii",
+            "team": "NAOS"
+          },
+          {
+            "acs": "0.76\n1.08\n0.57",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "99\n114\n90",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "10\n4\n6",
+            "kills": "155",
+            "name": "jEEE",
+            "team": "NAOS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 81816,
+  "teams": [
+    "Action PH",
+    "NAOS"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tGrand Final"
+}

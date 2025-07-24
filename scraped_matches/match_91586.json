@@ -1,0 +1,788 @@
+{
+  "date": "2022-04-21 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "266",
+          "name": "seven",
+          "team": "TSM"
+        },
+        {
+          "kills": "202",
+          "name": "corey",
+          "team": "TSM"
+        },
+        {
+          "kills": "213",
+          "name": "Rossy",
+          "team": "TSM"
+        },
+        {
+          "kills": "151",
+          "name": "Subroza",
+          "team": "TSM"
+        },
+        {
+          "kills": "123",
+          "name": "gMd",
+          "team": "TSM"
+        },
+        {
+          "kills": "189",
+          "name": "payen",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "165",
+          "name": "venture",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "240",
+          "name": "Harmful",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "148",
+          "name": "ZK",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "217",
+          "name": "b0i",
+          "team": "TSM Academy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.20\n0.97",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "154\n159\n150",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "266",
+            "name": "seven",
+            "team": "TSM"
+          },
+          {
+            "acs": "1.05\n0.73\n1.34",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "148\n115\n178",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "202",
+            "name": "corey",
+            "team": "TSM"
+          },
+          {
+            "acs": "0.96\n0.93\n0.98",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "142\n163\n122",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "9\n4\n5",
+            "kills": "213",
+            "name": "Rossy",
+            "team": "TSM"
+          },
+          {
+            "acs": "0.92\n0.86\n0.97",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "91\n88\n95",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "3\n3\n0",
+            "kills": "151",
+            "name": "Subroza",
+            "team": "TSM"
+          },
+          {
+            "acs": "0.79\n0.76\n0.81",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "81\n82\n80",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "123",
+            "name": "gMd",
+            "team": "TSM"
+          }
+        ],
+        [
+          {
+            "acs": "1.09\n1.06\n1.12",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "130\n152\n105",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "5\n3\n2",
+            "kills": "189",
+            "name": "payen",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "1.00\n1.02\n0.97",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "120\n91\n151",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "4\n3\n1",
+            "kills": "165",
+            "name": "venture",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.99\n1.07\n0.90",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "144\n146\n143",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "3\n1\n2",
+            "kills": "240",
+            "name": "Harmful",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.96\n0.55\n1.41",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "98\n61\n138",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "6\n5\n1",
+            "kills": "148",
+            "name": "ZK",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.94\n1.02\n0.85",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "147\n137\n158",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "217",
+            "name": "b0i",
+            "team": "TSM Academy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "262",
+          "name": "seven",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "corey",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "Subroza",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "Rossy",
+          "team": null
+        },
+        {
+          "kills": "239",
+          "name": "gMd",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "venture",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "payen",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "b0i",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "Harmful",
+          "team": null
+        },
+        {
+          "kills": "112",
+          "name": "ZK",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.31\n1.28",
+            "adr": "+19\n+12\n+7",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "62\n35\n27",
+            "fk": "155\n153\n158",
+            "hs%": "81%\n80%\n83%",
+            "kdr": "11\n5\n6",
+            "kills": "262",
+            "name": "seven",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.45\n1.22",
+            "adr": "+15\n+4\n+11",
+            "agent": "",
+            "assists": "/\n\n38\n22\n16\n\n/",
+            "deaths": "53\n26\n27",
+            "fk": "152\n136\n173",
+            "hs%": "83%\n80%\n86%",
+            "kdr": "12\n6\n6",
+            "kills": "196",
+            "name": "corey",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.25\n1.15",
+            "adr": "+14\n+6\n+8",
+            "agent": "",
+            "assists": "/\n\n37\n19\n18\n\n/",
+            "deaths": "51\n25\n26",
+            "fk": "129\n118\n142",
+            "hs%": "81%\n86%\n76%",
+            "kdr": "20\n12\n8",
+            "kills": "189",
+            "name": "Subroza",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.98\n1.09",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n41\n22\n19\n\n/",
+            "deaths": "46\n29\n17",
+            "fk": "138\n163\n108",
+            "hs%": "80%\n86%\n72%",
+            "kdr": "26\n15\n11",
+            "kills": "232",
+            "name": "Rossy",
+            "team": null
+          },
+          {
+            "acs": "1.16\n0.79\n0.99",
+            "adr": "+7\n+9\n-2",
+            "agent": "",
+            "assists": "/\n\n42\n21\n21\n\n/",
+            "deaths": "49\n30\n19",
+            "fk": "137\n154\n115",
+            "hs%": "72%\n74%\n69%",
+            "kdr": "21\n8\n13",
+            "kills": "239",
+            "name": "gMd",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.03\n1.08\n1.06",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n48\n21\n27\n\n/",
+            "deaths": "45\n19\n26",
+            "fk": "131\n111\n148",
+            "hs%": "61%\n69%\n54%",
+            "kdr": "14\n7\n7",
+            "kills": "171",
+            "name": "venture",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.78\n0.86",
+            "adr": "-13\n-1\n-12",
+            "agent": "",
+            "assists": "/\n\n54\n25\n29\n\n/",
+            "deaths": "41\n24\n17",
+            "fk": "134\n144\n126",
+            "hs%": "67%\n72%\n63%",
+            "kdr": "16\n5\n11",
+            "kills": "224",
+            "name": "payen",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.82\n0.85",
+            "adr": "-13\n-2\n-11",
+            "agent": "",
+            "assists": "/\n\n53\n22\n31\n\n/",
+            "deaths": "40\n20\n20",
+            "fk": "135\n140\n131",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "17\n7\n10",
+            "kills": "204",
+            "name": "b0i",
+            "team": null
+          },
+          {
+            "acs": "0.66\n0.81\n0.71",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n55\n26\n29\n\n/",
+            "deaths": "45\n21\n24",
+            "fk": "122\n123\n121",
+            "hs%": "55%\n59%\n51%",
+            "kdr": "7\n1\n6",
+            "kills": "202",
+            "name": "Harmful",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.76\n0.67",
+            "adr": "-21\n-12\n-9",
+            "agent": "",
+            "assists": "/\n\n51\n23\n28\n\n/",
+            "deaths": "30\n11\n19",
+            "fk": "89\n71\n104",
+            "hs%": "59%\n62%\n57%",
+            "kdr": "12\n9\n3",
+            "kills": "112",
+            "name": "ZK",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "316",
+          "name": "corey",
+          "team": "TSM"
+        },
+        {
+          "kills": "254",
+          "name": "seven",
+          "team": "TSM"
+        },
+        {
+          "kills": "256",
+          "name": "Subroza",
+          "team": "TSM"
+        },
+        {
+          "kills": "136",
+          "name": "Rossy",
+          "team": "TSM"
+        },
+        {
+          "kills": "206",
+          "name": "gMd",
+          "team": "TSM"
+        },
+        {
+          "kills": "288",
+          "name": "venture",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "197",
+          "name": "payen",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "215",
+          "name": "b0i",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "146",
+          "name": "ZK",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "211",
+          "name": "Harmful",
+          "team": "TSM Academy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.43\n1.20\n1.67",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "185\n171\n200",
+            "hs%": "91%\n83%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "316",
+            "name": "corey",
+            "team": "TSM"
+          },
+          {
+            "acs": "1.24\n1.16\n1.33",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "167\n177\n156",
+            "hs%": "87%\n92%\n82%",
+            "kdr": "3\n1\n2",
+            "kills": "254",
+            "name": "seven",
+            "team": "TSM"
+          },
+          {
+            "acs": "1.21\n1.18\n1.25",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "130\n116\n144",
+            "hs%": "87%\n92%\n82%",
+            "kdr": "12\n7\n5",
+            "kills": "256",
+            "name": "Subroza",
+            "team": "TSM"
+          },
+          {
+            "acs": "1.16\n1.23\n1.09",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "123\n156\n87",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "9\n5\n4",
+            "kills": "136",
+            "name": "Rossy",
+            "team": "TSM"
+          },
+          {
+            "acs": "0.84\n0.86\n0.82",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "135\n129\n143",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "10\n4\n6",
+            "kills": "206",
+            "name": "gMd",
+            "team": "TSM"
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.15\n1.57",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "161\n148\n173",
+            "hs%": "57%\n64%\n50%",
+            "kdr": "9\n3\n6",
+            "kills": "288",
+            "name": "venture",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.92\n1.09\n0.78",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "158\n160\n156",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "5\n0\n5",
+            "kills": "197",
+            "name": "payen",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.75\n0.69\n0.79",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "118\n114\n122",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "9\n3\n6",
+            "kills": "215",
+            "name": "b0i",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.61\n0.77\n0.46",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "96\n89\n102",
+            "hs%": "52%\n55%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "146",
+            "name": "ZK",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.47\n0.02\n1.04",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "89\n35\n139",
+            "hs%": "43%\n27%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "211",
+            "name": "Harmful",
+            "team": "TSM Academy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "253",
+          "name": "seven",
+          "team": "TSM"
+        },
+        {
+          "kills": "344",
+          "name": "gMd",
+          "team": "TSM"
+        },
+        {
+          "kills": "310",
+          "name": "Subroza",
+          "team": "TSM"
+        },
+        {
+          "kills": "165",
+          "name": "corey",
+          "team": "TSM"
+        },
+        {
+          "kills": "220",
+          "name": "Rossy",
+          "team": "TSM"
+        },
+        {
+          "kills": "196",
+          "name": "b0i",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "158",
+          "name": "venture",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "231",
+          "name": "Harmful",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "145",
+          "name": "payen",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "101",
+          "name": "ZK",
+          "team": "TSM Academy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.57\n1.38\n1.94",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "141\n122\n178",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "253",
+            "name": "seven",
+            "team": "TSM"
+          },
+          {
+            "acs": "1.46\n1.84\n0.72",
+            "adr": "+10\n+11\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "21\n17\n4",
+            "fk": "209\n246\n136",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "344",
+            "name": "gMd",
+            "team": "TSM"
+          },
+          {
+            "acs": "1.38\n1.16\n1.83",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "176\n148\n233",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "310",
+            "name": "Subroza",
+            "team": "TSM"
+          },
+          {
+            "acs": "1.19\n1.15\n1.27",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "116\n119\n111",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "165",
+            "name": "corey",
+            "team": "TSM"
+          },
+          {
+            "acs": "1.17\n1.37\n0.78",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "153\n170\n119",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "8\n6\n2",
+            "kills": "220",
+            "name": "Rossy",
+            "team": "TSM"
+          }
+        ],
+        [
+          {
+            "acs": "0.87\n0.97\n0.81",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "140\n191\n115",
+            "hs%": "50%\n67%\n42%",
+            "kdr": "3\n2\n1",
+            "kills": "196",
+            "name": "b0i",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.73\n0.80\n0.70",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "107\n82\n120",
+            "hs%": "44%\n67%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "158",
+            "name": "venture",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.67\n1.02\n0.50",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "136\n240\n84",
+            "hs%": "56%\n83%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "231",
+            "name": "Harmful",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.49\n0.49\n0.48",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "111\n99\n117",
+            "hs%": "56%\n67%\n50%",
+            "kdr": "6\n2\n4",
+            "kills": "145",
+            "name": "payen",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.38\n0.22\n0.45",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "71\n62\n75",
+            "hs%": "50%\n67%\n42%",
+            "kdr": "4\n3\n1",
+            "kills": "101",
+            "name": "ZK",
+            "team": "TSM Academy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 91586,
+  "teams": [
+    "TSM",
+    "TSM Academy"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tQuarterfinals"
+}

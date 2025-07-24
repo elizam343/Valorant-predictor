@@ -1,0 +1,806 @@
+{
+  "date": "2021-08-13 05:10:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "325",
+          "name": "Reita",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "181",
+          "name": "crow",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "216",
+          "name": "Laz",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "178",
+          "name": "takej",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "108",
+          "name": "makiba",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "314",
+          "name": "TENNN",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "274",
+          "name": "Seoldam",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "194",
+          "name": "Meiy",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "142",
+          "name": "Astell",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "155",
+          "name": "SugarZ3ro",
+          "team": "NORTHEPTION"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.20\n0.83\n1.39",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "189\n154\n207",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "1\n1\n0",
+            "kills": "325",
+            "name": "Reita",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "0.94\n1.44\n0.69",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "119\n152\n103",
+            "hs%": "89%\n100%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "181",
+            "name": "crow",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "0.83\n0.41\n1.04",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "138\n80\n168",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "216",
+            "name": "Laz",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "0.62\n0.95\n0.45",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "116\n116\n117",
+            "hs%": "56%\n67%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "178",
+            "name": "takej",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "0.53\n0.89\n0.36",
+            "adr": "-8\n0\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "65\n75\n60",
+            "hs%": "50%\n67%\n42%",
+            "kdr": "4\n1\n3",
+            "kills": "108",
+            "name": "makiba",
+            "team": "ZETA DIVISION"
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.44\n1.70",
+            "adr": "+10\n+6\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "176\n187\n154",
+            "hs%": "61%\n58%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "314",
+            "name": "TENNN",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "1.50\n2.04\n0.43",
+            "adr": "+8\n+11\n-3",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "18\n16\n2",
+            "fk": "169\n227\n54",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "274",
+            "name": "Seoldam",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "1.02\n1.02\n1.01",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "92\n105\n67",
+            "hs%": "61%\n67%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "194",
+            "name": "Meiy",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "0.92\n0.79\n1.20",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "102\n87\n131",
+            "hs%": "61%\n67%\n50%",
+            "kdr": "10\n5\n5",
+            "kills": "142",
+            "name": "Astell",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "0.77\n0.90\n0.50",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "93\n112\n53",
+            "hs%": "89%\n100%\n67%",
+            "kdr": "10\n10\n0",
+            "kills": "155",
+            "name": "SugarZ3ro",
+            "team": "NORTHEPTION"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "203",
+          "name": "Laz",
+          "team": null
+        },
+        {
+          "kills": "323",
+          "name": "takej",
+          "team": null
+        },
+        {
+          "kills": "288",
+          "name": "Reita",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "makiba",
+          "team": null
+        },
+        {
+          "kills": "128",
+          "name": "crow",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "barce",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "Meiy",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "TENNN",
+          "team": null
+        },
+        {
+          "kills": "258",
+          "name": "Seoldam",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "SugarZ3ro",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "Astell",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.05\n1.27\n1.18",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n44\n16\n28\n\n/",
+            "deaths": "53\n17\n36",
+            "fk": "161\n137\n178",
+            "hs%": "76%\n70%\n79%",
+            "kdr": "23\n12\n11",
+            "kills": "203",
+            "name": "Laz",
+            "team": null
+          },
+          {
+            "acs": "1.61\n0.75\n1.10",
+            "adr": "+10\n+18\n-8",
+            "agent": "",
+            "assists": "/\n\n46\n15\n31\n\n/",
+            "deaths": "56\n33\n23",
+            "fk": "162\n196\n138",
+            "hs%": "71%\n85%\n62%",
+            "kdr": "11\n4\n7",
+            "kills": "323",
+            "name": "takej",
+            "team": null
+          },
+          {
+            "acs": "1.21\n0.96\n1.06",
+            "adr": "+11\n+10\n+1",
+            "agent": "",
+            "assists": "/\n\n46\n19\n27\n\n/",
+            "deaths": "57\n29\n28",
+            "fk": "146\n176\n124",
+            "hs%": "73%\n78%\n69%",
+            "kdr": "10\n8\n2",
+            "kills": "288",
+            "name": "Reita",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.84\n0.92",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n24\n6\n18\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "90\n62\n104",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "11\n3\n8",
+            "kills": "187",
+            "name": "makiba",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.88\n0.83",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n47\n18\n29\n\n/",
+            "deaths": "36\n13\n23",
+            "fk": "116\n90\n134",
+            "hs%": "76%\n74%\n77%",
+            "kdr": "34\n16\n18",
+            "kills": "128",
+            "name": "crow",
+            "team": null
+          },
+          {
+            "acs": "1.04\n0.37\n0.70",
+            "adr": "-6\n+2\n-8",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "105\n116\n93",
+            "hs%": "67%\n80%\n53%",
+            "kdr": "12\n7\n5",
+            "kills": "151",
+            "name": "barce",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n1.11\n1.15",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n46\n26\n20\n\n/",
+            "deaths": "52\n29\n23",
+            "fk": "134\n135\n132",
+            "hs%": "71%\n74%\n67%",
+            "kdr": "15\n10\n5",
+            "kills": "208",
+            "name": "Meiy",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.19\n1.13",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n48\n28\n20\n\n/",
+            "deaths": "55\n32\n23",
+            "fk": "139\n128\n155",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "17\n11\n6",
+            "kills": "220",
+            "name": "TENNN",
+            "team": null
+          },
+          {
+            "acs": "1.20\n0.70\n0.99",
+            "adr": "+2\n+8\n-6",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "52\n36\n16",
+            "fk": "140\n160\n110",
+            "hs%": "67%\n69%\n63%",
+            "kdr": "14\n8\n6",
+            "kills": "258",
+            "name": "Seoldam",
+            "team": null
+          },
+          {
+            "acs": "1.15\n0.64\n0.94",
+            "adr": "-7\n+4\n-11",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "38\n27\n11",
+            "fk": "102\n119\n78",
+            "hs%": "70%\n79%\n56%",
+            "kdr": "21\n15\n6",
+            "kills": "184",
+            "name": "SugarZ3ro",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.55\n0.76",
+            "adr": "-20\n-5\n-15",
+            "agent": "",
+            "assists": "/\n\n50\n27\n23\n\n/",
+            "deaths": "30\n22\n8",
+            "fk": "101\n117\n78",
+            "hs%": "61%\n67%\n52%",
+            "kdr": "23\n11\n12",
+            "kills": "170",
+            "name": "Astell",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "278",
+          "name": "Laz",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "228",
+          "name": "makiba",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "214",
+          "name": "takej",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "283",
+          "name": "crow",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "147",
+          "name": "Reita",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "198",
+          "name": "SugarZ3ro",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "244",
+          "name": "Seoldam",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "81",
+          "name": "Astell",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "127",
+          "name": "Meiy",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "115",
+          "name": "TENNN",
+          "team": "NORTHEPTION"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.67\n1.38",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "152\n117\n170",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "9\n5\n4",
+            "kills": "278",
+            "name": "Laz",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "1.30\n1.28\n1.31",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "115\n50\n148",
+            "hs%": "83%\n67%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "228",
+            "name": "makiba",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "1.18\n1.80\n0.87",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "181\n237\n153",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "214",
+            "name": "takej",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "1.12\n0.35\n1.50",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "159\n58\n209",
+            "hs%": "83%\n67%\n92%",
+            "kdr": "8\n1\n7",
+            "kills": "283",
+            "name": "crow",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "1.08\n1.38\n0.94",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "123\n181\n94",
+            "hs%": "78%\n100%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "147",
+            "name": "Reita",
+            "team": "ZETA DIVISION"
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n1.22\n1.06",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "133\n138\n122",
+            "hs%": "50%\n58%\n33%",
+            "kdr": "4\n3\n1",
+            "kills": "198",
+            "name": "SugarZ3ro",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "0.91\n0.88\n0.97",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "150\n155\n140",
+            "hs%": "61%\n50%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "244",
+            "name": "Seoldam",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "0.72\n1.11\n0.02",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "118\n162\n29",
+            "hs%": "56%\n67%\n33%",
+            "kdr": "4\n4\n0",
+            "kills": "81",
+            "name": "Astell",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "0.69\n0.78\n0.52",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "101\n112\n78",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "127",
+            "name": "Meiy",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "0.29\n0.30\n0.25",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "52\n51\n53",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "115",
+            "name": "TENNN",
+            "team": "NORTHEPTION"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "281",
+          "name": "takej",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "272",
+          "name": "Laz",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "218",
+          "name": "Reita",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "139",
+          "name": "barce",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "111",
+          "name": "crow",
+          "team": "ZETA DIVISION"
+        },
+        {
+          "kills": "279",
+          "name": "Meiy",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "266",
+          "name": "TENNN",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "147",
+          "name": "SugarZ3ro",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "193",
+          "name": "Seoldam",
+          "team": "NORTHEPTION"
+        },
+        {
+          "kills": "130",
+          "name": "Astell",
+          "team": "NORTHEPTION"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.80\n0.90",
+            "adr": "+12\n+12\n0",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "31\n20\n11",
+            "fk": "177\n211\n143",
+            "hs%": "73%\n93%\n53%",
+            "kdr": "3\n2\n1",
+            "kills": "281",
+            "name": "takej",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "1.21\n1.06\n1.36",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "180\n167\n193",
+            "hs%": "77%\n67%\n87%",
+            "kdr": "10\n6\n4",
+            "kills": "272",
+            "name": "Laz",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "0.97\n1.30\n0.63",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "23\n16\n7",
+            "fk": "133\n184\n83",
+            "hs%": "67%\n73%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "218",
+            "name": "Reita",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "0.70\n1.04\n0.37",
+            "adr": "-6\n+2\n-8",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "105\n116\n93",
+            "hs%": "67%\n80%\n53%",
+            "kdr": "12\n7\n5",
+            "kills": "139",
+            "name": "barce",
+            "team": "ZETA DIVISION"
+          },
+          {
+            "acs": "0.59\n0.64\n0.55",
+            "adr": "-14\n-7\n-7",
+            "agent": "",
+            "assists": "/\n\n23\n11\n12\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "88\n78\n98",
+            "hs%": "63%\n67%\n60%",
+            "kdr": "19\n12\n7",
+            "kills": "111",
+            "name": "crow",
+            "team": "ZETA DIVISION"
+          }
+        ],
+        [
+          {
+            "acs": "1.51\n1.63\n1.38",
+            "adr": "+12\n+7\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "30\n15\n15",
+            "fk": "179\n178\n180",
+            "hs%": "73%\n73%\n73%",
+            "kdr": "4\n2\n2",
+            "kills": "279",
+            "name": "Meiy",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "1.40\n1.44\n1.36",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "170\n143\n197",
+            "hs%": "77%\n80%\n73%",
+            "kdr": "11\n6\n5",
+            "kills": "266",
+            "name": "TENNN",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "0.92\n1.30\n0.53",
+            "adr": "-1\n+6\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "90\n108\n71",
+            "hs%": "70%\n80%\n60%",
+            "kdr": "7\n2\n5",
+            "kills": "147",
+            "name": "SugarZ3ro",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "0.74\n0.78\n0.70",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "116\n111\n120",
+            "hs%": "60%\n73%\n47%",
+            "kdr": "6\n4\n2",
+            "kills": "193",
+            "name": "Seoldam",
+            "team": "NORTHEPTION"
+          },
+          {
+            "acs": "0.69\n0.89\n0.49",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n22\n9\n13\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "91\n104\n77",
+            "hs%": "63%\n67%\n60%",
+            "kdr": "9\n2\n7",
+            "kills": "130",
+            "name": "Astell",
+            "team": "NORTHEPTION"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 29668,
+  "teams": [
+    "NORTHEPTION",
+    "ZETA DIVISION"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tUpper Semifinals"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-18 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "387",
+          "name": "mikee",
+          "team": "bref"
+        },
+        {
+          "kills": "187",
+          "name": "Newzera",
+          "team": "bref"
+        },
+        {
+          "kills": "193",
+          "name": "Fatiiiih",
+          "team": "bref"
+        },
+        {
+          "kills": "142",
+          "name": "Dawn",
+          "team": "bref"
+        },
+        {
+          "kills": "140",
+          "name": "Kiiyo",
+          "team": "bref"
+        },
+        {
+          "kills": "279",
+          "name": "KEREME",
+          "team": "Incognito"
+        },
+        {
+          "kills": "181",
+          "name": "avis",
+          "team": "Incognito"
+        },
+        {
+          "kills": "161",
+          "name": "krytyq",
+          "team": "Incognito"
+        },
+        {
+          "kills": "190",
+          "name": "kaajak",
+          "team": "Incognito"
+        },
+        {
+          "kills": "116",
+          "name": "starki",
+          "team": "Incognito"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "2.08\n1.89\n2.31",
+            "adr": "+21\n+9\n+12",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "32\n16\n16",
+            "fk": "214\n212\n217",
+            "hs%": "82%\n67%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "387",
+            "name": "mikee",
+            "team": "bref"
+          },
+          {
+            "acs": "1.48\n1.35\n1.65",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "123\n110\n139",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "10\n5\n5",
+            "kills": "187",
+            "name": "Newzera",
+            "team": "bref"
+          },
+          {
+            "acs": "0.78\n0.65\n0.94",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "134\n126\n143",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "10\n4\n6",
+            "kills": "193",
+            "name": "Fatiiiih",
+            "team": "bref"
+          },
+          {
+            "acs": "0.63\n0.35\n0.96",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "95\n52\n146",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "7\n4\n3",
+            "kills": "142",
+            "name": "Dawn",
+            "team": "bref"
+          },
+          {
+            "acs": "0.54\n0.42\n0.69",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "96\n93\n99",
+            "hs%": "59%\n50%\n70%",
+            "kdr": "2\n0\n2",
+            "kills": "140",
+            "name": "Kiiyo",
+            "team": "bref"
+          }
+        ],
+        [
+          {
+            "acs": "1.30\n1.56\n1.09",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "176\n222\n137",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "279",
+            "name": "KEREME",
+            "team": "Incognito"
+          },
+          {
+            "acs": "0.88\n0.90\n0.87",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "121\n124\n118",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "181",
+            "name": "avis",
+            "team": "Incognito"
+          },
+          {
+            "acs": "0.78\n0.39\n1.10",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "101\n53\n141",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "161",
+            "name": "krytyq",
+            "team": "Incognito"
+          },
+          {
+            "acs": "0.71\n0.33\n1.03",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "131\n87\n168",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "190",
+            "name": "kaajak",
+            "team": "Incognito"
+          },
+          {
+            "acs": "0.65\n0.31\n0.92",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "77\n64\n88",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "116",
+            "name": "starki",
+            "team": "Incognito"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "292",
+          "name": "mikee",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "Newzera",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "Fatiiiih",
+          "team": null
+        },
+        {
+          "kills": "106",
+          "name": "Dawn",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "Kiiyo",
+          "team": null
+        },
+        {
+          "kills": "276",
+          "name": "KEREME",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "kaajak",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "krytyq",
+          "team": null
+        },
+        {
+          "kills": "118",
+          "name": "avis",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "starki",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.45\n1.46",
+            "adr": "+18\n+8\n+10",
+            "agent": "",
+            "assists": "/\n\n29\n16\n13\n\n/",
+            "deaths": "47\n24\n23",
+            "fk": "163\n182\n144",
+            "hs%": "69%\n57%\n82%",
+            "kdr": "4\n2\n2",
+            "kills": "292",
+            "name": "mikee",
+            "team": null
+          },
+          {
+            "acs": "1.26\n1.61\n1.43",
+            "adr": "+12\n+2\n+10",
+            "agent": "",
+            "assists": "/\n\n23\n15\n8\n\n/",
+            "deaths": "35\n17\n18",
+            "fk": "131\n121\n141",
+            "hs%": "78%\n74%\n82%",
+            "kdr": "15\n7\n8",
+            "kills": "195",
+            "name": "Newzera",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.41\n1.05",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n32\n19\n13\n\n/",
+            "deaths": "33\n14\n19",
+            "fk": "155\n123\n189",
+            "hs%": "64%\n52%\n77%",
+            "kdr": "18\n5\n13",
+            "kills": "187",
+            "name": "Fatiiiih",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.32\n0.94",
+            "adr": "-1\n-8\n+7",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "31\n9\n22",
+            "fk": "132\n85\n182",
+            "hs%": "76%\n65%\n86%",
+            "kdr": "16\n7\n9",
+            "kills": "106",
+            "name": "Dawn",
+            "team": null
+          },
+          {
+            "acs": "0.46\n0.70\n0.58",
+            "adr": "-14\n-10\n-4",
+            "agent": "",
+            "assists": "/\n\n37\n20\n17\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "97\n92\n101",
+            "hs%": "62%\n57%\n68%",
+            "kdr": "8\n3\n5",
+            "kills": "133",
+            "name": "Kiiyo",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n0.96\n1.03",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "37\n19\n18",
+            "fk": "159\n181\n139",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "276",
+            "name": "KEREME",
+            "team": null
+          },
+          {
+            "acs": "0.45\n1.50\n0.99",
+            "adr": "+2\n-7\n+9",
+            "agent": "",
+            "assists": "/\n\n35\n21\n14\n\n/",
+            "deaths": "37\n14\n23",
+            "fk": "158\n109\n205",
+            "hs%": "62%\n50%\n74%",
+            "kdr": "10\n2\n8",
+            "kills": "187",
+            "name": "kaajak",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.99\n0.89",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "30\n15\n15",
+            "fk": "114\n110\n119",
+            "hs%": "67%\n59%\n74%",
+            "kdr": "13\n2\n11",
+            "kills": "186",
+            "name": "krytyq",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.01\n0.79",
+            "adr": "-11\n-11\n0",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "103\n81\n125",
+            "hs%": "73%\n68%\n78%",
+            "kdr": "15\n7\n8",
+            "kills": "118",
+            "name": "avis",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.96\n0.78",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n31\n19\n12\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "95\n96\n94",
+            "hs%": "60%\n55%\n65%",
+            "kdr": "11\n5\n6",
+            "kills": "144",
+            "name": "starki",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "229",
+          "name": "Newzera",
+          "team": "bref"
+        },
+        {
+          "kills": "316",
+          "name": "Fatiiiih",
+          "team": "bref"
+        },
+        {
+          "kills": "325",
+          "name": "Dawn",
+          "team": "bref"
+        },
+        {
+          "kills": "150",
+          "name": "mikee",
+          "team": "bref"
+        },
+        {
+          "kills": "161",
+          "name": "Kiiyo",
+          "team": "bref"
+        },
+        {
+          "kills": "376",
+          "name": "kaajak",
+          "team": "Incognito"
+        },
+        {
+          "kills": "142",
+          "name": "krytyq",
+          "team": "Incognito"
+        },
+        {
+          "kills": "174",
+          "name": "starki",
+          "team": "Incognito"
+        },
+        {
+          "kills": "222",
+          "name": "KEREME",
+          "team": "Incognito"
+        },
+        {
+          "kills": "215",
+          "name": "avis",
+          "team": "Incognito"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.38\n1.17\n1.57",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "138\n133\n143",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "229",
+            "name": "Newzera",
+            "team": "bref"
+          },
+          {
+            "acs": "1.30\n0.76\n1.80",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "176\n119\n228",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "8\n1\n7",
+            "kills": "316",
+            "name": "Fatiiiih",
+            "team": "bref"
+          },
+          {
+            "acs": "1.24\n0.82\n1.62",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "168\n120\n212",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "9\n3\n6",
+            "kills": "325",
+            "name": "Dawn",
+            "team": "bref"
+          },
+          {
+            "acs": "0.86\n1.00\n0.74",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "115\n149\n84",
+            "hs%": "57%\n45%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "150",
+            "name": "mikee",
+            "team": "bref"
+          },
+          {
+            "acs": "0.61\n0.52\n0.70",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "97\n91\n103",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "161",
+            "name": "Kiiyo",
+            "team": "bref"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n0.54\n2.01",
+            "adr": "+7\n-2\n+9",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "183\n127\n245",
+            "hs%": "61%\n42%\n82%",
+            "kdr": "5\n1\n4",
+            "kills": "376",
+            "name": "kaajak",
+            "team": "Incognito"
+          },
+          {
+            "acs": "0.99\n1.09\n0.88",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "127\n157\n94",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "9\n1\n8",
+            "kills": "142",
+            "name": "krytyq",
+            "team": "Incognito"
+          },
+          {
+            "acs": "0.92\n0.84\n1.00",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "112\n122\n101",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "9\n3\n6",
+            "kills": "174",
+            "name": "starki",
+            "team": "Incognito"
+          },
+          {
+            "acs": "0.76\n0.72\n0.81",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "143\n146\n140",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "3\n3\n0",
+            "kills": "222",
+            "name": "KEREME",
+            "team": "Incognito"
+          },
+          {
+            "acs": "0.71\n0.29\n1.16",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "87\n45\n133",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "8\n2\n6",
+            "kills": "215",
+            "name": "avis",
+            "team": "Incognito"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 64644,
+  "teams": [
+    "bref",
+    "Incognito"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 64"
+}

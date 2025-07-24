@@ -1,0 +1,788 @@
+{
+  "date": "2023-01-14 13:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "274",
+          "name": "xeta",
+          "team": "T1"
+        },
+        {
+          "kills": "268",
+          "name": "Sayaplayer",
+          "team": "T1"
+        },
+        {
+          "kills": "143",
+          "name": "ban",
+          "team": "T1"
+        },
+        {
+          "kills": "184",
+          "name": "Munchkin",
+          "team": "T1"
+        },
+        {
+          "kills": "117",
+          "name": "carpe",
+          "team": "T1"
+        },
+        {
+          "kills": "263",
+          "name": "valyn",
+          "team": "The Guard"
+        },
+        {
+          "kills": "250",
+          "name": "tex",
+          "team": "The Guard"
+        },
+        {
+          "kills": "199",
+          "name": "JonahP",
+          "team": "The Guard"
+        },
+        {
+          "kills": "184",
+          "name": "trent",
+          "team": "The Guard"
+        },
+        {
+          "kills": "77",
+          "name": "neT",
+          "team": "The Guard"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.51\n1.40",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "171\n145\n197",
+            "hs%": "92%\n100%\n83%",
+            "kdr": "16\n11\n5",
+            "kills": "274",
+            "name": "xeta",
+            "team": "T1"
+          },
+          {
+            "acs": "1.20\n1.08\n1.32",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "158\n168\n149",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "8\n7\n1",
+            "kills": "268",
+            "name": "Sayaplayer",
+            "team": "T1"
+          },
+          {
+            "acs": "0.98\n1.19\n0.76",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "89\n93\n85",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "143",
+            "name": "ban",
+            "team": "T1"
+          },
+          {
+            "acs": "0.92\n1.06\n0.79",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "117\n128\n107",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "184",
+            "name": "Munchkin",
+            "team": "T1"
+          },
+          {
+            "acs": "0.65\n0.78\n0.52",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "77\n98\n56",
+            "hs%": "79%\n92%\n67%",
+            "kdr": "7\n5\n2",
+            "kills": "117",
+            "name": "carpe",
+            "team": "T1"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n1.40\n1.04",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "164\n186\n142",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "10\n3\n7",
+            "kills": "263",
+            "name": "valyn",
+            "team": "The Guard"
+          },
+          {
+            "acs": "1.06\n0.71\n1.40",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "151\n116\n187",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "250",
+            "name": "tex",
+            "team": "The Guard"
+          },
+          {
+            "acs": "1.04\n1.04\n1.04",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "140\n122\n159",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "199",
+            "name": "JonahP",
+            "team": "The Guard"
+          },
+          {
+            "acs": "0.93\n1.18\n0.68",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "134\n169\n100",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "184",
+            "name": "trent",
+            "team": "The Guard"
+          },
+          {
+            "acs": "0.55\n0.59\n0.51",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "54\n33\n76",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "77",
+            "name": "neT",
+            "team": "The Guard"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "287",
+          "name": "xeta",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "Sayaplayer",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Munchkin",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "ban",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "carpe",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "JonahP",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "valyn",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "trent",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "tex",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "neT",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.55\n0.89\n1.26",
+            "adr": "+9\n+14\n-5",
+            "agent": "",
+            "assists": "/\n\n43\n21\n22\n\n/",
+            "deaths": "52\n35\n17",
+            "fk": "156\n179\n128",
+            "hs%": "88%\n100%\n71%",
+            "kdr": "39\n31\n8",
+            "kills": "287",
+            "name": "xeta",
+            "team": null
+          },
+          {
+            "acs": "1.28\n1.02\n1.16",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "55\n33\n22",
+            "fk": "157\n171\n140",
+            "hs%": "80%\n81%\n79%",
+            "kdr": "18\n12\n6",
+            "kills": "262",
+            "name": "Sayaplayer",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.81\n0.97",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "46\n27\n19",
+            "fk": "136\n133\n139",
+            "hs%": "69%\n75%\n61%",
+            "kdr": "13\n9\n4",
+            "kills": "209",
+            "name": "Munchkin",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.52\n0.72",
+            "adr": "-13\n-2\n-11",
+            "agent": "",
+            "assists": "/\n\n41\n21\n20\n\n/",
+            "deaths": "28\n19\n9",
+            "fk": "81\n91\n68",
+            "hs%": "66%\n72%\n57%",
+            "kdr": "19\n14\n5",
+            "kills": "141",
+            "name": "ban",
+            "team": null
+          },
+          {
+            "acs": "0.65\n0.71\n0.68",
+            "adr": "-16\n-9\n-7",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "29\n17\n12",
+            "fk": "88\n94\n82",
+            "hs%": "73%\n75%\n71%",
+            "kdr": "18\n11\n7",
+            "kills": "143",
+            "name": "carpe",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n1.10\n1.21",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n37\n15\n22\n\n/",
+            "deaths": "48\n23\n25",
+            "fk": "137\n142\n134",
+            "hs%": "72%\n86%\n61%",
+            "kdr": "17\n7\n10",
+            "kills": "224",
+            "name": "JonahP",
+            "team": null
+          },
+          {
+            "acs": "1.38\n0.94\n1.13",
+            "adr": "+3\n+8\n-5",
+            "agent": "",
+            "assists": "/\n\n42\n14\n28\n\n/",
+            "deaths": "45\n22\n23",
+            "fk": "144\n161\n131",
+            "hs%": "73%\n86%\n64%",
+            "kdr": "24\n9\n15",
+            "kills": "227",
+            "name": "valyn",
+            "team": null
+          },
+          {
+            "acs": "1.21\n0.99\n1.09",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n42\n16\n26\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "141\n137\n145",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "24\n11\n13",
+            "kills": "209",
+            "name": "trent",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.02\n0.99",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n49\n22\n27\n\n/",
+            "deaths": "50\n24\n26",
+            "fk": "144\n157\n135",
+            "hs%": "69%\n68%\n69%",
+            "kdr": "7\n1\n6",
+            "kills": "248",
+            "name": "tex",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.76\n0.83",
+            "adr": "-5\n+4\n-9",
+            "agent": "",
+            "assists": "/\n\n40\n14\n26\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "103\n96\n109",
+            "hs%": "72%\n75%\n69%",
+            "kdr": "5\n0\n5",
+            "kills": "162",
+            "name": "neT",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "306",
+          "name": "Sayaplayer",
+          "team": "T1"
+        },
+        {
+          "kills": "156",
+          "name": "xeta",
+          "team": "T1"
+        },
+        {
+          "kills": "233",
+          "name": "Munchkin",
+          "team": "T1"
+        },
+        {
+          "kills": "80",
+          "name": "ban",
+          "team": "T1"
+        },
+        {
+          "kills": "108",
+          "name": "carpe",
+          "team": "T1"
+        },
+        {
+          "kills": "211",
+          "name": "JonahP",
+          "team": "The Guard"
+        },
+        {
+          "kills": "208",
+          "name": "tex",
+          "team": "The Guard"
+        },
+        {
+          "kills": "282",
+          "name": "trent",
+          "team": "The Guard"
+        },
+        {
+          "kills": "180",
+          "name": "valyn",
+          "team": "The Guard"
+        },
+        {
+          "kills": "118",
+          "name": "neT",
+          "team": "The Guard"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.30\n1.31",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "183\n173\n199",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "7\n3\n4",
+            "kills": "306",
+            "name": "Sayaplayer",
+            "team": "T1"
+          },
+          {
+            "acs": "1.31\n1.81\n0.55",
+            "adr": "+2\n+6\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "167\n210\n103",
+            "hs%": "80%\n100%\n50%",
+            "kdr": "11\n10\n1",
+            "kills": "156",
+            "name": "xeta",
+            "team": "T1"
+          },
+          {
+            "acs": "1.04\n1.23\n0.75",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "138\n131\n149",
+            "hs%": "85%\n92%\n75%",
+            "kdr": "7\n6\n1",
+            "kills": "233",
+            "name": "Munchkin",
+            "team": "T1"
+          },
+          {
+            "acs": "0.47\n0.71\n0.10",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "87\n109\n53",
+            "hs%": "45%\n67%\n13%",
+            "kdr": "2\n2\n0",
+            "kills": "80",
+            "name": "ban",
+            "team": "T1"
+          },
+          {
+            "acs": "0.44\n0.47\n0.40",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "94\n113\n64",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "5\n2\n3",
+            "kills": "108",
+            "name": "carpe",
+            "team": "T1"
+          }
+        ],
+        [
+          {
+            "acs": "1.61\n1.78\n1.50",
+            "adr": "+10\n+6\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "179\n205\n162",
+            "hs%": "75%\n100%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "211",
+            "name": "JonahP",
+            "team": "The Guard"
+          },
+          {
+            "acs": "1.21\n1.75\n0.85",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "184\n260\n133",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "208",
+            "name": "tex",
+            "team": "The Guard"
+          },
+          {
+            "acs": "1.16\n1.07\n1.22",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "167\n124\n196",
+            "hs%": "65%\n50%\n75%",
+            "kdr": "9\n2\n7",
+            "kills": "282",
+            "name": "trent",
+            "team": "The Guard"
+          },
+          {
+            "acs": "0.93\n0.90\n0.95",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "110\n88\n126",
+            "hs%": "70%\n88%\n58%",
+            "kdr": "6\n1\n5",
+            "kills": "180",
+            "name": "valyn",
+            "team": "The Guard"
+          },
+          {
+            "acs": "0.61\n1.00\n0.35",
+            "adr": "-5\n+3\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "113\n150\n88",
+            "hs%": "75%\n100%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "118",
+            "name": "neT",
+            "team": "The Guard"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "199",
+          "name": "xeta",
+          "team": "T1"
+        },
+        {
+          "kills": "198",
+          "name": "Sayaplayer",
+          "team": "T1"
+        },
+        {
+          "kills": "244",
+          "name": "Munchkin",
+          "team": "T1"
+        },
+        {
+          "kills": "145",
+          "name": "carpe",
+          "team": "T1"
+        },
+        {
+          "kills": "85",
+          "name": "ban",
+          "team": "T1"
+        },
+        {
+          "kills": "250",
+          "name": "neT",
+          "team": "The Guard"
+        },
+        {
+          "kills": "207",
+          "name": "valyn",
+          "team": "The Guard"
+        },
+        {
+          "kills": "209",
+          "name": "trent",
+          "team": "The Guard"
+        },
+        {
+          "kills": "139",
+          "name": "JonahP",
+          "team": "The Guard"
+        },
+        {
+          "kills": "146",
+          "name": "tex",
+          "team": "The Guard"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.99\n1.33\n0.47",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "13\n12\n1",
+            "fk": "129\n182\n50",
+            "hs%": "90%\n100%\n75%",
+            "kdr": "12\n10\n2",
+            "kills": "199",
+            "name": "xeta",
+            "team": "T1"
+          },
+          {
+            "acs": "0.98\n1.44\n0.28",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "130\n172\n68",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "198",
+            "name": "Sayaplayer",
+            "team": "T1"
+          },
+          {
+            "acs": "0.95\n0.97\n0.91",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "156\n142\n178",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "244",
+            "name": "Munchkin",
+            "team": "T1"
+          },
+          {
+            "acs": "0.94\n0.70\n1.30",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "97\n70\n137",
+            "hs%": "75%\n67%\n88%",
+            "kdr": "6\n4\n2",
+            "kills": "145",
+            "name": "carpe",
+            "team": "T1"
+          },
+          {
+            "acs": "0.66\n0.71\n0.58",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "66\n70\n59",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "10\n9\n1",
+            "kills": "85",
+            "name": "ban",
+            "team": "T1"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n1.33\n1.42",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "152\n137\n162",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "250",
+            "name": "neT",
+            "team": "The Guard"
+          },
+          {
+            "acs": "1.24\n1.82\n0.84",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "154\n198\n125",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "207",
+            "name": "valyn",
+            "team": "The Guard"
+          },
+          {
+            "acs": "1.21\n1.42\n1.07",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "124\n102\n139",
+            "hs%": "90%\n100%\n83%",
+            "kdr": "11\n7\n4",
+            "kills": "209",
+            "name": "trent",
+            "team": "The Guard"
+          },
+          {
+            "acs": "1.00\n1.37\n0.75",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "92\n111\n80",
+            "hs%": "70%\n100%\n50%",
+            "kdr": "5\n2\n3",
+            "kills": "139",
+            "name": "JonahP",
+            "team": "The Guard"
+          },
+          {
+            "acs": "0.69\n0.50\n0.82",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "96\n115\n84",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "146",
+            "name": "tex",
+            "team": "The Guard"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 166330,
+  "teams": [
+    "T1",
+    "The Guard"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tUpper Semifinals"
+}

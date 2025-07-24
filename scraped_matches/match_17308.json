@@ -1,0 +1,594 @@
+{
+  "date": "2021-04-24 02:15:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "252",
+          "name": "Maiko",
+          "team": "Feeling"
+        },
+        {
+          "kills": "177",
+          "name": "Kyonn",
+          "team": "Feeling"
+        },
+        {
+          "kills": "127",
+          "name": "Osanpo",
+          "team": "Feeling"
+        },
+        {
+          "kills": "181",
+          "name": "Misaya",
+          "team": "Feeling"
+        },
+        {
+          "kills": "116",
+          "name": "Art",
+          "team": "Feeling"
+        },
+        {
+          "kills": "301",
+          "name": "CLZ",
+          "team": "FENNEL"
+        },
+        {
+          "kills": "241",
+          "name": "2zzy",
+          "team": "FENNEL"
+        },
+        {
+          "kills": "260",
+          "name": "Jinx",
+          "team": "FENNEL"
+        },
+        {
+          "kills": "225",
+          "name": "Tonbo",
+          "team": "FENNEL"
+        },
+        {
+          "kills": "150",
+          "name": "envy",
+          "team": "FENNEL"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.04\n0.54\n1.24",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "144\n56\n181",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "252",
+            "name": "Maiko",
+            "team": "Feeling"
+          },
+          {
+            "acs": "0.89\n0.71\n0.96",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "118\n98\n126",
+            "hs%": "65%\n40%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "177",
+            "name": "Kyonn",
+            "team": "Feeling"
+          },
+          {
+            "acs": "0.66\n0.17\n0.87",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "92\n44\n112",
+            "hs%": "53%\n20%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "127",
+            "name": "Osanpo",
+            "team": "Feeling"
+          },
+          {
+            "acs": "0.61\n0.02\n0.91",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "120\n46\n151",
+            "hs%": "59%\n40%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "181",
+            "name": "Misaya",
+            "team": "Feeling"
+          },
+          {
+            "acs": "0.52\n0.81\n0.39",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "71\n96\n61",
+            "hs%": "59%\n80%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "116",
+            "name": "Art",
+            "team": "Feeling"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.76\n1.13",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "200\n226\n138",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "301",
+            "name": "CLZ",
+            "team": "FENNEL"
+          },
+          {
+            "acs": "1.40\n0.80\n2.83",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "162\n111\n287",
+            "hs%": "76%\n67%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "241",
+            "name": "2zzy",
+            "team": "FENNEL"
+          },
+          {
+            "acs": "1.22\n1.11\n1.48",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "147\n173\n86",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "260",
+            "name": "Jinx",
+            "team": "FENNEL"
+          },
+          {
+            "acs": "1.07\n0.98\n1.28",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "142\n154\n116",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "225",
+            "name": "Tonbo",
+            "team": "FENNEL"
+          },
+          {
+            "acs": "0.99\n1.05\n0.85",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "106\n122\n69",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "4\n3\n1",
+            "kills": "150",
+            "name": "envy",
+            "team": "FENNEL"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "208",
+          "name": "Maiko",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "Art",
+          "team": null
+        },
+        {
+          "kills": "154",
+          "name": "Kyonn",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Osanpo",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Misaya",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "2zzy",
+          "team": null
+        },
+        {
+          "kills": "244",
+          "name": "Jinx",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "Tonbo",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "envy",
+          "team": null
+        },
+        {
+          "kills": "260",
+          "name": "CLZ",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.81\n1.12\n0.99",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "33\n13\n20",
+            "fk": "143\n114\n163",
+            "hs%": "71%\n59%\n79%",
+            "kdr": "5\n2\n3",
+            "kills": "208",
+            "name": "Maiko",
+            "team": null
+          },
+          {
+            "acs": "0.68\n0.83\n0.77",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n34\n15\n19\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "115\n112\n117",
+            "hs%": "63%\n65%\n63%",
+            "kdr": "10\n5\n5",
+            "kills": "178",
+            "name": "Art",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.83\n0.77",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n35\n15\n20\n\n/",
+            "deaths": "27\n10\n17",
+            "fk": "122\n103\n135",
+            "hs%": "66%\n65%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "154",
+            "name": "Kyonn",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.60\n0.72",
+            "adr": "-13\n-4\n-9",
+            "agent": "",
+            "assists": "/\n\n32\n13\n19\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "92\n103\n85",
+            "hs%": "49%\n47%\n50%",
+            "kdr": "12\n6\n6",
+            "kills": "157",
+            "name": "Osanpo",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.56\n0.70",
+            "adr": "-11\n-2\n-9",
+            "agent": "",
+            "assists": "/\n\n33\n11\n22\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "100\n97\n101",
+            "hs%": "59%\n65%\n54%",
+            "kdr": "5\n2\n3",
+            "kills": "157",
+            "name": "Misaya",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n1.34\n1.27",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "32\n19\n13",
+            "fk": "129\n120\n141",
+            "hs%": "73%\n75%\n71%",
+            "kdr": "14\n6\n8",
+            "kills": "199",
+            "name": "2zzy",
+            "team": null
+          },
+          {
+            "acs": "1.12\n1.35\n1.21",
+            "adr": "+16\n+6\n+10",
+            "agent": "",
+            "assists": "/\n\n25\n16\n9\n\n/",
+            "deaths": "41\n22\n19",
+            "fk": "158\n153\n165",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "5\n2\n3",
+            "kills": "244",
+            "name": "Jinx",
+            "team": null
+          },
+          {
+            "acs": "1.16\n1.21\n1.18",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n26\n16\n10\n\n/",
+            "deaths": "33\n19\n14",
+            "fk": "133\n125\n144",
+            "hs%": "80%\n79%\n82%",
+            "kdr": "15\n7\n8",
+            "kills": "220",
+            "name": "Tonbo",
+            "team": null
+          },
+          {
+            "acs": "1.04\n1.29\n1.14",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n23\n14\n9\n\n/",
+            "deaths": "30\n15\n15",
+            "fk": "123\n117\n132",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "11\n8\n3",
+            "kills": "186",
+            "name": "envy",
+            "team": null
+          },
+          {
+            "acs": "1.31\n0.83\n1.11",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n27\n16\n11\n\n/",
+            "deaths": "30\n22\n8",
+            "fk": "159\n178\n134",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "17\n6\n11",
+            "kills": "260",
+            "name": "CLZ",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "230",
+          "name": "Maiko",
+          "team": "Feeling"
+        },
+        {
+          "kills": "331",
+          "name": "Art",
+          "team": "Feeling"
+        },
+        {
+          "kills": "82",
+          "name": "Misaya",
+          "team": "Feeling"
+        },
+        {
+          "kills": "80",
+          "name": "Osanpo",
+          "team": "Feeling"
+        },
+        {
+          "kills": "221",
+          "name": "Kyonn",
+          "team": "Feeling"
+        },
+        {
+          "kills": "246",
+          "name": "Tonbo",
+          "team": "FENNEL"
+        },
+        {
+          "kills": "265",
+          "name": "envy",
+          "team": "FENNEL"
+        },
+        {
+          "kills": "294",
+          "name": "Jinx",
+          "team": "FENNEL"
+        },
+        {
+          "kills": "126",
+          "name": "2zzy",
+          "team": "FENNEL"
+        },
+        {
+          "kills": "189",
+          "name": "CLZ",
+          "team": "FENNEL"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.96\n0.92\n0.99",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "142\n138\n146",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "230",
+            "name": "Maiko",
+            "team": "Feeling"
+          },
+          {
+            "acs": "0.95\n0.62\n1.27",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "146\n118\n174",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "331",
+            "name": "Art",
+            "team": "Feeling"
+          },
+          {
+            "acs": "0.76\n1.30\n0.22",
+            "adr": "-4\n+3\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "85\n119\n51",
+            "hs%": "58%\n75%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "82",
+            "name": "Misaya",
+            "team": "Feeling"
+          },
+          {
+            "acs": "0.76\n1.17\n0.34",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "93\n127\n58",
+            "hs%": "46%\n58%\n33%",
+            "kdr": "6\n4\n2",
+            "kills": "80",
+            "name": "Osanpo",
+            "team": "Feeling"
+          },
+          {
+            "acs": "0.69\n0.68\n0.70",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "124\n105\n144",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "221",
+            "name": "Kyonn",
+            "team": "Feeling"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.34\n1.18",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "126\n96\n155",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "246",
+            "name": "Tonbo",
+            "team": "FENNEL"
+          },
+          {
+            "acs": "1.25\n1.02\n1.47",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "135\n112\n158",
+            "hs%": "92%\n92%\n92%",
+            "kdr": "7\n5\n2",
+            "kills": "265",
+            "name": "envy",
+            "team": "FENNEL"
+          },
+          {
+            "acs": "1.21\n1.12\n1.30",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "165\n133\n197",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "294",
+            "name": "Jinx",
+            "team": "FENNEL"
+          },
+          {
+            "acs": "1.18\n1.64\n0.72",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "105\n130\n80",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "9\n4\n5",
+            "kills": "126",
+            "name": "2zzy",
+            "team": "FENNEL"
+          },
+          {
+            "acs": "0.78\n0.86\n0.70",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "130\n129\n132",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "10\n3\n7",
+            "kills": "189",
+            "name": "CLZ",
+            "team": "FENNEL"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 17308,
+  "teams": [
+    "Feeling",
+    "FENNEL"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tGroup A"
+}

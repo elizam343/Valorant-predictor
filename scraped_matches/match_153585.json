@@ -1,0 +1,806 @@
+{
+  "date": "2022-10-20 13:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "226",
+          "name": "chanformer",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "302",
+          "name": "ARGENT",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "287",
+          "name": "szoren",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "218",
+          "name": "Gunners",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "121",
+          "name": "Geni",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "211",
+          "name": "Sosorry",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "223",
+          "name": "MonOkson",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "179",
+          "name": "ars",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "173",
+          "name": "end7my",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "65",
+          "name": "Check",
+          "team": "Gate Guards"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.59\n1.66\n1.47",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "157\n168\n140",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "10\n9\n1",
+            "kills": "226",
+            "name": "chanformer",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "1.37\n1.02\n1.90",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "204\n173\n251",
+            "hs%": "55%\n42%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "302",
+            "name": "ARGENT",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "1.25\n0.98\n1.65",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "185\n177\n197",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "287",
+            "name": "szoren",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "1.23\n1.34\n1.07",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "134\n144\n120",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "14\n10\n4",
+            "kills": "218",
+            "name": "Gunners",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "0.83\n0.76\n0.93",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "68\n94\n30",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "12\n5\n7",
+            "kills": "121",
+            "name": "Geni",
+            "team": "GOODFOR2"
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n1.09\n1.01",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "147\n139\n153",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "211",
+            "name": "Sosorry",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "0.93\n0.31\n1.33",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "132\n63\n178",
+            "hs%": "55%\n25%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "223",
+            "name": "MonOkson",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "0.87\n1.26\n0.61",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "98\n112\n90",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "6\n4\n2",
+            "kills": "179",
+            "name": "ars",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "0.72\n0.02\n1.29",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "11\n0\n11",
+            "fk": "111\n44\n156",
+            "hs%": "55%\n38%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "173",
+            "name": "end7my",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "0.26\n0.34\n0.20",
+            "adr": "-13\n-6\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "50\n65\n40",
+            "hs%": "45%\n38%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "65",
+            "name": "Check",
+            "team": "Gate Guards"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "218",
+          "name": "Gunners",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "chanformer",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "ARGENT",
+          "team": null
+        },
+        {
+          "kills": "252",
+          "name": "szoren",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "Geni",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "MonOkson",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "Tezos",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "ars",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "end7my",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "Sosorry",
+          "team": null
+        },
+        {
+          "kills": "84",
+          "name": "Check",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.20\n1.33\n1.26",
+            "adr": "+15\n+3\n+12",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "60\n29\n31",
+            "fk": "148\n133\n165",
+            "hs%": "78%\n74%\n82%",
+            "kdr": "39\n22\n17",
+            "kills": "218",
+            "name": "Gunners",
+            "team": null
+          },
+          {
+            "acs": "1.31\n1.00\n1.17",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "48\n27\n21",
+            "fk": "126\n144\n106",
+            "hs%": "75%\n76%\n74%",
+            "kdr": "40\n24\n16",
+            "kills": "216",
+            "name": "chanformer",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.27\n1.07",
+            "adr": "+8\n-2\n+10",
+            "agent": "",
+            "assists": "/\n\n49\n30\n19\n\n/",
+            "deaths": "57\n28\n29",
+            "fk": "151\n154\n148",
+            "hs%": "61%\n50%\n74%",
+            "kdr": "18\n9\n9",
+            "kills": "204",
+            "name": "ARGENT",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.26\n1.03",
+            "adr": "+8\n-2\n+10",
+            "agent": "",
+            "assists": "/\n\n56\n34\n22\n\n/",
+            "deaths": "64\n32\n32",
+            "fk": "165\n164\n165",
+            "hs%": "79%\n76%\n82%",
+            "kdr": "16\n9\n7",
+            "kills": "252",
+            "name": "szoren",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.09\n0.99",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n47\n28\n19\n\n/",
+            "deaths": "42\n23\n19",
+            "fk": "110\n100\n122",
+            "hs%": "79%\n74%\n85%",
+            "kdr": "38\n14\n24",
+            "kills": "174",
+            "name": "Geni",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.99\n1.30\n1.15",
+            "adr": "+7\n-3\n+10",
+            "agent": "",
+            "assists": "/\n\n52\n26\n26\n\n/",
+            "deaths": "59\n23\n36",
+            "fk": "163\n146\n178",
+            "hs%": "67%\n62%\n71%",
+            "kdr": "20\n9\n11",
+            "kills": "198",
+            "name": "MonOkson",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.10\n1.07",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n34\n17\n17\n\n/",
+            "deaths": "38\n17\n21",
+            "fk": "141\n147\n135",
+            "hs%": "63%\n54%\n73%",
+            "kdr": "5\n3\n2",
+            "kills": "199",
+            "name": "Tezos",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.93\n1.00",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n54\n24\n30\n\n/",
+            "deaths": "51\n25\n26",
+            "fk": "125\n117\n132",
+            "hs%": "67%\n59%\n74%",
+            "kdr": "23\n11\n12",
+            "kills": "197",
+            "name": "ars",
+            "team": null
+          },
+          {
+            "acs": "0.52\n1.23\n0.88",
+            "adr": "-7\n-14\n+7",
+            "agent": "",
+            "assists": "/\n\n60\n33\n27\n\n/",
+            "deaths": "53\n19\n34",
+            "fk": "140\n119\n160",
+            "hs%": "64%\n56%\n71%",
+            "kdr": "9\n3\n6",
+            "kills": "181",
+            "name": "end7my",
+            "team": null
+          },
+          {
+            "acs": "0.68\n0.73\n0.71",
+            "adr": "-16\n-8\n-8",
+            "agent": "",
+            "assists": "/\n\n54\n26\n28\n\n/",
+            "deaths": "38\n18\n20",
+            "fk": "103\n91\n113",
+            "hs%": "61%\n56%\n66%",
+            "kdr": "12\n4\n8",
+            "kills": "137",
+            "name": "Sosorry",
+            "team": null
+          },
+          {
+            "acs": "0.34\n0.20\n0.26",
+            "adr": "-13\n-6\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "50\n65\n40",
+            "hs%": "45%\n38%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "84",
+            "name": "Check",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "288",
+          "name": "ARGENT",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "274",
+          "name": "Geni",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "308",
+          "name": "Gunners",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "124",
+          "name": "chanformer",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "188",
+          "name": "szoren",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "439",
+          "name": "MonOkson",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "177",
+          "name": "Tezos",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "280",
+          "name": "ars",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "198",
+          "name": "end7my",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "108",
+          "name": "Sosorry",
+          "team": "Gate Guards"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.18\n1.75",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "183\n187\n179",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "10\n5\n5",
+            "kills": "288",
+            "name": "ARGENT",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "1.19\n0.92\n1.46",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "144\n128\n160",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "13\n6\n7",
+            "kills": "274",
+            "name": "Geni",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "0.94\n0.58\n1.31",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "153\n111\n195",
+            "hs%": "81%\n69%\n92%",
+            "kdr": "14\n5\n9",
+            "kills": "308",
+            "name": "Gunners",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "0.92\n0.90\n0.93",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "85\n98\n72",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "18\n6\n12",
+            "kills": "124",
+            "name": "chanformer",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "0.73\n0.31\n1.15",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "110\n100\n120",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "6\n3\n3",
+            "kills": "188",
+            "name": "szoren",
+            "team": "GOODFOR2"
+          }
+        ],
+        [
+          {
+            "acs": "1.60\n1.08\n2.13",
+            "adr": "+11\n-1\n+12",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "29\n9\n20",
+            "fk": "199\n140\n257",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "7\n4\n3",
+            "kills": "439",
+            "name": "MonOkson",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "0.99\n0.95\n1.02",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "123\n142\n104",
+            "hs%": "62%\n38%\n85%",
+            "kdr": "3\n1\n2",
+            "kills": "177",
+            "name": "Tezos",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "0.97\n0.54\n1.40",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "127\n76\n177",
+            "hs%": "65%\n38%\n92%",
+            "kdr": "11\n4\n7",
+            "kills": "280",
+            "name": "ars",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "0.78\n0.50\n1.06",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "123\n111\n134",
+            "hs%": "58%\n46%\n69%",
+            "kdr": "2\n1\n1",
+            "kills": "198",
+            "name": "end7my",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "0.54\n0.42\n0.66",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "66\n62\n70",
+            "hs%": "50%\n31%\n69%",
+            "kdr": "4\n1\n3",
+            "kills": "108",
+            "name": "Sosorry",
+            "team": "Gate Guards"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "257",
+          "name": "Gunners",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "317",
+          "name": "szoren",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "223",
+          "name": "chanformer",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "167",
+          "name": "Geni",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "117",
+          "name": "ARGENT",
+          "team": "GOODFOR2"
+        },
+        {
+          "kills": "240",
+          "name": "Tezos",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "209",
+          "name": "ars",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "291",
+          "name": "end7my",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "198",
+          "name": "MonOkson",
+          "team": "Gate Guards"
+        },
+        {
+          "kills": "138",
+          "name": "Sosorry",
+          "team": "Gate Guards"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.59\n1.69\n1.50",
+            "adr": "+13\n+8\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "153\n144\n163",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "11\n7\n4",
+            "kills": "257",
+            "name": "Gunners",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "1.17\n1.20\n1.14",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "28\n15\n13",
+            "fk": "204\n217\n191",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "7\n4\n3",
+            "kills": "317",
+            "name": "szoren",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "1.09\n1.40\n0.79",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "144\n168\n119",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "12\n9\n3",
+            "kills": "223",
+            "name": "chanformer",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "0.91\n0.99\n0.83",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "109\n78\n140",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "13\n3\n10",
+            "kills": "167",
+            "name": "Geni",
+            "team": "GOODFOR2"
+          },
+          {
+            "acs": "0.44\n0.49\n0.40",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "79\n104\n54",
+            "hs%": "50%\n46%\n54%",
+            "kdr": "4\n3\n1",
+            "kills": "117",
+            "name": "ARGENT",
+            "team": "GOODFOR2"
+          }
+        ],
+        [
+          {
+            "acs": "1.14\n1.10\n1.18",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "159\n152\n167",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "2\n2\n0",
+            "kills": "240",
+            "name": "Tezos",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "1.13\n1.52\n0.74",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "143\n161\n126",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "6\n3\n3",
+            "kills": "209",
+            "name": "ars",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "1.10\n0.85\n1.35",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "181\n172\n189",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "4\n1\n3",
+            "kills": "291",
+            "name": "end7my",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "0.88\n1.32\n0.44",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "150\n202\n98",
+            "hs%": "69%\n85%\n54%",
+            "kdr": "7\n4\n3",
+            "kills": "198",
+            "name": "MonOkson",
+            "team": "Gate Guards"
+          },
+          {
+            "acs": "0.61\n0.68\n0.55",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "105\n90\n120",
+            "hs%": "65%\n77%\n54%",
+            "kdr": "7\n3\n4",
+            "kills": "138",
+            "name": "Sosorry",
+            "team": "Gate Guards"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 153585,
+  "teams": [
+    "Gate Guards",
+    "GOODFOR2"
+  ],
+  "tournament": "EU Open Qualifier: \n\t\t\t\t\t\tRound of 64"
+}

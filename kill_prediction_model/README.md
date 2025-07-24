@@ -1,25 +1,28 @@
 # Valorant Kill Line Prediction Model
 
-A machine learning system for predicting whether Valorant players will go over or under their kill line in matches. The system uses player statistics from your existing database to make predictions with confidence levels.
+A machine learning system for predicting whether Valorant players will go over or under their kill line in matches. The system now uses series-level (per-match) player statistics, aggregating performance across maps, to make more context-aware predictions.
 
 ## Features
 
-- **Multi-Model Ensemble**: Combines Random Forest, Gradient Boosting, and Logistic Regression for robust predictions
+- **Series-Level Aggregation**: Learns from each match (series), capturing player performance across maps and map order effects
+- **Context-Rich Features**: Includes map order, agent selection, and team context for each map in a series
+- **Neural Network Training**: Supports deep learning models for richer pattern recognition
+- **Multi-Model Ensemble**: (Legacy) Combines Random Forest, Gradient Boosting, and Logistic Regression for robust predictions
 - **Confidence-Based Predictions**: Marks predictions as "unsure" when confidence is too low
 - **Comprehensive Analysis**: Player performance analysis, team comparisons, and historical tracking
 - **Betting Reports**: Generate detailed reports for betting decisions
 - **ROI Tracking**: Calculate return on investment for your predictions
-- **Interactive Mode**: Command-line interface for making predictions
 
 ## Project Structure
 
 ```
 kill_prediction_model/
 ├── __init__.py
-├── data_loader.py      # Database connection and data preprocessing
+├── data_loader.py      # (Legacy) Database connection and data preprocessing
+├── enhanced_data_loader.py # Series-level data aggregation and feature engineering
 ├── models.py          # ML models and prediction logic
-├── predictor.py       # Main prediction interface
-├── utils.py           # Analysis and evaluation utilities
+├── gpu_trainer.py     # Neural network training with series-level data
+├── advanced_matchup_predictor.py # Series-level prediction logic
 ├── main.py            # Command-line interface and examples
 ├── requirements.txt   # Python dependencies
 └── README.md         # This file
@@ -34,94 +37,56 @@ pip install -r requirements.txt
 
 2. Make sure your Valorant player database is accessible from the Scraper folder.
 
-## Quick Start
+## Series-Level Data Pipeline (New)
 
-### Basic Usage
+The new pipeline aggregates player stats per match (series), capturing:
+- Player performance for each map in order (first, second, etc.)
+- Agent played, map name, and side for each map
+- Series type (bo1, bo3, etc.), tournament, teams, and date
+- Target variable: total kills in the first two maps (for kill line bets)
 
-```python
-from kill_prediction_model.predictor import ValorantKillPredictor, KillLineBet
+### Example Feature Vector
+- kills_map1, kills_map2, agent_map1, agent_map2, map1_name, map2_name, side_map1, side_map2, ...
+- series_type, tournament, player_name, team, opponent_team
+- total_kills_first2 (target)
 
-# Initialize predictor
-predictor = ValorantKillPredictor(use_ensemble=True)
+### Data Preparation
+The `EnhancedDataLoader` class provides `create_series_level_dataset()` to produce a DataFrame with one row per player per match, with all relevant features and the target.
 
-# Create a betting opportunity
-bet = KillLineBet("TenZ", "Sentinels", "Cloud9", 18.5, "Ascent", "VCT Champions")
+## Training a Model (New)
 
-# Make prediction
-prediction = predictor.predict_kill_line(bet)
-print(f"Recommendation: {prediction.recommended_action}")
-print(f"Confidence: {prediction.confidence:.1%}")
-```
-
-### Training a Model
-
-```python
-# Prepare historical data
-historical_data = [
-    {
-        'player_name': 'TenZ',
-        'team': 'Sentinels',
-        'opponent_team': 'Cloud9',
-        'kill_line': 18.5,
-        'actual_kills': 22,
-        'map': 'Ascent',
-        'tournament': 'VCT Champions',
-        'date': '2024-01-15'
-    }
-    # Add more historical matches...
-]
-
-# Train the model
-predictor = ValorantKillPredictor()
-results = predictor.train_model(historical_data, save_path="models/kill_predictor.pkl")
-```
-
-### Command Line Usage
-
-Run the demo to see all features:
+Train a neural network on the new series-level dataset:
 ```bash
-python main.py --mode demo
+python kill_prediction_model/gpu_trainer.py --limit-matches 1000
 ```
+- The model and training report are saved in `kill_prediction_model/models/`.
+- You can increase `--limit-matches` or remove it to use all available data.
 
-Train a model:
-```bash
-python main.py --mode train --historical-data your_data.json
-```
+## Prediction (New)
 
-Interactive predictions:
+Use `advanced_matchup_predictor.py` to make series-level predictions:
 ```bash
-python main.py --mode interactive --model-path models/kill_predictor.pkl
+python kill_prediction_model/advanced_matchup_predictor.py
 ```
+- Edit the script to specify the player, series type, and kill line for the first two maps.
 
-Generate a betting report:
-```bash
-python main.py --mode report --model-path models/kill_predictor.pkl
-```
+## Legacy Usage
+
+The old per-map logic and ensemble models are still available for reference, but the recommended approach is to use the new series-level pipeline for both training and prediction.
 
 ## Model Types
 
-The system supports multiple machine learning approaches:
+- **Neural Network**: Learns from series-level, context-rich features (recommended)
+- **Random Forest, Gradient Boosting, Logistic Regression**: (Legacy) For comparison and ensemble
 
-1. **Random Forest**: Good for handling non-linear relationships
-2. **Gradient Boosting**: Excellent for complex patterns
-3. **Logistic Regression**: Interpretable and fast
-4. **Neural Network**: For deep learning approach
-5. **Ensemble**: Combines all models for best performance
+## Features Used (New)
 
-## Features Used
-
-The model uses the following player statistics:
-- Rating
-- Average Combat Score (ACS)
-- Kill/Death ratio
-- Kills per round
-- Assists per round
-- First kills per round
-- First deaths per round
-- Headshot percentage
-- Clutch success percentage
-- Team average statistics
-- Relative performance metrics
+- Kills, deaths, assists per map (ordered)
+- Agent played per map
+- Map name and order
+- Side (attack/defense) per map
+- Series type, tournament, teams
+- Aggregated/cumulative stats for first two maps
 
 ## Prediction Output
 
@@ -131,99 +96,20 @@ Each prediction includes:
 - **Probabilities**: Individual probabilities for over/under/unsure
 - **Recommended Action**: Clear betting recommendation
 
-## Confidence Thresholds
-
-- **High Confidence (≥70%)**: Strong betting recommendation
-- **Medium Confidence (60-70%)**: Moderate recommendation
-- **Low Confidence (<60%)**: Marked as "unsure" - avoid betting
-
 ## Historical Data Format
 
-Your historical data should be in this format:
-```json
-[
-  {
-    "player_name": "Player Name",
-    "team": "Team Name",
-    "opponent_team": "Opponent Team",
-    "kill_line": 18.5,
-    "actual_kills": 22,
-    "map": "Ascent",
-    "tournament": "VCT Champions",
-    "date": "2024-01-15"
-  }
-]
-```
-
-## Analysis Tools
-
-### Player Analysis
-```python
-from kill_prediction_model.utils import DataAnalyzer
-from kill_prediction_model.data_loader import DataLoader
-
-data_loader = DataLoader()
-analyzer = DataAnalyzer(data_loader)
-
-# Get top players
-top_players = analyzer.get_top_players('kills_per_round', 10)
-
-# Analyze specific player
-player_stats = predictor.analyze_player_history("TenZ", "Sentinels")
-```
-
-### ROI Calculation
-```python
-from kill_prediction_model.utils import ModelEvaluator
-
-# Calculate ROI for your predictions
-roi_results = ModelEvaluator.calculate_roi(predictions, actual_results, bet_amount=100)
-print(f"ROI: {roi_results['roi']:.1%}")
-```
-
-## Model Evaluation
-
-The system provides comprehensive evaluation metrics:
-- Accuracy
-- Classification reports
-- Confusion matrices
-- ROI calculations
-- Confidence distributions
-
-## Best Practices
-
-1. **Data Quality**: Ensure your player database is up-to-date
-2. **Historical Data**: Collect as much historical kill line data as possible
-3. **Regular Retraining**: Retrain models with new data periodically
-4. **Confidence Filtering**: Only bet on high-confidence predictions
-5. **Bankroll Management**: Never bet more than you can afford to lose
+No change, but now the model expects series-level aggregation. See the new data loader for details.
 
 ## Troubleshooting
 
-### Common Issues
-
-1. **Player Not Found**: Make sure the player exists in your database
-2. **Database Connection**: Verify the path to your SQLite database
-3. **Missing Dependencies**: Install all required packages
-4. **Low Confidence**: This is normal - the model is being conservative
-
-### Getting Help
-
-If you encounter issues:
-1. Check that your database path is correct
-2. Verify all dependencies are installed
-3. Ensure your historical data format is correct
-4. Check the console output for error messages
+- If you see errors about missing directories, ensure `kill_prediction_model/models/` exists.
+- If you see NaN predictions, check that the player and match context exist in your data and that all features are present.
 
 ## Future Enhancements
 
-Potential improvements for the system:
-- Real-time data integration
-- Advanced feature engineering
-- Deep learning models
-- Web interface
-- API endpoints
-- Mobile app integration
+- Add team map preferences, agent pool, and side performance as features
+- Support for new maps and evolving meta
+- Real-time data integration and web/API interface
 
 ## License
 

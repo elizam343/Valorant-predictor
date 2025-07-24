@@ -1,0 +1,788 @@
+{
+  "date": "2022-03-10 11:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "273",
+          "name": "SH0UTyy",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "208",
+          "name": "Pjotr",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "203",
+          "name": "Hasaa",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "191",
+          "name": "ROUSIK",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "183",
+          "name": "marteen",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "250",
+          "name": "grubinho",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "297",
+          "name": "Stix",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "191",
+          "name": "Katu",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "157",
+          "name": "saiko",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "81",
+          "name": "YouBreak",
+          "team": "AWARIA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.41\n2.50\n0.60",
+            "adr": "+9\n+13\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "22\n17\n5",
+            "fk": "170\n280\n88",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "9\n4\n5",
+            "kills": "273",
+            "name": "SH0UTyy",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "1.20\n1.49\n0.98",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "164\n157\n169",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "208",
+            "name": "Pjotr",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "1.15\n0.75\n1.44",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "133\n101\n157",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "203",
+            "name": "Hasaa",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "0.95\n0.37\n1.39",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "135\n101\n161",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "191",
+            "name": "ROUSIK",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "0.82\n1.32\n0.45",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "123\n183\n79",
+            "hs%": "67%\n89%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "183",
+            "name": "marteen",
+            "team": "Entropiq"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n1.77\n0.88",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "166\n200\n122",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "2\n1\n1",
+            "kills": "250",
+            "name": "grubinho",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "1.34\n1.44\n1.21",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "187\n190\n183",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "9\n5\n4",
+            "kills": "297",
+            "name": "Stix",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.84\n1.21\n0.35",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "138\n168\n99",
+            "hs%": "71%\n92%\n44%",
+            "kdr": "3\n2\n1",
+            "kills": "191",
+            "name": "Katu",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.63\n0.70\n0.55",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "112\n116\n107",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "5\n2\n3",
+            "kills": "157",
+            "name": "saiko",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.34\n0.16\n0.58",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "4\n0\n4",
+            "fk": "63\n33\n103",
+            "hs%": "52%\n58%\n44%",
+            "kdr": "4\n2\n2",
+            "kills": "81",
+            "name": "YouBreak",
+            "team": "AWARIA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "279",
+          "name": "Hasaa",
+          "team": null
+        },
+        {
+          "kills": "154",
+          "name": "ROUSIK",
+          "team": null
+        },
+        {
+          "kills": "231",
+          "name": "SH0UTyy",
+          "team": null
+        },
+        {
+          "kills": "267",
+          "name": "marteen",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "Pjotr",
+          "team": null
+        },
+        {
+          "kills": "257",
+          "name": "grubinho",
+          "team": null
+        },
+        {
+          "kills": "246",
+          "name": "Stix",
+          "team": null
+        },
+        {
+          "kills": "266",
+          "name": "Katu",
+          "team": null
+        },
+        {
+          "kills": "242",
+          "name": "saiko",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "YouBreak",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.66\n1.20\n1.40",
+            "adr": "+21\n+17\n+4",
+            "agent": "",
+            "assists": "/\n\n44\n14\n30\n\n/",
+            "deaths": "65\n31\n34",
+            "fk": "177\n178\n176",
+            "hs%": "72%\n76%\n69%",
+            "kdr": "16\n8\n8",
+            "kills": "279",
+            "name": "Hasaa",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.10\n0.99",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n43\n17\n26\n\n/",
+            "deaths": "37\n14\n23",
+            "fk": "134\n107\n156",
+            "hs%": "75%\n69%\n81%",
+            "kdr": "21\n8\n13",
+            "kills": "154",
+            "name": "ROUSIK",
+            "team": null
+          },
+          {
+            "acs": "1.25\n0.75\n0.97",
+            "adr": "0\n+11\n-11",
+            "agent": "",
+            "assists": "/\n\n46\n15\n31\n\n/",
+            "deaths": "46\n26\n20",
+            "fk": "131\n145\n120",
+            "hs%": "74%\n79%\n69%",
+            "kdr": "20\n8\n12",
+            "kills": "231",
+            "name": "SH0UTyy",
+            "team": null
+          },
+          {
+            "acs": "1.29\n0.60\n0.91",
+            "adr": "-6\n+9\n-15",
+            "agent": "",
+            "assists": "/\n\n51\n19\n32\n\n/",
+            "deaths": "45\n28\n17",
+            "fk": "130\n169\n98",
+            "hs%": "71%\n83%\n61%",
+            "kdr": "11\n6\n5",
+            "kills": "267",
+            "name": "marteen",
+            "team": null
+          },
+          {
+            "acs": "1.04\n0.73\n0.86",
+            "adr": "-9\n+2\n-11",
+            "agent": "",
+            "assists": "/\n\n45\n17\n28\n\n/",
+            "deaths": "36\n19\n17",
+            "fk": "114\n116\n113",
+            "hs%": "72%\n76%\n69%",
+            "kdr": "20\n9\n11",
+            "kills": "186",
+            "name": "Pjotr",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n0.94\n1.24",
+            "adr": "+10\n+14\n-4",
+            "agent": "",
+            "assists": "/\n\n44\n20\n24\n\n/",
+            "deaths": "54\n34\n20",
+            "fk": "161\n181\n135",
+            "hs%": "75%\n81%\n69%",
+            "kdr": "19\n17\n2",
+            "kills": "257",
+            "name": "grubinho",
+            "team": null
+          },
+          {
+            "acs": "1.37\n0.86\n1.14",
+            "adr": "+8\n+11\n-3",
+            "agent": "",
+            "assists": "/\n\n42\n21\n21\n\n/",
+            "deaths": "50\n32\n18",
+            "fk": "144\n156\n128",
+            "hs%": "80%\n86%\n72%",
+            "kdr": "21\n14\n7",
+            "kills": "246",
+            "name": "Stix",
+            "team": null
+          },
+          {
+            "acs": "1.25\n0.75\n1.02",
+            "adr": "+5\n+12\n-7",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "50\n35\n15",
+            "fk": "152\n176\n121",
+            "hs%": "68%\n81%\n52%",
+            "kdr": "11\n5\n6",
+            "kills": "266",
+            "name": "Katu",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.64\n0.83",
+            "adr": "-5\n+4\n-9",
+            "agent": "",
+            "assists": "/\n\n53\n28\n25\n\n/",
+            "deaths": "48\n32\n16",
+            "fk": "134\n155\n108",
+            "hs%": "66%\n75%\n55%",
+            "kdr": "11\n6\n5",
+            "kills": "242",
+            "name": "saiko",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.50\n0.64",
+            "adr": "-18\n-8\n-10",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "82\n84\n78",
+            "hs%": "63%\n72%\n52%",
+            "kdr": "13\n10\n3",
+            "kills": "121",
+            "name": "YouBreak",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "268",
+          "name": "Hasaa",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "147",
+          "name": "marteen",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "180",
+          "name": "ROUSIK",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "223",
+          "name": "SH0UTyy",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "167",
+          "name": "Pjotr",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "151",
+          "name": "Katu",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "294",
+          "name": "grubinho",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "235",
+          "name": "saiko",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "156",
+          "name": "YouBreak",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "100",
+          "name": "Stix",
+          "team": "AWARIA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.45\n2.02\n0.92",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "174\n185\n164",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "268",
+            "name": "Hasaa",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "0.94\n1.42\n0.49",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "139\n180\n101",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "147",
+            "name": "marteen",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "0.92\n0.80\n1.03",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "110\n99\n120",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "180",
+            "name": "ROUSIK",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "0.75\n0.57\n0.91",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "115\n86\n142",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "223",
+            "name": "SH0UTyy",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "0.63\n0.63\n0.62",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "111\n118\n105",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "9\n5\n4",
+            "kills": "167",
+            "name": "Pjotr",
+            "team": "Entropiq"
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n1.78\n0.65",
+            "adr": "+7\n+9\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "21\n16\n5",
+            "fk": "169\n225\n108",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "5\n1\n4",
+            "kills": "151",
+            "name": "Katu",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "1.23\n1.10\n1.37",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "184\n168\n202",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "3\n3\n0",
+            "kills": "294",
+            "name": "grubinho",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "1.02\n1.11\n0.93",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "173\n204\n140",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "5\n3\n2",
+            "kills": "235",
+            "name": "saiko",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.84\n1.02\n0.64",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "96\n104\n87",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "2\n1\n1",
+            "kills": "156",
+            "name": "YouBreak",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.69\n0.91\n0.46",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "77\n90\n62",
+            "hs%": "78%\n92%\n64%",
+            "kdr": "6\n4\n2",
+            "kills": "100",
+            "name": "Stix",
+            "team": "AWARIA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "339",
+          "name": "Hasaa",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "216",
+          "name": "ROUSIK",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "202",
+          "name": "marteen",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "126",
+          "name": "Pjotr",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "152",
+          "name": "SH0UTyy",
+          "team": "Entropiq"
+        },
+        {
+          "kills": "250",
+          "name": "Stix",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "199",
+          "name": "grubinho",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "222",
+          "name": "Katu",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "188",
+          "name": "saiko",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "135",
+          "name": "YouBreak",
+          "team": "AWARIA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.61\n2.11\n1.24",
+            "adr": "+9\n+9\n0",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "224\n246\n207",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "339",
+            "name": "Hasaa",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "1.10\n1.37\n0.89",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "159\n123\n186",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "11\n4\n7",
+            "kills": "216",
+            "name": "ROUSIK",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "0.96\n1.09\n0.87",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "126\n142\n114",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "202",
+            "name": "marteen",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "0.79\n1.07\n0.58",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "68\n71\n66",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "126",
+            "name": "Pjotr",
+            "team": "Entropiq"
+          },
+          {
+            "acs": "0.77\n0.82\n0.73",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "108\n81\n128",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "9\n3\n6",
+            "kills": "152",
+            "name": "SH0UTyy",
+            "team": "Entropiq"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n1.77\n0.99",
+            "adr": "+9\n+9\n0",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "21\n15\n6",
+            "fk": "173\n188\n154",
+            "hs%": "81%\n92%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "250",
+            "name": "Stix",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "1.12\n1.60\n0.48",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "129\n176\n67",
+            "hs%": "76%\n100%\n44%",
+            "kdr": "14\n13\n1",
+            "kills": "199",
+            "name": "grubinho",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.98\n0.76\n1.27",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "146\n135\n161",
+            "hs%": "57%\n67%\n44%",
+            "kdr": "3\n2\n1",
+            "kills": "222",
+            "name": "Katu",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.82\n1.15\n0.38",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "114\n145\n72",
+            "hs%": "57%\n67%\n44%",
+            "kdr": "1\n1\n0",
+            "kills": "188",
+            "name": "saiko",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.72\n1.07\n0.25",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "85\n116\n44",
+            "hs%": "67%\n83%\n44%",
+            "kdr": "7\n7\n0",
+            "kills": "135",
+            "name": "YouBreak",
+            "team": "AWARIA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 71033,
+  "teams": [
+    "AWARIA",
+    "Entropiq"
+  ],
+  "tournament": "Regular Season: \n\t\t\t\t\t\tWeek 4"
+}

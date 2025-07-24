@@ -1,0 +1,788 @@
+{
+  "date": "2022-12-10 04:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "252",
+          "name": "Yuicaw",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "244",
+          "name": "AAAAY",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "212",
+          "name": "BerLIN",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "198",
+          "name": "YuChEn",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "128",
+          "name": "nizhaoTZH",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "279",
+          "name": "Link",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "242",
+          "name": "FFs",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "221",
+          "name": "maizi",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "227",
+          "name": "balua",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "128",
+          "name": "BEWATER",
+          "team": "Monarch Effect"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.19\n1.08\n1.31",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "166\n178\n153",
+            "hs%": "61%\n50%\n73%",
+            "kdr": "3\n3\n0",
+            "kills": "252",
+            "name": "Yuicaw",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.14\n1.22\n1.05",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "151\n124\n181",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "6\n3\n3",
+            "kills": "244",
+            "name": "AAAAY",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.03\n0.88\n1.20",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "143\n144\n143",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "10\n3\n7",
+            "kills": "212",
+            "name": "BerLIN",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.97\n0.97\n0.98",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "134\n139\n129",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "7\n3\n4",
+            "kills": "198",
+            "name": "YuChEn",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.56\n0.29\n0.85",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "87\n35\n145",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "7\n4\n3",
+            "kills": "128",
+            "name": "nizhaoTZH",
+            "team": "FunPlus Phoenix ZHUQUE"
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.74\n1.26",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "182\n195\n169",
+            "hs%": "96%\n100%\n92%",
+            "kdr": "8\n5\n3",
+            "kills": "279",
+            "name": "Link",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "1.23\n0.86\n1.56",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "152\n122\n180",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "13\n3\n10",
+            "kills": "242",
+            "name": "FFs",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "0.96\n1.18\n0.75",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "139\n165\n115",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "221",
+            "name": "maizi",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "0.93\n0.87\n0.99",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "146\n127\n164",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "227",
+            "name": "balua",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "0.50\n0.07\n0.89",
+            "adr": "-7\n-9\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "83\n44\n120",
+            "hs%": "70%\n45%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "128",
+            "name": "BEWATER",
+            "team": "Monarch Effect"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "300",
+          "name": "Yuicaw",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "AAAAY",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "BerLIN",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "nizhaoTZH",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "YuChEn",
+          "team": null
+        },
+        {
+          "kills": "247",
+          "name": "Link",
+          "team": null
+        },
+        {
+          "kills": "214",
+          "name": "maizi",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "FFs",
+          "team": null
+        },
+        {
+          "kills": "234",
+          "name": "balua",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "BEWATER",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.44\n1.16\n1.28",
+            "adr": "+15\n+9\n+6",
+            "agent": "",
+            "assists": "/\n\n42\n20\n22\n\n/",
+            "deaths": "57\n29\n28",
+            "fk": "166\n199\n139",
+            "hs%": "73%\n71%\n74%",
+            "kdr": "10\n6\n4",
+            "kills": "300",
+            "name": "Yuicaw",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.42\n1.24",
+            "adr": "+13\n-1\n+14",
+            "agent": "",
+            "assists": "/\n\n43\n19\n24\n\n/",
+            "deaths": "56\n18\n38",
+            "fk": "154\n109\n190",
+            "hs%": "78%\n71%\n83%",
+            "kdr": "18\n8\n10",
+            "kills": "168",
+            "name": "AAAAY",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.21\n1.15",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n44\n20\n24\n\n/",
+            "deaths": "51\n21\n30",
+            "fk": "151\n154\n149",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "24\n8\n16",
+            "kills": "213",
+            "name": "BerLIN",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.84\n0.91",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n42\n17\n25\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "124\n113\n133",
+            "hs%": "78%\n79%\n77%",
+            "kdr": "17\n8\n9",
+            "kills": "160",
+            "name": "nizhaoTZH",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.71\n0.77",
+            "adr": "-12\n-3\n-9",
+            "agent": "",
+            "assists": "/\n\n45\n20\n25\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "117\n118\n116",
+            "hs%": "68%\n71%\n66%",
+            "kdr": "22\n8\n14",
+            "kills": "187",
+            "name": "YuChEn",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n0.89\n1.13",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n42\n25\n17\n\n/",
+            "deaths": "49\n30\n19",
+            "fk": "139\n153\n121",
+            "hs%": "73%\n80%\n64%",
+            "kdr": "15\n10\n5",
+            "kills": "247",
+            "name": "Link",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.79\n0.91",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n52\n30\n22\n\n/",
+            "deaths": "42\n23\n19",
+            "fk": "135\n141\n128",
+            "hs%": "63%\n69%\n57%",
+            "kdr": "17\n15\n2",
+            "kills": "214",
+            "name": "maizi",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.02\n0.91",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "40\n23\n17",
+            "fk": "113\n102\n127",
+            "hs%": "71%\n74%\n68%",
+            "kdr": "27\n9\n18",
+            "kills": "173",
+            "name": "FFs",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.66\n0.88",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n49\n28\n21\n\n/",
+            "deaths": "46\n29\n17",
+            "fk": "131\n139\n122",
+            "hs%": "75%\n77%\n71%",
+            "kdr": "8\n4\n4",
+            "kills": "234",
+            "name": "balua",
+            "team": null
+          },
+          {
+            "acs": "0.52\n1.09\n0.77",
+            "adr": "-10\n-16\n+6",
+            "agent": "",
+            "assists": "/\n\n49\n32\n17\n\n/",
+            "deaths": "39\n16\n23",
+            "fk": "112\n91\n139",
+            "hs%": "65%\n57%\n75%",
+            "kdr": "18\n13\n5",
+            "kills": "129",
+            "name": "BEWATER",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "217",
+          "name": "Yuicaw",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "257",
+          "name": "BerLIN",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "245",
+          "name": "nizhaoTZH",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "240",
+          "name": "AAAAY",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "119",
+          "name": "YuChEn",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "365",
+          "name": "BEWATER",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "200",
+          "name": "Link",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "269",
+          "name": "maizi",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "101",
+          "name": "FFs",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "148",
+          "name": "balua",
+          "team": "Monarch Effect"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.74\n1.22",
+            "adr": "+10\n+6\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "191\n250\n142",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "217",
+            "name": "Yuicaw",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.18\n0.95\n1.36",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "161\n146\n173",
+            "hs%": "82%\n70%\n92%",
+            "kdr": "8\n3\n5",
+            "kills": "257",
+            "name": "BerLIN",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.12\n0.99\n1.23",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "156\n137\n172",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "245",
+            "name": "nizhaoTZH",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.03\n0.77\n1.25",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "130\n109\n148",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "240",
+            "name": "AAAAY",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.46\n0.34\n0.56",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "78\n65\n88",
+            "hs%": "55%\n60%\n50%",
+            "kdr": "10\n3\n7",
+            "kills": "119",
+            "name": "YuChEn",
+            "team": "FunPlus Phoenix ZHUQUE"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n0.68\n1.77",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "141\n91\n202",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "7\n5\n2",
+            "kills": "365",
+            "name": "BEWATER",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "1.10\n1.24\n0.93",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "143\n168\n114",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "200",
+            "name": "Link",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "1.02\n0.97\n1.08",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "151\n136\n169",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "5\n4\n1",
+            "kills": "269",
+            "name": "maizi",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "0.70\n0.66\n0.75",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "76\n72\n80",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "9\n3\n6",
+            "kills": "101",
+            "name": "FFs",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "0.62\n0.76\n0.46",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "103\n112\n93",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "148",
+            "name": "balua",
+            "team": "Monarch Effect"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "275",
+          "name": "AAAAY",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "254",
+          "name": "BerLIN",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "186",
+          "name": "Yuicaw",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "194",
+          "name": "nizhaoTZH",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "200",
+          "name": "YuChEn",
+          "team": "FunPlus Phoenix ZHUQUE"
+        },
+        {
+          "kills": "248",
+          "name": "balua",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "184",
+          "name": "FFs",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "120",
+          "name": "Link",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "149",
+          "name": "maizi",
+          "team": "Monarch Effect"
+        },
+        {
+          "kills": "165",
+          "name": "BEWATER",
+          "team": "Monarch Effect"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.64\n1.09\n1.92",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "18\n3\n15",
+            "fk": "186\n79\n239",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "7\n4\n3",
+            "kills": "275",
+            "name": "AAAAY",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.27\n1.69\n1.06",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "150\n191\n129",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "254",
+            "name": "BerLIN",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.20\n1.64\n0.97",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "134\n158\n122",
+            "hs%": "78%\n100%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "186",
+            "name": "Yuicaw",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "1.09\n2.38\n0.44",
+            "adr": "+1\n+8\n-7",
+            "agent": "",
+            "assists": "/\n\n11\n1\n10\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "132\n230\n83",
+            "hs%": "83%\n100%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "194",
+            "name": "nizhaoTZH",
+            "team": "FunPlus Phoenix ZHUQUE"
+          },
+          {
+            "acs": "0.90\n1.46\n0.63",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "143\n162\n133",
+            "hs%": "78%\n100%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "200",
+            "name": "YuChEn",
+            "team": "FunPlus Phoenix ZHUQUE"
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n1.50\n0.35",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "147\n177\n88",
+            "hs%": "72%\n92%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "248",
+            "name": "balua",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "0.75\n0.92\n0.40",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "110\n115\n98",
+            "hs%": "78%\n92%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "184",
+            "name": "FFs",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "0.72\n1.04\n0.09",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "8\n8\n0",
+            "fk": "78\n100\n35",
+            "hs%": "56%\n75%\n17%",
+            "kdr": "3\n2\n1",
+            "kills": "120",
+            "name": "Link",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "0.71\n0.88\n0.38",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "110\n123\n85",
+            "hs%": "61%\n75%\n33%",
+            "kdr": "8\n8\n0",
+            "kills": "149",
+            "name": "maizi",
+            "team": "Monarch Effect"
+          },
+          {
+            "acs": "0.62\n0.77\n0.32",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "113\n134\n72",
+            "hs%": "56%\n67%\n33%",
+            "kdr": "5\n5\n0",
+            "kills": "165",
+            "name": "BEWATER",
+            "team": "Monarch Effect"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 159484,
+  "teams": [
+    "FunPlus Phoenix ZHUQUE",
+    "Monarch Effect"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tWeek 1"
+}

@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-18 10:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "276",
+          "name": "Jaxis",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "282",
+          "name": "Fredy",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "205",
+          "name": "xon1e",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "200",
+          "name": "emyranger",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "160",
+          "name": "Rouche",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "179",
+          "name": "jenz",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "240",
+          "name": "casyy",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "171",
+          "name": "sprits",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "129",
+          "name": "yago",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "150",
+          "name": "SecroNN",
+          "team": "\u015eAKLABANLAR"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.32\n1.11\n1.69",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "174\n162\n194",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "1\n0\n1",
+            "kills": "276",
+            "name": "Jaxis",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "1.32\n1.46\n1.09",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "174\n190\n147",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "3\n3\n0",
+            "kills": "282",
+            "name": "Fredy",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "1.13\n1.12\n1.15",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "151\n181\n98",
+            "hs%": "79%\n83%\n71%",
+            "kdr": "6\n6\n0",
+            "kills": "205",
+            "name": "xon1e",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "1.08\n0.81\n1.55",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "130\n97\n187",
+            "hs%": "79%\n67%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "200",
+            "name": "emyranger",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "0.99\n1.08\n0.84",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "124\n109\n152",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "3\n0\n3",
+            "kills": "160",
+            "name": "Rouche",
+            "team": "Never Give Up"
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n1.28\n1.04",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "128\n145\n118",
+            "hs%": "63%\n71%\n58%",
+            "kdr": "7\n5\n2",
+            "kills": "179",
+            "name": "jenz",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "1.01\n0.11\n1.53",
+            "adr": "-1\n-7\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n1\n14",
+            "fk": "151\n67\n200",
+            "hs%": "68%\n43%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "240",
+            "name": "casyy",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "0.71\n0.62\n0.77",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "116\n119\n115",
+            "hs%": "53%\n43%\n58%",
+            "kdr": "0\n0\n0",
+            "kills": "171",
+            "name": "sprits",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "0.62\n0.67\n0.60",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "103\n106\n102",
+            "hs%": "68%\n43%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "129",
+            "name": "yago",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "0.36\n0.85\n0.07",
+            "adr": "-9\n0\n-9",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "102\n145\n77",
+            "hs%": "47%\n71%\n33%",
+            "kdr": "1\n0\n1",
+            "kills": "150",
+            "name": "SecroNN",
+            "team": "\u015eAKLABANLAR"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "210",
+          "name": "emyranger",
+          "team": null
+        },
+        {
+          "kills": "246",
+          "name": "Fredy",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Jaxis",
+          "team": null
+        },
+        {
+          "kills": "273",
+          "name": "xon1e",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "Rouche",
+          "team": null
+        },
+        {
+          "kills": "234",
+          "name": "jenz",
+          "team": null
+        },
+        {
+          "kills": "271",
+          "name": "SecroNN",
+          "team": null
+        },
+        {
+          "kills": "249",
+          "name": "casyy",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "yago",
+          "team": null
+        },
+        {
+          "kills": "101",
+          "name": "sprits",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.04\n1.25\n1.15",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n39\n15\n24\n\n/",
+            "deaths": "50\n21\n29",
+            "fk": "159\n132\n181",
+            "hs%": "72%\n69%\n74%",
+            "kdr": "10\n4\n6",
+            "kills": "210",
+            "name": "emyranger",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.13\n1.13",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n38\n19\n19\n\n/",
+            "deaths": "47\n22\n25",
+            "fk": "142\n148\n137",
+            "hs%": "63%\n65%\n61%",
+            "kdr": "5\n3\n2",
+            "kills": "246",
+            "name": "Fredy",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.98\n0.98",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n38\n17\n21\n\n/",
+            "deaths": "44\n19\n25",
+            "fk": "139\n138\n140",
+            "hs%": "74%\n73%\n74%",
+            "kdr": "8\n4\n4",
+            "kills": "209",
+            "name": "Jaxis",
+            "team": null
+          },
+          {
+            "acs": "1.44\n0.47\n0.91",
+            "adr": "-1\n+11\n-12",
+            "agent": "",
+            "assists": "/\n\n37\n14\n23\n\n/",
+            "deaths": "36\n25\n11",
+            "fk": "128\n188\n77",
+            "hs%": "68%\n88%\n52%",
+            "kdr": "13\n12\n1",
+            "kills": "273",
+            "name": "xon1e",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.82\n0.85",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n40\n17\n23\n\n/",
+            "deaths": "32\n16\n16",
+            "fk": "119\n117\n121",
+            "hs%": "72%\n73%\n71%",
+            "kdr": "18\n5\n13",
+            "kills": "152",
+            "name": "Rouche",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n1.12\n1.26",
+            "adr": "+7\n+9\n-2",
+            "agent": "",
+            "assists": "/\n\n35\n17\n18\n\n/",
+            "deaths": "42\n26\n16",
+            "fk": "153\n170\n131",
+            "hs%": "75%\n84%\n65%",
+            "kdr": "21\n16\n5",
+            "kills": "234",
+            "name": "jenz",
+            "team": null
+          },
+          {
+            "acs": "1.44\n0.55\n1.04",
+            "adr": "-1\n+11\n-12",
+            "agent": "",
+            "assists": "/\n\n44\n20\n24\n\n/",
+            "deaths": "43\n31\n12",
+            "fk": "149\n182\n109",
+            "hs%": "65%\n74%\n54%",
+            "kdr": "11\n6\n5",
+            "kills": "271",
+            "name": "SecroNN",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.76\n0.95",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n46\n25\n21\n\n/",
+            "deaths": "44\n28\n16",
+            "fk": "150\n170\n125",
+            "hs%": "70%\n77%\n62%",
+            "kdr": "8\n5\n3",
+            "kills": "249",
+            "name": "casyy",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.72\n0.76",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n40\n22\n18\n\n/",
+            "deaths": "30\n18\n12",
+            "fk": "106\n108\n103",
+            "hs%": "67%\n61%\n73%",
+            "kdr": "10\n5\n5",
+            "kills": "139",
+            "name": "yago",
+            "team": null
+          },
+          {
+            "acs": "0.47\n1.13\n0.76",
+            "adr": "-11\n-14\n+3",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "33\n10\n23",
+            "fk": "106\n78\n140",
+            "hs%": "60%\n52%\n69%",
+            "kdr": "6\n3\n3",
+            "kills": "101",
+            "name": "sprits",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "255",
+          "name": "emyranger",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "133",
+          "name": "Fredy",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "179",
+          "name": "Jaxis",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "124",
+          "name": "Rouche",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "95",
+          "name": "xon1e",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "265",
+          "name": "jenz",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "306",
+          "name": "SecroNN",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "465",
+          "name": "sprits",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "91",
+          "name": "casyy",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "203",
+          "name": "yago",
+          "team": "\u015eAKLABANLAR"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.99\n0.70\n1.09",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "145\n125\n152",
+            "hs%": "63%\n75%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "255",
+            "name": "emyranger",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "0.76\n0.92\n0.71",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "99\n142\n85",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "133",
+            "name": "Fredy",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "0.55\n0.21\n0.66",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "123\n86\n135",
+            "hs%": "63%\n75%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "179",
+            "name": "Jaxis",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "0.33\n0.03\n0.44",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "76\n32\n91",
+            "hs%": "44%\n25%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "124",
+            "name": "Rouche",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "0.27\n0.34\n0.25",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "74\n106\n64",
+            "hs%": "50%\n75%\n42%",
+            "kdr": "2\n2\n0",
+            "kills": "95",
+            "name": "xon1e",
+            "team": "Never Give Up"
+          }
+        ],
+        [
+          {
+            "acs": "1.80\n1.83\n1.69",
+            "adr": "+12\n+10\n+2",
+            "agent": "",
+            "assists": "/\n\n5\n3\n2\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "181\n189\n158",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "265",
+            "name": "jenz",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "1.75\n1.71\n1.89",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "206\n204\n212",
+            "hs%": "75%\n67%\n100%",
+            "kdr": "5\n3\n2",
+            "kills": "306",
+            "name": "SecroNN",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "1.35\n0.82\n2.92",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "131\n103\n216",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "465",
+            "name": "sprits",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "1.22\n1.62\n0.04",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "16\n16\n0",
+            "fk": "189\n222\n91",
+            "hs%": "88%\n92%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "91",
+            "name": "casyy",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "0.82\n0.66\n1.33",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "113\n103\n143",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "203",
+            "name": "yago",
+            "team": "\u015eAKLABANLAR"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "277",
+          "name": "emyranger",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "239",
+          "name": "Fredy",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "216",
+          "name": "xon1e",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "197",
+          "name": "Rouche",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "198",
+          "name": "Jaxis",
+          "team": "Never Give Up"
+        },
+        {
+          "kills": "198",
+          "name": "SecroNN",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "196",
+          "name": "jenz",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "157",
+          "name": "yago",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "161",
+          "name": "casyy",
+          "team": "\u015eAKLABANLAR"
+        },
+        {
+          "kills": "118",
+          "name": "sprits",
+          "team": "\u015eAKLABANLAR"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.33\n1.44\n1.25",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "193\n176\n207",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "277",
+            "name": "emyranger",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "1.24\n0.83\n1.59",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "145\n100\n183",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "239",
+            "name": "Fredy",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "1.18\n2.26\n0.29",
+            "adr": "+5\n+11\n-6",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "147\n228\n79",
+            "hs%": "73%\n100%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "216",
+            "name": "xon1e",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "1.10\n0.99\n1.18",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "146\n160\n134",
+            "hs%": "86%\n90%\n83%",
+            "kdr": "13\n5\n8",
+            "kills": "197",
+            "name": "Rouche",
+            "team": "Never Give Up"
+          },
+          {
+            "acs": "1.00\n1.15\n0.87",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "121\n131\n113",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "198",
+            "name": "Jaxis",
+            "team": "Never Give Up"
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n1.52\n0.60",
+            "adr": "-3\n+3\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "148\n183\n107",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "5\n3\n2",
+            "kills": "198",
+            "name": "SecroNN",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "1.00\n1.00\n0.99",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "153\n167\n137",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "8\n8\n0",
+            "kills": "196",
+            "name": "jenz",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "0.83\n1.00\n0.62",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "102\n113\n89",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "157",
+            "name": "yago",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "0.71\n1.20\n0.13",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "120\n179\n50",
+            "hs%": "59%\n83%\n30%",
+            "kdr": "3\n3\n0",
+            "kills": "161",
+            "name": "casyy",
+            "team": "\u015eAKLABANLAR"
+          },
+          {
+            "acs": "0.38\n0.03\n0.86",
+            "adr": "-12\n-10\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "79\n30\n139",
+            "hs%": "50%\n33%\n70%",
+            "kdr": "3\n1\n2",
+            "kills": "118",
+            "name": "sprits",
+            "team": "\u015eAKLABANLAR"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 64376,
+  "teams": [
+    "Never Give Up",
+    "\u015eAKLABANLAR"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 64"
+}

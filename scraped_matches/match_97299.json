@@ -1,0 +1,594 @@
+{
+  "date": "2022-04-30 14:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "407",
+          "name": "Shinichiro",
+          "team": "Mythoclast"
+        },
+        {
+          "kills": "126",
+          "name": "Kuro",
+          "team": "Mythoclast"
+        },
+        {
+          "kills": "209",
+          "name": "anedak",
+          "team": "Mythoclast"
+        },
+        {
+          "kills": "191",
+          "name": "Xanzus",
+          "team": "Mythoclast"
+        },
+        {
+          "kills": "163",
+          "name": "West",
+          "team": "Mythoclast"
+        },
+        {
+          "kills": "188",
+          "name": "NosuMalek",
+          "team": "Triple"
+        },
+        {
+          "kills": "170",
+          "name": "Kaido",
+          "team": "Triple"
+        },
+        {
+          "kills": "191",
+          "name": "Giant",
+          "team": "Triple"
+        },
+        {
+          "kills": "224",
+          "name": "Pesty",
+          "team": "Triple"
+        },
+        {
+          "kills": "206",
+          "name": "Slick",
+          "team": "Triple"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.92\n2.00\n1.80",
+            "adr": "+18\n+11\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "30\n21\n9",
+            "fk": "253\n287\n202",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "407",
+            "name": "Shinichiro",
+            "team": "Mythoclast"
+          },
+          {
+            "acs": "1.05\n1.03\n1.07",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "90\n82\n101",
+            "hs%": "75%\n92%\n50%",
+            "kdr": "8\n5\n3",
+            "kills": "126",
+            "name": "Kuro",
+            "team": "Mythoclast"
+          },
+          {
+            "acs": "0.89\n1.19\n0.44",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "121\n157\n67",
+            "hs%": "65%\n83%\n38%",
+            "kdr": "4\n3\n1",
+            "kills": "209",
+            "name": "anedak",
+            "team": "Mythoclast"
+          },
+          {
+            "acs": "0.88\n1.00\n0.69",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "127\n143\n103",
+            "hs%": "85%\n92%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "191",
+            "name": "Xanzus",
+            "team": "Mythoclast"
+          },
+          {
+            "acs": "0.61\n0.50\n0.77",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "100\n92\n111",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "7\n3\n4",
+            "kills": "163",
+            "name": "West",
+            "team": "Mythoclast"
+          }
+        ],
+        [
+          {
+            "acs": "1.02\n1.04\n1.00",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "135\n114\n149",
+            "hs%": "65%\n75%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "188",
+            "name": "NosuMalek",
+            "team": "Triple"
+          },
+          {
+            "acs": "0.97\n0.72\n1.13",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "118\n85\n140",
+            "hs%": "90%\n88%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "170",
+            "name": "Kaido",
+            "team": "Triple"
+          },
+          {
+            "acs": "0.94\n1.07\n0.86",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "115\n119\n112",
+            "hs%": "60%\n75%\n50%",
+            "kdr": "7\n4\n3",
+            "kills": "191",
+            "name": "Giant",
+            "team": "Triple"
+          },
+          {
+            "acs": "0.88\n1.15\n0.70",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "148\n201\n113",
+            "hs%": "65%\n75%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "224",
+            "name": "Pesty",
+            "team": "Triple"
+          },
+          {
+            "acs": "0.79\n1.14\n0.56",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "129\n169\n102",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "206",
+            "name": "Slick",
+            "team": "Triple"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "364",
+          "name": "Shinichiro",
+          "team": null
+        },
+        {
+          "kills": "231",
+          "name": "Xanzus",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Kuro",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "anedak",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "West",
+          "team": null
+        },
+        {
+          "kills": "296",
+          "name": "Pesty",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "Slick",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "NosuMalek",
+          "team": null
+        },
+        {
+          "kills": "128",
+          "name": "Kaido",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Giant",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.56\n1.57\n1.56",
+            "adr": "+22\n+10\n+12",
+            "agent": "",
+            "assists": "/\n\n27\n17\n10\n\n/",
+            "deaths": "49\n27\n22",
+            "fk": "212\n224\n198",
+            "hs%": "71%\n73%\n70%",
+            "kdr": "6\n3\n3",
+            "kills": "364",
+            "name": "Shinichiro",
+            "team": null
+          },
+          {
+            "acs": "1.20\n1.23\n1.21",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n29\n14\n15\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "171\n167\n175",
+            "hs%": "86%\n86%\n85%",
+            "kdr": "14\n9\n5",
+            "kills": "231",
+            "name": "Xanzus",
+            "team": null
+          },
+          {
+            "acs": "1.22\n1.10\n1.17",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "27\n16\n11",
+            "fk": "119\n127\n111",
+            "hs%": "81%\n91%\n70%",
+            "kdr": "13\n6\n7",
+            "kills": "179",
+            "name": "Kuro",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.66\n0.74",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n32\n16\n16\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "109\n121\n97",
+            "hs%": "57%\n68%\n45%",
+            "kdr": "6\n4\n2",
+            "kills": "203",
+            "name": "anedak",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.72\n0.72",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "115\n118\n113",
+            "hs%": "69%\n73%\n65%",
+            "kdr": "18\n9\n9",
+            "kills": "178",
+            "name": "West",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n1.02\n1.12",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n37\n17\n20\n\n/",
+            "deaths": "38\n19\n19",
+            "fk": "171\n184\n160",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "296",
+            "name": "Pesty",
+            "team": null
+          },
+          {
+            "acs": "1.04\n0.94\n0.98",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n34\n14\n20\n\n/",
+            "deaths": "32\n16\n16",
+            "fk": "145\n145\n145",
+            "hs%": "81%\n75%\n86%",
+            "kdr": "13\n5\n8",
+            "kills": "212",
+            "name": "Slick",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.93\n0.91",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "27\n12\n15",
+            "fk": "136\n139\n133",
+            "hs%": "64%\n70%\n59%",
+            "kdr": "9\n7\n2",
+            "kills": "191",
+            "name": "NosuMalek",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.95\n0.84",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "110\n92\n126",
+            "hs%": "81%\n75%\n86%",
+            "kdr": "12\n4\n8",
+            "kills": "128",
+            "name": "Kaido",
+            "team": null
+          },
+          {
+            "acs": "0.83\n0.71\n0.77",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n33\n15\n18\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "99\n109\n91",
+            "hs%": "60%\n70%\n50%",
+            "kdr": "12\n7\n5",
+            "kills": "163",
+            "name": "Giant",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "335",
+          "name": "Xanzus",
+          "team": "Mythoclast"
+        },
+        {
+          "kills": "167",
+          "name": "Kuro",
+          "team": "Mythoclast"
+        },
+        {
+          "kills": "295",
+          "name": "Shinichiro",
+          "team": "Mythoclast"
+        },
+        {
+          "kills": "143",
+          "name": "West",
+          "team": "Mythoclast"
+        },
+        {
+          "kills": "185",
+          "name": "anedak",
+          "team": "Mythoclast"
+        },
+        {
+          "kills": "355",
+          "name": "Pesty",
+          "team": "Triple"
+        },
+        {
+          "kills": "285",
+          "name": "Slick",
+          "team": "Triple"
+        },
+        {
+          "kills": "178",
+          "name": "NosuMalek",
+          "team": "Triple"
+        },
+        {
+          "kills": "138",
+          "name": "Kaido",
+          "team": "Triple"
+        },
+        {
+          "kills": "117",
+          "name": "Giant",
+          "team": "Triple"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.52\n1.44\n1.59",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "210\n196\n222",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "335",
+            "name": "Xanzus",
+            "team": "Mythoclast"
+          },
+          {
+            "acs": "1.28\n1.46\n1.13",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "146\n181\n117",
+            "hs%": "86%\n90%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "167",
+            "name": "Kuro",
+            "team": "Mythoclast"
+          },
+          {
+            "acs": "1.24\n1.03\n1.42",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "174\n148\n196",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "295",
+            "name": "Shinichiro",
+            "team": "Mythoclast"
+          },
+          {
+            "acs": "0.82\n0.99\n0.69",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "130\n148\n115",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "11\n6\n5",
+            "kills": "143",
+            "name": "West",
+            "team": "Mythoclast"
+          },
+          {
+            "acs": "0.61\n0.37\n0.82",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "99\n77\n117",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "185",
+            "name": "anedak",
+            "team": "Mythoclast"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.28\n1.40",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "192\n173\n215",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "1\n0\n1",
+            "kills": "355",
+            "name": "Pesty",
+            "team": "Triple"
+          },
+          {
+            "acs": "1.16\n0.97\n1.39",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "159\n130\n195",
+            "hs%": "82%\n67%\n100%",
+            "kdr": "8\n3\n5",
+            "kills": "285",
+            "name": "Slick",
+            "team": "Triple"
+          },
+          {
+            "acs": "0.82\n0.80\n0.84",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "137\n156\n113",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "4\n4\n0",
+            "kills": "178",
+            "name": "NosuMalek",
+            "team": "Triple"
+          },
+          {
+            "acs": "0.72\n0.71\n0.73",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "103\n97\n109",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "8\n3\n5",
+            "kills": "138",
+            "name": "Kaido",
+            "team": "Triple"
+          },
+          {
+            "acs": "0.61\n0.68\n0.52",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "85\n101\n66",
+            "hs%": "59%\n67%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "117",
+            "name": "Giant",
+            "team": "Triple"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 97299,
+  "teams": [
+    "Mythoclast",
+    "Triple"
+  ],
+  "tournament": "GCC and Iraq Qualifier: \n\t\t\t\t\t\tSemifinals"
+}

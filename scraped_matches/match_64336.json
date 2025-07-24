@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-17 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "326",
+          "name": "Tenker",
+          "team": "Sleepless"
+        },
+        {
+          "kills": "328",
+          "name": "trace102k",
+          "team": "Sleepless"
+        },
+        {
+          "kills": "152",
+          "name": "Vyzze",
+          "team": "Sleepless"
+        },
+        {
+          "kills": "204",
+          "name": "Katana",
+          "team": "Sleepless"
+        },
+        {
+          "kills": "187",
+          "name": "Sparkle",
+          "team": "Sleepless"
+        },
+        {
+          "kills": "208",
+          "name": "Nasa",
+          "team": "LZT Gaming"
+        },
+        {
+          "kills": "117",
+          "name": "PARI",
+          "team": "LZT Gaming"
+        },
+        {
+          "kills": "98",
+          "name": "k1lb1",
+          "team": "LZT Gaming"
+        },
+        {
+          "kills": "136",
+          "name": "Sadnesss",
+          "team": "LZT Gaming"
+        },
+        {
+          "kills": "92",
+          "name": "Rofl",
+          "team": "LZT Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.91\n1.91\n1.89",
+            "adr": "+15\n+12\n+3",
+            "agent": "",
+            "assists": "/\n\n5\n3\n2\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "226\n216\n255",
+            "hs%": "88%\n92%\n75%",
+            "kdr": "3\n3\n0",
+            "kills": "326",
+            "name": "Tenker",
+            "team": "Sleepless"
+          },
+          {
+            "acs": "1.54\n1.68\n1.12",
+            "adr": "+9\n+9\n0",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "17\n15\n2",
+            "fk": "224\n251\n143",
+            "hs%": "88%\n100%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "328",
+            "name": "trace102k",
+            "team": "Sleepless"
+          },
+          {
+            "acs": "1.40\n1.56\n0.91",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n4\n2\n2\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "91\n102\n56",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "6\n5\n1",
+            "kills": "152",
+            "name": "Vyzze",
+            "team": "Sleepless"
+          },
+          {
+            "acs": "1.29\n1.41\n0.91",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n6\n4\n2\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "143\n151\n120",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "204",
+            "name": "Katana",
+            "team": "Sleepless"
+          },
+          {
+            "acs": "1.03\n1.13\n0.73",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "121\n132\n87",
+            "hs%": "69%\n75%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "187",
+            "name": "Sparkle",
+            "team": "Sleepless"
+          }
+        ],
+        [
+          {
+            "acs": "0.87\n1.06\n0.80",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "141\n151\n138",
+            "hs%": "63%\n75%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "208",
+            "name": "Nasa",
+            "team": "LZT Gaming"
+          },
+          {
+            "acs": "0.74\n1.06\n0.63",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "70\n70\n70",
+            "hs%": "50%\n75%\n42%",
+            "kdr": "2\n1\n1",
+            "kills": "117",
+            "name": "PARI",
+            "team": "LZT Gaming"
+          },
+          {
+            "acs": "0.44\n0.94\n0.28",
+            "adr": "-8\n+1\n-9",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "76\n102\n67",
+            "hs%": "44%\n50%\n42%",
+            "kdr": "3\n1\n2",
+            "kills": "98",
+            "name": "k1lb1",
+            "team": "LZT Gaming"
+          },
+          {
+            "acs": "0.34\n0.85\n0.17",
+            "adr": "-9\n0\n-9",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "94\n136\n80",
+            "hs%": "31%\n50%\n25%",
+            "kdr": "0\n0\n0",
+            "kills": "136",
+            "name": "Sadnesss",
+            "team": "LZT Gaming"
+          },
+          {
+            "acs": "0.29\n0.15\n0.33",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "4\n0\n4",
+            "fk": "65\n9\n83",
+            "hs%": "31%\n25%\n33%",
+            "kdr": "1\n0\n1",
+            "kills": "92",
+            "name": "Rofl",
+            "team": "LZT Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "307",
+          "name": "Tenker",
+          "team": null
+        },
+        {
+          "kills": "396",
+          "name": "trace102k",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "Vyzze",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "Katana",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "Sparkle",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "Sadnesss",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "PARI",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "Nasa",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "k1lb1",
+          "team": null
+        },
+        {
+          "kills": "64",
+          "name": "Rofl",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.74\n2.46\n1.88",
+            "adr": "+27\n+19\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "38\n28\n10",
+            "fk": "215\n200\n274",
+            "hs%": "90%\n92%\n83%",
+            "kdr": "5\n5\n0",
+            "kills": "307",
+            "name": "Tenker",
+            "team": null
+          },
+          {
+            "acs": "1.75\n1.32\n1.66",
+            "adr": "+19\n+18\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n14\n3\n\n/",
+            "deaths": "36\n32\n4",
+            "fk": "243\n269\n137",
+            "hs%": "90%\n96%\n67%",
+            "kdr": "11\n9\n2",
+            "kills": "396",
+            "name": "trace102k",
+            "team": null
+          },
+          {
+            "acs": "1.62\n0.67\n1.43",
+            "adr": "+15\n+16\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "25\n22\n3",
+            "fk": "125\n142\n59",
+            "hs%": "87%\n88%\n83%",
+            "kdr": "8\n7\n1",
+            "kills": "212",
+            "name": "Vyzze",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.88\n1.19",
+            "adr": "+9\n+10\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "22\n19\n3",
+            "fk": "138\n137\n142",
+            "hs%": "73%\n71%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "184",
+            "name": "Katana",
+            "team": null
+          },
+          {
+            "acs": "1.15\n0.84\n1.09",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "19\n15\n4",
+            "fk": "123\n126\n110",
+            "hs%": "80%\n83%\n67%",
+            "kdr": "11\n9\n2",
+            "kills": "174",
+            "name": "Sparkle",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.71\n0.82\n0.79",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n29\n5\n24\n\n/",
+            "deaths": "21\n4\n17",
+            "fk": "143\n117\n149",
+            "hs%": "53%\n67%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "193",
+            "name": "Sadnesss",
+            "team": null
+          },
+          {
+            "acs": "0.98\n0.54\n0.63",
+            "adr": "-13\n0\n-13",
+            "agent": "",
+            "assists": "/\n\n28\n5\n23\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "87\n103\n83",
+            "hs%": "50%\n83%\n42%",
+            "kdr": "5\n2\n3",
+            "kills": "187",
+            "name": "PARI",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.56\n0.61",
+            "adr": "-14\n-2\n-12",
+            "agent": "",
+            "assists": "/\n\n27\n5\n22\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "109\n125\n105",
+            "hs%": "47%\n67%\n42%",
+            "kdr": "2\n2\n0",
+            "kills": "190",
+            "name": "Nasa",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.24\n0.33",
+            "adr": "-18\n0\n-18",
+            "agent": "",
+            "assists": "/\n\n27\n4\n23\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "74\n84\n72",
+            "hs%": "53%\n50%\n54%",
+            "kdr": "5\n1\n4",
+            "kills": "149",
+            "name": "k1lb1",
+            "team": null
+          },
+          {
+            "acs": "0.37\n0.27\n0.29",
+            "adr": "-21\n-4\n-17",
+            "agent": "",
+            "assists": "/\n\n29\n5\n24\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "69\n49\n74",
+            "hs%": "33%\n33%\n33%",
+            "kdr": "4\n2\n2",
+            "kills": "64",
+            "name": "Rofl",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "573",
+          "name": "Tenker",
+          "team": "Sleepless"
+        },
+        {
+          "kills": "233",
+          "name": "trace102k",
+          "team": "Sleepless"
+        },
+        {
+          "kills": "138",
+          "name": "Vyzze",
+          "team": "Sleepless"
+        },
+        {
+          "kills": "184",
+          "name": "Sparkle",
+          "team": "Sleepless"
+        },
+        {
+          "kills": "234",
+          "name": "Katana",
+          "team": "Sleepless"
+        },
+        {
+          "kills": "350",
+          "name": "Sadnesss",
+          "team": "LZT Gaming"
+        },
+        {
+          "kills": "149",
+          "name": "PARI",
+          "team": "LZT Gaming"
+        },
+        {
+          "kills": "78",
+          "name": "Nasa",
+          "team": "LZT Gaming"
+        },
+        {
+          "kills": "92",
+          "name": "Rofl",
+          "team": "LZT Gaming"
+        },
+        {
+          "kills": "94",
+          "name": "k1lb1",
+          "team": "LZT Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.85\n1.56\n3.59",
+            "adr": "+12\n+7\n+5",
+            "agent": "",
+            "assists": "/\n\n6\n6\n0\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "202\n184\n311",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "573",
+            "name": "Tenker",
+            "team": "Sleepless"
+          },
+          {
+            "acs": "1.80\n1.81\n1.72",
+            "adr": "+10\n+9\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "19\n17\n2",
+            "fk": "264\n288\n125",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "233",
+            "name": "trace102k",
+            "team": "Sleepless"
+          },
+          {
+            "acs": "1.46\n1.67\n0.20",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n6\n4\n2\n\n/",
+            "deaths": "14\n13\n1",
+            "fk": "164\n181\n63",
+            "hs%": "86%\n92%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "138",
+            "name": "Vyzze",
+            "team": "Sleepless"
+          },
+          {
+            "acs": "1.15\n1.16\n1.06",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n6\n5\n1\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "125\n120\n157",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "8\n6\n2",
+            "kills": "184",
+            "name": "Sparkle",
+            "team": "Sleepless"
+          },
+          {
+            "acs": "1.07\n1.11\n0.82",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "132\n123\n185",
+            "hs%": "64%\n58%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "234",
+            "name": "Katana",
+            "team": "Sleepless"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n0.42\n1.46",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "15\n1\n14",
+            "fk": "198\n80\n218",
+            "hs%": "79%\n100%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "350",
+            "name": "Sadnesss",
+            "team": "LZT Gaming"
+          },
+          {
+            "acs": "0.50\n0.80\n0.45",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "107\n171\n97",
+            "hs%": "50%\n100%\n42%",
+            "kdr": "3\n1\n2",
+            "kills": "149",
+            "name": "PARI",
+            "team": "LZT Gaming"
+          },
+          {
+            "acs": "0.33\n0.43\n0.31",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "72\n74\n71",
+            "hs%": "29%\n50%\n25%",
+            "kdr": "0\n0\n0",
+            "kills": "78",
+            "name": "Nasa",
+            "team": "LZT Gaming"
+          },
+          {
+            "acs": "0.29\n0.80\n0.20",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "74\n129\n65",
+            "hs%": "36%\n50%\n33%",
+            "kdr": "3\n2\n1",
+            "kills": "92",
+            "name": "Rofl",
+            "team": "LZT Gaming"
+          },
+          {
+            "acs": "0.21\n0.18\n0.21",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "73\n48\n77",
+            "hs%": "64%\n50%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "94",
+            "name": "k1lb1",
+            "team": "LZT Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 64336,
+  "teams": [
+    "Sleepless",
+    "LZT Gaming"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 64"
+}

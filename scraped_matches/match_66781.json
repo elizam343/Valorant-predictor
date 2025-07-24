@@ -1,0 +1,612 @@
+{
+  "date": "2022-01-27 07:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "362",
+          "name": "Tuna",
+          "team": "OK"
+        },
+        {
+          "kills": "224",
+          "name": "yuhneb",
+          "team": "OK"
+        },
+        {
+          "kills": "332",
+          "name": "Maximus",
+          "team": "OK"
+        },
+        {
+          "kills": "169",
+          "name": "Lover",
+          "team": "OK"
+        },
+        {
+          "kills": "178",
+          "name": "billie",
+          "team": "OK"
+        },
+        {
+          "kills": "195",
+          "name": "cl0v3rx",
+          "team": "Cat Gang"
+        },
+        {
+          "kills": "190",
+          "name": "snit",
+          "team": "Cat Gang"
+        },
+        {
+          "kills": "169",
+          "name": "Backer",
+          "team": "Cat Gang"
+        },
+        {
+          "kills": "180",
+          "name": "RotCkamKam",
+          "team": "Cat Gang"
+        },
+        {
+          "kills": "56",
+          "name": "Kollector",
+          "team": "Cat Gang"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "2.36\n2.68\n2.29",
+            "adr": "+18\n+4\n+14",
+            "agent": "",
+            "assists": "/\n\n3\n1\n2\n\n/",
+            "deaths": "21\n5\n16",
+            "fk": "229\n245\n225",
+            "hs%": "93%\n67%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "362",
+            "name": "Tuna",
+            "team": "OK"
+          },
+          {
+            "acs": "1.55\n1.77\n1.49",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n6\n3\n3\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "159\n295\n124",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "224",
+            "name": "yuhneb",
+            "team": "OK"
+          },
+          {
+            "acs": "1.22\n0.09\n1.50",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "17\n1\n16",
+            "fk": "225\n53\n268",
+            "hs%": "80%\n33%\n92%",
+            "kdr": "4\n0\n4",
+            "kills": "332",
+            "name": "Maximus",
+            "team": "OK"
+          },
+          {
+            "acs": "1.06\n0.18\n1.28",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "118\n77\n129",
+            "hs%": "73%\n33%\n83%",
+            "kdr": "0\n0\n0",
+            "kills": "169",
+            "name": "Lover",
+            "team": "OK"
+          },
+          {
+            "acs": "0.70\n0.56\n0.74",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "128\n65\n143",
+            "hs%": "60%\n33%\n67%",
+            "kdr": "6\n0\n6",
+            "kills": "178",
+            "name": "billie",
+            "team": "OK"
+          }
+        ],
+        [
+          {
+            "acs": "0.92\n1.10\n0.21",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "11\n10\n1",
+            "fk": "117\n136\n43",
+            "hs%": "60%\n67%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "195",
+            "name": "cl0v3rx",
+            "team": "Cat Gang"
+          },
+          {
+            "acs": "0.89\n0.78\n1.34",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "131\n113\n205",
+            "hs%": "60%\n50%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "190",
+            "name": "snit",
+            "team": "Cat Gang"
+          },
+          {
+            "acs": "0.70\n0.44\n1.71",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "109\n80\n224",
+            "hs%": "73%\n67%\n100%",
+            "kdr": "8\n8\n0",
+            "kills": "169",
+            "name": "Backer",
+            "team": "Cat Gang"
+          },
+          {
+            "acs": "0.65\n0.57\n0.97",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "103\n90\n156",
+            "hs%": "40%\n33%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "180",
+            "name": "RotCkamKam",
+            "team": "Cat Gang"
+          },
+          {
+            "acs": "0.03\n0.02\n0.37",
+            "adr": "-14\n-12\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n13\n2\n\n/",
+            "deaths": "1\n1\n0",
+            "fk": "48\n35\n100",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "56",
+            "name": "Kollector",
+            "team": "Cat Gang"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "228",
+          "name": "Tuna",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "Maximus",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "yuhneb",
+          "team": null
+        },
+        {
+          "kills": "231",
+          "name": "Lover",
+          "team": null
+        },
+        {
+          "kills": "345",
+          "name": "Vizzz",
+          "team": null
+        },
+        {
+          "kills": "92",
+          "name": "billie",
+          "team": null
+        },
+        {
+          "kills": "237",
+          "name": "RotCkamKam",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "cl0v3rx",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "snit",
+          "team": null
+        },
+        {
+          "kills": "114",
+          "name": "Backer",
+          "team": null
+        },
+        {
+          "kills": "69",
+          "name": "Kollector",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.30\n2.02\n1.70",
+            "adr": "+25\n+6\n+19",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "38\n13\n25",
+            "fk": "189\n140\n227",
+            "hs%": "82%\n73%\n89%",
+            "kdr": "4\n0\n4",
+            "kills": "228",
+            "name": "Tuna",
+            "team": null
+          },
+          {
+            "acs": "1.26\n1.51\n1.40",
+            "adr": "+14\n+4\n+10",
+            "agent": "",
+            "assists": "/\n\n23\n9\n14\n\n/",
+            "deaths": "37\n13\n24",
+            "fk": "201\n147\n243",
+            "hs%": "85%\n80%\n89%",
+            "kdr": "12\n5\n7",
+            "kills": "201",
+            "name": "Maximus",
+            "team": null
+          },
+          {
+            "acs": "1.39\n1.27\n1.32",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "126\n145\n111",
+            "hs%": "91%\n93%\n89%",
+            "kdr": "10\n7\n3",
+            "kills": "190",
+            "name": "yuhneb",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.52\n1.21",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "29\n12\n17",
+            "fk": "151\n146\n154",
+            "hs%": "76%\n67%\n84%",
+            "kdr": "1\n0\n1",
+            "kills": "231",
+            "name": "Lover",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.69\n0.99",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "191\n234\n116",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "4\n4\n0",
+            "kills": "345",
+            "name": "Vizzz",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.74\n0.70",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "128\n65\n143",
+            "hs%": "60%\n33%\n67%",
+            "kdr": "6\n0\n6",
+            "kills": "92",
+            "name": "billie",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.97\n1.04\n1.00",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n31\n19\n12\n\n/",
+            "deaths": "28\n17\n11",
+            "fk": "147\n134\n164",
+            "hs%": "62%\n53%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "237",
+            "name": "RotCkamKam",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.78\n0.82",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n26\n16\n10\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "98\n111\n82",
+            "hs%": "68%\n68%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "179",
+            "name": "cl0v3rx",
+            "team": null
+          },
+          {
+            "acs": "0.54\n1.06\n0.77",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n29\n18\n11\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "131\n102\n168",
+            "hs%": "53%\n47%\n60%",
+            "kdr": "7\n4\n3",
+            "kills": "153",
+            "name": "snit",
+            "team": null
+          },
+          {
+            "acs": "0.49\n0.82\n0.63",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "107\n81\n141",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "10\n8\n2",
+            "kills": "114",
+            "name": "Backer",
+            "team": null
+          },
+          {
+            "acs": "0.16\n0.52\n0.29",
+            "adr": "-24\n-17\n-7",
+            "agent": "",
+            "assists": "/\n\n33\n20\n13\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "77\n56\n103",
+            "hs%": "53%\n53%\n53%",
+            "kdr": "11\n7\n4",
+            "kills": "69",
+            "name": "Kollector",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "313",
+          "name": "Maximus",
+          "team": "OK"
+        },
+        {
+          "kills": "351",
+          "name": "Lover",
+          "team": "OK"
+        },
+        {
+          "kills": "328",
+          "name": "Tuna",
+          "team": "OK"
+        },
+        {
+          "kills": "115",
+          "name": "yuhneb",
+          "team": "OK"
+        },
+        {
+          "kills": "188",
+          "name": "Vizzz",
+          "team": "OK"
+        },
+        {
+          "kills": "234",
+          "name": "RotCkamKam",
+          "team": "Cat Gang"
+        },
+        {
+          "kills": "126",
+          "name": "cl0v3rx",
+          "team": "Cat Gang"
+        },
+        {
+          "kills": "225",
+          "name": "snit",
+          "team": "Cat Gang"
+        },
+        {
+          "kills": "174",
+          "name": "Backer",
+          "team": "Cat Gang"
+        },
+        {
+          "kills": "147",
+          "name": "Kollector",
+          "team": "Cat Gang"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.54\n1.56\n1.52",
+            "adr": "+10\n+6\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "182\n171\n201",
+            "hs%": "89%\n92%\n86%",
+            "kdr": "8\n5\n3",
+            "kills": "313",
+            "name": "Maximus",
+            "team": "OK"
+          },
+          {
+            "acs": "1.34\n0.99\n1.94",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "176\n163\n198",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "1\n0\n1",
+            "kills": "351",
+            "name": "Lover",
+            "team": "OK"
+          },
+          {
+            "acs": "1.18\n0.96\n1.58",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "157\n114\n231",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "1\n0\n1",
+            "kills": "328",
+            "name": "Tuna",
+            "team": "OK"
+          },
+          {
+            "acs": "1.14\n1.30\n0.88",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "100\n108\n87",
+            "hs%": "84%\n92%\n71%",
+            "kdr": "7\n6\n1",
+            "kills": "115",
+            "name": "yuhneb",
+            "team": "OK"
+          },
+          {
+            "acs": "0.99\n1.17\n0.69",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "191\n234\n116",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "4\n4\n0",
+            "kills": "188",
+            "name": "Vizzz",
+            "team": "OK"
+          }
+        ],
+        [
+          {
+            "acs": "1.28\n1.65\n1.06",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "181\n208\n166",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "234",
+            "name": "RotCkamKam",
+            "team": "Cat Gang"
+          },
+          {
+            "acs": "0.75\n0.45\n0.92",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "83\n70\n91",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "126",
+            "name": "cl0v3rx",
+            "team": "Cat Gang"
+          },
+          {
+            "acs": "0.68\n0.14\n0.99",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "131\n83\n159",
+            "hs%": "47%\n43%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "225",
+            "name": "snit",
+            "team": "Cat Gang"
+          },
+          {
+            "acs": "0.58\n0.56\n0.60",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "106\n82\n120",
+            "hs%": "47%\n43%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "174",
+            "name": "Backer",
+            "team": "Cat Gang"
+          },
+          {
+            "acs": "0.50\n0.40\n0.56",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "99\n92\n104",
+            "hs%": "53%\n57%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "147",
+            "name": "Kollector",
+            "team": "Cat Gang"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 66781,
+  "teams": [
+    "OK",
+    "Cat Gang"
+  ],
+  "tournament": "Round 5: \n\t\t\t\t\t\tRound of 16"
+}

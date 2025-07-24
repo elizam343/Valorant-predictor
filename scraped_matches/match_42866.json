@@ -1,0 +1,594 @@
+{
+  "date": "2021-09-29 13:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "291",
+          "name": "f6tal",
+          "team": "SMARACIS eSports Female"
+        },
+        {
+          "kills": "329",
+          "name": "Stormy",
+          "team": "SMARACIS eSports Female"
+        },
+        {
+          "kills": "181",
+          "name": "allurin",
+          "team": "SMARACIS eSports Female"
+        },
+        {
+          "kills": "153",
+          "name": "Elizabeth",
+          "team": "SMARACIS eSports Female"
+        },
+        {
+          "kills": "170",
+          "name": "victoria",
+          "team": "SMARACIS eSports Female"
+        },
+        {
+          "kills": "226",
+          "name": "Soyeon",
+          "team": "MCES"
+        },
+        {
+          "kills": "134",
+          "name": "Koyorii",
+          "team": "MCES"
+        },
+        {
+          "kills": "178",
+          "name": "AMANDiiN0ZOR",
+          "team": "MCES"
+        },
+        {
+          "kills": "136",
+          "name": "RiMAchOu",
+          "team": "MCES"
+        },
+        {
+          "kills": "142",
+          "name": "kiRa",
+          "team": "MCES"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.62\n1.66\n1.59",
+            "adr": "+15\n+4\n+11",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "162\n133\n179",
+            "hs%": "79%\n57%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "291",
+            "name": "f6tal",
+            "team": "SMARACIS eSports Female"
+          },
+          {
+            "acs": "1.31\n1.16\n1.39",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "214\n144\n255",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "6\n0\n6",
+            "kills": "329",
+            "name": "Stormy",
+            "team": "SMARACIS eSports Female"
+          },
+          {
+            "acs": "1.17\n1.36\n1.07",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "123\n124\n122",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "12\n5\n7",
+            "kills": "181",
+            "name": "allurin",
+            "team": "SMARACIS eSports Female"
+          },
+          {
+            "acs": "1.04\n1.06\n1.03",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "77\n117\n54",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "153",
+            "name": "Elizabeth",
+            "team": "SMARACIS eSports Female"
+          },
+          {
+            "acs": "0.90\n0.61\n1.07",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "117\n95\n129",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "170",
+            "name": "victoria",
+            "team": "SMARACIS eSports Female"
+          }
+        ],
+        [
+          {
+            "acs": "1.27\n1.54\n0.81",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "138\n159\n103",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "4\n2\n2",
+            "kills": "226",
+            "name": "Soyeon",
+            "team": "MCES"
+          },
+          {
+            "acs": "0.80\n1.09\n0.32",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "92\n115\n52",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "6\n5\n1",
+            "kills": "134",
+            "name": "Koyorii",
+            "team": "MCES"
+          },
+          {
+            "acs": "0.78\n0.55\n1.17",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "136\n100\n197",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "7\n5\n2",
+            "kills": "178",
+            "name": "AMANDiiN0ZOR",
+            "team": "MCES"
+          },
+          {
+            "acs": "0.61\n0.58\n0.66",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "94\n93\n95",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "4\n0\n4",
+            "kills": "136",
+            "name": "RiMAchOu",
+            "team": "MCES"
+          },
+          {
+            "acs": "0.50\n0.12\n1.15",
+            "adr": "-7\n-9\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "105\n63\n177",
+            "hs%": "63%\n50%\n86%",
+            "kdr": "2\n2\n0",
+            "kills": "142",
+            "name": "kiRa",
+            "team": "MCES"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "297",
+          "name": "f6tal",
+          "team": null
+        },
+        {
+          "kills": "276",
+          "name": "Stormy",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "allurin",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "Elizabeth",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "victoria",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "Soyeon",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "Koyorii",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "RiMAchOu",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "kiRa",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "AMANDiiN0ZOR",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.34\n1.45\n1.40",
+            "adr": "+24\n+9\n+15",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "158\n156\n160",
+            "hs%": "74%\n68%\n79%",
+            "kdr": "6\n2\n4",
+            "kills": "297",
+            "name": "f6tal",
+            "team": null
+          },
+          {
+            "acs": "1.38\n1.00\n1.17",
+            "adr": "+9\n+9\n0",
+            "agent": "",
+            "assists": "/\n\n29\n10\n19\n\n/",
+            "deaths": "38\n19\n19",
+            "fk": "169\n153\n182",
+            "hs%": "72%\n74%\n71%",
+            "kdr": "12\n2\n10",
+            "kills": "276",
+            "name": "Stormy",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.15\n1.12",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n25\n11\n14\n\n/",
+            "deaths": "29\n12\n17",
+            "fk": "137\n121\n150",
+            "hs%": "77%\n68%\n83%",
+            "kdr": "21\n7\n14",
+            "kills": "178",
+            "name": "allurin",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.05\n0.99",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "26\n10\n16",
+            "fk": "101\n111\n93",
+            "hs%": "86%\n95%\n79%",
+            "kdr": "12\n8\n4",
+            "kills": "164",
+            "name": "Elizabeth",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.12\n0.95",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "121\n110\n129",
+            "hs%": "84%\n79%\n88%",
+            "kdr": "16\n7\n9",
+            "kills": "151",
+            "name": "victoria",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.36\n0.95\n1.18",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n28\n15\n13\n\n/",
+            "deaths": "31\n20\n11",
+            "fk": "136\n145\n125",
+            "hs%": "70%\n63%\n79%",
+            "kdr": "11\n4\n7",
+            "kills": "232",
+            "name": "Soyeon",
+            "team": null
+          },
+          {
+            "acs": "1.20\n0.54\n0.91",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "25\n17\n8",
+            "fk": "129\n154\n99",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "14\n9\n5",
+            "kills": "219",
+            "name": "Koyorii",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.19\n0.88",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "111\n87\n140",
+            "hs%": "60%\n54%\n68%",
+            "kdr": "10\n3\n7",
+            "kills": "137",
+            "name": "RiMAchOu",
+            "team": null
+          },
+          {
+            "acs": "0.54\n1.02\n0.75",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n36\n22\n14\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "121\n109\n137",
+            "hs%": "65%\n54%\n79%",
+            "kdr": "4\n3\n1",
+            "kills": "152",
+            "name": "kiRa",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.68\n0.62",
+            "adr": "-19\n-12\n-7",
+            "agent": "",
+            "assists": "/\n\n35\n20\n15\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "102\n92\n114",
+            "hs%": "53%\n50%\n58%",
+            "kdr": "12\n6\n6",
+            "kills": "124",
+            "name": "AMANDiiN0ZOR",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "222",
+          "name": "f6tal",
+          "team": "SMARACIS eSports Female"
+        },
+        {
+          "kills": "270",
+          "name": "allurin",
+          "team": "SMARACIS eSports Female"
+        },
+        {
+          "kills": "155",
+          "name": "Stormy",
+          "team": "SMARACIS eSports Female"
+        },
+        {
+          "kills": "207",
+          "name": "victoria",
+          "team": "SMARACIS eSports Female"
+        },
+        {
+          "kills": "198",
+          "name": "Elizabeth",
+          "team": "SMARACIS eSports Female"
+        },
+        {
+          "kills": "165",
+          "name": "Soyeon",
+          "team": "MCES"
+        },
+        {
+          "kills": "284",
+          "name": "RiMAchOu",
+          "team": "MCES"
+        },
+        {
+          "kills": "181",
+          "name": "Koyorii",
+          "team": "MCES"
+        },
+        {
+          "kills": "199",
+          "name": "kiRa",
+          "team": "MCES"
+        },
+        {
+          "kills": "77",
+          "name": "AMANDiiN0ZOR",
+          "team": "MCES"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.16\n1.31",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "155\n169\n140",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "222",
+            "name": "f6tal",
+            "team": "SMARACIS eSports Female"
+          },
+          {
+            "acs": "1.08\n0.91\n1.24",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "148\n120\n177",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "9\n2\n7",
+            "kills": "270",
+            "name": "allurin",
+            "team": "SMARACIS eSports Female"
+          },
+          {
+            "acs": "1.05\n1.51\n0.60",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "134\n158\n110",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "155",
+            "name": "Stormy",
+            "team": "SMARACIS eSports Female"
+          },
+          {
+            "acs": "0.98\n0.79\n1.17",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "124\n118\n130",
+            "hs%": "88%\n75%\n100%",
+            "kdr": "10\n4\n6",
+            "kills": "207",
+            "name": "victoria",
+            "team": "SMARACIS eSports Female"
+          },
+          {
+            "acs": "0.95\n0.83\n1.07",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "120\n108\n132",
+            "hs%": "88%\n100%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "198",
+            "name": "Elizabeth",
+            "team": "SMARACIS eSports Female"
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n1.18\n1.04",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "134\n130\n139",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "165",
+            "name": "Soyeon",
+            "team": "MCES"
+          },
+          {
+            "acs": "1.09\n0.69\n1.50",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "124\n81\n166",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "284",
+            "name": "RiMAchOu",
+            "team": "MCES"
+          },
+          {
+            "acs": "1.00\n1.32\n0.67",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "159\n192\n126",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "181",
+            "name": "Koyorii",
+            "team": "MCES"
+          },
+          {
+            "acs": "0.95\n0.96\n0.94",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "135\n156\n114",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "199",
+            "name": "kiRa",
+            "team": "MCES"
+          },
+          {
+            "acs": "0.49\n0.60\n0.39",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "75\n84\n66",
+            "hs%": "54%\n50%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "77",
+            "name": "AMANDiiN0ZOR",
+            "team": "MCES"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 42866,
+  "teams": [
+    "SMARACIS eSports Female",
+    "MCES"
+  ],
+  "tournament": "Qualifier: \n\t\t\t\t\t\tGroup A"
+}

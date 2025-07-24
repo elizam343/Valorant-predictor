@@ -1,0 +1,788 @@
+{
+  "date": "2022-11-28 20:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "243",
+          "name": "Nora",
+          "team": "ROSE"
+        },
+        {
+          "kills": "225",
+          "name": "Lu\u00e7as",
+          "team": "ROSE"
+        },
+        {
+          "kills": "195",
+          "name": "sai",
+          "team": "ROSE"
+        },
+        {
+          "kills": "149",
+          "name": "Spooky",
+          "team": "ROSE"
+        },
+        {
+          "kills": "172",
+          "name": "JAYDN",
+          "team": "ROSE"
+        },
+        {
+          "kills": "220",
+          "name": "redo",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "235",
+          "name": "lucas",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "200",
+          "name": "tox",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "160",
+          "name": "Hippity",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "151",
+          "name": "V0NS",
+          "team": "Stasis Red"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.56\n2.25\n0.92",
+            "adr": "+10\n+11\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "22\n15\n7",
+            "fk": "166\n237\n101",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "4\n4\n0",
+            "kills": "243",
+            "name": "Nora",
+            "team": "ROSE"
+          },
+          {
+            "acs": "1.03\n1.24\n0.84",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "134\n155\n115",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "225",
+            "name": "Lu\u00e7as",
+            "team": "ROSE"
+          },
+          {
+            "acs": "1.03\n1.22\n0.87",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "126\n133\n120",
+            "hs%": "57%\n73%\n42%",
+            "kdr": "6\n2\n4",
+            "kills": "195",
+            "name": "sai",
+            "team": "ROSE"
+          },
+          {
+            "acs": "0.82\n0.65\n0.98",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "96\n80\n111",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "8\n5\n3",
+            "kills": "149",
+            "name": "Spooky",
+            "team": "ROSE"
+          },
+          {
+            "acs": "0.72\n0.67\n0.76",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "108\n108\n107",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "172",
+            "name": "JAYDN",
+            "team": "ROSE"
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n1.36\n0.95",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "169\n169\n169",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "7\n3\n4",
+            "kills": "220",
+            "name": "redo",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "0.96\n0.94\n0.99",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "156\n165\n147",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "0\n0\n0",
+            "kills": "235",
+            "name": "lucas",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "0.95\n1.17\n0.71",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "124\n153\n93",
+            "hs%": "61%\n75%\n45%",
+            "kdr": "3\n1\n2",
+            "kills": "200",
+            "name": "tox",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "0.89\n0.92\n0.87",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "101\n86\n117",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "7\n4\n3",
+            "kills": "160",
+            "name": "Hippity",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "0.71\n1.02\n0.37",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "112\n158\n63",
+            "hs%": "70%\n83%\n55%",
+            "kdr": "3\n1\n2",
+            "kills": "151",
+            "name": "V0NS",
+            "team": "Stasis Red"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "261",
+          "name": "Lu\u00e7as",
+          "team": null
+        },
+        {
+          "kills": "238",
+          "name": "Nora",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "sai",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "JAYDN",
+          "team": null
+        },
+        {
+          "kills": "105",
+          "name": "Spooky",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "Hippity",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "V0NS",
+          "team": null
+        },
+        {
+          "kills": "266",
+          "name": "lucas",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "redo",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "tox",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.09\n1.16",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n42\n17\n25\n\n/",
+            "deaths": "49\n23\n26",
+            "fk": "151\n156\n148",
+            "hs%": "63%\n68%\n58%",
+            "kdr": "11\n6\n5",
+            "kills": "261",
+            "name": "Lu\u00e7as",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.67\n0.93",
+            "adr": "-6\n+6\n-12",
+            "agent": "",
+            "assists": "/\n\n40\n16\n24\n\n/",
+            "deaths": "34\n22\n12",
+            "fk": "113\n155\n79",
+            "hs%": "66%\n60%\n71%",
+            "kdr": "12\n6\n6",
+            "kills": "238",
+            "name": "Nora",
+            "team": null
+          },
+          {
+            "acs": "1.11\n0.76\n0.91",
+            "adr": "-7\n+2\n-9",
+            "agent": "",
+            "assists": "/\n\n44\n16\n28\n\n/",
+            "deaths": "37\n18\n19",
+            "fk": "127\n134\n121",
+            "hs%": "63%\n72%\n55%",
+            "kdr": "10\n4\n6",
+            "kills": "208",
+            "name": "sai",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.73\n0.66",
+            "adr": "-16\n-8\n-8",
+            "agent": "",
+            "assists": "/\n\n48\n22\n26\n\n/",
+            "deaths": "32\n14\n18",
+            "fk": "106\n91\n118",
+            "hs%": "64%\n72%\n58%",
+            "kdr": "15\n5\n10",
+            "kills": "153",
+            "name": "JAYDN",
+            "team": null
+          },
+          {
+            "acs": "0.51\n0.73\n0.63",
+            "adr": "-22\n-12\n-10",
+            "agent": "",
+            "assists": "/\n\n44\n20\n24\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "87\n70\n102",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "21\n9\n12",
+            "kills": "105",
+            "name": "Spooky",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n1.21\n1.27",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n37\n18\n19\n\n/",
+            "deaths": "49\n24\n25",
+            "fk": "147\n127\n172",
+            "hs%": "79%\n87%\n68%",
+            "kdr": "34\n26\n8",
+            "kills": "225",
+            "name": "Hippity",
+            "team": null
+          },
+          {
+            "acs": "1.41\n0.83\n1.15",
+            "adr": "+12\n+15\n-3",
+            "agent": "",
+            "assists": "/\n\n28\n12\n16\n\n/",
+            "deaths": "40\n27\n13",
+            "fk": "127\n158\n89",
+            "hs%": "77%\n87%\n64%",
+            "kdr": "12\n8\n4",
+            "kills": "220",
+            "name": "V0NS",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.09\n1.09",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n40\n23\n17\n\n/",
+            "deaths": "49\n28\n21",
+            "fk": "171\n182\n157",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "8\n6\n2",
+            "kills": "266",
+            "name": "lucas",
+            "team": null
+          },
+          {
+            "acs": "1.25\n0.90\n1.08",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n38\n19\n19\n\n/",
+            "deaths": "42\n27\n15",
+            "fk": "143\n149\n134",
+            "hs%": "77%\n77%\n76%",
+            "kdr": "22\n13\n9",
+            "kills": "221",
+            "name": "redo",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.14\n1.07",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n31\n17\n14\n\n/",
+            "deaths": "38\n22\n16",
+            "fk": "111\n113\n109",
+            "hs%": "73%\n81%\n64%",
+            "kdr": "6\n4\n2",
+            "kills": "179",
+            "name": "tox",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "308",
+          "name": "Lu\u00e7as",
+          "team": "ROSE"
+        },
+        {
+          "kills": "208",
+          "name": "Spooky",
+          "team": "ROSE"
+        },
+        {
+          "kills": "131",
+          "name": "Nora",
+          "team": "ROSE"
+        },
+        {
+          "kills": "130",
+          "name": "sai",
+          "team": "ROSE"
+        },
+        {
+          "kills": "293",
+          "name": "JAYDN",
+          "team": "ROSE"
+        },
+        {
+          "kills": "347",
+          "name": "Hippity",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "161",
+          "name": "V0NS",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "227",
+          "name": "lucas",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "146",
+          "name": "tox",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "204",
+          "name": "redo",
+          "team": "Stasis Red"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.56\n1.45\n1.74",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "184\n171\n206",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "2\n1\n1",
+            "kills": "308",
+            "name": "Lu\u00e7as",
+            "team": "ROSE"
+          },
+          {
+            "acs": "0.68\n0.46\n1.06",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "77\n56\n113",
+            "hs%": "63%\n50%\n86%",
+            "kdr": "9\n3\n6",
+            "kills": "208",
+            "name": "Spooky",
+            "team": "ROSE"
+          },
+          {
+            "acs": "0.67\n0.53\n0.91",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "89\n88\n90",
+            "hs%": "63%\n42%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "131",
+            "name": "Nora",
+            "team": "ROSE"
+          },
+          {
+            "acs": "0.66\n0.83\n0.38",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "103\n116\n82",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "2\n1\n1",
+            "kills": "130",
+            "name": "sai",
+            "team": "ROSE"
+          },
+          {
+            "acs": "0.58\n0.32\n1.03",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "104\n70\n162",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "9\n3\n6",
+            "kills": "293",
+            "name": "JAYDN",
+            "team": "ROSE"
+          }
+        ],
+        [
+          {
+            "acs": "1.43\n1.17\n1.59",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "180\n115\n219",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "11\n7\n4",
+            "kills": "347",
+            "name": "Hippity",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "1.34\n1.70\n1.13",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "134\n185\n104",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "161",
+            "name": "V0NS",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "1.17\n1.03\n1.26",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "162\n155\n166",
+            "hs%": "84%\n100%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "227",
+            "name": "lucas",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "1.00\n0.78\n1.13",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "90\n87\n91",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "3\n3\n0",
+            "kills": "146",
+            "name": "tox",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "0.79\n0.43\n1.00",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "95\n45\n125",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "204",
+            "name": "redo",
+            "team": "Stasis Red"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "249",
+          "name": "sai",
+          "team": "ROSE"
+        },
+        {
+          "kills": "212",
+          "name": "Lu\u00e7as",
+          "team": "ROSE"
+        },
+        {
+          "kills": "181",
+          "name": "JAYDN",
+          "team": "ROSE"
+        },
+        {
+          "kills": "70",
+          "name": "Nora",
+          "team": "ROSE"
+        },
+        {
+          "kills": "103",
+          "name": "Spooky",
+          "team": "ROSE"
+        },
+        {
+          "kills": "316",
+          "name": "Hippity",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "200",
+          "name": "V0NS",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "200",
+          "name": "tox",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "254",
+          "name": "redo",
+          "team": "Stasis Red"
+        },
+        {
+          "kills": "298",
+          "name": "lucas",
+          "team": "Stasis Red"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.06\n2.19\n0.87",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "161\n252\n145",
+            "hs%": "71%\n100%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "249",
+            "name": "sai",
+            "team": "ROSE"
+          },
+          {
+            "acs": "0.85\n0.17\n0.96",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "135\n68\n146",
+            "hs%": "57%\n100%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "212",
+            "name": "Lu\u00e7as",
+            "team": "ROSE"
+          },
+          {
+            "acs": "0.66\n1.41\n0.54",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "107\n133\n103",
+            "hs%": "50%\n100%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "181",
+            "name": "JAYDN",
+            "team": "ROSE"
+          },
+          {
+            "acs": "0.27\n0.24\n0.28",
+            "adr": "-11\n-1\n-10",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "59\n110\n50",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "70",
+            "name": "Nora",
+            "team": "ROSE"
+          },
+          {
+            "acs": "0.24\n0.02\n0.31",
+            "adr": "-11\n-2\n-9",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "2\n0\n2",
+            "fk": "87\n97\n86",
+            "hs%": "43%\n50%\n42%",
+            "kdr": "4\n1\n3",
+            "kills": "103",
+            "name": "Spooky",
+            "team": "ROSE"
+          }
+        ],
+        [
+          {
+            "acs": "1.68\n1.82\n0.83",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "179\n175\n203",
+            "hs%": "93%\n100%\n50%",
+            "kdr": "16\n15\n1",
+            "kills": "316",
+            "name": "Hippity",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "1.63\n1.64\n1.53",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n3\n2\n1\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "142\n142\n140",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n5\n0",
+            "kills": "200",
+            "name": "V0NS",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "1.36\n0.99\n3.53",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n5\n5\n0\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "120\n88\n310",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "200",
+            "name": "tox",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "1.32\n1.61\n0.01",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "14\n14\n0",
+            "fk": "163\n190",
+            "hs%": "86%\n92%\n50%",
+            "kdr": "9\n9\n0",
+            "kills": "254",
+            "name": "redo",
+            "team": "Stasis Red"
+          },
+          {
+            "acs": "1.20\n1.28\n0.69",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "206\n213\n159",
+            "hs%": "64%\n67%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "298",
+            "name": "lucas",
+            "team": "Stasis Red"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 159732,
+  "teams": [
+    "ROSE",
+    "Stasis Red"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tDecider (P)"
+}

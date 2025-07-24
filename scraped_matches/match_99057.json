@@ -1,0 +1,594 @@
+{
+  "date": "2022-05-11 14:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "343",
+          "name": "purp0",
+          "team": "XPLDZ"
+        },
+        {
+          "kills": "208",
+          "name": "TERNOS",
+          "team": "XPLDZ"
+        },
+        {
+          "kills": "241",
+          "name": "chrollo",
+          "team": "XPLDZ"
+        },
+        {
+          "kills": "138",
+          "name": "moner",
+          "team": "XPLDZ"
+        },
+        {
+          "kills": "113",
+          "name": "Shalaby",
+          "team": "XPLDZ"
+        },
+        {
+          "kills": "275",
+          "name": "Avez",
+          "team": "Team RA'AD"
+        },
+        {
+          "kills": "191",
+          "name": "Depyro",
+          "team": "Team RA'AD"
+        },
+        {
+          "kills": "171",
+          "name": "Shniider",
+          "team": "Team RA'AD"
+        },
+        {
+          "kills": "198",
+          "name": "Sand",
+          "team": "Team RA'AD"
+        },
+        {
+          "kills": "119",
+          "name": "phaze",
+          "team": "Team RA'AD"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.55\n1.58\n1.52",
+            "adr": "+15\n+8\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "32\n17\n15",
+            "fk": "220\n223\n216",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "0\n0\n0",
+            "kills": "343",
+            "name": "purp0",
+            "team": "XPLDZ"
+          },
+          {
+            "acs": "1.13\n1.07\n1.19",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "128\n125\n131",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "6\n2\n4",
+            "kills": "208",
+            "name": "TERNOS",
+            "team": "XPLDZ"
+          },
+          {
+            "acs": "1.04\n0.69\n1.40",
+            "adr": "+5\n-4\n+9",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "165\n124\n207",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "5\n4\n1",
+            "kills": "241",
+            "name": "chrollo",
+            "team": "XPLDZ"
+          },
+          {
+            "acs": "0.87\n0.69\n1.05",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "94\n105\n82",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "11\n4\n7",
+            "kills": "138",
+            "name": "moner",
+            "team": "XPLDZ"
+          },
+          {
+            "acs": "0.62\n0.64\n0.59",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "71\n73\n68",
+            "hs%": "85%\n85%\n85%",
+            "kdr": "17\n8\n9",
+            "kills": "113",
+            "name": "Shalaby",
+            "team": "XPLDZ"
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n1.05\n1.79",
+            "adr": "+11\n0\n+11",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "28\n10\n18",
+            "fk": "162\n148\n176",
+            "hs%": "65%\n46%\n85%",
+            "kdr": "1\n1\n0",
+            "kills": "275",
+            "name": "Avez",
+            "team": "Team RA'AD"
+          },
+          {
+            "acs": "1.02\n1.17\n0.88",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "118\n140\n95",
+            "hs%": "54%\n46%\n62%",
+            "kdr": "5\n1\n4",
+            "kills": "191",
+            "name": "Depyro",
+            "team": "Team RA'AD"
+          },
+          {
+            "acs": "0.90\n0.63\n1.16",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "113\n94\n133",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "3\n0\n3",
+            "kills": "171",
+            "name": "Shniider",
+            "team": "Team RA'AD"
+          },
+          {
+            "acs": "0.88\n0.64\n1.12",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "140\n104\n177",
+            "hs%": "62%\n38%\n85%",
+            "kdr": "10\n2\n8",
+            "kills": "198",
+            "name": "Sand",
+            "team": "Team RA'AD"
+          },
+          {
+            "acs": "0.60\n0.66\n0.53",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "75\n67\n84",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "12\n0\n12",
+            "kills": "119",
+            "name": "phaze",
+            "team": "Team RA'AD"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "395",
+          "name": "purp0",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "chrollo",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "TERNOS",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "moner",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "Shalaby",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "Avez",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "Shniider",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "Sand",
+          "team": null
+        },
+        {
+          "kills": "154",
+          "name": "phaze",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "Depyro",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.82\n1.47\n1.65",
+            "adr": "+32\n+18\n+14",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "64\n35\n29",
+            "fk": "217\n234\n199",
+            "hs%": "76%\n80%\n72%",
+            "kdr": "3\n1\n2",
+            "kills": "395",
+            "name": "purp0",
+            "team": null
+          },
+          {
+            "acs": "0.66\n1.35\n1.01",
+            "adr": "+6\n-6\n+12",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "40\n13\n27",
+            "fk": "149\n100\n198",
+            "hs%": "70%\n68%\n72%",
+            "kdr": "10\n7\n3",
+            "kills": "145",
+            "name": "chrollo",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.87\n1.00",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "32\n20\n12",
+            "fk": "117\n130\n103",
+            "hs%": "80%\n80%\n80%",
+            "kdr": "11\n5\n6",
+            "kills": "215",
+            "name": "TERNOS",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.83\n0.80",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n35\n20\n15\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "85\n98\n73",
+            "hs%": "70%\n72%\n68%",
+            "kdr": "17\n6\n11",
+            "kills": "141",
+            "name": "moner",
+            "team": null
+          },
+          {
+            "acs": "0.54\n0.72\n0.63",
+            "adr": "-19\n-12\n-7",
+            "agent": "",
+            "assists": "/\n\n38\n21\n17\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "91\n83\n100",
+            "hs%": "76%\n72%\n80%",
+            "kdr": "23\n13\n10",
+            "kills": "121",
+            "name": "Shalaby",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n1.42\n1.28",
+            "adr": "+14\n+2\n+12",
+            "agent": "",
+            "assists": "/\n\n33\n18\n15\n\n/",
+            "deaths": "47\n20\n27",
+            "fk": "164\n166\n161",
+            "hs%": "70%\n60%\n80%",
+            "kdr": "4\n3\n1",
+            "kills": "248",
+            "name": "Avez",
+            "team": null
+          },
+          {
+            "acs": "0.93\n1.17\n1.05",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n35\n17\n18\n\n/",
+            "deaths": "41\n17\n24",
+            "fk": "141\n123\n159",
+            "hs%": "64%\n52%\n76%",
+            "kdr": "11\n3\n8",
+            "kills": "195",
+            "name": "Shniider",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.10\n0.97",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n36\n18\n18\n\n/",
+            "deaths": "32\n13\n19",
+            "fk": "133\n109\n156",
+            "hs%": "68%\n56%\n80%",
+            "kdr": "17\n5\n12",
+            "kills": "170",
+            "name": "Sand",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.77\n0.84",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n36\n18\n18\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "110\n100\n119",
+            "hs%": "72%\n68%\n76%",
+            "kdr": "22\n6\n16",
+            "kills": "154",
+            "name": "phaze",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.68\n0.78",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n38\n19\n19\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "96\n106\n86",
+            "hs%": "58%\n52%\n64%",
+            "kdr": "17\n6\n11",
+            "kills": "165",
+            "name": "Depyro",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "303",
+          "name": "purp0",
+          "team": "XPLDZ"
+        },
+        {
+          "kills": "300",
+          "name": "chrollo",
+          "team": "XPLDZ"
+        },
+        {
+          "kills": "105",
+          "name": "TERNOS",
+          "team": "XPLDZ"
+        },
+        {
+          "kills": "111",
+          "name": "moner",
+          "team": "XPLDZ"
+        },
+        {
+          "kills": "188",
+          "name": "Shalaby",
+          "team": "XPLDZ"
+        },
+        {
+          "kills": "320",
+          "name": "Shniider",
+          "team": "Team RA'AD"
+        },
+        {
+          "kills": "203",
+          "name": "Avez",
+          "team": "Team RA'AD"
+        },
+        {
+          "kills": "205",
+          "name": "phaze",
+          "team": "Team RA'AD"
+        },
+        {
+          "kills": "224",
+          "name": "Sand",
+          "team": "Team RA'AD"
+        },
+        {
+          "kills": "110",
+          "name": "Depyro",
+          "team": "Team RA'AD"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.75\n2.08\n1.43",
+            "adr": "+17\n+10\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "32\n18\n14",
+            "fk": "213\n245\n180",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "303",
+            "name": "purp0",
+            "team": "XPLDZ"
+          },
+          {
+            "acs": "0.97\n0.64\n1.30",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "131\n73\n188",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "300",
+            "name": "chrollo",
+            "team": "XPLDZ"
+          },
+          {
+            "acs": "0.85\n1.18\n0.53",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "105\n137\n73",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "105",
+            "name": "TERNOS",
+            "team": "XPLDZ"
+          },
+          {
+            "acs": "0.72\n0.83\n0.61",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "76\n90\n63",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "111",
+            "name": "moner",
+            "team": "XPLDZ"
+          },
+          {
+            "acs": "0.64\n0.42\n0.86",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "114\n95\n134",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "188",
+            "name": "Shalaby",
+            "team": "XPLDZ"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.24\n1.18",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "171\n154\n187",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "320",
+            "name": "Shniider",
+            "team": "Team RA'AD"
+          },
+          {
+            "acs": "1.12\n1.22\n1.02",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "166\n187\n145",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "203",
+            "name": "Avez",
+            "team": "Team RA'AD"
+          },
+          {
+            "acs": "1.10\n1.17\n1.03",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "147\n136\n158",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "10\n6\n4",
+            "kills": "205",
+            "name": "phaze",
+            "team": "Team RA'AD"
+          },
+          {
+            "acs": "1.07\n1.06\n1.07",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "124\n114\n134",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "224",
+            "name": "Sand",
+            "team": "Team RA'AD"
+          },
+          {
+            "acs": "0.51\n0.55\n0.48",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "72\n69\n76",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "12\n5\n7",
+            "kills": "110",
+            "name": "Depyro",
+            "team": "Team RA'AD"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 99057,
+  "teams": [
+    "Team RA'AD",
+    "XPLDZ"
+  ],
+  "tournament": "Levant and North Africa: \n\t\t\t\t\t\tWeek 1"
+}

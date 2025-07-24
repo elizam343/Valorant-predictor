@@ -1,0 +1,788 @@
+{
+  "date": "2022-12-11 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "274",
+          "name": "gobera",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "202",
+          "name": "Maverick",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "211",
+          "name": "fuzari",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "178",
+          "name": "gustt1nha",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "140",
+          "name": "Myssen",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "239",
+          "name": "Tooug",
+          "team": "REiGN"
+        },
+        {
+          "kills": "237",
+          "name": "rajadaJJ",
+          "team": "REiGN"
+        },
+        {
+          "kills": "177",
+          "name": "Siduzord",
+          "team": "REiGN"
+        },
+        {
+          "kills": "156",
+          "name": "Champzera",
+          "team": "REiGN"
+        },
+        {
+          "kills": "171",
+          "name": "ind1n",
+          "team": "REiGN"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.54\n1.23",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "162\n167\n157",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "274",
+            "name": "gobera",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "1.15\n0.67\n1.64",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "127\n90\n164",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "8\n3\n5",
+            "kills": "202",
+            "name": "Maverick",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "0.99\n0.61\n1.37",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "142\n102\n183",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "211",
+            "name": "fuzari",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "0.90\n0.72\n1.08",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "124\n104\n143",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "178",
+            "name": "gustt1nha",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "0.80\n0.82\n0.77",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "92\n81\n104",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "17\n5\n12",
+            "kills": "140",
+            "name": "Myssen",
+            "team": "TOP GUN"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n0.69\n1.64",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "159\n110\n209",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "12\n3\n9",
+            "kills": "239",
+            "name": "Tooug",
+            "team": "REiGN"
+          },
+          {
+            "acs": "1.14\n0.94\n1.33",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "163\n151\n174",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "237",
+            "name": "rajadaJJ",
+            "team": "REiGN"
+          },
+          {
+            "acs": "0.99\n0.81\n1.17",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "118\n113\n122",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "12\n5\n7",
+            "kills": "177",
+            "name": "Siduzord",
+            "team": "REiGN"
+          },
+          {
+            "acs": "0.79\n0.90\n0.68",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "106\n113\n100",
+            "hs%": "75%\n92%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "156",
+            "name": "Champzera",
+            "team": "REiGN"
+          },
+          {
+            "acs": "0.68\n0.80\n0.56",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "101\n138\n64",
+            "hs%": "63%\n75%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "171",
+            "name": "ind1n",
+            "team": "REiGN"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "321",
+          "name": "gobera",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "Maverick",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "fuzari",
+          "team": null
+        },
+        {
+          "kills": "126",
+          "name": "gustt1nha",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "Myssen",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "rajadaJJ",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "Tooug",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "Champzera",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "Siduzord",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "ind1n",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.75\n1.10\n1.42",
+            "adr": "+15\n+17\n-2",
+            "agent": "",
+            "assists": "/\n\n48\n21\n27\n\n/",
+            "deaths": "63\n38\n25",
+            "fk": "187\n212\n163",
+            "hs%": "67%\n67%\n68%",
+            "kdr": "19\n5\n14",
+            "kills": "321",
+            "name": "gobera",
+            "team": null
+          },
+          {
+            "acs": "0.58\n1.60\n1.10",
+            "adr": "+4\n-11\n+15",
+            "agent": "",
+            "assists": "/\n\n46\n26\n20\n\n/",
+            "deaths": "50\n15\n35",
+            "fk": "139\n81\n196",
+            "hs%": "70%\n48%\n91%",
+            "kdr": "17\n6\n11",
+            "kills": "129",
+            "name": "Maverick",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.17\n1.05",
+            "adr": "+1\n-6\n+7",
+            "agent": "",
+            "assists": "/\n\n44\n26\n18\n\n/",
+            "deaths": "45\n20\n25",
+            "fk": "128\n115\n140",
+            "hs%": "72%\n67%\n76%",
+            "kdr": "28\n14\n14",
+            "kills": "189",
+            "name": "fuzari",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.92\n0.80",
+            "adr": "-18\n-15\n-3",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "34\n12\n22",
+            "fk": "109\n97\n121",
+            "hs%": "66%\n61%\n71%",
+            "kdr": "20\n11\n9",
+            "kills": "126",
+            "name": "gustt1nha",
+            "team": null
+          },
+          {
+            "acs": "0.52\n0.71\n0.62",
+            "adr": "-19\n-11\n-8",
+            "agent": "",
+            "assists": "/\n\n50\n25\n25\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "86\n74\n97",
+            "hs%": "60%\n61%\n59%",
+            "kdr": "23\n9\n14",
+            "kills": "121",
+            "name": "Myssen",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.21\n1.21",
+            "adr": "+15\n+9\n+6",
+            "agent": "",
+            "assists": "/\n\n40\n21\n19\n\n/",
+            "deaths": "55\n30\n25",
+            "fk": "147\n153\n142",
+            "hs%": "78%\n82%\n73%",
+            "kdr": "10\n4\n6",
+            "kills": "221",
+            "name": "rajadaJJ",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.32\n1.16",
+            "adr": "+13\n-1\n+14",
+            "agent": "",
+            "assists": "/\n\n41\n24\n17\n\n/",
+            "deaths": "54\n23\n31",
+            "fk": "144\n124\n164",
+            "hs%": "78%\n79%\n76%",
+            "kdr": "26\n13\n13",
+            "kills": "182",
+            "name": "Tooug",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.05\n1.00",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "46\n23\n23",
+            "fk": "128\n121\n135",
+            "hs%": "69%\n71%\n67%",
+            "kdr": "22\n10\n12",
+            "kills": "184",
+            "name": "Champzera",
+            "team": null
+          },
+          {
+            "acs": "0.83\n0.99\n0.91",
+            "adr": "-6\n-10\n+4",
+            "agent": "",
+            "assists": "/\n\n44\n29\n15\n\n/",
+            "deaths": "38\n19\n19",
+            "fk": "117\n126\n108",
+            "hs%": "73%\n68%\n79%",
+            "kdr": "33\n15\n18",
+            "kills": "182",
+            "name": "Siduzord",
+            "team": null
+          },
+          {
+            "acs": "0.62\n0.96\n0.79",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n54\n30\n24\n\n/",
+            "deaths": "47\n24\n23",
+            "fk": "122\n120\n124",
+            "hs%": "66%\n68%\n64%",
+            "kdr": "10\n5\n5",
+            "kills": "200",
+            "name": "ind1n",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "286",
+          "name": "gobera",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "211",
+          "name": "gustt1nha",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "88",
+          "name": "fuzari",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "312",
+          "name": "Maverick",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "130",
+          "name": "Myssen",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "245",
+          "name": "rajadaJJ",
+          "team": "REiGN"
+        },
+        {
+          "kills": "204",
+          "name": "Champzera",
+          "team": "REiGN"
+        },
+        {
+          "kills": "162",
+          "name": "Siduzord",
+          "team": "REiGN"
+        },
+        {
+          "kills": "163",
+          "name": "Tooug",
+          "team": "REiGN"
+        },
+        {
+          "kills": "261",
+          "name": "ind1n",
+          "team": "REiGN"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.73\n2.31\n1.04",
+            "adr": "+8\n+10\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "25\n17\n8",
+            "fk": "242\n275\n202",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "8\n3\n5",
+            "kills": "286",
+            "name": "gobera",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "0.96\n0.97\n0.95",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "121\n121\n121",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "211",
+            "name": "gustt1nha",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "0.82\n1.25\n0.31",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "110\n148\n64",
+            "hs%": "64%\n75%\n50%",
+            "kdr": "12\n10\n2",
+            "kills": "88",
+            "name": "fuzari",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "0.82\n0.22\n1.54",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "111\n40\n197",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "4\n1\n3",
+            "kills": "312",
+            "name": "Maverick",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "0.51\n0.48\n0.54",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "89\n95\n83",
+            "hs%": "45%\n50%\n40%",
+            "kdr": "6\n4\n2",
+            "kills": "130",
+            "name": "Myssen",
+            "team": "TOP GUN"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.28\n1.39",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "157\n153\n161",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "245",
+            "name": "rajadaJJ",
+            "team": "REiGN"
+          },
+          {
+            "acs": "1.19\n1.23\n1.15",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "152\n151\n153",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "7\n1\n6",
+            "kills": "204",
+            "name": "Champzera",
+            "team": "REiGN"
+          },
+          {
+            "acs": "1.02\n1.38\n0.72",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "133\n166\n106",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "12\n7\n5",
+            "kills": "162",
+            "name": "Siduzord",
+            "team": "REiGN"
+          },
+          {
+            "acs": "0.92\n1.23\n0.67",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "124\n140\n111",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "8\n6\n2",
+            "kills": "163",
+            "name": "Tooug",
+            "team": "REiGN"
+          },
+          {
+            "acs": "0.91\n0.58\n1.18",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "157\n147\n166",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "261",
+            "name": "ind1n",
+            "team": "REiGN"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "201",
+          "name": "fuzari",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "263",
+          "name": "Maverick",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "223",
+          "name": "gobera",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "111",
+          "name": "Myssen",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "116",
+          "name": "gustt1nha",
+          "team": "TOP GUN"
+        },
+        {
+          "kills": "245",
+          "name": "Tooug",
+          "team": "REiGN"
+        },
+        {
+          "kills": "176",
+          "name": "rajadaJJ",
+          "team": "REiGN"
+        },
+        {
+          "kills": "192",
+          "name": "Champzera",
+          "team": "REiGN"
+        },
+        {
+          "kills": "192",
+          "name": "ind1n",
+          "team": "REiGN"
+        },
+        {
+          "kills": "164",
+          "name": "Siduzord",
+          "team": "REiGN"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.35\n0.89\n1.70",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "130\n89\n161",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "11\n3\n8",
+            "kills": "201",
+            "name": "fuzari",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "1.32\n0.94\n1.60",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "183\n126\n227",
+            "hs%": "76%\n56%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "263",
+            "name": "Maverick",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "1.13\n1.28\n1.02",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "158\n185\n138",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "223",
+            "name": "gobera",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "0.53\n0.17\n0.79",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "74\n36\n103",
+            "hs%": "48%\n33%\n58%",
+            "kdr": "0\n0\n0",
+            "kills": "111",
+            "name": "Myssen",
+            "team": "TOP GUN"
+          },
+          {
+            "acs": "0.52\n0.22\n0.74",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "80\n54\n100",
+            "hs%": "71%\n56%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "116",
+            "name": "gustt1nha",
+            "team": "TOP GUN"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n1.11\n1.76",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "147\n124\n177",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "6\n4\n2",
+            "kills": "245",
+            "name": "Tooug",
+            "team": "REiGN"
+          },
+          {
+            "acs": "1.15\n1.40\n0.82",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "120\n154\n76",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "0\n0\n0",
+            "kills": "176",
+            "name": "rajadaJJ",
+            "team": "REiGN"
+          },
+          {
+            "acs": "1.03\n0.75\n1.39",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "127\n104\n158",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "10\n6\n4",
+            "kills": "192",
+            "name": "Champzera",
+            "team": "REiGN"
+          },
+          {
+            "acs": "0.79\n0.47\n1.22",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "110\n79\n150",
+            "hs%": "71%\n58%\n89%",
+            "kdr": "5\n1\n4",
+            "kills": "192",
+            "name": "ind1n",
+            "team": "REiGN"
+          },
+          {
+            "acs": "0.69\n0.39\n1.10",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n13\n1\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "99\n105\n91",
+            "hs%": "62%\n42%\n89%",
+            "kdr": "9\n3\n6",
+            "kills": "164",
+            "name": "Siduzord",
+            "team": "REiGN"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 161066,
+  "teams": [
+    "REiGN",
+    "TOP GUN"
+  ],
+  "tournament": "Closed Qualifier: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

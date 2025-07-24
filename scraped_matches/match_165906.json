@@ -1,0 +1,788 @@
+{
+  "date": "2023-01-15 04:10:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "177",
+          "name": "ValdyN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "209",
+          "name": "OWEN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "245",
+          "name": "ray4c",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "141",
+          "name": "r0serade",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "191",
+          "name": "RiseN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "247",
+          "name": "blood",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "244",
+          "name": "x v y",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "230",
+          "name": "Flynch",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "188",
+          "name": "Rapheleen",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "178",
+          "name": "RIZKYMD",
+          "team": "Le Crapaud"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.51\n0.27",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "112\n138\n73",
+            "hs%": "65%\n83%\n38%",
+            "kdr": "1\n1\n0",
+            "kills": "177",
+            "name": "ValdyN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.96\n1.23\n0.55",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "131\n129\n135",
+            "hs%": "70%\n83%\n50%",
+            "kdr": "8\n7\n1",
+            "kills": "209",
+            "name": "OWEN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.86\n1.01\n0.64",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "164\n170\n155",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "245",
+            "name": "ray4c",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.83\n1.24\n0.22",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "93\n115\n60",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "141",
+            "name": "r0serade",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.69\n0.83\n0.47",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "129\n139\n114",
+            "hs%": "60%\n67%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "191",
+            "name": "RiseN",
+            "team": "Dominatus"
+          }
+        ],
+        [
+          {
+            "acs": "1.38\n1.41\n1.36",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "181\n128\n216",
+            "hs%": "80%\n100%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "247",
+            "name": "blood",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "1.27\n2.13\n0.70",
+            "adr": "+7\n+9\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "182\n231\n149",
+            "hs%": "65%\n88%\n50%",
+            "kdr": "7\n4\n3",
+            "kills": "244",
+            "name": "x v y",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "1.24\n1.48\n1.08",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "137\n145\n132",
+            "hs%": "90%\n100%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "230",
+            "name": "Flynch",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "1.03\n1.80\n0.51",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "128\n178\n94",
+            "hs%": "70%\n100%\n50%",
+            "kdr": "5\n1\n4",
+            "kills": "188",
+            "name": "Rapheleen",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "0.84\n1.15\n0.64",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "110\n151\n82",
+            "hs%": "80%\n100%\n67%",
+            "kdr": "9\n5\n4",
+            "kills": "178",
+            "name": "RIZKYMD",
+            "team": "Le Crapaud"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "309",
+          "name": "ray4c",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "RiseN",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "OWEN",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "ValdyN",
+          "team": null
+        },
+        {
+          "kills": "132",
+          "name": "r0serade",
+          "team": null
+        },
+        {
+          "kills": "277",
+          "name": "Flynch",
+          "team": null
+        },
+        {
+          "kills": "240",
+          "name": "x v y",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "blood",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Rapheleen",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "RIZKYMD",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.14\n1.27\n1.20",
+            "adr": "+18\n+11\n+7",
+            "agent": "",
+            "assists": "/\n\n48\n27\n21\n\n/",
+            "deaths": "66\n38\n28",
+            "fk": "183\n185\n181",
+            "hs%": "70%\n72%\n68%",
+            "kdr": "13\n6\n7",
+            "kills": "309",
+            "name": "ray4c",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.06\n1.07",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "52\n29\n23",
+            "fk": "146\n145\n147",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "12\n5\n7",
+            "kills": "220",
+            "name": "RiseN",
+            "team": null
+          },
+          {
+            "acs": "1.11\n0.99\n1.06",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "42\n24\n18",
+            "fk": "119\n114\n126",
+            "hs%": "78%\n78%\n79%",
+            "kdr": "25\n13\n12",
+            "kills": "184",
+            "name": "OWEN",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.00\n1.00",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "49\n27\n22",
+            "fk": "135\n133\n137",
+            "hs%": "77%\n78%\n75%",
+            "kdr": "13\n5\n8",
+            "kills": "205",
+            "name": "ValdyN",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.90\n0.90",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n40\n21\n19\n\n/",
+            "deaths": "31\n16\n15",
+            "fk": "90\n87\n94",
+            "hs%": "81%\n78%\n86%",
+            "kdr": "30\n12\n18",
+            "kills": "132",
+            "name": "r0serade",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.27\n1.18\n1.22",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n48\n21\n27\n\n/",
+            "deaths": "56\n26\n30",
+            "fk": "158\n163\n155",
+            "hs%": "78%\n75%\n81%",
+            "kdr": "17\n9\n8",
+            "kills": "277",
+            "name": "Flynch",
+            "team": null
+          },
+          {
+            "acs": "1.32\n0.77\n1.01",
+            "adr": "+2\n+8\n-6",
+            "agent": "",
+            "assists": "/\n\n45\n17\n28\n\n/",
+            "deaths": "47\n25\n22",
+            "fk": "146\n168\n129",
+            "hs%": "63%\n68%\n58%",
+            "kdr": "12\n7\n5",
+            "kills": "240",
+            "name": "x v y",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.19\n0.99",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "43\n15\n28",
+            "fk": "132\n102\n155",
+            "hs%": "69%\n64%\n72%",
+            "kdr": "10\n4\n6",
+            "kills": "157",
+            "name": "blood",
+            "team": null
+          },
+          {
+            "acs": "1.03\n0.88\n0.94",
+            "adr": "-6\n+3\n-9",
+            "agent": "",
+            "assists": "/\n\n48\n20\n28\n\n/",
+            "deaths": "42\n23\n19",
+            "fk": "132\n144\n123",
+            "hs%": "66%\n71%\n61%",
+            "kdr": "25\n7\n18",
+            "kills": "217",
+            "name": "Rapheleen",
+            "team": null
+          },
+          {
+            "acs": "0.47\n0.74\n0.62",
+            "adr": "-24\n-14\n-10",
+            "agent": "",
+            "assists": "/\n\n54\n27\n27\n\n/",
+            "deaths": "30\n13\n17",
+            "fk": "94\n97\n91",
+            "hs%": "72%\n71%\n72%",
+            "kdr": "22\n11\n11",
+            "kills": "141",
+            "name": "RIZKYMD",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "391",
+          "name": "RiseN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "303",
+          "name": "ray4c",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "215",
+          "name": "OWEN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "130",
+          "name": "r0serade",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "171",
+          "name": "ValdyN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "245",
+          "name": "Flynch",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "262",
+          "name": "Rapheleen",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "132",
+          "name": "blood",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "143",
+          "name": "x v y",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "162",
+          "name": "RIZKYMD",
+          "team": "Le Crapaud"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.43\n1.09\n1.84",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "191\n165\n222",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "5\n3\n2",
+            "kills": "391",
+            "name": "RiseN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "1.34\n1.15\n1.58",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "182\n182\n182",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "7\n2\n5",
+            "kills": "303",
+            "name": "ray4c",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "1.30\n1.39\n1.19",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "139\n140\n138",
+            "hs%": "91%\n83%\n100%",
+            "kdr": "10\n3\n7",
+            "kills": "215",
+            "name": "OWEN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.87\n0.75\n1.01",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "72\n65\n80",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "11\n4\n7",
+            "kills": "130",
+            "name": "r0serade",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.64\n0.64\n0.63",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "116\n128\n102",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "5\n1\n4",
+            "kills": "171",
+            "name": "ValdyN",
+            "team": "Dominatus"
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n1.93\n1.00",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "202\n243\n168",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "245",
+            "name": "Flynch",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "0.88\n0.05\n1.57",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "108\n35\n169",
+            "hs%": "45%\n30%\n58%",
+            "kdr": "8\n1\n7",
+            "kills": "262",
+            "name": "Rapheleen",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "0.79\n0.58\n0.97",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "98\n114\n85",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "132",
+            "name": "blood",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "0.75\n0.87\n0.65",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "113\n130\n100",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "143",
+            "name": "x v y",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "0.53\n0.14\n0.85",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "87\n70\n101",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "162",
+            "name": "RIZKYMD",
+            "team": "Le Crapaud"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "341",
+          "name": "ray4c",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "270",
+          "name": "ValdyN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "166",
+          "name": "RiseN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "181",
+          "name": "r0serade",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "133",
+          "name": "OWEN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "220",
+          "name": "x v y",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "233",
+          "name": "Flynch",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "241",
+          "name": "Rapheleen",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "163",
+          "name": "blood",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "116",
+          "name": "RIZKYMD",
+          "team": "Le Crapaud"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.26\n1.48",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "203\n204\n201",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "4\n2\n2",
+            "kills": "341",
+            "name": "ray4c",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "1.36\n0.87\n1.94",
+            "adr": "+9\n0\n+9",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "175\n133\n224",
+            "hs%": "91%\n83%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "270",
+            "name": "ValdyN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "1.04\n1.29\n0.75",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "116\n131\n97",
+            "hs%": "86%\n92%\n80%",
+            "kdr": "5\n1\n4",
+            "kills": "166",
+            "name": "RiseN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.98\n0.69\n1.33",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "106\n82\n135",
+            "hs%": "91%\n83%\n100%",
+            "kdr": "11\n5\n6",
+            "kills": "181",
+            "name": "r0serade",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.91\n0.71\n1.15",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "89\n73\n108",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "7\n3\n4",
+            "kills": "133",
+            "name": "OWEN",
+            "team": "Dominatus"
+          }
+        ],
+        [
+          {
+            "acs": "1.03\n1.12\n0.96",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "146\n156\n137",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "220",
+            "name": "x v y",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "1.00\n0.45\n1.45",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "134\n98\n164",
+            "hs%": "68%\n50%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "233",
+            "name": "Flynch",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "0.93\n1.38\n0.56",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "160\n226\n106",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "12\n5\n7",
+            "kills": "241",
+            "name": "Rapheleen",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "0.84\n0.37\n1.23",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "122\n69\n166",
+            "hs%": "64%\n40%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "163",
+            "name": "blood",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "0.52\n0.27\n0.72",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "85\n80\n90",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "116",
+            "name": "RIZKYMD",
+            "team": "Le Crapaud"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 165906,
+  "teams": [
+    "Le Crapaud",
+    "Dominatus"
+  ],
+  "tournament": "Qualifier 2: \n\t\t\t\t\t\tDecider (A)"
+}

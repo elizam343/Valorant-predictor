@@ -1,0 +1,788 @@
+{
+  "date": "2022-05-10 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "305",
+          "name": "pMdr1",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "153",
+          "name": "fz",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "170",
+          "name": "lz",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "158",
+          "name": "guiih9",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "147",
+          "name": "tsu",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "223",
+          "name": "bruninej",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "179",
+          "name": "faintz",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "201",
+          "name": "lugn",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "132",
+          "name": "paiva",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "109",
+          "name": "Palozera",
+          "team": "S\u00f3 Deus Sabe"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.61\n1.27",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "194\n192\n197",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "8\n6\n2",
+            "kills": "305",
+            "name": "pMdr1",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "1.05\n1.23\n0.83",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "105\n120\n87",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "2\n0\n2",
+            "kills": "153",
+            "name": "fz",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "1.03\n0.94\n1.14",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "112\n109\n117",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "5\n2\n3",
+            "kills": "170",
+            "name": "lz",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "0.89\n0.38\n1.51",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "119\n44\n208",
+            "hs%": "55%\n42%\n70%",
+            "kdr": "6\n1\n5",
+            "kills": "158",
+            "name": "guiih9",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "0.80\n0.92\n0.66",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "100\n117\n78",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "5\n3\n2",
+            "kills": "147",
+            "name": "tsu",
+            "team": "Supremacyy"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n0.93\n1.45",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "133\n120\n143",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "223",
+            "name": "bruninej",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "1.11\n1.26\n0.98",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "113\n118\n109",
+            "hs%": "73%\n90%\n58%",
+            "kdr": "7\n2\n5",
+            "kills": "179",
+            "name": "faintz",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "1.05\n1.53\n0.65",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "125\n185\n75",
+            "hs%": "55%\n70%\n42%",
+            "kdr": "3\n0\n3",
+            "kills": "201",
+            "name": "lugn",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "0.66\n0.07\n1.14",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "77\n27\n118",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "132",
+            "name": "paiva",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "0.54\n0.40\n0.66",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "79\n45\n107",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "109",
+            "name": "Palozera",
+            "team": "S\u00f3 Deus Sabe"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "198",
+          "name": "lz",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "fz",
+          "team": null
+        },
+        {
+          "kills": "241",
+          "name": "pMdr1",
+          "team": null
+        },
+        {
+          "kills": "127",
+          "name": "guiih9",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "tsu",
+          "team": null
+        },
+        {
+          "kills": "241",
+          "name": "paiva",
+          "team": null
+        },
+        {
+          "kills": "276",
+          "name": "lugn",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "bruninej",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "faintz",
+          "team": null
+        },
+        {
+          "kills": "98",
+          "name": "Palozera",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.95\n1.22\n1.10",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n40\n19\n21\n\n/",
+            "deaths": "48\n19\n29",
+            "fk": "135\n122\n146",
+            "hs%": "66%\n64%\n68%",
+            "kdr": "12\n5\n7",
+            "kills": "198",
+            "name": "lz",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.09\n1.08",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "45\n21\n24",
+            "fk": "130\n136\n125",
+            "hs%": "68%\n68%\n68%",
+            "kdr": "7\n1\n6",
+            "kills": "215",
+            "name": "fz",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.82\n0.96",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n48\n22\n26\n\n/",
+            "deaths": "48\n22\n26",
+            "fk": "148\n165\n134",
+            "hs%": "60%\n57%\n62%",
+            "kdr": "11\n8\n3",
+            "kills": "241",
+            "name": "pMdr1",
+            "team": null
+          },
+          {
+            "acs": "0.54\n1.02\n0.80",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "33\n12\n21",
+            "fk": "120\n81\n153",
+            "hs%": "65%\n57%\n71%",
+            "kdr": "16\n2\n14",
+            "kills": "127",
+            "name": "guiih9",
+            "team": null
+          },
+          {
+            "acs": "0.46\n0.69\n0.57",
+            "adr": "-21\n-12\n-9",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "92\n88\n96",
+            "hs%": "55%\n50%\n59%",
+            "kdr": "11\n5\n6",
+            "kills": "130",
+            "name": "tsu",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n1.47\n1.24",
+            "adr": "+18\n+6\n+12",
+            "agent": "",
+            "assists": "/\n\n41\n25\n16\n\n/",
+            "deaths": "59\n31\n28",
+            "fk": "153\n146\n161",
+            "hs%": "81%\n76%\n86%",
+            "kdr": "10\n7\n3",
+            "kills": "241",
+            "name": "paiva",
+            "team": null
+          },
+          {
+            "acs": "1.54\n0.82\n1.21",
+            "adr": "+11\n+16\n-5",
+            "agent": "",
+            "assists": "/\n\n37\n18\n19\n\n/",
+            "deaths": "48\n34\n14",
+            "fk": "141\n174\n102",
+            "hs%": "61%\n68%\n54%",
+            "kdr": "12\n5\n7",
+            "kills": "276",
+            "name": "lugn",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.44\n1.12",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n40\n23\n17\n\n/",
+            "deaths": "49\n21\n28",
+            "fk": "139\n109\n176",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "16\n8\n8",
+            "kills": "175",
+            "name": "bruninej",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.01\n1.02",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n38\n22\n16\n\n/",
+            "deaths": "35\n19\n16",
+            "fk": "106\n108\n104",
+            "hs%": "74%\n76%\n71%",
+            "kdr": "25\n13\n12",
+            "kills": "163",
+            "name": "faintz",
+            "team": null
+          },
+          {
+            "acs": "0.51\n1.01\n0.73",
+            "adr": "-12\n-13\n+1",
+            "agent": "",
+            "assists": "/\n\n42\n25\n17\n\n/",
+            "deaths": "30\n12\n18",
+            "fk": "100\n66\n141",
+            "hs%": "66%\n68%\n64%",
+            "kdr": "16\n9\n7",
+            "kills": "98",
+            "name": "Palozera",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "229",
+          "name": "lz",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "274",
+          "name": "fz",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "199",
+          "name": "tsu",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "91",
+          "name": "pMdr1",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "63",
+          "name": "guiih9",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "256",
+          "name": "paiva",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "259",
+          "name": "lugn",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "277",
+          "name": "faintz",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "347",
+          "name": "bruninej",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "130",
+          "name": "Palozera",
+          "team": "S\u00f3 Deus Sabe"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.15\n0.75\n1.32",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "133\n124\n137",
+            "hs%": "65%\n100%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "229",
+            "name": "lz",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "1.10\n0.71\n1.26",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "167\n160\n169",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "274",
+            "name": "fz",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "0.61\n0.32\n0.73",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "128\n99\n140",
+            "hs%": "65%\n80%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "199",
+            "name": "tsu",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "0.47\n1.15\n0.20",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "98\n193\n59",
+            "hs%": "59%\n80%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "91",
+            "name": "pMdr1",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "0.04\n0.02\n0.07",
+            "adr": "-13\n-4\n-9",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "2\n1\n1",
+            "fk": "37\n16\n46",
+            "hs%": "53%\n60%\n50%",
+            "kdr": "4\n0\n4",
+            "kills": "63",
+            "name": "guiih9",
+            "team": "Supremacyy"
+          }
+        ],
+        [
+          {
+            "acs": "1.80\n1.63\n2.20",
+            "adr": "+14\n+9\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "24\n18\n6",
+            "fk": "220\n240\n173",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "256",
+            "name": "paiva",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "1.64\n1.68\n1.54",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "171\n163\n189",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "6\n3\n3",
+            "kills": "259",
+            "name": "lugn",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "1.34\n1.32\n1.38",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "151\n147\n159",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "10\n5\n5",
+            "kills": "277",
+            "name": "faintz",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "1.23\n1.14\n1.45",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "160\n127\n238",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "347",
+            "name": "bruninej",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "0.49\n0.45\n0.59",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "71\n66\n83",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "130",
+            "name": "Palozera",
+            "team": "S\u00f3 Deus Sabe"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "283",
+          "name": "guiih9",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "236",
+          "name": "lz",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "210",
+          "name": "fz",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "216",
+          "name": "pMdr1",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "61",
+          "name": "tsu",
+          "team": "Supremacyy"
+        },
+        {
+          "kills": "294",
+          "name": "paiva",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "181",
+          "name": "Palozera",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "202",
+          "name": "lugn",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "209",
+          "name": "bruninej",
+          "team": "S\u00f3 Deus Sabe"
+        },
+        {
+          "kills": "106",
+          "name": "faintz",
+          "team": "S\u00f3 Deus Sabe"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.27\n0.95\n1.56",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "184\n151\n213",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "283",
+            "name": "guiih9",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "1.13\n1.06\n1.19",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "159\n135\n181",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "236",
+            "name": "lz",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "1.10\n1.08\n1.13",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "126\n141\n113",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "210",
+            "name": "fz",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "0.84\n0.60\n1.07",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "141\n122\n158",
+            "hs%": "57%\n36%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "216",
+            "name": "pMdr1",
+            "team": "Supremacyy"
+          },
+          {
+            "acs": "0.33\n0.03\n0.67",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "59\n51\n66",
+            "hs%": "43%\n27%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "61",
+            "name": "tsu",
+            "team": "Supremacyy"
+          }
+        ],
+        [
+          {
+            "acs": "1.38\n1.28\n1.49",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "176\n151\n203",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "2\n1\n1",
+            "kills": "294",
+            "name": "paiva",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "1.10\n0.67\n1.57",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "141\n83\n204",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "5\n3\n2",
+            "kills": "181",
+            "name": "Palozera",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "1.06\n1.41\n0.68",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "135\n175\n90",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "3\n2\n1",
+            "kills": "202",
+            "name": "lugn",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "0.94\n0.48\n1.44",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "131\n82\n183",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "209",
+            "name": "bruninej",
+            "team": "S\u00f3 Deus Sabe"
+          },
+          {
+            "acs": "0.71\n0.55\n0.88",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "67\n61\n74",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "8\n6\n2",
+            "kills": "106",
+            "name": "faintz",
+            "team": "S\u00f3 Deus Sabe"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 99658,
+  "teams": [
+    "Supremacyy",
+    "S\u00f3 Deus Sabe"
+  ],
+  "tournament": "Open Qualifier #1: \n\t\t\t\t\t\tQF"
+}

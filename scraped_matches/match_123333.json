@@ -1,0 +1,594 @@
+{
+  "date": "2022-08-11 20:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "257",
+          "name": "vanity",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "295",
+          "name": "leaf",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "144",
+          "name": "curry",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "219",
+          "name": "Xeppaa",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "171",
+          "name": "mitch",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "198",
+          "name": "s0m",
+          "team": "NRG"
+        },
+        {
+          "kills": "190",
+          "name": "Ethan",
+          "team": "NRG"
+        },
+        {
+          "kills": "207",
+          "name": "hazed",
+          "team": "NRG"
+        },
+        {
+          "kills": "160",
+          "name": "tex",
+          "team": "NRG"
+        },
+        {
+          "kills": "168",
+          "name": "eeiu",
+          "team": "NRG"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.51\n1.51\n1.52",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "155\n143\n174",
+            "hs%": "85%\n100%\n63%",
+            "kdr": "7\n5\n2",
+            "kills": "257",
+            "name": "vanity",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.40\n1.47\n1.30",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "24\n16\n8",
+            "fk": "193\n237\n127",
+            "hs%": "65%\n75%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "295",
+            "name": "leaf",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.09\n1.18\n0.94",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "123\n103\n152",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "13\n5\n8",
+            "kills": "144",
+            "name": "curry",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.04\n1.02\n1.08",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "138\n128\n154",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "8\n3\n5",
+            "kills": "219",
+            "name": "Xeppaa",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.80\n1.19\n0.23",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "122\n146\n85",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "171",
+            "name": "mitch",
+            "team": "Cloud9"
+          }
+        ],
+        [
+          {
+            "acs": "1.02\n0.67\n1.25",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "120\n88\n141",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "198",
+            "name": "s0m",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.89\n1.59\n0.42",
+            "adr": "-3\n+4\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "123\n172\n90",
+            "hs%": "60%\n75%\n50%",
+            "kdr": "6\n4\n2",
+            "kills": "190",
+            "name": "Ethan",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.84\n1.37\n0.49",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "133\n162\n114",
+            "hs%": "75%\n100%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "207",
+            "name": "hazed",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.84\n1.15\n0.64",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "112\n135\n97",
+            "hs%": "65%\n75%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "160",
+            "name": "tex",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.72\n0.49\n0.88",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "123\n77\n154",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "168",
+            "name": "eeiu",
+            "team": "NRG"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "219",
+          "name": "vanity",
+          "team": null
+        },
+        {
+          "kills": "321",
+          "name": "leaf",
+          "team": null
+        },
+        {
+          "kills": "247",
+          "name": "Xeppaa",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "curry",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "mitch",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "tex",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "eeiu",
+          "team": null
+        },
+        {
+          "kills": "242",
+          "name": "s0m",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "hazed",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "Ethan",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.22\n1.31",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n26\n10\n16\n\n/",
+            "deaths": "34\n17\n17",
+            "fk": "148\n141\n154",
+            "hs%": "78%\n90%\n65%",
+            "kdr": "13\n8\n5",
+            "kills": "219",
+            "name": "vanity",
+            "team": null
+          },
+          {
+            "acs": "1.47\n1.07\n1.27",
+            "adr": "+11\n+10\n+1",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "41\n25\n16",
+            "fk": "181\n216\n144",
+            "hs%": "63%\n76%\n50%",
+            "kdr": "8\n5\n3",
+            "kills": "321",
+            "name": "leaf",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.36\n1.24",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n30\n13\n17\n\n/",
+            "deaths": "38\n19\n19",
+            "fk": "173\n145\n202",
+            "hs%": "83%\n86%\n80%",
+            "kdr": "16\n6\n10",
+            "kills": "247",
+            "name": "Xeppaa",
+            "team": null
+          },
+          {
+            "acs": "1.38\n0.85\n1.12",
+            "adr": "-2\n+6\n-8",
+            "agent": "",
+            "assists": "/\n\n27\n10\n17\n\n/",
+            "deaths": "25\n16\n9",
+            "fk": "134\n147\n121",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "24\n11\n13",
+            "kills": "219",
+            "name": "curry",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.53\n0.81",
+            "adr": "-4\n+4\n-8",
+            "agent": "",
+            "assists": "/\n\n26\n11\n15\n\n/",
+            "deaths": "22\n15\n7",
+            "fk": "98\n124\n71",
+            "hs%": "66%\n71%\n60%",
+            "kdr": "7\n2\n5",
+            "kills": "169",
+            "name": "mitch",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.98\n0.90\n0.94",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n32\n14\n18\n\n/",
+            "deaths": "31\n17\n14",
+            "fk": "134\n143\n126",
+            "hs%": "73%\n70%\n76%",
+            "kdr": "6\n3\n3",
+            "kills": "220",
+            "name": "tex",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.79\n0.90",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n31\n13\n18\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "152\n147\n156",
+            "hs%": "78%\n85%\n71%",
+            "kdr": "15\n9\n6",
+            "kills": "201",
+            "name": "eeiu",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.78\n0.89",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n35\n16\n19\n\n/",
+            "deaths": "32\n18\n14",
+            "fk": "127\n151\n104",
+            "hs%": "68%\n85%\n52%",
+            "kdr": "9\n6\n3",
+            "kills": "242",
+            "name": "s0m",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.72\n0.89",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n31\n13\n18\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "126\n126\n125",
+            "hs%": "71%\n80%\n62%",
+            "kdr": "15\n9\n6",
+            "kills": "219",
+            "name": "hazed",
+            "team": null
+          },
+          {
+            "acs": "1.23\n0.46\n0.84",
+            "adr": "-6\n+5\n-11",
+            "agent": "",
+            "assists": "/\n\n31\n12\n19\n\n/",
+            "deaths": "25\n17\n8",
+            "fk": "122\n134\n110",
+            "hs%": "66%\n80%\n52%",
+            "kdr": "12\n8\n4",
+            "kills": "223",
+            "name": "Ethan",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "348",
+          "name": "Xeppaa",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "145",
+          "name": "curry",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "213",
+          "name": "leaf",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "215",
+          "name": "vanity",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "99",
+          "name": "mitch",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "191",
+          "name": "eeiu",
+          "team": "NRG"
+        },
+        {
+          "kills": "281",
+          "name": "tex",
+          "team": "NRG"
+        },
+        {
+          "kills": "208",
+          "name": "hazed",
+          "team": "NRG"
+        },
+        {
+          "kills": "186",
+          "name": "Ethan",
+          "team": "NRG"
+        },
+        {
+          "kills": "89",
+          "name": "s0m",
+          "team": "NRG"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.44\n1.30\n1.54",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "206\n168\n235",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "348",
+            "name": "Xeppaa",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.16\n1.65\n0.79",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "145\n205\n101",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "11\n6\n5",
+            "kills": "145",
+            "name": "curry",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.15\n1.47\n0.92",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "170\n189\n156",
+            "hs%": "62%\n78%\n50%",
+            "kdr": "7\n4\n3",
+            "kills": "213",
+            "name": "leaf",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.12\n1.25\n1.01",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "140\n139\n141",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "215",
+            "name": "vanity",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.82\n0.93\n0.73",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "76\n93\n62",
+            "hs%": "62%\n78%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "99",
+            "name": "mitch",
+            "team": "Cloud9"
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n1.37\n0.67",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "179\n194\n159",
+            "hs%": "81%\n92%\n67%",
+            "kdr": "8\n6\n2",
+            "kills": "191",
+            "name": "eeiu",
+            "team": "NRG"
+          },
+          {
+            "acs": "1.02\n0.86\n1.24",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "155\n148\n165",
+            "hs%": "81%\n67%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "281",
+            "name": "tex",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.93\n0.86\n1.03",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "119\n102\n140",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "10\n6\n4",
+            "kills": "208",
+            "name": "hazed",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.79\n0.99\n0.52",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "121\n108\n138",
+            "hs%": "71%\n83%\n56%",
+            "kdr": "6\n4\n2",
+            "kills": "186",
+            "name": "Ethan",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.76\n1.22\n0.15",
+            "adr": "0\n+6\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "133\n192\n53",
+            "hs%": "62%\n83%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "89",
+            "name": "s0m",
+            "team": "NRG"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 123333,
+  "teams": [
+    "Cloud9",
+    "NRG"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tLower Round 2"
+}

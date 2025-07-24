@@ -1,0 +1,594 @@
+{
+  "date": "2022-04-30 03:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "272",
+          "name": "Kea",
+          "team": "KRAKEN ESC Female"
+        },
+        {
+          "kills": "117",
+          "name": "connie",
+          "team": "KRAKEN ESC Female"
+        },
+        {
+          "kills": "169",
+          "name": "shaypleh",
+          "team": "KRAKEN ESC Female"
+        },
+        {
+          "kills": "180",
+          "name": "soko",
+          "team": "KRAKEN ESC Female"
+        },
+        {
+          "kills": "116",
+          "name": "toka",
+          "team": "KRAKEN ESC Female"
+        },
+        {
+          "kills": "364",
+          "name": "Joie",
+          "team": "Sovereign"
+        },
+        {
+          "kills": "315",
+          "name": "Lucidity",
+          "team": "Sovereign"
+        },
+        {
+          "kills": "257",
+          "name": "ReyDawg",
+          "team": "Sovereign"
+        },
+        {
+          "kills": "218",
+          "name": "Che",
+          "team": "Sovereign"
+        },
+        {
+          "kills": "104",
+          "name": "Elaine",
+          "team": "Sovereign"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.00\n1.03",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "161\n167\n159",
+            "hs%": "63%\n50%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "272",
+            "name": "Kea",
+            "team": "KRAKEN ESC Female"
+          },
+          {
+            "acs": "0.62\n0.87\n0.54",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "78\n26\n96",
+            "hs%": "69%\n75%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "117",
+            "name": "connie",
+            "team": "KRAKEN ESC Female"
+          },
+          {
+            "acs": "0.60\n0.81\n0.54",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "112\n113\n112",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "169",
+            "name": "shaypleh",
+            "team": "KRAKEN ESC Female"
+          },
+          {
+            "acs": "0.52\n0.29\n0.59",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "112\n87\n120",
+            "hs%": "50%\n75%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "180",
+            "name": "soko",
+            "team": "KRAKEN ESC Female"
+          },
+          {
+            "acs": "0.43\n0.62\n0.37",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "83\n45\n95",
+            "hs%": "56%\n25%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "116",
+            "name": "toka",
+            "team": "KRAKEN ESC Female"
+          }
+        ],
+        [
+          {
+            "acs": "1.90\n2.20\n0.98",
+            "adr": "+14\n+14\n0",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "23\n21\n2",
+            "fk": "257\n312\n94",
+            "hs%": "94%\n100%\n75%",
+            "kdr": "5\n4\n1",
+            "kills": "364",
+            "name": "Joie",
+            "team": "Sovereign"
+          },
+          {
+            "acs": "1.57\n1.38\n2.13",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "202\n188\n243",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "16\n13\n3",
+            "kills": "315",
+            "name": "Lucidity",
+            "team": "Sovereign"
+          },
+          {
+            "acs": "1.55\n1.81\n0.77",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "162\n174\n126",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "257",
+            "name": "ReyDawg",
+            "team": "Sovereign"
+          },
+          {
+            "acs": "1.18\n1.19\n1.15",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "131\n136\n118",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "218",
+            "name": "Che",
+            "team": "Sovereign"
+          },
+          {
+            "acs": "0.76\n0.68\n1.01",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "63\n52\n93",
+            "hs%": "81%\n92%\n50%",
+            "kdr": "10\n9\n1",
+            "kills": "104",
+            "name": "Elaine",
+            "team": "Sovereign"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "221",
+          "name": "soko",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "connie",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "Kea",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "toka",
+          "team": null
+        },
+        {
+          "kills": "120",
+          "name": "shaypleh",
+          "team": null
+        },
+        {
+          "kills": "242",
+          "name": "ReyDawg",
+          "team": null
+        },
+        {
+          "kills": "272",
+          "name": "Lucidity",
+          "team": null
+        },
+        {
+          "kills": "346",
+          "name": "Joie",
+          "team": null
+        },
+        {
+          "kills": "246",
+          "name": "Che",
+          "team": null
+        },
+        {
+          "kills": "131",
+          "name": "Elaine",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.53\n1.26\n1.07",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n30\n8\n22\n\n/",
+            "deaths": "28\n5\n23",
+            "fk": "165\n139\n174",
+            "hs%": "66%\n75%\n63%",
+            "kdr": "5\n3\n2",
+            "kills": "221",
+            "name": "soko",
+            "team": null
+          },
+          {
+            "acs": "1.11\n0.66\n0.78",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n25\n5\n20\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "103\n65\n115",
+            "hs%": "63%\n63%\n63%",
+            "kdr": "6\n2\n4",
+            "kills": "148",
+            "name": "connie",
+            "team": null
+          },
+          {
+            "acs": "0.61\n0.74\n0.71",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n27\n7\n20\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "118\n98\n125",
+            "hs%": "50%\n38%\n54%",
+            "kdr": "2\n0\n2",
+            "kills": "192",
+            "name": "Kea",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.58\n0.60",
+            "adr": "-14\n-3\n-11",
+            "agent": "",
+            "assists": "/\n\n29\n7\n22\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "108\n75\n118",
+            "hs%": "63%\n38%\n71%",
+            "kdr": "5\n1\n4",
+            "kills": "129",
+            "name": "toka",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.61\n0.56",
+            "adr": "-15\n-5\n-10",
+            "agent": "",
+            "assists": "/\n\n29\n8\n21\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "100\n67\n112",
+            "hs%": "66%\n63%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "120",
+            "name": "shaypleh",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.37\n1.40",
+            "adr": "+11\n+10\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "27\n21\n6",
+            "fk": "148\n141\n167",
+            "hs%": "91%\n88%\n100%",
+            "kdr": "15\n9\n6",
+            "kills": "242",
+            "name": "ReyDawg",
+            "team": null
+          },
+          {
+            "acs": "1.21\n1.93\n1.39",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n23\n18\n5\n\n/",
+            "deaths": "33\n21\n12",
+            "fk": "202\n188\n245",
+            "hs%": "78%\n79%\n75%",
+            "kdr": "21\n17\n4",
+            "kills": "272",
+            "name": "Lucidity",
+            "team": null
+          },
+          {
+            "acs": "1.49\n0.93\n1.35",
+            "adr": "+13\n+13\n0",
+            "agent": "",
+            "assists": "/\n\n22\n18\n4\n\n/",
+            "deaths": "35\n31\n4",
+            "fk": "202\n236\n98",
+            "hs%": "88%\n92%\n75%",
+            "kdr": "8\n7\n1",
+            "kills": "346",
+            "name": "Joie",
+            "team": null
+          },
+          {
+            "acs": "1.35\n0.93\n1.25",
+            "adr": "+10\n+10\n0",
+            "agent": "",
+            "assists": "/\n\n18\n13\n5\n\n/",
+            "deaths": "28\n23\n5",
+            "fk": "142\n158\n95",
+            "hs%": "84%\n79%\n100%",
+            "kdr": "5\n5\n0",
+            "kills": "246",
+            "name": "Che",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.28\n0.86",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n13\n4\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "92\n78\n133",
+            "hs%": "84%\n88%\n75%",
+            "kdr": "14\n12\n2",
+            "kills": "131",
+            "name": "Elaine",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "372",
+          "name": "soko",
+          "team": "KRAKEN ESC Female"
+        },
+        {
+          "kills": "198",
+          "name": "connie",
+          "team": "KRAKEN ESC Female"
+        },
+        {
+          "kills": "203",
+          "name": "toka",
+          "team": "KRAKEN ESC Female"
+        },
+        {
+          "kills": "166",
+          "name": "shaypleh",
+          "team": "KRAKEN ESC Female"
+        },
+        {
+          "kills": "121",
+          "name": "Kea",
+          "team": "KRAKEN ESC Female"
+        },
+        {
+          "kills": "113",
+          "name": "Che",
+          "team": "Sovereign"
+        },
+        {
+          "kills": "326",
+          "name": "ReyDawg",
+          "team": "Sovereign"
+        },
+        {
+          "kills": "385",
+          "name": "Lucidity",
+          "team": "Sovereign"
+        },
+        {
+          "kills": "277",
+          "name": "Elaine",
+          "team": "Sovereign"
+        },
+        {
+          "kills": "131",
+          "name": "Joie",
+          "team": "Sovereign"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.63\n0.76\n1.92",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "19\n3\n16",
+            "fk": "218\n190\n228",
+            "hs%": "81%\n75%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "372",
+            "name": "soko",
+            "team": "KRAKEN ESC Female"
+          },
+          {
+            "acs": "0.93\n1.36\n0.78",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "127\n104\n135",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "198",
+            "name": "connie",
+            "team": "KRAKEN ESC Female"
+          },
+          {
+            "acs": "0.78\n0.76\n0.78",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "133\n106\n142",
+            "hs%": "69%\n50%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "203",
+            "name": "toka",
+            "team": "KRAKEN ESC Female"
+          },
+          {
+            "acs": "0.51\n0.03\n0.69",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "6\n0\n6",
+            "fk": "89\n20\n111",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "166",
+            "name": "shaypleh",
+            "team": "KRAKEN ESC Female"
+          },
+          {
+            "acs": "0.40\n0.23\n0.46",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "76\n30\n92",
+            "hs%": "38%\n25%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "121",
+            "name": "Kea",
+            "team": "KRAKEN ESC Female"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.51\n0.72",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "153\n180\n73",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "113",
+            "name": "Che",
+            "team": "Sovereign"
+          },
+          {
+            "acs": "1.26\n1.02\n1.97",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "133\n108\n208",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "9\n6\n3",
+            "kills": "326",
+            "name": "ReyDawg",
+            "team": "Sovereign"
+          },
+          {
+            "acs": "1.21\n1.04\n1.72",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "203\n187\n248",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "5\n4\n1",
+            "kills": "385",
+            "name": "Lucidity",
+            "team": "Sovereign"
+          },
+          {
+            "acs": "0.96\n0.76\n1.56",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "121\n104\n173",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "277",
+            "name": "Elaine",
+            "team": "Sovereign"
+          },
+          {
+            "acs": "0.80\n0.77\n0.87",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "146\n161\n103",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "3\n3\n0",
+            "kills": "131",
+            "name": "Joie",
+            "team": "Sovereign"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 95198,
+  "teams": [
+    "KRAKEN ESC Female",
+    "Sovereign"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup M"
+}

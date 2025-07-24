@@ -1,0 +1,594 @@
+{
+  "date": "2022-04-28 20:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "214",
+          "name": "BlackHeart",
+          "team": "Built By Gamers Academy"
+        },
+        {
+          "kills": "225",
+          "name": "snirot",
+          "team": "Built By Gamers Academy"
+        },
+        {
+          "kills": "189",
+          "name": "khanartist",
+          "team": "Built By Gamers Academy"
+        },
+        {
+          "kills": "227",
+          "name": "FireBallOps",
+          "team": "Built By Gamers Academy"
+        },
+        {
+          "kills": "120",
+          "name": "monSi",
+          "team": "Built By Gamers Academy"
+        },
+        {
+          "kills": "234",
+          "name": "Temperature",
+          "team": "Solstice Esports"
+        },
+        {
+          "kills": "186",
+          "name": "Stealthy",
+          "team": "Solstice Esports"
+        },
+        {
+          "kills": "213",
+          "name": "JSP",
+          "team": "Solstice Esports"
+        },
+        {
+          "kills": "202",
+          "name": "tyti",
+          "team": "Solstice Esports"
+        },
+        {
+          "kills": "104",
+          "name": "Flippsy",
+          "team": "Solstice Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.15\n1.45",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "151\n114\n185",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "214",
+            "name": "BlackHeart",
+            "team": "Built By Gamers Academy"
+          },
+          {
+            "acs": "1.19\n1.55\n0.86",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "137\n196\n83",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "225",
+            "name": "snirot",
+            "team": "Built By Gamers Academy"
+          },
+          {
+            "acs": "1.05\n1.10\n1.00",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "124\n112\n135",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "189",
+            "name": "khanartist",
+            "team": "Built By Gamers Academy"
+          },
+          {
+            "acs": "0.97\n0.92\n1.03",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "145\n123\n164",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "227",
+            "name": "FireBallOps",
+            "team": "Built By Gamers Academy"
+          },
+          {
+            "acs": "0.79\n0.72\n0.86",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "89\n69\n108",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "120",
+            "name": "monSi",
+            "team": "Built By Gamers Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n0.91\n1.50",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "158\n108\n213",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "3\n0\n3",
+            "kills": "234",
+            "name": "Temperature",
+            "team": "Solstice Esports"
+          },
+          {
+            "acs": "1.10\n1.17\n1.03",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "105\n112\n97",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "3\n0\n3",
+            "kills": "186",
+            "name": "Stealthy",
+            "team": "Solstice Esports"
+          },
+          {
+            "acs": "0.98\n1.37\n0.55",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "152\n225\n72",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "5\n3\n2",
+            "kills": "213",
+            "name": "JSP",
+            "team": "Solstice Esports"
+          },
+          {
+            "acs": "0.86\n1.10\n0.60",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "146\n164\n126",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "5\n3\n2",
+            "kills": "202",
+            "name": "tyti",
+            "team": "Solstice Esports"
+          },
+          {
+            "acs": "0.45\n0.20\n0.72",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "74\n43\n109",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "5\n4\n1",
+            "kills": "104",
+            "name": "Flippsy",
+            "team": "Solstice Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "283",
+          "name": "snirot",
+          "team": null
+        },
+        {
+          "kills": "268",
+          "name": "FireBallOps",
+          "team": null
+        },
+        {
+          "kills": "116",
+          "name": "BlackHeart",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "khanartist",
+          "team": null
+        },
+        {
+          "kills": "122",
+          "name": "monSi",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "Temperature",
+          "team": null
+        },
+        {
+          "kills": "228",
+          "name": "Stealthy",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "JSP",
+          "team": null
+        },
+        {
+          "kills": "228",
+          "name": "tyti",
+          "team": null
+        },
+        {
+          "kills": "71",
+          "name": "Flippsy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.38\n1.06\n1.23",
+            "adr": "+11\n+9\n+2",
+            "agent": "",
+            "assists": "/\n\n24\n14\n10\n\n/",
+            "deaths": "35\n23\n12",
+            "fk": "138\n170\n103",
+            "hs%": "70%\n61%\n81%",
+            "kdr": "11\n4\n7",
+            "kills": "283",
+            "name": "snirot",
+            "team": null
+          },
+          {
+            "acs": "1.20\n1.19\n1.20",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n29\n17\n12\n\n/",
+            "deaths": "41\n22\n19",
+            "fk": "157\n164\n150",
+            "hs%": "73%\n78%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "268",
+            "name": "FireBallOps",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.44\n1.15",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "31\n10\n21",
+            "fk": "135\n79\n197",
+            "hs%": "73%\n74%\n71%",
+            "kdr": "11\n8\n3",
+            "kills": "116",
+            "name": "BlackHeart",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.05\n1.07",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n26\n14\n12\n\n/",
+            "deaths": "33\n19\n14",
+            "fk": "125\n132\n117",
+            "hs%": "80%\n83%\n76%",
+            "kdr": "10\n4\n6",
+            "kills": "213",
+            "name": "khanartist",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.96\n0.85",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "110\n88\n134",
+            "hs%": "70%\n65%\n76%",
+            "kdr": "7\n3\n4",
+            "kills": "122",
+            "name": "monSi",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.91\n1.49\n1.21",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "32\n11\n21",
+            "fk": "155\n113\n193",
+            "hs%": "61%\n62%\n61%",
+            "kdr": "10\n4\n6",
+            "kills": "166",
+            "name": "Temperature",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.01\n1.07",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n28\n14\n14\n\n/",
+            "deaths": "30\n18\n12",
+            "fk": "117\n124\n110",
+            "hs%": "66%\n67%\n65%",
+            "kdr": "7\n1\n6",
+            "kills": "228",
+            "name": "Stealthy",
+            "team": null
+          },
+          {
+            "acs": "1.03\n0.58\n0.79",
+            "adr": "-12\n-2\n-10",
+            "agent": "",
+            "assists": "/\n\n36\n16\n20\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "131\n154\n110",
+            "hs%": "70%\n76%\n65%",
+            "kdr": "9\n6\n3",
+            "kills": "213",
+            "name": "JSP",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.57\n0.75",
+            "adr": "-11\n-2\n-9",
+            "agent": "",
+            "assists": "/\n\n36\n17\n19\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "122\n150\n98",
+            "hs%": "64%\n67%\n61%",
+            "kdr": "6\n3\n3",
+            "kills": "228",
+            "name": "tyti",
+            "team": null
+          },
+          {
+            "acs": "0.23\n0.92\n0.59",
+            "adr": "-16\n-16\n0",
+            "agent": "",
+            "assists": "/\n\n36\n19\n17\n\n/",
+            "deaths": "20\n3\n17",
+            "fk": "103\n52\n149",
+            "hs%": "64%\n62%\n65%",
+            "kdr": "13\n10\n3",
+            "kills": "71",
+            "name": "Flippsy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "207",
+          "name": "FireBallOps",
+          "team": "Built By Gamers Academy"
+        },
+        {
+          "kills": "211",
+          "name": "snirot",
+          "team": "Built By Gamers Academy"
+        },
+        {
+          "kills": "181",
+          "name": "khanartist",
+          "team": "Built By Gamers Academy"
+        },
+        {
+          "kills": "331",
+          "name": "BlackHeart",
+          "team": "Built By Gamers Academy"
+        },
+        {
+          "kills": "261",
+          "name": "monSi",
+          "team": "Built By Gamers Academy"
+        },
+        {
+          "kills": "214",
+          "name": "Temperature",
+          "team": "Solstice Esports"
+        },
+        {
+          "kills": "198",
+          "name": "Stealthy",
+          "team": "Solstice Esports"
+        },
+        {
+          "kills": "262",
+          "name": "Flippsy",
+          "team": "Solstice Esports"
+        },
+        {
+          "kills": "108",
+          "name": "tyti",
+          "team": "Solstice Esports"
+        },
+        {
+          "kills": "191",
+          "name": "JSP",
+          "team": "Solstice Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.44\n1.47\n1.41",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "171\n201\n131",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "3\n1\n2",
+            "kills": "207",
+            "name": "FireBallOps",
+            "team": "Built By Gamers Academy"
+          },
+          {
+            "acs": "1.27\n1.22\n1.33",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "139\n146\n130",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "4\n2\n2",
+            "kills": "211",
+            "name": "snirot",
+            "team": "Built By Gamers Academy"
+          },
+          {
+            "acs": "1.10\n1.09\n1.11",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "126\n150\n94",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "3\n2\n1",
+            "kills": "181",
+            "name": "khanartist",
+            "team": "Built By Gamers Academy"
+          },
+          {
+            "acs": "0.98\n0.66\n1.41",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "118\n47\n214",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "6\n5\n1",
+            "kills": "331",
+            "name": "BlackHeart",
+            "team": "Built By Gamers Academy"
+          },
+          {
+            "acs": "0.90\n0.76\n1.09",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "132\n105\n168",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "4\n1\n3",
+            "kills": "261",
+            "name": "monSi",
+            "team": "Built By Gamers Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n0.91\n1.47",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "152\n120\n175",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "7\n4\n3",
+            "kills": "214",
+            "name": "Temperature",
+            "team": "Solstice Esports"
+          },
+          {
+            "acs": "1.04\n1.10\n0.99",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "129\n140\n121",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "198",
+            "name": "Stealthy",
+            "team": "Solstice Esports"
+          },
+          {
+            "acs": "0.74\n0.26\n1.10",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "134\n65\n185",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "8\n6\n2",
+            "kills": "262",
+            "name": "Flippsy",
+            "team": "Solstice Esports"
+          },
+          {
+            "acs": "0.63\n0.74\n0.55",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "97\n131\n71",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "108",
+            "name": "tyti",
+            "team": "Solstice Esports"
+          },
+          {
+            "acs": "0.59\n0.57\n0.60",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "109\n60\n145",
+            "hs%": "62%\n78%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "191",
+            "name": "JSP",
+            "team": "Solstice Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 94288,
+  "teams": [
+    "Solstice Esports",
+    "Built By Gamers Academy"
+  ],
+  "tournament": "Open Qualifier #1: \n\t\t\t\t\t\tRound of 64"
+}

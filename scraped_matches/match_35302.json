@@ -1,0 +1,788 @@
+{
+  "date": "2021-10-07 06:55:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "273",
+          "name": "Deryeon",
+          "team": "Louvre"
+        },
+        {
+          "kills": "254",
+          "name": "lenne",
+          "team": "Louvre"
+        },
+        {
+          "kills": "155",
+          "name": "RedKoh",
+          "team": "Louvre"
+        },
+        {
+          "kills": "127",
+          "name": "Flaring",
+          "team": "Louvre"
+        },
+        {
+          "kills": "209",
+          "name": "Haise",
+          "team": "Louvre"
+        },
+        {
+          "kills": "238",
+          "name": "nomfu",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "197",
+          "name": "zeeq",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "264",
+          "name": "1van",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "112",
+          "name": "theDoctorr",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "130",
+          "name": "Riza",
+          "team": "Kingsmen"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.08\n1.79",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "186\n150\n225",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "9\n3\n6",
+            "kills": "273",
+            "name": "Deryeon",
+            "team": "Louvre"
+          },
+          {
+            "acs": "1.25\n0.74\n1.80",
+            "adr": "+6\n-3\n+9",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "167\n127\n210",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "4\n2\n2",
+            "kills": "254",
+            "name": "lenne",
+            "team": "Louvre"
+          },
+          {
+            "acs": "0.90\n0.57\n1.26",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "109\n88\n131",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "8\n3\n5",
+            "kills": "155",
+            "name": "RedKoh",
+            "team": "Louvre"
+          },
+          {
+            "acs": "0.88\n0.95\n0.80",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "79\n103\n53",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "10\n8\n2",
+            "kills": "127",
+            "name": "Flaring",
+            "team": "Louvre"
+          },
+          {
+            "acs": "0.84\n0.77\n0.92",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "146\n164\n126",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "5\n3\n2",
+            "kills": "209",
+            "name": "Haise",
+            "team": "Louvre"
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n0.88\n1.44",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "153\n122\n180",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "238",
+            "name": "nomfu",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "1.12\n0.73\n1.49",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "125\n89\n158",
+            "hs%": "65%\n45%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "197",
+            "name": "zeeq",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "1.06\n0.79\n1.32",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "170\n125\n210",
+            "hs%": "48%\n36%\n58%",
+            "kdr": "6\n0\n6",
+            "kills": "264",
+            "name": "1van",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "0.76\n0.30\n1.19",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "71\n26\n113",
+            "hs%": "52%\n27%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "112",
+            "name": "theDoctorr",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "0.67\n0.67\n0.66",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "85\n60\n107",
+            "hs%": "65%\n45%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "130",
+            "name": "Riza",
+            "team": "Kingsmen"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "Deryeon",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "Flaring",
+          "team": null
+        },
+        {
+          "kills": "244",
+          "name": "lenne",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "RedKoh",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "Haise",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "zeeq",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "nomfu",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "Riza",
+          "team": null
+        },
+        {
+          "kills": "119",
+          "name": "theDoctorr",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "1van",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.34\n1.11\n1.22",
+            "adr": "+14\n+13\n+1",
+            "agent": "",
+            "assists": "/\n\n46\n21\n25\n\n/",
+            "deaths": "60\n34\n26",
+            "fk": "159\n168\n151",
+            "hs%": "74%\n82%\n66%",
+            "kdr": "25\n13\n12",
+            "kills": "265",
+            "name": "Deryeon",
+            "team": null
+          },
+          {
+            "acs": "1.36\n1.00\n1.17",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n40\n19\n21\n\n/",
+            "deaths": "46\n26\n20",
+            "fk": "124\n144\n104",
+            "hs%": "79%\n85%\n74%",
+            "kdr": "31\n20\n11",
+            "kills": "204",
+            "name": "Flaring",
+            "team": null
+          },
+          {
+            "acs": "1.21\n1.08\n1.14",
+            "adr": "+15\n+9\n+6",
+            "agent": "",
+            "assists": "/\n\n41\n21\n20\n\n/",
+            "deaths": "56\n30\n26",
+            "fk": "145\n150\n141",
+            "hs%": "71%\n79%\n63%",
+            "kdr": "14\n5\n9",
+            "kills": "244",
+            "name": "lenne",
+            "team": null
+          },
+          {
+            "acs": "1.11\n0.99\n1.05",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "48\n25\n23",
+            "fk": "137\n146\n129",
+            "hs%": "78%\n82%\n74%",
+            "kdr": "18\n8\n10",
+            "kills": "217",
+            "name": "RedKoh",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.97\n0.95",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "42\n21\n21",
+            "fk": "126\n126\n126",
+            "hs%": "79%\n88%\n71%",
+            "kdr": "17\n8\n9",
+            "kills": "195",
+            "name": "Haise",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n0.79\n1.03",
+            "adr": "0\n+7\n-7",
+            "agent": "",
+            "assists": "/\n\n46\n19\n27\n\n/",
+            "deaths": "46\n26\n20",
+            "fk": "125\n139\n110",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "16\n11\n5",
+            "kills": "194",
+            "name": "zeeq",
+            "team": null
+          },
+          {
+            "acs": "0.98\n0.88\n0.93",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n53\n27\n26\n\n/",
+            "deaths": "50\n27\n23",
+            "fk": "133\n142\n125",
+            "hs%": "60%\n66%\n55%",
+            "kdr": "7\n1\n6",
+            "kills": "229",
+            "name": "nomfu",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.82\n0.91",
+            "adr": "-6\n+3\n-9",
+            "agent": "",
+            "assists": "/\n\n47\n20\n27\n\n/",
+            "deaths": "41\n23\n18",
+            "fk": "118\n119\n116",
+            "hs%": "66%\n60%\n73%",
+            "kdr": "19\n10\n9",
+            "kills": "178",
+            "name": "Riza",
+            "team": null
+          },
+          {
+            "acs": "0.65\n1.15\n0.89",
+            "adr": "-8\n-10\n+2",
+            "agent": "",
+            "assists": "/\n\n50\n23\n27\n\n/",
+            "deaths": "42\n13\n29",
+            "fk": "122\n80\n166",
+            "hs%": "68%\n57%\n79%",
+            "kdr": "18\n7\n11",
+            "kills": "119",
+            "name": "theDoctorr",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.58\n0.69",
+            "adr": "-15\n-1\n-14",
+            "agent": "",
+            "assists": "/\n\n56\n27\n29\n\n/",
+            "deaths": "41\n26\n15",
+            "fk": "128\n138\n118",
+            "hs%": "50%\n51%\n48%",
+            "kdr": "16\n4\n12",
+            "kills": "217",
+            "name": "1van",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "178",
+          "name": "RedKoh",
+          "team": "Louvre"
+        },
+        {
+          "kills": "185",
+          "name": "Deryeon",
+          "team": "Louvre"
+        },
+        {
+          "kills": "183",
+          "name": "Flaring",
+          "team": "Louvre"
+        },
+        {
+          "kills": "159",
+          "name": "lenne",
+          "team": "Louvre"
+        },
+        {
+          "kills": "146",
+          "name": "Haise",
+          "team": "Louvre"
+        },
+        {
+          "kills": "215",
+          "name": "Riza",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "209",
+          "name": "nomfu",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "158",
+          "name": "zeeq",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "202",
+          "name": "theDoctorr",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "122",
+          "name": "1van",
+          "team": "Kingsmen"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.44\n0.88",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "157\n182\n133",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "178",
+            "name": "RedKoh",
+            "team": "Louvre"
+          },
+          {
+            "acs": "1.14\n1.42\n0.86",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "151\n185\n118",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "185",
+            "name": "Deryeon",
+            "team": "Louvre"
+          },
+          {
+            "acs": "1.11\n1.28\n0.95",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "134\n155\n113",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "10\n5\n5",
+            "kills": "183",
+            "name": "Flaring",
+            "team": "Louvre"
+          },
+          {
+            "acs": "1.02\n1.28\n0.75",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "120\n141\n99",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "159",
+            "name": "lenne",
+            "team": "Louvre"
+          },
+          {
+            "acs": "0.72\n0.81\n0.62",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "94\n85\n103",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "146",
+            "name": "Haise",
+            "team": "Louvre"
+          }
+        ],
+        [
+          {
+            "acs": "1.36\n1.61\n1.11",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "167\n201\n132",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "10\n7\n3",
+            "kills": "215",
+            "name": "Riza",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "1.06\n1.23\n0.89",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "125\n139\n112",
+            "hs%": "54%\n58%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "209",
+            "name": "nomfu",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "0.92\n1.26\n0.58",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "107\n94\n121",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "5\n4\n1",
+            "kills": "158",
+            "name": "zeeq",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "0.89\n0.78\n1.00",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "126\n104\n149",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "202",
+            "name": "theDoctorr",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "0.50\n0.75\n0.26",
+            "adr": "-8\n0\n-8",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "125\n150\n99",
+            "hs%": "50%\n42%\n58%",
+            "kdr": "6\n0\n6",
+            "kills": "122",
+            "name": "1van",
+            "team": "Kingsmen"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "224",
+          "name": "Flaring",
+          "team": "Louvre"
+        },
+        {
+          "kills": "237",
+          "name": "Haise",
+          "team": "Louvre"
+        },
+        {
+          "kills": "255",
+          "name": "lenne",
+          "team": "Louvre"
+        },
+        {
+          "kills": "187",
+          "name": "Deryeon",
+          "team": "Louvre"
+        },
+        {
+          "kills": "206",
+          "name": "RedKoh",
+          "team": "Louvre"
+        },
+        {
+          "kills": "207",
+          "name": "zeeq",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "256",
+          "name": "theDoctorr",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "134",
+          "name": "Riza",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "173",
+          "name": "nomfu",
+          "team": "Kingsmen"
+        },
+        {
+          "kills": "133",
+          "name": "1van",
+          "team": "Kingsmen"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.56\n2.00\n1.23",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "161\n184\n144",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "11\n7\n4",
+            "kills": "224",
+            "name": "Flaring",
+            "team": "Louvre"
+          },
+          {
+            "acs": "1.34\n1.30\n1.37",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "141\n131\n148",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "237",
+            "name": "Haise",
+            "team": "Louvre"
+          },
+          {
+            "acs": "1.17\n1.74\n0.75",
+            "adr": "+6\n+9\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "151\n194\n119",
+            "hs%": "71%\n89%\n58%",
+            "kdr": "6\n1\n5",
+            "kills": "255",
+            "name": "lenne",
+            "team": "Louvre"
+          },
+          {
+            "acs": "1.10\n1.60\n0.73",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "138\n169\n115",
+            "hs%": "76%\n100%\n58%",
+            "kdr": "11\n7\n4",
+            "kills": "187",
+            "name": "Deryeon",
+            "team": "Louvre"
+          },
+          {
+            "acs": "1.08\n1.39\n0.85",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "145\n175\n123",
+            "hs%": "81%\n100%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "206",
+            "name": "RedKoh",
+            "team": "Louvre"
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n1.73\n0.13",
+            "adr": "-1\n+7\n-8",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n15\n1",
+            "fk": "146\n232\n31",
+            "hs%": "67%\n83%\n44%",
+            "kdr": "6\n5\n1",
+            "kills": "207",
+            "name": "zeeq",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "1.04\n0.85\n1.30",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "172\n106\n259",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "3\n1\n2",
+            "kills": "256",
+            "name": "theDoctorr",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "0.66\n0.67\n0.64",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "98\n92\n105",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "134",
+            "name": "Riza",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "0.52\n0.83\n0.10",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "122\n163\n68",
+            "hs%": "57%\n75%\n33%",
+            "kdr": "1\n0\n1",
+            "kills": "173",
+            "name": "nomfu",
+            "team": "Kingsmen"
+          },
+          {
+            "acs": "0.50\n0.98\n0.02",
+            "adr": "-8\n+1\n-9",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "10\n10\n0",
+            "fk": "87\n137\n19",
+            "hs%": "52%\n75%\n22%",
+            "kdr": "4\n4\n0",
+            "kills": "133",
+            "name": "1van",
+            "team": "Kingsmen"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 35302,
+  "teams": [
+    "Louvre",
+    "Kingsmen"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

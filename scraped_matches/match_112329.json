@@ -1,0 +1,788 @@
+{
+  "date": "2022-07-16 14:25:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "193",
+          "name": "Melser",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "237",
+          "name": "kiNgg",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "205",
+          "name": "Shyy",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "138",
+          "name": "Tacolilla",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "151",
+          "name": "adverso",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "315",
+          "name": "zekken",
+          "team": "XSET"
+        },
+        {
+          "kills": "235",
+          "name": "Cryocells",
+          "team": "XSET"
+        },
+        {
+          "kills": "220",
+          "name": "BcJ",
+          "team": "XSET"
+        },
+        {
+          "kills": "168",
+          "name": "AYRIN",
+          "team": "XSET"
+        },
+        {
+          "kills": "147",
+          "name": "dephh",
+          "team": "XSET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.33\n0.76",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "132\n149\n118",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "6\n2\n4",
+            "kills": "193",
+            "name": "Melser",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.97\n0.88\n1.06",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "148\n140\n155",
+            "hs%": "59%\n50%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "237",
+            "name": "kiNgg",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.89\n0.55\n1.18",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "142\n132\n151",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "8\n6\n2",
+            "kills": "205",
+            "name": "Shyy",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.73\n0.91\n0.59",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "100\n115\n87",
+            "hs%": "59%\n70%\n50%",
+            "kdr": "6\n4\n2",
+            "kills": "138",
+            "name": "Tacolilla",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.67\n0.89\n0.48",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "90\n117\n68",
+            "hs%": "64%\n80%\n50%",
+            "kdr": "10\n7\n3",
+            "kills": "151",
+            "name": "adverso",
+            "team": "LEVIAT\u00c1N"
+          }
+        ],
+        [
+          {
+            "acs": "1.64\n2.11\n1.07",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "22\n15\n7",
+            "fk": "215\n242\n183",
+            "hs%": "91%\n92%\n90%",
+            "kdr": "9\n4\n5",
+            "kills": "315",
+            "name": "zekken",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.25\n1.24\n1.27",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "163\n170\n155",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "235",
+            "name": "Cryocells",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.22\n1.17\n1.29",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "129\n91\n175",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "6\n1\n5",
+            "kills": "220",
+            "name": "BcJ",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.85\n0.33\n1.48",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "100\n65\n142",
+            "hs%": "82%\n67%\n100%",
+            "kdr": "12\n7\n5",
+            "kills": "168",
+            "name": "AYRIN",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.81\n0.73\n0.91",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "96\n100\n92",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "10\n4\n6",
+            "kills": "147",
+            "name": "dephh",
+            "team": "XSET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "202",
+          "name": "Melser",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "Tacolilla",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "Shyy",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "kiNgg",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "adverso",
+          "team": null
+        },
+        {
+          "kills": "279",
+          "name": "Cryocells",
+          "team": null
+        },
+        {
+          "kills": "278",
+          "name": "zekken",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "BcJ",
+          "team": null
+        },
+        {
+          "kills": "125",
+          "name": "dephh",
+          "team": null
+        },
+        {
+          "kills": "99",
+          "name": "AYRIN",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.19\n1.16",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n55\n27\n28\n\n/",
+            "deaths": "61\n28\n33",
+            "fk": "143\n129\n156",
+            "hs%": "65%\n56%\n73%",
+            "kdr": "35\n14\n21",
+            "kills": "202",
+            "name": "Melser",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.31\n1.02",
+            "adr": "0\n-12\n+12",
+            "agent": "",
+            "assists": "/\n\n55\n32\n23\n\n/",
+            "deaths": "55\n20\n35",
+            "fk": "119\n98\n139",
+            "hs%": "65%\n54%\n76%",
+            "kdr": "13\n6\n7",
+            "kills": "150",
+            "name": "Tacolilla",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.12\n0.96",
+            "adr": "-6\n-12\n+6",
+            "agent": "",
+            "assists": "/\n\n57\n34\n23\n\n/",
+            "deaths": "51\n22\n29",
+            "fk": "128\n117\n138",
+            "hs%": "76%\n69%\n83%",
+            "kdr": "27\n14\n13",
+            "kills": "170",
+            "name": "Shyy",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.97\n0.93",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n58\n34\n24\n\n/",
+            "deaths": "54\n25\n29",
+            "fk": "130\n131\n128",
+            "hs%": "71%\n64%\n78%",
+            "kdr": "14\n10\n4",
+            "kills": "204",
+            "name": "kiNgg",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.96\n0.76",
+            "adr": "-15\n-18\n+3",
+            "agent": "",
+            "assists": "/\n\n64\n34\n30\n\n/",
+            "deaths": "49\n16\n33",
+            "fk": "118\n92\n143",
+            "hs%": "64%\n62%\n66%",
+            "kdr": "28\n16\n12",
+            "kills": "139",
+            "name": "adverso",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n1.14\n1.25",
+            "adr": "+19\n+12\n+7",
+            "agent": "",
+            "assists": "/\n\n51\n30\n21\n\n/",
+            "deaths": "70\n42\n28",
+            "fk": "157\n184\n128",
+            "hs%": "73%\n73%\n72%",
+            "kdr": "9\n3\n6",
+            "kills": "279",
+            "name": "Cryocells",
+            "team": null
+          },
+          {
+            "acs": "1.44\n1.03\n1.24",
+            "adr": "+13\n+9\n+4",
+            "agent": "",
+            "assists": "/\n\n54\n31\n23\n\n/",
+            "deaths": "67\n40\n27",
+            "fk": "172\n180\n163",
+            "hs%": "75%\n68%\n82%",
+            "kdr": "21\n7\n14",
+            "kills": "278",
+            "name": "zekken",
+            "team": null
+          },
+          {
+            "acs": "0.73\n1.34\n1.03",
+            "adr": "+5\n-8\n+13",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "57\n21\n36",
+            "fk": "128\n89\n169",
+            "hs%": "76%\n66%\n87%",
+            "kdr": "19\n6\n13",
+            "kills": "147",
+            "name": "BcJ",
+            "team": null
+          },
+          {
+            "acs": "0.41\n1.27\n0.83",
+            "adr": "-4\n-18\n+14",
+            "agent": "",
+            "assists": "/\n\n58\n35\n23\n\n/",
+            "deaths": "54\n17\n37",
+            "fk": "122\n83\n162",
+            "hs%": "65%\n59%\n72%",
+            "kdr": "25\n12\n13",
+            "kills": "125",
+            "name": "dephh",
+            "team": null
+          },
+          {
+            "acs": "0.35\n1.24\n0.78",
+            "adr": "-14\n-25\n+11",
+            "agent": "",
+            "assists": "/\n\n55\n36\n19\n\n/",
+            "deaths": "41\n11\n30",
+            "fk": "100\n67\n135",
+            "hs%": "74%\n63%\n85%",
+            "kdr": "21\n12\n9",
+            "kills": "99",
+            "name": "AYRIN",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "326",
+          "name": "Melser",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "197",
+          "name": "Tacolilla",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "195",
+          "name": "Shyy",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "276",
+          "name": "adverso",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "156",
+          "name": "kiNgg",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "253",
+          "name": "Cryocells",
+          "team": "XSET"
+        },
+        {
+          "kills": "226",
+          "name": "zekken",
+          "team": "XSET"
+        },
+        {
+          "kills": "252",
+          "name": "BcJ",
+          "team": "XSET"
+        },
+        {
+          "kills": "254",
+          "name": "dephh",
+          "team": "XSET"
+        },
+        {
+          "kills": "142",
+          "name": "AYRIN",
+          "team": "XSET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.62\n1.60\n1.64",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "29\n13\n16",
+            "fk": "190\n165\n214",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "12\n5\n7",
+            "kills": "326",
+            "name": "Melser",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.98\n0.86\n1.09",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "117\n119\n115",
+            "hs%": "68%\n50%\n86%",
+            "kdr": "5\n2\n3",
+            "kills": "197",
+            "name": "Tacolilla",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.95\n0.69\n1.20",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "104\n77\n130",
+            "hs%": "64%\n50%\n79%",
+            "kdr": "9\n3\n6",
+            "kills": "195",
+            "name": "Shyy",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.77\n0.45\n1.09",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "144\n90\n197",
+            "hs%": "61%\n57%\n64%",
+            "kdr": "9\n5\n4",
+            "kills": "276",
+            "name": "adverso",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.59\n0.54\n0.65",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "84\n72\n96",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "8\n5\n3",
+            "kills": "156",
+            "name": "kiNgg",
+            "team": "LEVIAT\u00c1N"
+          }
+        ],
+        [
+          {
+            "acs": "1.38\n1.36\n1.40",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "28\n16\n12",
+            "fk": "181\n192\n170",
+            "hs%": "71%\n79%\n64%",
+            "kdr": "4\n1\n3",
+            "kills": "253",
+            "name": "Cryocells",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.15\n1.32\n0.99",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "159\n167\n152",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "8\n2\n6",
+            "kills": "226",
+            "name": "zekken",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.11\n0.83\n1.40",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "139\n117\n161",
+            "hs%": "89%\n79%\n100%",
+            "kdr": "9\n4\n5",
+            "kills": "252",
+            "name": "BcJ",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.79\n0.51\n1.07",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "139\n100\n177",
+            "hs%": "57%\n57%\n57%",
+            "kdr": "9\n6\n3",
+            "kills": "254",
+            "name": "dephh",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.65\n0.33\n0.98",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "83\n65\n102",
+            "hs%": "71%\n64%\n79%",
+            "kdr": "0\n0\n0",
+            "kills": "142",
+            "name": "AYRIN",
+            "team": "XSET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "240",
+          "name": "Tacolilla",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "248",
+          "name": "kiNgg",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "210",
+          "name": "Shyy",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "175",
+          "name": "Melser",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "182",
+          "name": "adverso",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "209",
+          "name": "Cryocells",
+          "team": "XSET"
+        },
+        {
+          "kills": "226",
+          "name": "zekken",
+          "team": "XSET"
+        },
+        {
+          "kills": "209",
+          "name": "dephh",
+          "team": "XSET"
+        },
+        {
+          "kills": "176",
+          "name": "AYRIN",
+          "team": "XSET"
+        },
+        {
+          "kills": "172",
+          "name": "BcJ",
+          "team": "XSET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.27\n0.47\n2.08",
+            "adr": "+8\n-6\n+14",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "26\n6\n20",
+            "fk": "135\n68\n202",
+            "hs%": "67%\n47%\n87%",
+            "kdr": "2\n0\n2",
+            "kills": "240",
+            "name": "Tacolilla",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "1.20\n1.21\n1.19",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "159\n181\n138",
+            "hs%": "77%\n73%\n80%",
+            "kdr": "4\n3\n1",
+            "kills": "248",
+            "name": "kiNgg",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "1.01\n1.03\n1.00",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "140\n144\n135",
+            "hs%": "80%\n80%\n80%",
+            "kdr": "10\n5\n5",
+            "kills": "210",
+            "name": "Shyy",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.84\n0.56\n1.13",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "107\n83\n131",
+            "hs%": "63%\n40%\n87%",
+            "kdr": "17\n7\n10",
+            "kills": "175",
+            "name": "Melser",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.82\n0.43\n1.21",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "114\n76\n152",
+            "hs%": "67%\n53%\n80%",
+            "kdr": "9\n4\n5",
+            "kills": "182",
+            "name": "adverso",
+            "team": "LEVIAT\u00c1N"
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n1.42\n0.82",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "22\n15\n7",
+            "fk": "129\n188\n71",
+            "hs%": "67%\n60%\n73%",
+            "kdr": "1\n0\n1",
+            "kills": "209",
+            "name": "Cryocells",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.03\n1.02\n1.04",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "151\n142\n160",
+            "hs%": "63%\n47%\n80%",
+            "kdr": "4\n1\n3",
+            "kills": "226",
+            "name": "zekken",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.88\n0.06\n1.69",
+            "adr": "0\n-11\n+11",
+            "agent": "",
+            "assists": "/\n\n23\n15\n8\n\n/",
+            "deaths": "23\n4\n19",
+            "fk": "125\n54\n195",
+            "hs%": "63%\n47%\n80%",
+            "kdr": "6\n2\n4",
+            "kills": "209",
+            "name": "dephh",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.85\n0.39\n1.32",
+            "adr": "-4\n-10\n+6",
+            "agent": "",
+            "assists": "/\n\n22\n15\n7\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "116\n70\n162",
+            "hs%": "70%\n60%\n80%",
+            "kdr": "9\n5\n4",
+            "kills": "176",
+            "name": "AYRIN",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.81\n0.29\n1.33",
+            "adr": "-3\n-9\n+6",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "117\n61\n173",
+            "hs%": "60%\n47%\n73%",
+            "kdr": "4\n1\n3",
+            "kills": "172",
+            "name": "BcJ",
+            "team": "XSET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 112329,
+  "teams": [
+    "XSET",
+    "LEVIAT\u00c1N"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tLower Round 1"
+}

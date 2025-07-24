@@ -1,0 +1,612 @@
+{
+  "date": "2021-11-05 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "382",
+          "name": "MT",
+          "team": "HOLY G.O.A.T"
+        },
+        {
+          "kills": "258",
+          "name": "SN0X",
+          "team": "HOLY G.O.A.T"
+        },
+        {
+          "kills": "211",
+          "name": "watermelon",
+          "team": "HOLY G.O.A.T"
+        },
+        {
+          "kills": "203",
+          "name": "MarsheL",
+          "team": "HOLY G.O.A.T"
+        },
+        {
+          "kills": "146",
+          "name": "Gunner",
+          "team": "HOLY G.O.A.T"
+        },
+        {
+          "kills": "192",
+          "name": "Moselhy",
+          "team": "Egyptian RAMS"
+        },
+        {
+          "kills": "141",
+          "name": "Ropy",
+          "team": "Egyptian RAMS"
+        },
+        {
+          "kills": "138",
+          "name": "DepressedPuny",
+          "team": "Egyptian RAMS"
+        },
+        {
+          "kills": "128",
+          "name": "Yassa",
+          "team": "Egyptian RAMS"
+        },
+        {
+          "kills": "87",
+          "name": "HEGAZY",
+          "team": "Egyptian RAMS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.86\n1.75\n1.89",
+            "adr": "+14\n+3\n+11",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "22\n5\n17",
+            "fk": "243\n225\n250",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "382",
+            "name": "MT",
+            "team": "HOLY G.O.A.T"
+          },
+          {
+            "acs": "1.45\n0.65\n1.72",
+            "adr": "+8\n-2\n+10",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "16\n1\n15",
+            "fk": "155\n68\n185",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "11\n4\n7",
+            "kills": "258",
+            "name": "SN0X",
+            "team": "HOLY G.O.A.T"
+          },
+          {
+            "acs": "1.41\n0.64\n1.67",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "157\n137\n163",
+            "hs%": "88%\n50%\n100%",
+            "kdr": "4\n0\n4",
+            "kills": "211",
+            "name": "watermelon",
+            "team": "HOLY G.O.A.T"
+          },
+          {
+            "acs": "1.32\n1.35\n1.31",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "126\n178\n109",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "7\n1\n6",
+            "kills": "203",
+            "name": "MarsheL",
+            "team": "HOLY G.O.A.T"
+          },
+          {
+            "acs": "1.07\n0.94\n1.11",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n5\n2\n3\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "121\n118\n122",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "146",
+            "name": "Gunner",
+            "team": "HOLY G.O.A.T"
+          }
+        ],
+        [
+          {
+            "acs": "0.88\n0.42\n2.25",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "118\n77\n241",
+            "hs%": "63%\n50%\n100%",
+            "kdr": "2\n0\n2",
+            "kills": "192",
+            "name": "Moselhy",
+            "team": "Egyptian RAMS"
+          },
+          {
+            "acs": "0.69\n0.62\n0.90",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "87\n91\n76",
+            "hs%": "44%\n50%\n25%",
+            "kdr": "4\n3\n1",
+            "kills": "141",
+            "name": "Ropy",
+            "team": "Egyptian RAMS"
+          },
+          {
+            "acs": "0.57\n0.70\n0.16",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "80\n88\n57",
+            "hs%": "50%\n42%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "138",
+            "name": "DepressedPuny",
+            "team": "Egyptian RAMS"
+          },
+          {
+            "acs": "0.50\n0.18\n1.45",
+            "adr": "-8\n-10\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "94\n69\n168",
+            "hs%": "38%\n25%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "128",
+            "name": "Yassa",
+            "team": "Egyptian RAMS"
+          },
+          {
+            "acs": "0.20\n0.27\n0.03",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "52\n48\n65",
+            "hs%": "31%\n17%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "87",
+            "name": "HEGAZY",
+            "team": "Egyptian RAMS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "311",
+          "name": "MT",
+          "team": null
+        },
+        {
+          "kills": "296",
+          "name": "MarsheL",
+          "team": null
+        },
+        {
+          "kills": "83",
+          "name": "SN0X",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "watermelon",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "Gunner",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "Me3za",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "DepressedPuny",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "Moselhy",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "Ropy",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Yassa",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "HEGAZY",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.37\n1.42",
+            "adr": "+16\n+7\n+9",
+            "agent": "",
+            "assists": "/\n\n31\n12\n19\n\n/",
+            "deaths": "47\n19\n28",
+            "fk": "213\n203\n220",
+            "hs%": "86%\n83%\n88%",
+            "kdr": "11\n2\n9",
+            "kills": "311",
+            "name": "MT",
+            "team": null
+          },
+          {
+            "acs": "1.35\n1.31\n1.32",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "126\n178\n109",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "7\n1\n6",
+            "kills": "296",
+            "name": "MarsheL",
+            "team": null
+          },
+          {
+            "acs": "0.45\n1.60\n1.13",
+            "adr": "+4\n-9\n+13",
+            "agent": "",
+            "assists": "/\n\n28\n14\n14\n\n/",
+            "deaths": "32\n5\n27",
+            "fk": "124\n63\n166",
+            "hs%": "84%\n78%\n88%",
+            "kdr": "21\n10\n11",
+            "kills": "83",
+            "name": "SN0X",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.13\n1.13",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n26\n12\n14\n\n/",
+            "deaths": "34\n16\n18",
+            "fk": "137\n151\n127",
+            "hs%": "77%\n72%\n81%",
+            "kdr": "9\n4\n5",
+            "kills": "222",
+            "name": "watermelon",
+            "team": null
+          },
+          {
+            "acs": "1.24\n0.83\n1.00",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "133\n175\n104",
+            "hs%": "75%\n83%\n69%",
+            "kdr": "9\n4\n5",
+            "kills": "226",
+            "name": "Gunner",
+            "team": null
+          },
+          {
+            "acs": "1.22\n0.77\n0.99",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "140\n160\n120",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "8\n2\n6",
+            "kills": "215",
+            "name": "Me3za",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.00\n1.12\n1.05",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n33\n19\n14\n\n/",
+            "deaths": "34\n18\n16",
+            "fk": "141\n132\n155",
+            "hs%": "61%\n54%\n72%",
+            "kdr": "9\n3\n6",
+            "kills": "201",
+            "name": "DepressedPuny",
+            "team": null
+          },
+          {
+            "acs": "0.94\n1.13\n1.02",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n33\n19\n14\n\n/",
+            "deaths": "31\n17\n14",
+            "fk": "136\n121\n159",
+            "hs%": "68%\n62%\n78%",
+            "kdr": "13\n3\n10",
+            "kills": "197",
+            "name": "Moselhy",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.96\n0.93",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n30\n18\n12\n\n/",
+            "deaths": "28\n17\n11",
+            "fk": "109\n115\n101",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "12\n7\n5",
+            "kills": "182",
+            "name": "Ropy",
+            "team": null
+          },
+          {
+            "acs": "0.63\n0.81\n0.70",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n38\n23\n15\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "122\n113\n136",
+            "hs%": "57%\n50%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "171",
+            "name": "Yassa",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.64\n0.60",
+            "adr": "-16\n-11\n-5",
+            "agent": "",
+            "assists": "/\n\n36\n22\n14\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "92\n83\n104",
+            "hs%": "59%\n54%\n67%",
+            "kdr": "10\n5\n5",
+            "kills": "130",
+            "name": "HEGAZY",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "263",
+          "name": "MT",
+          "team": "HOLY G.O.A.T"
+        },
+        {
+          "kills": "167",
+          "name": "Me3za",
+          "team": "HOLY G.O.A.T"
+        },
+        {
+          "kills": "146",
+          "name": "watermelon",
+          "team": "HOLY G.O.A.T"
+        },
+        {
+          "kills": "130",
+          "name": "Gunner",
+          "team": "HOLY G.O.A.T"
+        },
+        {
+          "kills": "251",
+          "name": "SN0X",
+          "team": "HOLY G.O.A.T"
+        },
+        {
+          "kills": "279",
+          "name": "DepressedPuny",
+          "team": "Egyptian RAMS"
+        },
+        {
+          "kills": "200",
+          "name": "Moselhy",
+          "team": "Egyptian RAMS"
+        },
+        {
+          "kills": "149",
+          "name": "Ropy",
+          "team": "Egyptian RAMS"
+        },
+        {
+          "kills": "166",
+          "name": "HEGAZY",
+          "team": "Egyptian RAMS"
+        },
+        {
+          "kills": "193",
+          "name": "Yassa",
+          "team": "Egyptian RAMS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.40\n0.93",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n23\n10\n13\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "196\n197\n195",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "6\n1\n5",
+            "kills": "263",
+            "name": "MT",
+            "team": "HOLY G.O.A.T"
+          },
+          {
+            "acs": "0.99\n1.22\n0.77",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "140\n160\n120",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "8\n2\n6",
+            "kills": "167",
+            "name": "Me3za",
+            "team": "HOLY G.O.A.T"
+          },
+          {
+            "acs": "0.97\n1.28\n0.66",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "126\n156\n96",
+            "hs%": "71%\n79%\n64%",
+            "kdr": "5\n4\n1",
+            "kills": "146",
+            "name": "watermelon",
+            "team": "HOLY G.O.A.T"
+          },
+          {
+            "acs": "0.95\n1.32\n0.59",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "140\n191\n89",
+            "hs%": "68%\n79%\n57%",
+            "kdr": "5\n3\n2",
+            "kills": "130",
+            "name": "Gunner",
+            "team": "HOLY G.O.A.T"
+          },
+          {
+            "acs": "0.95\n0.40\n1.50",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "106\n62\n151",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "10\n6\n4",
+            "kills": "251",
+            "name": "SN0X",
+            "team": "HOLY G.O.A.T"
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n1.26\n1.39",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "27\n12\n15",
+            "fk": "176\n170\n183",
+            "hs%": "68%\n64%\n71%",
+            "kdr": "5\n1\n4",
+            "kills": "279",
+            "name": "DepressedPuny",
+            "team": "Egyptian RAMS"
+          },
+          {
+            "acs": "1.09\n1.38\n0.81",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "147\n157\n136",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "11\n3\n8",
+            "kills": "200",
+            "name": "Moselhy",
+            "team": "Egyptian RAMS"
+          },
+          {
+            "acs": "1.06\n1.14\n0.98",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "122\n136\n108",
+            "hs%": "61%\n64%\n57%",
+            "kdr": "8\n4\n4",
+            "kills": "149",
+            "name": "Ropy",
+            "team": "Egyptian RAMS"
+          },
+          {
+            "acs": "0.83\n0.84\n0.82",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "114\n113\n116",
+            "hs%": "75%\n86%\n64%",
+            "kdr": "9\n5\n4",
+            "kills": "166",
+            "name": "HEGAZY",
+            "team": "Egyptian RAMS"
+          },
+          {
+            "acs": "0.82\n1.02\n0.63",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "139\n151\n127",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "6\n3\n3",
+            "kills": "193",
+            "name": "Yassa",
+            "team": "Egyptian RAMS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 50836,
+  "teams": [
+    "HOLY G.O.A.T",
+    "Egyptian RAMS"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tSemifinals"
+}

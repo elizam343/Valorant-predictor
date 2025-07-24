@@ -1,0 +1,788 @@
+{
+  "date": "2022-11-05 09:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "249",
+          "name": "grubinho",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "210",
+          "name": "kryo",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "238",
+          "name": "cLeVerLy",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "198",
+          "name": "mermi",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "215",
+          "name": "darkosek",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "278",
+          "name": "zangetsu",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "247",
+          "name": "MonOkson",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "158",
+          "name": "konoha",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "194",
+          "name": "end7my",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "146",
+          "name": "dOME",
+          "team": "Last Gate"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.75\n0.77",
+            "adr": "+7\n+9\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "167\n187\n138",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "1\n0\n1",
+            "kills": "249",
+            "name": "grubinho",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "1.21\n0.99\n1.55",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "138\n93\n206",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "6\n4\n2",
+            "kills": "210",
+            "name": "kryo",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "1.11\n1.19\n1.00",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "157\n192\n105",
+            "hs%": "85%\n92%\n75%",
+            "kdr": "11\n9\n2",
+            "kills": "238",
+            "name": "cLeVerLy",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "0.88\n1.52\n0.02",
+            "adr": "0\n+7\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "14\n13\n1",
+            "fk": "126\n182\n42",
+            "hs%": "60%\n83%\n25%",
+            "kdr": "1\n1\n0",
+            "kills": "198",
+            "name": "mermi",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "0.85\n0.93\n0.73",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "135\n154\n108",
+            "hs%": "65%\n75%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "215",
+            "name": "darkosek",
+            "team": "MAJTKOMAT"
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n1.69\n0.75",
+            "adr": "+3\n+7\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "173\n235\n131",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "278",
+            "name": "zangetsu",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "1.06\n0.99\n1.11",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "164\n123\n190",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "247",
+            "name": "MonOkson",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "0.90\n1.11\n0.76",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "112\n106\n116",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "158",
+            "name": "konoha",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "0.74\n1.09\n0.50",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "132\n154\n117",
+            "hs%": "65%\n88%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "194",
+            "name": "end7my",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "0.63\n1.09\n0.32",
+            "adr": "-9\n0\n-9",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "113\n139\n96",
+            "hs%": "55%\n88%\n33%",
+            "kdr": "7\n5\n2",
+            "kills": "146",
+            "name": "dOME",
+            "team": "Last Gate"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "253",
+          "name": "grubinho",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "kryo",
+          "team": null
+        },
+        {
+          "kills": "237",
+          "name": "mermi",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "cLeVerLy",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "darkosek",
+          "team": null
+        },
+        {
+          "kills": "303",
+          "name": "zangetsu",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "MonOkson",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "end7my",
+          "team": null
+        },
+        {
+          "kills": "260",
+          "name": "konoha",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "dOME",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.37\n0.94\n1.16",
+            "adr": "+6\n+10\n-4",
+            "agent": "",
+            "assists": "/\n\n41\n18\n23\n\n/",
+            "deaths": "47\n28\n19",
+            "fk": "147\n162\n131",
+            "hs%": "72%\n74%\n69%",
+            "kdr": "18\n9\n9",
+            "kills": "253",
+            "name": "grubinho",
+            "team": null
+          },
+          {
+            "acs": "1.03\n0.85\n0.95",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n42\n20\n22\n\n/",
+            "deaths": "35\n19\n16",
+            "fk": "113\n111\n114",
+            "hs%": "67%\n74%\n59%",
+            "kdr": "20\n14\n6",
+            "kills": "177",
+            "name": "kryo",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.81\n0.89",
+            "adr": "-4\n+4\n-8",
+            "agent": "",
+            "assists": "/\n\n47\n22\n25\n\n/",
+            "deaths": "43\n26\n17",
+            "fk": "132\n144\n118",
+            "hs%": "63%\n68%\n59%",
+            "kdr": "8\n2\n6",
+            "kills": "237",
+            "name": "mermi",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.67\n0.71",
+            "adr": "-14\n-5\n-9",
+            "agent": "",
+            "assists": "/\n\n49\n26\n23\n\n/",
+            "deaths": "35\n21\n14",
+            "fk": "106\n126\n86",
+            "hs%": "65%\n61%\n69%",
+            "kdr": "21\n12\n9",
+            "kills": "194",
+            "name": "cLeVerLy",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.76\n0.70",
+            "adr": "-12\n-6\n-6",
+            "agent": "",
+            "assists": "/\n\n51\n25\n26\n\n/",
+            "deaths": "39\n19\n20",
+            "fk": "118\n112\n125",
+            "hs%": "63%\n58%\n69%",
+            "kdr": "5\n2\n3",
+            "kills": "164",
+            "name": "darkosek",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.40\n1.29\n1.34",
+            "adr": "+22\n+14\n+8",
+            "agent": "",
+            "assists": "/\n\n37\n18\n19\n\n/",
+            "deaths": "59\n32\n27",
+            "fk": "168\n185\n151",
+            "hs%": "77%\n76%\n77%",
+            "kdr": "8\n6\n2",
+            "kills": "303",
+            "name": "zangetsu",
+            "team": null
+          },
+          {
+            "acs": "1.28\n1.38\n1.33",
+            "adr": "+15\n+2\n+13",
+            "agent": "",
+            "assists": "/\n\n37\n16\n21\n\n/",
+            "deaths": "52\n18\n34",
+            "fk": "164\n141\n185",
+            "hs%": "80%\n79%\n81%",
+            "kdr": "25\n16\n9",
+            "kills": "184",
+            "name": "MonOkson",
+            "team": null
+          },
+          {
+            "acs": "1.15\n1.06\n1.11",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n43\n20\n23\n\n/",
+            "deaths": "49\n25\n24",
+            "fk": "158\n163\n154",
+            "hs%": "78%\n86%\n71%",
+            "kdr": "9\n4\n5",
+            "kills": "243",
+            "name": "end7my",
+            "team": null
+          },
+          {
+            "acs": "1.37\n0.73\n1.04",
+            "adr": "-2\n+12\n-14",
+            "agent": "",
+            "assists": "/\n\n40\n16\n24\n\n/",
+            "deaths": "38\n28\n10",
+            "fk": "132\n169\n97",
+            "hs%": "82%\n90%\n74%",
+            "kdr": "28\n14\n14",
+            "kills": "260",
+            "name": "konoha",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.71\n0.81",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n42\n18\n24\n\n/",
+            "deaths": "32\n17\n15",
+            "fk": "109\n108\n110",
+            "hs%": "75%\n86%\n65%",
+            "kdr": "27\n16\n11",
+            "kills": "166",
+            "name": "dOME",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "199",
+          "name": "grubinho",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "133",
+          "name": "kryo",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "255",
+          "name": "darkosek",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "228",
+          "name": "mermi",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "126",
+          "name": "cLeVerLy",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "298",
+          "name": "zangetsu",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "227",
+          "name": "MonOkson",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "133",
+          "name": "konoha",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "381",
+          "name": "end7my",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "163",
+          "name": "dOME",
+          "team": "Last Gate"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.93\n0.72\n1.06",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "129\n102\n145",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "199",
+            "name": "grubinho",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "0.80\n1.14\n0.61",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "104\n134\n87",
+            "hs%": "58%\n71%\n50%",
+            "kdr": "8\n6\n2",
+            "kills": "133",
+            "name": "kryo",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "0.78\n0.37\n1.01",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "138\n96\n163",
+            "hs%": "63%\n43%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "255",
+            "name": "darkosek",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "0.78\n0.47\n0.96",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "117\n86\n135",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "228",
+            "name": "mermi",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "0.65\n0.71\n0.62",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "81\n93\n74",
+            "hs%": "58%\n43%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "126",
+            "name": "cLeVerLy",
+            "team": "MAJTKOMAT"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.51\n1.68",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "187\n189\n184",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "298",
+            "name": "zangetsu",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "1.39\n1.46\n1.27",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "154\n162\n138",
+            "hs%": "89%\n92%\n86%",
+            "kdr": "16\n12\n4",
+            "kills": "227",
+            "name": "MonOkson",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "1.32\n1.51\n1.00",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "17\n15\n2",
+            "fk": "179\n217\n114",
+            "hs%": "84%\n83%\n86%",
+            "kdr": "7\n4\n3",
+            "kills": "133",
+            "name": "konoha",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "1.32\n1.04\n1.82",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "161\n143\n193",
+            "hs%": "84%\n92%\n71%",
+            "kdr": "2\n2\n0",
+            "kills": "381",
+            "name": "end7my",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "0.63\n0.45\n0.94",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "89\n88\n91",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "6\n4\n2",
+            "kills": "163",
+            "name": "dOME",
+            "team": "Last Gate"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "251",
+          "name": "grubinho",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "235",
+          "name": "mermi",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "153",
+          "name": "kryo",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "130",
+          "name": "darkosek",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "133",
+          "name": "cLeVerLy",
+          "team": "MAJTKOMAT"
+        },
+        {
+          "kills": "276",
+          "name": "MonOkson",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "233",
+          "name": "zangetsu",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "250",
+          "name": "end7my",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "208",
+          "name": "dOME",
+          "team": "Last Gate"
+        },
+        {
+          "kills": "161",
+          "name": "konoha",
+          "team": "Last Gate"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.36\n0.94",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "144\n172\n107",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "8\n5\n3",
+            "kills": "251",
+            "name": "grubinho",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "0.99\n0.75\n1.30",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "151\n142\n164",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "5\n1\n4",
+            "kills": "235",
+            "name": "mermi",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "0.82\n1.02\n0.56",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "96\n117\n69",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "153",
+            "name": "kryo",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "0.49\n0.50\n0.46",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "84\n80\n90",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "2\n1\n1",
+            "kills": "130",
+            "name": "darkosek",
+            "team": "MAJTKOMAT"
+          },
+          {
+            "acs": "0.37\n0.32\n0.44",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "81\n79\n85",
+            "hs%": "52%\n42%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "133",
+            "name": "cLeVerLy",
+            "team": "MAJTKOMAT"
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.29\n1.70",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "173\n128\n207",
+            "hs%": "81%\n67%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "276",
+            "name": "MonOkson",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "1.35\n0.99\n1.62",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "145\n137\n151",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "233",
+            "name": "zangetsu",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "1.26\n1.35\n1.19",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "181\n197\n169",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "250",
+            "name": "end7my",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "1.14\n1.37\n0.97",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "123\n105\n136",
+            "hs%": "90%\n100%\n83%",
+            "kdr": "14\n7\n7",
+            "kills": "208",
+            "name": "dOME",
+            "team": "Last Gate"
+          },
+          {
+            "acs": "0.91\n1.41\n0.53",
+            "adr": "-3\n+3\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "108\n163\n68",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "14\n6\n8",
+            "kills": "161",
+            "name": "konoha",
+            "team": "Last Gate"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 155291,
+  "teams": [
+    "MAJTKOMAT",
+    "Last Gate"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

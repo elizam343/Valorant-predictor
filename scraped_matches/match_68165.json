@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-31 17:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "289",
+          "name": "Bape",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "233",
+          "name": "Lazee",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "167",
+          "name": "nate",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "151",
+          "name": "RiceballiNNN",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "192",
+          "name": "jakee",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "234",
+          "name": "Heero",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "266",
+          "name": "Flonson",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "182",
+          "name": "cuz",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "165",
+          "name": "JazzyB",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "150",
+          "name": "MEDC",
+          "team": "Fluid Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.37\n1.39\n1.35",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "176\n149\n200",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "289",
+            "name": "Bape",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.18\n1.39\n1.00",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "156\n185\n130",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "7\n6\n1",
+            "kills": "233",
+            "name": "Lazee",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.97\n1.46\n0.52",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "122\n156\n91",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "11\n6\n5",
+            "kills": "167",
+            "name": "nate",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.88\n1.10\n0.67",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "118\n123\n113",
+            "hs%": "70%\n91%\n50%",
+            "kdr": "9\n8\n1",
+            "kills": "151",
+            "name": "RiceballiNNN",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.79\n0.91\n0.68",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "139\n147\n131",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "192",
+            "name": "jakee",
+            "team": "Team Reckaroo"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n2.23\n0.57",
+            "adr": "+8\n+13\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "22\n18\n4",
+            "fk": "162\n226\n91",
+            "hs%": "74%\n100%\n45%",
+            "kdr": "9\n6\n3",
+            "kills": "234",
+            "name": "Heero",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "1.32\n1.21\n1.45",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "171\n179\n162",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "10\n8\n2",
+            "kills": "266",
+            "name": "Flonson",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "0.80\n0.99\n0.60",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "116\n139\n90",
+            "hs%": "61%\n83%\n36%",
+            "kdr": "5\n4\n1",
+            "kills": "182",
+            "name": "cuz",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "0.73\n0.83\n0.62",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "116\n133\n98",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "5\n2\n3",
+            "kills": "165",
+            "name": "JazzyB",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "0.67\n0.67\n0.67",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "90\n85\n95",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "7\n4\n3",
+            "kills": "150",
+            "name": "MEDC",
+            "team": "Fluid Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "299",
+          "name": "Bape",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "RiceballiNNN",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "Lazee",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "nate",
+          "team": null
+        },
+        {
+          "kills": "244",
+          "name": "jakee",
+          "team": null
+        },
+        {
+          "kills": "302",
+          "name": "Heero",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "Flonson",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "MEDC",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "JazzyB",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "cuz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.31\n1.31",
+            "adr": "+23\n+10\n+13",
+            "agent": "",
+            "assists": "/\n\n46\n20\n26\n\n/",
+            "deaths": "69\n30\n39",
+            "fk": "194\n185\n201",
+            "hs%": "76%\n74%\n78%",
+            "kdr": "12\n3\n9",
+            "kills": "299",
+            "name": "Bape",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.22\n1.17",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n38\n18\n20\n\n/",
+            "deaths": "43\n16\n27",
+            "fk": "153\n138\n165",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "25\n12\n13",
+            "kills": "185",
+            "name": "RiceballiNNN",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.16\n1.04",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n40\n19\n21\n\n/",
+            "deaths": "45\n17\n28",
+            "fk": "119\n110\n126",
+            "hs%": "71%\n63%\n78%",
+            "kdr": "17\n12\n5",
+            "kills": "162",
+            "name": "Lazee",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.04\n1.03",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n37\n14\n23\n\n/",
+            "deaths": "39\n14\n25",
+            "fk": "122\n108\n133",
+            "hs%": "75%\n70%\n78%",
+            "kdr": "23\n14\n9",
+            "kills": "157",
+            "name": "nate",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.93\n1.01",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n47\n21\n26\n\n/",
+            "deaths": "48\n24\n24",
+            "fk": "144\n152\n139",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "12\n4\n8",
+            "kills": "244",
+            "name": "jakee",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.56\n0.66\n1.18",
+            "adr": "+9\n+18\n-9",
+            "agent": "",
+            "assists": "/\n\n46\n25\n21\n\n/",
+            "deaths": "55\n43\n12",
+            "fk": "155\n196\n100",
+            "hs%": "73%\n78%\n67%",
+            "kdr": "17\n9\n8",
+            "kills": "302",
+            "name": "Heero",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.35\n1.09",
+            "adr": "0\n-7\n+7",
+            "agent": "",
+            "assists": "/\n\n48\n29\n19\n\n/",
+            "deaths": "48\n22\n26",
+            "fk": "148\n135\n165",
+            "hs%": "73%\n67%\n81%",
+            "kdr": "22\n16\n6",
+            "kills": "190",
+            "name": "Flonson",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.95\n0.91",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n48\n27\n21\n\n/",
+            "deaths": "43\n24\n19",
+            "fk": "126\n119\n135",
+            "hs%": "70%\n69%\n70%",
+            "kdr": "17\n12\n5",
+            "kills": "180",
+            "name": "MEDC",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.96\n0.71",
+            "adr": "-17\n-14\n-3",
+            "agent": "",
+            "assists": "/\n\n50\n31\n19\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "95\n81\n112",
+            "hs%": "63%\n61%\n67%",
+            "kdr": "17\n6\n11",
+            "kills": "130",
+            "name": "JazzyB",
+            "team": null
+          },
+          {
+            "acs": "0.40\n0.81\n0.58",
+            "adr": "-23\n-18\n-5",
+            "agent": "",
+            "assists": "/\n\n52\n31\n21\n\n/",
+            "deaths": "29\n13\n16",
+            "fk": "97\n82\n117",
+            "hs%": "56%\n53%\n59%",
+            "kdr": "14\n7\n7",
+            "kills": "121",
+            "name": "cuz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "nate",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "198",
+          "name": "RiceballiNNN",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "311",
+          "name": "Bape",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "245",
+          "name": "jakee",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "192",
+          "name": "Lazee",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "305",
+          "name": "MEDC",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "278",
+          "name": "Flonson",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "204",
+          "name": "JazzyB",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "126",
+          "name": "Heero",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "182",
+          "name": "cuz",
+          "team": "Fluid Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.24\n0.72\n1.68",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "137\n65\n197",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "265",
+            "name": "nate",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.17\n1.14\n1.20",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "162\n158\n165",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "9\n2\n7",
+            "kills": "198",
+            "name": "RiceballiNNN",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.09\n1.14\n1.05",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "206\n209\n204",
+            "hs%": "77%\n60%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "311",
+            "name": "Bape",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.95\n0.95\n0.95",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "141\n105\n170",
+            "hs%": "68%\n50%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "245",
+            "name": "jakee",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.90\n0.52\n1.21",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "93\n67\n115",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "192",
+            "name": "Lazee",
+            "team": "Team Reckaroo"
+          }
+        ],
+        [
+          {
+            "acs": "1.28\n1.09\n1.50",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "194\n160\n235",
+            "hs%": "77%\n67%\n90%",
+            "kdr": "5\n4\n1",
+            "kills": "305",
+            "name": "MEDC",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "1.00\n0.70\n1.36",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "137\n105\n177",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "278",
+            "name": "Flonson",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "0.99\n0.72\n1.33",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "101\n83\n122",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "11\n3\n8",
+            "kills": "204",
+            "name": "JazzyB",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "0.98\n1.27\n0.63",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "152\n207\n85",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "3\n2\n1",
+            "kills": "126",
+            "name": "Heero",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "0.43\n0.12\n0.82",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "91\n67\n121",
+            "hs%": "64%\n50%\n80%",
+            "kdr": "4\n0\n4",
+            "kills": "182",
+            "name": "cuz",
+            "team": "Fluid Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "248",
+          "name": "RiceballiNNN",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "312",
+          "name": "Bape",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "242",
+          "name": "jakee",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "178",
+          "name": "Lazee",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "161",
+          "name": "nate",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "237",
+          "name": "Heero",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "174",
+          "name": "Flonson",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "162",
+          "name": "MEDC",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "105",
+          "name": "cuz",
+          "team": "Fluid Gaming"
+        },
+        {
+          "kills": "95",
+          "name": "JazzyB",
+          "team": "Fluid Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.55\n1.07\n1.79",
+            "adr": "+9\n0\n+9",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "189\n134\n217",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "248",
+            "name": "RiceballiNNN",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.50\n1.43\n1.53",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "203\n214\n198",
+            "hs%": "89%\n100%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "312",
+            "name": "Bape",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.37\n1.79\n1.15",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "157\n238\n116",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "242",
+            "name": "jakee",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.03\n0.54\n1.28",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "105\n45\n134",
+            "hs%": "72%\n50%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "178",
+            "name": "Lazee",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.83\n0.62\n0.93",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "105\n91\n111",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "161",
+            "name": "nate",
+            "team": "Team Reckaroo"
+          }
+        ],
+        [
+          {
+            "acs": "1.09\n1.19\n0.89",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "150\n156\n139",
+            "hs%": "78%\n67%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "237",
+            "name": "Heero",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "0.92\n0.80\n1.16",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "130\n120\n151",
+            "hs%": "50%\n42%\n67%",
+            "kdr": "8\n6\n2",
+            "kills": "174",
+            "name": "Flonson",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "0.78\n0.91\n0.52",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "89\n112\n42",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "162",
+            "name": "MEDC",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "0.46\n0.10\n1.16",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "79\n39\n159",
+            "hs%": "39%\n25%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "105",
+            "name": "cuz",
+            "team": "Fluid Gaming"
+          },
+          {
+            "acs": "0.36\n0.05\n0.96",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "59\n28\n121",
+            "hs%": "44%\n42%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "95",
+            "name": "JazzyB",
+            "team": "Fluid Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 68165,
+  "teams": [
+    "Team Reckaroo",
+    "Fluid Gaming"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tOpening (L)"
+}

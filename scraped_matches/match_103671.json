@@ -1,0 +1,788 @@
+{
+  "date": "2022-05-28 03:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "279",
+          "name": "Boo",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "279",
+          "name": "Chateraise",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "247",
+          "name": "skyelyse",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "142",
+          "name": "marche",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "170",
+          "name": "Eira",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "237",
+          "name": "lemmi",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "167",
+          "name": "Chasey",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "175",
+          "name": "CrackShot",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "237",
+          "name": "mandu",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "98",
+          "name": "jinjin",
+          "team": "Duality E-Sports Banshees"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.69\n1.50\n1.81",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "170\n162\n176",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "10\n2\n8",
+            "kills": "279",
+            "name": "Boo",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "1.41\n0.86\n1.78",
+            "adr": "+9\n0\n+9",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "21\n5\n16",
+            "fk": "189\n136\n225",
+            "hs%": "80%\n63%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "279",
+            "name": "Chateraise",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "1.35\n1.28\n1.40",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "154\n150\n157",
+            "hs%": "80%\n63%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "247",
+            "name": "skyelyse",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "0.96\n1.08\n0.88",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "83\n120\n58",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "142",
+            "name": "marche",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "0.60\n0.35\n0.76",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "116\n100\n126",
+            "hs%": "80%\n63%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "170",
+            "name": "Eira",
+            "team": "Hero Zero KDA"
+          }
+        ],
+        [
+          {
+            "acs": "1.09\n1.09\n1.09",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "132\n142\n116",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "4\n3\n1",
+            "kills": "237",
+            "name": "lemmi",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "0.78\n0.77\n0.80",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "115\n110\n123",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "2\n0\n2",
+            "kills": "167",
+            "name": "Chasey",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "0.68\n0.80\n0.49",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "112\n129\n85",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "175",
+            "name": "CrackShot",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "0.63\n0.04\n1.54",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "153\n90\n246",
+            "hs%": "60%\n50%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "237",
+            "name": "mandu",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "0.39\n0.09\n0.85",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "56\n35\n88",
+            "hs%": "40%\n42%\n38%",
+            "kdr": "2\n0\n2",
+            "kills": "98",
+            "name": "jinjin",
+            "team": "Duality E-Sports Banshees"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "159",
+          "name": "Chateraise",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "skyelyse",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "marche",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Boo",
+          "team": null
+        },
+        {
+          "kills": "240",
+          "name": "Eira",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "mandu",
+          "team": null
+        },
+        {
+          "kills": "238",
+          "name": "lemmi",
+          "team": null
+        },
+        {
+          "kills": "261",
+          "name": "CrackShot",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "Chasey",
+          "team": null
+        },
+        {
+          "kills": "111",
+          "name": "jinjin",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.93\n1.63\n1.27",
+            "adr": "+11\n-1\n+12",
+            "agent": "",
+            "assists": "/\n\n37\n18\n19\n\n/",
+            "deaths": "48\n17\n31",
+            "fk": "156\n107\n208",
+            "hs%": "83%\n77%\n90%",
+            "kdr": "19\n10\n9",
+            "kills": "159",
+            "name": "Chateraise",
+            "team": null
+          },
+          {
+            "acs": "1.27\n1.06\n1.17",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n40\n20\n20\n\n/",
+            "deaths": "49\n28\n21",
+            "fk": "149\n166\n131",
+            "hs%": "75%\n74%\n76%",
+            "kdr": "20\n12\n8",
+            "kills": "253",
+            "name": "skyelyse",
+            "team": null
+          },
+          {
+            "acs": "1.40\n0.90\n1.16",
+            "adr": "+14\n+12\n+2",
+            "agent": "",
+            "assists": "/\n\n33\n17\n16\n\n/",
+            "deaths": "47\n29\n18",
+            "fk": "119\n146\n90",
+            "hs%": "70%\n77%\n62%",
+            "kdr": "14\n10\n4",
+            "kills": "235",
+            "name": "marche",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.26\n1.12",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n36\n19\n17\n\n/",
+            "deaths": "41\n19\n22",
+            "fk": "130\n112\n150",
+            "hs%": "73%\n71%\n76%",
+            "kdr": "18\n7\n11",
+            "kills": "179",
+            "name": "Boo",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.71\n0.85",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "42\n24\n18",
+            "fk": "151\n168\n134",
+            "hs%": "73%\n71%\n76%",
+            "kdr": "15\n7\n8",
+            "kills": "240",
+            "name": "Eira",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.61\n1.55\n1.09",
+            "adr": "+3\n-8\n+11",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "53\n18\n35",
+            "fk": "177\n141\n210",
+            "hs%": "65%\n59%\n71%",
+            "kdr": "17\n8\n9",
+            "kills": "209",
+            "name": "mandu",
+            "team": null
+          },
+          {
+            "acs": "1.25\n0.90\n1.07",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n40\n20\n20\n\n/",
+            "deaths": "47\n26\n21",
+            "fk": "131\n139\n123",
+            "hs%": "77%\n79%\n74%",
+            "kdr": "21\n8\n13",
+            "kills": "238",
+            "name": "lemmi",
+            "team": null
+          },
+          {
+            "acs": "1.14\n0.50\n0.81",
+            "adr": "-9\n+5\n-14",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "36\n27\n9",
+            "fk": "114\n162\n69",
+            "hs%": "58%\n69%\n48%",
+            "kdr": "5\n0\n5",
+            "kills": "261",
+            "name": "CrackShot",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.79\n0.78",
+            "adr": "-15\n-7\n-8",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "32\n16\n16",
+            "fk": "104\n107\n102",
+            "hs%": "65%\n69%\n61%",
+            "kdr": "19\n9\n10",
+            "kills": "168",
+            "name": "Chasey",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.69\n0.55",
+            "adr": "-20\n-10\n-10",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "76\n67\n84",
+            "hs%": "52%\n55%\n48%",
+            "kdr": "17\n10\n7",
+            "kills": "111",
+            "name": "jinjin",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "224",
+          "name": "marche",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "300",
+          "name": "Chateraise",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "210",
+          "name": "Boo",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "138",
+          "name": "Eira",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "122",
+          "name": "skyelyse",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "388",
+          "name": "mandu",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "211",
+          "name": "lemmi",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "97",
+          "name": "CrackShot",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "145",
+          "name": "jinjin",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "144",
+          "name": "Chasey",
+          "team": "Duality E-Sports Banshees"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.09\n1.28\n0.92",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "114\n119\n110",
+            "hs%": "57%\n73%\n42%",
+            "kdr": "2\n2\n0",
+            "kills": "224",
+            "name": "marche",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "1.00\n0.72\n1.26",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "144\n85\n197",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "11\n5\n6",
+            "kills": "300",
+            "name": "Chateraise",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "0.89\n0.86\n0.92",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "131\n100\n160",
+            "hs%": "52%\n45%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "210",
+            "name": "Boo",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "0.85\n1.25\n0.49",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "147\n182\n114",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "7\n2\n5",
+            "kills": "138",
+            "name": "Eira",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "0.81\n1.18\n0.47",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "103\n134\n74",
+            "hs%": "65%\n82%\n50%",
+            "kdr": "8\n6\n2",
+            "kills": "122",
+            "name": "skyelyse",
+            "team": "Hero Zero KDA"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.12\n1.82",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "218\n185\n255",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "12\n7\n5",
+            "kills": "388",
+            "name": "mandu",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "1.19\n1.36\n1.01",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "135\n120\n151",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "9\n4\n5",
+            "kills": "211",
+            "name": "lemmi",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "1.06\n1.63\n0.44",
+            "adr": "+4\n+9\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n16\n3",
+            "fk": "141\n209\n67",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "2\n0\n2",
+            "kills": "97",
+            "name": "CrackShot",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "0.87\n0.92\n0.82",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "100\n114\n85",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "12\n10\n2",
+            "kills": "145",
+            "name": "jinjin",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "0.87\n0.96\n0.77",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "108\n133\n81",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "9\n7\n2",
+            "kills": "144",
+            "name": "Chasey",
+            "team": "Duality E-Sports Banshees"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "287",
+          "name": "marche",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "198",
+          "name": "Chateraise",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "306",
+          "name": "skyelyse",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "297",
+          "name": "Eira",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "124",
+          "name": "Boo",
+          "team": "Hero Zero KDA"
+        },
+        {
+          "kills": "237",
+          "name": "mandu",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "210",
+          "name": "lemmi",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "131",
+          "name": "Chasey",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "115",
+          "name": "CrackShot",
+          "team": "Duality E-Sports Banshees"
+        },
+        {
+          "kills": "101",
+          "name": "jinjin",
+          "team": "Duality E-Sports Banshees"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.49\n1.73\n0.91",
+            "adr": "+11\n+11\n0",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "168\n188\n119",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "4\n4\n0",
+            "kills": "287",
+            "name": "marche",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "1.45\n1.16\n2.14",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n6\n5\n1\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "134\n108\n196",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "198",
+            "name": "Chateraise",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "1.44\n1.34\n1.66",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "204\n205\n203",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "8\n5\n3",
+            "kills": "306",
+            "name": "skyelyse",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "1.14\n1.14\n1.14",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "200\n201\n199",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "2\n2\n0",
+            "kills": "297",
+            "name": "Eira",
+            "team": "Hero Zero KDA"
+          },
+          {
+            "acs": "0.75\n0.76\n0.72",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "80\n88\n62",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "3\n2\n1",
+            "kills": "124",
+            "name": "Boo",
+            "team": "Hero Zero KDA"
+          }
+        ],
+        [
+          {
+            "acs": "1.15\n0.76\n1.32",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "148\n155\n146",
+            "hs%": "53%\n60%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "237",
+            "name": "mandu",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "0.89\n1.39\n0.68",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "124\n178\n102",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "8\n1\n7",
+            "kills": "210",
+            "name": "lemmi",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "0.67\n0.40\n0.79",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "87\n36\n108",
+            "hs%": "53%\n40%\n58%",
+            "kdr": "8\n2\n6",
+            "kills": "131",
+            "name": "Chasey",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "0.63\n0.80\n0.55",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "81\n130\n61",
+            "hs%": "41%\n60%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "115",
+            "name": "CrackShot",
+            "team": "Duality E-Sports Banshees"
+          },
+          {
+            "acs": "0.29\n0.02\n0.46",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "67\n32\n82",
+            "hs%": "35%\n20%\n42%",
+            "kdr": "3\n0\n3",
+            "kills": "101",
+            "name": "jinjin",
+            "team": "Duality E-Sports Banshees"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 103671,
+  "teams": [
+    "Duality E-Sports Banshees",
+    "Hero Zero KDA"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup L"
+}

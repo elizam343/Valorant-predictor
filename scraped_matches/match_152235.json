@@ -1,0 +1,788 @@
+{
+  "date": "2022-10-22 11:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "321",
+          "name": "DaviH",
+          "team": "Arroz"
+        },
+        {
+          "kills": "199",
+          "name": "Zino",
+          "team": "Arroz"
+        },
+        {
+          "kills": "170",
+          "name": "VTaguT",
+          "team": "Arroz"
+        },
+        {
+          "kills": "205",
+          "name": "tomaszy",
+          "team": "Arroz"
+        },
+        {
+          "kills": "155",
+          "name": "Bati",
+          "team": "Arroz"
+        },
+        {
+          "kills": "246",
+          "name": "nasK",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "234",
+          "name": "silenttt",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "208",
+          "name": "Fragger",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "164",
+          "name": "k0mpa",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "129",
+          "name": "rlzy",
+          "team": "GTZ Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.82\n1.71\n1.96",
+            "adr": "+15\n+7\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "188\n170\n210",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "5\n3\n2",
+            "kills": "321",
+            "name": "DaviH",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.12\n1.13\n1.11",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "125\n95\n162",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "19\n12\n7",
+            "kills": "199",
+            "name": "Zino",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.01\n0.70\n1.39",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "118\n73\n172",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "12\n5\n7",
+            "kills": "170",
+            "name": "VTaguT",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.91\n1.14\n0.62",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "136\n170\n96",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "2\n2\n0",
+            "kills": "205",
+            "name": "tomaszy",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.78\n0.62\n0.96",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "111\n107\n116",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "9\n3\n6",
+            "kills": "155",
+            "name": "Bati",
+            "team": "Arroz"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.70\n0.80",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "170\n248\n105",
+            "hs%": "86%\n90%\n83%",
+            "kdr": "9\n6\n3",
+            "kills": "246",
+            "name": "nasK",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "1.15\n1.07\n1.22",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "155\n97\n203",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "234",
+            "name": "silenttt",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "1.00\n0.82\n1.16",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "140\n123\n155",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "208",
+            "name": "Fragger",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "0.62\n0.48\n0.74",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "108\n76\n134",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "164",
+            "name": "k0mpa",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "0.52\n0.12\n0.85",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "74\n57\n89",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "129",
+            "name": "rlzy",
+            "team": "GTZ Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "226",
+          "name": "DaviH",
+          "team": null
+        },
+        {
+          "kills": "284",
+          "name": "VTaguT",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "tomaszy",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "Bati",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "Zino",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "rlzy",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "Fragger",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "silenttt",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "nasK",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "k0mpa",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.60\n1.48",
+            "adr": "+24\n+10\n+14",
+            "agent": "",
+            "assists": "/\n\n32\n19\n13\n\n/",
+            "deaths": "56\n29\n27",
+            "fk": "151\n137\n172",
+            "hs%": "89%\n89%\n88%",
+            "kdr": "21\n15\n6",
+            "kills": "226",
+            "name": "DaviH",
+            "team": null
+          },
+          {
+            "acs": "1.49\n1.39\n1.45",
+            "adr": "+23\n+14\n+9",
+            "agent": "",
+            "assists": "/\n\n34\n20\n14\n\n/",
+            "deaths": "57\n34\n23",
+            "fk": "185\n196\n169",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "29\n17\n12",
+            "kills": "284",
+            "name": "VTaguT",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.16\n1.01",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "53\n29\n24",
+            "fk": "152\n140\n169",
+            "hs%": "70%\n67%\n76%",
+            "kdr": "6\n4\n2",
+            "kills": "220",
+            "name": "tomaszy",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.03\n1.01",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n39\n22\n17\n\n/",
+            "deaths": "38\n23\n15",
+            "fk": "117\n111\n125",
+            "hs%": "74%\n75%\n72%",
+            "kdr": "28\n14\n14",
+            "kills": "180",
+            "name": "Bati",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.94\n0.94",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n38\n22\n16\n\n/",
+            "deaths": "37\n21\n16",
+            "fk": "106\n96\n121",
+            "hs%": "74%\n78%\n68%",
+            "kdr": "24\n14\n10",
+            "kills": "155",
+            "name": "Zino",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.67\n1.13\n0.94",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n49\n24\n25\n\n/",
+            "deaths": "47\n21\n26",
+            "fk": "131\n141\n124",
+            "hs%": "62%\n60%\n64%",
+            "kdr": "4\n2\n2",
+            "kills": "232",
+            "name": "rlzy",
+            "team": null
+          },
+          {
+            "acs": "0.64\n1.05\n0.86",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n45\n21\n24\n\n/",
+            "deaths": "41\n12\n29",
+            "fk": "115\n79\n140",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "12\n7\n5",
+            "kills": "130",
+            "name": "Fragger",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.88\n0.86",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n44\n20\n24\n\n/",
+            "deaths": "37\n16\n21",
+            "fk": "114\n107\n118",
+            "hs%": "59%\n64%\n56%",
+            "kdr": "7\n3\n4",
+            "kills": "164",
+            "name": "silenttt",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.52\n0.72",
+            "adr": "-20\n-3\n-17",
+            "agent": "",
+            "assists": "/\n\n50\n20\n30\n\n/",
+            "deaths": "30\n17\n13",
+            "fk": "115\n157\n86",
+            "hs%": "67%\n72%\n64%",
+            "kdr": "21\n11\n10",
+            "kills": "229",
+            "name": "nasK",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.61\n0.67",
+            "adr": "-18\n-6\n-12",
+            "agent": "",
+            "assists": "/\n\n53\n21\n32\n\n/",
+            "deaths": "35\n15\n20",
+            "fk": "109\n114\n106",
+            "hs%": "64%\n68%\n61%",
+            "kdr": "12\n3\n9",
+            "kills": "171",
+            "name": "k0mpa",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "214",
+          "name": "VTaguT",
+          "team": "Arroz"
+        },
+        {
+          "kills": "224",
+          "name": "DaviH",
+          "team": "Arroz"
+        },
+        {
+          "kills": "208",
+          "name": "Bati",
+          "team": "Arroz"
+        },
+        {
+          "kills": "92",
+          "name": "Zino",
+          "team": "Arroz"
+        },
+        {
+          "kills": "481",
+          "name": "tomaszy",
+          "team": "Arroz"
+        },
+        {
+          "kills": "291",
+          "name": "rlzy",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "199",
+          "name": "Fragger",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "55",
+          "name": "k0mpa",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "91",
+          "name": "silenttt",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "72",
+          "name": "nasK",
+          "team": "GTZ Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.94\n2.19\n1.35",
+            "adr": "+14\n+13\n+1",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "21\n17\n4",
+            "fk": "222\n272\n104",
+            "hs%": "88%\n92%\n80%",
+            "kdr": "10\n8\n2",
+            "kills": "214",
+            "name": "VTaguT",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.68\n1.72\n1.57",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "163\n176\n133",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "10\n9\n1",
+            "kills": "224",
+            "name": "DaviH",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.14\n1.21\n0.96",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "115\n109\n131",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "6\n4\n2",
+            "kills": "208",
+            "name": "Bati",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.93\n1.21\n0.26",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "11\n10\n1",
+            "fk": "106\n118\n76",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "2\n0\n2",
+            "kills": "92",
+            "name": "Zino",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.87\n0.35\n2.13",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "120\n62\n261",
+            "hs%": "65%\n58%\n80%",
+            "kdr": "2\n0\n2",
+            "kills": "481",
+            "name": "tomaszy",
+            "team": "Arroz"
+          }
+        ],
+        [
+          {
+            "acs": "1.50\n1.68\n1.43",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "198\n259\n172",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "291",
+            "name": "rlzy",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "0.59\n0.01\n0.92",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "90\n5\n125",
+            "hs%": "65%\n60%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "199",
+            "name": "Fragger",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "0.46\n1.28\n0.12",
+            "adr": "-7\n+2\n-9",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "89\n212\n37",
+            "hs%": "53%\n100%\n33%",
+            "kdr": "3\n1\n2",
+            "kills": "55",
+            "name": "k0mpa",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "0.42\n0.19\n0.51",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "63\n69\n61",
+            "hs%": "35%\n40%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "91",
+            "name": "silenttt",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "0.24\n0.44\n0.15",
+            "adr": "-12\n-2\n-10",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "64\n104\n48",
+            "hs%": "53%\n80%\n42%",
+            "kdr": "5\n2\n3",
+            "kills": "72",
+            "name": "nasK",
+            "team": "GTZ Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "317",
+          "name": "VTaguT",
+          "team": "Arroz"
+        },
+        {
+          "kills": "290",
+          "name": "tomaszy",
+          "team": "Arroz"
+        },
+        {
+          "kills": "222",
+          "name": "Bati",
+          "team": "Arroz"
+        },
+        {
+          "kills": "154",
+          "name": "DaviH",
+          "team": "Arroz"
+        },
+        {
+          "kills": "113",
+          "name": "Zino",
+          "team": "Arroz"
+        },
+        {
+          "kills": "192",
+          "name": "Fragger",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "204",
+          "name": "rlzy",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "183",
+          "name": "silenttt",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "200",
+          "name": "k0mpa",
+          "team": "GTZ Esports"
+        },
+        {
+          "kills": "139",
+          "name": "nasK",
+          "team": "GTZ Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.50\n1.57\n1.41",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "224\n244\n199",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "7\n4\n3",
+            "kills": "317",
+            "name": "VTaguT",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.21\n1.23\n1.20",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "192\n189\n197",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "2\n2\n0",
+            "kills": "290",
+            "name": "tomaszy",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.15\n1.17\n1.13",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "123\n117\n131",
+            "hs%": "82%\n92%\n70%",
+            "kdr": "13\n7\n6",
+            "kills": "222",
+            "name": "Bati",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.97\n0.73\n1.26",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "105\n64\n154",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "6\n3\n3",
+            "kills": "154",
+            "name": "DaviH",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.77\n0.47\n1.12",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "87\n75\n102",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "3\n2\n1",
+            "kills": "113",
+            "name": "Zino",
+            "team": "Arroz"
+          }
+        ],
+        [
+          {
+            "acs": "0.94\n0.77\n1.08",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "110\n73\n141",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "192",
+            "name": "Fragger",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "0.93\n0.70\n1.12",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "137\n167\n111",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "204",
+            "name": "rlzy",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "0.90\n0.88\n0.92",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "111\n136\n91",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "183",
+            "name": "silenttt",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "0.87\n0.76\n0.96",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "127\n102\n147",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "200",
+            "name": "k0mpa",
+            "team": "GTZ Esports"
+          },
+          {
+            "acs": "0.62\n0.63\n0.61",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "99\n93\n105",
+            "hs%": "59%\n50%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "139",
+            "name": "nasK",
+            "team": "GTZ Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 152235,
+  "teams": [
+    "GTZ Esports",
+    "Arroz"
+  ],
+  "tournament": "Grand Final: \n\t\t\t\t\t\tGrand Final"
+}

@@ -1,0 +1,612 @@
+{
+  "date": "2022-02-03 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "352",
+          "name": "koalanoob",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "245",
+          "name": "johnqt",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "345",
+          "name": "NiSMO",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "224",
+          "name": "brawk",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "148",
+          "name": "ryann",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "172",
+          "name": "T\u00e9tra",
+          "team": "5 of a Kind"
+        },
+        {
+          "kills": "163",
+          "name": "Pistola",
+          "team": "5 of a Kind"
+        },
+        {
+          "kills": "181",
+          "name": "Strafin",
+          "team": "5 of a Kind"
+        },
+        {
+          "kills": "116",
+          "name": "duckadoobee",
+          "team": "5 of a Kind"
+        },
+        {
+          "kills": "72",
+          "name": "Potadoe",
+          "team": "5 of a Kind"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.68\n2.04\n0.25",
+            "adr": "+10\n+12\n-2",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "19\n18\n1",
+            "fk": "233\n265\n107",
+            "hs%": "80%\n92%\n33%",
+            "kdr": "5\n4\n1",
+            "kills": "352",
+            "name": "koalanoob",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.65\n1.73\n1.30",
+            "adr": "+10\n+9\n+1",
+            "agent": "",
+            "assists": "/\n\n4\n2\n2\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "196\n199\n182",
+            "hs%": "87%\n83%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "245",
+            "name": "johnqt",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.58\n1.42\n2.21",
+            "adr": "+11\n+9\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "215\n213\n220",
+            "hs%": "80%\n75%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "345",
+            "name": "NiSMO",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.43\n1.43\n1.42",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n5\n3\n2\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "133\n119\n189",
+            "hs%": "87%\n83%\n100%",
+            "kdr": "6\n4\n2",
+            "kills": "224",
+            "name": "brawk",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.13\n1.36\n0.24",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n6\n3\n3\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "111\n117\n85",
+            "hs%": "93%\n100%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "148",
+            "name": "ryann",
+            "team": "Ghost Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "0.55\n0.59\n0.54",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "103\n119\n99",
+            "hs%": "47%\n67%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "172",
+            "name": "T\u00e9tra",
+            "team": "5 of a Kind"
+          },
+          {
+            "acs": "0.54\n1.08\n0.40",
+            "adr": "-7\n+1\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "96\n201\n70",
+            "hs%": "33%\n67%\n25%",
+            "kdr": "1\n0\n1",
+            "kills": "163",
+            "name": "Pistola",
+            "team": "5 of a Kind"
+          },
+          {
+            "acs": "0.45\n0.28\n0.49",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "118\n52\n134",
+            "hs%": "53%\n100%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "181",
+            "name": "Strafin",
+            "team": "5 of a Kind"
+          },
+          {
+            "acs": "0.41\n1.61\n0.11",
+            "adr": "-9\n+1\n-10",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "80\n188\n53",
+            "hs%": "33%\n100%\n17%",
+            "kdr": "2\n2\n0",
+            "kills": "116",
+            "name": "duckadoobee",
+            "team": "5 of a Kind"
+          },
+          {
+            "acs": "0.37\n0.73\n0.28",
+            "adr": "-10\n0\n-10",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "53\n128\n35",
+            "hs%": "33%\n67%\n25%",
+            "kdr": "2\n0\n2",
+            "kills": "72",
+            "name": "Potadoe",
+            "team": "5 of a Kind"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "328",
+          "name": "NiSMO",
+          "team": null
+        },
+        {
+          "kills": "250",
+          "name": "johnqt",
+          "team": null
+        },
+        {
+          "kills": "382",
+          "name": "koalanoob",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "brawk",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "ryann",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "Pistola",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "Strafin",
+          "team": null
+        },
+        {
+          "kills": "134",
+          "name": "T\u00e9tra",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "Rebolt",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "Potadoe",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "duckadoobee",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.56\n2.24\n1.93",
+            "adr": "+27\n+11\n+16",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "41\n17\n24",
+            "fk": "237\n212\n259",
+            "hs%": "86%\n77%\n93%",
+            "kdr": "10\n2\n8",
+            "kills": "328",
+            "name": "NiSMO",
+            "team": null
+          },
+          {
+            "acs": "1.66\n1.66\n1.66",
+            "adr": "+20\n+9\n+11",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "28\n12\n16",
+            "fk": "174\n192\n158",
+            "hs%": "93%\n85%\n100%",
+            "kdr": "5\n3\n2",
+            "kills": "250",
+            "name": "johnqt",
+            "team": null
+          },
+          {
+            "acs": "1.89\n1.35\n1.60",
+            "adr": "+18\n+11\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "34\n18\n16",
+            "fk": "212\n251\n179",
+            "hs%": "86%\n92%\n80%",
+            "kdr": "6\n5\n1",
+            "kills": "382",
+            "name": "koalanoob",
+            "team": null
+          },
+          {
+            "acs": "1.48\n1.23\n1.35",
+            "adr": "+12\n+7\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "141\n122\n158",
+            "hs%": "82%\n85%\n80%",
+            "kdr": "8\n4\n4",
+            "kills": "205",
+            "name": "brawk",
+            "team": null
+          },
+          {
+            "acs": "1.32\n0.79\n1.04",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "90\n112\n71",
+            "hs%": "89%\n100%\n80%",
+            "kdr": "10\n2\n8",
+            "kills": "153",
+            "name": "ryann",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.55\n0.54\n0.55",
+            "adr": "-14\n-7\n-7",
+            "agent": "",
+            "assists": "/\n\n28\n15\n13\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "103\n113\n92",
+            "hs%": "36%\n40%\n31%",
+            "kdr": "1\n0\n1",
+            "kills": "160",
+            "name": "Pistola",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.45\n0.49",
+            "adr": "-15\n-8\n-7",
+            "agent": "",
+            "assists": "/\n\n28\n15\n13\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "107\n90\n127",
+            "hs%": "50%\n60%\n38%",
+            "kdr": "2\n2\n0",
+            "kills": "150",
+            "name": "Strafin",
+            "team": null
+          },
+          {
+            "acs": "0.39\n0.56\n0.47",
+            "adr": "-14\n-8\n-6",
+            "agent": "",
+            "assists": "/\n\n28\n15\n13\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "90\n83\n99",
+            "hs%": "50%\n53%\n46%",
+            "kdr": "3\n1\n2",
+            "kills": "134",
+            "name": "T\u00e9tra",
+            "team": null
+          },
+          {
+            "acs": "0.48\n0.27\n0.46",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "94\n102",
+            "hs%": "46%\n42%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "152",
+            "name": "Rebolt",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.28\n0.37",
+            "adr": "-10\n0\n-10",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "53\n128\n35",
+            "hs%": "33%\n67%\n25%",
+            "kdr": "2\n0\n2",
+            "kills": "137",
+            "name": "Potadoe",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.10\n0.34",
+            "adr": "-19\n-8\n-11",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "81\n108\n49",
+            "hs%": "43%\n67%\n15%",
+            "kdr": "7\n7\n0",
+            "kills": "150",
+            "name": "duckadoobee",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "429",
+          "name": "NiSMO",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "252",
+          "name": "johnqt",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "335",
+          "name": "koalanoob",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "193",
+          "name": "brawk",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "103",
+          "name": "ryann",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "601",
+          "name": "Pistola",
+          "team": "5 of a Kind"
+        },
+        {
+          "kills": "42",
+          "name": "Strafin",
+          "team": "5 of a Kind"
+        },
+        {
+          "kills": "140",
+          "name": "Rebolt",
+          "team": "5 of a Kind"
+        },
+        {
+          "kills": "210",
+          "name": "T\u00e9tra",
+          "team": "5 of a Kind"
+        },
+        {
+          "kills": "109",
+          "name": "duckadoobee",
+          "team": "5 of a Kind"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "2.32\n3.23\n2.25",
+            "adr": "+16\n+2\n+14",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "21\n2\n19",
+            "fk": "263\n192\n269",
+            "hs%": "92%\n100%\n92%",
+            "kdr": "9\n1\n8",
+            "kills": "429",
+            "name": "NiSMO",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.67\n0.76\n1.75",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "14\n1\n13",
+            "fk": "148\n110\n152",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "252",
+            "name": "johnqt",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.51\n0.15\n1.62",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "15\n0\n15",
+            "fk": "188\n90\n197",
+            "hs%": "92%\n100%\n92%",
+            "kdr": "1\n1\n0",
+            "kills": "335",
+            "name": "koalanoob",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.25\n2.06\n1.19",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "151\n165\n150",
+            "hs%": "77%\n100%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "193",
+            "name": "brawk",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "0.93\n0.90\n0.93",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "66\n55\n67",
+            "hs%": "85%\n100%\n83%",
+            "kdr": "8\n0\n8",
+            "kills": "103",
+            "name": "ryann",
+            "team": "Ghost Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "0.56\n0.42\n2.19",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "111\n90\n355",
+            "hs%": "38%\n33%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "601",
+            "name": "Pistola",
+            "team": "5 of a Kind"
+          },
+          {
+            "acs": "0.53\n0.59\n0.01",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "95\n100\n42",
+            "hs%": "46%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "42",
+            "name": "Strafin",
+            "team": "5 of a Kind"
+          },
+          {
+            "acs": "0.46\n0.48\n0.27",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "94\n102",
+            "hs%": "46%\n42%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "140",
+            "name": "Rebolt",
+            "team": "5 of a Kind"
+          },
+          {
+            "acs": "0.38\n0.34\n0.81",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "76\n74\n103",
+            "hs%": "54%\n50%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "210",
+            "name": "T\u00e9tra",
+            "team": "5 of a Kind"
+          },
+          {
+            "acs": "0.26\n0.32\n0.01",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "81\n88",
+            "hs%": "54%\n58%",
+            "kdr": "5\n5\n0",
+            "kills": "109",
+            "name": "duckadoobee",
+            "team": "5 of a Kind"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 68600,
+  "teams": [
+    "Ghost Gaming",
+    "5 of a Kind"
+  ],
+  "tournament": "Open Qualifier #2: \n\t\t\t\t\t\tRound of 128"
+}

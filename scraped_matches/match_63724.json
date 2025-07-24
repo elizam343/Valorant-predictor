@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-14 17:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "268",
+          "name": "Decay",
+          "team": "SHOWRUNNERS"
+        },
+        {
+          "kills": "222",
+          "name": "Allan",
+          "team": "SHOWRUNNERS"
+        },
+        {
+          "kills": "258",
+          "name": "starly",
+          "team": "SHOWRUNNERS"
+        },
+        {
+          "kills": "223",
+          "name": "dre",
+          "team": "SHOWRUNNERS"
+        },
+        {
+          "kills": "181",
+          "name": "Maanish",
+          "team": "SHOWRUNNERS"
+        },
+        {
+          "kills": "218",
+          "name": "Primzy",
+          "team": "Clicken Chickens"
+        },
+        {
+          "kills": "193",
+          "name": "Teets",
+          "team": "Clicken Chickens"
+        },
+        {
+          "kills": "136",
+          "name": "hesh",
+          "team": "Clicken Chickens"
+        },
+        {
+          "kills": "195",
+          "name": "Zane",
+          "team": "Clicken Chickens"
+        },
+        {
+          "kills": "102",
+          "name": "Boston",
+          "team": "Clicken Chickens"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.49\n1.75\n1.10",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "200\n222\n168",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "13\n7\n6",
+            "kills": "268",
+            "name": "Decay",
+            "team": "SHOWRUNNERS"
+          },
+          {
+            "acs": "1.48\n1.62\n1.28",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "150\n164\n129",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "17\n11\n6",
+            "kills": "222",
+            "name": "Allan",
+            "team": "SHOWRUNNERS"
+          },
+          {
+            "acs": "1.39\n1.23\n1.64",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "158\n150\n169",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "258",
+            "name": "starly",
+            "team": "SHOWRUNNERS"
+          },
+          {
+            "acs": "1.23\n1.37\n1.01",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "134\n155\n103",
+            "hs%": "85%\n92%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "223",
+            "name": "dre",
+            "team": "SHOWRUNNERS"
+          },
+          {
+            "acs": "1.12\n0.92\n1.42",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "127\n109\n155",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "9\n6\n3",
+            "kills": "181",
+            "name": "Maanish",
+            "team": "SHOWRUNNERS"
+          }
+        ],
+        [
+          {
+            "acs": "0.84\n0.49\n1.07",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "141\n134\n146",
+            "hs%": "50%\n63%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "218",
+            "name": "Primzy",
+            "team": "Clicken Chickens"
+          },
+          {
+            "acs": "0.77\n0.91\n0.68",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "126\n150\n109",
+            "hs%": "45%\n63%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "193",
+            "name": "Teets",
+            "team": "Clicken Chickens"
+          },
+          {
+            "acs": "0.75\n1.33\n0.35",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "102\n166\n59",
+            "hs%": "60%\n88%\n42%",
+            "kdr": "3\n0\n3",
+            "kills": "136",
+            "name": "hesh",
+            "team": "Clicken Chickens"
+          },
+          {
+            "acs": "0.65\n0.27\n0.90",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "144\n78\n188",
+            "hs%": "55%\n38%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "195",
+            "name": "Zane",
+            "team": "Clicken Chickens"
+          },
+          {
+            "acs": "0.26\n0.42\n0.15",
+            "adr": "-14\n-4\n-10",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "71\n86\n61",
+            "hs%": "45%\n63%\n33%",
+            "kdr": "6\n3\n3",
+            "kills": "102",
+            "name": "Boston",
+            "team": "Clicken Chickens"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "311",
+          "name": "Decay",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "Maanish",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "dre",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "starly",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "Allan",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "Teets",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "Primzy",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "hesh",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "Zane",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "Boston",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.86\n1.08\n1.44",
+            "adr": "+15\n+11\n+4",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "36\n19\n17",
+            "fk": "191\n215\n170",
+            "hs%": "76%\n82%\n70%",
+            "kdr": "16\n8\n8",
+            "kills": "311",
+            "name": "Decay",
+            "team": null
+          },
+          {
+            "acs": "1.46\n1.22\n1.33",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "31\n15\n16",
+            "fk": "139\n158\n123",
+            "hs%": "76%\n76%\n75%",
+            "kdr": "11\n7\n4",
+            "kills": "235",
+            "name": "Maanish",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.52\n1.33",
+            "adr": "+16\n+5\n+11",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "33\n13\n20",
+            "fk": "149\n131\n165",
+            "hs%": "78%\n76%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "203",
+            "name": "dre",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.52\n1.31",
+            "adr": "+12\n+2\n+10",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "32\n12\n20",
+            "fk": "163\n131\n190",
+            "hs%": "81%\n76%\n85%",
+            "kdr": "11\n6\n5",
+            "kills": "197",
+            "name": "starly",
+            "team": null
+          },
+          {
+            "acs": "1.38\n0.97\n1.16",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "127\n145\n112",
+            "hs%": "84%\n94%\n75%",
+            "kdr": "21\n14\n7",
+            "kills": "200",
+            "name": "Allan",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.99\n0.57\n0.80",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n32\n18\n14\n\n/",
+            "deaths": "25\n16\n9",
+            "fk": "121\n147\n90",
+            "hs%": "49%\n60%\n35%",
+            "kdr": "3\n3\n0",
+            "kills": "227",
+            "name": "Teets",
+            "team": null
+          },
+          {
+            "acs": "0.45\n1.06\n0.73",
+            "adr": "-7\n-9\n+2",
+            "agent": "",
+            "assists": "/\n\n30\n18\n12\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "120\n100\n144",
+            "hs%": "51%\n50%\n53%",
+            "kdr": "4\n3\n1",
+            "kills": "141",
+            "name": "Primzy",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.38\n0.68",
+            "adr": "-14\n-6\n-8",
+            "agent": "",
+            "assists": "/\n\n29\n17\n12\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "90\n113\n62",
+            "hs%": "54%\n65%\n41%",
+            "kdr": "9\n6\n3",
+            "kills": "159",
+            "name": "hesh",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.87\n0.63",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n33\n17\n16\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "132\n97\n173",
+            "hs%": "54%\n45%\n65%",
+            "kdr": "8\n5\n3",
+            "kills": "121",
+            "name": "Zane",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.20\n0.51",
+            "adr": "-19\n-6\n-13",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "86\n104\n64",
+            "hs%": "54%\n70%\n35%",
+            "kdr": "9\n5\n4",
+            "kills": "185",
+            "name": "Boston",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "169",
+          "name": "Maanish",
+          "team": "SHOWRUNNERS"
+        },
+        {
+          "kills": "290",
+          "name": "dre",
+          "team": "SHOWRUNNERS"
+        },
+        {
+          "kills": "281",
+          "name": "Decay",
+          "team": "SHOWRUNNERS"
+        },
+        {
+          "kills": "292",
+          "name": "starly",
+          "team": "SHOWRUNNERS"
+        },
+        {
+          "kills": "156",
+          "name": "Allan",
+          "team": "SHOWRUNNERS"
+        },
+        {
+          "kills": "87",
+          "name": "Teets",
+          "team": "Clicken Chickens"
+        },
+        {
+          "kills": "85",
+          "name": "Boston",
+          "team": "Clicken Chickens"
+        },
+        {
+          "kills": "208",
+          "name": "Zane",
+          "team": "Clicken Chickens"
+        },
+        {
+          "kills": "87",
+          "name": "hesh",
+          "team": "Clicken Chickens"
+        },
+        {
+          "kills": "231",
+          "name": "Primzy",
+          "team": "Clicken Chickens"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.58\n2.74\n1.09",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "153\n276\n102",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "169",
+            "name": "Maanish",
+            "team": "SHOWRUNNERS"
+          },
+          {
+            "acs": "1.45\n0.44\n1.87",
+            "adr": "+10\n-1\n+11",
+            "agent": "",
+            "assists": "/\n\n6\n3\n3\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "168\n75\n207",
+            "hs%": "71%\n40%\n83%",
+            "kdr": "0\n0\n0",
+            "kills": "290",
+            "name": "dre",
+            "team": "SHOWRUNNERS"
+          },
+          {
+            "acs": "1.38\n2.12\n1.07",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "179\n198\n171",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "281",
+            "name": "Decay",
+            "team": "SHOWRUNNERS"
+          },
+          {
+            "acs": "1.22\n0.69\n1.44",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "169\n84\n205",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "292",
+            "name": "starly",
+            "team": "SHOWRUNNERS"
+          },
+          {
+            "acs": "0.78\n0.80\n0.77",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "100\n98\n100",
+            "hs%": "65%\n80%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "156",
+            "name": "Allan",
+            "team": "SHOWRUNNERS"
+          }
+        ],
+        [
+          {
+            "acs": "0.84\n1.05\n0.33",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "116\n146\n44",
+            "hs%": "53%\n58%\n40%",
+            "kdr": "3\n3\n0",
+            "kills": "87",
+            "name": "Teets",
+            "team": "Clicken Chickens"
+          },
+          {
+            "acs": "0.80\n0.99\n0.33",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "103\n116\n72",
+            "hs%": "65%\n75%\n40%",
+            "kdr": "3\n2\n1",
+            "kills": "85",
+            "name": "Boston",
+            "team": "Clicken Chickens"
+          },
+          {
+            "acs": "0.60\n0.52\n0.80",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "117\n109\n137",
+            "hs%": "53%\n50%\n60%",
+            "kdr": "4\n4\n0",
+            "kills": "208",
+            "name": "Zane",
+            "team": "Clicken Chickens"
+          },
+          {
+            "acs": "0.60\n0.66\n0.46",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "75\n78\n69",
+            "hs%": "47%\n50%\n40%",
+            "kdr": "6\n6\n0",
+            "kills": "87",
+            "name": "hesh",
+            "team": "Clicken Chickens"
+          },
+          {
+            "acs": "0.60\n0.42\n1.02",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "96\n78\n138",
+            "hs%": "53%\n42%\n80%",
+            "kdr": "3\n2\n1",
+            "kills": "231",
+            "name": "Primzy",
+            "team": "Clicken Chickens"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 63724,
+  "teams": [
+    "Clicken Chickens",
+    "SHOWRUNNERS"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 64"
+}

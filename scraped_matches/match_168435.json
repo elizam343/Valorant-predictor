@@ -1,0 +1,612 @@
+{
+  "date": "2023-01-22 13:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "235",
+          "name": "gromezin",
+          "team": "Team Lithium"
+        },
+        {
+          "kills": "270",
+          "name": "coob",
+          "team": "Team Lithium"
+        },
+        {
+          "kills": "206",
+          "name": "ErK",
+          "team": "Team Lithium"
+        },
+        {
+          "kills": "175",
+          "name": "Reac",
+          "team": "Team Lithium"
+        },
+        {
+          "kills": "135",
+          "name": "MEIYO",
+          "team": "Team Lithium"
+        },
+        {
+          "kills": "355",
+          "name": "Matzdell",
+          "team": "Pumba Gaming"
+        },
+        {
+          "kills": "250",
+          "name": "mtzz",
+          "team": "Pumba Gaming"
+        },
+        {
+          "kills": "195",
+          "name": "claudinho",
+          "team": "Pumba Gaming"
+        },
+        {
+          "kills": "192",
+          "name": "pitgkiNg",
+          "team": "Pumba Gaming"
+        },
+        {
+          "kills": "138",
+          "name": "nah",
+          "team": "Pumba Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.29\n1.33",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "165\n152\n177",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "235",
+            "name": "gromezin",
+            "team": "Team Lithium"
+          },
+          {
+            "acs": "1.07\n0.99\n1.14",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "157\n147\n166",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "270",
+            "name": "coob",
+            "team": "Team Lithium"
+          },
+          {
+            "acs": "0.97\n1.01\n0.94",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "141\n124\n155",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "206",
+            "name": "ErK",
+            "team": "Team Lithium"
+          },
+          {
+            "acs": "0.79\n0.75\n0.81",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "102\n105\n99",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "175",
+            "name": "Reac",
+            "team": "Team Lithium"
+          },
+          {
+            "acs": "0.46\n0.25\n0.63",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "92\n46\n129",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "12\n6\n6",
+            "kills": "135",
+            "name": "MEIYO",
+            "team": "Team Lithium"
+          }
+        ],
+        [
+          {
+            "acs": "1.74\n1.47\n2.05",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "28\n14\n14",
+            "fk": "219\n184\n260",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "6\n2\n4",
+            "kills": "355",
+            "name": "Matzdell",
+            "team": "Pumba Gaming"
+          },
+          {
+            "acs": "1.28\n1.01\n1.60",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "166\n181\n149",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "14\n6\n8",
+            "kills": "250",
+            "name": "mtzz",
+            "team": "Pumba Gaming"
+          },
+          {
+            "acs": "1.07\n1.22\n0.90",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "138\n144\n131",
+            "hs%": "86%\n92%\n80%",
+            "kdr": "8\n2\n6",
+            "kills": "195",
+            "name": "claudinho",
+            "team": "Pumba Gaming"
+          },
+          {
+            "acs": "0.96\n1.21\n0.65",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "132\n161\n96",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "3\n1\n2",
+            "kills": "192",
+            "name": "pitgkiNg",
+            "team": "Pumba Gaming"
+          },
+          {
+            "acs": "0.59\n0.36\n0.87",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "80\n50\n117",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "11\n5\n6",
+            "kills": "138",
+            "name": "nah",
+            "team": "Pumba Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "201",
+          "name": "ErK",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "gromezin",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "coob",
+          "team": null
+        },
+        {
+          "kills": "111",
+          "name": "Crawler",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "MEIYO",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "Reac",
+          "team": null
+        },
+        {
+          "kills": "310",
+          "name": "claudinho",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "Matzdell",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "mtzz",
+          "team": null
+        },
+        {
+          "kills": "242",
+          "name": "pitgkiNg",
+          "team": null
+        },
+        {
+          "kills": "91",
+          "name": "nah",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.14\n1.34\n1.24",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n33\n16\n17\n\n/",
+            "deaths": "38\n15\n23",
+            "fk": "167\n130\n202",
+            "hs%": "67%\n55%\n79%",
+            "kdr": "18\n8\n10",
+            "kills": "201",
+            "name": "ErK",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.16\n0.94",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n36\n18\n18\n\n/",
+            "deaths": "30\n10\n20",
+            "fk": "116\n88\n142",
+            "hs%": "67%\n55%\n79%",
+            "kdr": "11\n5\n6",
+            "kills": "130",
+            "name": "gromezin",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.93\n0.89",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n39\n17\n22\n\n/",
+            "deaths": "32\n12\n20",
+            "fk": "139\n112\n163",
+            "hs%": "65%\n50%\n79%",
+            "kdr": "7\n2\n5",
+            "kills": "170",
+            "name": "coob",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.09\n0.83",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "100\n83\n117",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "111",
+            "name": "Crawler",
+            "team": null
+          },
+          {
+            "acs": "0.59\n1.02\n0.82",
+            "adr": "-12\n-10\n-2",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "27\n9\n18",
+            "fk": "129\n100\n156",
+            "hs%": "61%\n50%\n71%",
+            "kdr": "19\n8\n11",
+            "kills": "141",
+            "name": "MEIYO",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.81\n0.79",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "102\n105\n99",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "210",
+            "name": "Reac",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.59\n1.16\n1.38",
+            "adr": "+16\n+11\n+5",
+            "agent": "",
+            "assists": "/\n\n28\n15\n13\n\n/",
+            "deaths": "44\n26\n18",
+            "fk": "174\n201\n144",
+            "hs%": "87%\n92%\n82%",
+            "kdr": "17\n7\n10",
+            "kills": "310",
+            "name": "claudinho",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.64\n1.30",
+            "adr": "+12\n0\n+12",
+            "agent": "",
+            "assists": "/\n\n34\n22\n12\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "178\n161\n197",
+            "hs%": "72%\n63%\n82%",
+            "kdr": "10\n3\n7",
+            "kills": "253",
+            "name": "Matzdell",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.41\n1.15",
+            "adr": "+10\n-1\n+11",
+            "agent": "",
+            "assists": "/\n\n32\n21\n11\n\n/",
+            "deaths": "42\n20\n22",
+            "fk": "162\n144\n182",
+            "hs%": "80%\n83%\n77%",
+            "kdr": "21\n9\n12",
+            "kills": "221",
+            "name": "mtzz",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.10\n1.03",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n30\n20\n10\n\n/",
+            "deaths": "34\n19\n15",
+            "fk": "141\n161\n120",
+            "hs%": "72%\n67%\n77%",
+            "kdr": "10\n6\n4",
+            "kills": "242",
+            "name": "pitgkiNg",
+            "team": null
+          },
+          {
+            "acs": "0.34\n0.96\n0.63",
+            "adr": "-13\n-12\n-1",
+            "agent": "",
+            "assists": "/\n\n31\n19\n12\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "76\n56\n98",
+            "hs%": "70%\n63%\n77%",
+            "kdr": "27\n10\n17",
+            "kills": "91",
+            "name": "nah",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "371",
+          "name": "ErK",
+          "team": "Team Lithium"
+        },
+        {
+          "kills": "272",
+          "name": "MEIYO",
+          "team": "Team Lithium"
+        },
+        {
+          "kills": "187",
+          "name": "Crawler",
+          "team": "Team Lithium"
+        },
+        {
+          "kills": "205",
+          "name": "coob",
+          "team": "Team Lithium"
+        },
+        {
+          "kills": "198",
+          "name": "gromezin",
+          "team": "Team Lithium"
+        },
+        {
+          "kills": "277",
+          "name": "claudinho",
+          "team": "Pumba Gaming"
+        },
+        {
+          "kills": "218",
+          "name": "pitgkiNg",
+          "team": "Pumba Gaming"
+        },
+        {
+          "kills": "274",
+          "name": "mtzz",
+          "team": "Pumba Gaming"
+        },
+        {
+          "kills": "225",
+          "name": "Matzdell",
+          "team": "Pumba Gaming"
+        },
+        {
+          "kills": "136",
+          "name": "nah",
+          "team": "Pumba Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.50\n1.25\n1.74",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "191\n134\n248",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "13\n6\n7",
+            "kills": "371",
+            "name": "ErK",
+            "team": "Team Lithium"
+          },
+          {
+            "acs": "1.14\n0.88\n1.41",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "164\n144\n183",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "272",
+            "name": "MEIYO",
+            "team": "Team Lithium"
+          },
+          {
+            "acs": "0.83\n0.57\n1.09",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "100\n83\n117",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "187",
+            "name": "Crawler",
+            "team": "Team Lithium"
+          },
+          {
+            "acs": "0.73\n0.75\n0.72",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "122\n83\n161",
+            "hs%": "63%\n42%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "205",
+            "name": "coob",
+            "team": "Team Lithium"
+          },
+          {
+            "acs": "0.61\n0.23\n0.98",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "72\n36\n108",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "198",
+            "name": "gromezin",
+            "team": "Team Lithium"
+          }
+        ],
+        [
+          {
+            "acs": "1.67\n1.95\n1.38",
+            "adr": "+15\n+9\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "30\n18\n12",
+            "fk": "207\n259\n155",
+            "hs%": "88%\n92%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "277",
+            "name": "claudinho",
+            "team": "Pumba Gaming"
+          },
+          {
+            "acs": "1.10\n0.72\n1.47",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "150\n160\n140",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "7\n5\n2",
+            "kills": "218",
+            "name": "pitgkiNg",
+            "team": "Pumba Gaming"
+          },
+          {
+            "acs": "1.02\n0.81\n1.24",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "159\n107\n211",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "274",
+            "name": "mtzz",
+            "team": "Pumba Gaming"
+          },
+          {
+            "acs": "0.90\n0.50\n1.29",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "141\n138\n144",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "225",
+            "name": "Matzdell",
+            "team": "Pumba Gaming"
+          },
+          {
+            "acs": "0.67\n0.32\n1.03",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "73\n63\n82",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "16\n5\n11",
+            "kills": "136",
+            "name": "nah",
+            "team": "Pumba Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 168435,
+  "teams": [
+    "Pumba Gaming",
+    "Team Lithium"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 16"
+}

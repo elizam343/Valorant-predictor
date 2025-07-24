@@ -1,0 +1,612 @@
+{
+  "date": "2023-01-14 02:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "307",
+          "name": "YUNSEUNG",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "216",
+          "name": "JaXe",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "261",
+          "name": "IceBear",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "186",
+          "name": "Pkm",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "109",
+          "name": "Athan",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "227",
+          "name": "apeX",
+          "team": "kakao"
+        },
+        {
+          "kills": "209",
+          "name": "Haxball",
+          "team": "kakao"
+        },
+        {
+          "kills": "237",
+          "name": "SID",
+          "team": "kakao"
+        },
+        {
+          "kills": "176",
+          "name": "Ziya",
+          "team": "kakao"
+        },
+        {
+          "kills": "147",
+          "name": "Karon",
+          "team": "kakao"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.50\n1.26\n1.75",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "202\n176\n228",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "9\n3\n6",
+            "kills": "307",
+            "name": "YUNSEUNG",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "1.32\n1.32\n1.32",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "139\n144\n134",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "12\n6\n6",
+            "kills": "216",
+            "name": "JaXe",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "1.26\n0.82\n1.69",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "172\n147\n198",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "2\n0\n2",
+            "kills": "261",
+            "name": "IceBear",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.83\n0.54\n1.12",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "123\n88\n158",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "4\n1\n3",
+            "kills": "186",
+            "name": "Pkm",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.63\n0.43\n0.84",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "76\n86\n65",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "3\n3\n0",
+            "kills": "109",
+            "name": "Athan",
+            "team": "TEAM INDIGO"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n0.76\n1.67",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "157\n107\n206",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "8\n3\n5",
+            "kills": "227",
+            "name": "apeX",
+            "team": "kakao"
+          },
+          {
+            "acs": "1.08\n0.95\n1.22",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "114\n104\n124",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "11\n1\n10",
+            "kills": "209",
+            "name": "Haxball",
+            "team": "kakao"
+          },
+          {
+            "acs": "0.91\n0.66\n1.17",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "157\n147\n167",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "5\n2\n3",
+            "kills": "237",
+            "name": "SID",
+            "team": "kakao"
+          },
+          {
+            "acs": "0.72\n0.35\n1.09",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "110\n62\n159",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "10\n6\n4",
+            "kills": "176",
+            "name": "Ziya",
+            "team": "kakao"
+          },
+          {
+            "acs": "0.58\n0.52\n0.64",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "102\n117\n86",
+            "hs%": "62%\n62%\n62%",
+            "kdr": "4\n3\n1",
+            "kills": "147",
+            "name": "Karon",
+            "team": "kakao"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "244",
+          "name": "IceBear",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "JaXe",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "YUNSEUNG",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "Pkm",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Athan",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "SID",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "Corine",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "Haxball",
+          "team": null
+        },
+        {
+          "kills": "98",
+          "name": "apeX",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "Karon",
+          "team": null
+        },
+        {
+          "kills": "115",
+          "name": "Ziya",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.15\n1.62\n1.40",
+            "adr": "+15\n0\n+15",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "49\n19\n30",
+            "fk": "177\n157\n196",
+            "hs%": "79%\n74%\n84%",
+            "kdr": "13\n7\n6",
+            "kills": "244",
+            "name": "IceBear",
+            "team": null
+          },
+          {
+            "acs": "1.26\n1.21\n1.24",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n28\n14\n14\n\n/",
+            "deaths": "36\n16\n20",
+            "fk": "133\n134\n131",
+            "hs%": "69%\n61%\n76%",
+            "kdr": "24\n11\n13",
+            "kills": "208",
+            "name": "JaXe",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.42\n1.21",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n32\n18\n14\n\n/",
+            "deaths": "37\n15\n22",
+            "fk": "164\n148\n180",
+            "hs%": "79%\n78%\n80%",
+            "kdr": "16\n6\n10",
+            "kills": "203",
+            "name": "YUNSEUNG",
+            "team": null
+          },
+          {
+            "acs": "0.66\n1.09\n0.88",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "28\n11\n17",
+            "fk": "122\n100\n142",
+            "hs%": "69%\n61%\n76%",
+            "kdr": "10\n4\n6",
+            "kills": "143",
+            "name": "Pkm",
+            "team": null
+          },
+          {
+            "acs": "0.65\n0.84\n0.75",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "107\n112\n101",
+            "hs%": "77%\n61%\n92%",
+            "kdr": "11\n7\n4",
+            "kills": "157",
+            "name": "Athan",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.86\n1.18\n1.01",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n36\n20\n16\n\n/",
+            "deaths": "38\n18\n20",
+            "fk": "150\n142\n159",
+            "hs%": "75%\n64%\n87%",
+            "kdr": "12\n3\n9",
+            "kills": "221",
+            "name": "SID",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.20\n1.01",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "117\n127\n106",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "5\n2\n3",
+            "kills": "194",
+            "name": "Corine",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.95\n0.96",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n32\n19\n13\n\n/",
+            "deaths": "31\n18\n13",
+            "fk": "106\n102\n109",
+            "hs%": "69%\n68%\n70%",
+            "kdr": "20\n8\n12",
+            "kills": "186",
+            "name": "Haxball",
+            "team": null
+          },
+          {
+            "acs": "0.47\n1.49\n0.96",
+            "adr": "0\n-12\n+12",
+            "agent": "",
+            "assists": "/\n\n32\n20\n12\n\n/",
+            "deaths": "32\n8\n24",
+            "fk": "132\n70\n200",
+            "hs%": "71%\n60%\n83%",
+            "kdr": "16\n7\n9",
+            "kills": "98",
+            "name": "apeX",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.85\n0.86",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n36\n21\n15\n\n/",
+            "deaths": "31\n18\n13",
+            "fk": "135\n153\n115",
+            "hs%": "69%\n68%\n70%",
+            "kdr": "10\n8\n2",
+            "kills": "229",
+            "name": "Karon",
+            "team": null
+          },
+          {
+            "acs": "0.35\n1.09\n0.72",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "110\n62\n159",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "10\n6\n4",
+            "kills": "115",
+            "name": "Ziya",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "313",
+          "name": "IceBear",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "231",
+          "name": "JaXe",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "184",
+          "name": "Pkm",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "203",
+          "name": "Athan",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "173",
+          "name": "YUNSEUNG",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "218",
+          "name": "Karon",
+          "team": "kakao"
+        },
+        {
+          "kills": "239",
+          "name": "SID",
+          "team": "kakao"
+        },
+        {
+          "kills": "179",
+          "name": "Corine",
+          "team": "kakao"
+        },
+        {
+          "kills": "122",
+          "name": "Haxball",
+          "team": "kakao"
+        },
+        {
+          "kills": "273",
+          "name": "apeX",
+          "team": "kakao"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.56\n1.58\n1.55",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "183\n171\n194",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "11\n7\n4",
+            "kills": "313",
+            "name": "IceBear",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "1.14\n1.19\n1.10",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "126\n121\n129",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "12\n5\n7",
+            "kills": "231",
+            "name": "JaXe",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.94\n0.81\n1.06",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "120\n115\n124",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "184",
+            "name": "Pkm",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.88\n0.92\n0.85",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "143\n146\n141",
+            "hs%": "82%\n60%\n100%",
+            "kdr": "8\n4\n4",
+            "kills": "203",
+            "name": "Athan",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.87\n0.64\n1.07",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "120\n111\n127",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "173",
+            "name": "YUNSEUNG",
+            "team": "TEAM INDIGO"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n1.22\n1.14",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "174\n192\n152",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "6\n5\n1",
+            "kills": "218",
+            "name": "Karon",
+            "team": "kakao"
+          },
+          {
+            "acs": "1.13\n1.07\n1.21",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "143\n137\n150",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "7\n1\n6",
+            "kills": "239",
+            "name": "SID",
+            "team": "kakao"
+          },
+          {
+            "acs": "1.01\n0.86\n1.20",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "117\n127\n106",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "5\n2\n3",
+            "kills": "179",
+            "name": "Corine",
+            "team": "kakao"
+          },
+          {
+            "acs": "0.82\n0.99\n0.61",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "96\n100\n90",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "9\n7\n2",
+            "kills": "122",
+            "name": "Haxball",
+            "team": "kakao"
+          },
+          {
+            "acs": "0.66\n0.17\n1.26",
+            "adr": "-5\n-9\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "11\n1\n10",
+            "fk": "103\n29\n192",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "8\n4\n4",
+            "kills": "273",
+            "name": "apeX",
+            "team": "kakao"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 166491,
+  "teams": [
+    "kakao",
+    "TEAM INDIGO"
+  ],
+  "tournament": "Open Qualifier - Group 4: \n\t\t\t\t\t\tQuarterfinals"
+}

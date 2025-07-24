@@ -1,0 +1,788 @@
+{
+  "date": "2023-01-09 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "229",
+          "name": "edith",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "230",
+          "name": "kxtieoh",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "216",
+          "name": "Vernina",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "193",
+          "name": "caydia",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "176",
+          "name": "Slandy",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "300",
+          "name": "lotus",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "215",
+          "name": "Truman",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "188",
+          "name": "Merrks",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "139",
+          "name": "Chapo",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "74",
+          "name": "Sueiy",
+          "team": "Hitmen"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.61\n0.84",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "153\n207\n82",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "9\n3\n6",
+            "kills": "229",
+            "name": "edith",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "1.21\n0.70\n1.89",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "136\n81\n210",
+            "hs%": "71%\n58%\n89%",
+            "kdr": "6\n5\n1",
+            "kills": "230",
+            "name": "kxtieoh",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "1.17\n0.94\n1.49",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "142\n127\n161",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "8\n4\n4",
+            "kills": "216",
+            "name": "Vernina",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "1.11\n1.13\n1.09",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "135\n157\n105",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "5\n1\n4",
+            "kills": "193",
+            "name": "caydia",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "0.85\n0.44\n1.40",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "105\n69\n154",
+            "hs%": "57%\n50%\n67%",
+            "kdr": "13\n6\n7",
+            "kills": "176",
+            "name": "Slandy",
+            "team": "Misfits Black"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.09\n1.52",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "192\n150\n224",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "300",
+            "name": "lotus",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "0.99\n0.68\n1.23",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "138\n117\n154",
+            "hs%": "71%\n56%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "215",
+            "name": "Truman",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "0.94\n0.87\n0.99",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "131\n147\n119",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "188",
+            "name": "Merrks",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "0.75\n0.53\n0.92",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "92\n68\n109",
+            "hs%": "52%\n56%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "139",
+            "name": "Chapo",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "0.41\n0.25\n0.53",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "45\n28\n58",
+            "hs%": "52%\n44%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "74",
+            "name": "Sueiy",
+            "team": "Hitmen"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "220",
+          "name": "edith",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "Vernina",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "caydia",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "kxtieoh",
+          "team": null
+        },
+        {
+          "kills": "125",
+          "name": "Slandy",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "lotus",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "Merrks",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Truman",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "Sueiy",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "Chapo",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.05\n1.38\n1.21",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "56\n23\n33",
+            "fk": "158\n146\n170",
+            "hs%": "68%\n61%\n76%",
+            "kdr": "18\n9\n9",
+            "kills": "220",
+            "name": "edith",
+            "team": null
+          },
+          {
+            "acs": "0.94\n1.02\n0.98",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "40\n21\n19",
+            "fk": "120\n117\n122",
+            "hs%": "71%\n67%\n76%",
+            "kdr": "19\n7\n12",
+            "kills": "190",
+            "name": "Vernina",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.06\n0.97",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "41\n21\n20",
+            "fk": "128\n136\n121",
+            "hs%": "74%\n73%\n76%",
+            "kdr": "21\n7\n14",
+            "kills": "195",
+            "name": "caydia",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.17\n0.96",
+            "adr": "-6\n-11\n+5",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "45\n15\n30",
+            "fk": "127\n92\n163",
+            "hs%": "68%\n55%\n82%",
+            "kdr": "23\n13\n10",
+            "kills": "149",
+            "name": "kxtieoh",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.06\n0.84",
+            "adr": "-9\n-10\n+1",
+            "agent": "",
+            "assists": "/\n\n46\n25\n21\n\n/",
+            "deaths": "37\n15\n22",
+            "fk": "93\n75\n112",
+            "hs%": "59%\n45%\n73%",
+            "kdr": "31\n13\n18",
+            "kills": "125",
+            "name": "Slandy",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.89\n1.45\n1.17",
+            "adr": "+13\n-1\n+14",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "57\n24\n33",
+            "fk": "161\n134\n187",
+            "hs%": "77%\n70%\n85%",
+            "kdr": "15\n9\n6",
+            "kills": "200",
+            "name": "lotus",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.11\n1.09",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n42\n23\n19\n\n/",
+            "deaths": "48\n25\n23",
+            "fk": "132\n137\n127",
+            "hs%": "77%\n70%\n85%",
+            "kdr": "14\n7\n7",
+            "kills": "205",
+            "name": "Merrks",
+            "team": null
+          },
+          {
+            "acs": "1.02\n1.13\n1.07",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n43\n25\n18\n\n/",
+            "deaths": "51\n25\n26",
+            "fk": "149\n147\n150",
+            "hs%": "74%\n73%\n76%",
+            "kdr": "25\n13\n12",
+            "kills": "217",
+            "name": "Truman",
+            "team": null
+          },
+          {
+            "acs": "0.67\n1.22\n0.94",
+            "adr": "-2\n-11\n+9",
+            "agent": "",
+            "assists": "/\n\n42\n26\n16\n\n/",
+            "deaths": "40\n15\n25",
+            "fk": "117\n83\n151",
+            "hs%": "71%\n67%\n76%",
+            "kdr": "24\n14\n10",
+            "kills": "133",
+            "name": "Sueiy",
+            "team": null
+          },
+          {
+            "acs": "0.83\n0.90\n0.87",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n48\n27\n21\n\n/",
+            "deaths": "44\n23\n21",
+            "fk": "122\n135\n109",
+            "hs%": "65%\n61%\n70%",
+            "kdr": "26\n10\n16",
+            "kills": "207",
+            "name": "Chapo",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "334",
+          "name": "edith",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "230",
+          "name": "caydia",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "178",
+          "name": "kxtieoh",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "163",
+          "name": "Slandy",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "99",
+          "name": "Vernina",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "313",
+          "name": "lotus",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "224",
+          "name": "Merrks",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "142",
+          "name": "Chapo",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "175",
+          "name": "Sueiy",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "246",
+          "name": "Truman",
+          "team": "Hitmen"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.26\n1.05\n1.41",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "188\n157\n211",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "334",
+            "name": "edith",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "0.86\n0.45\n1.17",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "105\n65\n136",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "230",
+            "name": "caydia",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "0.81\n0.98\n0.69",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "110\n116\n106",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "10\n6\n4",
+            "kills": "178",
+            "name": "kxtieoh",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "0.79\n0.57\n0.95",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "100\n97\n103",
+            "hs%": "62%\n44%\n75%",
+            "kdr": "9\n2\n7",
+            "kills": "163",
+            "name": "Slandy",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "0.68\n0.83\n0.56",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "76\n90\n65",
+            "hs%": "62%\n44%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "99",
+            "name": "Vernina",
+            "team": "Misfits Black"
+          }
+        ],
+        [
+          {
+            "acs": "1.43\n1.05\n1.93",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "180\n157\n211",
+            "hs%": "90%\n100%\n78%",
+            "kdr": "8\n7\n1",
+            "kills": "313",
+            "name": "lotus",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "1.33\n1.32\n1.35",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "155\n167\n140",
+            "hs%": "81%\n67%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "224",
+            "name": "Merrks",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "1.21\n1.47\n0.87",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "21\n16\n5",
+            "fk": "163\n231\n72",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "11\n4\n7",
+            "kills": "142",
+            "name": "Chapo",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "1.08\n0.81\n1.43",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "111\n92\n136",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "16\n11\n5",
+            "kills": "175",
+            "name": "Sueiy",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "0.77\n0.76\n0.78",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "155\n162\n146",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "3\n2\n1",
+            "kills": "246",
+            "name": "Truman",
+            "team": "Hitmen"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "230",
+          "name": "edith",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "212",
+          "name": "Vernina",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "207",
+          "name": "caydia",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "201",
+          "name": "kxtieoh",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "133",
+          "name": "Slandy",
+          "team": "Misfits Black"
+        },
+        {
+          "kills": "245",
+          "name": "Truman",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "285",
+          "name": "Sueiy",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "152",
+          "name": "Merrks",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "189",
+          "name": "lotus",
+          "team": "Hitmen"
+        },
+        {
+          "kills": "158",
+          "name": "Chapo",
+          "team": "Hitmen"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.12\n0.49\n1.75",
+            "adr": "+3\n-6\n+9",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "21\n5\n16",
+            "fk": "136\n77\n194",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "230",
+            "name": "edith",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "1.07\n1.03\n1.12",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "139\n128\n150",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "212",
+            "name": "Vernina",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "0.95\n0.97\n0.92",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "143\n167\n118",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "12\n6\n6",
+            "kills": "207",
+            "name": "caydia",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "0.88\n0.64\n1.12",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "135\n86\n183",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "201",
+            "name": "kxtieoh",
+            "team": "Misfits Black"
+          },
+          {
+            "acs": "0.88\n0.86\n0.90",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "77\n64\n90",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "9\n5\n4",
+            "kills": "133",
+            "name": "Slandy",
+            "team": "Misfits Black"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.53\n1.29",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "153\n156\n150",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "18\n9\n9",
+            "kills": "245",
+            "name": "Truman",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "1.29\n0.83\n1.75",
+            "adr": "+9\n-3\n+12",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "25\n8\n17",
+            "fk": "186\n116\n256",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "285",
+            "name": "Sueiy",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "1.01\n0.97\n1.05",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "113\n101\n126",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "4\n3\n1",
+            "kills": "152",
+            "name": "Merrks",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "0.80\n0.58\n1.02",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "116\n99\n133",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "1\n1\n0",
+            "kills": "189",
+            "name": "lotus",
+            "team": "Hitmen"
+          },
+          {
+            "acs": "0.67\n0.42\n0.92",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "113\n89\n137",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "9\n3\n6",
+            "kills": "158",
+            "name": "Chapo",
+            "team": "Hitmen"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 164970,
+  "teams": [
+    "Hitmen",
+    "Misfits Black"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 256"
+}

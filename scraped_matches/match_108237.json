@@ -1,0 +1,594 @@
+{
+  "date": "2022-06-22 14:15:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "316",
+          "name": "cauanzin",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "208",
+          "name": "v1xen",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "269",
+          "name": "xand",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "247",
+          "name": "Jonn",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "182",
+          "name": "bezn1",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "182",
+          "name": "heat",
+          "team": "Keyd Stars"
+        },
+        {
+          "kills": "217",
+          "name": "RgLMeister",
+          "team": "Keyd Stars"
+        },
+        {
+          "kills": "204",
+          "name": "murizzz",
+          "team": "Keyd Stars"
+        },
+        {
+          "kills": "145",
+          "name": "mwzera",
+          "team": "Keyd Stars"
+        },
+        {
+          "kills": "93",
+          "name": "rhz",
+          "team": "Keyd Stars"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.63\n1.36\n1.74",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "20\n4\n16",
+            "fk": "192\n155\n207",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "10\n5\n5",
+            "kills": "316",
+            "name": "cauanzin",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.52\n2.51\n1.11",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "142\n182\n125",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "11\n3\n8",
+            "kills": "208",
+            "name": "v1xen",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.42\n0.76\n1.70",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "172\n124\n193",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "269",
+            "name": "xand",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.07\n1.19\n1.01",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "156\n175\n148",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "247",
+            "name": "Jonn",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "0.94\n1.19\n0.84",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "124\n134\n119",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "182",
+            "name": "bezn1",
+            "team": "Ninjas In Pyjamas"
+          }
+        ],
+        [
+          {
+            "acs": "0.96\n0.75\n1.46",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "134\n114\n181",
+            "hs%": "53%\n42%\n80%",
+            "kdr": "3\n3\n0",
+            "kills": "182",
+            "name": "heat",
+            "team": "Keyd Stars"
+          },
+          {
+            "acs": "0.95\n1.27\n0.16",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "12\n11\n1",
+            "fk": "138\n157\n93",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "7\n4\n3",
+            "kills": "217",
+            "name": "RgLMeister",
+            "team": "Keyd Stars"
+          },
+          {
+            "acs": "0.74\n0.58\n1.10",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "149\n127\n201",
+            "hs%": "59%\n50%\n80%",
+            "kdr": "5\n3\n2",
+            "kills": "204",
+            "name": "murizzz",
+            "team": "Keyd Stars"
+          },
+          {
+            "acs": "0.70\n0.89\n0.26",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "104\n109\n93",
+            "hs%": "53%\n50%\n60%",
+            "kdr": "5\n3\n2",
+            "kills": "145",
+            "name": "mwzera",
+            "team": "Keyd Stars"
+          },
+          {
+            "acs": "0.34\n0.37\n0.24",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "49\n50\n46",
+            "hs%": "35%\n33%\n40%",
+            "kdr": "3\n3\n0",
+            "kills": "93",
+            "name": "rhz",
+            "team": "Keyd Stars"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "298",
+          "name": "cauanzin",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "v1xen",
+          "team": null
+        },
+        {
+          "kills": "293",
+          "name": "bezn1",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "xand",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "Jonn",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "heat",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "murizzz",
+          "team": null
+        },
+        {
+          "kills": "146",
+          "name": "mwzera",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "RgLMeister",
+          "team": null
+        },
+        {
+          "kills": "109",
+          "name": "rhz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.57\n1.37\n1.46",
+            "adr": "+17\n+9\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "173\n197\n151",
+            "hs%": "91%\n94%\n89%",
+            "kdr": "17\n10\n7",
+            "kills": "298",
+            "name": "cauanzin",
+            "team": null
+          },
+          {
+            "acs": "1.42\n1.40\n1.41",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "144\n119\n167",
+            "hs%": "83%\n88%\n78%",
+            "kdr": "20\n11\n9",
+            "kills": "177",
+            "name": "v1xen",
+            "team": null
+          },
+          {
+            "acs": "1.61\n1.11\n1.35",
+            "adr": "+14\n+13\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "34\n22\n12",
+            "fk": "161\n187\n137",
+            "hs%": "86%\n88%\n83%",
+            "kdr": "11\n4\n7",
+            "kills": "293",
+            "name": "bezn1",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.60\n1.24",
+            "adr": "+7\n-3\n+10",
+            "agent": "",
+            "assists": "/\n\n24\n15\n9\n\n/",
+            "deaths": "31\n12\n19",
+            "fk": "158\n133\n181",
+            "hs%": "86%\n88%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "212",
+            "name": "xand",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.04\n1.02",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "151\n138\n164",
+            "hs%": "83%\n88%\n78%",
+            "kdr": "14\n5\n9",
+            "kills": "222",
+            "name": "Jonn",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.75\n1.24\n0.99",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "144\n119\n171",
+            "hs%": "63%\n50%\n76%",
+            "kdr": "7\n5\n2",
+            "kills": "164",
+            "name": "heat",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.89\n0.92",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "139\n142\n136",
+            "hs%": "63%\n50%\n76%",
+            "kdr": "14\n5\n9",
+            "kills": "211",
+            "name": "murizzz",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.98\n0.83",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "129\n99\n161",
+            "hs%": "54%\n44%\n65%",
+            "kdr": "6\n3\n3",
+            "kills": "146",
+            "name": "mwzera",
+            "team": null
+          },
+          {
+            "acs": "0.98\n0.30\n0.65",
+            "adr": "-13\n-2\n-11",
+            "agent": "",
+            "assists": "/\n\n31\n15\n16\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "105\n122\n87",
+            "hs%": "66%\n67%\n65%",
+            "kdr": "8\n4\n4",
+            "kills": "194",
+            "name": "RgLMeister",
+            "team": null
+          },
+          {
+            "acs": "0.38\n0.27\n0.33",
+            "adr": "-21\n-10\n-11",
+            "agent": "",
+            "assists": "/\n\n33\n17\n16\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "57\n62\n52",
+            "hs%": "49%\n44%\n53%",
+            "kdr": "10\n6\n4",
+            "kills": "109",
+            "name": "rhz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "bezn1",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "64",
+          "name": "cauanzin",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "377",
+          "name": "v1xen",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "246",
+          "name": "xand",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "273",
+          "name": "Jonn",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "187",
+          "name": "murizzz",
+          "team": "Keyd Stars"
+        },
+        {
+          "kills": "240",
+          "name": "heat",
+          "team": "Keyd Stars"
+        },
+        {
+          "kills": "305",
+          "name": "mwzera",
+          "team": "Keyd Stars"
+        },
+        {
+          "kills": "118",
+          "name": "RgLMeister",
+          "team": "Keyd Stars"
+        },
+        {
+          "kills": "80",
+          "name": "rhz",
+          "team": "Keyd Stars"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.74\n1.78\n1.64",
+            "adr": "+13\n+11\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "22\n17\n5",
+            "fk": "196\n209\n171",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "265",
+            "name": "bezn1",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.31\n1.65\n0.62",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "15\n14\n1",
+            "fk": "156\n214\n39",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "7\n5\n2",
+            "kills": "64",
+            "name": "cauanzin",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.30\n0.96\n1.98",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "145\n93\n250",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "9\n8\n1",
+            "kills": "377",
+            "name": "v1xen",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.07\n0.91\n1.40",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "144\n137\n157",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "246",
+            "name": "xand",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "0.98\n0.92\n1.10",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "147\n122\n196",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "10\n4\n6",
+            "kills": "273",
+            "name": "Jonn",
+            "team": "Ninjas In Pyjamas"
+          }
+        ],
+        [
+          {
+            "acs": "1.09\n1.69\n0.80",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "131\n173\n110",
+            "hs%": "67%\n50%\n75%",
+            "kdr": "9\n2\n7",
+            "kills": "187",
+            "name": "murizzz",
+            "team": "Keyd Stars"
+          },
+          {
+            "acs": "1.02\n0.77\n1.14",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "155\n130\n167",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "240",
+            "name": "heat",
+            "team": "Keyd Stars"
+          },
+          {
+            "acs": "0.96\n0.31\n1.28",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "152\n79\n189",
+            "hs%": "56%\n33%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "305",
+            "name": "mwzera",
+            "team": "Keyd Stars"
+          },
+          {
+            "acs": "0.37\n0.40\n0.36",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "73\n52\n84",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "118",
+            "name": "RgLMeister",
+            "team": "Keyd Stars"
+          },
+          {
+            "acs": "0.32\n0.40\n0.28",
+            "adr": "-12\n-4\n-8",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "65\n86\n55",
+            "hs%": "61%\n67%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "80",
+            "name": "rhz",
+            "team": "Keyd Stars"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 108237,
+  "teams": [
+    "Ninjas In Pyjamas",
+    "Keyd Stars"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tUpper Semifinals"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2021-04-24 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "391",
+          "name": "pollo",
+          "team": "Black Dragons"
+        },
+        {
+          "kills": "268",
+          "name": "Docks",
+          "team": "Black Dragons"
+        },
+        {
+          "kills": "153",
+          "name": "Gabriel",
+          "team": "Black Dragons"
+        },
+        {
+          "kills": "240",
+          "name": "Ant",
+          "team": "Black Dragons"
+        },
+        {
+          "kills": "180",
+          "name": "dio9x",
+          "team": "Black Dragons"
+        },
+        {
+          "kills": "150",
+          "name": "l4cerr",
+          "team": "Folouers Esports"
+        },
+        {
+          "kills": "197",
+          "name": "Urango",
+          "team": "Folouers Esports"
+        },
+        {
+          "kills": "163",
+          "name": "DRAGziKW",
+          "team": "Folouers Esports"
+        },
+        {
+          "kills": "83",
+          "name": "WKN",
+          "team": "Folouers Esports"
+        },
+        {
+          "kills": "96",
+          "name": "nandinh0",
+          "team": "Folouers Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.67\n1.47\n2.48",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "231\n259\n121",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "391",
+            "name": "pollo",
+            "team": "Black Dragons"
+          },
+          {
+            "acs": "1.63\n1.81\n0.90",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "161\n184\n71",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "11\n7\n4",
+            "kills": "268",
+            "name": "Docks",
+            "team": "Black Dragons"
+          },
+          {
+            "acs": "1.41\n1.37\n1.55",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n3\n3\n0\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "91\n107\n26",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "153",
+            "name": "Gabriel",
+            "team": "Black Dragons"
+          },
+          {
+            "acs": "1.40\n1.53\n0.91",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n6\n4\n2\n\n/",
+            "deaths": "12\n11\n1",
+            "fk": "151\n158\n124",
+            "hs%": "87%\n83%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "240",
+            "name": "Ant",
+            "team": "Black Dragons"
+          },
+          {
+            "acs": "1.09\n0.92\n1.78",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "96\n89\n128",
+            "hs%": "87%\n83%\n100%",
+            "kdr": "5\n5\n0",
+            "kills": "180",
+            "name": "dio9x",
+            "team": "Black Dragons"
+          }
+        ],
+        [
+          {
+            "acs": "0.82\n0.03\n1.03",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "102\n18\n123",
+            "hs%": "47%\n33%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "150",
+            "name": "l4cerr",
+            "team": "Folouers Esports"
+          },
+          {
+            "acs": "0.59\n0.22\n0.69",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "129\n69\n144",
+            "hs%": "53%\n33%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "197",
+            "name": "Urango",
+            "team": "Folouers Esports"
+          },
+          {
+            "acs": "0.42\n0.52\n0.40",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "82\n10\n100",
+            "hs%": "53%\n33%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "163",
+            "name": "DRAGziKW",
+            "team": "Folouers Esports"
+          },
+          {
+            "acs": "0.41\n0.52\n0.38",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "52\n61\n50",
+            "hs%": "47%\n67%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "83",
+            "name": "WKN",
+            "team": "Folouers Esports"
+          },
+          {
+            "acs": "0.31\n0.02\n0.40",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "57\n30\n63",
+            "hs%": "53%\n33%\n58%",
+            "kdr": "4\n0\n4",
+            "kills": "96",
+            "name": "nandinh0",
+            "team": "Folouers Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "309",
+          "name": "Docks",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "Ant",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "Gabriel",
+          "team": null
+        },
+        {
+          "kills": "281",
+          "name": "pollo",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "dio9x",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "l4cerr",
+          "team": null
+        },
+        {
+          "kills": "146",
+          "name": "Urango",
+          "team": null
+        },
+        {
+          "kills": "117",
+          "name": "nandinh0",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "DRAGziKW",
+          "team": null
+        },
+        {
+          "kills": "119",
+          "name": "WKN",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.73\n1.44\n1.60",
+            "adr": "+17\n+10\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "33\n21\n12",
+            "fk": "155\n188\n114",
+            "hs%": "91%\n95%\n87%",
+            "kdr": "21\n9\n12",
+            "kills": "309",
+            "name": "Docks",
+            "team": null
+          },
+          {
+            "acs": "1.40\n1.34\n1.37",
+            "adr": "+15\n+9\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "33\n18\n15",
+            "fk": "165\n143\n192",
+            "hs%": "82%\n74%\n93%",
+            "kdr": "9\n2\n7",
+            "kills": "262",
+            "name": "Ant",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.54\n1.30",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "27\n13\n14",
+            "fk": "113\n87\n145",
+            "hs%": "82%\n74%\n93%",
+            "kdr": "6\n3\n3",
+            "kills": "156",
+            "name": "Gabriel",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.52\n1.29",
+            "adr": "+15\n+3\n+12",
+            "agent": "",
+            "assists": "/\n\n21\n15\n6\n\n/",
+            "deaths": "36\n18\n18",
+            "fk": "180\n203\n150",
+            "hs%": "79%\n79%\n80%",
+            "kdr": "3\n3\n0",
+            "kills": "281",
+            "name": "pollo",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.15\n0.90",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "95\n72\n125",
+            "hs%": "76%\n74%\n80%",
+            "kdr": "11\n6\n5",
+            "kills": "124",
+            "name": "dio9x",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.71\n1.25\n1.01",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n28\n14\n14\n\n/",
+            "deaths": "23\n6\n17",
+            "fk": "135\n119\n148",
+            "hs%": "56%\n47%\n63%",
+            "kdr": "11\n7\n4",
+            "kills": "167",
+            "name": "l4cerr",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.98\n0.86",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n29\n12\n17\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "125\n98\n146",
+            "hs%": "56%\n47%\n63%",
+            "kdr": "8\n3\n5",
+            "kills": "146",
+            "name": "Urango",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.58\n0.55",
+            "adr": "-16\n-9\n-7",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "86\n93\n80",
+            "hs%": "56%\n47%\n63%",
+            "kdr": "9\n4\n5",
+            "kills": "117",
+            "name": "nandinh0",
+            "team": null
+          },
+          {
+            "acs": "0.38\n0.58\n0.49",
+            "adr": "-15\n-7\n-8",
+            "agent": "",
+            "assists": "/\n\n30\n14\n16\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "75\n58\n89",
+            "hs%": "50%\n27%\n68%",
+            "kdr": "5\n1\n4",
+            "kills": "143",
+            "name": "DRAGziKW",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.28\n0.41",
+            "adr": "-16\n-6\n-10",
+            "agent": "",
+            "assists": "/\n\n29\n14\n15\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "56\n62\n51",
+            "hs%": "50%\n53%\n47%",
+            "kdr": "3\n1\n2",
+            "kills": "119",
+            "name": "WKN",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "203",
+          "name": "Docks",
+          "team": "Black Dragons"
+        },
+        {
+          "kills": "330",
+          "name": "Ant",
+          "team": "Black Dragons"
+        },
+        {
+          "kills": "279",
+          "name": "Gabriel",
+          "team": "Black Dragons"
+        },
+        {
+          "kills": "227",
+          "name": "pollo",
+          "team": "Black Dragons"
+        },
+        {
+          "kills": "165",
+          "name": "dio9x",
+          "team": "Black Dragons"
+        },
+        {
+          "kills": "329",
+          "name": "l4cerr",
+          "team": "Folouers Esports"
+        },
+        {
+          "kills": "277",
+          "name": "Urango",
+          "team": "Folouers Esports"
+        },
+        {
+          "kills": "209",
+          "name": "nandinh0",
+          "team": "Folouers Esports"
+        },
+        {
+          "kills": "151",
+          "name": "DRAGziKW",
+          "team": "Folouers Esports"
+        },
+        {
+          "kills": "92",
+          "name": "WKN",
+          "team": "Folouers Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.58\n1.60\n1.58",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "150\n194\n125",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "10\n2\n8",
+            "kills": "203",
+            "name": "Docks",
+            "team": "Black Dragons"
+          },
+          {
+            "acs": "1.34\n1.17\n1.45",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "176\n118\n209",
+            "hs%": "79%\n57%\n92%",
+            "kdr": "4\n0\n4",
+            "kills": "330",
+            "name": "Ant",
+            "team": "Black Dragons"
+          },
+          {
+            "acs": "1.22\n0.67\n1.54",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "130\n53\n175",
+            "hs%": "74%\n43%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "279",
+            "name": "Gabriel",
+            "team": "Black Dragons"
+          },
+          {
+            "acs": "0.99\n0.49\n1.28",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "139\n108\n158",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "227",
+            "name": "pollo",
+            "team": "Black Dragons"
+          },
+          {
+            "acs": "0.75\n0.34\n0.99",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "95\n44\n124",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "165",
+            "name": "dio9x",
+            "team": "Black Dragons"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n0.88\n1.63",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "162\n144\n192",
+            "hs%": "63%\n50%\n86%",
+            "kdr": "9\n6\n3",
+            "kills": "329",
+            "name": "l4cerr",
+            "team": "Folouers Esports"
+          },
+          {
+            "acs": "1.07\n0.84\n1.47",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "122\n106\n149",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "5\n3\n2",
+            "kills": "277",
+            "name": "Urango",
+            "team": "Folouers Esports"
+          },
+          {
+            "acs": "0.74\n0.66\n0.89",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "109\n109\n108",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "5\n4\n1",
+            "kills": "209",
+            "name": "nandinh0",
+            "team": "Folouers Esports"
+          },
+          {
+            "acs": "0.54\n0.35\n0.88",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "70\n70\n71",
+            "hs%": "47%\n25%\n86%",
+            "kdr": "2\n0\n2",
+            "kills": "151",
+            "name": "DRAGziKW",
+            "team": "Folouers Esports"
+          },
+          {
+            "acs": "0.42\n0.59\n0.12",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "59\n62\n52",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "2\n1\n1",
+            "kills": "92",
+            "name": "WKN",
+            "team": "Folouers Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 17041,
+  "teams": [
+    "Black Dragons",
+    "Folouers Esports"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tElimination (A)"
+}

@@ -1,0 +1,612 @@
+{
+  "date": "2022-01-23 21:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "276",
+          "name": "nAvarro",
+          "team": "Goat Crew"
+        },
+        {
+          "kills": "227",
+          "name": "Nano",
+          "team": "Goat Crew"
+        },
+        {
+          "kills": "219",
+          "name": "Muramasa",
+          "team": "Goat Crew"
+        },
+        {
+          "kills": "206",
+          "name": "RAVEN",
+          "team": "Goat Crew"
+        },
+        {
+          "kills": "146",
+          "name": "6ixtos",
+          "team": "Goat Crew"
+        },
+        {
+          "kills": "270",
+          "name": "Veckz",
+          "team": "Crown Kings"
+        },
+        {
+          "kills": "189",
+          "name": "Blinded",
+          "team": "Crown Kings"
+        },
+        {
+          "kills": "211",
+          "name": "NRap",
+          "team": "Crown Kings"
+        },
+        {
+          "kills": "180",
+          "name": "Reveelz",
+          "team": "Crown Kings"
+        },
+        {
+          "kills": "80",
+          "name": "stev",
+          "team": "Crown Kings"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.51\n1.18\n2.18",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "177\n136\n261",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "276",
+            "name": "nAvarro",
+            "team": "Goat Crew"
+          },
+          {
+            "acs": "1.40\n1.18\n1.84",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n9\n0\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "159\n170\n135",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "5\n5\n0",
+            "kills": "227",
+            "name": "Nano",
+            "team": "Goat Crew"
+          },
+          {
+            "acs": "1.19\n0.90\n1.78",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "139\n120\n177",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "9\n8\n1",
+            "kills": "219",
+            "name": "Muramasa",
+            "team": "Goat Crew"
+          },
+          {
+            "acs": "1.06\n1.17\n0.83",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "136\n152\n104",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "8\n5\n3",
+            "kills": "206",
+            "name": "RAVEN",
+            "team": "Goat Crew"
+          },
+          {
+            "acs": "0.61\n0.15\n1.54",
+            "adr": "-4\n-8\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "92\n67\n141",
+            "hs%": "50%\n33%\n83%",
+            "kdr": "5\n4\n1",
+            "kills": "146",
+            "name": "6ixtos",
+            "team": "Goat Crew"
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n0.25\n2.11",
+            "adr": "+4\n-5\n+9",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "17\n1\n16",
+            "fk": "188\n81\n241",
+            "hs%": "72%\n33%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "270",
+            "name": "Veckz",
+            "team": "Crown Kings"
+          },
+          {
+            "acs": "0.95\n0.54\n1.16",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "133\n82\n159",
+            "hs%": "67%\n33%\n83%",
+            "kdr": "7\n0\n7",
+            "kills": "189",
+            "name": "Blinded",
+            "team": "Crown Kings"
+          },
+          {
+            "acs": "0.81\n0.34\n1.05",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "151\n142\n156",
+            "hs%": "56%\n33%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "211",
+            "name": "NRap",
+            "team": "Crown Kings"
+          },
+          {
+            "acs": "0.73\n0.48\n0.85",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "133\n104\n148",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "180",
+            "name": "Reveelz",
+            "team": "Crown Kings"
+          },
+          {
+            "acs": "0.41\n0.12\n0.55",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "59\n20\n78",
+            "hs%": "56%\n17%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "80",
+            "name": "stev",
+            "team": "Crown Kings"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "181",
+          "name": "nAvarro",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "Muramasa",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "6ixtos",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "Nano",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "RAVEN",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "Blinded",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "Veckz",
+          "team": null
+        },
+        {
+          "kills": "236",
+          "name": "NRap",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "KerA",
+          "team": null
+        },
+        {
+          "kills": "102",
+          "name": "Reveelz",
+          "team": null
+        },
+        {
+          "kills": "37",
+          "name": "stev",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.95\n1.81\n1.31",
+            "adr": "+12\n+1\n+11",
+            "agent": "",
+            "assists": "/\n\n23\n17\n6\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "144\n117\n183",
+            "hs%": "88%\n79%\n100%",
+            "kdr": "16\n8\n8",
+            "kills": "181",
+            "name": "nAvarro",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.71\n1.18",
+            "adr": "+4\n-7\n+11",
+            "agent": "",
+            "assists": "/\n\n27\n18\n9\n\n/",
+            "deaths": "31\n11\n20",
+            "fk": "142\n101\n199",
+            "hs%": "76%\n71%\n82%",
+            "kdr": "15\n12\n3",
+            "kills": "150",
+            "name": "Muramasa",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.61\n1.14",
+            "adr": "+7\n-2\n+9",
+            "agent": "",
+            "assists": "/\n\n27\n18\n9\n\n/",
+            "deaths": "34\n16\n18",
+            "fk": "155\n132\n189",
+            "hs%": "61%\n42%\n88%",
+            "kdr": "9\n5\n4",
+            "kills": "195",
+            "name": "6ixtos",
+            "team": null
+          },
+          {
+            "acs": "1.02\n1.27\n1.12",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n26\n19\n7\n\n/",
+            "deaths": "31\n18\n13",
+            "fk": "138\n152\n119",
+            "hs%": "76%\n67%\n88%",
+            "kdr": "9\n6\n3",
+            "kills": "221",
+            "name": "Nano",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.98\n0.96",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n27\n18\n9\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "110\n109\n111",
+            "hs%": "80%\n83%\n76%",
+            "kdr": "14\n9\n5",
+            "kills": "164",
+            "name": "RAVEN",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.58\n1.41\n1.07",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "29\n9\n20",
+            "fk": "143\n90\n181",
+            "hs%": "71%\n47%\n88%",
+            "kdr": "11\n2\n9",
+            "kills": "139",
+            "name": "Blinded",
+            "team": null
+          },
+          {
+            "acs": "0.48\n1.47\n1.06",
+            "adr": "0\n-8\n+8",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "29\n7\n22",
+            "fk": "142\n94\n176",
+            "hs%": "68%\n47%\n83%",
+            "kdr": "10\n3\n7",
+            "kills": "130",
+            "name": "Veckz",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.02\n0.94",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n32\n16\n16\n\n/",
+            "deaths": "33\n13\n20",
+            "fk": "149\n155\n145",
+            "hs%": "66%\n65%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "236",
+            "name": "NRap",
+            "team": null
+          },
+          {
+            "acs": "0.25\n1.30\n0.80",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "119\n82\n153",
+            "hs%": "57%\n36%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "138",
+            "name": "KerA",
+            "team": null
+          },
+          {
+            "acs": "0.36\n0.77\n0.60",
+            "adr": "-16\n-11\n-5",
+            "agent": "",
+            "assists": "/\n\n36\n16\n20\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "112\n82\n134",
+            "hs%": "66%\n59%\n71%",
+            "kdr": "9\n3\n6",
+            "kills": "102",
+            "name": "Reveelz",
+            "team": null
+          },
+          {
+            "acs": "0.12\n0.55\n0.41",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "59\n20\n78",
+            "hs%": "56%\n17%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "37",
+            "name": "stev",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "315",
+          "name": "6ixtos",
+          "team": "Goat Crew"
+        },
+        {
+          "kills": "312",
+          "name": "Muramasa",
+          "team": "Goat Crew"
+        },
+        {
+          "kills": "210",
+          "name": "nAvarro",
+          "team": "Goat Crew"
+        },
+        {
+          "kills": "195",
+          "name": "Nano",
+          "team": "Goat Crew"
+        },
+        {
+          "kills": "150",
+          "name": "RAVEN",
+          "team": "Goat Crew"
+        },
+        {
+          "kills": "300",
+          "name": "Blinded",
+          "team": "Crown Kings"
+        },
+        {
+          "kills": "202",
+          "name": "NRap",
+          "team": "Crown Kings"
+        },
+        {
+          "kills": "237",
+          "name": "KerA",
+          "team": "Crown Kings"
+        },
+        {
+          "kills": "144",
+          "name": "Veckz",
+          "team": "Crown Kings"
+        },
+        {
+          "kills": "148",
+          "name": "Reveelz",
+          "team": "Crown Kings"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.56\n1.48\n1.64",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "205\n196\n215",
+            "hs%": "70%\n50%\n91%",
+            "kdr": "4\n1\n3",
+            "kills": "315",
+            "name": "6ixtos",
+            "team": "Goat Crew"
+          },
+          {
+            "acs": "1.18\n0.73\n1.67",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "144\n82\n212",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "6\n4\n2",
+            "kills": "312",
+            "name": "Muramasa",
+            "team": "Goat Crew"
+          },
+          {
+            "acs": "1.14\n0.72\n1.61",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "118\n97\n140",
+            "hs%": "87%\n75%\n100%",
+            "kdr": "10\n5\n5",
+            "kills": "210",
+            "name": "nAvarro",
+            "team": "Goat Crew"
+          },
+          {
+            "acs": "0.91\n0.86\n0.96",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "122\n133\n110",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "4\n1\n3",
+            "kills": "195",
+            "name": "Nano",
+            "team": "Goat Crew"
+          },
+          {
+            "acs": "0.88\n0.71\n1.05",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "89\n65\n115",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "6\n4\n2",
+            "kills": "150",
+            "name": "RAVEN",
+            "team": "Goat Crew"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n0.60\n1.66",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "151\n94\n203",
+            "hs%": "74%\n55%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "300",
+            "name": "Blinded",
+            "team": "Crown Kings"
+          },
+          {
+            "acs": "1.05\n1.12\n0.98",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "147\n162\n134",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "202",
+            "name": "NRap",
+            "team": "Crown Kings"
+          },
+          {
+            "acs": "0.80\n0.25\n1.30",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "119\n82\n153",
+            "hs%": "57%\n36%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "237",
+            "name": "KerA",
+            "team": "Crown Kings"
+          },
+          {
+            "acs": "0.72\n0.60\n0.83",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "106\n102\n110",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "144",
+            "name": "Veckz",
+            "team": "Crown Kings"
+          },
+          {
+            "acs": "0.50\n0.29\n0.69",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "96\n70\n120",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "148",
+            "name": "Reveelz",
+            "team": "Crown Kings"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 66204,
+  "teams": [
+    "Crown Kings",
+    "Goat Crew"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 16"
+}

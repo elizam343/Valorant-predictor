@@ -1,0 +1,594 @@
+{
+  "date": "2022-12-03 05:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "189",
+          "name": "allex",
+          "team": "whysofree?"
+        },
+        {
+          "kills": "227",
+          "name": "IllegaL",
+          "team": "whysofree?"
+        },
+        {
+          "kills": "122",
+          "name": "Jago",
+          "team": "whysofree?"
+        },
+        {
+          "kills": "140",
+          "name": "Danji",
+          "team": "whysofree?"
+        },
+        {
+          "kills": "116",
+          "name": "Villu",
+          "team": "whysofree?"
+        },
+        {
+          "kills": "291",
+          "name": "Zik",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "265",
+          "name": "Nille",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "209",
+          "name": "Vorwenn",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "295",
+          "name": "Klusia",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "202",
+          "name": "sunshine",
+          "team": "VAMONOS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "0.98\n0.93\n1.14",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "119\n136\n66",
+            "hs%": "75%\n83%\n50%",
+            "kdr": "6\n6\n0",
+            "kills": "189",
+            "name": "allex",
+            "team": "whysofree?"
+          },
+          {
+            "acs": "0.89\n0.97\n0.67",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "143\n158\n97",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "227",
+            "name": "IllegaL",
+            "team": "whysofree?"
+          },
+          {
+            "acs": "0.58\n0.56\n0.64",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "73\n68\n89",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "122",
+            "name": "Jago",
+            "team": "whysofree?"
+          },
+          {
+            "acs": "0.47\n0.38\n0.76",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "109\n101\n135",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "140",
+            "name": "Danji",
+            "team": "whysofree?"
+          },
+          {
+            "acs": "0.32\n0.03\n1.32",
+            "adr": "-9\n-10\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "77\n30\n219",
+            "hs%": "63%\n50%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "116",
+            "name": "Villu",
+            "team": "whysofree?"
+          }
+        ],
+        [
+          {
+            "acs": "1.67\n1.90\n1.60",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "189\n307\n150",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "10\n1\n9",
+            "kills": "291",
+            "name": "Zik",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "1.45\n0.96\n1.61",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "15\n1\n14",
+            "fk": "186\n59\n229",
+            "hs%": "88%\n75%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "265",
+            "name": "Nille",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "1.38\n1.65\n1.30",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "136\n179\n122",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "209",
+            "name": "Vorwenn",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "1.27\n0.66\n1.48",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "16\n1\n15",
+            "fk": "205\n109\n237",
+            "hs%": "88%\n75%\n92%",
+            "kdr": "3\n2\n1",
+            "kills": "295",
+            "name": "Klusia",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "1.13\n0.31\n1.41",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "123\n33\n153",
+            "hs%": "75%\n50%\n83%",
+            "kdr": "5\n0\n5",
+            "kills": "202",
+            "name": "sunshine",
+            "team": "VAMONOS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "172",
+          "name": "IllegaL",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "Jago",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "allex",
+          "team": null
+        },
+        {
+          "kills": "94",
+          "name": "Villu",
+          "team": null
+        },
+        {
+          "kills": "100",
+          "name": "Danji",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Klusia",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "Nille",
+          "team": null
+        },
+        {
+          "kills": "323",
+          "name": "Zik",
+          "team": null
+        },
+        {
+          "kills": "293",
+          "name": "Vorwenn",
+          "team": null
+        },
+        {
+          "kills": "109",
+          "name": "sunshine",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.72\n1.20\n0.87",
+            "adr": "-7\n-9\n+2",
+            "agent": "",
+            "assists": "/\n\n30\n23\n7\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "113\n103\n136",
+            "hs%": "71%\n63%\n91%",
+            "kdr": "9\n5\n4",
+            "kills": "172",
+            "name": "IllegaL",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.70\n0.70",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n30\n21\n9\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "91\n93\n87",
+            "hs%": "74%\n71%\n82%",
+            "kdr": "12\n6\n6",
+            "kills": "150",
+            "name": "Jago",
+            "team": null
+          },
+          {
+            "acs": "0.59\n0.75\n0.64",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n32\n23\n9\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "99\n99\n98",
+            "hs%": "60%\n63%\n55%",
+            "kdr": "8\n6\n2",
+            "kills": "151",
+            "name": "allex",
+            "team": null
+          },
+          {
+            "acs": "0.29\n1.47\n0.64",
+            "adr": "-12\n-16\n+4",
+            "agent": "",
+            "assists": "/\n\n32\n23\n9\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "104\n61\n198",
+            "hs%": "57%\n50%\n73%",
+            "kdr": "4\n3\n1",
+            "kills": "94",
+            "name": "Villu",
+            "team": null
+          },
+          {
+            "acs": "0.34\n0.45\n0.38",
+            "adr": "-21\n-15\n-6",
+            "agent": "",
+            "assists": "/\n\n32\n22\n10\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "82\n74\n101",
+            "hs%": "51%\n50%\n55%",
+            "kdr": "6\n3\n3",
+            "kills": "100",
+            "name": "Danji",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.89\n1.81\n1.52",
+            "adr": "+18\n-2\n+20",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "39\n6\n33",
+            "fk": "204\n112\n246",
+            "hs%": "91%\n82%\n96%",
+            "kdr": "8\n3\n5",
+            "kills": "171",
+            "name": "Klusia",
+            "team": null
+          },
+          {
+            "acs": "1.20\n1.50\n1.40",
+            "adr": "+14\n+2\n+12",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "34\n9\n25",
+            "fk": "177\n128\n200",
+            "hs%": "89%\n82%\n92%",
+            "kdr": "10\n2\n8",
+            "kills": "213",
+            "name": "Nille",
+            "team": null
+          },
+          {
+            "acs": "1.46\n1.25\n1.32",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "139\n207\n108",
+            "hs%": "91%\n91%\n92%",
+            "kdr": "20\n4\n16",
+            "kills": "323",
+            "name": "Zik",
+            "team": null
+          },
+          {
+            "acs": "1.51\n1.24\n1.32",
+            "adr": "+14\n+5\n+9",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "28\n12\n16",
+            "fk": "141\n198\n114",
+            "hs%": "86%\n91%\n83%",
+            "kdr": "11\n4\n7",
+            "kills": "293",
+            "name": "Vorwenn",
+            "team": null
+          },
+          {
+            "acs": "0.37\n1.47\n1.13",
+            "adr": "+8\n-6\n+14",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "27\n4\n23",
+            "fk": "125\n67\n151",
+            "hs%": "74%\n64%\n79%",
+            "kdr": "9\n4\n5",
+            "kills": "109",
+            "name": "sunshine",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "301",
+          "name": "Villu",
+          "team": "whysofree?"
+        },
+        {
+          "kills": "260",
+          "name": "IllegaL",
+          "team": "whysofree?"
+        },
+        {
+          "kills": "179",
+          "name": "Jago",
+          "team": "whysofree?"
+        },
+        {
+          "kills": "176",
+          "name": "allex",
+          "team": "whysofree?"
+        },
+        {
+          "kills": "116",
+          "name": "Danji",
+          "team": "whysofree?"
+        },
+        {
+          "kills": "400",
+          "name": "Klusia",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "287",
+          "name": "Nille",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "151",
+          "name": "Vorwenn",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "244",
+          "name": "sunshine",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "104",
+          "name": "Zik",
+          "team": "VAMONOS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "0.92\n0.55\n1.56",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "126\n91\n186",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "2\n2\n0",
+            "kills": "301",
+            "name": "Villu",
+            "team": "whysofree?"
+          },
+          {
+            "acs": "0.85\n0.47\n1.50",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "89\n48\n158",
+            "hs%": "68%\n50%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "260",
+            "name": "IllegaL",
+            "team": "whysofree?"
+          },
+          {
+            "acs": "0.79\n0.83\n0.73",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "106\n118\n86",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "5\n1\n4",
+            "kills": "179",
+            "name": "Jago",
+            "team": "whysofree?"
+          },
+          {
+            "acs": "0.35\n0.25\n0.52",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "82\n62\n117",
+            "hs%": "47%\n42%\n57%",
+            "kdr": "2\n0\n2",
+            "kills": "176",
+            "name": "allex",
+            "team": "whysofree?"
+          },
+          {
+            "acs": "0.29\n0.31\n0.27",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "59\n46\n81",
+            "hs%": "32%\n25%\n43%",
+            "kdr": "1\n0\n1",
+            "kills": "116",
+            "name": "Danji",
+            "team": "whysofree?"
+          }
+        ],
+        [
+          {
+            "acs": "1.73\n1.03\n2.14",
+            "adr": "+14\n0\n+14",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "23\n5\n18",
+            "fk": "203\n114\n255",
+            "hs%": "95%\n86%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "400",
+            "name": "Klusia",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "1.37\n1.34\n1.39",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "170\n168\n171",
+            "hs%": "89%\n86%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "287",
+            "name": "Nille",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "1.27\n1.43\n1.18",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "145\n210\n107",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "151",
+            "name": "Vorwenn",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "1.12\n0.41\n1.54",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "126\n86\n150",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "4\n4\n0",
+            "kills": "244",
+            "name": "sunshine",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "1.02\n1.20\n0.91",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "97\n149\n66",
+            "hs%": "89%\n86%\n92%",
+            "kdr": "10\n3\n7",
+            "kills": "104",
+            "name": "Zik",
+            "team": "VAMONOS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 160535,
+  "teams": [
+    "VAMONOS",
+    "whysofree?"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

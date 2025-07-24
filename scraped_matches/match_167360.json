@@ -1,0 +1,788 @@
+{
+  "date": "2023-02-19 12:05:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "201",
+          "name": "s0m",
+          "team": "NRG"
+        },
+        {
+          "kills": "180",
+          "name": "ardiis",
+          "team": "NRG"
+        },
+        {
+          "kills": "170",
+          "name": "crashies",
+          "team": "NRG"
+        },
+        {
+          "kills": "171",
+          "name": "Victor",
+          "team": "NRG"
+        },
+        {
+          "kills": "149",
+          "name": "FiNESSE",
+          "team": "NRG"
+        },
+        {
+          "kills": "280",
+          "name": "tuyz",
+          "team": "LOUD"
+        },
+        {
+          "kills": "309",
+          "name": "aspas",
+          "team": "LOUD"
+        },
+        {
+          "kills": "240",
+          "name": "saadhak",
+          "team": "LOUD"
+        },
+        {
+          "kills": "191",
+          "name": "cauanzin",
+          "team": "LOUD"
+        },
+        {
+          "kills": "162",
+          "name": "Less",
+          "team": "LOUD"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "0.98\n0.54\n1.12",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "132\n108\n140",
+            "hs%": "69%\n75%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "201",
+            "name": "s0m",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.82\n0.73\n0.84",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "118\n135\n112",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "7\n1\n6",
+            "kills": "180",
+            "name": "ardiis",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.68\n1.11\n0.53",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "105\n131\n96",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "170",
+            "name": "crashies",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.61\n0.37\n0.68",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "100\n131\n90",
+            "hs%": "63%\n100%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "171",
+            "name": "Victor",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.43\n0.25\n0.49",
+            "adr": "-12\n-3\n-9",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "111\n118\n109",
+            "hs%": "63%\n75%\n58%",
+            "kdr": "8\n2\n6",
+            "kills": "149",
+            "name": "FiNESSE",
+            "team": "NRG"
+          }
+        ],
+        [
+          {
+            "acs": "1.90\n1.77\n2.29",
+            "adr": "+14\n+9\n+5",
+            "agent": "",
+            "assists": "/\n\n6\n4\n2\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "180\n174\n200",
+            "hs%": "88%\n92%\n75%",
+            "kdr": "9\n8\n1",
+            "kills": "280",
+            "name": "tuyz",
+            "team": "LOUD"
+          },
+          {
+            "acs": "1.47\n1.39\n1.73",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "200\n201\n194",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "309",
+            "name": "aspas",
+            "team": "LOUD"
+          },
+          {
+            "acs": "1.21\n1.31\n0.89",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "156\n167\n123",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "240",
+            "name": "saadhak",
+            "team": "LOUD"
+          },
+          {
+            "acs": "1.09\n1.19\n0.78",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "126\n130\n114",
+            "hs%": "88%\n92%\n75%",
+            "kdr": "11\n8\n3",
+            "kills": "191",
+            "name": "cauanzin",
+            "team": "LOUD"
+          },
+          {
+            "acs": "0.86\n0.81\n1.02",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "115\n132\n65",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "162",
+            "name": "Less",
+            "team": "LOUD"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "249",
+          "name": "crashies",
+          "team": null
+        },
+        {
+          "kills": "269",
+          "name": "ardiis",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "s0m",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Victor",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "FiNESSE",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "aspas",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "tuyz",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "Less",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "cauanzin",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "saadhak",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.26\n1.25",
+            "adr": "+17\n+7\n+10",
+            "agent": "",
+            "assists": "/\n\n55\n25\n30\n\n/",
+            "deaths": "72\n32\n40",
+            "fk": "163\n158\n167",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "15\n7\n8",
+            "kills": "249",
+            "name": "crashies",
+            "team": null
+          },
+          {
+            "acs": "1.12\n1.12\n1.12",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n59\n28\n31\n\n/",
+            "deaths": "65\n32\n33",
+            "fk": "160\n180\n143",
+            "hs%": "74%\n80%\n70%",
+            "kdr": "21\n10\n11",
+            "kills": "269",
+            "name": "ardiis",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.02\n0.98",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n55\n24\n31\n\n/",
+            "deaths": "50\n25\n25",
+            "fk": "124\n126\n123",
+            "hs%": "76%\n71%\n79%",
+            "kdr": "33\n8\n25",
+            "kills": "197",
+            "name": "s0m",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.78\n0.75",
+            "adr": "-22\n-11\n-11",
+            "agent": "",
+            "assists": "/\n\n60\n27\n33\n\n/",
+            "deaths": "38\n16\n22",
+            "fk": "108\n112\n104",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "41\n23\n18",
+            "kills": "173",
+            "name": "Victor",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.71\n0.74",
+            "adr": "-20\n-7\n-13",
+            "agent": "",
+            "assists": "/\n\n64\n27\n37\n\n/",
+            "deaths": "44\n20\n24",
+            "fk": "126\n130\n123",
+            "hs%": "64%\n63%\n65%",
+            "kdr": "22\n9\n13",
+            "kills": "192",
+            "name": "FiNESSE",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n1.34\n1.21",
+            "adr": "+15\n+7\n+8",
+            "agent": "",
+            "assists": "/\n\n55\n33\n22\n\n/",
+            "deaths": "70\n40\n30",
+            "fk": "161\n165\n156",
+            "hs%": "73%\n70%\n77%",
+            "kdr": "12\n4\n8",
+            "kills": "253",
+            "name": "aspas",
+            "team": null
+          },
+          {
+            "acs": "1.23\n1.07\n1.16",
+            "adr": "+10\n+10\n0",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "60\n36\n24",
+            "fk": "134\n147\n118",
+            "hs%": "73%\n79%\n66%",
+            "kdr": "35\n18\n17",
+            "kills": "217",
+            "name": "tuyz",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.33\n1.13",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "62\n31\n31",
+            "fk": "146\n148\n142",
+            "hs%": "76%\n74%\n77%",
+            "kdr": "15\n7\n8",
+            "kills": "203",
+            "name": "Less",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.04\n1.11",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n53\n26\n27\n\n/",
+            "deaths": "56\n30\n26",
+            "fk": "142\n140\n144",
+            "hs%": "77%\n86%\n66%",
+            "kdr": "33\n22\n11",
+            "kills": "212",
+            "name": "cauanzin",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.65\n0.78",
+            "adr": "-17\n-6\n-11",
+            "agent": "",
+            "assists": "/\n\n62\n32\n30\n\n/",
+            "deaths": "45\n26\n19",
+            "fk": "130\n127\n134",
+            "hs%": "69%\n72%\n66%",
+            "kdr": "22\n12\n10",
+            "kills": "193",
+            "name": "saadhak",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "361",
+          "name": "crashies",
+          "team": "NRG"
+        },
+        {
+          "kills": "181",
+          "name": "ardiis",
+          "team": "NRG"
+        },
+        {
+          "kills": "174",
+          "name": "Victor",
+          "team": "NRG"
+        },
+        {
+          "kills": "210",
+          "name": "s0m",
+          "team": "NRG"
+        },
+        {
+          "kills": "175",
+          "name": "FiNESSE",
+          "team": "NRG"
+        },
+        {
+          "kills": "319",
+          "name": "Less",
+          "team": "LOUD"
+        },
+        {
+          "kills": "186",
+          "name": "cauanzin",
+          "team": "LOUD"
+        },
+        {
+          "kills": "201",
+          "name": "aspas",
+          "team": "LOUD"
+        },
+        {
+          "kills": "140",
+          "name": "tuyz",
+          "team": "LOUD"
+        },
+        {
+          "kills": "212",
+          "name": "saadhak",
+          "team": "LOUD"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.12\n1.79",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "29\n11\n18",
+            "fk": "185\n132\n238",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "6\n2\n4",
+            "kills": "361",
+            "name": "crashies",
+            "team": "NRG"
+          },
+          {
+            "acs": "1.38\n1.74\n1.02",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "27\n18\n9",
+            "fk": "200\n281\n119",
+            "hs%": "89%\n93%\n86%",
+            "kdr": "12\n7\n5",
+            "kills": "181",
+            "name": "ardiis",
+            "team": "NRG"
+          },
+          {
+            "acs": "1.10\n1.20\n1.00",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "125\n137\n113",
+            "hs%": "82%\n86%\n79%",
+            "kdr": "24\n15\n9",
+            "kills": "174",
+            "name": "Victor",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.80\n0.39\n1.21",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "123\n103\n143",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "10\n2\n8",
+            "kills": "210",
+            "name": "s0m",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.70\n0.77\n0.64",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "107\n110\n103",
+            "hs%": "57%\n57%\n57%",
+            "kdr": "4\n2\n2",
+            "kills": "175",
+            "name": "FiNESSE",
+            "team": "NRG"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n0.87\n1.78",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "27\n10\n17",
+            "fk": "169\n147\n191",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "3\n1\n2",
+            "kills": "319",
+            "name": "Less",
+            "team": "LOUD"
+          },
+          {
+            "acs": "1.13\n1.29\n0.97",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "166\n194\n138",
+            "hs%": "75%\n86%\n64%",
+            "kdr": "6\n3\n3",
+            "kills": "186",
+            "name": "cauanzin",
+            "team": "LOUD"
+          },
+          {
+            "acs": "1.07\n0.99\n1.15",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "142\n149\n135",
+            "hs%": "61%\n57%\n64%",
+            "kdr": "5\n2\n3",
+            "kills": "201",
+            "name": "aspas",
+            "team": "LOUD"
+          },
+          {
+            "acs": "0.76\n0.87\n0.66",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "112\n126\n98",
+            "hs%": "68%\n79%\n57%",
+            "kdr": "12\n4\n8",
+            "kills": "140",
+            "name": "tuyz",
+            "team": "LOUD"
+          },
+          {
+            "acs": "0.61\n0.56\n0.66",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "116\n92\n141",
+            "hs%": "64%\n64%\n64%",
+            "kdr": "8\n3\n5",
+            "kills": "212",
+            "name": "saadhak",
+            "team": "LOUD"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "268",
+          "name": "crashies",
+          "team": "NRG"
+        },
+        {
+          "kills": "201",
+          "name": "s0m",
+          "team": "NRG"
+        },
+        {
+          "kills": "236",
+          "name": "ardiis",
+          "team": "NRG"
+        },
+        {
+          "kills": "204",
+          "name": "FiNESSE",
+          "team": "NRG"
+        },
+        {
+          "kills": "134",
+          "name": "Victor",
+          "team": "NRG"
+        },
+        {
+          "kills": "255",
+          "name": "aspas",
+          "team": "LOUD"
+        },
+        {
+          "kills": "197",
+          "name": "tuyz",
+          "team": "LOUD"
+        },
+        {
+          "kills": "206",
+          "name": "cauanzin",
+          "team": "LOUD"
+        },
+        {
+          "kills": "204",
+          "name": "Less",
+          "team": "LOUD"
+        },
+        {
+          "kills": "184",
+          "name": "saadhak",
+          "team": "LOUD"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.38\n1.33",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "172\n185\n159",
+            "hs%": "79%\n82%\n76%",
+            "kdr": "9\n5\n4",
+            "kills": "268",
+            "name": "crashies",
+            "team": "NRG"
+          },
+          {
+            "acs": "1.13\n1.45\n0.80",
+            "adr": "+2\n+8\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "22\n16\n6",
+            "fk": "122\n149\n94",
+            "hs%": "79%\n76%\n82%",
+            "kdr": "18\n4\n14",
+            "kills": "201",
+            "name": "s0m",
+            "team": "NRG"
+          },
+          {
+            "acs": "1.04\n0.70\n1.38",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "29\n11\n18",
+            "fk": "145\n108\n183",
+            "hs%": "74%\n76%\n71%",
+            "kdr": "2\n2\n0",
+            "kills": "236",
+            "name": "ardiis",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.93\n0.93\n0.92",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "149\n148\n150",
+            "hs%": "71%\n65%\n76%",
+            "kdr": "10\n5\n5",
+            "kills": "204",
+            "name": "FiNESSE",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.53\n0.39\n0.67",
+            "adr": "-16\n-10\n-6",
+            "agent": "",
+            "assists": "/\n\n28\n15\n13\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "98\n87\n108",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "16\n7\n9",
+            "kills": "134",
+            "name": "Victor",
+            "team": "NRG"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.00\n1.40",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n24\n15\n9\n\n/",
+            "deaths": "30\n16\n14",
+            "fk": "159\n153\n165",
+            "hs%": "79%\n76%\n82%",
+            "kdr": "7\n2\n5",
+            "kills": "255",
+            "name": "aspas",
+            "team": "LOUD"
+          },
+          {
+            "acs": "1.14\n1.16\n1.13",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "130\n144\n115",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "14\n6\n8",
+            "kills": "197",
+            "name": "tuyz",
+            "team": "LOUD"
+          },
+          {
+            "acs": "1.11\n1.07\n1.15",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n9\n13\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "130\n103\n156",
+            "hs%": "74%\n82%\n65%",
+            "kdr": "16\n11\n5",
+            "kills": "206",
+            "name": "cauanzin",
+            "team": "LOUD"
+          },
+          {
+            "acs": "1.09\n1.15\n1.03",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "141\n161\n120",
+            "hs%": "74%\n76%\n71%",
+            "kdr": "7\n2\n5",
+            "kills": "204",
+            "name": "Less",
+            "team": "LOUD"
+          },
+          {
+            "acs": "0.73\n0.87\n0.59",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n28\n13\n15\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "129\n129\n130",
+            "hs%": "68%\n76%\n59%",
+            "kdr": "8\n6\n2",
+            "kills": "184",
+            "name": "saadhak",
+            "team": "LOUD"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 167360,
+  "teams": [
+    "LOUD",
+    "NRG"
+  ],
+  "tournament": "Bracket Stage: \n\t\t\t\t\t\tAlpha - Semifinals"
+}

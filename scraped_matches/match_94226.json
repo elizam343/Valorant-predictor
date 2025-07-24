@@ -1,0 +1,788 @@
+{
+  "date": "2022-04-28 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "297",
+          "name": "furbsa",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "217",
+          "name": "Momiji",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "224",
+          "name": "tylo",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "189",
+          "name": "tokyo",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "140",
+          "name": "redo",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "268",
+          "name": "HUDFAME",
+          "team": "Crownless"
+        },
+        {
+          "kills": "205",
+          "name": "M2",
+          "team": "Crownless"
+        },
+        {
+          "kills": "241",
+          "name": "rackz",
+          "team": "Crownless"
+        },
+        {
+          "kills": "128",
+          "name": "Purpy",
+          "team": "Crownless"
+        },
+        {
+          "kills": "64",
+          "name": "sherb",
+          "team": "Crownless"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.51\n2.07\n0.67",
+            "adr": "+9\n+11\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "22\n19\n3",
+            "fk": "184\n249\n86",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "3\n1\n2",
+            "kills": "297",
+            "name": "furbsa",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "1.26\n1.40\n1.06",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "131\n143\n113",
+            "hs%": "75%\n67%\n88%",
+            "kdr": "8\n5\n3",
+            "kills": "217",
+            "name": "Momiji",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "1.19\n0.72\n1.89",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "151\n80\n258",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "224",
+            "name": "tylo",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "1.15\n0.93\n1.48",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "140\n125\n163",
+            "hs%": "75%\n67%\n88%",
+            "kdr": "2\n1\n1",
+            "kills": "189",
+            "name": "tokyo",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "0.69\n0.69\n0.69",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "101\n73\n142",
+            "hs%": "75%\n92%\n50%",
+            "kdr": "8\n5\n3",
+            "kills": "140",
+            "name": "redo",
+            "team": "Moonrise"
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n1.81\n0.78",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "157\n229\n110",
+            "hs%": "60%\n63%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "268",
+            "name": "HUDFAME",
+            "team": "Crownless"
+          },
+          {
+            "acs": "1.05\n0.96\n1.12",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "121\n73\n154",
+            "hs%": "60%\n63%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "205",
+            "name": "M2",
+            "team": "Crownless"
+          },
+          {
+            "acs": "1.01\n1.04\n1.00",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "151\n166\n141",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "241",
+            "name": "rackz",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.53\n0.48\n0.56",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "94\n66\n114",
+            "hs%": "60%\n63%\n58%",
+            "kdr": "8\n3\n5",
+            "kills": "128",
+            "name": "Purpy",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.32\n0.02\n0.64",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "4\n0\n4",
+            "fk": "47\n22\n64",
+            "hs%": "40%\n25%\n50%",
+            "kdr": "4\n0\n4",
+            "kills": "64",
+            "name": "sherb",
+            "team": "Crownless"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "300",
+          "name": "furbsa",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "Momiji",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "tylo",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "tokyo",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "redo",
+          "team": null
+        },
+        {
+          "kills": "257",
+          "name": "HUDFAME",
+          "team": null
+        },
+        {
+          "kills": "284",
+          "name": "rackz",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "M2",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "sherb",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Purpy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.50\n1.16\n1.36",
+            "adr": "+19\n+16\n+3",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "63\n39\n24",
+            "fk": "179\n193\n159",
+            "hs%": "78%\n78%\n78%",
+            "kdr": "12\n5\n7",
+            "kills": "300",
+            "name": "furbsa",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.89\n0.98",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "43\n29\n14",
+            "fk": "129\n143\n110",
+            "hs%": "75%\n69%\n81%",
+            "kdr": "23\n10\n13",
+            "kills": "207",
+            "name": "Momiji",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.31\n0.98",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n42\n23\n19\n\n/",
+            "deaths": "43\n21\n22",
+            "fk": "150\n104\n213",
+            "hs%": "68%\n69%\n67%",
+            "kdr": "16\n8\n8",
+            "kills": "160",
+            "name": "tylo",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.14\n0.97",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n45\n28\n17\n\n/",
+            "deaths": "48\n23\n25",
+            "fk": "132\n123\n144",
+            "hs%": "67%\n64%\n70%",
+            "kdr": "4\n2\n2",
+            "kills": "184",
+            "name": "tokyo",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.67\n0.80",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "36\n23\n13",
+            "fk": "108\n110\n106",
+            "hs%": "73%\n78%\n67%",
+            "kdr": "23\n11\n12",
+            "kills": "167",
+            "name": "redo",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n0.98\n1.09",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n47\n19\n28\n\n/",
+            "deaths": "53\n24\n29",
+            "fk": "150\n159\n143",
+            "hs%": "68%\n74%\n64%",
+            "kdr": "11\n6\n5",
+            "kills": "257",
+            "name": "HUDFAME",
+            "team": null
+          },
+          {
+            "acs": "1.32\n0.83\n1.04",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n47\n20\n27\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "136\n170\n109",
+            "hs%": "67%\n74%\n61%",
+            "kdr": "8\n3\n5",
+            "kills": "284",
+            "name": "rackz",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.07\n0.93",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n45\n19\n26\n\n/",
+            "deaths": "43\n17\n26",
+            "fk": "131\n96\n158",
+            "hs%": "70%\n67%\n72%",
+            "kdr": "18\n6\n12",
+            "kills": "159",
+            "name": "M2",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.94\n0.84",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n46\n22\n24\n\n/",
+            "deaths": "35\n14\n21",
+            "fk": "117\n105\n126",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "16\n5\n11",
+            "kills": "152",
+            "name": "sherb",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.87\n0.80",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "38\n17\n21",
+            "fk": "108\n100\n115",
+            "hs%": "60%\n63%\n58%",
+            "kdr": "22\n11\n11",
+            "kills": "179",
+            "name": "Purpy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "311",
+          "name": "furbsa",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "84",
+          "name": "redo",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "232",
+          "name": "tylo",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "192",
+          "name": "Momiji",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "197",
+          "name": "tokyo",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "275",
+          "name": "Purpy",
+          "team": "Crownless"
+        },
+        {
+          "kills": "230",
+          "name": "HUDFAME",
+          "team": "Crownless"
+        },
+        {
+          "kills": "260",
+          "name": "sherb",
+          "team": "Crownless"
+        },
+        {
+          "kills": "145",
+          "name": "rackz",
+          "team": "Crownless"
+        },
+        {
+          "kills": "168",
+          "name": "M2",
+          "team": "Crownless"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.30\n1.42",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "175\n169\n183",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "1\n1\n0",
+            "kills": "311",
+            "name": "furbsa",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "0.84\n1.32\n0.26",
+            "adr": "-3\n+4\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "109\n157\n52",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "8\n2\n6",
+            "kills": "84",
+            "name": "redo",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "0.83\n0.88\n0.78",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "165\n145\n188",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "8\n2\n6",
+            "kills": "232",
+            "name": "tylo",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "0.82\n0.87\n0.75",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "132\n133\n130",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "4\n1\n3",
+            "kills": "192",
+            "name": "Momiji",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "0.76\n0.61\n0.93",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "105\n105\n106",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "1\n0\n1",
+            "kills": "197",
+            "name": "tokyo",
+            "team": "Moonrise"
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n0.93\n1.49",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "161\n159\n162",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "6\n4\n2",
+            "kills": "275",
+            "name": "Purpy",
+            "team": "Crownless"
+          },
+          {
+            "acs": "1.20\n1.37\n1.05",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "156\n167\n147",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "230",
+            "name": "HUDFAME",
+            "team": "Crownless"
+          },
+          {
+            "acs": "1.19\n1.18\n1.20",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "156\n133\n175",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "260",
+            "name": "sherb",
+            "team": "Crownless"
+          },
+          {
+            "acs": "1.16\n1.85\n0.58",
+            "adr": "+5\n+8\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "142\n211\n83",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "145",
+            "name": "rackz",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.50\n0.47\n0.52",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "96\n71\n116",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "9\n2\n7",
+            "kills": "168",
+            "name": "M2",
+            "team": "Crownless"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "268",
+          "name": "furbsa",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "243",
+          "name": "tokyo",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "195",
+          "name": "tylo",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "165",
+          "name": "Momiji",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "180",
+          "name": "redo",
+          "team": "Moonrise"
+        },
+        {
+          "kills": "274",
+          "name": "M2",
+          "team": "Crownless"
+        },
+        {
+          "kills": "198",
+          "name": "sherb",
+          "team": "Crownless"
+        },
+        {
+          "kills": "194",
+          "name": "rackz",
+          "team": "Crownless"
+        },
+        {
+          "kills": "216",
+          "name": "HUDFAME",
+          "team": "Crownless"
+        },
+        {
+          "kills": "111",
+          "name": "Purpy",
+          "team": "Crownless"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.13\n1.31",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "177\n162\n196",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "8\n3\n5",
+            "kills": "268",
+            "name": "furbsa",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "1.03\n0.98\n1.09",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "152\n140\n170",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "243",
+            "name": "tokyo",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "0.95\n0.63\n1.37",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "135\n86\n199",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "195",
+            "name": "tylo",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "0.90\n0.90\n0.90",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "123\n152\n86",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "11\n4\n7",
+            "kills": "165",
+            "name": "Momiji",
+            "team": "Moonrise"
+          },
+          {
+            "acs": "0.85\n0.66\n1.11",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "115\n101\n133",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "7\n4\n3",
+            "kills": "180",
+            "name": "redo",
+            "team": "Moonrise"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n0.84\n1.57",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "178\n143\n204",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "274",
+            "name": "M2",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.98\n0.99\n0.97",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "143\n148\n139",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "198",
+            "name": "sherb",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.94\n0.98\n0.91",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "114\n129\n103",
+            "hs%": "52%\n56%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "194",
+            "name": "rackz",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.87\n0.56\n1.11",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "137\n88\n174",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "216",
+            "name": "HUDFAME",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.60\n0.64\n0.57",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "67\n65\n68",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "8\n4\n4",
+            "kills": "111",
+            "name": "Purpy",
+            "team": "Crownless"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 94226,
+  "teams": [
+    "Crownless",
+    "Moonrise"
+  ],
+  "tournament": "Open Qualifier #1: \n\t\t\t\t\t\tRound of 128"
+}

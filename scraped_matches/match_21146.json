@@ -1,0 +1,824 @@
+{
+  "date": "2021-06-03 06:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "236",
+          "name": "strixx",
+          "team": "Team 69"
+        },
+        {
+          "kills": "246",
+          "name": "EdiT999",
+          "team": "Team 69"
+        },
+        {
+          "kills": "239",
+          "name": "SSSami",
+          "team": "Team 69"
+        },
+        {
+          "kills": "192",
+          "name": "FOX",
+          "team": "Team 69"
+        },
+        {
+          "kills": "171",
+          "name": "wstVirginia",
+          "team": "Team 69"
+        },
+        {
+          "kills": "277",
+          "name": "ZeNith",
+          "team": "QQQ"
+        },
+        {
+          "kills": "192",
+          "name": "BoNeS",
+          "team": "QQQ"
+        },
+        {
+          "kills": "187",
+          "name": "Deoxys",
+          "team": "QQQ"
+        },
+        {
+          "kills": "146",
+          "name": "Anaiz",
+          "team": "QQQ"
+        },
+        {
+          "kills": "146",
+          "name": "BuLL3T",
+          "team": "QQQ"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.21\n0.54\n1.87",
+            "adr": "+6\n-5\n+11",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "21\n4\n17",
+            "fk": "152\n80\n223",
+            "hs%": "69%\n54%\n85%",
+            "kdr": "2\n1\n1",
+            "kills": "236",
+            "name": "strixx",
+            "team": "Team 69"
+          },
+          {
+            "acs": "1.17\n0.57\n1.76",
+            "adr": "+2\n-7\n+9",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "22\n5\n17",
+            "fk": "162\n89\n235",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "246",
+            "name": "EdiT999",
+            "team": "Team 69"
+          },
+          {
+            "acs": "1.11\n0.86\n1.35",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "157\n127\n187",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "6\n3\n3",
+            "kills": "239",
+            "name": "SSSami",
+            "team": "Team 69"
+          },
+          {
+            "acs": "0.92\n0.96\n0.87",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "127\n157\n97",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "5\n2\n3",
+            "kills": "192",
+            "name": "FOX",
+            "team": "Team 69"
+          },
+          {
+            "acs": "0.92\n1.18\n0.65",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "92\n95\n89",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "6\n2\n4",
+            "kills": "171",
+            "name": "wstVirginia",
+            "team": "Team 69"
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n0.86\n1.40",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "169\n141\n196",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "6\n3\n3",
+            "kills": "277",
+            "name": "ZeNith",
+            "team": "QQQ"
+          },
+          {
+            "acs": "1.02\n0.69\n1.36",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "130\n98\n161",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "8\n5\n3",
+            "kills": "192",
+            "name": "BoNeS",
+            "team": "QQQ"
+          },
+          {
+            "acs": "0.91\n0.68\n1.15",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "119\n95\n143",
+            "hs%": "62%\n62%\n62%",
+            "kdr": "4\n3\n1",
+            "kills": "187",
+            "name": "Deoxys",
+            "team": "QQQ"
+          },
+          {
+            "acs": "0.75\n0.47\n1.03",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "89\n82\n95",
+            "hs%": "50%\n46%\n54%",
+            "kdr": "3\n1\n2",
+            "kills": "146",
+            "name": "Anaiz",
+            "team": "QQQ"
+          },
+          {
+            "acs": "0.68\n0.77\n0.59",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "92\n122\n62",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "4\n1\n3",
+            "kills": "146",
+            "name": "BuLL3T",
+            "team": "QQQ"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "219",
+          "name": "strixx",
+          "team": null
+        },
+        {
+          "kills": "245",
+          "name": "SSSami",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "EdiT999",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "wstVirginia",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "FOX",
+          "team": null
+        },
+        {
+          "kills": "325",
+          "name": "Binks",
+          "team": null
+        },
+        {
+          "kills": "241",
+          "name": "ZeNith",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "Deoxys",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "Anaiz",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "BoNeS",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "Inferno",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "BuLL3T",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.46\n1.24",
+            "adr": "+20\n+2\n+18",
+            "agent": "",
+            "assists": "/\n\n50\n29\n21\n\n/",
+            "deaths": "70\n31\n39",
+            "fk": "163\n147\n181",
+            "hs%": "73%\n71%\n76%",
+            "kdr": "11\n5\n6",
+            "kills": "219",
+            "name": "strixx",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.20\n1.19",
+            "adr": "+16\n+5\n+11",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "69\n34\n35",
+            "fk": "158\n154\n164",
+            "hs%": "77%\n78%\n76%",
+            "kdr": "23\n13\n10",
+            "kills": "245",
+            "name": "SSSami",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.10\n1.09",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n49\n28\n21\n\n/",
+            "deaths": "54\n28\n26",
+            "fk": "124\n129\n119",
+            "hs%": "77%\n73%\n82%",
+            "kdr": "18\n8\n10",
+            "kills": "195",
+            "name": "EdiT999",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.89\n0.98",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n53\n25\n28\n\n/",
+            "deaths": "50\n25\n25",
+            "fk": "101\n97\n105",
+            "hs%": "68%\n73%\n63%",
+            "kdr": "15\n6\n9",
+            "kills": "164",
+            "name": "wstVirginia",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.05\n0.95",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "114\n114\n114",
+            "hs%": "76%\n72%\n79%",
+            "kdr": "16\n7\n9",
+            "kills": "177",
+            "name": "FOX",
+            "team": null
+          },
+          {
+            "acs": "1.16\n0.46\n0.86",
+            "adr": "-1\n+5\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "156\n190\n112",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "6\n1\n5",
+            "kills": "325",
+            "name": "Binks",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n0.98\n1.05",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n59\n27\n32\n\n/",
+            "deaths": "62\n31\n31",
+            "fk": "146\n153\n141",
+            "hs%": "67%\n66%\n68%",
+            "kdr": "17\n7\n10",
+            "kills": "241",
+            "name": "ZeNith",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.02\n0.95",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n55\n26\n29\n\n/",
+            "deaths": "51\n21\n30",
+            "fk": "125\n115\n134",
+            "hs%": "58%\n61%\n56%",
+            "kdr": "22\n11\n11",
+            "kills": "160",
+            "name": "Deoxys",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.77\n0.87",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n58\n29\n29\n\n/",
+            "deaths": "49\n27\n22",
+            "fk": "114\n123\n105",
+            "hs%": "61%\n66%\n56%",
+            "kdr": "15\n8\n7",
+            "kills": "210",
+            "name": "Anaiz",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.98\n0.85",
+            "adr": "-11\n-11\n0",
+            "agent": "",
+            "assists": "/\n\n60\n31\n29\n\n/",
+            "deaths": "49\n20\n29",
+            "fk": "114\n96\n131",
+            "hs%": "71%\n68%\n73%",
+            "kdr": "17\n11\n6",
+            "kills": "148",
+            "name": "BoNeS",
+            "team": null
+          },
+          {
+            "acs": "0.63\n0.84\n0.74",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "33\n12\n21",
+            "fk": "135\n129\n141",
+            "hs%": "60%\n56%\n64%",
+            "kdr": "8\n4\n4",
+            "kills": "176",
+            "name": "Inferno",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.59\n0.68",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "92\n122\n62",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "4\n1\n3",
+            "kills": "175",
+            "name": "BuLL3T",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "112",
+          "name": "EdiT999",
+          "team": "Team 69"
+        },
+        {
+          "kills": "286",
+          "name": "strixx",
+          "team": "Team 69"
+        },
+        {
+          "kills": "243",
+          "name": "SSSami",
+          "team": "Team 69"
+        },
+        {
+          "kills": "194",
+          "name": "FOX",
+          "team": "Team 69"
+        },
+        {
+          "kills": "212",
+          "name": "wstVirginia",
+          "team": "Team 69"
+        },
+        {
+          "kills": "242",
+          "name": "Deoxys",
+          "team": "QQQ"
+        },
+        {
+          "kills": "222",
+          "name": "Anaiz",
+          "team": "QQQ"
+        },
+        {
+          "kills": "163",
+          "name": "ZeNith",
+          "team": "QQQ"
+        },
+        {
+          "kills": "185",
+          "name": "BoNeS",
+          "team": "QQQ"
+        },
+        {
+          "kills": "178",
+          "name": "Inferno",
+          "team": "QQQ"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.33\n1.75\n0.91",
+            "adr": "+10\n+9\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "25\n18\n7",
+            "fk": "135\n196\n74",
+            "hs%": "88%\n88%\n88%",
+            "kdr": "9\n3\n6",
+            "kills": "112",
+            "name": "EdiT999",
+            "team": "Team 69"
+          },
+          {
+            "acs": "1.18\n1.00\n1.35",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "165\n144\n186",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "286",
+            "name": "strixx",
+            "team": "Team 69"
+          },
+          {
+            "acs": "1.10\n1.03\n1.17",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "27\n12\n15",
+            "fk": "161\n161\n160",
+            "hs%": "81%\n75%\n88%",
+            "kdr": "11\n5\n6",
+            "kills": "243",
+            "name": "SSSami",
+            "team": "Team 69"
+          },
+          {
+            "acs": "0.97\n0.75\n1.20",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "103\n79\n128",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "11\n5\n6",
+            "kills": "194",
+            "name": "FOX",
+            "team": "Team 69"
+          },
+          {
+            "acs": "0.86\n0.74\n0.98",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n23\n11\n12\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "109\n89\n129",
+            "hs%": "63%\n69%\n56%",
+            "kdr": "3\n0\n3",
+            "kills": "212",
+            "name": "wstVirginia",
+            "team": "Team 69"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n1.03\n1.29",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "144\n129\n160",
+            "hs%": "63%\n56%\n69%",
+            "kdr": "14\n6\n8",
+            "kills": "242",
+            "name": "Deoxys",
+            "team": "QQQ"
+          },
+          {
+            "acs": "1.12\n1.26\n0.98",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "151\n154\n147",
+            "hs%": "69%\n75%\n63%",
+            "kdr": "5\n3\n2",
+            "kills": "222",
+            "name": "Anaiz",
+            "team": "QQQ"
+          },
+          {
+            "acs": "1.04\n1.14\n0.93",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n23\n11\n12\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "126\n134\n118",
+            "hs%": "66%\n56%\n75%",
+            "kdr": "10\n3\n7",
+            "kills": "163",
+            "name": "ZeNith",
+            "team": "QQQ"
+          },
+          {
+            "acs": "0.62\n0.36\n0.88",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "88\n59\n118",
+            "hs%": "66%\n63%\n69%",
+            "kdr": "7\n4\n3",
+            "kills": "185",
+            "name": "BoNeS",
+            "team": "QQQ"
+          },
+          {
+            "acs": "0.56\n0.55\n0.57",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "109\n105\n113",
+            "hs%": "53%\n44%\n63%",
+            "kdr": "4\n3\n1",
+            "kills": "178",
+            "name": "Inferno",
+            "team": "QQQ"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "SSSami",
+          "team": "Team 69"
+        },
+        {
+          "kills": "292",
+          "name": "strixx",
+          "team": "Team 69"
+        },
+        {
+          "kills": "173",
+          "name": "wstVirginia",
+          "team": "Team 69"
+        },
+        {
+          "kills": "250",
+          "name": "Binks",
+          "team": "Team 69"
+        },
+        {
+          "kills": "87",
+          "name": "EdiT999",
+          "team": "Team 69"
+        },
+        {
+          "kills": "258",
+          "name": "Inferno",
+          "team": "QQQ"
+        },
+        {
+          "kills": "220",
+          "name": "BoNeS",
+          "team": "QQQ"
+        },
+        {
+          "kills": "228",
+          "name": "ZeNith",
+          "team": "QQQ"
+        },
+        {
+          "kills": "159",
+          "name": "Deoxys",
+          "team": "QQQ"
+        },
+        {
+          "kills": "134",
+          "name": "Anaiz",
+          "team": "QQQ"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.71\n1.04",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "157\n173\n135",
+            "hs%": "81%\n100%\n56%",
+            "kdr": "6\n5\n1",
+            "kills": "265",
+            "name": "SSSami",
+            "team": "Team 69"
+          },
+          {
+            "acs": "1.36\n1.57\n1.08",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "174\n224\n108",
+            "hs%": "76%\n83%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "292",
+            "name": "strixx",
+            "team": "Team 69"
+          },
+          {
+            "acs": "1.24\n1.38\n1.06",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "101\n111\n88",
+            "hs%": "81%\n92%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "173",
+            "name": "wstVirginia",
+            "team": "Team 69"
+          },
+          {
+            "acs": "0.86\n1.16\n0.46",
+            "adr": "-1\n+5\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "156\n190\n112",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "6\n1\n5",
+            "kills": "250",
+            "name": "Binks",
+            "team": "Team 69"
+          },
+          {
+            "acs": "0.63\n0.75\n0.46",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "61\n84\n29",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "3\n2\n1",
+            "kills": "87",
+            "name": "EdiT999",
+            "team": "Team 69"
+          }
+        ],
+        [
+          {
+            "acs": "1.01\n0.78\n1.19",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "176\n171\n179",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "258",
+            "name": "Inferno",
+            "team": "QQQ"
+          },
+          {
+            "acs": "0.97\n1.34\n0.69",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "134\n160\n115",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "220",
+            "name": "BoNeS",
+            "team": "QQQ"
+          },
+          {
+            "acs": "0.96\n1.47\n0.58",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "150\n204\n110",
+            "hs%": "57%\n78%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "228",
+            "name": "ZeNith",
+            "team": "QQQ"
+          },
+          {
+            "acs": "0.69\n0.90\n0.53",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "102\n119\n89",
+            "hs%": "48%\n67%\n33%",
+            "kdr": "4\n2\n2",
+            "kills": "159",
+            "name": "Deoxys",
+            "team": "QQQ"
+          },
+          {
+            "acs": "0.64\n1.21\n0.22",
+            "adr": "-7\n+2\n-9",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "88\n125\n61",
+            "hs%": "62%\n78%\n50%",
+            "kdr": "7\n4\n3",
+            "kills": "134",
+            "name": "Anaiz",
+            "team": "QQQ"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 21146,
+  "teams": [
+    "QQQ",
+    "Team 69"
+  ],
+  "tournament": "Tournament: \n\t\t\t\t\t\tUpper Round of 16"
+}

@@ -1,0 +1,788 @@
+{
+  "date": "2022-08-21 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "255",
+          "name": "aika",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "225",
+          "name": "Demon1",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "235",
+          "name": "Nothin",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "206",
+          "name": "PrimeMCD",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "198",
+          "name": "zero cap",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "214",
+          "name": "KING VINNY",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "249",
+          "name": "jakee",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "218",
+          "name": "Pr0phie",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "198",
+          "name": "tylerboy",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "116",
+          "name": "yiinel",
+          "team": "Team Reckaroo"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.57\n0.78",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "173\n203\n122",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "2\n2\n0",
+            "kills": "255",
+            "name": "aika",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "1.26\n0.99\n1.72",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "135\n137\n131",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "2\n2\n0",
+            "kills": "225",
+            "name": "Demon1",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "1.05\n0.90\n1.30",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "155\n133\n192",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "4\n1\n3",
+            "kills": "235",
+            "name": "Nothin",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "0.97\n0.81\n1.26",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "124\n116\n139",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "4\n1\n3",
+            "kills": "206",
+            "name": "PrimeMCD",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "0.89\n0.78\n1.07",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "140\n133\n153",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "9\n5\n4",
+            "kills": "198",
+            "name": "zero cap",
+            "team": "Flex Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.10\n1.25",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "134\n132\n135",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "214",
+            "name": "KING VINNY",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.08\n0.67\n1.31",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "164\n116\n192",
+            "hs%": "79%\n100%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "249",
+            "name": "jakee",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.93\n0.96\n0.91",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "154\n155\n154",
+            "hs%": "79%\n100%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "218",
+            "name": "Pr0phie",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.87\n0.86\n0.88",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "134\n131\n135",
+            "hs%": "53%\n71%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "198",
+            "name": "tylerboy",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.37\n0.15\n0.49",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "71\n54\n82",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "116",
+            "name": "yiinel",
+            "team": "Team Reckaroo"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "232",
+          "name": "Demon1",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "Nothin",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "zero cap",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "PrimeMCD",
+          "team": null
+        },
+        {
+          "kills": "214",
+          "name": "aika",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "KING VINNY",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "jakee",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "tylerboy",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "yiinel",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "Pr0phie",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.04\n1.33\n1.19",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "50\n22\n28",
+            "fk": "154\n146\n160",
+            "hs%": "71%\n70%\n71%",
+            "kdr": "9\n5\n4",
+            "kills": "232",
+            "name": "Demon1",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.42\n1.05",
+            "adr": "+2\n-10\n+12",
+            "agent": "",
+            "assists": "/\n\n42\n24\n18\n\n/",
+            "deaths": "44\n14\n30",
+            "fk": "138\n101\n170",
+            "hs%": "76%\n74%\n77%",
+            "kdr": "22\n11\n11",
+            "kills": "169",
+            "name": "Nothin",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.01\n0.90",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "37\n14\n23",
+            "fk": "127\n130\n125",
+            "hs%": "72%\n74%\n71%",
+            "kdr": "18\n14\n4",
+            "kills": "177",
+            "name": "zero cap",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.99\n0.89",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "35\n16\n19",
+            "fk": "121\n107\n133",
+            "hs%": "71%\n63%\n77%",
+            "kdr": "22\n8\n14",
+            "kills": "174",
+            "name": "PrimeMCD",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.63\n0.83",
+            "adr": "-7\n+1\n-8",
+            "agent": "",
+            "assists": "/\n\n45\n21\n24\n\n/",
+            "deaths": "38\n22\n16",
+            "fk": "116\n139\n95",
+            "hs%": "64%\n67%\n61%",
+            "kdr": "7\n2\n5",
+            "kills": "214",
+            "name": "aika",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n1.23\n1.21",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n36\n22\n14\n\n/",
+            "deaths": "49\n28\n21",
+            "fk": "141\n139\n143",
+            "hs%": "79%\n77%\n81%",
+            "kdr": "6\n0\n6",
+            "kills": "217",
+            "name": "KING VINNY",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.32\n1.08",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n39\n22\n17\n\n/",
+            "deaths": "42\n18\n24",
+            "fk": "141\n118\n168",
+            "hs%": "81%\n84%\n78%",
+            "kdr": "17\n11\n6",
+            "kills": "173",
+            "name": "jakee",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.43\n1.07",
+            "adr": "+6\n-7\n+13",
+            "agent": "",
+            "assists": "/\n\n43\n24\n19\n\n/",
+            "deaths": "49\n17\n32",
+            "fk": "159\n112\n212",
+            "hs%": "66%\n58%\n74%",
+            "kdr": "10\n3\n7",
+            "kills": "157",
+            "name": "tylerboy",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.68\n0.90",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n41\n22\n19\n\n/",
+            "deaths": "36\n24\n12",
+            "fk": "112\n138\n82",
+            "hs%": "71%\n65%\n78%",
+            "kdr": "12\n5\n7",
+            "kills": "218",
+            "name": "yiinel",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.09\n0.81",
+            "adr": "-7\n-11\n+4",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "38\n15\n23",
+            "fk": "128\n112\n147",
+            "hs%": "79%\n77%\n81%",
+            "kdr": "12\n7\n5",
+            "kills": "161",
+            "name": "Pr0phie",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "254",
+          "name": "Demon1",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "176",
+          "name": "Nothin",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "197",
+          "name": "PrimeMCD",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "145",
+          "name": "aika",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "102",
+          "name": "zero cap",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "212",
+          "name": "KING VINNY",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "400",
+          "name": "tylerboy",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "31",
+          "name": "yiinel",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "239",
+          "name": "jakee",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "343",
+          "name": "Pr0phie",
+          "team": "Team Reckaroo"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.04\n0.49\n1.22",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "11\n1\n10",
+            "fk": "153\n108\n168",
+            "hs%": "50%\n25%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "254",
+            "name": "Demon1",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "0.77\n0.38\n0.90",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "99\n91\n101",
+            "hs%": "63%\n50%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "176",
+            "name": "Nothin",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "0.51\n0.14\n0.64",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "111\n50\n132",
+            "hs%": "56%\n25%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "197",
+            "name": "PrimeMCD",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "0.50\n0.33\n0.55",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "80\n66\n84",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "4\n0\n4",
+            "kills": "145",
+            "name": "aika",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "0.35\n0.59\n0.28",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "72\n98\n63",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "102",
+            "name": "zero cap",
+            "team": "Flex Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.63\n1.76\n1.26",
+            "adr": "+12\n+10\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "19\n15\n4",
+            "fk": "184\n195\n152",
+            "hs%": "88%\n92%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "212",
+            "name": "KING VINNY",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.51\n1.13\n2.64",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n7\n1\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "184\n159\n257",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "400",
+            "name": "tylerboy",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.33\n1.67\n0.32",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "14\n14\n0",
+            "fk": "152\n193\n31",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "31",
+            "name": "yiinel",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.08\n0.93\n1.53",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n8\n7\n1\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "132\n118\n175",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "6\n6\n0",
+            "kills": "239",
+            "name": "jakee",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.02\n0.71\n1.93",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "151\n137\n192",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "343",
+            "name": "Pr0phie",
+            "team": "Team Reckaroo"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "239",
+          "name": "zero cap",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "269",
+          "name": "Demon1",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "236",
+          "name": "Nothin",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "186",
+          "name": "PrimeMCD",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "136",
+          "name": "aika",
+          "team": "Flex Gaming"
+        },
+        {
+          "kills": "192",
+          "name": "jakee",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "194",
+          "name": "yiinel",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "168",
+          "name": "KING VINNY",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "231",
+          "name": "tylerboy",
+          "team": "Team Reckaroo"
+        },
+        {
+          "kills": "151",
+          "name": "Pr0phie",
+          "team": "Team Reckaroo"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.30\n0.85\n1.71",
+            "adr": "+6\n-4\n+10",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "155\n139\n169",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "9\n9\n0",
+            "kills": "239",
+            "name": "zero cap",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "1.25\n1.29\n1.20",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "170\n170\n169",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "269",
+            "name": "Demon1",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "1.25\n0.41\n2.02",
+            "adr": "+5\n-7\n+12",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "152\n70\n227",
+            "hs%": "87%\n82%\n92%",
+            "kdr": "15\n9\n6",
+            "kills": "236",
+            "name": "Nothin",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "1.09\n0.99\n1.18",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "126\n119\n131",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "14\n6\n8",
+            "kills": "186",
+            "name": "PrimeMCD",
+            "team": "Flex Gaming"
+          },
+          {
+            "acs": "0.68\n0.75\n0.62",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "93\n96\n90",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "136",
+            "name": "aika",
+            "team": "Flex Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.08\n0.91\n1.25",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "129\n119\n140",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "8\n3\n5",
+            "kills": "192",
+            "name": "jakee",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "1.03\n1.05\n1.01",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "118\n133\n101",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "3\n2\n1",
+            "kills": "194",
+            "name": "yiinel",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.92\n0.67\n1.20",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "116\n86\n149",
+            "hs%": "74%\n58%\n91%",
+            "kdr": "3\n0\n3",
+            "kills": "168",
+            "name": "KING VINNY",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.91\n0.29\n1.59",
+            "adr": "-1\n-9\n+8",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "18\n2\n16",
+            "fk": "161\n52\n281",
+            "hs%": "65%\n33%\n100%",
+            "kdr": "6\n1\n5",
+            "kills": "231",
+            "name": "tylerboy",
+            "team": "Team Reckaroo"
+          },
+          {
+            "acs": "0.57\n0.21\n0.98",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "91\n62\n123",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "4\n2\n2",
+            "kills": "151",
+            "name": "Pr0phie",
+            "team": "Team Reckaroo"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 131670,
+  "teams": [
+    "Team Reckaroo",
+    "Flex Gaming"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tGrand Final"
+}

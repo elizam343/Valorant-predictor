@@ -1,0 +1,594 @@
+{
+  "date": "2021-06-30 13:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "205",
+          "name": "Cloud",
+          "team": "No Pressure"
+        },
+        {
+          "kills": "175",
+          "name": "Duno",
+          "team": "No Pressure"
+        },
+        {
+          "kills": "223",
+          "name": "dinkzj",
+          "team": "No Pressure"
+        },
+        {
+          "kills": "190",
+          "name": "arch",
+          "team": "No Pressure"
+        },
+        {
+          "kills": "207",
+          "name": "7ssk7",
+          "team": "No Pressure"
+        },
+        {
+          "kills": "239",
+          "name": "nAts",
+          "team": "Gambit Esports"
+        },
+        {
+          "kills": "319",
+          "name": "Chronicle",
+          "team": "Gambit Esports"
+        },
+        {
+          "kills": "223",
+          "name": "d3ffo",
+          "team": "Gambit Esports"
+        },
+        {
+          "kills": "216",
+          "name": "sheydos",
+          "team": "Gambit Esports"
+        },
+        {
+          "kills": "123",
+          "name": "Redgar",
+          "team": "Gambit Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.10\n0.76\n1.45",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "140\n82\n199",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "10\n5\n5",
+            "kills": "205",
+            "name": "Cloud",
+            "team": "No Pressure"
+          },
+          {
+            "acs": "0.94\n0.03\n1.88",
+            "adr": "-1\n-10\n+9",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "96\n28\n163",
+            "hs%": "54%\n33%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "175",
+            "name": "Duno",
+            "team": "No Pressure"
+          },
+          {
+            "acs": "0.94\n0.93\n0.96",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "139\n151\n126",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "5\n4\n1",
+            "kills": "223",
+            "name": "dinkzj",
+            "team": "No Pressure"
+          },
+          {
+            "acs": "0.93\n1.08\n0.77",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "130\n139\n121",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "190",
+            "name": "arch",
+            "team": "No Pressure"
+          },
+          {
+            "acs": "0.83\n0.88\n0.79",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "115\n120\n111",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "207",
+            "name": "7ssk7",
+            "team": "No Pressure"
+          }
+        ],
+        [
+          {
+            "acs": "1.30\n0.95\n1.65",
+            "adr": "+9\n-1\n+10",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "140\n132\n147",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "6\n5\n1",
+            "kills": "239",
+            "name": "nAts",
+            "team": "Gambit Esports"
+          },
+          {
+            "acs": "1.26\n1.24\n1.27",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "214\n227\n202",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "319",
+            "name": "Chronicle",
+            "team": "Gambit Esports"
+          },
+          {
+            "acs": "1.06\n0.67\n1.45",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "136\n109\n163",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "223",
+            "name": "d3ffo",
+            "team": "Gambit Esports"
+          },
+          {
+            "acs": "1.03\n1.04\n1.02",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "125\n117\n132",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "4\n4\n0",
+            "kills": "216",
+            "name": "sheydos",
+            "team": "Gambit Esports"
+          },
+          {
+            "acs": "0.39\n0.20\n0.58",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "92\n106\n78",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "123",
+            "name": "Redgar",
+            "team": "Gambit Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "141",
+          "name": "Cloud",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "7ssk7",
+          "team": null
+        },
+        {
+          "kills": "63",
+          "name": "Duno",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "arch",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "dinkzj",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "d3ffo",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "nAts",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "sheydos",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "Chronicle",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "Redgar",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.77\n1.54\n1.15",
+            "adr": "+2\n-8\n+10",
+            "agent": "",
+            "assists": "/\n\n34\n20\n14\n\n/",
+            "deaths": "36\n12\n24",
+            "fk": "138\n97\n180",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "22\n6\n16",
+            "kills": "141",
+            "name": "Cloud",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.24\n1.02",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n38\n22\n16\n\n/",
+            "deaths": "39\n17\n22",
+            "fk": "141\n123\n159",
+            "hs%": "69%\n58%\n79%",
+            "kdr": "12\n5\n7",
+            "kills": "223",
+            "name": "7ssk7",
+            "team": null
+          },
+          {
+            "acs": "0.15\n1.70\n0.92",
+            "adr": "-3\n-18\n+15",
+            "agent": "",
+            "assists": "/\n\n32\n23\n9\n\n/",
+            "deaths": "29\n5\n24",
+            "fk": "95\n39\n152",
+            "hs%": "58%\n33%\n83%",
+            "kdr": "12\n4\n8",
+            "kills": "63",
+            "name": "Duno",
+            "team": null
+          },
+          {
+            "acs": "0.67\n1.04\n0.85",
+            "adr": "-9\n-12\n+3",
+            "agent": "",
+            "assists": "/\n\n35\n20\n15\n\n/",
+            "deaths": "26\n8\n18",
+            "fk": "113\n96\n130",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "17\n7\n10",
+            "kills": "133",
+            "name": "arch",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.91\n0.82",
+            "adr": "-8\n-11\n+3",
+            "agent": "",
+            "assists": "/\n\n34\n23\n11\n\n/",
+            "deaths": "26\n12\n14",
+            "fk": "107\n113\n100",
+            "hs%": "73%\n58%\n88%",
+            "kdr": "9\n6\n3",
+            "kills": "179",
+            "name": "dinkzj",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.47\n1.89\n1.18",
+            "adr": "+9\n-12\n+21",
+            "agent": "",
+            "assists": "/\n\n31\n22\n9\n\n/",
+            "deaths": "40\n10\n30",
+            "fk": "145\n88\n202",
+            "hs%": "73%\n54%\n92%",
+            "kdr": "10\n2\n8",
+            "kills": "130",
+            "name": "d3ffo",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.56\n1.15",
+            "adr": "+10\n-6\n+16",
+            "agent": "",
+            "assists": "/\n\n28\n19\n9\n\n/",
+            "deaths": "38\n13\n25",
+            "fk": "133\n100\n166",
+            "hs%": "77%\n63%\n92%",
+            "kdr": "11\n5\n6",
+            "kills": "159",
+            "name": "nAts",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.18\n1.09",
+            "adr": "+8\n-2\n+10",
+            "agent": "",
+            "assists": "/\n\n29\n18\n11\n\n/",
+            "deaths": "37\n16\n21",
+            "fk": "124\n130\n118",
+            "hs%": "73%\n63%\n83%",
+            "kdr": "6\n5\n1",
+            "kills": "207",
+            "name": "sheydos",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.07\n0.99",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n33\n20\n13\n\n/",
+            "deaths": "31\n17\n14",
+            "fk": "156\n158\n155",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "17\n6\n11",
+            "kills": "226",
+            "name": "Chronicle",
+            "team": null
+          },
+          {
+            "acs": "0.35\n1.03\n0.69",
+            "adr": "-8\n-13\n+5",
+            "agent": "",
+            "assists": "/\n\n35\n24\n11\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "106\n89\n123",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "10\n5\n5",
+            "kills": "151",
+            "name": "Redgar",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "347",
+          "name": "7ssk7",
+          "team": "No Pressure"
+        },
+        {
+          "kills": "288",
+          "name": "Cloud",
+          "team": "No Pressure"
+        },
+        {
+          "kills": "204",
+          "name": "Duno",
+          "team": "No Pressure"
+        },
+        {
+          "kills": "243",
+          "name": "arch",
+          "team": "No Pressure"
+        },
+        {
+          "kills": "123",
+          "name": "dinkzj",
+          "team": "No Pressure"
+        },
+        {
+          "kills": "382",
+          "name": "d3ffo",
+          "team": "Gambit Esports"
+        },
+        {
+          "kills": "178",
+          "name": "sheydos",
+          "team": "Gambit Esports"
+        },
+        {
+          "kills": "270",
+          "name": "nAts",
+          "team": "Gambit Esports"
+        },
+        {
+          "kills": "238",
+          "name": "Redgar",
+          "team": "Gambit Esports"
+        },
+        {
+          "kills": "130",
+          "name": "Chronicle",
+          "team": "Gambit Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.21\n0.73\n1.70",
+            "adr": "+5\n-4\n+9",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "23\n7\n16",
+            "fk": "167\n127\n208",
+            "hs%": "63%\n42%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "347",
+            "name": "7ssk7",
+            "team": "No Pressure"
+          },
+          {
+            "acs": "1.20\n0.77\n1.62",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "137\n112\n161",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "12\n1\n11",
+            "kills": "288",
+            "name": "Cloud",
+            "team": "No Pressure"
+          },
+          {
+            "acs": "0.89\n0.27\n1.52",
+            "adr": "-2\n-8\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "95\n49\n141",
+            "hs%": "63%\n33%\n92%",
+            "kdr": "8\n2\n6",
+            "kills": "204",
+            "name": "Duno",
+            "team": "No Pressure"
+          },
+          {
+            "acs": "0.78\n0.26\n1.30",
+            "adr": "-6\n-11\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n0\n11",
+            "fk": "96\n54\n138",
+            "hs%": "54%\n25%\n83%",
+            "kdr": "11\n3\n8",
+            "kills": "243",
+            "name": "arch",
+            "team": "No Pressure"
+          },
+          {
+            "acs": "0.70\n0.53\n0.87",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "75\n75\n75",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "123",
+            "name": "dinkzj",
+            "team": "No Pressure"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n0.26\n2.33",
+            "adr": "+7\n-8\n+15",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "22\n3\n19",
+            "fk": "154\n67\n240",
+            "hs%": "63%\n33%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "382",
+            "name": "d3ffo",
+            "team": "Gambit Esports"
+          },
+          {
+            "acs": "1.15\n0.96\n1.34",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "123\n142\n103",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "178",
+            "name": "sheydos",
+            "team": "Gambit Esports"
+          },
+          {
+            "acs": "1.01\n0.55\n1.47",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "127\n69\n184",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "5\n0\n5",
+            "kills": "270",
+            "name": "nAts",
+            "team": "Gambit Esports"
+          },
+          {
+            "acs": "1.00\n0.50\n1.49",
+            "adr": "+2\n-6\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "120\n72\n168",
+            "hs%": "71%\n42%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "238",
+            "name": "Redgar",
+            "team": "Gambit Esports"
+          },
+          {
+            "acs": "0.73\n0.58\n0.88",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "98\n89\n108",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "11\n4\n7",
+            "kills": "130",
+            "name": "Chronicle",
+            "team": "Gambit Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 24129,
+  "teams": [
+    "No Pressure",
+    "Gambit Esports"
+  ],
+  "tournament": "Closed Qualifier: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

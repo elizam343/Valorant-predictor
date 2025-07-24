@@ -1,0 +1,788 @@
+{
+  "date": "2022-02-04 21:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "211",
+          "name": "jmoh",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "247",
+          "name": "Critical",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "197",
+          "name": "wedid",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "209",
+          "name": "thief",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "161",
+          "name": "jcStani",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "209",
+          "name": "bjor",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "228",
+          "name": "bang",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "194",
+          "name": "Will",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "167",
+          "name": "b0i",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "155",
+          "name": "Poach",
+          "team": "Built By Gamers"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.17\n1.59\n0.76",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "136\n195\n77",
+            "hs%": "79%\n92%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "211",
+            "name": "jmoh",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "1.13\n0.43\n1.84",
+            "adr": "+4\n-6\n+10",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "184\n123\n245",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "7\n4\n3",
+            "kills": "247",
+            "name": "Critical",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "1.07\n0.52\n1.63",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "140\n85\n196",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "5\n4\n1",
+            "kills": "197",
+            "name": "wedid",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.98\n0.79\n1.16",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "145\n146\n143",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "3\n3\n0",
+            "kills": "209",
+            "name": "thief",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.73\n0.81\n0.65",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "108\n118\n98",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "161",
+            "name": "jcStani",
+            "team": "Pioneers"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n0.78\n1.64",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "138\n122\n154",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "209",
+            "name": "bjor",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "1.05\n1.29\n0.82",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "128\n149\n107",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "228",
+            "name": "bang",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "0.97\n0.64\n1.30",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "133\n105\n162",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "194",
+            "name": "Will",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "0.87\n0.80\n0.94",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "124\n94\n154",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "167",
+            "name": "b0i",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "0.85\n0.35\n1.35",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "109\n63\n154",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "155",
+            "name": "Poach",
+            "team": "Built By Gamers"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "218",
+          "name": "wedid",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "thief",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Critical",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "jcStani",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "jmoh",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "bjor",
+          "team": null
+        },
+        {
+          "kills": "269",
+          "name": "bang",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Will",
+          "team": null
+        },
+        {
+          "kills": "113",
+          "name": "Poach",
+          "team": null
+        },
+        {
+          "kills": "142",
+          "name": "b0i",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.41\n1.21",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n40\n25\n15\n\n/",
+            "deaths": "46\n27\n19",
+            "fk": "161\n150\n178",
+            "hs%": "72%\n75%\n68%",
+            "kdr": "11\n8\n3",
+            "kills": "218",
+            "name": "wedid",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.19\n1.08",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n40\n26\n14\n\n/",
+            "deaths": "47\n25\n22",
+            "fk": "147\n144\n151",
+            "hs%": "74%\n72%\n77%",
+            "kdr": "8\n8\n0",
+            "kills": "202",
+            "name": "thief",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.32\n0.95",
+            "adr": "-1\n-9\n+8",
+            "agent": "",
+            "assists": "/\n\n39\n28\n11\n\n/",
+            "deaths": "38\n19\n19",
+            "fk": "141\n112\n187",
+            "hs%": "66%\n64%\n68%",
+            "kdr": "19\n13\n6",
+            "kills": "167",
+            "name": "Critical",
+            "team": null
+          },
+          {
+            "acs": "1.15\n0.56\n0.93",
+            "adr": "-5\n+3\n-8",
+            "agent": "",
+            "assists": "/\n\n42\n26\n16\n\n/",
+            "deaths": "37\n29\n8",
+            "fk": "123\n147\n84",
+            "hs%": "76%\n81%\n68%",
+            "kdr": "20\n15\n5",
+            "kills": "222",
+            "name": "jcStani",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.70\n0.82",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n43\n29\n14\n\n/",
+            "deaths": "32\n26\n6",
+            "fk": "109\n121\n88",
+            "hs%": "69%\n72%\n64%",
+            "kdr": "17\n8\n9",
+            "kills": "196",
+            "name": "jmoh",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n1.26\n1.20",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n37\n14\n23\n\n/",
+            "deaths": "48\n17\n31",
+            "fk": "144\n147\n143",
+            "hs%": "74%\n68%\n78%",
+            "kdr": "13\n5\n8",
+            "kills": "213",
+            "name": "bjor",
+            "team": null
+          },
+          {
+            "acs": "1.43\n0.86\n1.08",
+            "adr": "+7\n+9\n-2",
+            "agent": "",
+            "assists": "/\n\n41\n14\n27\n\n/",
+            "deaths": "48\n23\n25",
+            "fk": "124\n142\n113",
+            "hs%": "66%\n64%\n67%",
+            "kdr": "17\n5\n12",
+            "kills": "269",
+            "name": "bang",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.04\n0.96",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n40\n15\n25\n\n/",
+            "deaths": "40\n12\n28",
+            "fk": "132\n114\n143",
+            "hs%": "66%\n64%\n67%",
+            "kdr": "15\n5\n10",
+            "kills": "167",
+            "name": "Will",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.03\n0.92",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n39\n15\n24\n\n/",
+            "deaths": "31\n7\n24",
+            "fk": "128\n90\n152",
+            "hs%": "72%\n68%\n75%",
+            "kdr": "15\n6\n9",
+            "kills": "113",
+            "name": "Poach",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.02\n0.90",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n43\n17\n26\n\n/",
+            "deaths": "37\n11\n26",
+            "fk": "126\n94\n145",
+            "hs%": "69%\n68%\n69%",
+            "kdr": "16\n8\n8",
+            "kills": "142",
+            "name": "b0i",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "272",
+          "name": "thief",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "291",
+          "name": "wedid",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "66",
+          "name": "jcStani",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "255",
+          "name": "Critical",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "96",
+          "name": "jmoh",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "151",
+          "name": "bjor",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "192",
+          "name": "bang",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "199",
+          "name": "b0i",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "184",
+          "name": "Poach",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "117",
+          "name": "Will",
+          "team": "Built By Gamers"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.68\n1.75\n1.50",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "182\n189\n167",
+            "hs%": "88%\n92%\n80%",
+            "kdr": "2\n2\n0",
+            "kills": "272",
+            "name": "thief",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "1.47\n1.46\n1.50",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "191\n203\n164",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "291",
+            "name": "wedid",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "1.30\n1.64\n0.48",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "15\n14\n1",
+            "fk": "148\n190\n48",
+            "hs%": "88%\n92%\n80%",
+            "kdr": "6\n5\n1",
+            "kills": "66",
+            "name": "jcStani",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "1.29\n1.33\n1.20",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "149\n134\n184",
+            "hs%": "65%\n67%\n60%",
+            "kdr": "7\n4\n3",
+            "kills": "255",
+            "name": "Critical",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.44\n0.39\n0.57",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "4\n4\n0",
+            "fk": "70\n58\n96",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "9\n4\n5",
+            "kills": "96",
+            "name": "jmoh",
+            "team": "Pioneers"
+          }
+        ],
+        [
+          {
+            "acs": "0.92\n1.40\n0.72",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "137\n201\n110",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "151",
+            "name": "bjor",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "0.83\n0.66\n0.91",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "105\n68\n121",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "192",
+            "name": "bang",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "0.74\n0.84\n0.70",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "123\n117\n125",
+            "hs%": "53%\n80%\n42%",
+            "kdr": "4\n2\n2",
+            "kills": "199",
+            "name": "b0i",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "0.74\n0.82\n0.70",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "123\n81\n140",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "184",
+            "name": "Poach",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "0.62\n1.25\n0.36",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "101\n161\n76",
+            "hs%": "41%\n60%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "117",
+            "name": "Will",
+            "team": "Built By Gamers"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "238",
+          "name": "wedid",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "171",
+          "name": "jcStani",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "173",
+          "name": "jmoh",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "170",
+          "name": "thief",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "100",
+          "name": "Critical",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "259",
+          "name": "bjor",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "238",
+          "name": "bang",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "267",
+          "name": "Will",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "204",
+          "name": "Poach",
+          "team": "Built By Gamers"
+        },
+        {
+          "kills": "194",
+          "name": "b0i",
+          "team": "Built By Gamers"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.27\n0.79",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "158\n161\n152",
+            "hs%": "65%\n75%\n40%",
+            "kdr": "2\n1\n1",
+            "kills": "238",
+            "name": "wedid",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.82\n0.99\n0.44",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "119\n132\n88",
+            "hs%": "65%\n75%\n40%",
+            "kdr": "10\n8\n2",
+            "kills": "171",
+            "name": "jcStani",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.70\n0.70\n0.68",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "109\n110\n108",
+            "hs%": "65%\n67%\n60%",
+            "kdr": "1\n0\n1",
+            "kills": "173",
+            "name": "jmoh",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.63\n0.50\n0.94",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "114\n98\n152",
+            "hs%": "65%\n58%\n80%",
+            "kdr": "3\n3\n0",
+            "kills": "170",
+            "name": "thief",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.36\n0.41\n0.22",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "71\n80\n50",
+            "hs%": "53%\n67%\n20%",
+            "kdr": "5\n5\n0",
+            "kills": "100",
+            "name": "Critical",
+            "team": "Pioneers"
+          }
+        ],
+        [
+          {
+            "acs": "1.48\n1.58\n1.44",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "161\n153\n165",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "259",
+            "name": "bjor",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "1.35\n2.56\n0.85",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "136\n198\n110",
+            "hs%": "65%\n80%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "238",
+            "name": "bang",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "1.29\n0.90\n1.45",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "161\n91\n190",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "267",
+            "name": "Will",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "1.20\n1.59\n1.05",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "161\n163\n161",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "204",
+            "name": "Poach",
+            "team": "Built By Gamers"
+          },
+          {
+            "acs": "1.11\n0.36\n1.43",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "131\n72\n155",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "194",
+            "name": "b0i",
+            "team": "Built By Gamers"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 68697,
+  "teams": [
+    "Built By Gamers",
+    "Pioneers"
+  ],
+  "tournament": "Open Qualifier #2: \n\t\t\t\t\t\tUpper Round of 16"
+}

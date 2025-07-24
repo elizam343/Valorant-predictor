@@ -1,0 +1,594 @@
+{
+  "date": "2021-09-24 06:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "thriL",
+          "team": "E2S Lexious"
+        },
+        {
+          "kills": "299",
+          "name": "Asitte",
+          "team": "E2S Lexious"
+        },
+        {
+          "kills": "249",
+          "name": "Ahu",
+          "team": "E2S Lexious"
+        },
+        {
+          "kills": "178",
+          "name": "Vixeria",
+          "team": "E2S Lexious"
+        },
+        {
+          "kills": "173",
+          "name": "maestr0",
+          "team": "E2S Lexious"
+        },
+        {
+          "kills": "310",
+          "name": "Savage",
+          "team": "VPG Headhunters"
+        },
+        {
+          "kills": "231",
+          "name": "Rexvrs",
+          "team": "VPG Headhunters"
+        },
+        {
+          "kills": "161",
+          "name": "MAWK",
+          "team": "VPG Headhunters"
+        },
+        {
+          "kills": "175",
+          "name": "Aesop",
+          "team": "VPG Headhunters"
+        },
+        {
+          "kills": "119",
+          "name": "Sasuke",
+          "team": "VPG Headhunters"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.37\n1.31",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "169\n190\n134",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "4\n3\n1",
+            "kills": "245",
+            "name": "thriL",
+            "team": "E2S Lexious"
+          },
+          {
+            "acs": "1.30\n1.32\n1.26",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "181\n164\n210",
+            "hs%": "84%\n83%\n86%",
+            "kdr": "4\n2\n2",
+            "kills": "299",
+            "name": "Asitte",
+            "team": "E2S Lexious"
+          },
+          {
+            "acs": "1.24\n0.95\n1.74",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "169\n156\n191",
+            "hs%": "84%\n75%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "249",
+            "name": "Ahu",
+            "team": "E2S Lexious"
+          },
+          {
+            "acs": "0.88\n0.31\n1.88",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "121\n83\n187",
+            "hs%": "68%\n50%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "178",
+            "name": "Vixeria",
+            "team": "E2S Lexious"
+          },
+          {
+            "acs": "0.81\n0.63\n1.11",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "124\n130\n114",
+            "hs%": "63%\n50%\n86%",
+            "kdr": "11\n3\n8",
+            "kills": "173",
+            "name": "maestr0",
+            "team": "E2S Lexious"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n0.95\n1.74",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "227\n193\n247",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "8\n2\n6",
+            "kills": "310",
+            "name": "Savage",
+            "team": "VPG Headhunters"
+          },
+          {
+            "acs": "0.91\n0.78\n0.99",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "151\n121\n168",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "231",
+            "name": "Rexvrs",
+            "team": "VPG Headhunters"
+          },
+          {
+            "acs": "0.84\n0.60\n0.98",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "89\n80\n94",
+            "hs%": "68%\n86%\n58%",
+            "kdr": "4\n0\n4",
+            "kills": "161",
+            "name": "MAWK",
+            "team": "VPG Headhunters"
+          },
+          {
+            "acs": "0.72\n0.03\n1.14",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "115\n64\n145",
+            "hs%": "68%\n43%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "175",
+            "name": "Aesop",
+            "team": "VPG Headhunters"
+          },
+          {
+            "acs": "0.54\n0.38\n0.63",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "83\n94\n76",
+            "hs%": "63%\n43%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "119",
+            "name": "Sasuke",
+            "team": "VPG Headhunters"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "206",
+          "name": "Vixeria",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "Ahu",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "thriL",
+          "team": null
+        },
+        {
+          "kills": "247",
+          "name": "Asitte",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "maestr0",
+          "team": null
+        },
+        {
+          "kills": "279",
+          "name": "Savage",
+          "team": null
+        },
+        {
+          "kills": "270",
+          "name": "MAWK",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "Rexvrs",
+          "team": null
+        },
+        {
+          "kills": "112",
+          "name": "Aesop",
+          "team": null
+        },
+        {
+          "kills": "112",
+          "name": "Sasuke",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.89\n1.64\n1.23",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n28\n16\n12\n\n/",
+            "deaths": "37\n18\n19",
+            "fk": "182\n154\n215",
+            "hs%": "76%\n65%\n89%",
+            "kdr": "8\n2\n6",
+            "kills": "206",
+            "name": "Vixeria",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.32\n1.19",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n28\n17\n11\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "148\n155\n140",
+            "hs%": "74%\n70%\n79%",
+            "kdr": "5\n2\n3",
+            "kills": "243",
+            "name": "Ahu",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.43\n1.10",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n27\n17\n10\n\n/",
+            "deaths": "32\n16\n16",
+            "fk": "161\n135\n192",
+            "hs%": "71%\n65%\n79%",
+            "kdr": "10\n4\n6",
+            "kills": "197",
+            "name": "thriL",
+            "team": null
+          },
+          {
+            "acs": "1.14\n0.84\n1.00",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "34\n19\n15",
+            "fk": "166\n161\n172",
+            "hs%": "74%\n78%\n68%",
+            "kdr": "7\n4\n3",
+            "kills": "247",
+            "name": "Asitte",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.90\n0.94",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n30\n17\n13\n\n/",
+            "deaths": "28\n18\n10",
+            "fk": "131\n148\n111",
+            "hs%": "71%\n65%\n79%",
+            "kdr": "24\n10\n14",
+            "kills": "205",
+            "name": "maestr0",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.65\n1.47",
+            "adr": "+14\n+3\n+11",
+            "agent": "",
+            "assists": "/\n\n33\n16\n17\n\n/",
+            "deaths": "47\n19\n28",
+            "fk": "203\n185\n217",
+            "hs%": "81%\n74%\n87%",
+            "kdr": "19\n9\n10",
+            "kills": "279",
+            "name": "Savage",
+            "team": null
+          },
+          {
+            "acs": "1.42\n1.08\n1.23",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "37\n20\n17",
+            "fk": "144\n162\n129",
+            "hs%": "79%\n79%\n78%",
+            "kdr": "11\n5\n6",
+            "kills": "270",
+            "name": "MAWK",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.79\n0.76",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n33\n15\n18\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "115\n92\n135",
+            "hs%": "69%\n74%\n65%",
+            "kdr": "14\n7\n7",
+            "kills": "148",
+            "name": "Rexvrs",
+            "team": null
+          },
+          {
+            "acs": "0.44\n1.00\n0.74",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n35\n16\n19\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "107\n70\n137",
+            "hs%": "71%\n63%\n78%",
+            "kdr": "13\n7\n6",
+            "kills": "112",
+            "name": "Aesop",
+            "team": null
+          },
+          {
+            "acs": "0.40\n0.60\n0.51",
+            "adr": "-18\n-10\n-8",
+            "agent": "",
+            "assists": "/\n\n35\n17\n18\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "75\n74\n76",
+            "hs%": "62%\n53%\n70%",
+            "kdr": "15\n7\n8",
+            "kills": "112",
+            "name": "Sasuke",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "298",
+          "name": "Vixeria",
+          "team": "E2S Lexious"
+        },
+        {
+          "kills": "157",
+          "name": "Ahu",
+          "team": "E2S Lexious"
+        },
+        {
+          "kills": "172",
+          "name": "maestr0",
+          "team": "E2S Lexious"
+        },
+        {
+          "kills": "313",
+          "name": "thriL",
+          "team": "E2S Lexious"
+        },
+        {
+          "kills": "175",
+          "name": "Asitte",
+          "team": "E2S Lexious"
+        },
+        {
+          "kills": "259",
+          "name": "MAWK",
+          "team": "VPG Headhunters"
+        },
+        {
+          "kills": "320",
+          "name": "Savage",
+          "team": "VPG Headhunters"
+        },
+        {
+          "kills": "225",
+          "name": "Aesop",
+          "team": "VPG Headhunters"
+        },
+        {
+          "kills": "108",
+          "name": "Rexvrs",
+          "team": "VPG Headhunters"
+        },
+        {
+          "kills": "103",
+          "name": "Sasuke",
+          "team": "VPG Headhunters"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.52\n1.53\n1.51",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "232\n232\n232",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "298",
+            "name": "Vixeria",
+            "team": "E2S Lexious"
+          },
+          {
+            "acs": "1.14\n1.21\n1.08",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "131\n154\n110",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "157",
+            "name": "Ahu",
+            "team": "E2S Lexious"
+          },
+          {
+            "acs": "1.04\n1.33\n0.78",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "137\n169\n108",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "13\n7\n6",
+            "kills": "172",
+            "name": "maestr0",
+            "team": "E2S Lexious"
+          },
+          {
+            "acs": "0.89\n0.22\n1.50",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "153\n75\n225",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "313",
+            "name": "thriL",
+            "team": "E2S Lexious"
+          },
+          {
+            "acs": "0.76\n0.96\n0.59",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "154\n159\n150",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "175",
+            "name": "Asitte",
+            "team": "E2S Lexious"
+          }
+        ],
+        [
+          {
+            "acs": "1.56\n1.90\n1.19",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "25\n16\n9",
+            "fk": "189\n210\n167",
+            "hs%": "87%\n75%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "259",
+            "name": "MAWK",
+            "team": "VPG Headhunters"
+          },
+          {
+            "acs": "1.50\n1.44\n1.56",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "27\n13\n14",
+            "fk": "183\n181\n185",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "11\n7\n4",
+            "kills": "320",
+            "name": "Savage",
+            "team": "VPG Headhunters"
+          },
+          {
+            "acs": "0.76\n0.68\n0.85",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "100\n73\n129",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "9\n6\n3",
+            "kills": "225",
+            "name": "Aesop",
+            "team": "VPG Headhunters"
+          },
+          {
+            "acs": "0.63\n0.70\n0.56",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "86\n75\n99",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "11\n6\n5",
+            "kills": "108",
+            "name": "Rexvrs",
+            "team": "VPG Headhunters"
+          },
+          {
+            "acs": "0.49\n0.42\n0.56",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "69\n62\n77",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "8\n5\n3",
+            "kills": "103",
+            "name": "Sasuke",
+            "team": "VPG Headhunters"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 42662,
+  "teams": [
+    "VPG Headhunters",
+    "E2S Lexious"
+  ],
+  "tournament": "Bangladesh and Maldives: \n\t\t\t\t\t\tUpper Bracket Finals"
+}

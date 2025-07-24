@@ -1,0 +1,788 @@
+{
+  "date": "2022-12-04 17:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "191",
+          "name": "Kazler",
+          "team": "YFP White"
+        },
+        {
+          "kills": "205",
+          "name": "Ltomlee",
+          "team": "YFP White"
+        },
+        {
+          "kills": "233",
+          "name": "chip",
+          "team": "YFP White"
+        },
+        {
+          "kills": "233",
+          "name": "Kamiunist",
+          "team": "YFP White"
+        },
+        {
+          "kills": "141",
+          "name": "fawn",
+          "team": "YFP White"
+        },
+        {
+          "kills": "298",
+          "name": "bunnybee",
+          "team": "XSET"
+        },
+        {
+          "kills": "264",
+          "name": "bungee",
+          "team": "XSET"
+        },
+        {
+          "kills": "239",
+          "name": "Miku",
+          "team": "XSET"
+        },
+        {
+          "kills": "149",
+          "name": "artStar",
+          "team": "XSET"
+        },
+        {
+          "kills": "122",
+          "name": "starriebun",
+          "team": "XSET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.35\n1.00",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "118\n128\n108",
+            "hs%": "69%\n85%\n54%",
+            "kdr": "6\n5\n1",
+            "kills": "191",
+            "name": "Kazler",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.93\n1.25\n0.60",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "133\n141\n125",
+            "hs%": "62%\n62%\n62%",
+            "kdr": "8\n5\n3",
+            "kills": "205",
+            "name": "Ltomlee",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.93\n1.06\n0.81",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "157\n202\n112",
+            "hs%": "58%\n62%\n54%",
+            "kdr": "4\n2\n2",
+            "kills": "233",
+            "name": "chip",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.86\n0.62\n1.10",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "136\n114\n158",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "5\n3\n2",
+            "kills": "233",
+            "name": "Kamiunist",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.72\n0.73\n0.71",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "97\n85\n110",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "17\n10\n7",
+            "kills": "141",
+            "name": "fawn",
+            "team": "YFP White"
+          }
+        ],
+        [
+          {
+            "acs": "1.60\n1.51\n1.69",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "26\n12\n14",
+            "fk": "196\n174\n218",
+            "hs%": "85%\n92%\n77%",
+            "kdr": "10\n6\n4",
+            "kills": "298",
+            "name": "bunnybee",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.30\n1.54\n1.05",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "172\n198\n146",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "3\n1\n2",
+            "kills": "264",
+            "name": "bungee",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.13\n1.36\n0.90",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "161\n194\n128",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "1\n0\n1",
+            "kills": "239",
+            "name": "Miku",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.95\n1.21\n0.69",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "113\n132\n94",
+            "hs%": "85%\n85%\n85%",
+            "kdr": "14\n4\n10",
+            "kills": "149",
+            "name": "artStar",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.46\n0.25\n0.66",
+            "adr": "-14\n-10\n-4",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "84\n58\n110",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "8\n6\n2",
+            "kills": "122",
+            "name": "starriebun",
+            "team": "XSET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "236",
+          "name": "Kazler",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "Ltomlee",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "Kamiunist",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "chip",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "fawn",
+          "team": null
+        },
+        {
+          "kills": "240",
+          "name": "bunnybee",
+          "team": null
+        },
+        {
+          "kills": "277",
+          "name": "bungee",
+          "team": null
+        },
+        {
+          "kills": "241",
+          "name": "Miku",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "artStar",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "starriebun",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.22\n1.05\n1.14",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "59\n30\n29",
+            "fk": "143\n140\n146",
+            "hs%": "69%\n73%\n64%",
+            "kdr": "13\n10\n3",
+            "kills": "236",
+            "name": "Kazler",
+            "team": null
+          },
+          {
+            "acs": "1.10\n0.73\n0.93",
+            "adr": "-7\n+3\n-10",
+            "agent": "",
+            "assists": "/\n\n56\n29\n27\n\n/",
+            "deaths": "49\n32\n17",
+            "fk": "143\n154\n130",
+            "hs%": "71%\n73%\n70%",
+            "kdr": "30\n20\n10",
+            "kills": "230",
+            "name": "Ltomlee",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.96\n0.82",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n59\n32\n27\n\n/",
+            "deaths": "47\n23\n24",
+            "fk": "132\n112\n154",
+            "hs%": "73%\n76%\n70%",
+            "kdr": "24\n14\n10",
+            "kills": "183",
+            "name": "Kamiunist",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.88\n0.78",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n58\n33\n25\n\n/",
+            "deaths": "46\n25\n21",
+            "fk": "123\n131\n114",
+            "hs%": "57%\n54%\n61%",
+            "kdr": "12\n5\n7",
+            "kills": "204",
+            "name": "chip",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.81\n0.76",
+            "adr": "-19\n-10\n-9",
+            "agent": "",
+            "assists": "/\n\n54\n29\n25\n\n/",
+            "deaths": "35\n19\n16",
+            "fk": "100\n92\n108",
+            "hs%": "67%\n65%\n70%",
+            "kdr": "31\n20\n11",
+            "kills": "152",
+            "name": "fawn",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.72\n1.47",
+            "adr": "+24\n+5\n+19",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "71\n28\n43",
+            "fk": "193\n149\n233",
+            "hs%": "73%\n67%\n78%",
+            "kdr": "22\n10\n12",
+            "kills": "240",
+            "name": "bunnybee",
+            "team": null
+          },
+          {
+            "acs": "1.40\n1.11\n1.25",
+            "adr": "+18\n+11\n+7",
+            "agent": "",
+            "assists": "/\n\n48\n23\n25\n\n/",
+            "deaths": "66\n34\n32",
+            "fk": "172\n202\n145",
+            "hs%": "79%\n76%\n81%",
+            "kdr": "13\n7\n6",
+            "kills": "277",
+            "name": "bungee",
+            "team": null
+          },
+          {
+            "acs": "1.14\n0.94\n1.03",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n49\n22\n27\n\n/",
+            "deaths": "58\n29\n29",
+            "fk": "147\n158\n137",
+            "hs%": "76%\n73%\n78%",
+            "kdr": "10\n4\n6",
+            "kills": "241",
+            "name": "Miku",
+            "team": null
+          },
+          {
+            "acs": "1.15\n0.91\n1.02",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n42\n18\n24\n\n/",
+            "deaths": "42\n21\n21",
+            "fk": "112\n109\n114",
+            "hs%": "79%\n79%\n78%",
+            "kdr": "23\n8\n15",
+            "kills": "168",
+            "name": "artStar",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.95\n0.87",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n50\n24\n26\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "110\n101\n118",
+            "hs%": "80%\n73%\n86%",
+            "kdr": "28\n14\n14",
+            "kills": "144",
+            "name": "starriebun",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "246",
+          "name": "Kazler",
+          "team": "YFP White"
+        },
+        {
+          "kills": "328",
+          "name": "Kamiunist",
+          "team": "YFP White"
+        },
+        {
+          "kills": "217",
+          "name": "Ltomlee",
+          "team": "YFP White"
+        },
+        {
+          "kills": "161",
+          "name": "fawn",
+          "team": "YFP White"
+        },
+        {
+          "kills": "162",
+          "name": "chip",
+          "team": "YFP White"
+        },
+        {
+          "kills": "275",
+          "name": "bungee",
+          "team": "XSET"
+        },
+        {
+          "kills": "371",
+          "name": "bunnybee",
+          "team": "XSET"
+        },
+        {
+          "kills": "202",
+          "name": "starriebun",
+          "team": "XSET"
+        },
+        {
+          "kills": "147",
+          "name": "artStar",
+          "team": "XSET"
+        },
+        {
+          "kills": "224",
+          "name": "Miku",
+          "team": "XSET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.66\n1.12",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "182\n202\n163",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "246",
+            "name": "Kazler",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.95\n0.56\n1.33",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "150\n89\n212",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "11\n5\n6",
+            "kills": "328",
+            "name": "Kamiunist",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.91\n0.71\n1.11",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "146\n134\n158",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "13\n8\n5",
+            "kills": "217",
+            "name": "Ltomlee",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.85\n0.66\n1.03",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "110\n97\n123",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "161",
+            "name": "fawn",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.62\n0.40\n0.84",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "92\n79\n105",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "162",
+            "name": "chip",
+            "team": "YFP White"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.59\n1.32",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "202\n239\n166",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "275",
+            "name": "bungee",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.42\n0.91\n1.93",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "194\n129\n258",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "371",
+            "name": "bunnybee",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.17\n1.10\n1.23",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "137\n134\n140",
+            "hs%": "92%\n83%\n100%",
+            "kdr": "15\n6\n9",
+            "kills": "202",
+            "name": "starriebun",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.84\n0.84\n0.83",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "83\n75\n92",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "147",
+            "name": "artStar",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.59\n0.26\n0.92",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "106\n91\n120",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "224",
+            "name": "Miku",
+            "team": "XSET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "218",
+          "name": "Ltomlee",
+          "team": "YFP White"
+        },
+        {
+          "kills": "209",
+          "name": "chip",
+          "team": "YFP White"
+        },
+        {
+          "kills": "206",
+          "name": "Kazler",
+          "team": "YFP White"
+        },
+        {
+          "kills": "157",
+          "name": "fawn",
+          "team": "YFP White"
+        },
+        {
+          "kills": "135",
+          "name": "Kamiunist",
+          "team": "YFP White"
+        },
+        {
+          "kills": "264",
+          "name": "Miku",
+          "team": "XSET"
+        },
+        {
+          "kills": "283",
+          "name": "bunnybee",
+          "team": "XSET"
+        },
+        {
+          "kills": "222",
+          "name": "artStar",
+          "team": "XSET"
+        },
+        {
+          "kills": "173",
+          "name": "starriebun",
+          "team": "XSET"
+        },
+        {
+          "kills": "195",
+          "name": "bungee",
+          "team": "XSET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "0.95\n1.33\n0.38",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n13\n1",
+            "fk": "151\n188\n97",
+            "hs%": "70%\n83%\n50%",
+            "kdr": "9\n7\n2",
+            "kills": "218",
+            "name": "Ltomlee",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.79\n0.60\n1.08",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "116\n107\n130",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "209",
+            "name": "chip",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.78\n0.63\n1.02",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "128\n90\n184",
+            "hs%": "60%\n58%\n63%",
+            "kdr": "4\n3\n1",
+            "kills": "206",
+            "name": "Kazler",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.72\n0.79\n0.63",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "91\n95\n84",
+            "hs%": "60%\n58%\n63%",
+            "kdr": "11\n8\n3",
+            "kills": "157",
+            "name": "fawn",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.62\n0.92\n0.18",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "104\n131\n63",
+            "hs%": "60%\n83%\n25%",
+            "kdr": "8\n6\n2",
+            "kills": "135",
+            "name": "Kamiunist",
+            "team": "YFP White"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n2.10\n1.00",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "179\n202\n164",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "264",
+            "name": "Miku",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.37\n1.12\n1.55",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "189\n138\n223",
+            "hs%": "65%\n50%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "283",
+            "name": "bunnybee",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.33\n1.52\n1.21",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "144\n124\n158",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "222",
+            "name": "artStar",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.04\n1.14\n0.98",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "110\n120\n103",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "173",
+            "name": "starriebun",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.93\n0.87\n0.97",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "135\n153\n122",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "4\n3\n1",
+            "kills": "195",
+            "name": "bungee",
+            "team": "XSET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 160600,
+  "teams": [
+    "XSET",
+    "YFP White"
+  ],
+  "tournament": "Virtual Qualifier: Playoffs: \n\t\t\t\t\t\tConsolation Final"
+}

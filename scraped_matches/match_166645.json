@@ -1,0 +1,788 @@
+{
+  "date": "2023-01-15 15:15:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "332",
+          "name": "lule",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "228",
+          "name": "Bia",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "170",
+          "name": "mizi",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "120",
+          "name": "blu",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "94",
+          "name": "isafx",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "379",
+          "name": "Akame",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "254",
+          "name": "fly",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "242",
+          "name": "covas",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "132",
+          "name": "Lua C",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "118",
+          "name": "Ender",
+          "team": "MOVE Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.54\n0.91\n2.01",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "25\n7\n18",
+            "fk": "200\n160\n230",
+            "hs%": "76%\n56%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "332",
+            "name": "lule",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.96\n0.56\n1.25",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "168\n82\n233",
+            "hs%": "71%\n56%\n83%",
+            "kdr": "11\n5\n6",
+            "kills": "228",
+            "name": "Bia",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.69\n0.58\n0.76",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "106\n101\n109",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "170",
+            "name": "mizi",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.57\n0.28\n0.78",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "84\n44\n115",
+            "hs%": "57%\n44%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "120",
+            "name": "blu",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.44\n0.30\n0.54",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "70\n66\n73",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "94",
+            "name": "isafx",
+            "team": "Black Dragons FEM"
+          }
+        ],
+        [
+          {
+            "acs": "1.70\n1.50\n1.97",
+            "adr": "+13\n+4\n+9",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "28\n14\n14",
+            "fk": "233\n224\n246",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "4\n1\n3",
+            "kills": "379",
+            "name": "Akame",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "1.33\n1.28\n1.40",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "170\n139\n211",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "9\n3\n6",
+            "kills": "254",
+            "name": "fly",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "1.14\n0.79\n1.60",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "165\n146\n190",
+            "hs%": "81%\n67%\n100%",
+            "kdr": "7\n1\n6",
+            "kills": "242",
+            "name": "covas",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "0.84\n0.55\n1.23",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n12\n0\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "87\n88\n85",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "132",
+            "name": "Lua C",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "0.68\n0.47\n0.96",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "86\n91\n79",
+            "hs%": "57%\n42%\n78%",
+            "kdr": "3\n2\n1",
+            "kills": "118",
+            "name": "Ender",
+            "team": "MOVE Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "225",
+          "name": "lule",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "mizi",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "Bia",
+          "team": null
+        },
+        {
+          "kills": "113",
+          "name": "blu",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "isafx",
+          "team": null
+        },
+        {
+          "kills": "324",
+          "name": "Akame",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "fly",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "covas",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "Ender",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "Lua C",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.90\n1.42\n1.18",
+            "adr": "+10\n-4\n+14",
+            "agent": "",
+            "assists": "/\n\n51\n27\n24\n\n/",
+            "deaths": "61\n23\n38",
+            "fk": "158\n137\n177",
+            "hs%": "69%\n58%\n78%",
+            "kdr": "11\n8\n3",
+            "kills": "225",
+            "name": "lule",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.29\n1.06",
+            "adr": "+3\n-6\n+9",
+            "agent": "",
+            "assists": "/\n\n47\n24\n23\n\n/",
+            "deaths": "50\n18\n32",
+            "fk": "132\n114\n148",
+            "hs%": "78%\n74%\n81%",
+            "kdr": "15\n8\n7",
+            "kills": "183",
+            "name": "mizi",
+            "team": null
+          },
+          {
+            "acs": "1.10\n0.97\n1.03",
+            "adr": "+1\n+7\n-6",
+            "agent": "",
+            "assists": "/\n\n50\n21\n29\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "152\n142\n161",
+            "hs%": "72%\n71%\n72%",
+            "kdr": "26\n11\n15",
+            "kills": "224",
+            "name": "Bia",
+            "team": null
+          },
+          {
+            "acs": "0.48\n1.09\n0.81",
+            "adr": "-12\n-13\n+1",
+            "agent": "",
+            "assists": "/\n\n50\n25\n25\n\n/",
+            "deaths": "38\n12\n26",
+            "fk": "115\n74\n150",
+            "hs%": "63%\n52%\n72%",
+            "kdr": "20\n8\n12",
+            "kills": "113",
+            "name": "blu",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.55\n0.68",
+            "adr": "-21\n-8\n-13",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "31\n19\n12",
+            "fk": "93\n110\n79",
+            "hs%": "67%\n74%\n61%",
+            "kdr": "23\n13\n10",
+            "kills": "172",
+            "name": "isafx",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.67\n1.53",
+            "adr": "+31\n+13\n+18",
+            "agent": "",
+            "assists": "/\n\n52\n28\n24\n\n/",
+            "deaths": "83\n41\n42",
+            "fk": "226\n198\n259",
+            "hs%": "75%\n64%\n87%",
+            "kdr": "13\n4\n9",
+            "kills": "324",
+            "name": "Akame",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.16\n1.09",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "51\n27\n24",
+            "fk": "145\n127\n165",
+            "hs%": "84%\n81%\n87%",
+            "kdr": "24\n10\n14",
+            "kills": "197",
+            "name": "fly",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.18\n1.03",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "47\n23\n24",
+            "fk": "138\n135\n141",
+            "hs%": "76%\n72%\n81%",
+            "kdr": "18\n9\n9",
+            "kills": "183",
+            "name": "covas",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.90\n0.87",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n45\n27\n18\n\n/",
+            "deaths": "40\n23\n17",
+            "fk": "123\n134\n111",
+            "hs%": "69%\n58%\n81%",
+            "kdr": "9\n5\n4",
+            "kills": "189",
+            "name": "Ender",
+            "team": null
+          },
+          {
+            "acs": "0.52\n0.96\n0.72",
+            "adr": "-13\n-15\n+2",
+            "agent": "",
+            "assists": "/\n\n42\n29\n13\n\n/",
+            "deaths": "29\n14\n15",
+            "fk": "86\n81\n90",
+            "hs%": "70%\n69%\n71%",
+            "kdr": "20\n14\n6",
+            "kills": "121",
+            "name": "Lua C",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "238",
+          "name": "Bia",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "205",
+          "name": "mizi",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "180",
+          "name": "isafx",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "243",
+          "name": "lule",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "267",
+          "name": "blu",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "251",
+          "name": "Akame",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "278",
+          "name": "fly",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "159",
+          "name": "covas",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "131",
+          "name": "Lua C",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "195",
+          "name": "Ender",
+          "team": "MOVE Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.68\n2.06\n1.37",
+            "adr": "+13\n+10\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "195\n244\n154",
+            "hs%": "82%\n100%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "238",
+            "name": "Bia",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "1.08\n0.85\n1.27",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "110\n109\n112",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "205",
+            "name": "mizi",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "1.04\n1.30\n0.82",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "121\n124\n119",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "13\n7\n6",
+            "kills": "180",
+            "name": "isafx",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.95\n0.89\n1.00",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "152\n144\n158",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "7\n5\n2",
+            "kills": "243",
+            "name": "lule",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.92\n0.35\n1.40",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "140\n71\n197",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "267",
+            "name": "blu",
+            "team": "Black Dragons FEM"
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n1.27\n0.79",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "165\n162\n170",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "6\n3\n3",
+            "kills": "251",
+            "name": "Akame",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "0.98\n0.66\n1.37",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "132\n83\n190",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "278",
+            "name": "fly",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "0.94\n0.90\n0.98",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "121\n146\n91",
+            "hs%": "82%\n92%\n70%",
+            "kdr": "7\n5\n2",
+            "kills": "159",
+            "name": "covas",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "0.77\n0.73\n0.82",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "90\n97\n81",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "12\n9\n3",
+            "kills": "131",
+            "name": "Lua C",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "0.73\n0.73\n0.74",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "138\n137\n139",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "2\n2\n0",
+            "kills": "195",
+            "name": "Ender",
+            "team": "MOVE Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "275",
+          "name": "mizi",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "221",
+          "name": "lule",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "179",
+          "name": "blu",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "131",
+          "name": "isafx",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "143",
+          "name": "Bia",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "439",
+          "name": "Akame",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "194",
+          "name": "Ender",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "180",
+          "name": "covas",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "192",
+          "name": "fly",
+          "team": "MOVE Gaming"
+        },
+        {
+          "kills": "103",
+          "name": "Lua C",
+          "team": "MOVE Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.38\n0.92\n1.84",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "176\n129\n222",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "275",
+            "name": "mizi",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "1.07\n0.89\n1.24",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "128\n114\n141",
+            "hs%": "58%\n58%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "221",
+            "name": "lule",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.92\n0.74\n1.09",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "119\n100\n137",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "9\n3\n6",
+            "kills": "179",
+            "name": "blu",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.57\n0.84\n0.29",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "88\n131\n45",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "7\n5\n2",
+            "kills": "131",
+            "name": "isafx",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.50\n0.71\n0.29",
+            "adr": "-9\n0\n-9",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "99\n102\n96",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "143",
+            "name": "Bia",
+            "team": "Black Dragons FEM"
+          }
+        ],
+        [
+          {
+            "acs": "1.82\n1.47\n2.17",
+            "adr": "+19\n+7\n+12",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "37\n16\n21",
+            "fk": "276\n208\n344",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "439",
+            "name": "Akame",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "1.16\n1.33\n0.99",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "142\n173\n111",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "194",
+            "name": "Ender",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "1.02\n1.01\n1.03",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "130\n113\n147",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "180",
+            "name": "covas",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "0.98\n1.16\n0.79",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "135\n160\n111",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "11\n5\n6",
+            "kills": "192",
+            "name": "fly",
+            "team": "MOVE Gaming"
+          },
+          {
+            "acs": "0.58\n0.28\n0.88",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "80\n59\n102",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "5\n2\n3",
+            "kills": "103",
+            "name": "Lua C",
+            "team": "MOVE Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 166645,
+  "teams": [
+    "MOVE Gaming",
+    "Black Dragons FEM"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tConsolation Final"
+}

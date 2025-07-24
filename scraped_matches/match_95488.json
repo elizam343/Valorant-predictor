@@ -1,0 +1,788 @@
+{
+  "date": "2022-04-30 07:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "216",
+          "name": "SkRossi",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "207",
+          "name": "Lightningfast",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "132",
+          "name": "HellrangeR",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "150",
+          "name": "KappA",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "47",
+          "name": "skillZ",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "250",
+          "name": "rawfiul",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "237",
+          "name": "RvK",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "171",
+          "name": "Antidote",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "239",
+          "name": "Excali",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "191",
+          "name": "Rexy",
+          "team": "Enigma Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.09\n1.21\n0.80",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "147\n140\n163",
+            "hs%": "65%\n75%\n40%",
+            "kdr": "5\n2\n3",
+            "kills": "216",
+            "name": "SkRossi",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.86\n0.58\n1.53",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "134\n99\n218",
+            "hs%": "47%\n42%\n60%",
+            "kdr": "1\n1\n0",
+            "kills": "207",
+            "name": "Lightningfast",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.75\n0.84\n0.54",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "91\n106\n56",
+            "hs%": "53%\n58%\n40%",
+            "kdr": "2\n2\n0",
+            "kills": "132",
+            "name": "HellrangeR",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.63\n0.65\n0.58",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "114\n124\n89",
+            "hs%": "71%\n67%\n80%",
+            "kdr": "3\n2\n1",
+            "kills": "150",
+            "name": "KappA",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.25\n0.43\n0.01",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "2\n2\n0",
+            "fk": "32\n45",
+            "hs%": "53%\n75%",
+            "kdr": "6\n6\n0",
+            "kills": "47",
+            "name": "skillZ",
+            "team": "Global Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.65\n2.42\n1.33",
+            "adr": "+10\n+6\n+4",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "152\n238\n116",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "3\n2\n1",
+            "kills": "250",
+            "name": "rawfiul",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "1.42\n1.07\n1.57",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "159\n90\n188",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "237",
+            "name": "RvK",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "1.26\n0.81\n1.44",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n5\n2\n3\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "106\n72\n120",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "171",
+            "name": "Antidote",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "1.13\n1.69\n0.89",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "148\n241\n109",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "239",
+            "name": "Excali",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.84\n0.60\n0.94",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "10\n0\n10",
+            "fk": "107\n13\n146",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "11\n5\n6",
+            "kills": "191",
+            "name": "Rexy",
+            "team": "Enigma Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "222",
+          "name": "SkRossi",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "KappA",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "HellrangeR",
+          "team": null
+        },
+        {
+          "kills": "146",
+          "name": "Lightningfast",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "skillZ",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "Antidote",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "rawfiul",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "RvK",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "Excali",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "Rexy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.05\n1.25\n1.14",
+            "adr": "+13\n+2\n+11",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "62\n29\n33",
+            "fk": "158\n139\n180",
+            "hs%": "74%\n69%\n78%",
+            "kdr": "10\n4\n6",
+            "kills": "222",
+            "name": "SkRossi",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.36\n1.01",
+            "adr": "-4\n-14\n+10",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "43\n13\n30",
+            "fk": "125\n95\n158",
+            "hs%": "75%\n67%\n84%",
+            "kdr": "23\n12\n11",
+            "kills": "129",
+            "name": "KappA",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.06\n0.96",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n50\n29\n21\n\n/",
+            "deaths": "46\n23\n23",
+            "fk": "120\n110\n131",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "10\n5\n5",
+            "kills": "178",
+            "name": "HellrangeR",
+            "team": null
+          },
+          {
+            "acs": "0.65\n1.01\n0.82",
+            "adr": "-11\n-11\n0",
+            "agent": "",
+            "assists": "/\n\n51\n28\n23\n\n/",
+            "deaths": "40\n17\n23",
+            "fk": "127\n111\n145",
+            "hs%": "59%\n50%\n69%",
+            "kdr": "14\n3\n11",
+            "kills": "146",
+            "name": "Lightningfast",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.71\n0.81",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "106\n116\n95",
+            "hs%": "66%\n67%\n66%",
+            "kdr": "15\n10\n5",
+            "kills": "170",
+            "name": "skillZ",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.96\n1.36\n1.17",
+            "adr": "+10\n-4\n+14",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "55\n22\n33",
+            "fk": "136\n130\n141",
+            "hs%": "75%\n72%\n78%",
+            "kdr": "13\n6\n7",
+            "kills": "196",
+            "name": "Antidote",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.38\n1.13",
+            "adr": "+12\n-4\n+16",
+            "agent": "",
+            "assists": "/\n\n44\n27\n17\n\n/",
+            "deaths": "56\n23\n33",
+            "fk": "141\n128\n153",
+            "hs%": "76%\n66%\n86%",
+            "kdr": "8\n4\n4",
+            "kills": "191",
+            "name": "rawfiul",
+            "team": null
+          },
+          {
+            "acs": "1.04\n1.05\n1.04",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "47\n23\n24",
+            "fk": "121\n129\n113",
+            "hs%": "69%\n72%\n67%",
+            "kdr": "10\n2\n8",
+            "kills": "189",
+            "name": "RvK",
+            "team": null
+          },
+          {
+            "acs": "0.73\n1.15\n0.95",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "48\n21\n27",
+            "fk": "141\n122\n158",
+            "hs%": "66%\n59%\n72%",
+            "kdr": "21\n7\n14",
+            "kills": "201",
+            "name": "Excali",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.73\n0.79",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n50\n25\n25\n\n/",
+            "deaths": "39\n20\n19",
+            "fk": "112\n121\n105",
+            "hs%": "60%\n59%\n61%",
+            "kdr": "18\n9\n9",
+            "kills": "185",
+            "name": "Rexy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "302",
+          "name": "KappA",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "254",
+          "name": "SkRossi",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "259",
+          "name": "HellrangeR",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "156",
+          "name": "Lightningfast",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "134",
+          "name": "skillZ",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "216",
+          "name": "RvK",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "111",
+          "name": "Rexy",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "219",
+          "name": "rawfiul",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "127",
+          "name": "Antidote",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "143",
+          "name": "Excali",
+          "team": "Enigma Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.55\n1.23\n1.78",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "152\n115\n179",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "302",
+            "name": "KappA",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.30\n1.63\n1.05",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "168\n175\n162",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "254",
+            "name": "SkRossi",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.02\n0.77\n1.20",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "135\n90\n170",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "259",
+            "name": "HellrangeR",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.84\n0.98\n0.74",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "120\n125\n116",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "156",
+            "name": "Lightningfast",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.81\n1.43\n0.33",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "131\n184\n90",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "134",
+            "name": "skillZ",
+            "team": "Global Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n1.31\n1.41",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "155\n170\n136",
+            "hs%": "76%\n92%\n56%",
+            "kdr": "4\n2\n2",
+            "kills": "216",
+            "name": "RvK",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "1.10\n1.53\n0.51",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "20\n17\n3",
+            "fk": "173\n237\n87",
+            "hs%": "67%\n83%\n44%",
+            "kdr": "3\n1\n2",
+            "kills": "111",
+            "name": "Rexy",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.81\n0.62\n1.06",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "127\n116\n142",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "3\n2\n1",
+            "kills": "219",
+            "name": "rawfiul",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.77\n1.13\n0.29",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "127\n172\n69",
+            "hs%": "71%\n92%\n44%",
+            "kdr": "3\n2\n1",
+            "kills": "127",
+            "name": "Antidote",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.35\n0.18\n0.56",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "65\n49\n87",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "13\n6\n7",
+            "kills": "143",
+            "name": "Excali",
+            "team": "Enigma Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "207",
+          "name": "skillZ",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "241",
+          "name": "SkRossi",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "191",
+          "name": "HellrangeR",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "177",
+          "name": "KappA",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "169",
+          "name": "Lightningfast",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "256",
+          "name": "Antidote",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "278",
+          "name": "Excali",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "239",
+          "name": "rawfiul",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "115",
+          "name": "RvK",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "95",
+          "name": "Rexy",
+          "team": "Enigma Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.00\n1.25",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "131\n132\n130",
+            "hs%": "67%\n47%\n87%",
+            "kdr": "4\n2\n2",
+            "kills": "207",
+            "name": "skillZ",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.06\n0.56\n1.57",
+            "adr": "+7\n-4\n+11",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "27\n8\n19",
+            "fk": "158\n116\n200",
+            "hs%": "77%\n60%\n93%",
+            "kdr": "4\n2\n2",
+            "kills": "241",
+            "name": "SkRossi",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.04\n0.97\n1.12",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "125\n125\n125",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "4\n1\n3",
+            "kills": "191",
+            "name": "HellrangeR",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.84\n0.39\n1.29",
+            "adr": "-5\n-10\n+5",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "111\n60\n163",
+            "hs%": "70%\n53%\n87%",
+            "kdr": "11\n5\n6",
+            "kills": "177",
+            "name": "KappA",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.77\n0.50\n1.05",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n23\n14\n9\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "128\n114\n143",
+            "hs%": "60%\n47%\n73%",
+            "kdr": "9\n1\n8",
+            "kills": "169",
+            "name": "Lightningfast",
+            "team": "Global Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n0.88\n1.94",
+            "adr": "+7\n-4\n+11",
+            "agent": "",
+            "assists": "/\n\n21\n14\n7\n\n/",
+            "deaths": "28\n10\n18",
+            "fk": "159\n117\n201",
+            "hs%": "73%\n53%\n93%",
+            "kdr": "8\n3\n5",
+            "kills": "256",
+            "name": "Antidote",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "1.28\n0.84\n1.72",
+            "adr": "+7\n-3\n+10",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "27\n10\n17",
+            "fk": "190\n140\n239",
+            "hs%": "60%\n47%\n73%",
+            "kdr": "3\n0\n3",
+            "kills": "278",
+            "name": "Excali",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "1.06\n0.50\n1.61",
+            "adr": "+5\n-6\n+11",
+            "agent": "",
+            "assists": "/\n\n21\n14\n7\n\n/",
+            "deaths": "26\n8\n18",
+            "fk": "144\n100\n189",
+            "hs%": "73%\n60%\n87%",
+            "kdr": "2\n0\n2",
+            "kills": "239",
+            "name": "rawfiul",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.61\n0.82\n0.41",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "75\n109\n40",
+            "hs%": "57%\n53%\n60%",
+            "kdr": "3\n0\n3",
+            "kills": "115",
+            "name": "RvK",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.56\n0.42\n0.69",
+            "adr": "-12\n-10\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "73\n64\n83",
+            "hs%": "57%\n40%\n73%",
+            "kdr": "4\n3\n1",
+            "kills": "95",
+            "name": "Rexy",
+            "team": "Enigma Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 95488,
+  "teams": [
+    "Enigma Gaming",
+    "Global Esports"
+  ],
+  "tournament": "Souvenir Mumbai: \n\t\t\t\t\t\tRound 1"
+}

@@ -1,0 +1,806 @@
+{
+  "date": "2023-01-14 04:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "231",
+          "name": "Nayoung",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "171",
+          "name": "R3set",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "173",
+          "name": "BaekGu",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "225",
+          "name": "Nuta",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "97",
+          "name": "Xavier",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "356",
+          "name": "KIT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "251",
+          "name": "SKzombie",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "181",
+          "name": "Polance",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "179",
+          "name": "RDT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "165",
+          "name": "Taegeun",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.99\n1.16\n0.67",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "164\n183\n126",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "231",
+            "name": "Nayoung",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "0.97\n1.12\n0.67",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "116\n129\n92",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "171",
+            "name": "R3set",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "0.91\n0.88\n0.96",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "121\n125\n113",
+            "hs%": "67%\n75%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "173",
+            "name": "BaekGu",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "0.87\n0.73\n1.17",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "137\n112\n186",
+            "hs%": "61%\n50%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "225",
+            "name": "Nuta",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "0.13\n0.04\n0.38",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "69\n57\n92",
+            "hs%": "50%\n42%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "97",
+            "name": "Xavier",
+            "team": "GameCoach Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.74\n0.98\n2.12",
+            "adr": "+14\n+2\n+12",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "25\n6\n19",
+            "fk": "212\n120\n258",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "356",
+            "name": "KIT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "1.61\n1.96\n1.44",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "158\n162\n156",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "251",
+            "name": "SKzombie",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "1.19\n1.68\n0.94",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "113\n202\n69",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "13\n3\n10",
+            "kills": "181",
+            "name": "Polance",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "1.03\n1.40\n0.84",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "123\n152\n109",
+            "hs%": "89%\n100%\n83%",
+            "kdr": "14\n10\n4",
+            "kills": "179",
+            "name": "RDT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.84\n0.69\n0.92",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "119\n123\n117",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "165",
+            "name": "Taegeun",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "190",
+          "name": "Nuta",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "R3set",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "BaekGu",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "Nayoung",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "Xavier",
+          "team": null
+        },
+        {
+          "kills": "269",
+          "name": "KIT",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "SKzombie",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "RDT",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Taegeun",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "Polance",
+          "team": null
+        },
+        {
+          "kills": "79",
+          "name": "KAR GO AND KILL",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.79\n1.71\n1.19",
+            "adr": "+9\n-8\n+17",
+            "agent": "",
+            "assists": "/\n\n43\n30\n13\n\n/",
+            "deaths": "52\n22\n30",
+            "fk": "163\n122\n217",
+            "hs%": "73%\n64%\n85%",
+            "kdr": "15\n11\n4",
+            "kills": "190",
+            "name": "Nuta",
+            "team": null
+          },
+          {
+            "acs": "1.10\n1.26\n1.17",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n43\n26\n17\n\n/",
+            "deaths": "52\n29\n23",
+            "fk": "150\n141\n162",
+            "hs%": "71%\n69%\n74%",
+            "kdr": "20\n8\n12",
+            "kills": "217",
+            "name": "R3set",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.13\n1.06",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n38\n24\n14\n\n/",
+            "deaths": "42\n24\n18",
+            "fk": "117\n123\n109",
+            "hs%": "68%\n64%\n74%",
+            "kdr": "10\n7\n3",
+            "kills": "188",
+            "name": "BaekGu",
+            "team": null
+          },
+          {
+            "acs": "0.98\n0.90\n0.95",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n45\n28\n17\n\n/",
+            "deaths": "44\n27\n17",
+            "fk": "130\n144\n111",
+            "hs%": "79%\n78%\n81%",
+            "kdr": "30\n16\n14",
+            "kills": "219",
+            "name": "Nayoung",
+            "team": null
+          },
+          {
+            "acs": "0.63\n0.96\n0.76",
+            "adr": "-11\n-11\n0",
+            "agent": "",
+            "assists": "/\n\n50\n32\n18\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "123\n121\n126",
+            "hs%": "71%\n64%\n81%",
+            "kdr": "12\n7\n5",
+            "kills": "176",
+            "name": "Xavier",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.02\n1.42\n1.25",
+            "adr": "+17\n+2\n+15",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "64\n25\n39",
+            "fk": "177\n172\n181",
+            "hs%": "75%\n63%\n83%",
+            "kdr": "12\n3\n9",
+            "kills": "269",
+            "name": "KIT",
+            "team": null
+          },
+          {
+            "acs": "0.93\n1.20\n1.08",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n44\n18\n26\n\n/",
+            "deaths": "42\n14\n28",
+            "fk": "134\n109\n152",
+            "hs%": "68%\n59%\n75%",
+            "kdr": "30\n11\n19",
+            "kills": "164",
+            "name": "SKzombie",
+            "team": null
+          },
+          {
+            "acs": "0.73\n1.08\n0.93",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n46\n21\n25\n\n/",
+            "deaths": "38\n15\n23",
+            "fk": "115\n102\n126",
+            "hs%": "67%\n48%\n81%",
+            "kdr": "23\n10\n13",
+            "kills": "160",
+            "name": "RDT",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.06\n0.88",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "122\n107\n132",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "14\n1\n13",
+            "kills": "163",
+            "name": "Taegeun",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.90\n0.84",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "93\n101\n88",
+            "hs%": "72%\n60%\n79%",
+            "kdr": "23\n6\n17",
+            "kills": "145",
+            "name": "Polance",
+            "team": null
+          },
+          {
+            "acs": "0.51\n0.98\n0.75",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "101\n63\n139",
+            "hs%": "50%\n33%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "79",
+            "name": "KAR GO AND KILL",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "352",
+          "name": "Nuta",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "226",
+          "name": "Xavier",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "97",
+          "name": "BaekGu",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "294",
+          "name": "R3set",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "189",
+          "name": "Nayoung",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "265",
+          "name": "KIT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "215",
+          "name": "Taegeun",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "200",
+          "name": "SKzombie",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "150",
+          "name": "RDT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "170",
+          "name": "Polance",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.52\n1.07\n2.12",
+            "adr": "+10\n+1\n+9",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "184\n136\n249",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "5\n3\n2",
+            "kills": "352",
+            "name": "Nuta",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "1.23\n1.25\n1.20",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "170\n187\n147",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "3\n1\n2",
+            "kills": "226",
+            "name": "Xavier",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "1.12\n1.55\n0.55",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "122\n160\n72",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "97",
+            "name": "BaekGu",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "0.94\n0.76\n1.19",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "136\n113\n166",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "6\n3\n3",
+            "kills": "294",
+            "name": "R3set",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "0.78\n0.59\n1.05",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "97\n100\n93",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "189",
+            "name": "Nayoung",
+            "team": "GameCoach Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n1.27\n1.10",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "181\n226\n148",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "265",
+            "name": "KIT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.87\n0.75\n0.96",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "138\n139\n137",
+            "hs%": "48%\n44%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "215",
+            "name": "Taegeun",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.82\n0.62\n0.97",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "117\n82\n144",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "8\n2\n6",
+            "kills": "200",
+            "name": "SKzombie",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.78\n0.62\n0.91",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "100\n93\n106",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "150",
+            "name": "RDT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.55\n0.12\n0.86",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "76\n34\n107",
+            "hs%": "57%\n44%\n67%",
+            "kdr": "10\n3\n7",
+            "kills": "170",
+            "name": "Polance",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "304",
+          "name": "R3set",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "215",
+          "name": "Nuta",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "175",
+          "name": "BaekGu",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "215",
+          "name": "Nayoung",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "201",
+          "name": "Xavier",
+          "team": "GameCoach Academy"
+        },
+        {
+          "kills": "209",
+          "name": "RDT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "207",
+          "name": "KIT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "184",
+          "name": "SKzombie",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "182",
+          "name": "Taegeun",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "160",
+          "name": "KAR GO AND KILL",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.52\n1.42\n1.62",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "189\n183\n195",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "304",
+            "name": "R3set",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "1.12\n0.58\n1.67",
+            "adr": "+2\n-6\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "164\n118\n209",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "8\n6\n2",
+            "kills": "215",
+            "name": "Nuta",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "1.12\n0.59\n1.64",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "110\n85\n136",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "5\n4\n1",
+            "kills": "175",
+            "name": "BaekGu",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "1.05\n1.21\n0.90",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "133\n150\n117",
+            "hs%": "79%\n92%\n67%",
+            "kdr": "16\n8\n8",
+            "kills": "215",
+            "name": "Nayoung",
+            "team": "GameCoach Academy"
+          },
+          {
+            "acs": "0.83\n0.59\n1.07",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "122\n117\n127",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "5\n4\n1",
+            "kills": "201",
+            "name": "Xavier",
+            "team": "GameCoach Academy"
+          }
+        ],
+        [
+          {
+            "acs": "0.98\n0.47\n1.50",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "123\n83\n163",
+            "hs%": "54%\n17%\n92%",
+            "kdr": "6\n0\n6",
+            "kills": "209",
+            "name": "RDT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.95\n0.86\n1.04",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "148\n158\n138",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "207",
+            "name": "KIT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.92\n0.65\n1.20",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "130\n104\n157",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "13\n6\n7",
+            "kills": "184",
+            "name": "SKzombie",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.91\n0.52\n1.30",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "110\n76\n143",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "7\n0\n7",
+            "kills": "182",
+            "name": "Taegeun",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.75\n0.51\n0.98",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "101\n63\n139",
+            "hs%": "50%\n33%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "160",
+            "name": "KAR GO AND KILL",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 166494,
+  "teams": [
+    "\uc880\ube44 \uc544\uce74\ub370\ubbf8",
+    "GameCoach Academy"
+  ],
+  "tournament": "Open Qualifier - Group 4: \n\t\t\t\t\t\tSemifinals"
+}

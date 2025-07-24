@@ -1,0 +1,788 @@
+{
+  "date": "2022-05-28 03:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "341",
+          "name": "muffinloop",
+          "team": "Asteria"
+        },
+        {
+          "kills": "273",
+          "name": "kxtharsis",
+          "team": "Asteria"
+        },
+        {
+          "kills": "245",
+          "name": "Meow16K",
+          "team": "Asteria"
+        },
+        {
+          "kills": "192",
+          "name": "BriTSy",
+          "team": "Asteria"
+        },
+        {
+          "kills": "143",
+          "name": "KiRi",
+          "team": "Asteria"
+        },
+        {
+          "kills": "227",
+          "name": "rainbowbunny",
+          "team": "Stellar"
+        },
+        {
+          "kills": "190",
+          "name": "Rosa",
+          "team": "Stellar"
+        },
+        {
+          "kills": "176",
+          "name": "irya",
+          "team": "Stellar"
+        },
+        {
+          "kills": "149",
+          "name": "bethany",
+          "team": "Stellar"
+        },
+        {
+          "kills": "149",
+          "name": "Nila",
+          "team": "Stellar"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.73\n1.58\n2.00",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "222\n219\n227",
+            "hs%": "84%\n75%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "341",
+            "name": "muffinloop",
+            "team": "Asteria"
+          },
+          {
+            "acs": "1.48\n1.44\n1.55",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "186\n196\n169",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "12\n8\n4",
+            "kills": "273",
+            "name": "kxtharsis",
+            "team": "Asteria"
+          },
+          {
+            "acs": "1.25\n1.24\n1.26",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "172\n141\n225",
+            "hs%": "79%\n83%\n71%",
+            "kdr": "4\n3\n1",
+            "kills": "245",
+            "name": "Meow16K",
+            "team": "Asteria"
+          },
+          {
+            "acs": "1.22\n1.25\n1.16",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "128\n152\n86",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "4\n3\n1",
+            "kills": "192",
+            "name": "BriTSy",
+            "team": "Asteria"
+          },
+          {
+            "acs": "0.84\n0.81\n0.90",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "105\n115\n89",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "143",
+            "name": "KiRi",
+            "team": "Asteria"
+          }
+        ],
+        [
+          {
+            "acs": "0.83\n0.41\n1.07",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "122\n77\n148",
+            "hs%": "68%\n43%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "227",
+            "name": "rainbowbunny",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.82\n1.59\n0.37",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "120\n140\n108",
+            "hs%": "68%\n86%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "190",
+            "name": "Rosa",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.74\n0.59\n0.83",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "107\n84\n120",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "176",
+            "name": "irya",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.60\n0.47\n0.67",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "98\n80\n109",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "7\n1\n6",
+            "kills": "149",
+            "name": "bethany",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.58\n0.03\n0.94",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "99\n66\n118",
+            "hs%": "58%\n43%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "149",
+            "name": "Nila",
+            "team": "Stellar"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "353",
+          "name": "muffinloop",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "BriTSy",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "KiRi",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Meow16K",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "kxtharsis",
+          "team": null
+        },
+        {
+          "kills": "355",
+          "name": "Rosa",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Nila",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "bethany",
+          "team": null
+        },
+        {
+          "kills": "228",
+          "name": "rainbowbunny",
+          "team": null
+        },
+        {
+          "kills": "140",
+          "name": "irya",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.73\n1.31\n1.54",
+            "adr": "+31\n+24\n+7",
+            "agent": "",
+            "assists": "/\n\n43\n22\n21\n\n/",
+            "deaths": "74\n46\n28",
+            "fk": "186\n218\n150",
+            "hs%": "82%\n83%\n81%",
+            "kdr": "13\n6\n7",
+            "kills": "353",
+            "name": "muffinloop",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.98\n1.02",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "48\n27\n21",
+            "fk": "134\n141\n125",
+            "hs%": "72%\n75%\n68%",
+            "kdr": "16\n8\n8",
+            "kills": "204",
+            "name": "BriTSy",
+            "team": null
+          },
+          {
+            "acs": "1.19\n0.59\n0.91",
+            "adr": "-1\n+9\n-10",
+            "agent": "",
+            "assists": "/\n\n48\n21\n27\n\n/",
+            "deaths": "47\n30\n17",
+            "fk": "123\n141\n103",
+            "hs%": "75%\n81%\n68%",
+            "kdr": "11\n7\n4",
+            "kills": "226",
+            "name": "KiRi",
+            "team": null
+          },
+          {
+            "acs": "0.67\n1.09\n0.86",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n51\n28\n23\n\n/",
+            "deaths": "43\n19\n24",
+            "fk": "134\n107\n167",
+            "hs%": "63%\n64%\n61%",
+            "kdr": "16\n8\n8",
+            "kills": "171",
+            "name": "Meow16K",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.73\n0.85",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n50\n24\n26\n\n/",
+            "deaths": "44\n24\n20",
+            "fk": "130\n133\n126",
+            "hs%": "73%\n78%\n68%",
+            "kdr": "26\n17\n9",
+            "kills": "180",
+            "name": "kxtharsis",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.74\n0.89\n1.28",
+            "adr": "+12\n+18\n-6",
+            "agent": "",
+            "assists": "/\n\n51\n20\n31\n\n/",
+            "deaths": "63\n38\n25",
+            "fk": "184\n227\n147",
+            "hs%": "66%\n81%\n53%",
+            "kdr": "19\n12\n7",
+            "kills": "355",
+            "name": "Rosa",
+            "team": null
+          },
+          {
+            "acs": "0.68\n1.50\n1.12",
+            "adr": "+3\n-10\n+13",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "54\n16\n38",
+            "fk": "137\n102\n167",
+            "hs%": "73%\n65%\n81%",
+            "kdr": "12\n9\n3",
+            "kills": "167",
+            "name": "Nila",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.79\n0.89",
+            "adr": "-10\n+1\n-11",
+            "agent": "",
+            "assists": "/\n\n49\n21\n28\n\n/",
+            "deaths": "39\n22\n17",
+            "fk": "108\n115\n101",
+            "hs%": "72%\n74%\n69%",
+            "kdr": "26\n10\n16",
+            "kills": "184",
+            "name": "bethany",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.65\n0.81",
+            "adr": "-9\n0\n-9",
+            "agent": "",
+            "assists": "/\n\n56\n25\n31\n\n/",
+            "deaths": "47\n25\n22",
+            "fk": "125\n142\n111",
+            "hs%": "66%\n74%\n58%",
+            "kdr": "21\n11\n10",
+            "kills": "228",
+            "name": "rainbowbunny",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.56\n0.73",
+            "adr": "-16\n-1\n-15",
+            "agent": "",
+            "assists": "/\n\n49\n18\n31\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "80\n81\n80",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "24\n13\n11",
+            "kills": "140",
+            "name": "irya",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "187",
+          "name": "muffinloop",
+          "team": "Asteria"
+        },
+        {
+          "kills": "205",
+          "name": "KiRi",
+          "team": "Asteria"
+        },
+        {
+          "kills": "114",
+          "name": "BriTSy",
+          "team": "Asteria"
+        },
+        {
+          "kills": "216",
+          "name": "Meow16K",
+          "team": "Asteria"
+        },
+        {
+          "kills": "76",
+          "name": "kxtharsis",
+          "team": "Asteria"
+        },
+        {
+          "kills": "263",
+          "name": "Rosa",
+          "team": "Stellar"
+        },
+        {
+          "kills": "438",
+          "name": "Nila",
+          "team": "Stellar"
+        },
+        {
+          "kills": "158",
+          "name": "rainbowbunny",
+          "team": "Stellar"
+        },
+        {
+          "kills": "113",
+          "name": "bethany",
+          "team": "Stellar"
+        },
+        {
+          "kills": "155",
+          "name": "irya",
+          "team": "Stellar"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.53\n2.06\n1.00",
+            "adr": "+12\n+12\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "30\n21\n9",
+            "fk": "199\n275\n123",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "187",
+            "name": "muffinloop",
+            "team": "Asteria"
+          },
+          {
+            "acs": "1.17\n1.63\n0.72",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "147\n174\n120",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "205",
+            "name": "KiRi",
+            "team": "Asteria"
+          },
+          {
+            "acs": "0.71\n1.04\n0.38",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "107\n131\n84",
+            "hs%": "67%\n92%\n42%",
+            "kdr": "6\n3\n3",
+            "kills": "114",
+            "name": "BriTSy",
+            "team": "Asteria"
+          },
+          {
+            "acs": "0.45\n0.03\n0.95",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "102\n60\n144",
+            "hs%": "38%\n33%\n42%",
+            "kdr": "3\n2\n1",
+            "kills": "216",
+            "name": "Meow16K",
+            "team": "Asteria"
+          },
+          {
+            "acs": "0.25\n0.41\n0.08",
+            "adr": "-14\n-5\n-9",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "66\n79\n54",
+            "hs%": "58%\n67%\n50%",
+            "kdr": "9\n7\n2",
+            "kills": "76",
+            "name": "kxtharsis",
+            "team": "Asteria"
+          }
+        ],
+        [
+          {
+            "acs": "1.66\n2.29\n1.02",
+            "adr": "+12\n+13\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "28\n18\n10",
+            "fk": "231\n289\n173",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "263",
+            "name": "Rosa",
+            "team": "Stellar"
+          },
+          {
+            "acs": "1.35\n0.54\n2.16",
+            "adr": "+6\n-4\n+10",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "23\n4\n19",
+            "fk": "138\n36\n239",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "438",
+            "name": "Nila",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.99\n1.60\n0.37",
+            "adr": "+1\n+7\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "150\n190\n110",
+            "hs%": "75%\n92%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "158",
+            "name": "rainbowbunny",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.93\n1.30\n0.56",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "110\n138\n83",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "13\n7\n6",
+            "kills": "113",
+            "name": "bethany",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.92\n1.08\n0.76",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "82\n76\n89",
+            "hs%": "92%\n92%\n92%",
+            "kdr": "13\n9\n4",
+            "kills": "155",
+            "name": "irya",
+            "team": "Stellar"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "251",
+          "name": "muffinloop",
+          "team": "Asteria"
+        },
+        {
+          "kills": "240",
+          "name": "BriTSy",
+          "team": "Asteria"
+        },
+        {
+          "kills": "229",
+          "name": "Meow16K",
+          "team": "Asteria"
+        },
+        {
+          "kills": "217",
+          "name": "kxtharsis",
+          "team": "Asteria"
+        },
+        {
+          "kills": "159",
+          "name": "KiRi",
+          "team": "Asteria"
+        },
+        {
+          "kills": "262",
+          "name": "Nila",
+          "team": "Stellar"
+        },
+        {
+          "kills": "293",
+          "name": "Rosa",
+          "team": "Stellar"
+        },
+        {
+          "kills": "196",
+          "name": "bethany",
+          "team": "Stellar"
+        },
+        {
+          "kills": "166",
+          "name": "rainbowbunny",
+          "team": "Stellar"
+        },
+        {
+          "kills": "100",
+          "name": "irya",
+          "team": "Stellar"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.57\n1.23",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "146\n159\n132",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "251",
+            "name": "muffinloop",
+            "team": "Asteria"
+          },
+          {
+            "acs": "1.18\n0.91\n1.46",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "165\n140\n190",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "240",
+            "name": "BriTSy",
+            "team": "Asteria"
+          },
+          {
+            "acs": "0.95\n0.76\n1.14",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "137\n120\n155",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "9\n3\n6",
+            "kills": "229",
+            "name": "Meow16K",
+            "team": "Asteria"
+          },
+          {
+            "acs": "0.94\n0.99\n0.89",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "149\n126\n172",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "217",
+            "name": "kxtharsis",
+            "team": "Asteria"
+          },
+          {
+            "acs": "0.71\n1.14\n0.28",
+            "adr": "-4\n+3\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "114\n134\n94",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "159",
+            "name": "KiRi",
+            "team": "Asteria"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.20\n1.41",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "167\n190\n145",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "6\n6\n0",
+            "kills": "262",
+            "name": "Nila",
+            "team": "Stellar"
+          },
+          {
+            "acs": "1.27\n1.28\n1.27",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "188\n218\n159",
+            "hs%": "63%\n75%\n50%",
+            "kdr": "8\n4\n4",
+            "kills": "293",
+            "name": "Rosa",
+            "team": "Stellar"
+          },
+          {
+            "acs": "1.09\n1.05\n1.13",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "113\n114\n111",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "196",
+            "name": "bethany",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.61\n0.73\n0.49",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "103\n132\n75",
+            "hs%": "54%\n75%\n33%",
+            "kdr": "10\n8\n2",
+            "kills": "166",
+            "name": "rainbowbunny",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.54\n0.98\n0.10",
+            "adr": "-9\n+1\n-10",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "57\n85\n30",
+            "hs%": "54%\n67%\n42%",
+            "kdr": "7\n3\n4",
+            "kills": "100",
+            "name": "irya",
+            "team": "Stellar"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 103674,
+  "teams": [
+    "Asteria",
+    "Stellar"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup M"
+}

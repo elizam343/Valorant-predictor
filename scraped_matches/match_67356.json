@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-29 19:05:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "285",
+          "name": "thief",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "164",
+          "name": "wedid",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "199",
+          "name": "jmoh",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "200",
+          "name": "Critical",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "172",
+          "name": "jcStani",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "274",
+          "name": "Nanners",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "217",
+          "name": "duck",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "209",
+          "name": "shawn",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "202",
+          "name": "ohai",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "120",
+          "name": "royal",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.39\n1.44",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "30\n15\n15",
+            "fk": "186\n177\n196",
+            "hs%": "85%\n85%\n85%",
+            "kdr": "3\n1\n2",
+            "kills": "285",
+            "name": "thief",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "1.09\n1.00\n1.18",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "108\n101\n114",
+            "hs%": "73%\n54%\n92%",
+            "kdr": "11\n7\n4",
+            "kills": "164",
+            "name": "wedid",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "1.03\n0.77\n1.29",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "130\n94\n166",
+            "hs%": "81%\n69%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "199",
+            "name": "jmoh",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.93\n0.91\n0.95",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "129\n134\n125",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "14\n8\n6",
+            "kills": "200",
+            "name": "Critical",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.61\n0.31\n0.91",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "117\n74\n160",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "6\n3\n3",
+            "kills": "172",
+            "name": "jcStani",
+            "team": "Pioneers"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.35\n1.33",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "186\n179\n194",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "3\n2\n1",
+            "kills": "274",
+            "name": "Nanners",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.18\n0.95\n1.41",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "144\n122\n165",
+            "hs%": "58%\n38%\n77%",
+            "kdr": "6\n2\n4",
+            "kills": "217",
+            "name": "duck",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.98\n0.95\n1.01",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "146\n164\n129",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "10\n2\n8",
+            "kills": "209",
+            "name": "shawn",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.88\n0.54\n1.23",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "126\n87\n165",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "3\n1\n2",
+            "kills": "202",
+            "name": "ohai",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.62\n0.38\n0.86",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "85\n78\n91",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "8\n4\n4",
+            "kills": "120",
+            "name": "royal",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "302",
+          "name": "thief",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "Critical",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "jmoh",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "wedid",
+          "team": null
+        },
+        {
+          "kills": "99",
+          "name": "jcStani",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "duck",
+          "team": null
+        },
+        {
+          "kills": "254",
+          "name": "shawn",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "Nanners",
+          "team": null
+        },
+        {
+          "kills": "142",
+          "name": "ohai",
+          "team": null
+        },
+        {
+          "kills": "90",
+          "name": "royal",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.08\n1.28",
+            "adr": "+16\n+12\n+4",
+            "agent": "",
+            "assists": "/\n\n33\n18\n15\n\n/",
+            "deaths": "49\n30\n19",
+            "fk": "165\n187\n142",
+            "hs%": "79%\n81%\n77%",
+            "kdr": "8\n4\n4",
+            "kills": "302",
+            "name": "thief",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.21\n1.14",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n37\n21\n16\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "152\n155\n149",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "25\n14\n11",
+            "kills": "223",
+            "name": "Critical",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.21\n1.04",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n31\n17\n14\n\n/",
+            "deaths": "33\n13\n20",
+            "fk": "126\n99\n153",
+            "hs%": "75%\n69%\n81%",
+            "kdr": "8\n3\n5",
+            "kills": "152",
+            "name": "jmoh",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.08\n0.96",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n30\n16\n14\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "103\n76\n129",
+            "hs%": "67%\n62%\n73%",
+            "kdr": "21\n10\n11",
+            "kills": "121",
+            "name": "wedid",
+            "team": null
+          },
+          {
+            "acs": "0.32\n1.36\n0.84",
+            "adr": "-4\n-12\n+8",
+            "agent": "",
+            "assists": "/\n\n38\n20\n18\n\n/",
+            "deaths": "34\n8\n26",
+            "fk": "124\n61\n187",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "10\n5\n5",
+            "kills": "99",
+            "name": "jcStani",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.96\n1.48\n1.22",
+            "adr": "+6\n-4\n+10",
+            "agent": "",
+            "assists": "/\n\n36\n21\n15\n\n/",
+            "deaths": "42\n17\n25",
+            "fk": "158\n135\n182",
+            "hs%": "56%\n42%\n69%",
+            "kdr": "9\n4\n5",
+            "kills": "205",
+            "name": "duck",
+            "team": null
+          },
+          {
+            "acs": "1.20\n0.94\n1.07",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "36\n23\n13",
+            "fk": "136\n168\n104",
+            "hs%": "77%\n81%\n73%",
+            "kdr": "15\n3\n12",
+            "kills": "254",
+            "name": "shawn",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.18\n1.04",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "37\n16\n21",
+            "fk": "136\n120\n153",
+            "hs%": "67%\n50%\n85%",
+            "kdr": "5\n2\n3",
+            "kills": "176",
+            "name": "Nanners",
+            "team": null
+          },
+          {
+            "acs": "0.54\n1.28\n0.91",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n40\n22\n18\n\n/",
+            "deaths": "36\n13\n23",
+            "fk": "137\n87\n188",
+            "hs%": "67%\n58%\n77%",
+            "kdr": "11\n3\n8",
+            "kills": "142",
+            "name": "ohai",
+            "team": null
+          },
+          {
+            "acs": "0.44\n0.64\n0.54",
+            "adr": "-19\n-13\n-6",
+            "agent": "",
+            "assists": "/\n\n37\n21\n16\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "77\n74\n81",
+            "hs%": "63%\n54%\n73%",
+            "kdr": "13\n6\n7",
+            "kills": "90",
+            "name": "royal",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "224",
+          "name": "Critical",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "113",
+          "name": "thief",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "329",
+          "name": "jcStani",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "217",
+          "name": "jmoh",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "175",
+          "name": "wedid",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "291",
+          "name": "duck",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "121",
+          "name": "shawn",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "277",
+          "name": "ohai",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "154",
+          "name": "Nanners",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "101",
+          "name": "royal",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.25\n1.47",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "175\n176\n173",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "11\n6\n5",
+            "kills": "224",
+            "name": "Critical",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "1.14\n1.56\n0.72",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "19\n15\n4",
+            "fk": "143\n198\n88",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "5\n3\n2",
+            "kills": "113",
+            "name": "thief",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "1.07\n0.33\n1.81",
+            "adr": "+4\n-6\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "20\n3\n17",
+            "fk": "131\n49\n213",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "4\n2\n2",
+            "kills": "329",
+            "name": "jcStani",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "1.05\n0.97\n1.13",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "122\n103\n140",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "3\n1\n2",
+            "kills": "217",
+            "name": "jmoh",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.83\n0.69\n0.98",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "98\n52\n144",
+            "hs%": "62%\n69%\n54%",
+            "kdr": "10\n3\n7",
+            "kills": "175",
+            "name": "wedid",
+            "team": "Pioneers"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n0.97\n1.56",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "173\n147\n199",
+            "hs%": "54%\n46%\n62%",
+            "kdr": "3\n2\n1",
+            "kills": "291",
+            "name": "duck",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.16\n1.45\n0.86",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "126\n172\n80",
+            "hs%": "73%\n85%\n62%",
+            "kdr": "5\n1\n4",
+            "kills": "121",
+            "name": "shawn",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.94\n0.55\n1.33",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "149\n87\n211",
+            "hs%": "62%\n46%\n77%",
+            "kdr": "8\n2\n6",
+            "kills": "277",
+            "name": "ohai",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.73\n0.43\n1.03",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "86\n60\n113",
+            "hs%": "58%\n38%\n77%",
+            "kdr": "2\n0\n2",
+            "kills": "154",
+            "name": "Nanners",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.46\n0.49\n0.42",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "70\n70\n70",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "5\n2\n3",
+            "kills": "101",
+            "name": "royal",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 67356,
+  "teams": [
+    "Pioneers",
+    "BASILISK"
+  ],
+  "tournament": "Open Qualifier #1: \n\t\t\t\t\t\tLower Round 3"
+}

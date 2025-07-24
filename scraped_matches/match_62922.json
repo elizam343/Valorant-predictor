@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-13 02:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "311",
+          "name": "2766",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "260",
+          "name": "ZYND",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "154",
+          "name": "JoshF",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "211",
+          "name": "PatMen",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "146",
+          "name": "aimix",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "243",
+          "name": "tesseract",
+          "team": "Action PH"
+        },
+        {
+          "kills": "198",
+          "name": "modeskiii",
+          "team": "Action PH"
+        },
+        {
+          "kills": "209",
+          "name": "Georggyyy",
+          "team": "Action PH"
+        },
+        {
+          "kills": "161",
+          "name": "Emman",
+          "team": "Action PH"
+        },
+        {
+          "kills": "54",
+          "name": "Aryu",
+          "team": "Action PH"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.90\n2.48\n1.52",
+            "adr": "+16\n+11\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "188\n229\n161",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "8\n1\n7",
+            "kills": "311",
+            "name": "2766",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "1.39\n1.28\n1.47",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "181\n162\n194",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "260",
+            "name": "ZYND",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "1.00\n0.75\n1.16",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "91\n74\n103",
+            "hs%": "65%\n88%\n50%",
+            "kdr": "11\n7\n4",
+            "kills": "154",
+            "name": "JoshF",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "0.98\n0.72\n1.14",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "160\n142\n171",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "8\n4\n4",
+            "kills": "211",
+            "name": "PatMen",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "0.95\n0.98\n0.94",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "90\n82\n95",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "12\n5\n7",
+            "kills": "146",
+            "name": "aimix",
+            "team": "Sunsparks"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n0.95\n1.60",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "165\n131\n217",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "243",
+            "name": "tesseract",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.93\n1.19\n0.54",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "129\n153\n93",
+            "hs%": "60%\n58%\n63%",
+            "kdr": "0\n0\n0",
+            "kills": "198",
+            "name": "modeskiii",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.90\n0.96\n0.81",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "132\n140\n121",
+            "hs%": "60%\n50%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "209",
+            "name": "Georggyyy",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.72\n0.90\n0.44",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "122\n145\n88",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "10\n4\n6",
+            "kills": "161",
+            "name": "Emman",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.23\n0.04\n0.54",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "3\n0\n3",
+            "fk": "39\n29\n54",
+            "hs%": "40%\n42%\n38%",
+            "kdr": "5\n3\n2",
+            "kills": "54",
+            "name": "Aryu",
+            "team": "Action PH"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "243",
+          "name": "2766",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "ZYND",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "JoshF",
+          "team": null
+        },
+        {
+          "kills": "146",
+          "name": "aimix",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "PatMen",
+          "team": null
+        },
+        {
+          "kills": "231",
+          "name": "Georggyyy",
+          "team": null
+        },
+        {
+          "kills": "268",
+          "name": "Emman",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "tesseract",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "modeskiii",
+          "team": null
+        },
+        {
+          "kills": "58",
+          "name": "Aryu",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.25\n1.24",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n39\n25\n14\n\n/",
+            "deaths": "45\n28\n17",
+            "fk": "148\n155\n139",
+            "hs%": "72%\n69%\n76%",
+            "kdr": "19\n7\n12",
+            "kills": "243",
+            "name": "2766",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.47\n1.05",
+            "adr": "0\n-9\n+9",
+            "agent": "",
+            "assists": "/\n\n45\n28\n17\n\n/",
+            "deaths": "45\n19\n26",
+            "fk": "166\n136\n204",
+            "hs%": "65%\n59%\n72%",
+            "kdr": "13\n8\n5",
+            "kills": "196",
+            "name": "ZYND",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.14\n0.90",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n41\n28\n13\n\n/",
+            "deaths": "37\n19\n18",
+            "fk": "101\n94\n109",
+            "hs%": "68%\n72%\n64%",
+            "kdr": "17\n13\n4",
+            "kills": "153",
+            "name": "JoshF",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.94\n0.81",
+            "adr": "-12\n-11\n-1",
+            "agent": "",
+            "assists": "/\n\n45\n28\n17\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "93\n84\n104",
+            "hs%": "61%\n53%\n72%",
+            "kdr": "27\n12\n15",
+            "kills": "146",
+            "name": "aimix",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.97\n0.75",
+            "adr": "-12\n-11\n-1",
+            "agent": "",
+            "assists": "/\n\n46\n29\n17\n\n/",
+            "deaths": "34\n18\n16",
+            "fk": "138\n125\n154",
+            "hs%": "65%\n63%\n68%",
+            "kdr": "13\n7\n6",
+            "kills": "185",
+            "name": "PatMen",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.99\n1.50\n1.28",
+            "adr": "+17\n+2\n+15",
+            "agent": "",
+            "assists": "/\n\n41\n19\n22\n\n/",
+            "deaths": "58\n21\n37",
+            "fk": "180\n148\n205",
+            "hs%": "74%\n52%\n91%",
+            "kdr": "9\n0\n9",
+            "kills": "231",
+            "name": "Georggyyy",
+            "team": null
+          },
+          {
+            "acs": "1.35\n1.01\n1.16",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n40\n21\n19\n\n/",
+            "deaths": "51\n27\n24",
+            "fk": "150\n173\n131",
+            "hs%": "77%\n76%\n78%",
+            "kdr": "20\n8\n12",
+            "kills": "268",
+            "name": "Emman",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.24\n1.10",
+            "adr": "+5\n-5\n+10",
+            "agent": "",
+            "assists": "/\n\n38\n19\n19\n\n/",
+            "deaths": "43\n14\n29",
+            "fk": "143\n120\n161",
+            "hs%": "81%\n64%\n94%",
+            "kdr": "24\n8\n16",
+            "kills": "177",
+            "name": "tesseract",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.92\n0.89",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n41\n19\n22\n\n/",
+            "deaths": "37\n13\n24",
+            "fk": "126\n117\n134",
+            "hs%": "74%\n64%\n81%",
+            "kdr": "11\n4\n7",
+            "kills": "170",
+            "name": "modeskiii",
+            "team": null
+          },
+          {
+            "acs": "0.29\n1.27\n0.84",
+            "adr": "-7\n-16\n+9",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "27\n3\n24",
+            "fk": "86\n48\n115",
+            "hs%": "72%\n60%\n81%",
+            "kdr": "22\n9\n13",
+            "kills": "58",
+            "name": "Aryu",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "202",
+          "name": "2766",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "9",
+          "name": "ZYND",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "225",
+          "name": "PatMen",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "117",
+          "name": "JoshF",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "266",
+          "name": "aimix",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "376",
+          "name": "Georggyyy",
+          "team": "Action PH"
+        },
+        {
+          "kills": "276",
+          "name": "Emman",
+          "team": "Action PH"
+        },
+        {
+          "kills": "186",
+          "name": "Aryu",
+          "team": "Action PH"
+        },
+        {
+          "kills": "243",
+          "name": "tesseract",
+          "team": "Action PH"
+        },
+        {
+          "kills": "170",
+          "name": "modeskiii",
+          "team": "Action PH"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.77\n0.69\n1.11",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "123\n121\n131",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "202",
+            "name": "2766",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "0.63\n0.87\n0.01",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "8\n8\n0",
+            "fk": "136\n167\n9",
+            "hs%": "67%\n75%\n33%",
+            "kdr": "5\n5\n0",
+            "kills": "9",
+            "name": "ZYND",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "0.55\n0.53\n0.65",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "118\n99\n196",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "225",
+            "name": "PatMen",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "0.52\n0.55\n0.40",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "84\n84\n83",
+            "hs%": "60%\n58%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "117",
+            "name": "JoshF",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "0.39\n0.25\n0.95",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "68\n42\n175",
+            "hs%": "33%\n25%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "266",
+            "name": "aimix",
+            "team": "Sunsparks"
+          }
+        ],
+        [
+          {
+            "acs": "1.99\n1.76\n2.05",
+            "adr": "+14\n+3\n+11",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "21\n4\n17",
+            "fk": "224\n165\n239",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "376",
+            "name": "Georggyyy",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.73\n3.87\n1.19",
+            "adr": "+14\n+7\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "197\n348\n159",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "276",
+            "name": "Emman",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.20\n0.38\n1.41",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "91\n9\n111",
+            "hs%": "93%\n67%\n100%",
+            "kdr": "8\n0\n8",
+            "kills": "186",
+            "name": "Aryu",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.20\n0.41\n1.40",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "12\n0\n12",
+            "fk": "126\n68\n140",
+            "hs%": "93%\n67%\n100%",
+            "kdr": "8\n2\n6",
+            "kills": "243",
+            "name": "tesseract",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.74\n1.04\n0.66",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "126\n148\n120",
+            "hs%": "87%\n67%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "170",
+            "name": "modeskiii",
+            "team": "Action PH"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "188",
+          "name": "JoshF",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "248",
+          "name": "ZYND",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "177",
+          "name": "aimix",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "192",
+          "name": "2766",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "188",
+          "name": "PatMen",
+          "team": "Sunsparks"
+        },
+        {
+          "kills": "220",
+          "name": "Emman",
+          "team": "Action PH"
+        },
+        {
+          "kills": "181",
+          "name": "Aryu",
+          "team": "Action PH"
+        },
+        {
+          "kills": "303",
+          "name": "Georggyyy",
+          "team": "Action PH"
+        },
+        {
+          "kills": "168",
+          "name": "modeskiii",
+          "team": "Action PH"
+        },
+        {
+          "kills": "200",
+          "name": "tesseract",
+          "team": "Action PH"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.06\n0.83\n1.35",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "120\n118\n123",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "5\n5\n0",
+            "kills": "188",
+            "name": "JoshF",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "1.03\n0.29\n1.91",
+            "adr": "0\n-8\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "172\n86\n275",
+            "hs%": "59%\n33%\n90%",
+            "kdr": "2\n2\n0",
+            "kills": "248",
+            "name": "ZYND",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "0.97\n0.99\n0.94",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "113\n129\n94",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "14\n7\n7",
+            "kills": "177",
+            "name": "aimix",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "0.96\n0.95\n0.97",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "128\n139\n115",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "5\n1\n4",
+            "kills": "192",
+            "name": "2766",
+            "team": "Sunsparks"
+          },
+          {
+            "acs": "0.69\n0.55\n0.85",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "131\n141\n120",
+            "hs%": "50%\n42%\n60%",
+            "kdr": "1\n1\n0",
+            "kills": "188",
+            "name": "PatMen",
+            "team": "Sunsparks"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n1.14\n1.21",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "142\n154\n132",
+            "hs%": "91%\n90%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "220",
+            "name": "Emman",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.14\n0.57\n1.62",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "125\n83\n159",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "9\n6\n3",
+            "kills": "181",
+            "name": "Aryu",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.13\n0.80\n1.41",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "193\n153\n226",
+            "hs%": "73%\n40%\n100%",
+            "kdr": "5\n0\n5",
+            "kills": "303",
+            "name": "Georggyyy",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.96\n0.38\n1.44",
+            "adr": "+1\n-6\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "125\n65\n174",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "168",
+            "name": "modeskiii",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.94\n1.04\n0.86",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "134\n123\n144",
+            "hs%": "82%\n60%\n100%",
+            "kdr": "12\n3\n9",
+            "kills": "200",
+            "name": "tesseract",
+            "team": "Action PH"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 62922,
+  "teams": [
+    "Action PH",
+    "Sunsparks"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tUpper Semifinals"
+}

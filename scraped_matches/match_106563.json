@@ -1,0 +1,788 @@
+{
+  "date": "2022-06-08 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "264",
+          "name": "Crazymojo",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "266",
+          "name": "GLYPH",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "275",
+          "name": "Sugarfree",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "277",
+          "name": "Magowi",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "186",
+          "name": "sacred",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "172",
+          "name": "Austeeno",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "115",
+          "name": "Arti",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "107",
+          "name": "Yugi",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "85",
+          "name": "jaewoo",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "122",
+          "name": "REC",
+          "team": "Noxious Green"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.77\n1.42\n1.83",
+            "adr": "+12\n+1\n+11",
+            "agent": "",
+            "assists": "/\n\n3\n1\n2\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "174\n141\n179",
+            "hs%": "93%\n50%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "264",
+            "name": "Crazymojo",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.71\n0.88\n1.85",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n5\n2\n3\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "193\n144\n201",
+            "hs%": "93%\n50%\n100%",
+            "kdr": "6\n0\n6",
+            "kills": "266",
+            "name": "GLYPH",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.63\n0.85\n1.76",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "14\n1\n13",
+            "fk": "171\n92\n184",
+            "hs%": "86%\n50%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "275",
+            "name": "Sugarfree",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.52\n1.70\n1.48",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "156\n182\n152",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "277",
+            "name": "Magowi",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.22\n0.26\n1.38",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "10\n0\n10",
+            "fk": "102\n0\n119",
+            "hs%": "79%\n50%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "186",
+            "name": "sacred",
+            "team": "H34DHUNT3RZ"
+          }
+        ],
+        [
+          {
+            "acs": "0.72\n0.72\n0.67",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "110\n114\n83",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "172",
+            "name": "Austeeno",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "0.47\n0.35\n1.23",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "73\n67\n109",
+            "hs%": "43%\n42%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "115",
+            "name": "Arti",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "0.38\n0.10\n2.03",
+            "adr": "-7\n-10\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "65\n44\n193",
+            "hs%": "43%\n33%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "107",
+            "name": "Yugi",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "0.33\n0.34\n0.24",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "62\n73",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "85",
+            "name": "jaewoo",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "0.12\n0.04\n0.62",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "74\n64\n134",
+            "hs%": "43%\n33%\n100%",
+            "kdr": "2\n0\n2",
+            "kills": "122",
+            "name": "REC",
+            "team": "Noxious Green"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "220",
+          "name": "Sugarfree",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "GLYPH",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "Crazymojo",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "Magowi",
+          "team": null
+        },
+        {
+          "kills": "106",
+          "name": "sacred",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Austeeno",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Arti",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "REC",
+          "team": null
+        },
+        {
+          "kills": "108",
+          "name": "jaewoo",
+          "team": null
+        },
+        {
+          "kills": "83",
+          "name": "Yugi",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.22\n1.56\n1.48",
+            "adr": "+20\n0\n+20",
+            "agent": "",
+            "assists": "/\n\n24\n8\n16\n\n/",
+            "deaths": "44\n8\n36",
+            "fk": "168\n141\n177",
+            "hs%": "79%\n75%\n81%",
+            "kdr": "13\n3\n10",
+            "kills": "220",
+            "name": "Sugarfree",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.55\n1.39",
+            "adr": "+15\n-2\n+17",
+            "agent": "",
+            "assists": "/\n\n25\n9\n16\n\n/",
+            "deaths": "40\n7\n33",
+            "fk": "154\n124\n164",
+            "hs%": "81%\n58%\n89%",
+            "kdr": "20\n4\n16",
+            "kills": "190",
+            "name": "GLYPH",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.36\n1.30",
+            "adr": "+15\n+1\n+14",
+            "agent": "",
+            "assists": "/\n\n24\n9\n15\n\n/",
+            "deaths": "39\n10\n29",
+            "fk": "157\n166\n154",
+            "hs%": "79%\n67%\n83%",
+            "kdr": "11\n3\n8",
+            "kills": "232",
+            "name": "Crazymojo",
+            "team": null
+          },
+          {
+            "acs": "0.70\n1.23\n1.09",
+            "adr": "+8\n-3\n+11",
+            "agent": "",
+            "assists": "/\n\n29\n8\n21\n\n/",
+            "deaths": "37\n5\n32",
+            "fk": "141\n90\n158",
+            "hs%": "75%\n67%\n78%",
+            "kdr": "20\n2\n18",
+            "kills": "124",
+            "name": "Magowi",
+            "team": null
+          },
+          {
+            "acs": "0.41\n1.28\n1.06",
+            "adr": "+2\n-7\n+9",
+            "agent": "",
+            "assists": "/\n\n34\n11\n23\n\n/",
+            "deaths": "36\n4\n32",
+            "fk": "125\n57\n147",
+            "hs%": "77%\n67%\n81%",
+            "kdr": "22\n5\n17",
+            "kills": "106",
+            "name": "sacred",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.80\n1.50\n0.98",
+            "adr": "-6\n-10\n+4",
+            "agent": "",
+            "assists": "/\n\n37\n31\n6\n\n/",
+            "deaths": "31\n21\n10",
+            "fk": "110\n97\n149",
+            "hs%": "65%\n61%\n75%",
+            "kdr": "11\n7\n4",
+            "kills": "173",
+            "name": "Austeeno",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.84\n0.86",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n39\n33\n6\n\n/",
+            "deaths": "32\n26\n6",
+            "fk": "123\n134\n89",
+            "hs%": "56%\n53%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "217",
+            "name": "Arti",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.90\n0.76",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n44\n34\n10\n\n/",
+            "deaths": "34\n25\n9",
+            "fk": "138\n128\n169",
+            "hs%": "63%\n53%\n92%",
+            "kdr": "8\n2\n6",
+            "kills": "217",
+            "name": "REC",
+            "team": null
+          },
+          {
+            "acs": "0.44\n1.02\n0.57",
+            "adr": "-20\n-21\n+1",
+            "agent": "",
+            "assists": "/\n\n38\n31\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "94\n89\n109",
+            "hs%": "60%\n56%\n75%",
+            "kdr": "11\n7\n4",
+            "kills": "108",
+            "name": "jaewoo",
+            "team": null
+          },
+          {
+            "acs": "0.23\n1.45\n0.53",
+            "adr": "-17\n-24\n+7",
+            "agent": "",
+            "assists": "/\n\n38\n33\n5\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "72\n56\n121",
+            "hs%": "54%\n47%\n75%",
+            "kdr": "13\n10\n3",
+            "kills": "83",
+            "name": "Yugi",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "277",
+          "name": "Sugarfree",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "140",
+          "name": "Crazymojo",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "158",
+          "name": "GLYPH",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "288",
+          "name": "sacred",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "170",
+          "name": "Magowi",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "253",
+          "name": "Austeeno",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "273",
+          "name": "REC",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "236",
+          "name": "jaewoo",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "108",
+          "name": "Arti",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "210",
+          "name": "Yugi",
+          "team": "Noxious Green"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.42\n0.97\n1.75",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "162\n142\n177",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "277",
+            "name": "Sugarfree",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.02\n1.18\n0.90",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "139\n175\n111",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "140",
+            "name": "Crazymojo",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "0.91\n0.90\n0.92",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "105\n119\n94",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "158",
+            "name": "GLYPH",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "0.89\n0.39\n1.26",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "127\n64\n174",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "11\n3\n8",
+            "kills": "288",
+            "name": "sacred",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "0.64\n0.45\n0.78",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "98\n75\n116",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "9\n1\n8",
+            "kills": "170",
+            "name": "Magowi",
+            "team": "H34DHUNT3RZ"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.00\n1.61",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "111\n79\n153",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "4\n2\n2",
+            "kills": "253",
+            "name": "Austeeno",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "1.12\n1.17\n1.06",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "174\n163\n187",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "4\n1\n3",
+            "kills": "273",
+            "name": "REC",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "1.03\n0.81\n1.31",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "126\n115\n141",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "6\n2\n4",
+            "kills": "236",
+            "name": "jaewoo",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "0.92\n1.02\n0.79",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "118\n149\n77",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "108",
+            "name": "Arti",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "0.92\n0.50\n1.48",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "92\n75\n115",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "9\n6\n3",
+            "kills": "210",
+            "name": "Yugi",
+            "team": "Noxious Green"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "307",
+          "name": "GLYPH",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "274",
+          "name": "Sugarfree",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "284",
+          "name": "Magowi",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "249",
+          "name": "Crazymojo",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "252",
+          "name": "sacred",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "289",
+          "name": "Arti",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "262",
+          "name": "REC",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "198",
+          "name": "Austeeno",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "71",
+          "name": "jaewoo",
+          "team": "Noxious Green"
+        },
+        {
+          "kills": "66",
+          "name": "Yugi",
+          "team": "Noxious Green"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.82\n1.19\n1.88",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "15\n1\n14",
+            "fk": "192\n130\n198",
+            "hs%": "92%\n100%\n92%",
+            "kdr": "8\n0\n8",
+            "kills": "307",
+            "name": "GLYPH",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.41\n4.16\n1.18",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n7\n0\n7\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "175\n234\n170",
+            "hs%": "69%\n100%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "274",
+            "name": "Sugarfree",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.38\n0.93\n1.41",
+            "adr": "+6\n\u00a0\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n0\n7\n\n/",
+            "deaths": "13\n0\n13",
+            "fk": "193\n33\n207",
+            "hs%": "77%\n100%\n75%",
+            "kdr": "7\n0\n7",
+            "kills": "284",
+            "name": "Magowi",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.27\n0.25\n1.35",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "12\n0\n12",
+            "fk": "169\n136\n172",
+            "hs%": "92%\n100%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "249",
+            "name": "Crazymojo",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.16\n0.79\n1.19",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "146\n105\n149",
+            "hs%": "85%\n100%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "252",
+            "name": "sacred",
+            "team": "H34DHUNT3RZ"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n1.23\n0.56",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "13\n12\n1",
+            "fk": "185\n187\n159",
+            "hs%": "62%\n58%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "289",
+            "name": "Arti",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "0.86\n0.94\n0.02",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n13\n1\n\n/",
+            "deaths": "11\n11\n0",
+            "fk": "150\n157\n78",
+            "hs%": "54%\n50%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "262",
+            "name": "REC",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "0.79\n0.67\n2.16",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "109\n97\n243",
+            "hs%": "62%\n58%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "198",
+            "name": "Austeeno",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "0.11\n0.16\n0.01",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "2\n2\n0",
+            "fk": "74\n77\n30",
+            "hs%": "46%\n42%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "71",
+            "name": "jaewoo",
+            "team": "Noxious Green"
+          },
+          {
+            "acs": "0.06\n0.08\n0.01",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "2\n2\n0",
+            "fk": "47\n49\n26",
+            "hs%": "46%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "66",
+            "name": "Yugi",
+            "team": "Noxious Green"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 106563,
+  "teams": [
+    "H34DHUNT3RZ",
+    "Noxious Green"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tRound of 64"
+}

@@ -1,0 +1,734 @@
+{
+  "date": "2022-03-08 17:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "369",
+          "name": "sym",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "204",
+          "name": "xprt",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "240",
+          "name": "SkrubbleBubble",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "199",
+          "name": "Bankroft",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "151",
+          "name": "Pr0phie",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "180",
+          "name": "Harmon",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "189",
+          "name": "bm1",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "180",
+          "name": "Winsum",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "131",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.78\n1.53\n1.97",
+            "adr": "+16\n+7\n+9",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "28\n12\n16",
+            "fk": "240\n227\n250",
+            "hs%": "95%\n100%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "369",
+            "name": "sym",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.40\n1.40\n1.40",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "132\n115\n144",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "204",
+            "name": "xprt",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.26\n1.60\n1.01",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "143\n170\n123",
+            "hs%": "90%\n100%\n83%",
+            "kdr": "15\n8\n7",
+            "kills": "240",
+            "name": "SkrubbleBubble",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.07\n1.05\n1.09",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "120\n130\n112",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "199",
+            "name": "Bankroft",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.73\n0.95\n0.56",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "116\n108\n123",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "8\n6\n2",
+            "kills": "151",
+            "name": "Pr0phie",
+            "team": "Nearest Airport"
+          }
+        ],
+        [
+          {
+            "acs": "0.86\n0.95\n0.73",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "109\n103\n118",
+            "hs%": "67%\n83%\n44%",
+            "kdr": "4\n4\n0",
+            "kills": "180",
+            "name": "Harmon",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.86\n0.84\n0.89",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "117\n126\n106",
+            "hs%": "52%\n67%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "189",
+            "name": "bm1",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.71\n0.81\n0.59",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "123\n141\n99",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "7\n5\n2",
+            "kills": "180",
+            "name": "Winsum",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.58\n0.53\n0.64",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "96\n81\n117",
+            "hs%": "43%\n50%\n33%",
+            "kdr": "2\n1\n1",
+            "kills": "131",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "297",
+          "name": "sym",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "xprt",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "Bankroft",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "SkrubbleBubble",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "Pr0phie",
+          "team": null
+        },
+        {
+          "kills": "265",
+          "name": "Winsum",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "bm1",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "Okin",
+          "team": null
+        },
+        {
+          "kills": "142",
+          "name": "Harmon",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "MOCKING",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.72\n1.48",
+            "adr": "+30\n+11\n+19",
+            "agent": "",
+            "assists": "/\n\n42\n24\n18\n\n/",
+            "deaths": "72\n35\n37",
+            "fk": "207\n185\n234",
+            "hs%": "78%\n76%\n81%",
+            "kdr": "8\n3\n5",
+            "kills": "297",
+            "name": "sym",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.18\n1.18",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n30\n16\n14\n\n/",
+            "deaths": "41\n21\n20",
+            "fk": "115\n108\n122",
+            "hs%": "88%\n88%\n89%",
+            "kdr": "19\n10\n9",
+            "kills": "173",
+            "name": "xprt",
+            "team": null
+          },
+          {
+            "acs": "1.21\n1.15\n1.18",
+            "adr": "+15\n+14\n+1",
+            "agent": "",
+            "assists": "/\n\n33\n18\n15\n\n/",
+            "deaths": "48\n32\n16",
+            "fk": "136\n154\n115",
+            "hs%": "78%\n76%\n81%",
+            "kdr": "15\n4\n11",
+            "kills": "248",
+            "name": "Bankroft",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.06\n1.02",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n37\n20\n17\n\n/",
+            "deaths": "36\n19\n17",
+            "fk": "115\n101\n132",
+            "hs%": "85%\n85%\n85%",
+            "kdr": "30\n17\n13",
+            "kills": "162",
+            "name": "SkrubbleBubble",
+            "team": null
+          },
+          {
+            "acs": "0.98\n0.91\n0.95",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n37\n19\n18\n\n/",
+            "deaths": "36\n19\n17",
+            "fk": "118\n114\n123",
+            "hs%": "78%\n82%\n74%",
+            "kdr": "17\n11\n6",
+            "kills": "165",
+            "name": "Pr0phie",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.00\n1.17\n1.09",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n49\n24\n25\n\n/",
+            "deaths": "53\n22\n31",
+            "fk": "171\n171\n170",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "11\n7\n4",
+            "kills": "265",
+            "name": "Winsum",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.89\n0.86",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "117\n126\n106",
+            "hs%": "52%\n67%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "194",
+            "name": "bm1",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.87\n0.81",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n26\n11\n15\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "109\n108\n109",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "16\n9\n7",
+            "kills": "147",
+            "name": "Okin",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.80\n0.78",
+            "adr": "-15\n-6\n-9",
+            "agent": "",
+            "assists": "/\n\n46\n20\n26\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "101\n87\n113",
+            "hs%": "62%\n74%\n52%",
+            "kdr": "12\n7\n5",
+            "kills": "142",
+            "name": "Harmon",
+            "team": null
+          },
+          {
+            "acs": "0.80\n0.71\n0.75",
+            "adr": "-13\n-3\n-10",
+            "agent": "",
+            "assists": "/\n\n45\n20\n25\n\n/",
+            "deaths": "32\n17\n15",
+            "fk": "98\n101\n95",
+            "hs%": "57%\n56%\n58%",
+            "kdr": "7\n2\n5",
+            "kills": "156",
+            "name": "MOCKING",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "326",
+          "name": "sym",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "186",
+          "name": "Pr0phie",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "238",
+          "name": "Bankroft",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "161",
+          "name": "SkrubbleBubble",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "121",
+          "name": "xprt",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "421",
+          "name": "Winsum",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "176",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "191",
+          "name": "Harmon",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "126",
+          "name": "Okin",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.32\n1.38\n1.24",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "186\n181\n193",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "0\n0\n0",
+            "kills": "326",
+            "name": "sym",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.00\n0.82\n1.22",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "114\n108\n120",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "186",
+            "name": "Pr0phie",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.98\n0.53\n1.52",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "118\n90\n151",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "8\n3\n5",
+            "kills": "238",
+            "name": "Bankroft",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.68\n0.67\n0.69",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "90\n68\n117",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "9\n5\n4",
+            "kills": "161",
+            "name": "SkrubbleBubble",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.60\n0.61\n0.59",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "75\n65\n88",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "8\n2\n6",
+            "kills": "121",
+            "name": "xprt",
+            "team": "Nearest Airport"
+          }
+        ],
+        [
+          {
+            "acs": "1.69\n1.68\n1.69",
+            "adr": "+15\n+5\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "31\n13\n18",
+            "fk": "257\n262\n252",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "421",
+            "name": "Winsum",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.12\n1.15\n1.09",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "120\n103\n135",
+            "hs%": "77%\n60%\n92%",
+            "kdr": "1\n1\n0",
+            "kills": "176",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.02\n0.71\n1.27",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "110\n77\n137",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "191",
+            "name": "Harmon",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.72\n0.61\n0.81",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "86\n94\n79",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "13\n9\n4",
+            "kills": "126",
+            "name": "Okin",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "230",
+          "name": "xprt",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "287",
+          "name": "Bankroft",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "304",
+          "name": "sym",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "162",
+          "name": "SkrubbleBubble",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "191",
+          "name": "Pr0phie",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "191",
+          "name": "Okin",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "193",
+          "name": "Winsum",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "103",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "111",
+          "name": "Harmon",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.66\n1.58\n1.83",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n5\n4\n1\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "144\n146\n140",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "230",
+            "name": "xprt",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.59\n2.01\n0.58",
+            "adr": "+11\n+13\n-2",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "18\n17\n1",
+            "fk": "181\n237\n48",
+            "hs%": "88%\n92%\n80%",
+            "kdr": "4\n1\n3",
+            "kills": "287",
+            "name": "Bankroft",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.33\n1.01\n2.10",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "194\n158\n280",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "304",
+            "name": "sym",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.17\n0.86\n1.93",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n6\n5\n1\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "113\n83\n187",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "6\n4\n2",
+            "kills": "162",
+            "name": "SkrubbleBubble",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.16\n1.16\n1.14",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "126\n125\n127",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "5\n3\n2",
+            "kills": "191",
+            "name": "Pr0phie",
+            "team": "Nearest Airport"
+          }
+        ],
+        [
+          {
+            "acs": "0.92\n0.90\n0.93",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "139\n135\n140",
+            "hs%": "65%\n60%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "191",
+            "name": "Okin",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.79\n0.10\n1.08",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "118\n62\n141",
+            "hs%": "41%\n40%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "193",
+            "name": "Winsum",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.49\n0.73\n0.39",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "71\n146\n39",
+            "hs%": "47%\n60%\n42%",
+            "kdr": "4\n0\n4",
+            "kills": "103",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.38\n0.38\n0.38",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "79\n66\n84",
+            "hs%": "29%\n20%\n33%",
+            "kdr": "2\n0\n2",
+            "kills": "111",
+            "name": "Harmon",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 76351,
+  "teams": [
+    "Nearest Airport",
+    "Lenny Time"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 32"
+}

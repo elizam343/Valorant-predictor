@@ -1,0 +1,788 @@
+{
+  "date": "2022-12-05 23:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "217",
+          "name": "mikee",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "240",
+          "name": "Makoa",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "120",
+          "name": "Frog",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "99",
+          "name": "koldqt",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "71",
+          "name": "Inkripto",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "411",
+          "name": "Warmest Aloha",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "260",
+          "name": "haram",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "199",
+          "name": "Acen",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "162",
+          "name": "FNSIR",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "131",
+          "name": "Ralaxoz",
+          "team": "CPP Black"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.11\n1.20\n0.89",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "144\n150\n131",
+            "hs%": "47%\n50%\n40%",
+            "kdr": "2\n2\n0",
+            "kills": "217",
+            "name": "mikee",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "0.97\n0.80\n1.39",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "152\n152\n154",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "2\n2\n0",
+            "kills": "240",
+            "name": "Makoa",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "0.55\n0.37\n0.97",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "84\n68\n123",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "3\n0\n3",
+            "kills": "120",
+            "name": "Frog",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "0.45\n0.45\n0.45",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "60\n69\n39",
+            "hs%": "47%\n42%\n60%",
+            "kdr": "6\n2\n4",
+            "kills": "99",
+            "name": "koldqt",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "0.34\n0.15\n0.79",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "52\n47\n64",
+            "hs%": "29%\n25%\n40%",
+            "kdr": "2\n2\n0",
+            "kills": "71",
+            "name": "Inkripto",
+            "team": "Waveridahs UH"
+          }
+        ],
+        [
+          {
+            "acs": "1.95\n1.59\n2.10",
+            "adr": "+19\n+4\n+15",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "26\n7\n19",
+            "fk": "254\n255\n253",
+            "hs%": "82%\n60%\n92%",
+            "kdr": "0\n0\n0",
+            "kills": "411",
+            "name": "Warmest Aloha",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "1.39\n0.57\n1.74",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "199\n64\n255",
+            "hs%": "82%\n60%\n92%",
+            "kdr": "9\n1\n8",
+            "kills": "260",
+            "name": "haram",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "1.38\n1.72\n1.24",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n5\n2\n3\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "121\n142\n113",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "199",
+            "name": "Acen",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "0.91\n0.76\n0.97",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "96\n87\n100",
+            "hs%": "82%\n60%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "162",
+            "name": "FNSIR",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "0.84\n0.69\n0.91",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "88\n99\n84",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "131",
+            "name": "Ralaxoz",
+            "team": "CPP Black"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "237",
+          "name": "koldqt",
+          "team": null
+        },
+        {
+          "kills": "214",
+          "name": "Frog",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "mikee",
+          "team": null
+        },
+        {
+          "kills": "135",
+          "name": "Inkripto",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "Makoa",
+          "team": null
+        },
+        {
+          "kills": "327",
+          "name": "Warmest Aloha",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "Acen",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "haram",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "FNSIR",
+          "team": null
+        },
+        {
+          "kills": "109",
+          "name": "Ralaxoz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.10\n1.27\n1.18",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n52\n32\n20\n\n/",
+            "deaths": "54\n31\n23",
+            "fk": "141\n151\n129",
+            "hs%": "70%\n65%\n76%",
+            "kdr": "43\n19\n24",
+            "kills": "237",
+            "name": "koldqt",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.78\n0.86",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n55\n31\n24\n\n/",
+            "deaths": "47\n30\n17",
+            "fk": "132\n138\n124",
+            "hs%": "62%\n60%\n64%",
+            "kdr": "17\n3\n14",
+            "kills": "214",
+            "name": "Frog",
+            "team": null
+          },
+          {
+            "acs": "0.80\n0.92\n0.85",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n50\n31\n19\n\n/",
+            "deaths": "46\n28\n18",
+            "fk": "120\n125\n114",
+            "hs%": "63%\n63%\n64%",
+            "kdr": "7\n4\n3",
+            "kills": "193",
+            "name": "mikee",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.99\n0.83",
+            "adr": "-12\n-13\n+1",
+            "agent": "",
+            "assists": "/\n\n54\n30\n24\n\n/",
+            "deaths": "42\n17\n25",
+            "fk": "106\n87\n129",
+            "hs%": "60%\n63%\n58%",
+            "kdr": "19\n15\n4",
+            "kills": "135",
+            "name": "Inkripto",
+            "team": null
+          },
+          {
+            "acs": "0.55\n1.07\n0.79",
+            "adr": "-12\n-17\n+5",
+            "agent": "",
+            "assists": "/\n\n60\n37\n23\n\n/",
+            "deaths": "48\n20\n28",
+            "fk": "129\n120\n139",
+            "hs%": "60%\n60%\n61%",
+            "kdr": "11\n9\n2",
+            "kills": "168",
+            "name": "Makoa",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.43\n1.58\n1.51",
+            "adr": "+35\n+12\n+23",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "82\n35\n47",
+            "fk": "208\n214\n204",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "9\n6\n3",
+            "kills": "327",
+            "name": "Warmest Aloha",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.41\n1.31",
+            "adr": "+20\n+5\n+15",
+            "agent": "",
+            "assists": "/\n\n42\n20\n22\n\n/",
+            "deaths": "62\n25\n37",
+            "fk": "152\n133\n167",
+            "hs%": "79%\n76%\n83%",
+            "kdr": "22\n10\n12",
+            "kills": "201",
+            "name": "Acen",
+            "team": null
+          },
+          {
+            "acs": "0.93\n1.26\n1.11",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n46\n20\n26\n\n/",
+            "deaths": "45\n17\n28",
+            "fk": "140\n106\n167",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "26\n9\n17",
+            "kills": "160",
+            "name": "haram",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.03\n1.00",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "50\n21\n29",
+            "fk": "126\n128\n124",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "191",
+            "name": "FNSIR",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.74\n0.65",
+            "adr": "-22\n-13\n-9",
+            "agent": "",
+            "assists": "/\n\n54\n25\n29\n\n/",
+            "deaths": "32\n12\n20",
+            "fk": "92\n83\n100",
+            "hs%": "67%\n64%\n70%",
+            "kdr": "28\n8\n20",
+            "kills": "109",
+            "name": "Ralaxoz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "133",
+          "name": "koldqt",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "237",
+          "name": "mikee",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "193",
+          "name": "Inkripto",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "237",
+          "name": "Frog",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "240",
+          "name": "Makoa",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "381",
+          "name": "Acen",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "319",
+          "name": "Warmest Aloha",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "173",
+          "name": "haram",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "133",
+          "name": "FNSIR",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "114",
+          "name": "Ralaxoz",
+          "team": "CPP Black"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.10\n1.30\n0.89",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "130\n176\n85",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "20\n9\n11",
+            "kills": "133",
+            "name": "koldqt",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "1.10\n0.81\n1.39",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "153\n149\n157",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "237",
+            "name": "mikee",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "1.01\n1.29\n0.73",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "121\n110\n132",
+            "hs%": "83%\n100%\n67%",
+            "kdr": "10\n8\n2",
+            "kills": "193",
+            "name": "Inkripto",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "0.90\n0.75\n1.05",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "145\n133\n156",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "237",
+            "name": "Frog",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "0.85\n0.58\n1.13",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "142\n116\n168",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "240",
+            "name": "Makoa",
+            "team": "Waveridahs UH"
+          }
+        ],
+        [
+          {
+            "acs": "1.51\n1.09\n1.92",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "170\n99\n240",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "381",
+            "name": "Acen",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "1.28\n0.94\n1.62",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "182\n145\n219",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "319",
+            "name": "Warmest Aloha",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "0.97\n0.91\n1.02",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "112\n113\n111",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "10\n6\n4",
+            "kills": "173",
+            "name": "haram",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "0.93\n1.25\n0.61",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "113\n151\n74",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "133",
+            "name": "FNSIR",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "0.60\n0.74\n0.45",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "89\n98\n79",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "12\n3\n9",
+            "kills": "114",
+            "name": "Ralaxoz",
+            "team": "CPP Black"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "310",
+          "name": "koldqt",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "224",
+          "name": "Frog",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "209",
+          "name": "Inkripto",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "168",
+          "name": "Makoa",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "132",
+          "name": "mikee",
+          "team": "Waveridahs UH"
+        },
+        {
+          "kills": "310",
+          "name": "Warmest Aloha",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "213",
+          "name": "Acen",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "220",
+          "name": "FNSIR",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "197",
+          "name": "haram",
+          "team": "CPP Black"
+        },
+        {
+          "kills": "120",
+          "name": "Ralaxoz",
+          "team": "CPP Black"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.63\n1.43\n1.82",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "33\n15\n18",
+            "fk": "192\n193\n190",
+            "hs%": "78%\n69%\n88%",
+            "kdr": "17\n8\n9",
+            "kills": "310",
+            "name": "koldqt",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "0.99\n1.45\n0.53",
+            "adr": "-1\n+6\n-7",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "23\n17\n6",
+            "fk": "148\n195\n101",
+            "hs%": "63%\n63%\n63%",
+            "kdr": "9\n2\n7",
+            "kills": "224",
+            "name": "Frog",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "0.96\n0.68\n1.24",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "123\n99\n147",
+            "hs%": "59%\n63%\n56%",
+            "kdr": "7\n5\n2",
+            "kills": "209",
+            "name": "Inkripto",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "0.63\n0.34\n0.93",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n26\n15\n11\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "106\n98\n113",
+            "hs%": "56%\n56%\n56%",
+            "kdr": "5\n3\n2",
+            "kills": "168",
+            "name": "Makoa",
+            "team": "Waveridahs UH"
+          },
+          {
+            "acs": "0.53\n0.50\n0.57",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "83\n89\n77",
+            "hs%": "66%\n63%\n69%",
+            "kdr": "2\n0\n2",
+            "kills": "132",
+            "name": "mikee",
+            "team": "Waveridahs UH"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n1.75\n1.17",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n23\n11\n12\n\n/",
+            "deaths": "33\n19\n14",
+            "fk": "204\n253\n156",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "310",
+            "name": "Warmest Aloha",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "1.12\n1.09\n1.15",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "155\n156\n153",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "12\n6\n6",
+            "kills": "213",
+            "name": "Acen",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "1.10\n0.79\n1.40",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "25\n9\n16",
+            "fk": "152\n124\n180",
+            "hs%": "78%\n69%\n88%",
+            "kdr": "4\n2\n2",
+            "kills": "220",
+            "name": "FNSIR",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "1.07\n1.06\n1.07",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "129\n115\n144",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "7\n2\n5",
+            "kills": "197",
+            "name": "haram",
+            "team": "CPP Black"
+          },
+          {
+            "acs": "0.58\n0.31\n0.84",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "97\n67\n127",
+            "hs%": "63%\n56%\n69%",
+            "kdr": "10\n4\n6",
+            "kills": "120",
+            "name": "Ralaxoz",
+            "team": "CPP Black"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 158858,
+  "teams": [
+    "Waveridahs UH",
+    "CPP Black"
+  ],
+  "tournament": "Pacific: \n\t\t\t\t\t\tGrand Final"
+}

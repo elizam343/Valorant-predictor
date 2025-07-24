@@ -1,0 +1,594 @@
+{
+  "date": "2022-05-24 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "293",
+          "name": "Kaqnn",
+          "team": "BlackJack Esports"
+        },
+        {
+          "kills": "220",
+          "name": "Marco",
+          "team": "BlackJack Esports"
+        },
+        {
+          "kills": "210",
+          "name": "4FuNNie2k",
+          "team": "BlackJack Esports"
+        },
+        {
+          "kills": "130",
+          "name": "Knight",
+          "team": "BlackJack Esports"
+        },
+        {
+          "kills": "131",
+          "name": "AvRaK",
+          "team": "BlackJack Esports"
+        },
+        {
+          "kills": "283",
+          "name": "sibeastw0w",
+          "team": "NASR Esports"
+        },
+        {
+          "kills": "234",
+          "name": "kelevra",
+          "team": "NASR Esports"
+        },
+        {
+          "kills": "225",
+          "name": "cactuzio",
+          "team": "NASR Esports"
+        },
+        {
+          "kills": "249",
+          "name": "mTz1",
+          "team": "NASR Esports"
+        },
+        {
+          "kills": "130",
+          "name": "Nerf",
+          "team": "NASR Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.48\n1.32",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "170\n181\n154",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "6\n4\n2",
+            "kills": "293",
+            "name": "Kaqnn",
+            "team": "BlackJack Esports"
+          },
+          {
+            "acs": "1.07\n1.06\n1.08",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "140\n145\n134",
+            "hs%": "71%\n83%\n56%",
+            "kdr": "4\n1\n3",
+            "kills": "220",
+            "name": "Marco",
+            "team": "BlackJack Esports"
+          },
+          {
+            "acs": "0.88\n1.07\n0.63",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "139\n149\n127",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "4\n1\n3",
+            "kills": "210",
+            "name": "4FuNNie2k",
+            "team": "BlackJack Esports"
+          },
+          {
+            "acs": "0.53\n0.56\n0.50",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "93\n77\n114",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "9\n4\n5",
+            "kills": "130",
+            "name": "Knight",
+            "team": "BlackJack Esports"
+          },
+          {
+            "acs": "0.47\n0.32\n0.67",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "89\n64\n123",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "131",
+            "name": "AvRaK",
+            "team": "BlackJack Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.93\n1.10",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "186\n201\n174",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "283",
+            "name": "sibeastw0w",
+            "team": "NASR Esports"
+          },
+          {
+            "acs": "1.31\n1.92\n0.86",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "161\n232\n109",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "11\n6\n5",
+            "kills": "234",
+            "name": "kelevra",
+            "team": "NASR Esports"
+          },
+          {
+            "acs": "1.06\n0.72\n1.32",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "136\n118\n150",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "225",
+            "name": "cactuzio",
+            "team": "NASR Esports"
+          },
+          {
+            "acs": "1.02\n0.80\n1.18",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "143\n99\n176",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "9\n6\n3",
+            "kills": "249",
+            "name": "mTz1",
+            "team": "NASR Esports"
+          },
+          {
+            "acs": "0.76\n0.53\n0.94",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "93\n57\n120",
+            "hs%": "57%\n56%\n58%",
+            "kdr": "11\n6\n5",
+            "kills": "130",
+            "name": "Nerf",
+            "team": "NASR Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "283",
+          "name": "Kaqnn",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "Marco",
+          "team": null
+        },
+        {
+          "kills": "238",
+          "name": "4FuNNie2k",
+          "team": null
+        },
+        {
+          "kills": "113",
+          "name": "Knight",
+          "team": null
+        },
+        {
+          "kills": "103",
+          "name": "AvRaK",
+          "team": null
+        },
+        {
+          "kills": "314",
+          "name": "sibeastw0w",
+          "team": null
+        },
+        {
+          "kills": "335",
+          "name": "kelevra",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "cactuzio",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "mTz1",
+          "team": null
+        },
+        {
+          "kills": "60",
+          "name": "Nerf",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.48\n1.32\n1.41",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "170\n181\n154",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "6\n4\n2",
+            "kills": "283",
+            "name": "Kaqnn",
+            "team": null
+          },
+          {
+            "acs": "1.06\n1.08\n1.07",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "140\n145\n134",
+            "hs%": "71%\n83%\n56%",
+            "kdr": "4\n1\n3",
+            "kills": "225",
+            "name": "Marco",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.63\n0.88",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "139\n149\n127",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "4\n1\n3",
+            "kills": "238",
+            "name": "4FuNNie2k",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.50\n0.53",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "93\n77\n114",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "9\n4\n5",
+            "kills": "113",
+            "name": "Knight",
+            "team": null
+          },
+          {
+            "acs": "0.32\n0.67\n0.47",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "89\n64\n123",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "103",
+            "name": "AvRaK",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.93\n1.10\n1.45",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "186\n201\n174",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "314",
+            "name": "sibeastw0w",
+            "team": null
+          },
+          {
+            "acs": "1.92\n0.86\n1.31",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "161\n232\n109",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "11\n6\n5",
+            "kills": "335",
+            "name": "kelevra",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.32\n1.06",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "136\n118\n150",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "207",
+            "name": "cactuzio",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.18\n1.02",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "143\n99\n176",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "9\n6\n3",
+            "kills": "179",
+            "name": "mTz1",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.94\n0.76",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "93\n57\n120",
+            "hs%": "57%\n56%\n58%",
+            "kdr": "11\n6\n5",
+            "kills": "60",
+            "name": "Nerf",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "",
+          "name": "4FuNNie2k",
+          "team": "BlackJack Esports"
+        },
+        {
+          "kills": "",
+          "name": "AvRaK",
+          "team": "BlackJack Esports"
+        },
+        {
+          "kills": "",
+          "name": "Knight",
+          "team": "BlackJack Esports"
+        },
+        {
+          "kills": "",
+          "name": "Marco",
+          "team": "BlackJack Esports"
+        },
+        {
+          "kills": "",
+          "name": "Kaqnn",
+          "team": "BlackJack Esports"
+        },
+        {
+          "kills": "",
+          "name": "cactuzio",
+          "team": "NASR Esports"
+        },
+        {
+          "kills": "",
+          "name": "kelevra",
+          "team": "NASR Esports"
+        },
+        {
+          "kills": "",
+          "name": "sibeastw0w",
+          "team": "NASR Esports"
+        },
+        {
+          "kills": "",
+          "name": "Nerf",
+          "team": "NASR Esports"
+        },
+        {
+          "kills": "",
+          "name": "mTz1",
+          "team": "NASR Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "TBD",
+      "players": [
+        [
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "4FuNNie2k",
+            "team": "BlackJack Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "AvRaK",
+            "team": "BlackJack Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Knight",
+            "team": "BlackJack Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Marco",
+            "team": "BlackJack Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Kaqnn",
+            "team": "BlackJack Esports"
+          }
+        ],
+        [
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "cactuzio",
+            "team": "NASR Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "kelevra",
+            "team": "NASR Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "sibeastw0w",
+            "team": "NASR Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Nerf",
+            "team": "NASR Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "mTz1",
+            "team": "NASR Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 103027,
+  "teams": [
+    "BlackJack Esports",
+    "NASR Esports"
+  ],
+  "tournament": "Levant and North Africa: \n\t\t\t\t\t\tWeek 3"
+}

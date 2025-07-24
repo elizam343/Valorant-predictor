@@ -1,0 +1,788 @@
+{
+  "date": "2021-11-26 17:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "300",
+          "name": "lissa",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "264",
+          "name": "Flop1na",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "238",
+          "name": "Yuno la Manita",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "200",
+          "name": "Adenina",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "166",
+          "name": "Jexye",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "285",
+          "name": "Scarlett",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "201",
+          "name": "Summer",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "163",
+          "name": "armk4m",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "157",
+          "name": "giacomiN",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "165",
+          "name": "solxiz",
+          "team": "Dinosaur"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.29\n0.67\n2.03",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "177\n123\n241",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "300",
+            "name": "lissa",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "1.15\n0.94\n1.40",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "165\n176\n152",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "7\n5\n2",
+            "kills": "264",
+            "name": "Flop1na",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "1.13\n0.88\n1.44",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "162\n139\n190",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "12\n5\n7",
+            "kills": "238",
+            "name": "Yuno la Manita",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "1.01\n0.81\n1.25",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "132\n124\n142",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "6\n2\n4",
+            "kills": "200",
+            "name": "Adenina",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "0.75\n0.61\n0.91",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "99\n124\n69",
+            "hs%": "59%\n50%\n70%",
+            "kdr": "2\n1\n1",
+            "kills": "166",
+            "name": "Jexye",
+            "team": "Maleficas"
+          }
+        ],
+        [
+          {
+            "acs": "1.40\n0.68\n1.99",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "186\n157\n211",
+            "hs%": "64%\n40%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "285",
+            "name": "Scarlett",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "0.86\n0.39\n1.25",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "135\n90\n172",
+            "hs%": "59%\n30%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "201",
+            "name": "Summer",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "0.85\n0.81\n0.89",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "118\n104\n129",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "4\n0\n4",
+            "kills": "163",
+            "name": "armk4m",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "0.78\n0.45\n1.05",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "108\n72\n137",
+            "hs%": "55%\n20%\n83%",
+            "kdr": "11\n1\n10",
+            "kills": "157",
+            "name": "giacomiN",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "0.65\n0.36\n0.89",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "115\n99\n128",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "165",
+            "name": "solxiz",
+            "team": "Dinosaur"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "228",
+          "name": "Flop1na",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "Yuno la Manita",
+          "team": null
+        },
+        {
+          "kills": "127",
+          "name": "lissa",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Adenina",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "Jexye",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "Scarlett",
+          "team": null
+        },
+        {
+          "kills": "234",
+          "name": "Summer",
+          "team": null
+        },
+        {
+          "kills": "119",
+          "name": "giacomiN",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "armk4m",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "solxiz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.91\n1.14\n0.99",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n44\n29\n15\n\n/",
+            "deaths": "48\n31\n17",
+            "fk": "141\n140\n143",
+            "hs%": "64%\n58%\n73%",
+            "kdr": "13\n5\n8",
+            "kills": "228",
+            "name": "Flop1na",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.91\n0.94",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n44\n28\n16\n\n/",
+            "deaths": "41\n25\n16",
+            "fk": "134\n137\n129",
+            "hs%": "69%\n69%\n68%",
+            "kdr": "19\n11\n8",
+            "kills": "206",
+            "name": "Yuno la Manita",
+            "team": null
+          },
+          {
+            "acs": "0.33\n1.79\n0.88",
+            "adr": "-4\n-16\n+12",
+            "agent": "",
+            "assists": "/\n\n48\n32\n16\n\n/",
+            "deaths": "44\n16\n28",
+            "fk": "138\n85\n225",
+            "hs%": "66%\n50%\n91%",
+            "kdr": "10\n5\n5",
+            "kills": "127",
+            "name": "lissa",
+            "team": null
+          },
+          {
+            "acs": "0.66\n1.19\n0.86",
+            "adr": "-6\n-11\n+5",
+            "agent": "",
+            "assists": "/\n\n43\n31\n12\n\n/",
+            "deaths": "37\n20\n17",
+            "fk": "123\n116\n135",
+            "hs%": "66%\n58%\n77%",
+            "kdr": "15\n6\n9",
+            "kills": "173",
+            "name": "Adenina",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.68\n0.78",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n43\n31\n12\n\n/",
+            "deaths": "35\n26\n9",
+            "fk": "111\n139\n66",
+            "hs%": "60%\n58%\n64%",
+            "kdr": "16\n12\n4",
+            "kills": "225",
+            "name": "Jexye",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.90\n1.67\n1.38",
+            "adr": "+17\n-2\n+19",
+            "agent": "",
+            "assists": "/\n\n40\n18\n22\n\n/",
+            "deaths": "57\n16\n41",
+            "fk": "175\n131\n201",
+            "hs%": "72%\n59%\n81%",
+            "kdr": "12\n3\n9",
+            "kills": "218",
+            "name": "Scarlett",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.43\n1.24",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "48\n17\n31",
+            "fk": "167\n151\n177",
+            "hs%": "76%\n55%\n89%",
+            "kdr": "16\n4\n12",
+            "kills": "234",
+            "name": "Summer",
+            "team": null
+          },
+          {
+            "acs": "0.49\n1.31\n1.00",
+            "adr": "-2\n-10\n+8",
+            "agent": "",
+            "assists": "/\n\n43\n19\n24\n\n/",
+            "deaths": "41\n9\n32",
+            "fk": "142\n83\n178",
+            "hs%": "69%\n41%\n86%",
+            "kdr": "24\n5\n19",
+            "kills": "119",
+            "name": "giacomiN",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.11\n1.00",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n42\n17\n25\n\n/",
+            "deaths": "42\n12\n30",
+            "fk": "120\n93\n136",
+            "hs%": "69%\n59%\n75%",
+            "kdr": "11\n2\n9",
+            "kills": "145",
+            "name": "armk4m",
+            "team": null
+          },
+          {
+            "acs": "0.98\n0.76\n0.84",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n41\n17\n24\n\n/",
+            "deaths": "34\n17\n17",
+            "fk": "115\n135\n102",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "7\n0\n7",
+            "kills": "207",
+            "name": "solxiz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "49",
+          "name": "Flop1na",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "96",
+          "name": "Jexye",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "124",
+          "name": "Yuno la Manita",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "247",
+          "name": "Adenina",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "100",
+          "name": "lissa",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "282",
+          "name": "Summer",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "306",
+          "name": "giacomiN",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "243",
+          "name": "armk4m",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "154",
+          "name": "solxiz",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "288",
+          "name": "Scarlett",
+          "team": "Dinosaur"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.27\n0.03",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "11\n11\n0",
+            "fk": "124\n143\n50",
+            "hs%": "53%\n58%\n33%",
+            "kdr": "1\n0\n1",
+            "kills": "49",
+            "name": "Flop1na",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "0.67\n0.75\n0.35",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "96\n105\n61",
+            "hs%": "60%\n67%\n33%",
+            "kdr": "5\n5\n0",
+            "kills": "96",
+            "name": "Jexye",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "0.45\n0.55\n0.05",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "120\n130\n77",
+            "hs%": "53%\n58%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "124",
+            "name": "Yuno la Manita",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "0.36\n0.17\n1.08",
+            "adr": "-9\n-10\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "84\n77\n113",
+            "hs%": "47%\n42%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "247",
+            "name": "Adenina",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "0.23\n0.17\n0.48",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "70\n74\n51",
+            "hs%": "33%\n33%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "100",
+            "name": "lissa",
+            "team": "Maleficas"
+          }
+        ],
+        [
+          {
+            "acs": "2.06\n2.75\n1.89",
+            "adr": "+15\n+4\n+11",
+            "agent": "",
+            "assists": "/\n\n5\n2\n3\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "240\n352\n211",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "282",
+            "name": "Summer",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "1.57\n1.49\n1.59",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "177\n97\n197",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "8\n3\n5",
+            "kills": "306",
+            "name": "giacomiN",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "1.27\n0.64\n1.42",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "142\n89\n156",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "1\n0\n1",
+            "kills": "243",
+            "name": "armk4m",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "1.12\n1.83\n0.95",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "115\n143\n108",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "154",
+            "name": "solxiz",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "1.03\n0.84\n1.07",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n1\n9\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "151\n61\n173",
+            "hs%": "80%\n100%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "288",
+            "name": "Scarlett",
+            "team": "Dinosaur"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "200",
+          "name": "Yuno la Manita",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "200",
+          "name": "Adenina",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "230",
+          "name": "lissa",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "207",
+          "name": "Jexye",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "202",
+          "name": "Flop1na",
+          "team": "Maleficas"
+        },
+        {
+          "kills": "282",
+          "name": "Scarlett",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "202",
+          "name": "Summer",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "183",
+          "name": "armk4m",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "175",
+          "name": "solxiz",
+          "team": "Dinosaur"
+        },
+        {
+          "kills": "221",
+          "name": "giacomiN",
+          "team": "Dinosaur"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.44\n0.61",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "114\n142\n78",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "5\n4\n1",
+            "kills": "200",
+            "name": "Yuno la Manita",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "1.06\n0.99\n1.16",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "141\n146\n135",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "7\n2\n5",
+            "kills": "200",
+            "name": "Adenina",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "0.92\n0.15\n1.95",
+            "adr": "-2\n-8\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "146\n57\n264",
+            "hs%": "67%\n42%\n100%",
+            "kdr": "6\n2\n4",
+            "kills": "230",
+            "name": "lissa",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "0.89\n1.15\n0.54",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "134\n187\n64",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "9\n6\n3",
+            "kills": "207",
+            "name": "Jexye",
+            "team": "Maleficas"
+          },
+          {
+            "acs": "0.81\n0.50\n1.21",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "126\n100\n162",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "5\n0\n5",
+            "kills": "202",
+            "name": "Flop1na",
+            "team": "Maleficas"
+          }
+        ],
+        [
+          {
+            "acs": "1.62\n1.17\n1.96",
+            "adr": "+10\n+1\n+9",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "23\n7\n16",
+            "fk": "180\n126\n220",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "282",
+            "name": "Scarlett",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "1.04\n0.89\n1.16",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "150\n152\n148",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "10\n3\n7",
+            "kills": "202",
+            "name": "Summer",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "0.96\n0.89\n1.02",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "106\n82\n125",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "183",
+            "name": "armk4m",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "0.84\n1.38\n0.43",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "115\n172\n71",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "175",
+            "name": "solxiz",
+            "team": "Dinosaur"
+          },
+          {
+            "acs": "0.82\n0.19\n1.30",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "153\n91\n199",
+            "hs%": "67%\n44%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "221",
+            "name": "giacomiN",
+            "team": "Dinosaur"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 54449,
+  "teams": [
+    "Dinosaur",
+    "Maleficas"
+  ],
+  "tournament": "Main Event: LAS: \n\t\t\t\t\t\tQuarterfinals"
+}

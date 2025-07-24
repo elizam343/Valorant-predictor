@@ -1,0 +1,788 @@
+{
+  "date": "2022-02-05 00:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "362",
+          "name": "SID",
+          "team": "VPZ"
+        },
+        {
+          "kills": "161",
+          "name": "MungHoon",
+          "team": "VPZ"
+        },
+        {
+          "kills": "180",
+          "name": "D1pp3R",
+          "team": "VPZ"
+        },
+        {
+          "kills": "307",
+          "name": "Kant",
+          "team": "VPZ"
+        },
+        {
+          "kills": "169",
+          "name": "Haxball",
+          "team": "VPZ"
+        },
+        {
+          "kills": "290",
+          "name": "Rain",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "200",
+          "name": "WOW",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "183",
+          "name": "BrightBlue",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "128",
+          "name": "seokJ",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "141",
+          "name": "GamKa",
+          "team": "Straight Warfare"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.68\n1.61\n1.78",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "27\n16\n11",
+            "fk": "223\n250\n186",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "362",
+            "name": "SID",
+            "team": "VPZ"
+          },
+          {
+            "acs": "1.25\n1.00\n1.58",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "123\n127\n117",
+            "hs%": "71%\n58%\n89%",
+            "kdr": "7\n5\n2",
+            "kills": "161",
+            "name": "MungHoon",
+            "team": "VPZ"
+          },
+          {
+            "acs": "1.16\n0.95\n1.44",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "117\n106\n132",
+            "hs%": "76%\n58%\n100%",
+            "kdr": "10\n7\n3",
+            "kills": "180",
+            "name": "D1pp3R",
+            "team": "VPZ"
+          },
+          {
+            "acs": "1.12\n0.56\n1.87",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "224\n128\n351",
+            "hs%": "71%\n58%\n89%",
+            "kdr": "7\n2\n5",
+            "kills": "307",
+            "name": "Kant",
+            "team": "VPZ"
+          },
+          {
+            "acs": "0.88\n0.72\n1.09",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "110\n93\n133",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "7\n4\n3",
+            "kills": "169",
+            "name": "Haxball",
+            "team": "VPZ"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n0.30\n1.85",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "21\n4\n17",
+            "fk": "184\n73\n267",
+            "hs%": "67%\n33%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "290",
+            "name": "Rain",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "0.98\n0.69\n1.20",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "114\n101\n124",
+            "hs%": "76%\n56%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "200",
+            "name": "WOW",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "0.94\n0.28\n1.44",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "121\n63\n164",
+            "hs%": "62%\n44%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "183",
+            "name": "BrightBlue",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "0.75\n0.94\n0.61",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "88\n112\n70",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "11\n1\n10",
+            "kills": "128",
+            "name": "seokJ",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "0.36\n0.03\n0.66",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "102\n79\n120",
+            "hs%": "52%\n44%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "141",
+            "name": "GamKa",
+            "team": "Straight Warfare"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "267",
+          "name": "Kant",
+          "team": null
+        },
+        {
+          "kills": "142",
+          "name": "MungHoon",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "Haxball",
+          "team": null
+        },
+        {
+          "kills": "240",
+          "name": "SID",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "D1pp3R",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "WOW",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "Rain",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "seokJ",
+          "team": null
+        },
+        {
+          "kills": "118",
+          "name": "BrightBlue",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "GamKa",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.01\n1.47\n1.25",
+            "adr": "+25\n+4\n+21",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "72\n29\n43",
+            "fk": "214\n176\n251",
+            "hs%": "70%\n61%\n79%",
+            "kdr": "11\n3\n8",
+            "kills": "267",
+            "name": "Kant",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.63\n1.25",
+            "adr": "+14\n-5\n+19",
+            "agent": "",
+            "assists": "/\n\n31\n19\n12\n\n/",
+            "deaths": "45\n14\n31",
+            "fk": "136\n112\n158",
+            "hs%": "73%\n61%\n85%",
+            "kdr": "18\n8\n10",
+            "kills": "142",
+            "name": "MungHoon",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.27\n1.10",
+            "adr": "+7\n-2\n+9",
+            "agent": "",
+            "assists": "/\n\n36\n20\n16\n\n/",
+            "deaths": "43\n18\n25",
+            "fk": "117\n93\n139",
+            "hs%": "78%\n65%\n91%",
+            "kdr": "26\n7\n19",
+            "kills": "151",
+            "name": "Haxball",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.19\n1.03",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n46\n26\n20\n\n/",
+            "deaths": "51\n24\n27",
+            "fk": "150\n152\n147",
+            "hs%": "75%\n68%\n82%",
+            "kdr": "14\n7\n7",
+            "kills": "240",
+            "name": "SID",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.10\n0.99",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n39\n22\n17\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "128\n116\n139",
+            "hs%": "73%\n65%\n82%",
+            "kdr": "25\n13\n12",
+            "kills": "170",
+            "name": "D1pp3R",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n1.33\n1.20",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "49\n22\n27",
+            "fk": "145\n141\n149",
+            "hs%": "73%\n64%\n84%",
+            "kdr": "19\n8\n11",
+            "kills": "216",
+            "name": "WOW",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.31\n1.01",
+            "adr": "+1\n-8\n+9",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "53\n21\n32",
+            "fk": "157\n112\n205",
+            "hs%": "59%\n48%\n71%",
+            "kdr": "9\n3\n6",
+            "kills": "192",
+            "name": "Rain",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.11\n0.83",
+            "adr": "-18\n-16\n-2",
+            "agent": "",
+            "assists": "/\n\n50\n32\n18\n\n/",
+            "deaths": "32\n16\n16",
+            "fk": "95\n89\n101",
+            "hs%": "67%\n61%\n74%",
+            "kdr": "28\n8\n20",
+            "kills": "130",
+            "name": "seokJ",
+            "team": null
+          },
+          {
+            "acs": "0.43\n1.14\n0.77",
+            "adr": "-19\n-20\n+1",
+            "agent": "",
+            "assists": "/\n\n51\n31\n20\n\n/",
+            "deaths": "32\n11\n21",
+            "fk": "108\n91\n126",
+            "hs%": "64%\n55%\n74%",
+            "kdr": "13\n5\n8",
+            "kills": "118",
+            "name": "BrightBlue",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.76\n0.72",
+            "adr": "-19\n-12\n-7",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "109\n109\n110",
+            "hs%": "56%\n55%\n58%",
+            "kdr": "13\n8\n5",
+            "kills": "163",
+            "name": "GamKa",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "330",
+          "name": "Kant",
+          "team": "VPZ"
+        },
+        {
+          "kills": "266",
+          "name": "MungHoon",
+          "team": "VPZ"
+        },
+        {
+          "kills": "241",
+          "name": "Haxball",
+          "team": "VPZ"
+        },
+        {
+          "kills": "143",
+          "name": "D1pp3R",
+          "team": "VPZ"
+        },
+        {
+          "kills": "198",
+          "name": "SID",
+          "team": "VPZ"
+        },
+        {
+          "kills": "329",
+          "name": "WOW",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "201",
+          "name": "seokJ",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "161",
+          "name": "GamKa",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "173",
+          "name": "BrightBlue",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "218",
+          "name": "Rain",
+          "team": "Straight Warfare"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.30\n1.16\n1.43",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "29\n14\n15",
+            "fk": "224\n219\n230",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "330",
+            "name": "Kant",
+            "team": "VPZ"
+          },
+          {
+            "acs": "1.16\n0.65\n1.67",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "135\n102\n169",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "266",
+            "name": "MungHoon",
+            "team": "VPZ"
+          },
+          {
+            "acs": "1.05\n0.59\n1.51",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "119\n61\n178",
+            "hs%": "75%\n50%\n100%",
+            "kdr": "8\n0\n8",
+            "kills": "241",
+            "name": "Haxball",
+            "team": "VPZ"
+          },
+          {
+            "acs": "0.76\n0.48\n1.05",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "91\n82\n100",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "143",
+            "name": "D1pp3R",
+            "team": "VPZ"
+          },
+          {
+            "acs": "0.63\n0.19\n1.07",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "104\n81\n126",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "198",
+            "name": "SID",
+            "team": "VPZ"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n0.87\n1.80",
+            "adr": "+6\n-4\n+10",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "160\n111\n209",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "329",
+            "name": "WOW",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "1.00\n0.34\n1.66",
+            "adr": "-5\n-9\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "95\n53\n138",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "13\n4\n9",
+            "kills": "201",
+            "name": "seokJ",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "0.99\n0.92\n1.06",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "124\n126\n122",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "161",
+            "name": "GamKa",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "0.94\n0.61\n1.27",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "110\n92\n127",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "173",
+            "name": "BrightBlue",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "0.85\n0.64\n1.05",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "136\n113\n159",
+            "hs%": "54%\n50%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "218",
+            "name": "Rain",
+            "team": "Straight Warfare"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "178",
+          "name": "Haxball",
+          "team": "VPZ"
+        },
+        {
+          "kills": "212",
+          "name": "MungHoon",
+          "team": "VPZ"
+        },
+        {
+          "kills": "292",
+          "name": "Kant",
+          "team": "VPZ"
+        },
+        {
+          "kills": "252",
+          "name": "D1pp3R",
+          "team": "VPZ"
+        },
+        {
+          "kills": "192",
+          "name": "SID",
+          "team": "VPZ"
+        },
+        {
+          "kills": "237",
+          "name": "WOW",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "267",
+          "name": "Rain",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "147",
+          "name": "GamKa",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "154",
+          "name": "seokJ",
+          "team": "Straight Warfare"
+        },
+        {
+          "kills": "121",
+          "name": "BrightBlue",
+          "team": "Straight Warfare"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.77\n1.17",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "122\n149\n106",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "11\n3\n8",
+            "kills": "178",
+            "name": "Haxball",
+            "team": "VPZ"
+          },
+          {
+            "acs": "1.37\n0.97\n1.61",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "150\n103\n178",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "212",
+            "name": "MungHoon",
+            "team": "VPZ"
+          },
+          {
+            "acs": "1.32\n1.49\n1.22",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "191\n184\n196",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "292",
+            "name": "Kant",
+            "team": "VPZ"
+          },
+          {
+            "acs": "1.08\n1.43\n0.89",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "187\n193\n184",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "252",
+            "name": "D1pp3R",
+            "team": "VPZ"
+          },
+          {
+            "acs": "0.81\n0.71\n0.87",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "127\n107\n138",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "192",
+            "name": "SID",
+            "team": "VPZ"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.55\n0.76",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "161\n201\n91",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "4\n2\n2",
+            "kills": "237",
+            "name": "WOW",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "1.01\n1.11\n0.84",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "154\n139\n179",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "3\n1\n2",
+            "kills": "267",
+            "name": "Rain",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "0.76\n0.96\n0.42",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "99\n114\n72",
+            "hs%": "58%\n67%\n43%",
+            "kdr": "3\n3\n0",
+            "kills": "147",
+            "name": "GamKa",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "0.71\n0.53\n1.01",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "103\n108\n94",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "4\n3\n1",
+            "kills": "154",
+            "name": "seokJ",
+            "team": "Straight Warfare"
+          },
+          {
+            "acs": "0.39\n0.37\n0.41",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "92\n112\n60",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "3\n2\n1",
+            "kills": "121",
+            "name": "BrightBlue",
+            "team": "Straight Warfare"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 69171,
+  "teams": [
+    "VPZ",
+    "Straight Warfare"
+  ],
+  "tournament": "Open Qualifier: Round of 24: \n\t\t\t\t\t\tGroup Stage: Opening (D)"
+}

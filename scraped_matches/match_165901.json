@@ -1,0 +1,594 @@
+{
+  "date": "2023-01-22 14:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "324",
+          "name": "Ale",
+          "team": "HSDIRR"
+        },
+        {
+          "kills": "182",
+          "name": "vicious",
+          "team": "HSDIRR"
+        },
+        {
+          "kills": "194",
+          "name": "Leare",
+          "team": "HSDIRR"
+        },
+        {
+          "kills": "231",
+          "name": "freddan",
+          "team": "HSDIRR"
+        },
+        {
+          "kills": "154",
+          "name": "lyNxi",
+          "team": "HSDIRR"
+        },
+        {
+          "kills": "244",
+          "name": "SEIDER",
+          "team": "bonk"
+        },
+        {
+          "kills": "218",
+          "name": "Kicks",
+          "team": "bonk"
+        },
+        {
+          "kills": "221",
+          "name": "bonkar",
+          "team": "bonk"
+        },
+        {
+          "kills": "198",
+          "name": "juseu",
+          "team": "bonk"
+        },
+        {
+          "kills": "134",
+          "name": "chiwa",
+          "team": "bonk"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.53\n1.26\n1.80",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "29\n14\n15",
+            "fk": "227\n192\n262",
+            "hs%": "86%\n86%\n86%",
+            "kdr": "20\n7\n13",
+            "kills": "324",
+            "name": "Ale",
+            "team": "HSDIRR"
+          },
+          {
+            "acs": "1.06\n0.72\n1.41",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "124\n101\n147",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "6\n3\n3",
+            "kills": "182",
+            "name": "vicious",
+            "team": "HSDIRR"
+          },
+          {
+            "acs": "1.00\n0.73\n1.27",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n13\n6\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "124\n120\n128",
+            "hs%": "71%\n79%\n64%",
+            "kdr": "4\n1\n3",
+            "kills": "194",
+            "name": "Leare",
+            "team": "HSDIRR"
+          },
+          {
+            "acs": "0.99\n1.09\n0.90",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "184\n202\n165",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "5\n3\n2",
+            "kills": "231",
+            "name": "freddan",
+            "team": "HSDIRR"
+          },
+          {
+            "acs": "0.79\n0.32\n1.26",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "103\n68\n138",
+            "hs%": "71%\n57%\n86%",
+            "kdr": "7\n1\n6",
+            "kills": "154",
+            "name": "lyNxi",
+            "team": "HSDIRR"
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n0.72\n1.54",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "161\n127\n195",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "11\n4\n7",
+            "kills": "244",
+            "name": "SEIDER",
+            "team": "bonk"
+          },
+          {
+            "acs": "1.09\n0.77\n1.41",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "124\n101\n147",
+            "hs%": "82%\n71%\n93%",
+            "kdr": "20\n9\n11",
+            "kills": "218",
+            "name": "Kicks",
+            "team": "bonk"
+          },
+          {
+            "acs": "1.04\n0.65\n1.43",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "141\n122\n161",
+            "hs%": "86%\n86%\n86%",
+            "kdr": "11\n4\n7",
+            "kills": "221",
+            "name": "bonkar",
+            "team": "bonk"
+          },
+          {
+            "acs": "0.89\n1.06\n0.71",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "122\n109\n135",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "9\n3\n6",
+            "kills": "198",
+            "name": "juseu",
+            "team": "bonk"
+          },
+          {
+            "acs": "0.75\n0.35\n1.14",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "94\n56\n133",
+            "hs%": "57%\n43%\n71%",
+            "kdr": "3\n0\n3",
+            "kills": "134",
+            "name": "chiwa",
+            "team": "bonk"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "111",
+          "name": "lyNxi",
+          "team": null
+        },
+        {
+          "kills": "258",
+          "name": "freddan",
+          "team": null
+        },
+        {
+          "kills": "276",
+          "name": "Leare",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "Ale",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "vicious",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "Kicks",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "bonkar",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "SEIDER",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "chiwa",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "juseu",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.78\n1.39\n1.10",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n33\n14\n19\n\n/",
+            "deaths": "36\n11\n25",
+            "fk": "132\n84\n177",
+            "hs%": "80%\n75%\n85%",
+            "kdr": "14\n5\n9",
+            "kills": "111",
+            "name": "lyNxi",
+            "team": null
+          },
+          {
+            "acs": "1.30\n0.89\n1.09",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n33\n14\n19\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "165\n180\n151",
+            "hs%": "74%\n88%\n62%",
+            "kdr": "8\n3\n5",
+            "kills": "258",
+            "name": "freddan",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.91\n1.08",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n33\n18\n15\n\n/",
+            "deaths": "39\n25\n14",
+            "fk": "136\n176\n100",
+            "hs%": "68%\n83%\n54%",
+            "kdr": "5\n2\n3",
+            "kills": "276",
+            "name": "Leare",
+            "team": null
+          },
+          {
+            "acs": "1.10\n1.04\n1.07",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n38\n19\n19\n\n/",
+            "deaths": "37\n19\n18",
+            "fk": "163\n152\n173",
+            "hs%": "74%\n79%\n69%",
+            "kdr": "29\n13\n16",
+            "kills": "233",
+            "name": "Ale",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.99\n1.03",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "36\n16\n20",
+            "fk": "137\n132\n141",
+            "hs%": "66%\n75%\n58%",
+            "kdr": "10\n7\n3",
+            "kills": "193",
+            "name": "vicious",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.83\n1.14\n0.98",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n39\n21\n18\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "128\n125\n131",
+            "hs%": "82%\n73%\n92%",
+            "kdr": "25\n11\n14",
+            "kills": "201",
+            "name": "Kicks",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.11\n0.97",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n37\n20\n17\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "128\n117\n140",
+            "hs%": "80%\n88%\n71%",
+            "kdr": "16\n4\n12",
+            "kills": "184",
+            "name": "bonkar",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.94\n0.96",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n37\n18\n19\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "137\n145\n129",
+            "hs%": "68%\n77%\n58%",
+            "kdr": "12\n4\n8",
+            "kills": "194",
+            "name": "SEIDER",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.97\n0.90",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n36\n19\n17\n\n/",
+            "deaths": "33\n18\n15",
+            "fk": "122\n122\n122",
+            "hs%": "58%\n58%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "195",
+            "name": "chiwa",
+            "team": null
+          },
+          {
+            "acs": "1.10\n0.55\n0.83",
+            "adr": "-5\n+5\n-10",
+            "agent": "",
+            "assists": "/\n\n38\n17\n21\n\n/",
+            "deaths": "33\n22\n11",
+            "fk": "113\n116\n109",
+            "hs%": "66%\n77%\n54%",
+            "kdr": "10\n4\n6",
+            "kills": "202",
+            "name": "juseu",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "324",
+          "name": "lyNxi",
+          "team": "HSDIRR"
+        },
+        {
+          "kills": "193",
+          "name": "freddan",
+          "team": "HSDIRR"
+        },
+        {
+          "kills": "90",
+          "name": "Leare",
+          "team": "HSDIRR"
+        },
+        {
+          "kills": "191",
+          "name": "vicious",
+          "team": "HSDIRR"
+        },
+        {
+          "kills": "98",
+          "name": "Ale",
+          "team": "HSDIRR"
+        },
+        {
+          "kills": "148",
+          "name": "chiwa",
+          "team": "bonk"
+        },
+        {
+          "kills": "153",
+          "name": "bonkar",
+          "team": "bonk"
+        },
+        {
+          "kills": "181",
+          "name": "Kicks",
+          "team": "bonk"
+        },
+        {
+          "kills": "90",
+          "name": "juseu",
+          "team": "bonk"
+        },
+        {
+          "kills": "47",
+          "name": "SEIDER",
+          "team": "bonk"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.49\n1.42\n1.54",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "170\n108\n222",
+            "hs%": "91%\n100%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "324",
+            "name": "lyNxi",
+            "team": "HSDIRR"
+          },
+          {
+            "acs": "1.22\n1.60\n0.89",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "142\n150\n135",
+            "hs%": "73%\n100%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "193",
+            "name": "freddan",
+            "team": "HSDIRR"
+          },
+          {
+            "acs": "1.18\n2.00\n0.49",
+            "adr": "+6\n+10\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "153\n254\n68",
+            "hs%": "64%\n90%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "90",
+            "name": "Leare",
+            "team": "HSDIRR"
+          },
+          {
+            "acs": "0.98\n1.55\n0.50",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "153\n176\n134",
+            "hs%": "64%\n80%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "191",
+            "name": "vicious",
+            "team": "HSDIRR"
+          },
+          {
+            "acs": "0.48\n0.87\n0.16",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "82\n96\n70",
+            "hs%": "59%\n70%\n50%",
+            "kdr": "9\n6\n3",
+            "kills": "98",
+            "name": "Ale",
+            "team": "HSDIRR"
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n1.41\n0.73",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "157\n199\n106",
+            "hs%": "59%\n75%\n40%",
+            "kdr": "2\n2\n0",
+            "kills": "148",
+            "name": "chiwa",
+            "team": "bonk"
+          },
+          {
+            "acs": "0.88\n1.06\n0.65",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "111\n111\n110",
+            "hs%": "73%\n92%\n50%",
+            "kdr": "5\n0\n5",
+            "kills": "153",
+            "name": "bonkar",
+            "team": "bonk"
+          },
+          {
+            "acs": "0.84\n0.90\n0.77",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "133\n154\n109",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "5\n2\n3",
+            "kills": "181",
+            "name": "Kicks",
+            "team": "bonk"
+          },
+          {
+            "acs": "0.77\n1.14\n0.32",
+            "adr": "-3\n+4\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "101\n124\n73",
+            "hs%": "50%\n75%\n20%",
+            "kdr": "1\n1\n0",
+            "kills": "90",
+            "name": "juseu",
+            "team": "bonk"
+          },
+          {
+            "acs": "0.74\n1.26\n0.11",
+            "adr": "-5\n+5\n-10",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "11\n11\n0",
+            "fk": "106\n166\n36",
+            "hs%": "59%\n83%\n30%",
+            "kdr": "1\n0\n1",
+            "kills": "47",
+            "name": "SEIDER",
+            "team": "bonk"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 165901,
+  "teams": [
+    "HSDIRR",
+    "bonk"
+  ],
+  "tournament": "Regular Season: \n\t\t\t\t\t\tRound 1"
+}

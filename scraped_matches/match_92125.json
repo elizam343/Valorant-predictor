@@ -1,0 +1,788 @@
+{
+  "date": "2022-04-24 10:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "283",
+          "name": "Rafaaaa",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "222",
+          "name": "Andr0idDDD",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "169",
+          "name": "Marzil",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "173",
+          "name": "Kaizen",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "154",
+          "name": "LuciA",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "227",
+          "name": "blackhawk",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "232",
+          "name": "HyPer",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "165",
+          "name": "psy",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "215",
+          "name": "RiX",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "165",
+          "name": "V3nom",
+          "team": "M42 Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.31\n0.91\n1.68",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "201\n128\n269",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "283",
+            "name": "Rafaaaa",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "0.93\n1.13\n0.75",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "123\n170\n80",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "222",
+            "name": "Andr0idDDD",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "0.79\n0.68\n0.89",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "119\n126\n113",
+            "hs%": "48%\n36%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "169",
+            "name": "Marzil",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "0.76\n0.62\n0.88",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "115\n101\n128",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "173",
+            "name": "Kaizen",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "0.74\n0.60\n0.86",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "106\n84\n126",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "9\n2\n7",
+            "kills": "154",
+            "name": "LuciA",
+            "team": "Lethal Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.27\n1.79\n0.71",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "144\n192\n92",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "6\n4\n2",
+            "kills": "227",
+            "name": "blackhawk",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "1.23\n0.94\n1.56",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "134\n128\n139",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "5\n3\n2",
+            "kills": "232",
+            "name": "HyPer",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "1.05\n0.80\n1.32",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "107\n79\n138",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "3\n0\n3",
+            "kills": "165",
+            "name": "psy",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "0.99\n0.88\n1.11",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "147\n105\n192",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "6\n3\n3",
+            "kills": "215",
+            "name": "RiX",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "0.95\n0.53\n1.41",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "105\n81\n132",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "17\n4\n13",
+            "kills": "165",
+            "name": "V3nom",
+            "team": "M42 Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "205",
+          "name": "Rafaaaa",
+          "team": null
+        },
+        {
+          "kills": "267",
+          "name": "Andr0idDDD",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "Marzil",
+          "team": null
+        },
+        {
+          "kills": "127",
+          "name": "Kaizen",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "LuciA",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "blackhawk",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "psy",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "RiX",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "V3nom",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "HyPer",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.11\n1.09\n1.10",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "51\n24\n27",
+            "fk": "153\n137\n171",
+            "hs%": "74%\n74%\n73%",
+            "kdr": "23\n12\n11",
+            "kills": "205",
+            "name": "Rafaaaa",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.75\n0.97",
+            "adr": "-3\n+4\n-7",
+            "agent": "",
+            "assists": "/\n\n51\n27\n24\n\n/",
+            "deaths": "48\n31\n17",
+            "fk": "145\n174\n114",
+            "hs%": "72%\n69%\n76%",
+            "kdr": "19\n7\n12",
+            "kills": "267",
+            "name": "Andr0idDDD",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.99\n0.87",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "38\n16\n22",
+            "fk": "118\n107\n129",
+            "hs%": "57%\n49%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "152",
+            "name": "Marzil",
+            "team": null
+          },
+          {
+            "acs": "0.49\n1.22\n0.84",
+            "adr": "-1\n-13\n+12",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "49\n15\n34",
+            "fk": "124\n85\n165",
+            "hs%": "63%\n54%\n73%",
+            "kdr": "10\n5\n5",
+            "kills": "127",
+            "name": "Kaizen",
+            "team": null
+          },
+          {
+            "acs": "0.60\n1.03\n0.81",
+            "adr": "-7\n-9\n+2",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "40\n18\n22",
+            "fk": "107\n86\n130",
+            "hs%": "65%\n57%\n73%",
+            "kdr": "21\n9\n12",
+            "kills": "141",
+            "name": "LuciA",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n0.97\n1.14",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "50\n28\n22",
+            "fk": "127\n141\n115",
+            "hs%": "68%\n70%\n66%",
+            "kdr": "17\n10\n7",
+            "kills": "233",
+            "name": "blackhawk",
+            "team": null
+          },
+          {
+            "acs": "1.20\n1.03\n1.11",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n45\n21\n24\n\n/",
+            "deaths": "45\n22\n23",
+            "fk": "134\n128\n139",
+            "hs%": "71%\n70%\n71%",
+            "kdr": "21\n8\n13",
+            "kills": "192",
+            "name": "psy",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.35\n1.10",
+            "adr": "+4\n-8\n+12",
+            "agent": "",
+            "assists": "/\n\n48\n28\n20\n\n/",
+            "deaths": "52\n20\n32",
+            "fk": "150\n122\n175",
+            "hs%": "72%\n70%\n74%",
+            "kdr": "15\n8\n7",
+            "kills": "189",
+            "name": "RiX",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.15\n1.06",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "42\n19\n23",
+            "fk": "116\n116\n116",
+            "hs%": "68%\n64%\n71%",
+            "kdr": "30\n9\n21",
+            "kills": "172",
+            "name": "V3nom",
+            "team": null
+          },
+          {
+            "acs": "0.62\n1.40\n1.01",
+            "adr": "+4\n-9\n+13",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "51\n18\n33",
+            "fk": "129\n97\n159",
+            "hs%": "65%\n52%\n77%",
+            "kdr": "11\n5\n6",
+            "kills": "153",
+            "name": "HyPer",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "277",
+          "name": "Andr0idDDD",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "170",
+          "name": "LuciA",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "128",
+          "name": "Rafaaaa",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "232",
+          "name": "Marzil",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "212",
+          "name": "Kaizen",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "126",
+          "name": "V3nom",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "183",
+          "name": "blackhawk",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "252",
+          "name": "HyPer",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "225",
+          "name": "psy",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "200",
+          "name": "RiX",
+          "team": "M42 Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.30\n1.13",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "196\n192\n201",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "12\n5\n7",
+            "kills": "277",
+            "name": "Andr0idDDD",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "1.02\n0.99\n1.04",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "113\n121\n105",
+            "hs%": "58%\n67%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "170",
+            "name": "LuciA",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "1.00\n1.18\n0.82",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "102\n118\n86",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "10\n7\n3",
+            "kills": "128",
+            "name": "Rafaaaa",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "0.94\n0.69\n1.18",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "114\n63\n165",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "6\n4\n2",
+            "kills": "232",
+            "name": "Marzil",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "0.84\n0.80\n0.88",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "120\n112\n128",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "212",
+            "name": "Kaizen",
+            "team": "Lethal Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.67\n0.85",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "142\n189\n94",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "126",
+            "name": "V3nom",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "1.05\n1.03\n1.08",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "124\n123\n124",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "8\n5\n3",
+            "kills": "183",
+            "name": "blackhawk",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "1.00\n0.75\n1.25",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "133\n110\n155",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "252",
+            "name": "HyPer",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "0.97\n0.93\n1.01",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "131\n91\n171",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "225",
+            "name": "psy",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "0.81\n0.65\n0.97",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "119\n115\n122",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "200",
+            "name": "RiX",
+            "team": "M42 Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "224",
+          "name": "Rafaaaa",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "252",
+          "name": "Kaizen",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "171",
+          "name": "Marzil",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "140",
+          "name": "Andr0idDDD",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "148",
+          "name": "LuciA",
+          "team": "Lethal Esports"
+        },
+        {
+          "kills": "306",
+          "name": "RiX",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "259",
+          "name": "psy",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "177",
+          "name": "blackhawk",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "173",
+          "name": "V3nom",
+          "team": "M42 Esports"
+        },
+        {
+          "kills": "178",
+          "name": "HyPer",
+          "team": "M42 Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "0.98\n1.22\n0.67",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "159\n165\n153",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "224",
+            "name": "Rafaaaa",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "0.94\n0.05\n2.12",
+            "adr": "+3\n-9\n+12",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "20\n2\n18",
+            "fk": "138\n44\n264",
+            "hs%": "57%\n42%\n78%",
+            "kdr": "1\n1\n0",
+            "kills": "252",
+            "name": "Kaizen",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "0.88\n0.90\n0.86",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "120\n133\n104",
+            "hs%": "57%\n33%\n89%",
+            "kdr": "0\n0\n0",
+            "kills": "171",
+            "name": "Marzil",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "0.73\n1.10\n0.25",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "110\n161\n44",
+            "hs%": "57%\n58%\n56%",
+            "kdr": "3\n1\n2",
+            "kills": "140",
+            "name": "Andr0idDDD",
+            "team": "Lethal Esports"
+          },
+          {
+            "acs": "0.65\n0.20\n1.25",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "102\n52\n169",
+            "hs%": "52%\n25%\n89%",
+            "kdr": "6\n2\n4",
+            "kills": "148",
+            "name": "LuciA",
+            "team": "Lethal Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.55\n1.01\n1.96",
+            "adr": "+7\n-2\n+9",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "188\n155\n213",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "306",
+            "name": "RiX",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "1.34\n2.08\n0.79",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "166\n242\n109",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "12\n5\n7",
+            "kills": "259",
+            "name": "psy",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "1.09\n1.07\n1.10",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "113\n96\n126",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "177",
+            "name": "blackhawk",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "0.96\n0.65\n1.20",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "98\n65\n123",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "173",
+            "name": "V3nom",
+            "team": "M42 Esports"
+          },
+          {
+            "acs": "0.79\n0.03\n1.41",
+            "adr": "+1\n-6\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "119\n38\n179",
+            "hs%": "62%\n33%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "178",
+            "name": "HyPer",
+            "team": "M42 Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 92125,
+  "teams": [
+    "M42 Esports",
+    "Lethal Esports"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tLower Round 1"
+}

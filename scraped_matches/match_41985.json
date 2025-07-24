@@ -1,0 +1,788 @@
+{
+  "date": "2021-09-06 08:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "283",
+          "name": "sayoo",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "305",
+          "name": "fer",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "254",
+          "name": "roseau",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "191",
+          "name": "Flynch",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "144",
+          "name": "krozera",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "267",
+          "name": "Marlboro",
+          "team": "Langit9"
+        },
+        {
+          "kills": "180",
+          "name": "Cartier",
+          "team": "Langit9"
+        },
+        {
+          "kills": "165",
+          "name": "Insane",
+          "team": "Langit9"
+        },
+        {
+          "kills": "126",
+          "name": "Spyko",
+          "team": "Langit9"
+        },
+        {
+          "kills": "147",
+          "name": "Maskon",
+          "team": "Langit9"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.51\n1.71\n1.05",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "183\n215\n106",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "3\n1\n2",
+            "kills": "283",
+            "name": "sayoo",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "1.45\n1.41\n1.54",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "215\n200\n251",
+            "hs%": "82%\n92%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "305",
+            "name": "fer",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "1.22\n1.35\n0.92",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "164\n163\n167",
+            "hs%": "82%\n100%\n40%",
+            "kdr": "7\n6\n1",
+            "kills": "254",
+            "name": "roseau",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "1.14\n1.01\n1.45",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "112\n115\n103",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "2\n2\n0",
+            "kills": "191",
+            "name": "Flynch",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "0.69\n0.58\n0.95",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "98\n95\n105",
+            "hs%": "41%\n42%\n40%",
+            "kdr": "0\n0\n0",
+            "kills": "144",
+            "name": "krozera",
+            "team": "XcN Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n0.20\n1.55",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "152\n79\n182",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "267",
+            "name": "Marlboro",
+            "team": "Langit9"
+          },
+          {
+            "acs": "0.94\n1.85\n0.56",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "108\n175\n80",
+            "hs%": "53%\n60%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "180",
+            "name": "Cartier",
+            "team": "Langit9"
+          },
+          {
+            "acs": "0.64\n0.75\n0.59",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "116\n107\n120",
+            "hs%": "82%\n100%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "165",
+            "name": "Insane",
+            "team": "Langit9"
+          },
+          {
+            "acs": "0.54\n1.11\n0.30",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "92\n140\n72",
+            "hs%": "47%\n60%\n42%",
+            "kdr": "5\n0\n5",
+            "kills": "126",
+            "name": "Spyko",
+            "team": "Langit9"
+          },
+          {
+            "acs": "0.42\n0.03\n0.61",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "99\n77\n108",
+            "hs%": "65%\n60%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "147",
+            "name": "Maskon",
+            "team": "Langit9"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "209",
+          "name": "Flynch",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "krozera",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "fer",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "roseau",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "sayoo",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "Marlboro",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "Spyko",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "Maskon",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "Cartier",
+          "team": null
+        },
+        {
+          "kills": "107",
+          "name": "Insane",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.09\n1.82\n1.42",
+            "adr": "+25\n+3\n+22",
+            "agent": "",
+            "assists": "/\n\n44\n27\n17\n\n/",
+            "deaths": "69\n30\n39",
+            "fk": "166\n137\n201",
+            "hs%": "75%\n70%\n82%",
+            "kdr": "20\n7\n13",
+            "kills": "209",
+            "name": "Flynch",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.15\n1.09",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n49\n29\n20\n\n/",
+            "deaths": "60\n32\n28",
+            "fk": "156\n158\n155",
+            "hs%": "63%\n58%\n70%",
+            "kdr": "6\n5\n1",
+            "kills": "226",
+            "name": "krozera",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.36\n1.06",
+            "adr": "+5\n-8\n+13",
+            "agent": "",
+            "assists": "/\n\n46\n29\n17\n\n/",
+            "deaths": "51\n21\n30",
+            "fk": "142\n126\n161",
+            "hs%": "70%\n65%\n76%",
+            "kdr": "12\n8\n4",
+            "kills": "167",
+            "name": "fer",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.01\n1.01",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n45\n27\n18\n\n/",
+            "deaths": "48\n29\n19",
+            "fk": "120\n121\n119",
+            "hs%": "77%\n78%\n76%",
+            "kdr": "21\n10\n11",
+            "kills": "190",
+            "name": "roseau",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.97\n0.96",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n49\n28\n21\n\n/",
+            "deaths": "46\n27\n19",
+            "fk": "129\n136\n121",
+            "hs%": "75%\n75%\n76%",
+            "kdr": "28\n8\n20",
+            "kills": "200",
+            "name": "sayoo",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.54\n1.42\n1.02",
+            "adr": "0\n-14\n+14",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "53\n15\n38",
+            "fk": "137\n84\n181",
+            "hs%": "62%\n52%\n70%",
+            "kdr": "12\n4\n8",
+            "kills": "137",
+            "name": "Marlboro",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.06\n1.02",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n51\n25\n26\n\n/",
+            "deaths": "53\n23\n30",
+            "fk": "129\n133\n127",
+            "hs%": "64%\n64%\n65%",
+            "kdr": "23\n10\n13",
+            "kills": "198",
+            "name": "Spyko",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.08\n1.00",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n57\n28\n29\n\n/",
+            "deaths": "54\n21\n33",
+            "fk": "142\n135\n148",
+            "hs%": "68%\n61%\n75%",
+            "kdr": "23\n11\n12",
+            "kills": "198",
+            "name": "Maskon",
+            "team": null
+          },
+          {
+            "acs": "0.80\n0.74\n0.77",
+            "adr": "-13\n-5\n-8",
+            "agent": "",
+            "assists": "/\n\n55\n27\n28\n\n/",
+            "deaths": "42\n22\n20",
+            "fk": "108\n118\n101",
+            "hs%": "55%\n45%\n63%",
+            "kdr": "16\n5\n11",
+            "kills": "201",
+            "name": "Cartier",
+            "team": null
+          },
+          {
+            "acs": "0.51\n0.72\n0.63",
+            "adr": "-27\n-16\n-11",
+            "agent": "",
+            "assists": "/\n\n58\n28\n30\n\n/",
+            "deaths": "31\n12\n19",
+            "fk": "100\n78\n118",
+            "hs%": "67%\n64%\n70%",
+            "kdr": "16\n8\n8",
+            "kills": "107",
+            "name": "Insane",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "457",
+          "name": "Flynch",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "220",
+          "name": "fer",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "58",
+          "name": "krozera",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "206",
+          "name": "roseau",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "160",
+          "name": "sayoo",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "244",
+          "name": "Spyko",
+          "team": "Langit9"
+        },
+        {
+          "kills": "251",
+          "name": "Maskon",
+          "team": "Langit9"
+        },
+        {
+          "kills": "240",
+          "name": "Marlboro",
+          "team": "Langit9"
+        },
+        {
+          "kills": "108",
+          "name": "Cartier",
+          "team": "Langit9"
+        },
+        {
+          "kills": "141",
+          "name": "Insane",
+          "team": "Langit9"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.49\n0.84\n2.14",
+            "adr": "+11\n-1\n+12",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "27\n7\n20",
+            "fk": "197\n102\n291",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "457",
+            "name": "Flynch",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "0.96\n0.42\n1.49",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "110\n71\n149",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "220",
+            "name": "fer",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "0.93\n1.21\n0.66",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "118\n174\n62",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "58",
+            "name": "krozera",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "0.85\n0.83\n0.88",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "124\n102\n145",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "8\n1\n7",
+            "kills": "206",
+            "name": "roseau",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "0.80\n0.82\n0.78",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "131\n137\n125",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "14\n5\n9",
+            "kills": "160",
+            "name": "sayoo",
+            "team": "XcN Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.20\n1.54",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "160\n167\n154",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "10\n6\n4",
+            "kills": "244",
+            "name": "Spyko",
+            "team": "Langit9"
+          },
+          {
+            "acs": "1.33\n1.22\n1.45",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "159\n174\n145",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "10\n7\n3",
+            "kills": "251",
+            "name": "Maskon",
+            "team": "Langit9"
+          },
+          {
+            "acs": "0.96\n0.68\n1.24",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "122\n89\n154",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "240",
+            "name": "Marlboro",
+            "team": "Langit9"
+          },
+          {
+            "acs": "0.90\n0.90\n0.90",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "107\n128\n87",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "108",
+            "name": "Cartier",
+            "team": "Langit9"
+          },
+          {
+            "acs": "0.58\n0.42\n0.74",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "95\n73\n118",
+            "hs%": "58%\n67%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "141",
+            "name": "Insane",
+            "team": "Langit9"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "275",
+          "name": "Flynch",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "325",
+          "name": "krozera",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "144",
+          "name": "roseau",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "190",
+          "name": "fer",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "144",
+          "name": "sayoo",
+          "team": "XcN Gaming"
+        },
+        {
+          "kills": "224",
+          "name": "Maskon",
+          "team": "Langit9"
+        },
+        {
+          "kills": "186",
+          "name": "Spyko",
+          "team": "Langit9"
+        },
+        {
+          "kills": "194",
+          "name": "Marlboro",
+          "team": "Langit9"
+        },
+        {
+          "kills": "127",
+          "name": "Insane",
+          "team": "Langit9"
+        },
+        {
+          "kills": "166",
+          "name": "Cartier",
+          "team": "Langit9"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.52\n1.35\n1.70",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "30\n15\n15",
+            "fk": "171\n180\n163",
+            "hs%": "78%\n69%\n88%",
+            "kdr": "10\n2\n8",
+            "kills": "275",
+            "name": "Flynch",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "1.43\n1.28\n1.57",
+            "adr": "+15\n+3\n+12",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "37\n15\n22",
+            "fk": "216\n192\n241",
+            "hs%": "75%\n63%\n88%",
+            "kdr": "2\n2\n0",
+            "kills": "325",
+            "name": "krozera",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "1.02\n0.90\n1.13",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n13\n4\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "94\n104\n83",
+            "hs%": "75%\n69%\n81%",
+            "kdr": "6\n3\n3",
+            "kills": "144",
+            "name": "roseau",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "0.93\n0.65\n1.22",
+            "adr": "-1\n-7\n+6",
+            "agent": "",
+            "assists": "/\n\n21\n14\n7\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "127\n111\n142",
+            "hs%": "63%\n56%\n69%",
+            "kdr": "6\n5\n1",
+            "kills": "190",
+            "name": "fer",
+            "team": "XcN Gaming"
+          },
+          {
+            "acs": "0.80\n0.50\n1.09",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "99\n76\n121",
+            "hs%": "72%\n69%\n75%",
+            "kdr": "11\n2\n9",
+            "kills": "144",
+            "name": "sayoo",
+            "team": "XcN Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n0.94\n1.16",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "152\n125\n180",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "8\n1\n7",
+            "kills": "224",
+            "name": "Maskon",
+            "team": "Langit9"
+          },
+          {
+            "acs": "1.02\n0.77\n1.27",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "126\n105\n147",
+            "hs%": "66%\n56%\n75%",
+            "kdr": "8\n4\n4",
+            "kills": "186",
+            "name": "Spyko",
+            "team": "Langit9"
+          },
+          {
+            "acs": "0.99\n0.53\n1.45",
+            "adr": "-2\n-9\n+7",
+            "agent": "",
+            "assists": "/\n\n24\n15\n9\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "142\n82\n201",
+            "hs%": "59%\n38%\n81%",
+            "kdr": "7\n3\n4",
+            "kills": "194",
+            "name": "Marlboro",
+            "team": "Langit9"
+          },
+          {
+            "acs": "0.66\n0.51\n0.80",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n24\n14\n10\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "95\n73\n117",
+            "hs%": "66%\n50%\n81%",
+            "kdr": "7\n3\n4",
+            "kills": "127",
+            "name": "Insane",
+            "team": "Langit9"
+          },
+          {
+            "acs": "0.58\n0.39\n0.76",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n27\n15\n12\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "110\n92\n127",
+            "hs%": "50%\n31%\n69%",
+            "kdr": "6\n2\n4",
+            "kills": "166",
+            "name": "Cartier",
+            "team": "Langit9"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 41985,
+  "teams": [
+    "XcN Gaming",
+    "Langit9"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tUpper Bracket Quarterfinals"
+}

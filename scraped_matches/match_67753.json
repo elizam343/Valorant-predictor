@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-29 09:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "327",
+          "name": "k1Ng",
+          "team": "Team Exploit"
+        },
+        {
+          "kills": "221",
+          "name": "soulM8",
+          "team": "Team Exploit"
+        },
+        {
+          "kills": "242",
+          "name": "shooterR",
+          "team": "Team Exploit"
+        },
+        {
+          "kills": "146",
+          "name": "Abdur",
+          "team": "Team Exploit"
+        },
+        {
+          "kills": "117",
+          "name": "HSB",
+          "team": "Team Exploit"
+        },
+        {
+          "kills": "255",
+          "name": "hadaL",
+          "team": "GotyPeeks"
+        },
+        {
+          "kills": "281",
+          "name": "BALLY",
+          "team": "GotyPeeks"
+        },
+        {
+          "kills": "148",
+          "name": "SRR",
+          "team": "GotyPeeks"
+        },
+        {
+          "kills": "85",
+          "name": "BALLY",
+          "team": "GotyPeeks"
+        },
+        {
+          "kills": "65",
+          "name": "Hmzzz",
+          "team": "GotyPeeks"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.59\n1.91\n0.81",
+            "adr": "+10\n+11\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "20\n17\n3",
+            "fk": "200\n243\n98",
+            "hs%": "71%\n83%\n40%",
+            "kdr": "2\n2\n0",
+            "kills": "327",
+            "name": "k1Ng",
+            "team": "Team Exploit"
+          },
+          {
+            "acs": "1.56\n1.75\n1.11",
+            "adr": "+9\n+10\n-1",
+            "agent": "",
+            "assists": "/\n\n6\n3\n3\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "164\n194\n93",
+            "hs%": "76%\n92%\n40%",
+            "kdr": "6\n5\n1",
+            "kills": "221",
+            "name": "soulM8",
+            "team": "Team Exploit"
+          },
+          {
+            "acs": "0.93\n1.12\n0.50",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "152\n172\n104",
+            "hs%": "65%\n75%\n40%",
+            "kdr": "1\n1\n0",
+            "kills": "242",
+            "name": "shooterR",
+            "team": "Team Exploit"
+          },
+          {
+            "acs": "0.89\n0.79\n1.16",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "109\n90\n154",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "2\n2\n0",
+            "kills": "146",
+            "name": "Abdur",
+            "team": "Team Exploit"
+          },
+          {
+            "acs": "0.84\n0.75\n1.06",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "87\n63\n147",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "3\n3\n0",
+            "kills": "117",
+            "name": "HSB",
+            "team": "Team Exploit"
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n1.14\n1.21",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "154\n190\n139",
+            "hs%": "59%\n40%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "255",
+            "name": "hadaL",
+            "team": "GotyPeeks"
+          },
+          {
+            "acs": "1.18\n1.57\n1.01",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "174\n187\n169",
+            "hs%": "65%\n80%\n58%",
+            "kdr": "0\n0\n0",
+            "kills": "281",
+            "name": "BALLY",
+            "team": "GotyPeeks"
+          },
+          {
+            "acs": "0.76\n1.03\n0.65",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "102\n145\n85",
+            "hs%": "53%\n80%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "148",
+            "name": "SRR",
+            "team": "GotyPeeks"
+          },
+          {
+            "acs": "0.36\n0.85\n0.15",
+            "adr": "-8\n+1\n-9",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "56\n126\n26",
+            "hs%": "59%\n100%\n42%",
+            "kdr": "2\n1\n1",
+            "kills": "85",
+            "name": "BALLY",
+            "team": "GotyPeeks"
+          },
+          {
+            "acs": "0.23\n0.24\n0.22",
+            "adr": "-12\n-3\n-9",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "2\n0\n2",
+            "fk": "51\n0\n73",
+            "hs%": "35%\n60%\n25%",
+            "kdr": "3\n2\n1",
+            "kills": "65",
+            "name": "Hmzzz",
+            "team": "GotyPeeks"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "151",
+          "name": "HSB",
+          "team": null
+        },
+        {
+          "kills": "372",
+          "name": "k1Ng",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "soulM8",
+          "team": null
+        },
+        {
+          "kills": "296",
+          "name": "shooterR",
+          "team": null
+        },
+        {
+          "kills": "111",
+          "name": "Abdur",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "hadaL",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "BALLY",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "SRR",
+          "team": null
+        },
+        {
+          "kills": "102",
+          "name": "Hmzzz",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "BALLY",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.98\n1.97\n1.46",
+            "adr": "+16\n0\n+16",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "32\n9\n23",
+            "fk": "178\n117\n244",
+            "hs%": "80%\n78%\n82%",
+            "kdr": "9\n6\n3",
+            "kills": "151",
+            "name": "HSB",
+            "team": null
+          },
+          {
+            "acs": "1.68\n0.83\n1.26",
+            "adr": "+12\n+12\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "31\n23\n8",
+            "fk": "165\n237\n89",
+            "hs%": "77%\n83%\n71%",
+            "kdr": "6\n3\n3",
+            "kills": "372",
+            "name": "k1Ng",
+            "team": null
+          },
+          {
+            "acs": "1.42\n1.00\n1.21",
+            "adr": "+9\n+9\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "25\n16\n9",
+            "fk": "130\n156\n102",
+            "hs%": "74%\n83%\n65%",
+            "kdr": "10\n7\n3",
+            "kills": "209",
+            "name": "soulM8",
+            "team": null
+          },
+          {
+            "acs": "1.31\n0.94\n1.13",
+            "adr": "+12\n+9\n+3",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "37\n21\n16",
+            "fk": "167\n182\n152",
+            "hs%": "69%\n72%\n65%",
+            "kdr": "2\n1\n1",
+            "kills": "296",
+            "name": "shooterR",
+            "team": null
+          },
+          {
+            "acs": "0.73\n1.04\n0.88",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "119\n85\n156",
+            "hs%": "77%\n83%\n71%",
+            "kdr": "8\n6\n2",
+            "kills": "111",
+            "name": "Abdur",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.97\n1.19\n1.08",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "29\n13\n16",
+            "fk": "150\n157\n144",
+            "hs%": "54%\n41%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "232",
+            "name": "hadaL",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.25\n0.95",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "29\n11\n18",
+            "fk": "146\n101\n188",
+            "hs%": "57%\n47%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "166",
+            "name": "BALLY",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.65\n0.82",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n29\n14\n15\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "105\n112\n98",
+            "hs%": "51%\n53%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "173",
+            "name": "SRR",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.30\n0.45",
+            "adr": "-20\n-8\n-12",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "74\n78\n71",
+            "hs%": "54%\n71%\n39%",
+            "kdr": "6\n4\n2",
+            "kills": "102",
+            "name": "Hmzzz",
+            "team": null
+          },
+          {
+            "acs": "0.63\n0.24\n0.43",
+            "adr": "-15\n-3\n-12",
+            "agent": "",
+            "assists": "/\n\n28\n13\n15\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "80\n133\n30",
+            "hs%": "51%\n53%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "190",
+            "name": "BALLY",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "453",
+          "name": "HSB",
+          "team": "Team Exploit"
+        },
+        {
+          "kills": "285",
+          "name": "shooterR",
+          "team": "Team Exploit"
+        },
+        {
+          "kills": "104",
+          "name": "k1Ng",
+          "team": "Team Exploit"
+        },
+        {
+          "kills": "160",
+          "name": "soulM8",
+          "team": "Team Exploit"
+        },
+        {
+          "kills": "220",
+          "name": "Abdur",
+          "team": "Team Exploit"
+        },
+        {
+          "kills": "272",
+          "name": "hadaL",
+          "team": "GotyPeeks"
+        },
+        {
+          "kills": "196",
+          "name": "SRR",
+          "team": "GotyPeeks"
+        },
+        {
+          "kills": "353",
+          "name": "BALLY",
+          "team": "GotyPeeks"
+        },
+        {
+          "kills": "106",
+          "name": "Hmzzz",
+          "team": "GotyPeeks"
+        },
+        {
+          "kills": "82",
+          "name": "BALLY",
+          "team": "GotyPeeks"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "2.05\n1.44\n2.35",
+            "adr": "+17\n+1\n+16",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "25\n5\n20",
+            "fk": "264\n225\n284",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "453",
+            "name": "HSB",
+            "team": "Team Exploit"
+          },
+          {
+            "acs": "1.32\n1.70\n1.13",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "182\n202\n172",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "285",
+            "name": "shooterR",
+            "team": "Team Exploit"
+          },
+          {
+            "acs": "0.96\n1.20\n0.83",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "132\n226\n86",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "104",
+            "name": "k1Ng",
+            "team": "Team Exploit"
+          },
+          {
+            "acs": "0.88\n0.76\n0.95",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "97\n79\n105",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "160",
+            "name": "soulM8",
+            "team": "Team Exploit"
+          },
+          {
+            "acs": "0.87\n0.62\n1.00",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "129\n75\n156",
+            "hs%": "83%\n100%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "220",
+            "name": "Abdur",
+            "team": "Team Exploit"
+          }
+        ],
+        [
+          {
+            "acs": "0.98\n0.91\n1.13",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "147\n143\n154",
+            "hs%": "50%\n42%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "272",
+            "name": "hadaL",
+            "team": "GotyPeeks"
+          },
+          {
+            "acs": "0.88\n0.98\n0.66",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "107\n98\n124",
+            "hs%": "50%\n42%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "196",
+            "name": "SRR",
+            "team": "GotyPeeks"
+          },
+          {
+            "acs": "0.73\n0.23\n1.73",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "119\n65\n227",
+            "hs%": "50%\n33%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "353",
+            "name": "BALLY",
+            "team": "GotyPeeks"
+          },
+          {
+            "acs": "0.66\n0.75\n0.47",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "96\n111\n67",
+            "hs%": "72%\n75%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "106",
+            "name": "Hmzzz",
+            "team": "GotyPeeks"
+          },
+          {
+            "acs": "0.50\n0.54\n0.42",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "104\n136\n39",
+            "hs%": "44%\n33%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "82",
+            "name": "BALLY",
+            "team": "GotyPeeks"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 67753,
+  "teams": [
+    "Team Exploit",
+    "GotyPeeks"
+  ],
+  "tournament": "Pakistan and Afghanistan Qualifier: \n\t\t\t\t\t\tQuarterfinals"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2022-03-31 19:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "539",
+          "name": "kaii",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "177",
+          "name": "liz",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "155",
+          "name": "may",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "155",
+          "name": "gogu",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "177",
+          "name": "yae",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "185",
+          "name": "skyler",
+          "team": "Immaculate"
+        },
+        {
+          "kills": "153",
+          "name": "ragingpengu",
+          "team": "Immaculate"
+        },
+        {
+          "kills": "155",
+          "name": "Cr1ss",
+          "team": "Immaculate"
+        },
+        {
+          "kills": "150",
+          "name": "Son1e",
+          "team": "Immaculate"
+        },
+        {
+          "kills": "111",
+          "name": "tori",
+          "team": "Immaculate"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "2.41\n2.04\n2.59",
+            "adr": "+25\n+6\n+19",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "35\n10\n25",
+            "fk": "325\n285\n345",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "539",
+            "name": "kaii",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "1.29\n1.03\n1.42",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n6\n3\n3\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "111\n113\n111",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "177",
+            "name": "liz",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "1.02\n0.70\n1.18",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "99\n51\n123",
+            "hs%": "83%\n67%\n92%",
+            "kdr": "9\n2\n7",
+            "kills": "155",
+            "name": "may",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "1.00\n1.30\n0.85",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "110\n155\n88",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "155",
+            "name": "gogu",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "0.97\n1.29\n0.81",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "108\n144\n90",
+            "hs%": "83%\n100%\n75%",
+            "kdr": "17\n8\n9",
+            "kills": "177",
+            "name": "yae",
+            "team": "eq Scarlet"
+          }
+        ],
+        [
+          {
+            "acs": "0.89\n0.80\n1.07",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "113\n99\n142",
+            "hs%": "39%\n42%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "185",
+            "name": "skyler",
+            "team": "Immaculate"
+          },
+          {
+            "acs": "0.79\n0.70\n0.98",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "108\n101\n122",
+            "hs%": "39%\n42%\n33%",
+            "kdr": "2\n1\n1",
+            "kills": "153",
+            "name": "ragingpengu",
+            "team": "Immaculate"
+          },
+          {
+            "acs": "0.61\n0.60\n0.64",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "93\n83\n113",
+            "hs%": "56%\n42%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "155",
+            "name": "Cr1ss",
+            "team": "Immaculate"
+          },
+          {
+            "acs": "0.53\n0.52\n0.54",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "114\n108\n124",
+            "hs%": "50%\n42%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "150",
+            "name": "Son1e",
+            "team": "Immaculate"
+          },
+          {
+            "acs": "0.45\n0.30\n0.74",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "71\n56\n99",
+            "hs%": "56%\n50%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "111",
+            "name": "tori",
+            "team": "Immaculate"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "kaii",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "yae",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "may",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "liz",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "gogu",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "skyler",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "tori",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "ragingpengu",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Cr1ss",
+          "team": null
+        },
+        {
+          "kills": "112",
+          "name": "Son1e",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.23\n1.95\n1.64",
+            "adr": "+28\n+4\n+24",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "53\n17\n36",
+            "fk": "220\n167\n260",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "245",
+            "name": "kaii",
+            "team": null
+          },
+          {
+            "acs": "0.93\n1.38\n1.19",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n29\n14\n15\n\n/",
+            "deaths": "31\n10\n21",
+            "fk": "139\n106\n164",
+            "hs%": "83%\n78%\n88%",
+            "kdr": "32\n13\n19",
+            "kills": "177",
+            "name": "yae",
+            "team": null
+          },
+          {
+            "acs": "1.28\n1.12\n1.19",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "29\n14\n15",
+            "fk": "130\n141\n122",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "17\n6\n11",
+            "kills": "223",
+            "name": "may",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.09\n0.95",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "28\n11\n17",
+            "fk": "106\n109\n104",
+            "hs%": "71%\n61%\n79%",
+            "kdr": "7\n2\n5",
+            "kills": "160",
+            "name": "liz",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.82\n0.87",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n25\n14\n11\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "108\n142\n82",
+            "hs%": "79%\n72%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "197",
+            "name": "gogu",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.96\n1.37\n1.13",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n29\n19\n10\n\n/",
+            "deaths": "34\n17\n17",
+            "fk": "143\n113\n183",
+            "hs%": "55%\n50%\n61%",
+            "kdr": "3\n2\n1",
+            "kills": "191",
+            "name": "skyler",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.05\n0.89",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n31\n19\n12\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "111\n106\n118",
+            "hs%": "64%\n54%\n78%",
+            "kdr": "12\n6\n6",
+            "kills": "152",
+            "name": "tori",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.79\n0.82",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n31\n18\n13\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "108\n111\n106",
+            "hs%": "60%\n54%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "172",
+            "name": "ragingpengu",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.96\n0.80",
+            "adr": "-9\n-10\n+1",
+            "agent": "",
+            "assists": "/\n\n33\n20\n13\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "127\n109\n150",
+            "hs%": "57%\n42%\n78%",
+            "kdr": "9\n6\n3",
+            "kills": "167",
+            "name": "Cr1ss",
+            "team": null
+          },
+          {
+            "acs": "0.38\n0.80\n0.56",
+            "adr": "-18\n-16\n-2",
+            "agent": "",
+            "assists": "/\n\n40\n24\n16\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "123\n88\n170",
+            "hs%": "50%\n38%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "112",
+            "name": "Son1e",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "387",
+          "name": "yae",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "175",
+          "name": "may",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "255",
+          "name": "kaii",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "116",
+          "name": "gogu",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "167",
+          "name": "liz",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "272",
+          "name": "skyler",
+          "team": "Immaculate"
+        },
+        {
+          "kills": "215",
+          "name": "tori",
+          "team": "Immaculate"
+        },
+        {
+          "kills": "260",
+          "name": "Cr1ss",
+          "team": "Immaculate"
+        },
+        {
+          "kills": "143",
+          "name": "ragingpengu",
+          "team": "Immaculate"
+        },
+        {
+          "kills": "290",
+          "name": "Son1e",
+          "team": "Immaculate"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.35\n0.75\n1.94",
+            "adr": "+5\n-4\n+9",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "163\n87\n238",
+            "hs%": "83%\n67%\n100%",
+            "kdr": "15\n5\n10",
+            "kills": "387",
+            "name": "yae",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "1.31\n1.56\n1.06",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "154\n186\n121",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "8\n4\n4",
+            "kills": "175",
+            "name": "may",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "1.07\n0.82\n1.31",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "141\n107\n175",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "255",
+            "name": "kaii",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "0.78\n0.77\n0.80",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "106\n136\n76",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "116",
+            "name": "gogu",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "0.70\n0.63\n0.77",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "102\n107\n97",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "167",
+            "name": "liz",
+            "team": "eq Scarlet"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.11\n1.51",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "166\n128\n203",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "272",
+            "name": "skyler",
+            "team": "Immaculate"
+          },
+          {
+            "acs": "1.22\n1.23\n1.21",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "142\n156\n128",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "215",
+            "name": "tori",
+            "team": "Immaculate"
+          },
+          {
+            "acs": "0.94\n0.75\n1.12",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "152\n135\n168",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "260",
+            "name": "Cr1ss",
+            "team": "Immaculate"
+          },
+          {
+            "acs": "0.85\n1.00\n0.69",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "109\n120\n97",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "143",
+            "name": "ragingpengu",
+            "team": "Immaculate"
+          },
+          {
+            "acs": "0.58\n0.23\n0.93",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "130\n68\n193",
+            "hs%": "50%\n33%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "290",
+            "name": "Son1e",
+            "team": "Immaculate"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 83755,
+  "teams": [
+    "eq Scarlet",
+    "Immaculate"
+  ],
+  "tournament": "Swiss Stage: \n\t\t\t\t\t\tRound 2"
+}

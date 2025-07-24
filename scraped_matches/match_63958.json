@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-14 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "248",
+          "name": "khan",
+          "team": "G4 GROBIANO"
+        },
+        {
+          "kills": "193",
+          "name": "gsn",
+          "team": "G4 GROBIANO"
+        },
+        {
+          "kills": "140",
+          "name": "inimigo da mira",
+          "team": "G4 GROBIANO"
+        },
+        {
+          "kills": "161",
+          "name": "suco",
+          "team": "G4 GROBIANO"
+        },
+        {
+          "kills": "125",
+          "name": "azurah",
+          "team": "G4 GROBIANO"
+        },
+        {
+          "kills": "338",
+          "name": "furq",
+          "team": "RD E-SPORTS"
+        },
+        {
+          "kills": "317",
+          "name": "Braulino",
+          "team": "RD E-SPORTS"
+        },
+        {
+          "kills": "243",
+          "name": "pLGodzao",
+          "team": "RD E-SPORTS"
+        },
+        {
+          "kills": "227",
+          "name": "rdo",
+          "team": "RD E-SPORTS"
+        },
+        {
+          "kills": "110",
+          "name": "high",
+          "team": "RD E-SPORTS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "0.97\n1.15\n0.53",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "160\n188\n94",
+            "hs%": "71%\n67%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "248",
+            "name": "khan",
+            "team": "G4 GROBIANO"
+          },
+          {
+            "acs": "0.77\n0.27\n1.96",
+            "adr": "-5\n-9\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "121\n74\n235",
+            "hs%": "59%\n42%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "193",
+            "name": "gsn",
+            "team": "G4 GROBIANO"
+          },
+          {
+            "acs": "0.66\n0.27\n1.58",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "88\n59\n156",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "3\n2\n1",
+            "kills": "140",
+            "name": "inimigo da mira",
+            "team": "G4 GROBIANO"
+          },
+          {
+            "acs": "0.56\n0.36\n1.04",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "95\n71\n153",
+            "hs%": "53%\n42%\n80%",
+            "kdr": "3\n1\n2",
+            "kills": "161",
+            "name": "suco",
+            "team": "G4 GROBIANO"
+          },
+          {
+            "acs": "0.50\n0.69\n0.04",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "86\n84\n92",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "8\n5\n3",
+            "kills": "125",
+            "name": "azurah",
+            "team": "G4 GROBIANO"
+          }
+        ],
+        [
+          {
+            "acs": "1.67\n0.02\n2.40",
+            "adr": "+8\n-5\n+13",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "19\n0\n19",
+            "fk": "218\n51\n288",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "12\n3\n9",
+            "kills": "338",
+            "name": "furq",
+            "team": "RD E-SPORTS"
+          },
+          {
+            "acs": "1.57\n2.00\n1.38",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "205\n282\n173",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "317",
+            "name": "Braulino",
+            "team": "RD E-SPORTS"
+          },
+          {
+            "acs": "1.39\n1.70\n1.26",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "168\n233\n141",
+            "hs%": "82%\n60%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "243",
+            "name": "pLGodzao",
+            "team": "RD E-SPORTS"
+          },
+          {
+            "acs": "1.18\n0.88\n1.31",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "136\n105\n149",
+            "hs%": "71%\n40%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "227",
+            "name": "rdo",
+            "team": "RD E-SPORTS"
+          },
+          {
+            "acs": "0.65\n0.51\n0.72",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "74\n81\n71",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "110",
+            "name": "high",
+            "team": "RD E-SPORTS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "232",
+          "name": "khan",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "suco",
+          "team": null
+        },
+        {
+          "kills": "126",
+          "name": "gsn",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "azurah",
+          "team": null
+        },
+        {
+          "kills": "118",
+          "name": "inimigo da mira",
+          "team": null
+        },
+        {
+          "kills": "425",
+          "name": "Braulino",
+          "team": null
+        },
+        {
+          "kills": "272",
+          "name": "pLGodzao",
+          "team": null
+        },
+        {
+          "kills": "123",
+          "name": "furq",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "rdo",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "high",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.20\n1.16",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n31\n17\n14\n\n/",
+            "deaths": "33\n18\n15",
+            "fk": "159\n158\n159",
+            "hs%": "74%\n77%\n71%",
+            "kdr": "9\n5\n4",
+            "kills": "232",
+            "name": "khan",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.89\n0.86",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n33\n16\n17\n\n/",
+            "deaths": "30\n18\n12",
+            "fk": "131\n118\n147",
+            "hs%": "67%\n55%\n82%",
+            "kdr": "6\n2\n4",
+            "kills": "203",
+            "name": "suco",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.88\n0.78",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n32\n16\n16\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "99\n87\n114",
+            "hs%": "54%\n55%\n53%",
+            "kdr": "10\n7\n3",
+            "kills": "126",
+            "name": "gsn",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.64\n0.75",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n32\n16\n16\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "106\n96\n119",
+            "hs%": "64%\n64%\n65%",
+            "kdr": "16\n6\n10",
+            "kills": "164",
+            "name": "azurah",
+            "team": null
+          },
+          {
+            "acs": "0.62\n0.74\n0.67",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n31\n16\n15\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "94\n76\n116",
+            "hs%": "67%\n68%\n65%",
+            "kdr": "12\n5\n7",
+            "kills": "118",
+            "name": "inimigo da mira",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "2.08\n0.98\n1.46",
+            "adr": "+19\n+17\n+2",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "44\n29\n15",
+            "fk": "172\n258\n106",
+            "hs%": "77%\n94%\n64%",
+            "kdr": "10\n6\n4",
+            "kills": "425",
+            "name": "Braulino",
+            "team": null
+          },
+          {
+            "acs": "1.48\n1.10\n1.27",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "31\n16\n15",
+            "fk": "153\n194\n121",
+            "hs%": "69%\n71%\n68%",
+            "kdr": "7\n4\n3",
+            "kills": "272",
+            "name": "pLGodzao",
+            "team": null
+          },
+          {
+            "acs": "0.42\n1.62\n1.09",
+            "adr": "+4\n-7\n+11",
+            "agent": "",
+            "assists": "/\n\n28\n14\n14\n\n/",
+            "deaths": "32\n7\n25",
+            "fk": "165\n84\n228",
+            "hs%": "72%\n65%\n77%",
+            "kdr": "17\n6\n11",
+            "kills": "123",
+            "name": "furq",
+            "team": null
+          },
+          {
+            "acs": "1.04\n1.04\n1.04",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n25\n11\n14\n\n/",
+            "deaths": "29\n13\n16",
+            "fk": "126\n124\n127",
+            "hs%": "72%\n71%\n73%",
+            "kdr": "14\n6\n8",
+            "kills": "188",
+            "name": "rdo",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.86\n0.84",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "104\n118\n93",
+            "hs%": "67%\n71%\n64%",
+            "kdr": "6\n3\n3",
+            "kills": "199",
+            "name": "high",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "289",
+          "name": "khan",
+          "team": "G4 GROBIANO"
+        },
+        {
+          "kills": "218",
+          "name": "suco",
+          "team": "G4 GROBIANO"
+        },
+        {
+          "kills": "194",
+          "name": "azurah",
+          "team": "G4 GROBIANO"
+        },
+        {
+          "kills": "96",
+          "name": "gsn",
+          "team": "G4 GROBIANO"
+        },
+        {
+          "kills": "134",
+          "name": "inimigo da mira",
+          "team": "G4 GROBIANO"
+        },
+        {
+          "kills": "56",
+          "name": "Braulino",
+          "team": "RD E-SPORTS"
+        },
+        {
+          "kills": "137",
+          "name": "pLGodzao",
+          "team": "RD E-SPORTS"
+        },
+        {
+          "kills": "189",
+          "name": "high",
+          "team": "RD E-SPORTS"
+        },
+        {
+          "kills": "132",
+          "name": "rdo",
+          "team": "RD E-SPORTS"
+        },
+        {
+          "kills": "214",
+          "name": "furq",
+          "team": "RD E-SPORTS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.30\n1.10\n1.47",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "157\n122\n186",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "289",
+            "name": "khan",
+            "team": "G4 GROBIANO"
+          },
+          {
+            "acs": "1.10\n1.42\n0.83",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "158\n174\n145",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "218",
+            "name": "suco",
+            "team": "G4 GROBIANO"
+          },
+          {
+            "acs": "0.95\n1.03\n0.89",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "121\n110\n130",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "8\n1\n7",
+            "kills": "194",
+            "name": "azurah",
+            "team": "G4 GROBIANO"
+          },
+          {
+            "acs": "0.78\n1.21\n0.43",
+            "adr": "-6\n+2\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "82\n103\n64",
+            "hs%": "50%\n70%\n33%",
+            "kdr": "7\n5\n2",
+            "kills": "96",
+            "name": "gsn",
+            "team": "G4 GROBIANO"
+          },
+          {
+            "acs": "0.68\n1.03\n0.38",
+            "adr": "-6\n+2\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "98\n97\n99",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "9\n3\n6",
+            "kills": "134",
+            "name": "inimigo da mira",
+            "team": "G4 GROBIANO"
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n2.11\n0.49",
+            "adr": "+8\n+12\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "23\n20\n3",
+            "fk": "147\n248\n26",
+            "hs%": "68%\n92%\n40%",
+            "kdr": "6\n5\n1",
+            "kills": "56",
+            "name": "Braulino",
+            "team": "RD E-SPORTS"
+          },
+          {
+            "acs": "1.17\n1.39\n0.91",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "141\n177\n97",
+            "hs%": "59%\n75%\n40%",
+            "kdr": "3\n2\n1",
+            "kills": "137",
+            "name": "pLGodzao",
+            "team": "RD E-SPORTS"
+          },
+          {
+            "acs": "0.98\n0.94\n1.03",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "127\n133\n120",
+            "hs%": "64%\n75%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "189",
+            "name": "high",
+            "team": "RD E-SPORTS"
+          },
+          {
+            "acs": "0.93\n1.10\n0.72",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "118\n132\n100",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "8\n5\n3",
+            "kills": "132",
+            "name": "rdo",
+            "team": "RD E-SPORTS"
+          },
+          {
+            "acs": "0.63\n0.59\n0.69",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "125\n98\n157",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "5\n3\n2",
+            "kills": "214",
+            "name": "furq",
+            "team": "RD E-SPORTS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 63958,
+  "teams": [
+    "RD E-SPORTS",
+    "G4 GROBIANO"
+  ],
+  "tournament": "Open Qualifier #1: \n\t\t\t\t\t\tRound of 64"
+}

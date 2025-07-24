@@ -1,0 +1,104 @@
+{% extends "base.html" %}
+
+{% block title %}Matches - Valorant Kill Line Predictor{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-gamepad"></i> Matches</h5>
+            </div>
+            <div class="card-body">
+                {% if matches %}
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Teams</th>
+                                    <th>Tournament</th>
+                                    <th>Date</th>
+                                    <th>Map</th>
+                                    <th>Status</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for match in matches %}
+                                <tr>
+                                    <td>
+                                        <strong>{{ match.team1 }}</strong> vs <strong>{{ match.team2 }}</strong>
+                                    </td>
+                                    <td>{{ match.tournament or 'N/A' }}</td>
+                                    <td>{{ match.match_date.strftime('%Y-%m-%d %H:%M') if match.match_date else 'TBD' }}</td>
+                                    <td>{{ match.map_name or 'TBD' }}</td>
+                                    <td>
+                                        <span class="badge bg-{% if match.status == 'completed' %}success{% elif match.status == 'live' %}danger{% else %}secondary{% endif %}">
+                                            {{ match.status.title() }}
+                                        </span>
+                                    </td>
+                                    <td>
+                                        {% if current_user.is_authenticated %}
+                                            <a href="{{ url_for('predictions') }}" class="btn btn-sm btn-primary">
+                                                <i class="fas fa-chart-line"></i> Predict
+                                            </a>
+                                        {% endif %}
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                {% else %}
+                    <div class="text-center py-5">
+                        <i class="fas fa-gamepad fa-3x text-muted mb-3"></i>
+                        <h5>No matches found</h5>
+                        <p class="text-muted">Check back later for upcoming matches.</p>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-info-circle"></i> Match Information</h5>
+            </div>
+            <div class="card-body">
+                <p>This page shows upcoming and completed Valorant matches. You can:</p>
+                <ul>
+                    <li>View match schedules and details</li>
+                    <li>See tournament information</li>
+                    <li>Check match status (scheduled, live, completed)</li>
+                    <li>Navigate to predictions for upcoming matches</li>
+                </ul>
+                
+                <div class="alert alert-info mt-3">
+                    <strong>Note:</strong> Match data is currently limited. In a full implementation, this would be populated from live esports APIs.
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-calendar"></i> Upcoming Events</h5>
+            </div>
+            <div class="card-body">
+                <div class="text-center py-3">
+                    <i class="fas fa-calendar-alt fa-2x text-muted mb-2"></i>
+                    <p class="text-muted">No upcoming events scheduled</p>
+                </div>
+                
+                <div class="alert alert-warning">
+                    <small><strong>Feature Coming Soon:</strong> Live match tracking and real-time updates will be available in future versions.</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

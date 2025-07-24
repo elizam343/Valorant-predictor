@@ -1,0 +1,788 @@
+{
+  "date": "2023-02-06 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "274",
+          "name": "Bizinha",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "206",
+          "name": "sayuri",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "188",
+          "name": "antG",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "149",
+          "name": "Mel",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "173",
+          "name": "nanah",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "247",
+          "name": "blu",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "250",
+          "name": "lule",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "189",
+          "name": "Bia",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "166",
+          "name": "luiza",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "199",
+          "name": "mizi",
+          "team": "Black Dragons FEM"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.26\n0.70\n2.21",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "173\n114\n275",
+            "hs%": "63%\n50%\n86%",
+            "kdr": "9\n6\n3",
+            "kills": "274",
+            "name": "Bizinha",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "0.93\n1.01\n0.80",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "125\n129\n118",
+            "hs%": "79%\n83%\n71%",
+            "kdr": "6\n4\n2",
+            "kills": "206",
+            "name": "sayuri",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "0.92\n1.03\n0.73",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "106\n132\n63",
+            "hs%": "79%\n92%\n57%",
+            "kdr": "11\n7\n4",
+            "kills": "188",
+            "name": "antG",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "0.87\n0.82\n0.95",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "90\n97\n79",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "10\n5\n5",
+            "kills": "149",
+            "name": "Mel",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "0.68\n0.55\n0.90",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "118\n100\n147",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "0\n0\n0",
+            "kills": "173",
+            "name": "nanah",
+            "team": "00Nation Fem"
+          }
+        ],
+        [
+          {
+            "acs": "1.36\n0.68\n1.76",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "163\n68\n218",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "247",
+            "name": "blu",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "1.34\n1.57\n1.20",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "167\n163\n170",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "250",
+            "name": "lule",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "1.13\n0.79\n1.32",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "129\n91\n152",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "12\n9\n3",
+            "kills": "189",
+            "name": "Bia",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.96\n0.55\n1.20",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "112\n85\n128",
+            "hs%": "68%\n43%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "166",
+            "name": "luiza",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.93\n1.29\n0.71",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "142\n151\n137",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "9\n2\n7",
+            "kills": "199",
+            "name": "mizi",
+            "team": "Black Dragons FEM"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "320",
+          "name": "Bizinha",
+          "team": null
+        },
+        {
+          "kills": "252",
+          "name": "antG",
+          "team": null
+        },
+        {
+          "kills": "136",
+          "name": "Mel",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "sayuri",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "nanah",
+          "team": null
+        },
+        {
+          "kills": "337",
+          "name": "lule",
+          "team": null
+        },
+        {
+          "kills": "142",
+          "name": "Bia",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "blu",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "luiza",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "mizi",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.18\n1.27",
+            "adr": "+16\n+10\n+6",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "60\n34\n26",
+            "fk": "170\n188\n150",
+            "hs%": "75%\n76%\n74%",
+            "kdr": "18\n11\n7",
+            "kills": "320",
+            "name": "Bizinha",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.85\n1.06",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "48\n29\n19",
+            "fk": "131\n145\n116",
+            "hs%": "83%\n94%\n71%",
+            "kdr": "35\n18\n17",
+            "kills": "252",
+            "name": "antG",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.17\n1.03",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n36\n16\n20\n\n/",
+            "deaths": "38\n16\n22",
+            "fk": "111\n88\n136",
+            "hs%": "70%\n73%\n68%",
+            "kdr": "21\n14\n7",
+            "kills": "136",
+            "name": "Mel",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.06\n0.98",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n41\n24\n17\n\n/",
+            "deaths": "40\n19\n21",
+            "fk": "113\n102\n125",
+            "hs%": "78%\n73%\n84%",
+            "kdr": "32\n18\n14",
+            "kills": "164",
+            "name": "sayuri",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.82\n0.85",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n41\n19\n22\n\n/",
+            "deaths": "37\n20\n17",
+            "fk": "124\n109\n139",
+            "hs%": "72%\n79%\n65%",
+            "kdr": "15\n5\n10",
+            "kills": "157",
+            "name": "nanah",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.51\n1.00\n1.24",
+            "adr": "+13\n+11\n+2",
+            "agent": "",
+            "assists": "/\n\n49\n25\n24\n\n/",
+            "deaths": "62\n36\n26",
+            "fk": "176\n202\n151",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "9\n4\n5",
+            "kills": "337",
+            "name": "lule",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.07\n0.95",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "37\n14\n23",
+            "fk": "114\n90\n136",
+            "hs%": "69%\n61%\n76%",
+            "kdr": "21\n12\n9",
+            "kills": "142",
+            "name": "Bia",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.88\n0.93",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n43\n24\n19\n\n/",
+            "deaths": "40\n20\n20",
+            "fk": "115\n110\n119",
+            "hs%": "69%\n68%\n70%",
+            "kdr": "20\n13\n7",
+            "kills": "187",
+            "name": "blu",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.79\n0.84",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "36\n17\n19",
+            "fk": "134\n128\n139",
+            "hs%": "66%\n68%\n64%",
+            "kdr": "9\n5\n4",
+            "kills": "176",
+            "name": "luiza",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.87\n0.83",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "31\n15\n16",
+            "fk": "95\n69\n119",
+            "hs%": "69%\n71%\n67%",
+            "kdr": "24\n11\n13",
+            "kills": "124",
+            "name": "mizi",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "230",
+          "name": "nanah",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "247",
+          "name": "sayuri",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "159",
+          "name": "Bizinha",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "244",
+          "name": "antG",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "221",
+          "name": "Mel",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "290",
+          "name": "lule",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "212",
+          "name": "mizi",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "194",
+          "name": "luiza",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "150",
+          "name": "Bia",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "107",
+          "name": "blu",
+          "team": "Black Dragons FEM"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.28\n1.24",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "165\n157\n171",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "230",
+            "name": "nanah",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "1.22\n0.84\n1.49",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "124\n79\n157",
+            "hs%": "86%\n67%\n100%",
+            "kdr": "15\n6\n9",
+            "kills": "247",
+            "name": "sayuri",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "1.13\n1.42\n0.91",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "149\n210\n103",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "159",
+            "name": "Bizinha",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "1.11\n1.27\n1.00",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "157\n164\n152",
+            "hs%": "90%\n89%\n92%",
+            "kdr": "12\n5\n7",
+            "kills": "244",
+            "name": "antG",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "0.91\n0.60\n1.15",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "110\n75\n135",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "6\n5\n1",
+            "kills": "221",
+            "name": "Mel",
+            "team": "00Nation Fem"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.32\n1.18",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n13\n6\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "201\n215\n183",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "5\n2\n3",
+            "kills": "290",
+            "name": "lule",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.89\n0.66\n1.19",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "92\n53\n143",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "8\n5\n3",
+            "kills": "212",
+            "name": "mizi",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.82\n0.93\n0.66",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "119\n115\n125",
+            "hs%": "62%\n75%\n44%",
+            "kdr": "3\n2\n1",
+            "kills": "194",
+            "name": "luiza",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.74\n0.71\n0.78",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "100\n90\n113",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "7\n1\n6",
+            "kills": "150",
+            "name": "Bia",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.58\n0.74\n0.36",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "91\n104\n74",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "7\n3\n4",
+            "kills": "107",
+            "name": "blu",
+            "team": "Black Dragons FEM"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "315",
+          "name": "Bizinha",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "182",
+          "name": "Mel",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "209",
+          "name": "antG",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "138",
+          "name": "sayuri",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "116",
+          "name": "nanah",
+          "team": "00Nation Fem"
+        },
+        {
+          "kills": "267",
+          "name": "lule",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "175",
+          "name": "Bia",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "163",
+          "name": "blu",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "214",
+          "name": "luiza",
+          "team": "Black Dragons FEM"
+        },
+        {
+          "kills": "84",
+          "name": "mizi",
+          "team": "Black Dragons FEM"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.95\n0.86",
+            "adr": "+10\n+10\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "26\n17\n9",
+            "fk": "185\n245\n124",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "315",
+            "name": "Bizinha",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "1.25\n1.17\n1.34",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "129\n90\n169",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "5\n4\n1",
+            "kills": "182",
+            "name": "Mel",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "1.13\n1.50\n0.77",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "128\n144\n112",
+            "hs%": "79%\n100%\n58%",
+            "kdr": "12\n6\n6",
+            "kills": "209",
+            "name": "antG",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "0.81\n0.85\n0.78",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "95\n92\n98",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "11\n8\n3",
+            "kills": "138",
+            "name": "sayuri",
+            "team": "00Nation Fem"
+          },
+          {
+            "acs": "0.63\n0.89\n0.37",
+            "adr": "-6\n+2\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "93\n82\n103",
+            "hs%": "63%\n83%\n42%",
+            "kdr": "6\n2\n4",
+            "kills": "116",
+            "name": "nanah",
+            "team": "00Nation Fem"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n1.65\n0.66",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "22\n15\n7",
+            "fk": "161\n213\n108",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "267",
+            "name": "lule",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.99\n0.96\n1.03",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "114\n89\n138",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "175",
+            "name": "Bia",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.88\n1.37\n0.40",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "97\n141\n53",
+            "hs%": "75%\n92%\n58%",
+            "kdr": "6\n5\n1",
+            "kills": "163",
+            "name": "blu",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.76\n1.03\n0.48",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "164\n167\n161",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "3\n3\n0",
+            "kills": "214",
+            "name": "luiza",
+            "team": "Black Dragons FEM"
+          },
+          {
+            "acs": "0.69\n0.61\n0.78",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "60\n37\n82",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "7\n4\n3",
+            "kills": "84",
+            "name": "mizi",
+            "team": "Black Dragons FEM"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 167889,
+  "teams": [
+    "00Nation Fem",
+    "Black Dragons FEM"
+  ],
+  "tournament": "Qualifier 2: \n\t\t\t\t\t\tQuarterfinals"
+}

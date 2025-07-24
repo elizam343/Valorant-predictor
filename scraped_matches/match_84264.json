@@ -1,0 +1,594 @@
+{
+  "date": "2022-04-03 00:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "242",
+          "name": "lykann",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "311",
+          "name": "Dolph",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "187",
+          "name": "cuppycake",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "217",
+          "name": "casey",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "229",
+          "name": "mimii",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "282",
+          "name": "Calypso",
+          "team": "NEXUZ"
+        },
+        {
+          "kills": "161",
+          "name": "SMACKIIEZ",
+          "team": "NEXUZ"
+        },
+        {
+          "kills": "148",
+          "name": "Viol3tte",
+          "team": "NEXUZ"
+        },
+        {
+          "kills": "134",
+          "name": "TPZ",
+          "team": "NEXUZ"
+        },
+        {
+          "kills": "85",
+          "name": "Stevenz",
+          "team": "NEXUZ"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.74\n2.01\n1.65",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n4\n0\n4\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "155\n109\n171",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "242",
+            "name": "lykann",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.60\n1.71\n1.56",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "233\n277\n218",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "311",
+            "name": "Dolph",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.45\n2.07\n1.25",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n6\n0\n6\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "122\n103\n128",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "9\n4\n5",
+            "kills": "187",
+            "name": "cuppycake",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.19\n2.08\n0.89",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "124\n153\n115",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "217",
+            "name": "casey",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.82\n1.00\n0.76",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "135\n104\n146",
+            "hs%": "69%\n100%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "229",
+            "name": "mimii",
+            "team": "Quintuplet"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.63\n0.35",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "17\n15\n2",
+            "fk": "167\n196\n83",
+            "hs%": "69%\n75%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "282",
+            "name": "Calypso",
+            "team": "NEXUZ"
+          },
+          {
+            "acs": "0.74\n0.89\n0.28",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "101\n103\n95",
+            "hs%": "63%\n67%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "161",
+            "name": "SMACKIIEZ",
+            "team": "NEXUZ"
+          },
+          {
+            "acs": "0.45\n0.55\n0.14",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "102\n101\n106",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "148",
+            "name": "Viol3tte",
+            "team": "NEXUZ"
+          },
+          {
+            "acs": "0.40\n0.42\n0.34",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "84\n86\n78",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "134",
+            "name": "TPZ",
+            "team": "NEXUZ"
+          },
+          {
+            "acs": "0.34\n0.35\n0.31",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "3\n2\n1",
+            "fk": "63\n60\n71",
+            "hs%": "56%\n50%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "85",
+            "name": "Stevenz",
+            "team": "NEXUZ"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "213",
+          "name": "lykann",
+          "team": null
+        },
+        {
+          "kills": "291",
+          "name": "casey",
+          "team": null
+        },
+        {
+          "kills": "134",
+          "name": "cuppycake",
+          "team": null
+        },
+        {
+          "kills": "340",
+          "name": "mimii",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "Dolph",
+          "team": null
+        },
+        {
+          "kills": "256",
+          "name": "Calypso",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "SMACKIIEZ",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "Viol3tte",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "TPZ",
+          "team": null
+        },
+        {
+          "kills": "113",
+          "name": "Stevenz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.51\n1.82\n1.70",
+            "adr": "+25\n+9\n+16",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "40\n14\n26",
+            "fk": "164\n147\n176",
+            "hs%": "83%\n81%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "213",
+            "name": "lykann",
+            "team": null
+          },
+          {
+            "acs": "1.73\n0.82\n1.18",
+            "adr": "+7\n+10\n-3",
+            "agent": "",
+            "assists": "/\n\n26\n9\n17\n\n/",
+            "deaths": "33\n19\n14",
+            "fk": "130\n168\n104",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "291",
+            "name": "casey",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.19\n1.04",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n24\n10\n14\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "124\n81\n152",
+            "hs%": "80%\n69%\n88%",
+            "kdr": "22\n14\n8",
+            "kills": "134",
+            "name": "cuppycake",
+            "team": null
+          },
+          {
+            "acs": "1.42\n0.75\n1.02",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n32\n13\n19\n\n/",
+            "deaths": "36\n19\n17",
+            "fk": "160\n204\n131",
+            "hs%": "65%\n81%\n54%",
+            "kdr": "9\n3\n6",
+            "kills": "340",
+            "name": "mimii",
+            "team": null
+          },
+          {
+            "acs": "0.68\n1.20\n0.99",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "29\n7\n22",
+            "fk": "152\n123\n172",
+            "hs%": "70%\n81%\n63%",
+            "kdr": "15\n13\n2",
+            "kills": "170",
+            "name": "Dolph",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n1.22\n1.23",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n32\n18\n14\n\n/",
+            "deaths": "40\n23\n17",
+            "fk": "169\n153\n193",
+            "hs%": "68%\n58%\n81%",
+            "kdr": "3\n1\n2",
+            "kills": "256",
+            "name": "Calypso",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.01\n0.97",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n31\n20\n11\n\n/",
+            "deaths": "28\n18\n10",
+            "fk": "146\n142\n151",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "7\n3\n4",
+            "kills": "220",
+            "name": "SMACKIIEZ",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.68\n0.72",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n35\n22\n13\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "128\n138\n112",
+            "hs%": "68%\n71%\n63%",
+            "kdr": "13\n9\n4",
+            "kills": "205",
+            "name": "Viol3tte",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.72\n0.63",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n30\n19\n11\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "98\n96\n101",
+            "hs%": "58%\n54%\n63%",
+            "kdr": "6\n5\n1",
+            "kills": "152",
+            "name": "TPZ",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.30\n0.50",
+            "adr": "-17\n-8\n-9",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "75\n86\n58",
+            "hs%": "55%\n54%\n56%",
+            "kdr": "8\n7\n1",
+            "kills": "113",
+            "name": "Stevenz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "302",
+          "name": "lykann",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "152",
+          "name": "casey",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "178",
+          "name": "mimii",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "238",
+          "name": "cuppycake",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "217",
+          "name": "Dolph",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "359",
+          "name": "Calypso",
+          "team": "NEXUZ"
+        },
+        {
+          "kills": "238",
+          "name": "SMACKIIEZ",
+          "team": "NEXUZ"
+        },
+        {
+          "kills": "170",
+          "name": "Viol3tte",
+          "team": "NEXUZ"
+        },
+        {
+          "kills": "166",
+          "name": "TPZ",
+          "team": "NEXUZ"
+        },
+        {
+          "kills": "103",
+          "name": "Stevenz",
+          "team": "NEXUZ"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.67\n1.34\n1.99",
+            "adr": "+14\n+6\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "170\n160\n181",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "302",
+            "name": "lykann",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.18\n1.61\n0.75",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "133\n173\n93",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "152",
+            "name": "casey",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.15\n1.55\n0.75",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "23\n16\n7",
+            "fk": "177\n237\n116",
+            "hs%": "63%\n75%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "178",
+            "name": "mimii",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.77\n0.40\n1.13",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "125\n74\n177",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "13\n10\n3",
+            "kills": "238",
+            "name": "cuppycake",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.59\n0.34\n0.84",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "98\n71\n126",
+            "hs%": "58%\n75%\n42%",
+            "kdr": "9\n9\n0",
+            "kills": "217",
+            "name": "Dolph",
+            "team": "Quintuplet"
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n0.84\n1.51",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "171\n111\n230",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "359",
+            "name": "Calypso",
+            "team": "NEXUZ"
+          },
+          {
+            "acs": "1.13\n1.01\n1.25",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "176\n181\n170",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "238",
+            "name": "SMACKIIEZ",
+            "team": "NEXUZ"
+          },
+          {
+            "acs": "0.90\n0.93\n0.86",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "144\n174\n115",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "170",
+            "name": "Viol3tte",
+            "team": "NEXUZ"
+          },
+          {
+            "acs": "0.78\n0.72\n0.85",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "107\n106\n109",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "166",
+            "name": "TPZ",
+            "team": "NEXUZ"
+          },
+          {
+            "acs": "0.61\n0.93\n0.30",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "83\n112\n54",
+            "hs%": "54%\n58%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "103",
+            "name": "Stevenz",
+            "team": "NEXUZ"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 84264,
+  "teams": [
+    "NEXUZ",
+    "Quintuplet"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup G"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2022-04-02 00:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "246",
+          "name": "shirazi",
+          "team": "Bren Esports Victress"
+        },
+        {
+          "kills": "280",
+          "name": "Aly",
+          "team": "Bren Esports Victress"
+        },
+        {
+          "kills": "190",
+          "name": "zini",
+          "team": "Bren Esports Victress"
+        },
+        {
+          "kills": "221",
+          "name": "Alexy",
+          "team": "Bren Esports Victress"
+        },
+        {
+          "kills": "215",
+          "name": "Mikkasie",
+          "team": "Bren Esports Victress"
+        },
+        {
+          "kills": "257",
+          "name": "babychi",
+          "team": "WULF Pink"
+        },
+        {
+          "kills": "182",
+          "name": "ReyDawg",
+          "team": "WULF Pink"
+        },
+        {
+          "kills": "200",
+          "name": "voonky",
+          "team": "WULF Pink"
+        },
+        {
+          "kills": "164",
+          "name": "Jazzie",
+          "team": "WULF Pink"
+        },
+        {
+          "kills": "101",
+          "name": "Che",
+          "team": "WULF Pink"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.48\n1.83\n1.28",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "162\n188\n147",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "246",
+            "name": "shirazi",
+            "team": "Bren Esports Victress"
+          },
+          {
+            "acs": "1.44\n1.35\n1.49",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "210\n213\n207",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "280",
+            "name": "Aly",
+            "team": "Bren Esports Victress"
+          },
+          {
+            "acs": "1.18\n0.71\n1.45",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "136\n54\n184",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "190",
+            "name": "zini",
+            "team": "Bren Esports Victress"
+          },
+          {
+            "acs": "1.10\n1.47\n0.89",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "151\n180\n134",
+            "hs%": "58%\n43%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "221",
+            "name": "Alexy",
+            "team": "Bren Esports Victress"
+          },
+          {
+            "acs": "0.89\n0.16\n1.31",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "123\n78\n149",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "215",
+            "name": "Mikkasie",
+            "team": "Bren Esports Victress"
+          }
+        ],
+        [
+          {
+            "acs": "1.15\n1.27\n0.93",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "150\n156\n139",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "6\n2\n4",
+            "kills": "257",
+            "name": "babychi",
+            "team": "WULF Pink"
+          },
+          {
+            "acs": "0.77\n1.07\n0.26",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "112\n135\n74",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "6\n5\n1",
+            "kills": "182",
+            "name": "ReyDawg",
+            "team": "WULF Pink"
+          },
+          {
+            "acs": "0.77\n0.29\n1.60",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "129\n72\n226",
+            "hs%": "47%\n25%\n86%",
+            "kdr": "0\n0\n0",
+            "kills": "200",
+            "name": "voonky",
+            "team": "WULF Pink"
+          },
+          {
+            "acs": "0.75\n0.70\n0.82",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "114\n117\n109",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "3\n3\n0",
+            "kills": "164",
+            "name": "Jazzie",
+            "team": "WULF Pink"
+          },
+          {
+            "acs": "0.41\n0.23\n0.72",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "64\n51\n86",
+            "hs%": "47%\n42%\n57%",
+            "kdr": "3\n2\n1",
+            "kills": "101",
+            "name": "Che",
+            "team": "WULF Pink"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "359",
+          "name": "Alexy",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "shirazi",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "zini",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "Mikkasie",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Aly",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "babychi",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "voonky",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "ReyDawg",
+          "team": null
+        },
+        {
+          "kills": "126",
+          "name": "Jazzie",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "Che",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.95\n1.46\n1.62",
+            "adr": "+23\n+11\n+12",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "39\n16\n23",
+            "fk": "192\n229\n174",
+            "hs%": "75%\n58%\n83%",
+            "kdr": "12\n2\n10",
+            "kills": "359",
+            "name": "Alexy",
+            "team": null
+          },
+          {
+            "acs": "1.69\n1.37\n1.48",
+            "adr": "+15\n+5\n+10",
+            "agent": "",
+            "assists": "/\n\n19\n5\n14\n\n/",
+            "deaths": "34\n10\n24",
+            "fk": "151\n132\n160",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "23\n8\n15",
+            "kills": "206",
+            "name": "shirazi",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.47\n1.30",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "24\n6\n18",
+            "fk": "124\n67\n153",
+            "hs%": "86%\n83%\n88%",
+            "kdr": "15\n6\n9",
+            "kills": "124",
+            "name": "zini",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.40\n1.14",
+            "adr": "+10\n-1\n+11",
+            "agent": "",
+            "assists": "/\n\n25\n11\n14\n\n/",
+            "deaths": "35\n10\n25",
+            "fk": "171\n141\n185",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "9\n4\n5",
+            "kills": "216",
+            "name": "Mikkasie",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.03\n1.06",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n22\n9\n13\n\n/",
+            "deaths": "25\n8\n17",
+            "fk": "149\n167\n139",
+            "hs%": "86%\n83%\n88%",
+            "kdr": "8\n6\n2",
+            "kills": "217",
+            "name": "Aly",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.89\n0.84\n0.87",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n30\n20\n10\n\n/",
+            "deaths": "24\n15\n9",
+            "fk": "118\n108\n138",
+            "hs%": "56%\n46%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "175",
+            "name": "babychi",
+            "team": null
+          },
+          {
+            "acs": "0.48\n1.43\n0.80",
+            "adr": "-6\n-12\n+6",
+            "agent": "",
+            "assists": "/\n\n33\n24\n9\n\n/",
+            "deaths": "27\n12\n15",
+            "fk": "130\n98\n196",
+            "hs%": "50%\n38%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "151",
+            "name": "voonky",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.19\n0.61",
+            "adr": "-14\n-7\n-7",
+            "agent": "",
+            "assists": "/\n\n31\n21\n10\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "97\n115\n61",
+            "hs%": "61%\n63%\n58%",
+            "kdr": "8\n7\n1",
+            "kills": "183",
+            "name": "ReyDawg",
+            "team": null
+          },
+          {
+            "acs": "0.49\n0.63\n0.53",
+            "adr": "-17\n-13\n-4",
+            "agent": "",
+            "assists": "/\n\n32\n22\n10\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "89\n88\n90",
+            "hs%": "58%\n58%\n58%",
+            "kdr": "7\n7\n0",
+            "kills": "126",
+            "name": "Jazzie",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.43\n0.49",
+            "adr": "-17\n-11\n-6",
+            "agent": "",
+            "assists": "/\n\n31\n21\n10\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "78\n91\n54",
+            "hs%": "44%\n46%\n42%",
+            "kdr": "3\n2\n1",
+            "kills": "137",
+            "name": "Che",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "347",
+          "name": "Alexy",
+          "team": "Bren Esports Victress"
+        },
+        {
+          "kills": "295",
+          "name": "shirazi",
+          "team": "Bren Esports Victress"
+        },
+        {
+          "kills": "215",
+          "name": "zini",
+          "team": "Bren Esports Victress"
+        },
+        {
+          "kills": "320",
+          "name": "Mikkasie",
+          "team": "Bren Esports Victress"
+        },
+        {
+          "kills": "104",
+          "name": "Aly",
+          "team": "Bren Esports Victress"
+        },
+        {
+          "kills": "269",
+          "name": "voonky",
+          "team": "WULF Pink"
+        },
+        {
+          "kills": "211",
+          "name": "babychi",
+          "team": "WULF Pink"
+        },
+        {
+          "kills": "9",
+          "name": "Che",
+          "team": "WULF Pink"
+        },
+        {
+          "kills": "42",
+          "name": "ReyDawg",
+          "team": "WULF Pink"
+        },
+        {
+          "kills": "116",
+          "name": "Jazzie",
+          "team": "WULF Pink"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "2.21\n2.62\n2.04",
+            "adr": "+19\n+7\n+12",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "238\n296\n213",
+            "hs%": "94%\n80%\n100%",
+            "kdr": "8\n2\n6",
+            "kills": "347",
+            "name": "Alexy",
+            "team": "Bren Esports Victress"
+          },
+          {
+            "acs": "1.48\n1.50\n1.47",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "138\n52\n173",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "16\n5\n11",
+            "kills": "295",
+            "name": "shirazi",
+            "team": "Bren Esports Victress"
+          },
+          {
+            "acs": "1.44\n1.33\n1.49",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "112\n85\n123",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "9\n4\n5",
+            "kills": "215",
+            "name": "zini",
+            "team": "Bren Esports Victress"
+          },
+          {
+            "acs": "1.43\n1.29\n1.49",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "224\n228\n222",
+            "hs%": "82%\n100%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "320",
+            "name": "Mikkasie",
+            "team": "Bren Esports Victress"
+          },
+          {
+            "acs": "0.65\n0.84\n0.57",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "80\n102\n71",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "104",
+            "name": "Aly",
+            "team": "Bren Esports Victress"
+          }
+        ],
+        [
+          {
+            "acs": "0.83\n0.68\n1.20",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "132\n123\n154",
+            "hs%": "53%\n50%\n60%",
+            "kdr": "0\n0\n0",
+            "kills": "269",
+            "name": "voonky",
+            "team": "WULF Pink"
+          },
+          {
+            "acs": "0.57\n0.51\n0.71",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "82\n59\n137",
+            "hs%": "53%\n42%\n80%",
+            "kdr": "0\n0\n0",
+            "kills": "211",
+            "name": "babychi",
+            "team": "WULF Pink"
+          },
+          {
+            "acs": "0.57\n0.92\n0.01",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "8\n8\n0",
+            "fk": "95\n131\n9",
+            "hs%": "41%\n50%\n20%",
+            "kdr": "0\n0\n0",
+            "kills": "9",
+            "name": "Che",
+            "team": "WULF Pink"
+          },
+          {
+            "acs": "0.43\n0.56\n0.09",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "80\n95\n42",
+            "hs%": "47%\n50%\n40%",
+            "kdr": "2\n2\n0",
+            "kills": "42",
+            "name": "ReyDawg",
+            "team": "WULF Pink"
+          },
+          {
+            "acs": "0.30\n0.27\n0.37",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "61\n60\n63",
+            "hs%": "59%\n67%\n40%",
+            "kdr": "4\n4\n0",
+            "kills": "116",
+            "name": "Jazzie",
+            "team": "WULF Pink"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 84182,
+  "teams": [
+    "WULF Pink",
+    "Bren Esports Victress"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup C"
+}

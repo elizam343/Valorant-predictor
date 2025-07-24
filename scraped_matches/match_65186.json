@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-18 02:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "270",
+          "name": "wstVirginia",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "176",
+          "name": "SmokeA",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "173",
+          "name": "Deadly10",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "128",
+          "name": "Ri0",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "147",
+          "name": "Pixelzz",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "410",
+          "name": "ZesBeeW",
+          "team": "Nigma Galaxy"
+        },
+        {
+          "kills": "239",
+          "name": "Karl",
+          "team": "Nigma Galaxy"
+        },
+        {
+          "kills": "197",
+          "name": "crazyguy",
+          "team": "Nigma Galaxy"
+        },
+        {
+          "kills": "152",
+          "name": "Yohann",
+          "team": "Nigma Galaxy"
+        },
+        {
+          "kills": "124",
+          "name": "astr0",
+          "team": "Nigma Galaxy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "0.92\n0.58\n1.12",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "161\n136\n175",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "270",
+            "name": "wstVirginia",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.86\n1.34\n0.58",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "114\n148\n93",
+            "hs%": "63%\n86%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "176",
+            "name": "SmokeA",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.85\n0.76\n0.90",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "118\n92\n133",
+            "hs%": "53%\n57%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "173",
+            "name": "Deadly10",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.71\n0.61\n0.76",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "95\n100\n92",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "128",
+            "name": "Ri0",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.53\n0.42\n0.59",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "102\n72\n120",
+            "hs%": "53%\n71%\n42%",
+            "kdr": "2\n1\n1",
+            "kills": "147",
+            "name": "Pixelzz",
+            "team": "Reckoning Esports"
+          }
+        ],
+        [
+          {
+            "acs": "2.15\n1.88\n2.60",
+            "adr": "+19\n+10\n+9",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "28\n16\n12",
+            "fk": "245\n233\n265",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "410",
+            "name": "ZesBeeW",
+            "team": "Nigma Galaxy"
+          },
+          {
+            "acs": "1.28\n1.53\n0.85",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "151\n174\n111",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "3\n1\n2",
+            "kills": "239",
+            "name": "Karl",
+            "team": "Nigma Galaxy"
+          },
+          {
+            "acs": "0.97\n1.08\n0.78",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "143\n143\n143",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "5\n1\n4",
+            "kills": "197",
+            "name": "crazyguy",
+            "team": "Nigma Galaxy"
+          },
+          {
+            "acs": "0.75\n0.52\n1.13",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "94\n85\n108",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "2\n0\n2",
+            "kills": "152",
+            "name": "Yohann",
+            "team": "Nigma Galaxy"
+          },
+          {
+            "acs": "0.70\n0.72\n0.67",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "76\n80\n69",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "1\n1\n0",
+            "kills": "124",
+            "name": "astr0",
+            "team": "Nigma Galaxy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "231",
+          "name": "SmokeA",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Deadly10",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "wstVirginia",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "Ri0",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Pixelzz",
+          "team": null
+        },
+        {
+          "kills": "376",
+          "name": "ZesBeeW",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "Karl",
+          "team": null
+        },
+        {
+          "kills": "268",
+          "name": "crazyguy",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "astr0",
+          "team": null
+        },
+        {
+          "kills": "132",
+          "name": "Yohann",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.16\n0.83\n0.99",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n28\n12\n16\n\n/",
+            "deaths": "30\n19\n11",
+            "fk": "131\n152\n112",
+            "hs%": "60%\n74%\n48%",
+            "kdr": "2\n1\n1",
+            "kills": "231",
+            "name": "SmokeA",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.92\n0.93",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n30\n13\n17\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "116\n120\n112",
+            "hs%": "73%\n79%\n67%",
+            "kdr": "12\n8\n4",
+            "kills": "179",
+            "name": "Deadly10",
+            "team": null
+          },
+          {
+            "acs": "0.68\n1.04\n0.87",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n36\n17\n19\n\n/",
+            "deaths": "34\n15\n19",
+            "fk": "154\n126\n178",
+            "hs%": "68%\n63%\n71%",
+            "kdr": "7\n3\n4",
+            "kills": "230",
+            "name": "wstVirginia",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.61\n0.74",
+            "adr": "-12\n-2\n-10",
+            "agent": "",
+            "assists": "/\n\n29\n12\n17\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "99\n106\n93",
+            "hs%": "65%\n68%\n62%",
+            "kdr": "13\n5\n8",
+            "kills": "156",
+            "name": "Ri0",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.70\n0.74",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n35\n15\n20\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "110\n97\n122",
+            "hs%": "63%\n74%\n52%",
+            "kdr": "10\n7\n3",
+            "kills": "157",
+            "name": "Pixelzz",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.73\n1.59\n1.66",
+            "adr": "+24\n+15\n+9",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "49\n28\n21",
+            "fk": "212\n236\n187",
+            "hs%": "80%\n81%\n79%",
+            "kdr": "7\n4\n3",
+            "kills": "376",
+            "name": "ZesBeeW",
+            "team": null
+          },
+          {
+            "acs": "1.29\n1.14\n1.22",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "35\n20\n15",
+            "fk": "144\n146\n143",
+            "hs%": "70%\n71%\n68%",
+            "kdr": "9\n3\n6",
+            "kills": "235",
+            "name": "Karl",
+            "team": null
+          },
+          {
+            "acs": "1.29\n0.94\n1.13",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "29\n20\n9",
+            "fk": "159\n174\n142",
+            "hs%": "78%\n81%\n74%",
+            "kdr": "16\n5\n11",
+            "kills": "268",
+            "name": "crazyguy",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.94\n0.83",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "92\n85\n101",
+            "hs%": "68%\n67%\n68%",
+            "kdr": "8\n3\n5",
+            "kills": "138",
+            "name": "astr0",
+            "team": null
+          },
+          {
+            "acs": "0.65\n0.86\n0.75",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "100\n91\n109",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "6\n2\n4",
+            "kills": "132",
+            "name": "Yohann",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "219",
+          "name": "SmokeA",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "151",
+          "name": "Deadly10",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "222",
+          "name": "Pixelzz",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "236",
+          "name": "wstVirginia",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "132",
+          "name": "Ri0",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "201",
+          "name": "crazyguy",
+          "team": "Nigma Galaxy"
+        },
+        {
+          "kills": "219",
+          "name": "ZesBeeW",
+          "team": "Nigma Galaxy"
+        },
+        {
+          "kills": "231",
+          "name": "Karl",
+          "team": "Nigma Galaxy"
+        },
+        {
+          "kills": "187",
+          "name": "astr0",
+          "team": "Nigma Galaxy"
+        },
+        {
+          "kills": "160",
+          "name": "Yohann",
+          "team": "Nigma Galaxy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.10\n1.05\n1.17",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "147\n154\n137",
+            "hs%": "57%\n67%\n44%",
+            "kdr": "2\n1\n1",
+            "kills": "219",
+            "name": "SmokeA",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "1.00\n1.03\n0.95",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "114\n136\n85",
+            "hs%": "90%\n92%\n89%",
+            "kdr": "7\n5\n2",
+            "kills": "151",
+            "name": "Deadly10",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.94\n1.00\n0.86",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "117\n112\n124",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "8\n6\n2",
+            "kills": "222",
+            "name": "Pixelzz",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.82\n0.73\n0.94",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "147\n121\n183",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "4\n2\n2",
+            "kills": "236",
+            "name": "wstVirginia",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.78\n1.05\n0.41",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "103\n109\n94",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "7\n3\n4",
+            "kills": "132",
+            "name": "Ri0",
+            "team": "Reckoning Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.58\n1.03",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "172\n214\n141",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "11\n4\n7",
+            "kills": "201",
+            "name": "crazyguy",
+            "team": "Nigma Galaxy"
+          },
+          {
+            "acs": "1.23\n1.52\n1.01",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "183\n239\n141",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "219",
+            "name": "ZesBeeW",
+            "team": "Nigma Galaxy"
+          },
+          {
+            "acs": "1.16\n0.97\n1.31",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "139\n109\n161",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "231",
+            "name": "Karl",
+            "team": "Nigma Galaxy"
+          },
+          {
+            "acs": "0.95\n0.77\n1.09",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "107\n92\n119",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "187",
+            "name": "astr0",
+            "team": "Nigma Galaxy"
+          },
+          {
+            "acs": "0.75\n0.82\n0.70",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "105\n99\n110",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "160",
+            "name": "Yohann",
+            "team": "Nigma Galaxy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 65186,
+  "teams": [
+    "Reckoning Esports",
+    "Nigma Galaxy"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tLower Round 1"
+}

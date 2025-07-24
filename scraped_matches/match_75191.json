@@ -1,0 +1,594 @@
+{
+  "date": "2022-03-03 06:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "304",
+          "name": "Utaka",
+          "team": "ShikouKouketsu"
+        },
+        {
+          "kills": "257",
+          "name": "suzu",
+          "team": "ShikouKouketsu"
+        },
+        {
+          "kills": "195",
+          "name": "kokuya",
+          "team": "ShikouKouketsu"
+        },
+        {
+          "kills": "192",
+          "name": "SeiLaN",
+          "team": "ShikouKouketsu"
+        },
+        {
+          "kills": "130",
+          "name": "A1tmaN",
+          "team": "ShikouKouketsu"
+        },
+        {
+          "kills": "257",
+          "name": "MrTenzouEz",
+          "team": "DeToNator"
+        },
+        {
+          "kills": "200",
+          "name": "K1llgrave",
+          "team": "DeToNator"
+        },
+        {
+          "kills": "190",
+          "name": "FifTy",
+          "team": "DeToNator"
+        },
+        {
+          "kills": "208",
+          "name": "Skyfull",
+          "team": "DeToNator"
+        },
+        {
+          "kills": "182",
+          "name": "Xiaonuo",
+          "team": "DeToNator"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.53\n1.40",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "169\n175\n164",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "304",
+            "name": "Utaka",
+            "team": "ShikouKouketsu"
+          },
+          {
+            "acs": "1.19\n1.77\n0.65",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "190\n209\n172",
+            "hs%": "74%\n100%\n50%",
+            "kdr": "12\n9\n3",
+            "kills": "257",
+            "name": "suzu",
+            "team": "ShikouKouketsu"
+          },
+          {
+            "acs": "0.99\n1.39\n0.63",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "128\n177\n84",
+            "hs%": "74%\n100%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "195",
+            "name": "kokuya",
+            "team": "ShikouKouketsu"
+          },
+          {
+            "acs": "0.90\n0.90\n0.90",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "134\n102\n162",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "192",
+            "name": "SeiLaN",
+            "team": "ShikouKouketsu"
+          },
+          {
+            "acs": "0.55\n1.03\n0.12",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "90\n145\n39",
+            "hs%": "61%\n91%\n33%",
+            "kdr": "14\n11\n3",
+            "kills": "130",
+            "name": "A1tmaN",
+            "team": "ShikouKouketsu"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.70\n0.75",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "173\n195\n149",
+            "hs%": "70%\n83%\n55%",
+            "kdr": "7\n3\n4",
+            "kills": "257",
+            "name": "MrTenzouEz",
+            "team": "DeToNator"
+          },
+          {
+            "acs": "1.22\n1.46\n0.95",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "141\n119\n164",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "5\n3\n2",
+            "kills": "200",
+            "name": "K1llgrave",
+            "team": "DeToNator"
+          },
+          {
+            "acs": "1.00\n0.99\n1.01",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "133\n115\n152",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "6\n2\n4",
+            "kills": "190",
+            "name": "FifTy",
+            "team": "DeToNator"
+          },
+          {
+            "acs": "0.87\n0.95\n0.79",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "124\n130\n117",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "5\n3\n2",
+            "kills": "208",
+            "name": "Skyfull",
+            "team": "DeToNator"
+          },
+          {
+            "acs": "0.71\n1.03\n0.36",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "119\n150\n86",
+            "hs%": "61%\n83%\n36%",
+            "kdr": "8\n6\n2",
+            "kills": "182",
+            "name": "Xiaonuo",
+            "team": "DeToNator"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "251",
+          "name": "Utaka",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "kokuya",
+          "team": null
+        },
+        {
+          "kills": "284",
+          "name": "suzu",
+          "team": null
+        },
+        {
+          "kills": "136",
+          "name": "SeiLaN",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "A1tmaN",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "K1llgrave",
+          "team": null
+        },
+        {
+          "kills": "278",
+          "name": "MrTenzouEz",
+          "team": null
+        },
+        {
+          "kills": "302",
+          "name": "Skyfull",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "FifTy",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "Xiaonuo",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.12\n1.22",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n31\n15\n16\n\n/",
+            "deaths": "41\n23\n18",
+            "fk": "157\n160\n152",
+            "hs%": "74%\n70%\n79%",
+            "kdr": "11\n8\n3",
+            "kills": "251",
+            "name": "Utaka",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.04\n1.02",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n32\n16\n16\n\n/",
+            "deaths": "32\n18\n14",
+            "fk": "140\n155\n123",
+            "hs%": "69%\n78%\n58%",
+            "kdr": "11\n6\n5",
+            "kills": "226",
+            "name": "kokuya",
+            "team": null
+          },
+          {
+            "acs": "1.38\n0.52\n0.99",
+            "adr": "-3\n+6\n-9",
+            "agent": "",
+            "assists": "/\n\n33\n17\n16\n\n/",
+            "deaths": "30\n23\n7",
+            "fk": "156\n175\n135",
+            "hs%": "64%\n78%\n47%",
+            "kdr": "21\n12\n9",
+            "kills": "284",
+            "name": "suzu",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.93\n0.80",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n34\n17\n17\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "124\n89\n166",
+            "hs%": "69%\n74%\n63%",
+            "kdr": "11\n8\n3",
+            "kills": "136",
+            "name": "SeiLaN",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.08\n0.54",
+            "adr": "-16\n-2\n-14",
+            "agent": "",
+            "assists": "/\n\n34\n17\n17\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "94\n141\n37",
+            "hs%": "55%\n78%\n26%",
+            "kdr": "16\n13\n3",
+            "kills": "204",
+            "name": "A1tmaN",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.30\n1.32",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n27\n10\n17\n\n/",
+            "deaths": "37\n17\n20",
+            "fk": "148\n119\n171",
+            "hs%": "71%\n74%\n70%",
+            "kdr": "12\n6\n6",
+            "kills": "199",
+            "name": "K1llgrave",
+            "team": null
+          },
+          {
+            "acs": "1.38\n1.21\n1.29",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n33\n14\n19\n\n/",
+            "deaths": "38\n19\n19",
+            "fk": "193\n180\n204",
+            "hs%": "67%\n74%\n61%",
+            "kdr": "13\n4\n9",
+            "kills": "278",
+            "name": "MrTenzouEz",
+            "team": null
+          },
+          {
+            "acs": "1.48\n0.92\n1.18",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n31\n12\n19\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "144\n175\n119",
+            "hs%": "76%\n84%\n70%",
+            "kdr": "13\n8\n5",
+            "kills": "302",
+            "name": "Skyfull",
+            "team": null
+          },
+          {
+            "acs": "1.30\n1.05\n1.16",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n24\n9\n15\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "134\n140\n129",
+            "hs%": "74%\n79%\n70%",
+            "kdr": "21\n9\n12",
+            "kills": "215",
+            "name": "FifTy",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.63\n0.74",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n32\n13\n19\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "113\n128\n101",
+            "hs%": "71%\n79%\n65%",
+            "kdr": "18\n7\n11",
+            "kills": "183",
+            "name": "Xiaonuo",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "351",
+          "name": "kokuya",
+          "team": "ShikouKouketsu"
+        },
+        {
+          "kills": "222",
+          "name": "Utaka",
+          "team": "ShikouKouketsu"
+        },
+        {
+          "kills": "88",
+          "name": "suzu",
+          "team": "ShikouKouketsu"
+        },
+        {
+          "kills": "232",
+          "name": "SeiLaN",
+          "team": "ShikouKouketsu"
+        },
+        {
+          "kills": "49",
+          "name": "A1tmaN",
+          "team": "ShikouKouketsu"
+        },
+        {
+          "kills": "199",
+          "name": "Skyfull",
+          "team": "DeToNator"
+        },
+        {
+          "kills": "277",
+          "name": "K1llgrave",
+          "team": "DeToNator"
+        },
+        {
+          "kills": "148",
+          "name": "FifTy",
+          "team": "DeToNator"
+        },
+        {
+          "kills": "362",
+          "name": "MrTenzouEz",
+          "team": "DeToNator"
+        },
+        {
+          "kills": "160",
+          "name": "Xiaonuo",
+          "team": "DeToNator"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.05\n0.64\n1.74",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "155\n134\n189",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "7\n4\n3",
+            "kills": "351",
+            "name": "kokuya",
+            "team": "ShikouKouketsu"
+          },
+          {
+            "acs": "0.93\n1.11\n0.63",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "142\n147\n133",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "7\n5\n2",
+            "kills": "222",
+            "name": "Utaka",
+            "team": "ShikouKouketsu"
+          },
+          {
+            "acs": "0.75\n1.01\n0.29",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "116\n143\n70",
+            "hs%": "53%\n58%\n43%",
+            "kdr": "9\n3\n6",
+            "kills": "88",
+            "name": "suzu",
+            "team": "ShikouKouketsu"
+          },
+          {
+            "acs": "0.68\n0.51\n0.99",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "112\n77\n171",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "6\n5\n1",
+            "kills": "232",
+            "name": "SeiLaN",
+            "team": "ShikouKouketsu"
+          },
+          {
+            "acs": "0.53\n0.90\n0.02",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "99\n138\n32",
+            "hs%": "47%\n67%\n14%",
+            "kdr": "2\n2\n0",
+            "kills": "49",
+            "name": "A1tmaN",
+            "team": "ShikouKouketsu"
+          }
+        ],
+        [
+          {
+            "acs": "1.54\n2.39\n1.05",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "170\n253\n121",
+            "hs%": "84%\n100%\n75%",
+            "kdr": "8\n5\n3",
+            "kills": "199",
+            "name": "Skyfull",
+            "team": "DeToNator"
+          },
+          {
+            "acs": "1.44\n1.14\n1.62",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "156\n119\n177",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "277",
+            "name": "K1llgrave",
+            "team": "DeToNator"
+          },
+          {
+            "acs": "1.35\n1.83\n1.08",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "135\n184\n107",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "15\n7\n8",
+            "kills": "148",
+            "name": "FifTy",
+            "team": "DeToNator"
+          },
+          {
+            "acs": "1.34\n0.84\n1.64",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "218\n154\n255",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "362",
+            "name": "MrTenzouEz",
+            "team": "DeToNator"
+          },
+          {
+            "acs": "0.78\n0.61\n0.88",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "106\n91\n114",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "10\n1\n9",
+            "kills": "160",
+            "name": "Xiaonuo",
+            "team": "DeToNator"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 75191,
+  "teams": [
+    "DeToNator",
+    "ShikouKouketsu"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tGroup C"
+}

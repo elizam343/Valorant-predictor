@@ -1,0 +1,594 @@
+{
+  "date": "2022-11-12 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "400",
+          "name": "c16",
+          "team": "Esports at UCD Gold"
+        },
+        {
+          "kills": "243",
+          "name": "benas",
+          "team": "Esports at UCD Gold"
+        },
+        {
+          "kills": "208",
+          "name": "flya",
+          "team": "Esports at UCD Gold"
+        },
+        {
+          "kills": "223",
+          "name": "vari0us",
+          "team": "Esports at UCD Gold"
+        },
+        {
+          "kills": "125",
+          "name": "BayPopper",
+          "team": "Esports at UCD Gold"
+        },
+        {
+          "kills": "306",
+          "name": "jonny",
+          "team": "Cal Poly SLO"
+        },
+        {
+          "kills": "190",
+          "name": "ADD3R4LL ANTHONY",
+          "team": "Cal Poly SLO"
+        },
+        {
+          "kills": "179",
+          "name": "InsanityLies",
+          "team": "Cal Poly SLO"
+        },
+        {
+          "kills": "138",
+          "name": "bliu",
+          "team": "Cal Poly SLO"
+        },
+        {
+          "kills": "124",
+          "name": "renkai",
+          "team": "Cal Poly SLO"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.71\n1.35\n2.77",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "260\n235\n335",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "7\n6\n1",
+            "kills": "400",
+            "name": "c16",
+            "team": "Esports at UCD Gold"
+          },
+          {
+            "acs": "1.41\n1.51\n1.10",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "147\n166\n90",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "243",
+            "name": "benas",
+            "team": "Esports at UCD Gold"
+          },
+          {
+            "acs": "1.26\n1.31\n1.12",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "139\n149\n110",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "12\n8\n4",
+            "kills": "208",
+            "name": "flya",
+            "team": "Esports at UCD Gold"
+          },
+          {
+            "acs": "0.93\n0.51\n2.20",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "131\n106\n206",
+            "hs%": "75%\n67%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "223",
+            "name": "vari0us",
+            "team": "Esports at UCD Gold"
+          },
+          {
+            "acs": "0.75\n0.72\n0.84",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "74\n67\n96",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "125",
+            "name": "BayPopper",
+            "team": "Esports at UCD Gold"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n0.80\n1.61",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "183\n110\n207",
+            "hs%": "81%\n75%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "306",
+            "name": "jonny",
+            "team": "Cal Poly SLO"
+          },
+          {
+            "acs": "0.80\n0.46\n0.91",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "125\n108\n131",
+            "hs%": "63%\n50%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "190",
+            "name": "ADD3R4LL ANTHONY",
+            "team": "Cal Poly SLO"
+          },
+          {
+            "acs": "0.79\n0.92\n0.74",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "111\n112\n110",
+            "hs%": "63%\n50%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "179",
+            "name": "InsanityLies",
+            "team": "Cal Poly SLO"
+          },
+          {
+            "acs": "0.47\n0.02\n0.68",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "77\n48\n87",
+            "hs%": "56%\n25%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "138",
+            "name": "bliu",
+            "team": "Cal Poly SLO"
+          },
+          {
+            "acs": "0.40\n0.39\n0.40",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "77\n83\n75",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "124",
+            "name": "renkai",
+            "team": "Cal Poly SLO"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "216",
+          "name": "BayPopper",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "benas",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "flya",
+          "team": null
+        },
+        {
+          "kills": "351",
+          "name": "c16",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "vari0us",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "jonny",
+          "team": null
+        },
+        {
+          "kills": "154",
+          "name": "bliu",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "InsanityLies",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "ADD3R4LL ANTHONY",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "renkai",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.34\n1.67\n1.49",
+            "adr": "+15\n+7\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "31\n17\n14",
+            "fk": "145\n121\n174",
+            "hs%": "91%\n89%\n94%",
+            "kdr": "18\n7\n11",
+            "kills": "216",
+            "name": "BayPopper",
+            "team": null
+          },
+          {
+            "acs": "1.12\n1.53\n1.31",
+            "adr": "+13\n+3\n+10",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "151\n132\n174",
+            "hs%": "89%\n84%\n94%",
+            "kdr": "6\n4\n2",
+            "kills": "207",
+            "name": "benas",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.57\n1.24",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "154\n121\n194",
+            "hs%": "91%\n89%\n94%",
+            "kdr": "22\n11\n11",
+            "kills": "167",
+            "name": "flya",
+            "team": null
+          },
+          {
+            "acs": "1.28\n0.99\n1.15",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n28\n17\n11\n\n/",
+            "deaths": "34\n22\n12",
+            "fk": "181\n218\n137",
+            "hs%": "86%\n95%\n75%",
+            "kdr": "10\n8\n2",
+            "kills": "351",
+            "name": "c16",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.28\n1.11",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "29\n15\n14",
+            "fk": "138\n126\n153",
+            "hs%": "77%\n63%\n94%",
+            "kdr": "18\n7\n11",
+            "kills": "205",
+            "name": "vari0us",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.88\n1.55\n1.25",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n27\n16\n11\n\n/",
+            "deaths": "30\n11\n19",
+            "fk": "165\n127\n197",
+            "hs%": "77%\n69%\n84%",
+            "kdr": "8\n3\n5",
+            "kills": "207",
+            "name": "jonny",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.85\n0.79",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "94\n84\n102",
+            "hs%": "57%\n50%\n63%",
+            "kdr": "11\n5\n6",
+            "kills": "154",
+            "name": "bliu",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.66\n0.73",
+            "adr": "-12\n-5\n-7",
+            "agent": "",
+            "assists": "/\n\n31\n14\n17\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "104\n106\n102",
+            "hs%": "66%\n56%\n74%",
+            "kdr": "10\n3\n7",
+            "kills": "156",
+            "name": "InsanityLies",
+            "team": null
+          },
+          {
+            "acs": "0.35\n0.74\n0.56",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n30\n16\n14\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "97\n79\n112",
+            "hs%": "60%\n50%\n68%",
+            "kdr": "15\n8\n7",
+            "kills": "130",
+            "name": "ADD3R4LL ANTHONY",
+            "team": null
+          },
+          {
+            "acs": "0.35\n0.47\n0.41",
+            "adr": "-16\n-8\n-8",
+            "agent": "",
+            "assists": "/\n\n33\n16\n17\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "87\n88\n86",
+            "hs%": "60%\n56%\n63%",
+            "kdr": "7\n3\n4",
+            "kills": "141",
+            "name": "renkai",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "323",
+          "name": "BayPopper",
+          "team": "Esports at UCD Gold"
+        },
+        {
+          "kills": "189",
+          "name": "vari0us",
+          "team": "Esports at UCD Gold"
+        },
+        {
+          "kills": "326",
+          "name": "flya",
+          "team": "Esports at UCD Gold"
+        },
+        {
+          "kills": "300",
+          "name": "benas",
+          "team": "Esports at UCD Gold"
+        },
+        {
+          "kills": "109",
+          "name": "c16",
+          "team": "Esports at UCD Gold"
+        },
+        {
+          "kills": "250",
+          "name": "jonny",
+          "team": "Cal Poly SLO"
+        },
+        {
+          "kills": "204",
+          "name": "bliu",
+          "team": "Cal Poly SLO"
+        },
+        {
+          "kills": "133",
+          "name": "InsanityLies",
+          "team": "Cal Poly SLO"
+        },
+        {
+          "kills": "175",
+          "name": "renkai",
+          "team": "Cal Poly SLO"
+        },
+        {
+          "kills": "138",
+          "name": "ADD3R4LL ANTHONY",
+          "team": "Cal Poly SLO"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "2.11\n2.41\n1.94",
+            "adr": "+16\n+6\n+10",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "205\n213\n200",
+            "hs%": "95%\n100%\n92%",
+            "kdr": "13\n5\n8",
+            "kills": "323",
+            "name": "BayPopper",
+            "team": "Esports at UCD Gold"
+          },
+          {
+            "acs": "1.26\n1.74\n0.98",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "145\n160\n136",
+            "hs%": "79%\n57%\n92%",
+            "kdr": "11\n3\n8",
+            "kills": "189",
+            "name": "vari0us",
+            "team": "Esports at UCD Gold"
+          },
+          {
+            "acs": "1.23\n0.39\n1.71",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "14\n1\n13",
+            "fk": "167\n74\n221",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "10\n3\n7",
+            "kills": "326",
+            "name": "flya",
+            "team": "Esports at UCD Gold"
+          },
+          {
+            "acs": "1.22\n0.46\n1.67",
+            "adr": "+6\n-3\n+9",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "155\n74\n203",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "3\n2\n1",
+            "kills": "300",
+            "name": "benas",
+            "team": "Esports at UCD Gold"
+          },
+          {
+            "acs": "0.67\n1.16\n0.39",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "114\n189\n71",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "109",
+            "name": "c16",
+            "team": "Esports at UCD Gold"
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n0.91\n1.45",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "150\n132\n181",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "3\n2\n1",
+            "kills": "250",
+            "name": "jonny",
+            "team": "Cal Poly SLO"
+          },
+          {
+            "acs": "1.06\n1.01\n1.13",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "108\n97\n127",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "6\n4\n2",
+            "kills": "204",
+            "name": "bliu",
+            "team": "Cal Poly SLO"
+          },
+          {
+            "acs": "0.69\n0.79\n0.52",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "99\n105\n89",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "7\n3\n4",
+            "kills": "133",
+            "name": "InsanityLies",
+            "team": "Cal Poly SLO"
+          },
+          {
+            "acs": "0.43\n0.33\n0.59",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "95\n89\n104",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "2\n1\n1",
+            "kills": "175",
+            "name": "renkai",
+            "team": "Cal Poly SLO"
+          },
+          {
+            "acs": "0.36\n0.31\n0.43",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "74\n70\n81",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "10\n5\n5",
+            "kills": "138",
+            "name": "ADD3R4LL ANTHONY",
+            "team": "Cal Poly SLO"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 156513,
+  "teams": [
+    "Esports at UCD Gold",
+    "Cal Poly SLO"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 32"
+}

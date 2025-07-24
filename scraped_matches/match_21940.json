@@ -1,0 +1,788 @@
+{
+  "date": "2021-06-15 03:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "237",
+          "name": "SmokeA",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "220",
+          "name": "Maverick",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "204",
+          "name": "B2",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "150",
+          "name": "eddshot",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "217",
+          "name": "Cactus",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "340",
+          "name": "KnightRider",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "243",
+          "name": "Rafaaaa",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "138",
+          "name": "Scargod",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "103",
+          "name": "sh1vy",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "100",
+          "name": "RvK",
+          "team": "F1LS Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.00\n1.50",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "145\n133\n157",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "6\n3\n3",
+            "kills": "237",
+            "name": "SmokeA",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "1.20\n1.11\n1.30",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "135\n108\n161",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "15\n6\n9",
+            "kills": "220",
+            "name": "Maverick",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "1.18\n1.55\n0.81",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "123\n160\n87",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "1\n0\n1",
+            "kills": "204",
+            "name": "B2",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "0.97\n1.01\n0.93",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "96\n78\n113",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "6\n2\n4",
+            "kills": "150",
+            "name": "eddshot",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "0.81\n0.62\n1.00",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "139\n142\n136",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "3\n1\n2",
+            "kills": "217",
+            "name": "Cactus",
+            "team": "FANGZ"
+          }
+        ],
+        [
+          {
+            "acs": "1.52\n1.40\n1.64",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "31\n16\n15",
+            "fk": "201\n198\n203",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "3\n1\n2",
+            "kills": "340",
+            "name": "KnightRider",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "1.26\n1.58\n0.94",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "181\n228\n134",
+            "hs%": "58%\n62%\n54%",
+            "kdr": "3\n2\n1",
+            "kills": "243",
+            "name": "Rafaaaa",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "0.63\n0.52\n0.74",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "102\n114\n90",
+            "hs%": "54%\n54%\n54%",
+            "kdr": "5\n3\n2",
+            "kills": "138",
+            "name": "Scargod",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "0.54\n0.57\n0.52",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "67\n65\n69",
+            "hs%": "58%\n62%\n54%",
+            "kdr": "6\n2\n4",
+            "kills": "103",
+            "name": "sh1vy",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "0.50\n0.26\n0.74",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "82\n42\n121",
+            "hs%": "58%\n38%\n77%",
+            "kdr": "5\n2\n3",
+            "kills": "100",
+            "name": "RvK",
+            "team": "F1LS Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "216",
+          "name": "SmokeA",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "B2",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "Maverick",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "eddshot",
+          "team": null
+        },
+        {
+          "kills": "231",
+          "name": "Cactus",
+          "team": null
+        },
+        {
+          "kills": "334",
+          "name": "KnightRider",
+          "team": null
+        },
+        {
+          "kills": "281",
+          "name": "Rafaaaa",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "RvK",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "Scargod",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "sh1vy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.10\n1.07",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n42\n14\n28\n\n/",
+            "deaths": "46\n16\n30",
+            "fk": "139\n131\n144",
+            "hs%": "75%\n73%\n76%",
+            "kdr": "16\n6\n10",
+            "kills": "216",
+            "name": "SmokeA",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.81\n0.88",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n45\n16\n29\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "120\n124\n117",
+            "hs%": "66%\n73%\n62%",
+            "kdr": "10\n3\n7",
+            "kills": "217",
+            "name": "B2",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.82\n0.84",
+            "adr": "-12\n-1\n-11",
+            "agent": "",
+            "assists": "/\n\n47\n13\n34\n\n/",
+            "deaths": "35\n12\n23",
+            "fk": "119\n86\n139",
+            "hs%": "73%\n73%\n73%",
+            "kdr": "26\n8\n18",
+            "kills": "158",
+            "name": "Maverick",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.68\n0.83",
+            "adr": "-8\n+3\n-11",
+            "agent": "",
+            "assists": "/\n\n41\n12\n29\n\n/",
+            "deaths": "33\n15\n18",
+            "fk": "102\n108\n98",
+            "hs%": "66%\n73%\n62%",
+            "kdr": "15\n4\n11",
+            "kills": "173",
+            "name": "eddshot",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.86\n0.80",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n53\n21\n32\n\n/",
+            "deaths": "46\n18\n28",
+            "fk": "137\n134\n139",
+            "hs%": "73%\n77%\n70%",
+            "kdr": "10\n4\n6",
+            "kills": "231",
+            "name": "Cactus",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.58\n1.39\n1.51",
+            "adr": "+29\n+22\n+7",
+            "agent": "",
+            "assists": "/\n\n40\n24\n16\n\n/",
+            "deaths": "69\n46\n23",
+            "fk": "186\n202\n158",
+            "hs%": "80%\n84%\n73%",
+            "kdr": "6\n4\n2",
+            "kills": "334",
+            "name": "KnightRider",
+            "team": null
+          },
+          {
+            "acs": "1.34\n0.72\n1.11",
+            "adr": "+7\n+13\n-6",
+            "agent": "",
+            "assists": "/\n\n41\n24\n17\n\n/",
+            "deaths": "48\n37\n11",
+            "fk": "159\n190\n109",
+            "hs%": "66%\n73%\n55%",
+            "kdr": "16\n11\n5",
+            "kills": "281",
+            "name": "Rafaaaa",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.50\n1.10",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n41\n26\n15\n\n/",
+            "deaths": "45\n24\n21",
+            "fk": "140\n127\n163",
+            "hs%": "68%\n59%\n82%",
+            "kdr": "14\n8\n6",
+            "kills": "172",
+            "name": "RvK",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.62\n0.89",
+            "adr": "-3\n+4\n-7",
+            "agent": "",
+            "assists": "/\n\n42\n26\n16\n\n/",
+            "deaths": "39\n30\n9",
+            "fk": "124\n147\n87",
+            "hs%": "71%\n76%\n64%",
+            "kdr": "14\n9\n5",
+            "kills": "225",
+            "name": "Scargod",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.71\n0.83",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n37\n22\n15\n\n/",
+            "deaths": "27\n17\n10",
+            "fk": "83\n94\n66",
+            "hs%": "68%\n78%\n50%",
+            "kdr": "23\n17\n6",
+            "kills": "138",
+            "name": "sh1vy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "277",
+          "name": "Cactus",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "249",
+          "name": "SmokeA",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "172",
+          "name": "eddshot",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "182",
+          "name": "B2",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "115",
+          "name": "Maverick",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "629",
+          "name": "RvK",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "262",
+          "name": "KnightRider",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "132",
+          "name": "Rafaaaa",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "166",
+          "name": "Scargod",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "228",
+          "name": "sh1vy",
+          "team": "F1LS Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.14\n0.98\n1.19",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "174\n117\n193",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "277",
+            "name": "Cactus",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "0.90\n0.39\n1.07",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "140\n78\n161",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "249",
+            "name": "SmokeA",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "0.58\n0.45\n0.63",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "99\n80\n106",
+            "hs%": "56%\n25%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "172",
+            "name": "eddshot",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "0.54\n0.05\n0.71",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "97\n50\n112",
+            "hs%": "63%\n50%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "182",
+            "name": "B2",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "0.30\n0.39\n0.28",
+            "adr": "-10\n-2\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "96\n78\n102",
+            "hs%": "63%\n75%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "115",
+            "name": "Maverick",
+            "team": "FANGZ"
+          }
+        ],
+        [
+          {
+            "acs": "1.81\n1.10\n3.96",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "198\n149\n345",
+            "hs%": "75%\n67%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "629",
+            "name": "RvK",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "1.36\n1.37\n1.33",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "171\n197\n93",
+            "hs%": "69%\n75%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "262",
+            "name": "KnightRider",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "1.19\n1.52\n0.19",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "14\n13\n1",
+            "fk": "170\n199\n82",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "132",
+            "name": "Rafaaaa",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "1.11\n1.31\n0.51",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "143\n161\n91",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "166",
+            "name": "Scargod",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "1.01\n0.95\n1.21",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "80\n99\n26",
+            "hs%": "69%\n75%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "228",
+            "name": "sh1vy",
+            "team": "F1LS Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "217",
+          "name": "SmokeA",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "155",
+          "name": "eddshot",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "223",
+          "name": "Maverick",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "223",
+          "name": "B2",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "163",
+          "name": "Cactus",
+          "team": "FANGZ"
+        },
+        {
+          "kills": "339",
+          "name": "KnightRider",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "272",
+          "name": "RvK",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "150",
+          "name": "sh1vy",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "222",
+          "name": "Scargod",
+          "team": "F1LS Esports"
+        },
+        {
+          "kills": "199",
+          "name": "Rafaaaa",
+          "team": "F1LS Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.96\n1.59\n0.69",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "129\n167\n113",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "217",
+            "name": "SmokeA",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "0.86\n1.77\n0.48",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "114\n207\n75",
+            "hs%": "59%\n100%\n42%",
+            "kdr": "6\n2\n4",
+            "kills": "155",
+            "name": "eddshot",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "0.80\n0.72\n0.84",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "117\n36\n151",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "8\n1\n7",
+            "kills": "223",
+            "name": "Maverick",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "0.74\n0.31\n0.92",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "136\n91\n155",
+            "hs%": "59%\n80%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "223",
+            "name": "B2",
+            "team": "FANGZ"
+          },
+          {
+            "acs": "0.47\n0.69\n0.38",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "99\n129\n87",
+            "hs%": "59%\n80%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "163",
+            "name": "Cactus",
+            "team": "FANGZ"
+          }
+        ],
+        [
+          {
+            "acs": "1.62\n1.96\n0.79",
+            "adr": "+10\n+11\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "21\n17\n4",
+            "fk": "176\n212\n90",
+            "hs%": "88%\n100%\n60%",
+            "kdr": "1\n1\n0",
+            "kills": "339",
+            "name": "KnightRider",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "1.36\n1.30\n1.52",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "176\n196\n128",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "4\n4\n0",
+            "kills": "272",
+            "name": "RvK",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "1.10\n1.23\n0.79",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "112\n121\n90",
+            "hs%": "82%\n100%\n40%",
+            "kdr": "11\n10\n1",
+            "kills": "150",
+            "name": "sh1vy",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "1.08\n1.36\n0.40",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "140\n168\n73",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "6\n5\n1",
+            "kills": "222",
+            "name": "Scargod",
+            "team": "F1LS Esports"
+          },
+          {
+            "acs": "0.82\n0.92\n0.57",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "117\n138\n65",
+            "hs%": "65%\n75%\n40%",
+            "kdr": "6\n5\n1",
+            "kills": "199",
+            "name": "Rafaaaa",
+            "team": "F1LS Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 21940,
+  "teams": [
+    "FANGZ",
+    "F1LS Esports"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tUpper Bracket Semifinals"
+}

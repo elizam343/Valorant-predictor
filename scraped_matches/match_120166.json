@@ -1,0 +1,788 @@
+{
+  "date": "2022-07-14 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "354",
+          "name": "fooX",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "279",
+          "name": "forbanz",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "229",
+          "name": "ntk",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "79",
+          "name": "jnt",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "132",
+          "name": "rood",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "267",
+          "name": "silentzz",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "167",
+          "name": "Zap",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "169",
+          "name": "snw",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "154",
+          "name": "vhz",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "117",
+          "name": "pryze",
+          "team": "Tuzzy E-Sports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.89\n1.71\n2.27",
+            "adr": "+17\n+12\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "24\n16\n8",
+            "fk": "202\n197\n211",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "8\n7\n1",
+            "kills": "354",
+            "name": "fooX",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "1.13\n1.02\n1.34",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "173\n171\n177",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "279",
+            "name": "forbanz",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "1.05\n0.82\n1.50",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "140\n120\n180",
+            "hs%": "83%\n75%\n100%",
+            "kdr": "8\n4\n4",
+            "kills": "229",
+            "name": "ntk",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "0.80\n0.84\n0.72",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "56\n69\n31",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "79",
+            "name": "jnt",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "0.68\n0.58\n0.86",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "100\n91\n117",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "132",
+            "name": "rood",
+            "team": "Unemployed"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n0.20\n1.74",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "175\n84\n220",
+            "hs%": "72%\n50%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "267",
+            "name": "silentzz",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "0.94\n1.38\n0.73",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "96\n128\n80",
+            "hs%": "50%\n33%\n58%",
+            "kdr": "5\n0\n5",
+            "kills": "167",
+            "name": "Zap",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "0.87\n0.90\n0.86",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "100\n95\n102",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "169",
+            "name": "snw",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "0.63\n0.36\n0.77",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "94\n93\n94",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "4\n1\n3",
+            "kills": "154",
+            "name": "vhz",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "0.50\n0.23\n0.64",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "70\n42\n84",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "10\n2\n8",
+            "kills": "117",
+            "name": "pryze",
+            "team": "Tuzzy E-Sports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "217",
+          "name": "forbanz",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "fooX",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "jnt",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "ntk",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "rood",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "snw",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "silentzz",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "vhz",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "pryze",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "Zap",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.96\n1.24\n1.09",
+            "adr": "+10\n+1\n+9",
+            "agent": "",
+            "assists": "/\n\n46\n26\n20\n\n/",
+            "deaths": "56\n27\n29",
+            "fk": "163\n146\n182",
+            "hs%": "72%\n76%\n68%",
+            "kdr": "8\n4\n4",
+            "kills": "217",
+            "name": "forbanz",
+            "team": null
+          },
+          {
+            "acs": "1.19\n0.90\n1.05",
+            "adr": "+8\n+11\n-3",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "49\n31\n18",
+            "fk": "130\n149\n111",
+            "hs%": "69%\n76%\n61%",
+            "kdr": "19\n12\n7",
+            "kills": "233",
+            "name": "fooX",
+            "team": null
+          },
+          {
+            "acs": "1.15\n0.92\n1.04",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n36\n21\n15\n\n/",
+            "deaths": "37\n23\n14",
+            "fk": "105\n121\n88",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "19\n8\n11",
+            "kills": "171",
+            "name": "jnt",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.16\n0.95",
+            "adr": "+1\n-7\n+8",
+            "agent": "",
+            "assists": "/\n\n44\n26\n18\n\n/",
+            "deaths": "45\n19\n26",
+            "fk": "132\n113\n154",
+            "hs%": "66%\n59%\n74%",
+            "kdr": "23\n13\n10",
+            "kills": "168",
+            "name": "ntk",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.13\n0.84",
+            "adr": "-7\n-11\n+4",
+            "agent": "",
+            "assists": "/\n\n48\n29\n19\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "132\n115\n151",
+            "hs%": "66%\n62%\n71%",
+            "kdr": "13\n5\n8",
+            "kills": "173",
+            "name": "rood",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.14\n1.14\n1.14",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n42\n21\n21\n\n/",
+            "deaths": "42\n19\n23",
+            "fk": "116\n112\n119",
+            "hs%": "74%\n71%\n76%",
+            "kdr": "24\n12\n12",
+            "kills": "182",
+            "name": "snw",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.47\n1.07",
+            "adr": "+1\n-10\n+11",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "49\n16\n33",
+            "fk": "145\n106\n180",
+            "hs%": "72%\n65%\n79%",
+            "kdr": "12\n5\n7",
+            "kills": "166",
+            "name": "silentzz",
+            "team": null
+          },
+          {
+            "acs": "1.20\n0.92\n1.05",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n46\n21\n25\n\n/",
+            "deaths": "53\n26\n27",
+            "fk": "133\n147\n120",
+            "hs%": "66%\n71%\n62%",
+            "kdr": "8\n4\n4",
+            "kills": "222",
+            "name": "vhz",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.99\n0.86",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n47\n24\n23\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "107\n92\n120",
+            "hs%": "66%\n61%\n71%",
+            "kdr": "24\n9\n15",
+            "kills": "147",
+            "name": "pryze",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.70\n0.75",
+            "adr": "-14\n-3\n-11",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "31\n19\n12",
+            "fk": "94\n97\n92",
+            "hs%": "62%\n55%\n68%",
+            "kdr": "22\n8\n14",
+            "kills": "165",
+            "name": "Zap",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "205",
+          "name": "ntk",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "274",
+          "name": "forbanz",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "280",
+          "name": "rood",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "89",
+          "name": "jnt",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "71",
+          "name": "fooX",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "283",
+          "name": "vhz",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "264",
+          "name": "snw",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "237",
+          "name": "pryze",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "284",
+          "name": "silentzz",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "115",
+          "name": "Zap",
+          "team": "Tuzzy E-Sports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.11\n0.93\n1.24",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "133\n143\n125",
+            "hs%": "62%\n44%\n75%",
+            "kdr": "8\n5\n3",
+            "kills": "205",
+            "name": "ntk",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "0.98\n0.66\n1.22",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "154\n89\n203",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "274",
+            "name": "forbanz",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "0.92\n0.40\n1.32",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "145\n93\n183",
+            "hs%": "52%\n44%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "280",
+            "name": "rood",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "0.54\n0.37\n0.67",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "55\n40\n67",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "8\n2\n6",
+            "kills": "89",
+            "name": "jnt",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "0.53\n0.81\n0.32",
+            "adr": "-10\n-2\n-8",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "97\n140\n66",
+            "hs%": "52%\n56%\n50%",
+            "kdr": "4\n0\n4",
+            "kills": "71",
+            "name": "fooX",
+            "team": "Unemployed"
+          }
+        ],
+        [
+          {
+            "acs": "1.50\n1.82\n1.06",
+            "adr": "+12\n+10\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "25\n16\n9",
+            "fk": "191\n217\n157",
+            "hs%": "90%\n92%\n89%",
+            "kdr": "2\n1\n1",
+            "kills": "283",
+            "name": "vhz",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "1.27\n1.05\n1.55",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "124\n95\n164",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "5\n3\n2",
+            "kills": "264",
+            "name": "snw",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "1.20\n0.88\n1.62",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "135\n109\n170",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "6\n3\n3",
+            "kills": "237",
+            "name": "pryze",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "0.96\n0.64\n1.39",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "123\n96\n160",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "3\n2\n1",
+            "kills": "284",
+            "name": "silentzz",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "0.71\n0.61\n0.85",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "70\n68\n72",
+            "hs%": "67%\n50%\n89%",
+            "kdr": "9\n4\n5",
+            "kills": "115",
+            "name": "Zap",
+            "team": "Tuzzy E-Sports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "266",
+          "name": "jnt",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "225",
+          "name": "forbanz",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "174",
+          "name": "fooX",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "215",
+          "name": "rood",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "178",
+          "name": "ntk",
+          "team": "Unemployed"
+        },
+        {
+          "kills": "194",
+          "name": "snw",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "226",
+          "name": "silentzz",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "181",
+          "name": "vhz",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "168",
+          "name": "pryze",
+          "team": "Tuzzy E-Sports"
+        },
+        {
+          "kills": "178",
+          "name": "Zap",
+          "team": "Tuzzy E-Sports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.60\n1.97\n1.23",
+            "adr": "+13\n+10\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "26\n16\n10",
+            "fk": "179\n225\n133",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "6\n2\n4",
+            "kills": "266",
+            "name": "jnt",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "1.17\n1.12\n1.22",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "164\n162\n166",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "3\n2\n1",
+            "kills": "225",
+            "name": "forbanz",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "0.88\n0.97\n0.79",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "108\n110\n106",
+            "hs%": "73%\n85%\n62%",
+            "kdr": "7\n5\n2",
+            "kills": "174",
+            "name": "fooX",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "0.88\n0.68\n1.08",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "145\n153\n136",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "6\n3\n3",
+            "kills": "215",
+            "name": "rood",
+            "team": "Unemployed"
+          },
+          {
+            "acs": "0.76\n0.59\n0.93",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "127\n84\n169",
+            "hs%": "58%\n54%\n62%",
+            "kdr": "7\n4\n3",
+            "kills": "178",
+            "name": "ntk",
+            "team": "Unemployed"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n1.33\n1.10",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "120\n135\n104",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "19\n9\n10",
+            "kills": "194",
+            "name": "snw",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "1.05\n0.83\n1.27",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "141\n127\n156",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "5\n2\n3",
+            "kills": "226",
+            "name": "silentzz",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "0.98\n1.00\n0.95",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "113\n107\n119",
+            "hs%": "58%\n62%\n54%",
+            "kdr": "2\n2\n0",
+            "kills": "181",
+            "name": "vhz",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "0.82\n0.77\n0.88",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "110\n100\n120",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "8\n4\n4",
+            "kills": "168",
+            "name": "pryze",
+            "team": "Tuzzy E-Sports"
+          },
+          {
+            "acs": "0.64\n0.69\n0.58",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "113\n108\n117",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "8\n4\n4",
+            "kills": "178",
+            "name": "Zap",
+            "team": "Tuzzy E-Sports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 120166,
+  "teams": [
+    "Unemployed",
+    "Tuzzy E-Sports"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tSemifinals"
+}

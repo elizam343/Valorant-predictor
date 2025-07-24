@@ -1,0 +1,788 @@
+{
+  "date": "2022-12-12 21:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "221",
+          "name": "Okeanos",
+          "team": "DHBK"
+        },
+        {
+          "kills": "241",
+          "name": "SkrubbleBubble",
+          "team": "DHBK"
+        },
+        {
+          "kills": "189",
+          "name": "ScrewFace",
+          "team": "DHBK"
+        },
+        {
+          "kills": "201",
+          "name": "snirot",
+          "team": "DHBK"
+        },
+        {
+          "kills": "142",
+          "name": "riku",
+          "team": "DHBK"
+        },
+        {
+          "kills": "258",
+          "name": "Notta",
+          "team": "OTF"
+        },
+        {
+          "kills": "217",
+          "name": "Hunter",
+          "team": "OTF"
+        },
+        {
+          "kills": "242",
+          "name": "br9dy",
+          "team": "OTF"
+        },
+        {
+          "kills": "154",
+          "name": "Gio",
+          "team": "OTF"
+        },
+        {
+          "kills": "161",
+          "name": "HUDFAME",
+          "team": "OTF"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.35\n0.75\n1.94",
+            "adr": "+5\n-5\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "21\n5\n16",
+            "fk": "130\n84\n176",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "221",
+            "name": "Okeanos",
+            "team": "DHBK"
+          },
+          {
+            "acs": "1.23\n0.75\n1.72",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "154\n127\n180",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "241",
+            "name": "SkrubbleBubble",
+            "team": "DHBK"
+          },
+          {
+            "acs": "1.05\n0.95\n1.15",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "134\n120\n147",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "10\n3\n7",
+            "kills": "189",
+            "name": "ScrewFace",
+            "team": "DHBK"
+          },
+          {
+            "acs": "1.00\n1.34\n0.65",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "133\n150\n116",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "15\n7\n8",
+            "kills": "201",
+            "name": "snirot",
+            "team": "DHBK"
+          },
+          {
+            "acs": "0.59\n0.67\n0.50",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "101\n109\n93",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "142",
+            "name": "riku",
+            "team": "DHBK"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.31\n1.10",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "163\n198\n129",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "4\n4\n0",
+            "kills": "258",
+            "name": "Notta",
+            "team": "OTF"
+          },
+          {
+            "acs": "1.14\n0.73\n1.55",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "148\n121\n174",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "11\n4\n7",
+            "kills": "217",
+            "name": "Hunter",
+            "team": "OTF"
+          },
+          {
+            "acs": "1.08\n1.21\n0.94",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "159\n141\n177",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "6\n2\n4",
+            "kills": "242",
+            "name": "br9dy",
+            "team": "OTF"
+          },
+          {
+            "acs": "0.82\n0.66\n0.98",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "100\n100\n99",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "11\n2\n9",
+            "kills": "154",
+            "name": "Gio",
+            "team": "OTF"
+          },
+          {
+            "acs": "0.74\n0.33\n1.15",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "121\n85\n157",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "161",
+            "name": "HUDFAME",
+            "team": "OTF"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "211",
+          "name": "ScrewFace",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "SkrubbleBubble",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "snirot",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Okeanos",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "riku",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "Hunter",
+          "team": null
+        },
+        {
+          "kills": "259",
+          "name": "Notta",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "HUDFAME",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "br9dy",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "Gio",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.00\n1.43\n1.22",
+            "adr": "+8\n-5\n+13",
+            "agent": "",
+            "assists": "/\n\n54\n30\n24\n\n/",
+            "deaths": "62\n25\n37",
+            "fk": "162\n135\n188",
+            "hs%": "69%\n63%\n76%",
+            "kdr": "19\n8\n11",
+            "kills": "211",
+            "name": "ScrewFace",
+            "team": null
+          },
+          {
+            "acs": "0.73\n1.42\n1.09",
+            "adr": "+5\n-9\n+14",
+            "agent": "",
+            "assists": "/\n\n53\n30\n23\n\n/",
+            "deaths": "58\n21\n37",
+            "fk": "143\n104\n179",
+            "hs%": "83%\n77%\n89%",
+            "kdr": "23\n11\n12",
+            "kills": "172",
+            "name": "SkrubbleBubble",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.01\n0.98",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n55\n30\n25\n\n/",
+            "deaths": "44\n20\n24",
+            "fk": "121\n120\n122",
+            "hs%": "69%\n69%\n70%",
+            "kdr": "45\n20\n25",
+            "kills": "189",
+            "name": "snirot",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.12\n0.97",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n50\n27\n23\n\n/",
+            "deaths": "48\n20\n28",
+            "fk": "120\n115\n125",
+            "hs%": "71%\n66%\n76%",
+            "kdr": "18\n9\n9",
+            "kills": "171",
+            "name": "Okeanos",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.72\n0.73",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "42\n22\n20",
+            "fk": "107\n119\n95",
+            "hs%": "64%\n63%\n65%",
+            "kdr": "10\n5\n5",
+            "kills": "176",
+            "name": "riku",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.88\n1.42\n1.14",
+            "adr": "+6\n-9\n+15",
+            "agent": "",
+            "assists": "/\n\n48\n30\n18\n\n/",
+            "deaths": "54\n21\n33",
+            "fk": "142\n126\n159",
+            "hs%": "74%\n65%\n83%",
+            "kdr": "31\n15\n16",
+            "kills": "180",
+            "name": "Hunter",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.05\n1.05",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n57\n32\n25\n\n/",
+            "deaths": "60\n31\n29",
+            "fk": "162\n167\n157",
+            "hs%": "69%\n68%\n71%",
+            "kdr": "14\n7\n7",
+            "kills": "259",
+            "name": "Notta",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.28\n1.02",
+            "adr": "+5\n-7\n+12",
+            "agent": "",
+            "assists": "/\n\n48\n28\n20\n\n/",
+            "deaths": "53\n21\n32",
+            "fk": "137\n108\n168",
+            "hs%": "71%\n62%\n80%",
+            "kdr": "10\n5\n5",
+            "kills": "156",
+            "name": "HUDFAME",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.22\n0.97",
+            "adr": "0\n-7\n+7",
+            "agent": "",
+            "assists": "/\n\n49\n29\n20\n\n/",
+            "deaths": "49\n22\n27",
+            "fk": "135\n102\n170",
+            "hs%": "71%\n65%\n77%",
+            "kdr": "16\n6\n10",
+            "kills": "166",
+            "name": "br9dy",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.99\n0.94",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n52\n28\n24\n\n/",
+            "deaths": "49\n25\n24",
+            "fk": "121\n122\n120",
+            "hs%": "74%\n65%\n83%",
+            "kdr": "36\n11\n25",
+            "kills": "181",
+            "name": "Gio",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "310",
+          "name": "ScrewFace",
+          "team": "DHBK"
+        },
+        {
+          "kills": "171",
+          "name": "Okeanos",
+          "team": "DHBK"
+        },
+        {
+          "kills": "205",
+          "name": "riku",
+          "team": "DHBK"
+        },
+        {
+          "kills": "243",
+          "name": "SkrubbleBubble",
+          "team": "DHBK"
+        },
+        {
+          "kills": "213",
+          "name": "snirot",
+          "team": "DHBK"
+        },
+        {
+          "kills": "267",
+          "name": "Hunter",
+          "team": "OTF"
+        },
+        {
+          "kills": "232",
+          "name": "HUDFAME",
+          "team": "OTF"
+        },
+        {
+          "kills": "180",
+          "name": "Notta",
+          "team": "OTF"
+        },
+        {
+          "kills": "277",
+          "name": "br9dy",
+          "team": "OTF"
+        },
+        {
+          "kills": "171",
+          "name": "Gio",
+          "team": "OTF"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.26\n1.46",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "27\n12\n15",
+            "fk": "175\n163\n186",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "5\n4\n1",
+            "kills": "310",
+            "name": "ScrewFace",
+            "team": "DHBK"
+          },
+          {
+            "acs": "0.98\n1.01\n0.95",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "128\n141\n115",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "5\n2\n3",
+            "kills": "171",
+            "name": "Okeanos",
+            "team": "DHBK"
+          },
+          {
+            "acs": "0.91\n1.12\n0.71",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "139\n157\n121",
+            "hs%": "62%\n77%\n46%",
+            "kdr": "3\n3\n0",
+            "kills": "205",
+            "name": "riku",
+            "team": "DHBK"
+          },
+          {
+            "acs": "0.89\n0.54\n1.25",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "117\n77\n157",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "9\n3\n6",
+            "kills": "243",
+            "name": "SkrubbleBubble",
+            "team": "DHBK"
+          },
+          {
+            "acs": "0.82\n0.59\n1.05",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "99\n70\n129",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "16\n8\n8",
+            "kills": "213",
+            "name": "snirot",
+            "team": "DHBK"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n0.86\n1.73",
+            "adr": "+5\n-4\n+9",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "164\n154\n173",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "11\n5\n6",
+            "kills": "267",
+            "name": "Hunter",
+            "team": "OTF"
+          },
+          {
+            "acs": "1.06\n0.98\n1.13",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "145\n135\n155",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "3\n2\n1",
+            "kills": "232",
+            "name": "HUDFAME",
+            "team": "OTF"
+          },
+          {
+            "acs": "0.91\n1.30\n0.53",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "149\n171\n127",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "6\n1\n5",
+            "kills": "180",
+            "name": "Notta",
+            "team": "OTF"
+          },
+          {
+            "acs": "0.89\n0.31\n1.48",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "131\n65\n197",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "3\n1\n2",
+            "kills": "277",
+            "name": "br9dy",
+            "team": "OTF"
+          },
+          {
+            "acs": "0.83\n0.94\n0.71",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "122\n143\n101",
+            "hs%": "69%\n54%\n85%",
+            "kdr": "12\n4\n8",
+            "kills": "171",
+            "name": "Gio",
+            "team": "OTF"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "283",
+          "name": "ScrewFace",
+          "team": "DHBK"
+        },
+        {
+          "kills": "198",
+          "name": "snirot",
+          "team": "DHBK"
+        },
+        {
+          "kills": "265",
+          "name": "SkrubbleBubble",
+          "team": "DHBK"
+        },
+        {
+          "kills": "115",
+          "name": "riku",
+          "team": "DHBK"
+        },
+        {
+          "kills": "131",
+          "name": "Okeanos",
+          "team": "DHBK"
+        },
+        {
+          "kills": "233",
+          "name": "HUDFAME",
+          "team": "OTF"
+        },
+        {
+          "kills": "229",
+          "name": "Gio",
+          "team": "OTF"
+        },
+        {
+          "kills": "249",
+          "name": "Notta",
+          "team": "OTF"
+        },
+        {
+          "kills": "177",
+          "name": "Hunter",
+          "team": "OTF"
+        },
+        {
+          "kills": "159",
+          "name": "br9dy",
+          "team": "OTF"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.25\n0.74\n1.67",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "179\n118\n229",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "283",
+            "name": "ScrewFace",
+            "team": "DHBK"
+          },
+          {
+            "acs": "1.15\n0.95\n1.31",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "133\n148\n120",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "14\n5\n9",
+            "kills": "198",
+            "name": "snirot",
+            "team": "DHBK"
+          },
+          {
+            "acs": "1.15\n0.96\n1.31",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "161\n112\n202",
+            "hs%": "95%\n90%\n100%",
+            "kdr": "9\n6\n3",
+            "kills": "265",
+            "name": "SkrubbleBubble",
+            "team": "DHBK"
+          },
+          {
+            "acs": "0.68\n0.35\n0.96",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "75\n83\n69",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "115",
+            "name": "riku",
+            "team": "DHBK"
+          },
+          {
+            "acs": "0.55\n0.61\n0.49",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "101\n119\n86",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "131",
+            "name": "Okeanos",
+            "team": "DHBK"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.00\n1.64",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "146\n102\n199",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "2\n0\n2",
+            "kills": "233",
+            "name": "HUDFAME",
+            "team": "OTF"
+          },
+          {
+            "acs": "1.21\n1.09\n1.36",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "144\n121\n171",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "13\n5\n8",
+            "kills": "229",
+            "name": "Gio",
+            "team": "OTF"
+          },
+          {
+            "acs": "1.05\n0.53\n1.67",
+            "adr": "0\n-7\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "176\n132\n229",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "4\n2\n2",
+            "kills": "249",
+            "name": "Notta",
+            "team": "OTF"
+          },
+          {
+            "acs": "0.97\n1.06\n0.86",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "111\n100\n124",
+            "hs%": "64%\n50%\n80%",
+            "kdr": "9\n6\n3",
+            "kills": "177",
+            "name": "Hunter",
+            "team": "OTF"
+          },
+          {
+            "acs": "0.93\n0.69\n1.23",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "114\n103\n126",
+            "hs%": "82%\n67%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "159",
+            "name": "br9dy",
+            "team": "OTF"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 162187,
+  "teams": [
+    "OTF",
+    "DHBK"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 16"
+}

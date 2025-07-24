@@ -1,0 +1,788 @@
+{
+  "date": "2021-09-24 21:25:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "226",
+          "name": "Kayleigh",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "115",
+          "name": "sinon",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "139",
+          "name": "Alexa",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "137",
+          "name": "Kamiunist",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "153",
+          "name": "Stay",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "201",
+          "name": "Gigi",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "341",
+          "name": "Lex",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "272",
+          "name": "FoMiNiL",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "185",
+          "name": "Qlutch",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "120",
+          "name": "msxshots",
+          "team": "NMG Indigo"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.26\n1.23\n1.27",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "144\n129\n150",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "226",
+            "name": "Kayleigh",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "0.64\n1.09\n0.46",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "81\n114\n67",
+            "hs%": "65%\n60%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "115",
+            "name": "sinon",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "0.60\n0.67\n0.57",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "87\n91\n85",
+            "hs%": "53%\n60%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "139",
+            "name": "Alexa",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "0.44\n0.02\n0.66",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "113\n60\n135",
+            "hs%": "47%\n20%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "137",
+            "name": "Kamiunist",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "0.43\n0.61\n0.36",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "94\n118\n84",
+            "hs%": "41%\n60%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "153",
+            "name": "Stay",
+            "team": "Kami's Retirement Home"
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.69\n1.15",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n6\n4\n2\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "122\n147\n62",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "201",
+            "name": "Gigi",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "1.44\n1.43\n1.45",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "211\n220\n190",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "5\n5\n0",
+            "kills": "341",
+            "name": "Lex",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "1.28\n1.23\n1.40",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "194\n183\n222",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "272",
+            "name": "FoMiNiL",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "1.18\n1.03\n1.54",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "133\n115\n176",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "185",
+            "name": "Qlutch",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "1.01\n1.14\n0.68",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "82\n83\n81",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "120",
+            "name": "msxshots",
+            "team": "NMG Indigo"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "261",
+          "name": "Kayleigh",
+          "team": null
+        },
+        {
+          "kills": "303",
+          "name": "Stay",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "Alexa",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "sinon",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Kamiunist",
+          "team": null
+        },
+        {
+          "kills": "289",
+          "name": "Lex",
+          "team": null
+        },
+        {
+          "kills": "264",
+          "name": "msxshots",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "FoMiNiL",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "Gigi",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "Qlutch",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.37\n1.32\n1.34",
+            "adr": "+12\n+11\n+1",
+            "agent": "",
+            "assists": "/\n\n45\n15\n30\n\n/",
+            "deaths": "57\n26\n31",
+            "fk": "166\n154\n175",
+            "hs%": "79%\n88%\n72%",
+            "kdr": "16\n6\n10",
+            "kills": "261",
+            "name": "Kayleigh",
+            "team": null
+          },
+          {
+            "acs": "1.32\n0.90\n1.08",
+            "adr": "+3\n+9\n-6",
+            "agent": "",
+            "assists": "/\n\n54\n19\n35\n\n/",
+            "deaths": "57\n28\n29",
+            "fk": "173\n180\n168",
+            "hs%": "68%\n77%\n61%",
+            "kdr": "13\n6\n7",
+            "kills": "303",
+            "name": "Stay",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.55\n0.70",
+            "adr": "-16\n0\n-16",
+            "agent": "",
+            "assists": "/\n\n48\n14\n34\n\n/",
+            "deaths": "32\n14\n18",
+            "fk": "91\n104\n81",
+            "hs%": "55%\n65%\n47%",
+            "kdr": "14\n7\n7",
+            "kills": "149",
+            "name": "Alexa",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.46\n0.69",
+            "adr": "-17\n+2\n-19",
+            "agent": "",
+            "assists": "/\n\n41\n12\n29\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "71\n82\n63",
+            "hs%": "61%\n81%\n47%",
+            "kdr": "15\n7\n8",
+            "kills": "137",
+            "name": "sinon",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.60\n0.68",
+            "adr": "-18\n-1\n-17",
+            "agent": "",
+            "assists": "/\n\n52\n18\n34\n\n/",
+            "deaths": "34\n17\n17",
+            "fk": "138\n137\n140",
+            "hs%": "56%\n62%\n53%",
+            "kdr": "15\n6\n9",
+            "kills": "209",
+            "name": "Kamiunist",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n1.09\n1.17",
+            "adr": "+11\n+13\n-2",
+            "agent": "",
+            "assists": "/\n\n43\n24\n19\n\n/",
+            "deaths": "54\n37\n17",
+            "fk": "175\n186\n159",
+            "hs%": "74%\n83%\n62%",
+            "kdr": "16\n10\n6",
+            "kills": "289",
+            "name": "Lex",
+            "team": null
+          },
+          {
+            "acs": "1.49\n0.71\n1.16",
+            "adr": "+9\n+19\n-10",
+            "agent": "",
+            "assists": "/\n\n37\n17\n20\n\n/",
+            "deaths": "46\n36\n10",
+            "fk": "140\n172\n95",
+            "hs%": "74%\n86%\n58%",
+            "kdr": "20\n14\n6",
+            "kills": "264",
+            "name": "msxshots",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.26\n1.16",
+            "adr": "+12\n+12\n0",
+            "agent": "",
+            "assists": "/\n\n42\n20\n22\n\n/",
+            "deaths": "54\n32\n22",
+            "fk": "166\n152\n184",
+            "hs%": "74%\n78%\n69%",
+            "kdr": "15\n11\n4",
+            "kills": "219",
+            "name": "FoMiNiL",
+            "team": null
+          },
+          {
+            "acs": "1.28\n0.72\n1.04",
+            "adr": "+2\n+9\n-7",
+            "agent": "",
+            "assists": "/\n\n39\n21\n18\n\n/",
+            "deaths": "41\n30\n11",
+            "fk": "111\n136\n76",
+            "hs%": "79%\n83%\n73%",
+            "kdr": "31\n25\n6",
+            "kills": "212",
+            "name": "Gigi",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.79\n1.01",
+            "adr": "+2\n+8\n-6",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "45\n31\n14",
+            "fk": "138\n151\n121",
+            "hs%": "73%\n83%\n58%",
+            "kdr": "9\n6\n3",
+            "kills": "230",
+            "name": "Qlutch",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "285",
+          "name": "Stay",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "276",
+          "name": "Kayleigh",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "278",
+          "name": "Kamiunist",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "94",
+          "name": "sinon",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "105",
+          "name": "Alexa",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "214",
+          "name": "Qlutch",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "151",
+          "name": "Gigi",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "124",
+          "name": "msxshots",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "213",
+          "name": "Lex",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "216",
+          "name": "FoMiNiL",
+          "team": "NMG Indigo"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.51\n2.14\n0.99",
+            "adr": "+8\n+10\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "27\n17\n10",
+            "fk": "219\n263\n183",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "285",
+            "name": "Stay",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "1.25\n0.97\n1.49",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "178\n142\n209",
+            "hs%": "82%\n100%\n67%",
+            "kdr": "9\n5\n4",
+            "kills": "276",
+            "name": "Kayleigh",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "0.93\n0.86\n0.99",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "172\n134\n203",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "278",
+            "name": "Kamiunist",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "0.89\n1.13\n0.69",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "56\n49\n61",
+            "hs%": "64%\n90%\n42%",
+            "kdr": "5\n3\n2",
+            "kills": "94",
+            "name": "sinon",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "0.69\n1.23\n0.24",
+            "adr": "-3\n+4\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "96\n138\n61",
+            "hs%": "55%\n60%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "105",
+            "name": "Alexa",
+            "team": "Kami's Retirement Home"
+          }
+        ],
+        [
+          {
+            "acs": "1.27\n1.51\n0.98",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "170\n185\n152",
+            "hs%": "77%\n92%\n60%",
+            "kdr": "1\n1\n0",
+            "kills": "214",
+            "name": "Qlutch",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "0.97\n1.39\n0.46",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "140\n166\n110",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "14\n13\n1",
+            "kills": "151",
+            "name": "Gigi",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "0.96\n1.28\n0.58",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "134\n174\n85",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "5\n3\n2",
+            "kills": "124",
+            "name": "msxshots",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "0.84\n0.76\n0.93",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "152\n144\n162",
+            "hs%": "68%\n83%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "213",
+            "name": "Lex",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "0.79\n0.81\n0.76",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "125\n109\n145",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "216",
+            "name": "FoMiNiL",
+            "team": "NMG Indigo"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "285",
+          "name": "Kayleigh",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "291",
+          "name": "Stay",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "130",
+          "name": "Alexa",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "178",
+          "name": "Kamiunist",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "117",
+          "name": "sinon",
+          "team": "Kami's Retirement Home"
+        },
+        {
+          "kills": "290",
+          "name": "msxshots",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "284",
+          "name": "FoMiNiL",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "237",
+          "name": "Lex",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "113",
+          "name": "Gigi",
+          "team": "NMG Indigo"
+        },
+        {
+          "kills": "166",
+          "name": "Qlutch",
+          "team": "NMG Indigo"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.48\n1.79\n1.20",
+            "adr": "+8\n+10\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "24\n15\n9",
+            "fk": "171\n177\n167",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "285",
+            "name": "Kayleigh",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "1.13\n0.90\n1.34",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "187\n132\n237",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "291",
+            "name": "Stay",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "0.77\n0.70\n0.84",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "88\n80\n97",
+            "hs%": "57%\n73%\n42%",
+            "kdr": "8\n4\n4",
+            "kills": "130",
+            "name": "Alexa",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "0.62\n1.15\n0.14",
+            "adr": "-6\n+3\n-9",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "125\n174\n81",
+            "hs%": "57%\n73%\n42%",
+            "kdr": "4\n2\n2",
+            "kills": "178",
+            "name": "Kamiunist",
+            "team": "Kami's Retirement Home"
+          },
+          {
+            "acs": "0.54\n0.85\n0.25",
+            "adr": "-9\n0\n-9",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "79\n99\n62",
+            "hs%": "57%\n82%\n33%",
+            "kdr": "6\n4\n2",
+            "kills": "117",
+            "name": "sinon",
+            "team": "Kami's Retirement Home"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n2.03\n0.84",
+            "adr": "+8\n+12\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "23\n18\n5",
+            "fk": "187\n259\n110",
+            "hs%": "74%\n92%\n55%",
+            "kdr": "11\n8\n3",
+            "kills": "290",
+            "name": "msxshots",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "1.44\n1.23\n1.66",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "183\n165\n202",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "5\n5\n0",
+            "kills": "284",
+            "name": "FoMiNiL",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "1.29\n1.50\n1.06",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "169\n194\n141",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "237",
+            "name": "Lex",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "0.76\n0.76\n0.76",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "74\n95\n51",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "13\n8\n5",
+            "kills": "113",
+            "name": "Gigi",
+            "team": "NMG Indigo"
+          },
+          {
+            "acs": "0.65\n0.98\n0.28",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "111\n151\n66",
+            "hs%": "61%\n75%\n45%",
+            "kdr": "6\n4\n2",
+            "kills": "166",
+            "name": "Qlutch",
+            "team": "NMG Indigo"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 42329,
+  "teams": [
+    "Kami's Retirement Home",
+    "NMG Indigo"
+  ],
+  "tournament": "Swiss Stage: \n\t\t\t\t\t\tRound 2"
+}

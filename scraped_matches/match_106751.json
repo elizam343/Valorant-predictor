@@ -1,0 +1,788 @@
+{
+  "date": "2022-07-02 08:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "276",
+          "name": "TiKeX",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "248",
+          "name": "B3ASTM0D3",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "141",
+          "name": "Nikoluk",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "200",
+          "name": "RiickyC",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "159",
+          "name": "SPMAK",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "288",
+          "name": "Luc1d",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "172",
+          "name": "nico",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "188",
+          "name": "Treelover",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "171",
+          "name": "litshii",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "131",
+          "name": "m1sfit",
+          "team": "Unicorns of Love"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.32\n1.54",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "201\n230\n165",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "6\n5\n1",
+            "kills": "276",
+            "name": "TiKeX",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "1.35\n2.04\n0.52",
+            "adr": "+6\n+11\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "159\n217\n89",
+            "hs%": "59%\n75%\n40%",
+            "kdr": "4\n4\n0",
+            "kills": "248",
+            "name": "B3ASTM0D3",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "1.00\n1.18\n0.80",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "98\n95\n101",
+            "hs%": "82%\n92%\n70%",
+            "kdr": "4\n2\n2",
+            "kills": "141",
+            "name": "Nikoluk",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "0.89\n0.60\n1.24",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "117\n91\n149",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "10\n5\n5",
+            "kills": "200",
+            "name": "RiickyC",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "0.73\n0.68\n0.79",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "108\n86\n136",
+            "hs%": "55%\n67%\n40%",
+            "kdr": "8\n4\n4",
+            "kills": "159",
+            "name": "SPMAK",
+            "team": "Dortmund Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n1.15\n1.29",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "189\n179\n197",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "288",
+            "name": "Luc1d",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "1.02\n1.53\n0.59",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "90\n114\n69",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "9\n6\n3",
+            "kills": "172",
+            "name": "nico",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "0.90\n1.13\n0.71",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "123\n146\n104",
+            "hs%": "82%\n100%\n67%",
+            "kdr": "8\n8\n0",
+            "kills": "188",
+            "name": "Treelover",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "0.71\n0.57\n0.83",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "119\n91\n142",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "171",
+            "name": "litshii",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "0.68\n0.91\n0.49",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "87\n79\n93",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "131",
+            "name": "m1sfit",
+            "team": "Unicorns of Love"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "241",
+          "name": "B3ASTM0D3",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "RiickyC",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Nikoluk",
+          "team": null
+        },
+        {
+          "kills": "234",
+          "name": "TiKeX",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "SPMAK",
+          "team": null
+        },
+        {
+          "kills": "247",
+          "name": "Treelover",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "nico",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "Luc1d",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "m1sfit",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "litshii",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.29\n0.96\n1.12",
+            "adr": "+9\n+9\n0",
+            "agent": "",
+            "assists": "/\n\n49\n22\n27\n\n/",
+            "deaths": "58\n31\n27",
+            "fk": "144\n160\n129",
+            "hs%": "72%\n77%\n67%",
+            "kdr": "17\n8\n9",
+            "kills": "241",
+            "name": "B3ASTM0D3",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.13\n1.05",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n57\n30\n27\n\n/",
+            "deaths": "54\n29\n25",
+            "fk": "156\n143\n169",
+            "hs%": "75%\n80%\n69%",
+            "kdr": "25\n9\n16",
+            "kills": "217",
+            "name": "RiickyC",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.92\n0.93",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "46\n24\n22",
+            "fk": "104\n100\n108",
+            "hs%": "70%\n71%\n69%",
+            "kdr": "6\n3\n3",
+            "kills": "163",
+            "name": "Nikoluk",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.03\n0.92",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n58\n32\n26\n\n/",
+            "deaths": "52\n24\n28",
+            "fk": "157\n170\n145",
+            "hs%": "72%\n77%\n67%",
+            "kdr": "25\n17\n8",
+            "kills": "234",
+            "name": "TiKeX",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.00\n0.87",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "43\n19\n24",
+            "fk": "124\n99\n149",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "25\n10\n15",
+            "kills": "156",
+            "name": "SPMAK",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.28\n1.00\n1.15",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "56\n30\n26",
+            "fk": "150\n169\n130",
+            "hs%": "79%\n83%\n74%",
+            "kdr": "23\n17\n6",
+            "kills": "247",
+            "name": "Treelover",
+            "team": null
+          },
+          {
+            "acs": "1.27\n0.99\n1.13",
+            "adr": "+12\n+9\n+3",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "57\n33\n24",
+            "fk": "125\n133\n116",
+            "hs%": "80%\n78%\n83%",
+            "kdr": "18\n8\n10",
+            "kills": "224",
+            "name": "nico",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.21\n1.01",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "56\n24\n32",
+            "fk": "144\n129\n158",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "10\n7\n3",
+            "kills": "202",
+            "name": "Luc1d",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.93\n0.94",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n52\n23\n29\n\n/",
+            "deaths": "49\n22\n27",
+            "fk": "126\n97\n155",
+            "hs%": "68%\n61%\n74%",
+            "kdr": "18\n10\n8",
+            "kills": "157",
+            "name": "m1sfit",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.94\n0.86",
+            "adr": "-12\n-10\n-2",
+            "agent": "",
+            "assists": "/\n\n53\n28\n25\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "136\n121\n152",
+            "hs%": "73%\n72%\n74%",
+            "kdr": "24\n14\n10",
+            "kills": "174",
+            "name": "litshii",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "233",
+          "name": "B3ASTM0D3",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "225",
+          "name": "RiickyC",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "206",
+          "name": "Nikoluk",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "171",
+          "name": "SPMAK",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "238",
+          "name": "TiKeX",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "302",
+          "name": "Treelover",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "313",
+          "name": "nico",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "199",
+          "name": "m1sfit",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "195",
+          "name": "litshii",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "136",
+          "name": "Luc1d",
+          "team": "Unicorns of Love"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "0.97\n0.83\n1.07",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "155\n127\n175",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "233",
+            "name": "B3ASTM0D3",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "0.95\n0.70\n1.13",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "145\n105\n175",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "11\n4\n7",
+            "kills": "225",
+            "name": "RiickyC",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "0.85\n0.72\n0.95",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "125\n138\n116",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "206",
+            "name": "Nikoluk",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "0.78\n0.71\n0.82",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "103\n87\n115",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "171",
+            "name": "SPMAK",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "0.70\n0.52\n0.83",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "136\n129\n141",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "11\n7\n4",
+            "kills": "238",
+            "name": "TiKeX",
+            "team": "Dortmund Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.68\n1.60\n1.79",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "206\n200\n215",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "8\n6\n2",
+            "kills": "302",
+            "name": "Treelover",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "1.34\n1.09\n1.69",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "177\n154\n208",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "1\n0\n1",
+            "kills": "313",
+            "name": "nico",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "1.05\n1.07\n1.02",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "126\n109\n149",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "6\n4\n2",
+            "kills": "199",
+            "name": "m1sfit",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "0.97\n0.97\n0.97",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "121\n122\n120",
+            "hs%": "86%\n92%\n78%",
+            "kdr": "10\n7\n3",
+            "kills": "195",
+            "name": "litshii",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "0.86\n0.76\n0.98",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "115\n113\n118",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "6\n5\n1",
+            "kills": "136",
+            "name": "Luc1d",
+            "team": "Unicorns of Love"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "296",
+          "name": "RiickyC",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "210",
+          "name": "B3ASTM0D3",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "236",
+          "name": "SPMAK",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "148",
+          "name": "Nikoluk",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "200",
+          "name": "TiKeX",
+          "team": "Dortmund Esports"
+        },
+        {
+          "kills": "253",
+          "name": "m1sfit",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "181",
+          "name": "nico",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "199",
+          "name": "Luc1d",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "200",
+          "name": "Treelover",
+          "team": "Unicorns of Love"
+        },
+        {
+          "kills": "204",
+          "name": "litshii",
+          "team": "Unicorns of Love"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.27\n1.48\n1.05",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "28\n16\n12",
+            "fk": "195\n211\n178",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "4\n0\n4",
+            "kills": "296",
+            "name": "RiickyC",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "1.06\n0.94\n1.17",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "124\n131\n117",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "10\n3\n7",
+            "kills": "210",
+            "name": "B3ASTM0D3",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "1.06\n0.81\n1.30",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "153\n118\n188",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "10\n4\n6",
+            "kills": "236",
+            "name": "SPMAK",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "0.92\n0.87\n0.98",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "93\n80\n106",
+            "hs%": "64%\n64%\n64%",
+            "kdr": "2\n1\n1",
+            "kills": "148",
+            "name": "Nikoluk",
+            "team": "Dortmund Esports"
+          },
+          {
+            "acs": "0.69\n0.54\n0.83",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "140\n145\n134",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "8\n5\n3",
+            "kills": "200",
+            "name": "TiKeX",
+            "team": "Dortmund Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n0.89\n1.25",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "156\n101\n212",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "5\n3\n2",
+            "kills": "253",
+            "name": "m1sfit",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "1.06\n1.24\n0.89",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "112\n128\n97",
+            "hs%": "82%\n71%\n93%",
+            "kdr": "8\n2\n6",
+            "kills": "181",
+            "name": "nico",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "0.96\n0.64\n1.29",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "129\n108\n151",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "4\n2\n2",
+            "kills": "199",
+            "name": "Luc1d",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "0.93\n1.12\n0.75",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "129\n160\n97",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "7\n3\n4",
+            "kills": "200",
+            "name": "Treelover",
+            "team": "Unicorns of Love"
+          },
+          {
+            "acs": "0.88\n0.74\n1.02",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "162\n142\n181",
+            "hs%": "71%\n64%\n79%",
+            "kdr": "9\n4\n5",
+            "kills": "204",
+            "name": "litshii",
+            "team": "Unicorns of Love"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 106751,
+  "teams": [
+    "Dortmund Esports",
+    "Unicorns of Love"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tConsolation Finals"
+}

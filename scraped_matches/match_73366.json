@@ -1,0 +1,788 @@
+{
+  "date": "2022-02-25 05:25:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "162",
+          "name": "Kushy",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "164",
+          "name": "deLb",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "150",
+          "name": "x v y",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "112",
+          "name": "natz",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "91",
+          "name": "adrnking",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "106",
+          "name": "Famouz",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "118",
+          "name": "Asteriskk",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "108",
+          "name": "Flynch",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "81",
+          "name": "Eeyore",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "80",
+          "name": "roseau",
+          "team": "BOY WITH LOVE"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.84\n0.73",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "98\n197",
+            "hs%": "92%\n85%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "162",
+            "name": "Kushy",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "1.23\n1.36\n1.09",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "118\n192\n44",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "7\n2\n5",
+            "kills": "164",
+            "name": "deLb",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "1.12\n1.53\n0.71",
+            "adr": "+3\n+9\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "22\n16\n6",
+            "fk": "82\n165",
+            "hs%": "92%\n92%\n92%",
+            "kdr": "7\n3\n4",
+            "kills": "150",
+            "name": "x v y",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.91\n1.00\n0.82",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "85\n130\n40",
+            "hs%": "88%\n77%\n100%",
+            "kdr": "10\n7\n3",
+            "kills": "112",
+            "name": "natz",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.74\n0.82\n0.67",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "54\n103\n5",
+            "hs%": "92%\n85%\n100%",
+            "kdr": "12\n7\n5",
+            "kills": "91",
+            "name": "adrnking",
+            "team": "Alter Ego"
+          }
+        ],
+        [
+          {
+            "acs": "0.76\n0.81\n0.71",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n1\n19\n\n/",
+            "deaths": "17\n0\n17",
+            "fk": "66\n8\n124",
+            "hs%": "85%\n100%\n69%",
+            "kdr": "5\n1\n4",
+            "kills": "106",
+            "name": "Famouz",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "0.73\n0.77\n0.68",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n21\n1\n20\n\n/",
+            "deaths": "26\n0\n26",
+            "fk": "74\n6\n141",
+            "hs%": "85%\n92%\n77%",
+            "kdr": "8\n0\n8",
+            "kills": "118",
+            "name": "Asteriskk",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "0.72\n0.99\n0.44",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n23\n1\n22\n\n/",
+            "deaths": "20\n2\n18",
+            "fk": "68\n25\n110",
+            "hs%": "81%\n100%\n62%",
+            "kdr": "5\n0\n5",
+            "kills": "108",
+            "name": "Flynch",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "0.61\n0.89\n0.33",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n24\n1\n23\n\n/",
+            "deaths": "20\n1\n19",
+            "fk": "59\n18\n100",
+            "hs%": "92%\n100%\n85%",
+            "kdr": "10\n0\n10",
+            "kills": "81",
+            "name": "Eeyore",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "0.60\n0.76\n0.44",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n21\n1\n20\n\n/",
+            "deaths": "15\n0\n15",
+            "fk": "49\n0\n98",
+            "hs%": "69%\n92%\n46%",
+            "kdr": "6\n0\n6",
+            "kills": "80",
+            "name": "roseau",
+            "team": "BOY WITH LOVE"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "236",
+          "name": "x v y",
+          "team": null
+        },
+        {
+          "kills": "264",
+          "name": "Kushy",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "deLb",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "natz",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "adrnking",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "Eeyore",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "Famouz",
+          "team": null
+        },
+        {
+          "kills": "123",
+          "name": "Flynch",
+          "team": null
+        },
+        {
+          "kills": "110",
+          "name": "Asteriskk",
+          "team": null
+        },
+        {
+          "kills": "120",
+          "name": "roseau",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.33\n0.96\n1.13",
+            "adr": "+4\n+10\n-6",
+            "agent": "",
+            "assists": "/\n\n49\n19\n30\n\n/",
+            "deaths": "53\n29\n24",
+            "fk": "112\n138\n89",
+            "hs%": "79%\n75%\n82%",
+            "kdr": "26\n10\n16",
+            "kills": "236",
+            "name": "x v y",
+            "team": null
+          },
+          {
+            "acs": "1.44\n0.79\n1.08",
+            "adr": "+4\n+11\n-7",
+            "agent": "",
+            "assists": "/\n\n51\n19\n32\n\n/",
+            "deaths": "55\n30\n25",
+            "fk": "125\n171\n86",
+            "hs%": "81%\n81%\n82%",
+            "kdr": "22\n11\n11",
+            "kills": "264",
+            "name": "Kushy",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.94\n0.94",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n52\n23\n29\n\n/",
+            "deaths": "49\n23\n26",
+            "fk": "112\n128\n99",
+            "hs%": "80%\n75%\n84%",
+            "kdr": "12\n3\n9",
+            "kills": "190",
+            "name": "deLb",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.00\n0.90",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n55\n25\n30\n\n/",
+            "deaths": "51\n19\n32",
+            "fk": "114\n124\n106",
+            "hs%": "71%\n66%\n76%",
+            "kdr": "16\n9\n7",
+            "kills": "183",
+            "name": "natz",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.87\n0.80",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n57\n26\n31\n\n/",
+            "deaths": "46\n17\n29",
+            "fk": "106\n112\n101",
+            "hs%": "77%\n72%\n82%",
+            "kdr": "26\n14\n12",
+            "kills": "162",
+            "name": "adrnking",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.38\n0.92\n1.17",
+            "adr": "+18\n+16\n+2",
+            "agent": "",
+            "assists": "/\n\n53\n16\n37\n\n/",
+            "deaths": "71\n32\n39",
+            "fk": "144\n137\n151",
+            "hs%": "76%\n82%\n69%",
+            "kdr": "11\n1\n10",
+            "kills": "215",
+            "name": "Eeyore",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.97\n1.03",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n49\n18\n31\n\n/",
+            "deaths": "53\n20\n33",
+            "fk": "132\n120\n147",
+            "hs%": "81%\n89%\n72%",
+            "kdr": "14\n7\n7",
+            "kills": "165",
+            "name": "Famouz",
+            "team": null
+          },
+          {
+            "acs": "0.80\n0.92\n0.85",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n54\n20\n34\n\n/",
+            "deaths": "51\n16\n35",
+            "fk": "104\n80\n132",
+            "hs%": "77%\n82%\n72%",
+            "kdr": "16\n9\n7",
+            "kills": "123",
+            "name": "Flynch",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.77\n0.83",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n48\n18\n30\n\n/",
+            "deaths": "49\n15\n34",
+            "fk": "84\n69\n102",
+            "hs%": "77%\n87%\n66%",
+            "kdr": "30\n15\n15",
+            "kills": "110",
+            "name": "Asteriskk",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.86\n0.82",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n50\n19\n31\n\n/",
+            "deaths": "40\n14\n26",
+            "fk": "96\n77\n119",
+            "hs%": "74%\n74%\n75%",
+            "kdr": "22\n7\n15",
+            "kills": "120",
+            "name": "roseau",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "210",
+          "name": "Kushy",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "205",
+          "name": "deLb",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "165",
+          "name": "x v y",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "218",
+          "name": "adrnking",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "137",
+          "name": "natz",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "315",
+          "name": "Eeyore",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "141",
+          "name": "Asteriskk",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "123",
+          "name": "Famouz",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "141",
+          "name": "roseau",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "292",
+          "name": "Flynch",
+          "team": "BOY WITH LOVE"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.08\n1.00",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "153\n165\n147",
+            "hs%": "72%\n83%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "210",
+            "name": "Kushy",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.97\n0.75\n1.07",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "118\n84\n135",
+            "hs%": "67%\n33%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "205",
+            "name": "deLb",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.84\n1.00\n0.76",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "106\n104\n106",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "165",
+            "name": "x v y",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.83\n0.77\n0.87",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "139\n138\n140",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "218",
+            "name": "adrnking",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.37\n0.24\n0.44",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "93\n55\n112",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "4\n1\n3",
+            "kills": "137",
+            "name": "natz",
+            "team": "Alter Ego"
+          }
+        ],
+        [
+          {
+            "acs": "1.74\n1.88\n1.46",
+            "adr": "+15\n+12\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "24\n17\n7",
+            "fk": "190\n200\n170",
+            "hs%": "72%\n83%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "315",
+            "name": "Eeyore",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "1.17\n1.11\n1.31",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "119\n134\n90",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "10\n8\n2",
+            "kills": "141",
+            "name": "Asteriskk",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "1.13\n1.39\n0.61",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "151\n185\n82",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "123",
+            "name": "Famouz",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "0.97\n0.97\n0.96",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "126\n140\n98",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "141",
+            "name": "roseau",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "0.81\n0.50\n1.45",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "124\n104\n164",
+            "hs%": "61%\n58%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "292",
+            "name": "Flynch",
+            "team": "BOY WITH LOVE"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "239",
+          "name": "x v y",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "257",
+          "name": "natz",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "185",
+          "name": "Kushy",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "180",
+          "name": "adrnking",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "143",
+          "name": "deLb",
+          "team": "Alter Ego"
+        },
+        {
+          "kills": "302",
+          "name": "Eeyore",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "263",
+          "name": "Famouz",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "184",
+          "name": "Flynch",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "178",
+          "name": "roseau",
+          "team": "BOY WITH LOVE"
+        },
+        {
+          "kills": "131",
+          "name": "Asteriskk",
+          "team": "BOY WITH LOVE"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.29\n1.40",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "145\n128\n163",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "13\n6\n7",
+            "kills": "239",
+            "name": "x v y",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "1.25\n0.81\n1.70",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "158\n150\n166",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "2\n1\n1",
+            "kills": "257",
+            "name": "natz",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.93\n1.20\n0.65",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "132\n147\n116",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "13\n7\n6",
+            "kills": "185",
+            "name": "Kushy",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.84\n0.62\n1.07",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "136\n110\n161",
+            "hs%": "62%\n62%\n62%",
+            "kdr": "7\n5\n2",
+            "kills": "180",
+            "name": "adrnking",
+            "team": "Alter Ego"
+          },
+          {
+            "acs": "0.63\n0.58\n0.68",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "102\n84\n120",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "3\n0\n3",
+            "kills": "143",
+            "name": "deLb",
+            "team": "Alter Ego"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n1.40\n1.25",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "196\n197\n194",
+            "hs%": "62%\n62%\n62%",
+            "kdr": "1\n1\n0",
+            "kills": "302",
+            "name": "Eeyore",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "1.23\n1.05\n1.41",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "186\n172\n199",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "7\n4\n3",
+            "kills": "263",
+            "name": "Famouz",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "1.02\n0.90\n1.14",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "126\n113\n140",
+            "hs%": "85%\n85%\n85%",
+            "kdr": "7\n5\n2",
+            "kills": "184",
+            "name": "Flynch",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "0.94\n0.64\n1.23",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "123\n96\n150",
+            "hs%": "77%\n54%\n100%",
+            "kdr": "12\n5\n7",
+            "kills": "178",
+            "name": "roseau",
+            "team": "BOY WITH LOVE"
+          },
+          {
+            "acs": "0.70\n0.79\n0.61",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "70\n72\n68",
+            "hs%": "62%\n77%\n46%",
+            "kdr": "12\n7\n5",
+            "kills": "131",
+            "name": "Asteriskk",
+            "team": "BOY WITH LOVE"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 73366,
+  "teams": [
+    "BOY WITH LOVE",
+    "Alter Ego"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tUpper Bracket Semifinals"
+}

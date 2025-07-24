@@ -1,0 +1,788 @@
+{
+  "date": "2021-07-04 02:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "305",
+          "name": "NakJi",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "291",
+          "name": "Chibab",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "229",
+          "name": "godko",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "198",
+          "name": "Slash",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "176",
+          "name": "climax",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "269",
+          "name": "Vanta",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "221",
+          "name": "Ssun",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "110",
+          "name": "Den2",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "135",
+          "name": "Keria",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "117",
+          "name": "pr0xy",
+          "team": "B\u00eb p\u0159\u00f8"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.51\n2.38\n1.29",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "201\n211\n198",
+            "hs%": "80%\n100%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "305",
+            "name": "NakJi",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "1.41\n0.12\n1.73",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "16\n1\n15",
+            "fk": "176\n35\n212",
+            "hs%": "87%\n67%\n92%",
+            "kdr": "1\n0\n1",
+            "kills": "291",
+            "name": "Chibab",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "1.40\n0.88\n1.53",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "148\n80\n165",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "229",
+            "name": "godko",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "1.10\n1.39\n1.03",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "96\n16\n116",
+            "hs%": "80%\n67%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "198",
+            "name": "Slash",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "0.74\n1.28\n0.61",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "103\n149\n91",
+            "hs%": "73%\n100%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "176",
+            "name": "climax",
+            "team": "GochuGaru"
+          }
+        ],
+        [
+          {
+            "acs": "1.28\n1.49\n0.46",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "175\n187\n127",
+            "hs%": "67%\n75%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "269",
+            "name": "Vanta",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "0.98\n1.12\n0.42",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "147\n177\n26",
+            "hs%": "73%\n75%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "221",
+            "name": "Ssun",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "0.47\n0.50\n0.34",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "58\n64\n36",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "110",
+            "name": "Den2",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "0.40\n0.29\n0.86",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "82\n81\n87",
+            "hs%": "60%\n58%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "135",
+            "name": "Keria",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "0.24\n0.20\n0.43",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "68\n71\n53",
+            "hs%": "40%\n33%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "117",
+            "name": "pr0xy",
+            "team": "B\u00eb p\u0159\u00f8"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "240",
+          "name": "NakJi",
+          "team": null
+        },
+        {
+          "kills": "307",
+          "name": "Chibab",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "godko",
+          "team": null
+        },
+        {
+          "kills": "131",
+          "name": "Slash",
+          "team": null
+        },
+        {
+          "kills": "277",
+          "name": "climax",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "Ssun",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "pr0xy",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "Den2",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "Keria",
+          "team": null
+        },
+        {
+          "kills": "267",
+          "name": "Vanta",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.01\n1.47\n1.27",
+            "adr": "+12\n+1\n+11",
+            "agent": "",
+            "assists": "/\n\n43\n19\n24\n\n/",
+            "deaths": "55\n20\n35",
+            "fk": "181\n146\n206",
+            "hs%": "76%\n72%\n79%",
+            "kdr": "15\n5\n10",
+            "kills": "240",
+            "name": "NakJi",
+            "team": null
+          },
+          {
+            "acs": "1.13\n1.10\n1.11",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "55\n25\n30",
+            "fk": "161\n183\n145",
+            "hs%": "75%\n84%\n68%",
+            "kdr": "14\n10\n4",
+            "kills": "307",
+            "name": "Chibab",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.10\n0.99",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n37\n17\n20\n\n/",
+            "deaths": "38\n17\n21",
+            "fk": "120\n93\n140",
+            "hs%": "75%\n72%\n76%",
+            "kdr": "14\n5\n9",
+            "kills": "170",
+            "name": "godko",
+            "team": null
+          },
+          {
+            "acs": "0.49\n1.33\n0.97",
+            "adr": "+2\n-10\n+12",
+            "agent": "",
+            "assists": "/\n\n42\n20\n22\n\n/",
+            "deaths": "44\n10\n34",
+            "fk": "109\n63\n143",
+            "hs%": "69%\n60%\n76%",
+            "kdr": "11\n3\n8",
+            "kills": "131",
+            "name": "Slash",
+            "team": null
+          },
+          {
+            "acs": "1.14\n0.83\n0.96",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "39\n23\n16",
+            "fk": "137\n171\n113",
+            "hs%": "75%\n76%\n74%",
+            "kdr": "19\n9\n10",
+            "kills": "277",
+            "name": "climax",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.89\n1.37\n1.09",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "45\n20\n25",
+            "fk": "149\n138\n163",
+            "hs%": "69%\n68%\n72%",
+            "kdr": "18\n10\n8",
+            "kills": "180",
+            "name": "Ssun",
+            "team": null
+          },
+          {
+            "acs": "0.51\n1.68\n1.01",
+            "adr": "-2\n-14\n+12",
+            "agent": "",
+            "assists": "/\n\n47\n30\n17\n\n/",
+            "deaths": "45\n16\n29",
+            "fk": "147\n99\n213",
+            "hs%": "66%\n56%\n80%",
+            "kdr": "18\n11\n7",
+            "kills": "153",
+            "name": "pr0xy",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.67\n0.84",
+            "adr": "-8\n0\n-8",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "36\n25\n11",
+            "fk": "105\n134\n66",
+            "hs%": "64%\n65%\n64%",
+            "kdr": "13\n5\n8",
+            "kills": "211",
+            "name": "Den2",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.97\n0.83",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "39\n17\n22",
+            "fk": "108\n93\n129",
+            "hs%": "66%\n62%\n72%",
+            "kdr": "9\n6\n3",
+            "kills": "147",
+            "name": "Keria",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.46\n0.82",
+            "adr": "-8\n+1\n-9",
+            "agent": "",
+            "assists": "/\n\n48\n29\n19\n\n/",
+            "deaths": "40\n30\n10",
+            "fk": "130\n166\n81",
+            "hs%": "64%\n68%\n60%",
+            "kdr": "10\n7\n3",
+            "kills": "267",
+            "name": "Vanta",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "318",
+          "name": "Slash",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "338",
+          "name": "NakJi",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "137",
+          "name": "godko",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "198",
+          "name": "Chibab",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "158",
+          "name": "climax",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "506",
+          "name": "pr0xy",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "205",
+          "name": "Den2",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "190",
+          "name": "Keria",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "265",
+          "name": "Ssun",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "35",
+          "name": "Vanta",
+          "team": "B\u00eb p\u0159\u00f8"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.15\n0.36\n1.81",
+            "adr": "+2\n-6\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "18\n3\n15",
+            "fk": "150\n70\n217",
+            "hs%": "77%\n60%\n92%",
+            "kdr": "8\n2\n6",
+            "kills": "318",
+            "name": "Slash",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "1.14\n0.49\n1.68",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "169\n107\n220",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "338",
+            "name": "NakJi",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "1.04\n1.39\n0.74",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "115\n133\n100",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "137",
+            "name": "godko",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "0.94\n0.97\n0.92",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "151\n173\n132",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "7\n6\n1",
+            "kills": "198",
+            "name": "Chibab",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "0.87\n0.72\n0.99",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "121\n113\n127",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "158",
+            "name": "climax",
+            "team": "GochuGaru"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n0.60\n2.49",
+            "adr": "+8\n-4\n+12",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "23\n5\n18",
+            "fk": "183\n94\n290",
+            "hs%": "77%\n67%\n90%",
+            "kdr": "4\n2\n2",
+            "kills": "506",
+            "name": "pr0xy",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "1.28\n1.42\n1.11",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "153\n217\n77",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "9\n4\n5",
+            "kills": "205",
+            "name": "Den2",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "0.88\n0.79\n0.98",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "93\n78\n111",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "190",
+            "name": "Keria",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "0.85\n0.57\n1.18",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "126\n102\n155",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "7\n4\n3",
+            "kills": "265",
+            "name": "Ssun",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "0.49\n0.83\n0.07",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "11\n10\n1",
+            "fk": "108\n177\n26",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "35",
+            "name": "Vanta",
+            "team": "B\u00eb p\u0159\u00f8"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "287",
+          "name": "NakJi",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "251",
+          "name": "climax",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "273",
+          "name": "Chibab",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "172",
+          "name": "Slash",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "145",
+          "name": "godko",
+          "team": "GochuGaru"
+        },
+        {
+          "kills": "258",
+          "name": "Ssun",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "262",
+          "name": "pr0xy",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "257",
+          "name": "Keria",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "199",
+          "name": "Vanta",
+          "team": "B\u00eb p\u0159\u00f8"
+        },
+        {
+          "kills": "151",
+          "name": "Den2",
+          "team": "B\u00eb p\u0159\u00f8"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.10\n1.42",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "179\n162\n199",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "5\n1\n4",
+            "kills": "287",
+            "name": "NakJi",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "1.21\n1.46\n0.91",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "177\n224\n121",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "11\n6\n5",
+            "kills": "251",
+            "name": "climax",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "1.08\n1.50\n0.57",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "21\n15\n6",
+            "fk": "162\n228\n82",
+            "hs%": "73%\n92%\n50%",
+            "kdr": "6\n4\n2",
+            "kills": "273",
+            "name": "Chibab",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "0.71\n0.38\n1.10",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "76\n69\n85",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "172",
+            "name": "Slash",
+            "team": "GochuGaru"
+          },
+          {
+            "acs": "0.67\n0.38\n1.02",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "106\n64\n157",
+            "hs%": "59%\n67%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "145",
+            "name": "godko",
+            "team": "GochuGaru"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n0.99\n1.76",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "172\n135\n203",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "8\n4\n4",
+            "kills": "258",
+            "name": "Ssun",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "1.08\n0.79\n1.32",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "166\n139\n189",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "12\n7\n5",
+            "kills": "262",
+            "name": "pr0xy",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "1.07\n1.16\n0.99",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "140\n124\n154",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "257",
+            "name": "Keria",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "0.84\n0.90\n0.79",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "122\n130\n116",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "199",
+            "name": "Vanta",
+            "team": "B\u00eb p\u0159\u00f8"
+          },
+          {
+            "acs": "0.66\n0.99\n0.38",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "89\n119\n64",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "151",
+            "name": "Den2",
+            "team": "B\u00eb p\u0159\u00f8"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 24450,
+  "teams": [
+    "GochuGaru",
+    "B\u00eb p\u0159\u00f8"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tGroup H"
+}

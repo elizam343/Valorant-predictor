@@ -1,0 +1,788 @@
+{
+  "date": "2021-08-01 04:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "302",
+          "name": "tozz",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "294",
+          "name": "Majestic",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "163",
+          "name": "gv",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "182",
+          "name": "Imcarnus",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "136",
+          "name": "Pain",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "257",
+          "name": "Real8",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "245",
+          "name": "Zukk1niW",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "143",
+          "name": "YaeMiko",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "119",
+          "name": "Noisy",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "153",
+          "name": "BCLound",
+          "team": "Dominus Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.25\n1.64",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "155\n152\n162",
+            "hs%": "79%\n67%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "302",
+            "name": "tozz",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "1.38\n1.04\n1.97",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "174\n178\n167",
+            "hs%": "84%\n75%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "294",
+            "name": "Majestic",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "1.18\n1.26\n1.05",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "102\n112\n85",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "5\n4\n1",
+            "kills": "163",
+            "name": "gv",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "1.00\n0.91\n1.18",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "111\n104\n122",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "182",
+            "name": "Imcarnus",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "0.60\n0.73\n0.39",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "91\n100\n74",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "7\n4\n3",
+            "kills": "136",
+            "name": "Pain",
+            "team": "Kantic Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.00\n1.42",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "174\n109\n212",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "257",
+            "name": "Real8",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "1.09\n1.08\n1.09",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "181\n169\n189",
+            "hs%": "68%\n43%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "245",
+            "name": "Zukk1niW",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "0.66\n0.60\n0.69",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "96\n87\n100",
+            "hs%": "53%\n43%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "143",
+            "name": "YaeMiko",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "0.61\n0.11\n0.91",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "84\n44\n108",
+            "hs%": "42%\n14%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "119",
+            "name": "Noisy",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "0.57\n0.35\n0.70",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "93\n42\n122",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "153",
+            "name": "BCLound",
+            "team": "Dominus Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "243",
+          "name": "tozz",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "gv",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "Majestic",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "Imcarnus",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "Pain",
+          "team": null
+        },
+        {
+          "kills": "254",
+          "name": "Real8",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "Zukk1niW",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "BCLound",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "Noisy",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "YaeMiko",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.11\n1.10\n1.11",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n51\n27\n24\n\n/",
+            "deaths": "61\n34\n27",
+            "fk": "146\n146\n146",
+            "hs%": "76%\n74%\n78%",
+            "kdr": "19\n9\n10",
+            "kills": "243",
+            "name": "tozz",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.91\n1.05",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n39\n22\n17\n\n/",
+            "deaths": "46\n26\n20",
+            "fk": "103\n112\n93",
+            "hs%": "77%\n82%\n72%",
+            "kdr": "24\n16\n8",
+            "kills": "171",
+            "name": "gv",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.14\n0.97",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n54\n29\n25\n\n/",
+            "deaths": "56\n27\n29",
+            "fk": "154\n148\n162",
+            "hs%": "71%\n68%\n75%",
+            "kdr": "17\n10\n7",
+            "kills": "220",
+            "name": "Majestic",
+            "team": null
+          },
+          {
+            "acs": "1.04\n0.87\n0.96",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "48\n29\n19",
+            "fk": "131\n134\n127",
+            "hs%": "80%\n82%\n78%",
+            "kdr": "16\n9\n7",
+            "kills": "210",
+            "name": "Imcarnus",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.73\n0.92",
+            "adr": "-4\n+3\n-7",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "44\n29\n15",
+            "fk": "138\n149\n125",
+            "hs%": "71%\n71%\n72%",
+            "kdr": "23\n12\n11",
+            "kills": "221",
+            "name": "Pain",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.21\n1.21",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n56\n24\n32\n\n/",
+            "deaths": "65\n31\n34",
+            "fk": "175\n154\n193",
+            "hs%": "76%\n81%\n71%",
+            "kdr": "20\n6\n14",
+            "kills": "254",
+            "name": "Real8",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.05\n1.05",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "48\n22\n26",
+            "fk": "153\n155\n151",
+            "hs%": "71%\n72%\n71%",
+            "kdr": "22\n11\n11",
+            "kills": "223",
+            "name": "Zukk1niW",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.77\n0.99",
+            "adr": "-2\n+5\n-7",
+            "agent": "",
+            "assists": "/\n\n50\n19\n31\n\n/",
+            "deaths": "48\n24\n24",
+            "fk": "125\n136\n115",
+            "hs%": "76%\n78%\n74%",
+            "kdr": "21\n12\n9",
+            "kills": "217",
+            "name": "BCLound",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.05\n0.92",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n47\n22\n25\n\n/",
+            "deaths": "40\n15\n25",
+            "fk": "105\n89\n119",
+            "hs%": "61%\n63%\n61%",
+            "kdr": "14\n7\n7",
+            "kills": "141",
+            "name": "Noisy",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.69\n0.79",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n52\n23\n29\n\n/",
+            "deaths": "41\n20\n21",
+            "fk": "99\n108\n92",
+            "hs%": "66%\n72%\n61%",
+            "kdr": "14\n6\n8",
+            "kills": "164",
+            "name": "YaeMiko",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "257",
+          "name": "tozz",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "207",
+          "name": "gv",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "231",
+          "name": "Pain",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "193",
+          "name": "Imcarnus",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "244",
+          "name": "Majestic",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "178",
+          "name": "Noisy",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "224",
+          "name": "BCLound",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "354",
+          "name": "Real8",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "194",
+          "name": "YaeMiko",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "152",
+          "name": "Zukk1niW",
+          "team": "Dominus Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.32\n1.10",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "166\n176\n157",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "3\n1\n2",
+            "kills": "257",
+            "name": "tozz",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "1.09\n1.06\n1.12",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "119\n110\n128",
+            "hs%": "79%\n86%\n71%",
+            "kdr": "14\n8\n6",
+            "kills": "207",
+            "name": "gv",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "1.07\n1.22\n0.93",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "152\n137\n167",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "8\n3\n5",
+            "kills": "231",
+            "name": "Pain",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "0.86\n0.77\n0.95",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n24\n14\n10\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "145\n134\n157",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "8\n5\n3",
+            "kills": "193",
+            "name": "Imcarnus",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "0.65\n0.60\n0.70",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n26\n12\n14\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "141\n130\n151",
+            "hs%": "57%\n50%\n64%",
+            "kdr": "5\n3\n2",
+            "kills": "244",
+            "name": "Majestic",
+            "team": "Kantic Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.26\n1.13",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "135\n152\n118",
+            "hs%": "71%\n79%\n64%",
+            "kdr": "11\n5\n6",
+            "kills": "178",
+            "name": "Noisy",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "1.17\n1.39\n0.94",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "133\n139\n127",
+            "hs%": "82%\n86%\n79%",
+            "kdr": "10\n9\n1",
+            "kills": "224",
+            "name": "BCLound",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "1.12\n1.11\n1.13",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "29\n14\n15",
+            "fk": "188\n183\n194",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "9\n4\n5",
+            "kills": "354",
+            "name": "Real8",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "1.01\n1.03\n1.00",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "115\n115\n114",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "7\n4\n3",
+            "kills": "194",
+            "name": "YaeMiko",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "0.73\n0.79\n0.67",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "141\n170\n111",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "9\n4\n5",
+            "kills": "152",
+            "name": "Zukk1niW",
+            "team": "Dominus Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "184",
+          "name": "Imcarnus",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "241",
+          "name": "Majestic",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "226",
+          "name": "Pain",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "125",
+          "name": "gv",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "170",
+          "name": "tozz",
+          "team": "Kantic Gaming"
+        },
+        {
+          "kills": "243",
+          "name": "Zukk1niW",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "254",
+          "name": "Real8",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "207",
+          "name": "BCLound",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "146",
+          "name": "Noisy",
+          "team": "Dominus Esports"
+        },
+        {
+          "kills": "129",
+          "name": "YaeMiko",
+          "team": "Dominus Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.06\n1.49\n0.59",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "129\n163\n92",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "5\n2\n3",
+            "kills": "184",
+            "name": "Imcarnus",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "1.03\n0.90\n1.18",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "155\n140\n172",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "8\n5\n3",
+            "kills": "241",
+            "name": "Majestic",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "1.01\n1.29\n0.70",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "160\n212\n103",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "8\n5\n3",
+            "kills": "226",
+            "name": "Pain",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "0.91\n1.24\n0.55",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "84\n112\n54",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "5\n4\n1",
+            "kills": "125",
+            "name": "gv",
+            "team": "Kantic Gaming"
+          },
+          {
+            "acs": "0.74\n0.72\n0.77",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "115\n107\n123",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "11\n4\n7",
+            "kills": "170",
+            "name": "tozz",
+            "team": "Kantic Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n1.38\n1.46",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "143\n126\n159",
+            "hs%": "78%\n91%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "243",
+            "name": "Zukk1niW",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "1.27\n1.47\n1.09",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "161\n147\n173",
+            "hs%": "74%\n100%\n50%",
+            "kdr": "5\n1\n4",
+            "kills": "254",
+            "name": "Real8",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "1.13\n1.68\n0.63",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "142\n193\n95",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "207",
+            "name": "BCLound",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "0.83\n0.55\n1.09",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "87\n37\n132",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "146",
+            "name": "Noisy",
+            "team": "Dominus Esports"
+          },
+          {
+            "acs": "0.62\n0.93\n0.34",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "84\n113\n58",
+            "hs%": "74%\n91%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "129",
+            "name": "YaeMiko",
+            "team": "Dominus Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 30175,
+  "teams": [
+    "Dominus Esports",
+    "Kantic Gaming"
+  ],
+  "tournament": "Qualifier: \n\t\t\t\t\t\tQuarterfinals"
+}

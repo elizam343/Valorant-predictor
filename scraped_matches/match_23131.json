@@ -1,0 +1,788 @@
+{
+  "date": "2021-06-27 07:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "267",
+          "name": "TAID",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "195",
+          "name": "\u5929\u6d25\u5bcc\u5a46\u52a0\u6211V",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "197",
+          "name": "Chovy",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "149",
+          "name": "Jk",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "153",
+          "name": "pooh",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "219",
+          "name": "HeadShotMachine",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "224",
+          "name": "Queen",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "282",
+          "name": "\u51a5\u7fbd\u7fbd\u7fbd",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "272",
+          "name": "959y x y \u6d0b",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "193",
+          "name": "zooR",
+          "team": "Remember Me"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.14\n0.67\n1.94",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "181\n120\n286",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "5\n3\n2",
+            "kills": "267",
+            "name": "TAID",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "0.82\n0.94\n0.61",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "119\n129\n101",
+            "hs%": "47%\n42%\n57%",
+            "kdr": "0\n0\n0",
+            "kills": "195",
+            "name": "\u5929\u6d25\u5bcc\u5a46\u52a0\u6211V",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "0.79\n0.86\n0.66",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "103\n117\n79",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "3\n1\n2",
+            "kills": "197",
+            "name": "Chovy",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "0.58\n0.35\n0.98",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "94\n90\n101",
+            "hs%": "53%\n42%\n71%",
+            "kdr": "2\n1\n1",
+            "kills": "149",
+            "name": "Jk",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "0.50\n0.38\n0.71",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "127\n135\n114",
+            "hs%": "47%\n50%\n43%",
+            "kdr": "3\n2\n1",
+            "kills": "153",
+            "name": "pooh",
+            "team": "Invincible Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.65\n1.68\n1.63",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n6\n4\n2\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "136\n174\n114",
+            "hs%": "84%\n57%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "219",
+            "name": "HeadShotMachine",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "1.28\n1.39\n1.23",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "157\n167\n151",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "224",
+            "name": "Queen",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "1.17\n0.31\n1.67",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n2\n16",
+            "fk": "188\n64\n260",
+            "hs%": "95%\n86%\n100%",
+            "kdr": "10\n5\n5",
+            "kills": "282",
+            "name": "\u51a5\u7fbd\u7fbd\u7fbd",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "1.07\n0.19\n1.59",
+            "adr": "+6\n-4\n+10",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "19\n3\n16",
+            "fk": "159\n97\n195",
+            "hs%": "68%\n43%\n83%",
+            "kdr": "1\n1\n0",
+            "kills": "272",
+            "name": "959y x y \u6d0b",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "0.77\n1.06\n0.60",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "108\n109\n108",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "5\n0\n5",
+            "kills": "193",
+            "name": "zooR",
+            "team": "Remember Me"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "223",
+          "name": "TAID",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "\u5929\u6d25\u5bcc\u5a46\u52a0\u6211V",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "Jk",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "Chovy",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "pooh",
+          "team": null
+        },
+        {
+          "kills": "271",
+          "name": "Queen",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "\u51a5\u7fbd\u7fbd\u7fbd",
+          "team": null
+        },
+        {
+          "kills": "254",
+          "name": "HeadShotMachine",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "959y x y \u6d0b",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "zooR",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.23\n1.09",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n47\n30\n17\n\n/",
+            "deaths": "45\n25\n20",
+            "fk": "155\n155\n156",
+            "hs%": "72%\n75%\n67%",
+            "kdr": "12\n8\n4",
+            "kills": "223",
+            "name": "TAID",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.79\n0.90",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n45\n28\n17\n\n/",
+            "deaths": "37\n26\n11",
+            "fk": "116\n126\n99",
+            "hs%": "49%\n47%\n52%",
+            "kdr": "9\n2\n7",
+            "kills": "199",
+            "name": "\u5929\u6d25\u5bcc\u5a46\u52a0\u6211V",
+            "team": null
+          },
+          {
+            "acs": "0.68\n0.83\n0.72",
+            "adr": "-18\n-13\n-5",
+            "agent": "",
+            "assists": "/\n\n46\n30\n16\n\n/",
+            "deaths": "28\n17\n11",
+            "fk": "102\n102\n102",
+            "hs%": "56%\n47%\n71%",
+            "kdr": "10\n7\n3",
+            "kills": "147",
+            "name": "Jk",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.74\n0.68",
+            "adr": "-16\n-14\n-2",
+            "agent": "",
+            "assists": "/\n\n48\n31\n17\n\n/",
+            "deaths": "32\n17\n15",
+            "fk": "92\n90\n95",
+            "hs%": "58%\n56%\n62%",
+            "kdr": "13\n9\n4",
+            "kills": "138",
+            "name": "Chovy",
+            "team": null
+          },
+          {
+            "acs": "0.46\n0.96\n0.64",
+            "adr": "-18\n-17\n-1",
+            "agent": "",
+            "assists": "/\n\n50\n32\n18\n\n/",
+            "deaths": "32\n15\n17",
+            "fk": "108\n108\n110",
+            "hs%": "53%\n53%\n52%",
+            "kdr": "11\n7\n4",
+            "kills": "144",
+            "name": "pooh",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.36\n1.37",
+            "adr": "+21\n+8\n+13",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "50\n21\n29",
+            "fk": "153\n147\n156",
+            "hs%": "79%\n81%\n78%",
+            "kdr": "11\n2\n9",
+            "kills": "271",
+            "name": "Queen",
+            "team": null
+          },
+          {
+            "acs": "1.10\n1.39\n1.28",
+            "adr": "+16\n+3\n+13",
+            "agent": "",
+            "assists": "/\n\n42\n15\n27\n\n/",
+            "deaths": "58\n18\n40",
+            "fk": "179\n142\n201",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "18\n8\n10",
+            "kills": "243",
+            "name": "\u51a5\u7fbd\u7fbd\u7fbd",
+            "team": null
+          },
+          {
+            "acs": "1.16\n1.09\n1.12",
+            "adr": "+14\n+6\n+8",
+            "agent": "",
+            "assists": "/\n\n28\n14\n14\n\n/",
+            "deaths": "42\n20\n22",
+            "fk": "119\n136\n109",
+            "hs%": "75%\n71%\n78%",
+            "kdr": "9\n4\n5",
+            "kills": "254",
+            "name": "HeadShotMachine",
+            "team": null
+          },
+          {
+            "acs": "0.55\n1.40\n1.09",
+            "adr": "+13\n-6\n+19",
+            "agent": "",
+            "assists": "/\n\n40\n18\n22\n\n/",
+            "deaths": "53\n12\n41",
+            "fk": "161\n123\n182",
+            "hs%": "79%\n67%\n86%",
+            "kdr": "11\n5\n6",
+            "kills": "182",
+            "name": "959y x y \u6d0b",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.98\n0.90",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n35\n14\n21\n\n/",
+            "deaths": "33\n14\n19",
+            "fk": "103\n79\n116",
+            "hs%": "84%\n81%\n86%",
+            "kdr": "14\n2\n12",
+            "kills": "174",
+            "name": "zooR",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "136",
+          "name": "\u5929\u6d25\u5bcc\u5a46\u52a0\u6211V",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "297",
+          "name": "pooh",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "234",
+          "name": "Chovy",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "164",
+          "name": "TAID",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "177",
+          "name": "Jk",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "243",
+          "name": "\u51a5\u7fbd\u7fbd\u7fbd",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "159",
+          "name": "Queen",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "278",
+          "name": "959y x y \u6d0b",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "184",
+          "name": "zooR",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "132",
+          "name": "HeadShotMachine",
+          "team": "Remember Me"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.36\n0.78",
+            "adr": "+2\n+6\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "117\n154\n77",
+            "hs%": "52%\n58%\n45%",
+            "kdr": "7\n1\n6",
+            "kills": "136",
+            "name": "\u5929\u6d25\u5bcc\u5a46\u52a0\u6211V",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "1.08\n0.86\n1.32",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "128\n123\n134",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "5\n3\n2",
+            "kills": "297",
+            "name": "pooh",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "1.01\n1.04\n0.98",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "137\n141\n132",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "8\n7\n1",
+            "kills": "234",
+            "name": "Chovy",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "0.97\n1.13\n0.80",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "138\n171\n102",
+            "hs%": "74%\n92%\n55%",
+            "kdr": "5\n3\n2",
+            "kills": "164",
+            "name": "TAID",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "0.90\n0.84\n0.96",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "125\n122\n127",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "7\n5\n2",
+            "kills": "177",
+            "name": "Jk",
+            "team": "Invincible Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.59\n1.12",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "178\n202\n156",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "243",
+            "name": "\u51a5\u7fbd\u7fbd\u7fbd",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "1.07\n1.14\n1.01",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "128\n149\n108",
+            "hs%": "83%\n91%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "159",
+            "name": "Queen",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "1.00\n0.82\n1.17",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "160\n146\n173",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "278",
+            "name": "959y x y \u6d0b",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "0.79\n0.53\n1.03",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "101\n70\n130",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "184",
+            "name": "zooR",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "0.64\n0.66\n0.63",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "104\n112\n97",
+            "hs%": "57%\n73%\n42%",
+            "kdr": "3\n1\n2",
+            "kills": "132",
+            "name": "HeadShotMachine",
+            "team": "Remember Me"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "258",
+          "name": "TAID",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "176",
+          "name": "\u5929\u6d25\u5bcc\u5a46\u52a0\u6211V",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "115",
+          "name": "Jk",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "94",
+          "name": "pooh",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "34",
+          "name": "Chovy",
+          "team": "Invincible Gaming"
+        },
+        {
+          "kills": "313",
+          "name": "Queen",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "287",
+          "name": "\u51a5\u7fbd\u7fbd\u7fbd",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "163",
+          "name": "zooR",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "278",
+          "name": "959y x y \u6d0b",
+          "team": "Remember Me"
+        },
+        {
+          "kills": "206",
+          "name": "HeadShotMachine",
+          "team": "Remember Me"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.22\n1.25\n1.12",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "150\n174\n51",
+            "hs%": "73%\n75%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "258",
+            "name": "TAID",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "0.73\n0.61\n1.23",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "110\n95\n172",
+            "hs%": "47%\n42%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "176",
+            "name": "\u5929\u6d25\u5bcc\u5a46\u52a0\u6211V",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "0.63\n0.85\n0.01",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "78\n95\n9",
+            "hs%": "40%\n33%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "115",
+            "name": "Jk",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "0.15\n0.13\n0.21",
+            "adr": "-12\n-10\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "3\n2\n1",
+            "fk": "54\n65\n10",
+            "hs%": "40%\n42%\n33%",
+            "kdr": "3\n2\n1",
+            "kills": "94",
+            "name": "pooh",
+            "team": "Invincible Gaming"
+          },
+          {
+            "acs": "0.02\n0.02\n0.03",
+            "adr": "-13\n-11\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "2\n1\n1",
+            "fk": "11\n13",
+            "hs%": "27%\n25%\n33%",
+            "kdr": "2\n1\n1",
+            "kills": "34",
+            "name": "Chovy",
+            "team": "Invincible Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.92\n2.20\n1.86",
+            "adr": "+14\n+4\n+10",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "187\n93\n210",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "313",
+            "name": "Queen",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "1.34\n1.16\n1.39",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "170\n100\n187",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "287",
+            "name": "\u51a5\u7fbd\u7fbd\u7fbd",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "1.24\n0.99\n1.30",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "97\n43\n111",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "6\n1\n5",
+            "kills": "163",
+            "name": "zooR",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "1.24\n0.39\n1.45",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "163\n102\n179",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "278",
+            "name": "959y x y \u6d0b",
+            "team": "Remember Me"
+          },
+          {
+            "acs": "1.16\n1.78\n1.01",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "120\n134\n117",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "3\n2\n1",
+            "kills": "206",
+            "name": "HeadShotMachine",
+            "team": "Remember Me"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 23131,
+  "teams": [
+    "Invincible Gaming",
+    "Remember Me"
+  ],
+  "tournament": "Closed Qualifier: \n\t\t\t\t\t\tFifth Place Decider"
+}

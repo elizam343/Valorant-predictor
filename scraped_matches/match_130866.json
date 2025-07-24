@@ -1,0 +1,806 @@
+{
+  "date": "2022-08-18 21:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "273",
+          "name": "contii",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "220",
+          "name": "velis",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "230",
+          "name": "Nahsie",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "164",
+          "name": "kingston",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "149",
+          "name": "Cain",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "232",
+          "name": "sacred",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "202",
+          "name": "lucas",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "181",
+          "name": "GLYPH",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "182",
+          "name": "Sugarfree",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "143",
+          "name": "Scroll",
+          "team": "H34DHUNT3RZ"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.11\n1.86",
+            "adr": "+10\n+1\n+9",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "191\n152\n233",
+            "hs%": "78%\n58%\n100%",
+            "kdr": "2\n0\n2",
+            "kills": "273",
+            "name": "contii",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "1.14\n0.75\n1.57",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "147\n146\n149",
+            "hs%": "65%\n42%\n91%",
+            "kdr": "3\n1\n2",
+            "kills": "220",
+            "name": "velis",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "1.02\n0.53\n1.56",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "169\n125\n217",
+            "hs%": "74%\n58%\n91%",
+            "kdr": "7\n3\n4",
+            "kills": "230",
+            "name": "Nahsie",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "1.00\n0.63\n1.41",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "104\n88\n122",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "9\n5\n4",
+            "kills": "164",
+            "name": "kingston",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "0.75\n0.31\n1.22",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "111\n69\n158",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "12\n7\n5",
+            "kills": "149",
+            "name": "Cain",
+            "team": "SHIFT"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n0.90\n1.43",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "155\n171\n140",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "232",
+            "name": "sacred",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.08\n0.62\n1.50",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "155\n131\n178",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "11\n5\n6",
+            "kills": "202",
+            "name": "lucas",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.08\n0.10\n1.98",
+            "adr": "+2\n-10\n+12",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "16\n1\n15",
+            "fk": "120\n39\n194",
+            "hs%": "61%\n18%\n100%",
+            "kdr": "4\n1\n3",
+            "kills": "181",
+            "name": "GLYPH",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "0.97\n0.50\n1.39",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "123\n64\n178",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "12\n3\n9",
+            "kills": "182",
+            "name": "Sugarfree",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "0.49\n0.44\n0.53",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "86\n96\n78",
+            "hs%": "61%\n45%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "143",
+            "name": "Scroll",
+            "team": "H34DHUNT3RZ"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "226",
+          "name": "contii",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "velis",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "Cain",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "kingston",
+          "team": null
+        },
+        {
+          "kills": "126",
+          "name": "Nahsie",
+          "team": null
+        },
+        {
+          "kills": "111",
+          "name": "BRUNO FERNANDES",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "GLYPH",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "sacred",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "lucas",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "Scroll",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "Sugarfree",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.10\n1.41\n1.26",
+            "adr": "+19\n+1\n+18",
+            "agent": "",
+            "assists": "/\n\n51\n30\n21\n\n/",
+            "deaths": "70\n31\n39",
+            "fk": "167\n149\n184",
+            "hs%": "75%\n73%\n77%",
+            "kdr": "19\n11\n8",
+            "kills": "226",
+            "name": "contii",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.15\n1.13",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n57\n30\n27\n\n/",
+            "deaths": "66\n32\n34",
+            "fk": "156\n164\n149",
+            "hs%": "67%\n60%\n74%",
+            "kdr": "10\n5\n5",
+            "kills": "230",
+            "name": "velis",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.04\n1.02",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n57\n29\n28\n\n/",
+            "deaths": "58\n27\n31",
+            "fk": "125\n110\n140",
+            "hs%": "77%\n73%\n82%",
+            "kdr": "28\n15\n13",
+            "kills": "183",
+            "name": "Cain",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.90\n0.90",
+            "adr": "-13\n-11\n-2",
+            "agent": "",
+            "assists": "/\n\n59\n33\n26\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "118\n122\n114",
+            "hs%": "76%\n73%\n79%",
+            "kdr": "30\n17\n13",
+            "kills": "178",
+            "name": "kingston",
+            "team": null
+          },
+          {
+            "acs": "0.44\n1.33\n0.88",
+            "adr": "-5\n-13\n+8",
+            "agent": "",
+            "assists": "/\n\n41\n24\n17\n\n/",
+            "deaths": "36\n11\n25",
+            "fk": "137\n98\n177",
+            "hs%": "65%\n57%\n74%",
+            "kdr": "13\n6\n7",
+            "kills": "126",
+            "name": "Nahsie",
+            "team": null
+          },
+          {
+            "acs": "0.35\n0.47\n0.41",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "77\n77\n77",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "111",
+            "name": "BRUNO FERNANDES",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.14\n1.15\n1.15",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n51\n29\n22\n\n/",
+            "deaths": "62\n30\n32",
+            "fk": "141\n149\n133",
+            "hs%": "65%\n56%\n73%",
+            "kdr": "15\n8\n7",
+            "kills": "225",
+            "name": "GLYPH",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.29\n1.15",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n55\n30\n25\n\n/",
+            "deaths": "64\n28\n36",
+            "fk": "157\n147\n168",
+            "hs%": "71%\n62%\n80%",
+            "kdr": "17\n3\n14",
+            "kills": "221",
+            "name": "sacred",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.24\n1.02",
+            "adr": "-3\n-11\n+8",
+            "agent": "",
+            "assists": "/\n\n58\n32\n26\n\n/",
+            "deaths": "55\n21\n34",
+            "fk": "141\n122\n159",
+            "hs%": "80%\n69%\n90%",
+            "kdr": "32\n17\n15",
+            "kills": "173",
+            "name": "lucas",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.00\n0.94",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n60\n33\n27\n\n/",
+            "deaths": "59\n29\n30",
+            "fk": "145\n148\n142",
+            "hs%": "72%\n67%\n78%",
+            "kdr": "13\n7\n6",
+            "kills": "220",
+            "name": "Scroll",
+            "team": null
+          },
+          {
+            "acs": "0.66\n0.98\n0.82",
+            "adr": "-19\n-16\n-3",
+            "agent": "",
+            "assists": "/\n\n62\n35\n27\n\n/",
+            "deaths": "43\n19\n24",
+            "fk": "110\n84\n135",
+            "hs%": "77%\n79%\n75%",
+            "kdr": "37\n14\n23",
+            "kills": "138",
+            "name": "Sugarfree",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "204",
+          "name": "Cain",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "269",
+          "name": "contii",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "180",
+          "name": "velis",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "148",
+          "name": "kingston",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "215",
+          "name": "Nahsie",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "328",
+          "name": "sacred",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "280",
+          "name": "lucas",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "234",
+          "name": "Scroll",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "150",
+          "name": "GLYPH",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "141",
+          "name": "Sugarfree",
+          "team": "H34DHUNT3RZ"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.31\n0.86",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n26\n12\n14\n\n/",
+            "deaths": "28\n16\n12",
+            "fk": "121\n135\n108",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "204",
+            "name": "Cain",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "1.05\n1.04\n1.07",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "162\n142\n182",
+            "hs%": "75%\n81%\n69%",
+            "kdr": "11\n7\n4",
+            "kills": "269",
+            "name": "contii",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "0.95\n1.22\n0.67",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n27\n12\n15\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "148\n169\n128",
+            "hs%": "66%\n69%\n63%",
+            "kdr": "4\n2\n2",
+            "kills": "180",
+            "name": "velis",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "0.93\n1.15\n0.71",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "116\n135\n96",
+            "hs%": "75%\n81%\n69%",
+            "kdr": "19\n11\n8",
+            "kills": "148",
+            "name": "kingston",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "0.77\n0.38\n1.17",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "113\n77\n149",
+            "hs%": "59%\n56%\n63%",
+            "kdr": "6\n3\n3",
+            "kills": "215",
+            "name": "Nahsie",
+            "team": "SHIFT"
+          }
+        ],
+        [
+          {
+            "acs": "1.36\n1.26\n1.46",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "185\n162\n209",
+            "hs%": "75%\n63%\n88%",
+            "kdr": "8\n1\n7",
+            "kills": "328",
+            "name": "sacred",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.14\n0.92\n1.35",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "26\n10\n16",
+            "fk": "141\n118\n165",
+            "hs%": "88%\n75%\n100%",
+            "kdr": "13\n7\n6",
+            "kills": "280",
+            "name": "lucas",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.12\n1.29\n0.95",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "30\n17\n13",
+            "fk": "183\n208\n158",
+            "hs%": "84%\n88%\n81%",
+            "kdr": "6\n3\n3",
+            "kills": "234",
+            "name": "Scroll",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.05\n1.45\n0.66",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "135\n185\n86",
+            "hs%": "66%\n75%\n56%",
+            "kdr": "3\n2\n1",
+            "kills": "150",
+            "name": "GLYPH",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "0.68\n0.71\n0.66",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "111\n105\n117",
+            "hs%": "75%\n81%\n69%",
+            "kdr": "15\n8\n7",
+            "kills": "141",
+            "name": "Sugarfree",
+            "team": "H34DHUNT3RZ"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "272",
+          "name": "velis",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "242",
+          "name": "contii",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "243",
+          "name": "Cain",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "180",
+          "name": "kingston",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "117",
+          "name": "BRUNO FERNANDES",
+          "team": "SHIFT"
+        },
+        {
+          "kills": "261",
+          "name": "GLYPH",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "218",
+          "name": "Scroll",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "153",
+          "name": "Sugarfree",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "196",
+          "name": "sacred",
+          "team": "H34DHUNT3RZ"
+        },
+        {
+          "kills": "192",
+          "name": "lucas",
+          "team": "H34DHUNT3RZ"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.30\n1.42",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "176\n177\n175",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "272",
+            "name": "velis",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "1.32\n1.17\n1.47",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "149\n156\n142",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "242",
+            "name": "contii",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "1.18\n1.25\n1.12",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "144\n120\n168",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "11\n6\n5",
+            "kills": "243",
+            "name": "Cain",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "0.77\n0.85\n0.69",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "135\n140\n129",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "180",
+            "name": "kingston",
+            "team": "SHIFT"
+          },
+          {
+            "acs": "0.41\n0.35\n0.47",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "77\n77\n77",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "117",
+            "name": "BRUNO FERNANDES",
+            "team": "SHIFT"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.69\n0.98",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "169\n203\n134",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "261",
+            "name": "GLYPH",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "1.12\n0.69\n1.55",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "151\n117\n185",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "218",
+            "name": "Scroll",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "0.86\n0.73\n1.00",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "95\n76\n115",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "10\n3\n7",
+            "kills": "153",
+            "name": "Sugarfree",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "0.83\n0.74\n0.93",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "122\n104\n140",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "196",
+            "name": "sacred",
+            "team": "H34DHUNT3RZ"
+          },
+          {
+            "acs": "0.82\n0.79\n0.85",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "125\n120\n131",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "8\n5\n3",
+            "kills": "192",
+            "name": "lucas",
+            "team": "H34DHUNT3RZ"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 130866,
+  "teams": [
+    "H34DHUNT3RZ",
+    "SHIFT"
+  ],
+  "tournament": "Last Chance Qualifier: \n\t\t\t\t\t\tQuarterfinals"
+}

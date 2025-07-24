@@ -1,0 +1,806 @@
+{
+  "date": "2021-09-04 04:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "187",
+          "name": "kaminari",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "185",
+          "name": "Liesel",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "227",
+          "name": "EnS",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "123",
+          "name": "Lizxotl",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "175",
+          "name": "feainnewedd",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "254",
+          "name": "Hakane",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "380",
+          "name": "IamKimyy",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "183",
+          "name": "Mejjj",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "209",
+          "name": "Yujiro",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "151",
+          "name": "xiangling",
+          "team": "FUMA Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.00\n1.10\n0.82",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "137\n121\n163",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "2\n1\n1",
+            "kills": "187",
+            "name": "kaminari",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "0.85\n0.62\n1.24",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "114\n79\n174",
+            "hs%": "58%\n42%\n86%",
+            "kdr": "7\n2\n5",
+            "kills": "185",
+            "name": "Liesel",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "0.72\n0.58\n0.95",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "152\n144\n166",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "2\n0\n2",
+            "kills": "227",
+            "name": "EnS",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "0.63\n0.77\n0.39",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "77\n92\n51",
+            "hs%": "58%\n67%\n43%",
+            "kdr": "8\n6\n2",
+            "kills": "123",
+            "name": "Lizxotl",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "0.62\n0.68\n0.53",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "133\n135\n129",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "7\n6\n1",
+            "kills": "175",
+            "name": "feainnewedd",
+            "team": "TiAMAT"
+          }
+        ],
+        [
+          {
+            "acs": "1.66\n1.32\n1.86",
+            "adr": "+14\n+3\n+11",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "151\n115\n172",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "254",
+            "name": "Hakane",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "1.49\n1.62\n1.41",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "217\n242\n202",
+            "hs%": "89%\n71%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "380",
+            "name": "IamKimyy",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "1.23\n1.46\n1.09",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "129\n140\n122",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "183",
+            "name": "Mejjj",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "1.13\n1.39\n0.98",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "131\n153\n118",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "209",
+            "name": "Yujiro",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "0.78\n0.63\n0.86",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "109\n101\n113",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "151",
+            "name": "xiangling",
+            "team": "FUMA Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "306",
+          "name": "EnS",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "Lizxotl",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "Liesel",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "kaminari",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "feainnewedd",
+          "team": null
+        },
+        {
+          "kills": "293",
+          "name": "IamKimyy",
+          "team": null
+        },
+        {
+          "kills": "252",
+          "name": "Hakane",
+          "team": null
+        },
+        {
+          "kills": "256",
+          "name": "xiangling",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "Yujiro",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "Mejjj",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "Kamiyu",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.30\n1.08\n1.20",
+            "adr": "+11\n+9\n+2",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "64\n38\n26",
+            "fk": "186\n199\n170",
+            "hs%": "75%\n73%\n77%",
+            "kdr": "9\n4\n5",
+            "kills": "306",
+            "name": "EnS",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.90\n0.98",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n48\n27\n21\n\n/",
+            "deaths": "42\n26\n16",
+            "fk": "117\n128\n104",
+            "hs%": "73%\n78%\n67%",
+            "kdr": "27\n16\n11",
+            "kills": "200",
+            "name": "Lizxotl",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.03\n0.98",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n50\n27\n23\n\n/",
+            "deaths": "50\n27\n23",
+            "fk": "132\n125\n140",
+            "hs%": "67%\n65%\n70%",
+            "kdr": "21\n12\n9",
+            "kills": "195",
+            "name": "Liesel",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.06\n0.94",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "38\n18\n20",
+            "fk": "122\n101\n147",
+            "hs%": "67%\n70%\n63%",
+            "kdr": "18\n7\n11",
+            "kills": "141",
+            "name": "kaminari",
+            "team": null
+          },
+          {
+            "acs": "1.10\n0.75\n0.94",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "45\n28\n17",
+            "fk": "142\n151\n130",
+            "hs%": "64%\n68%\n60%",
+            "kdr": "18\n13\n5",
+            "kills": "219",
+            "name": "feainnewedd",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.40\n1.32",
+            "adr": "+22\n+8\n+14",
+            "agent": "",
+            "assists": "/\n\n50\n22\n28\n\n/",
+            "deaths": "72\n30\n42",
+            "fk": "179\n168\n187",
+            "hs%": "69%\n53%\n81%",
+            "kdr": "10\n3\n7",
+            "kills": "293",
+            "name": "IamKimyy",
+            "team": null
+          },
+          {
+            "acs": "1.19\n1.18\n1.19",
+            "adr": "+13\n+7\n+6",
+            "agent": "",
+            "assists": "/\n\n43\n21\n22\n\n/",
+            "deaths": "56\n28\n28",
+            "fk": "146\n159\n136",
+            "hs%": "67%\n67%\n68%",
+            "kdr": "12\n4\n8",
+            "kills": "252",
+            "name": "Hakane",
+            "team": null
+          },
+          {
+            "acs": "1.23\n0.67\n0.92",
+            "adr": "-1\n+7\n-8",
+            "agent": "",
+            "assists": "/\n\n52\n21\n31\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "134\n160\n113",
+            "hs%": "67%\n73%\n62%",
+            "kdr": "16\n9\n7",
+            "kills": "256",
+            "name": "xiangling",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.90\n0.86",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n46\n19\n27\n\n/",
+            "deaths": "39\n14\n25",
+            "fk": "108\n91\n122",
+            "hs%": "66%\n73%\n59%",
+            "kdr": "10\n6\n4",
+            "kills": "138",
+            "name": "Yujiro",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.55\n0.69",
+            "adr": "-15\n-3\n-12",
+            "agent": "",
+            "assists": "/\n\n30\n11\n19\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "87\n93\n82",
+            "hs%": "64%\n80%\n52%",
+            "kdr": "15\n8\n7",
+            "kills": "121",
+            "name": "Mejjj",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.62\n0.63",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "99\n91\n105",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "133",
+            "name": "Kamiyu",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "301",
+          "name": "EnS",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "134",
+          "name": "Lizxotl",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "141",
+          "name": "feainnewedd",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "182",
+          "name": "Liesel",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "160",
+          "name": "kaminari",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "240",
+          "name": "IamKimyy",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "177",
+          "name": "xiangling",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "229",
+          "name": "Yujiro",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "161",
+          "name": "Hakane",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "50",
+          "name": "Mejjj",
+          "team": "FUMA Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.57\n1.21",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "28\n15\n13",
+            "fk": "183\n183\n182",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "3\n2\n1",
+            "kills": "301",
+            "name": "EnS",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "1.13\n1.48\n0.79",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "131\n169\n93",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "7\n4\n3",
+            "kills": "134",
+            "name": "Lizxotl",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "1.08\n1.63\n0.53",
+            "adr": "+3\n+9\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "137\n173\n101",
+            "hs%": "69%\n85%\n54%",
+            "kdr": "5\n5\n0",
+            "kills": "141",
+            "name": "feainnewedd",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "0.92\n0.98\n0.87",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "120\n124\n115",
+            "hs%": "62%\n77%\n46%",
+            "kdr": "7\n6\n1",
+            "kills": "182",
+            "name": "Liesel",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "0.83\n1.01\n0.65",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "119\n119\n119",
+            "hs%": "73%\n92%\n54%",
+            "kdr": "8\n5\n3",
+            "kills": "160",
+            "name": "kaminari",
+            "team": "TiAMAT"
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n1.57\n0.91",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "27\n16\n11",
+            "fk": "170\n212\n128",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "2\n0\n2",
+            "kills": "240",
+            "name": "IamKimyy",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "1.07\n1.61\n0.54",
+            "adr": "+3\n+9\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "23\n16\n7",
+            "fk": "153\n193\n114",
+            "hs%": "62%\n69%\n54%",
+            "kdr": "5\n3\n2",
+            "kills": "177",
+            "name": "xiangling",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "0.97\n0.86\n1.09",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "119\n81\n158",
+            "hs%": "62%\n77%\n46%",
+            "kdr": "2\n2\n0",
+            "kills": "229",
+            "name": "Yujiro",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "0.93\n1.22\n0.65",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "158\n207\n109",
+            "hs%": "62%\n77%\n46%",
+            "kdr": "6\n4\n2",
+            "kills": "161",
+            "name": "Hakane",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "0.30\n0.56\n0.05",
+            "adr": "-16\n-5\n-11",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "56\n68\n45",
+            "hs%": "50%\n77%\n23%",
+            "kdr": "6\n5\n1",
+            "kills": "50",
+            "name": "Mejjj",
+            "team": "FUMA Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "303",
+          "name": "EnS",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "245",
+          "name": "Liesel",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "196",
+          "name": "Lizxotl",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "223",
+          "name": "feainnewedd",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "166",
+          "name": "kaminari",
+          "team": "TiAMAT"
+        },
+        {
+          "kills": "254",
+          "name": "IamKimyy",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "212",
+          "name": "Hakane",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "232",
+          "name": "xiangling",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "139",
+          "name": "Kamiyu",
+          "team": "FUMA Gaming"
+        },
+        {
+          "kills": "113",
+          "name": "Yujiro",
+          "team": "FUMA Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.74\n0.99",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "219\n270\n157",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "303",
+            "name": "EnS",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "1.17\n1.25\n1.08",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "161\n171\n149",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "7\n4\n3",
+            "kills": "245",
+            "name": "Liesel",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "1.11\n0.86\n1.40",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "136\n119\n156",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "12\n6\n6",
+            "kills": "196",
+            "name": "Lizxotl",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "1.05\n0.95\n1.18",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "154\n144\n167",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "6\n2\n4",
+            "kills": "223",
+            "name": "feainnewedd",
+            "team": "TiAMAT"
+          },
+          {
+            "acs": "1.01\n0.40\n1.75",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "111\n61\n171",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "8\n1\n7",
+            "kills": "166",
+            "name": "kaminari",
+            "team": "TiAMAT"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n0.45\n1.93",
+            "adr": "+5\n-5\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "21\n4\n17",
+            "fk": "156\n59\n237",
+            "hs%": "59%\n40%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "254",
+            "name": "IamKimyy",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "1.07\n1.05\n1.09",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "127\n126\n127",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "5\n0\n5",
+            "kills": "212",
+            "name": "Hakane",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "0.88\n1.17\n0.64",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "133\n157\n114",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "232",
+            "name": "xiangling",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "0.63\n0.64\n0.62",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "99\n91\n105",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "139",
+            "name": "Kamiyu",
+            "team": "FUMA Gaming"
+          },
+          {
+            "acs": "0.49\n0.34\n0.61",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "75\n60\n88",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "113",
+            "name": "Yujiro",
+            "team": "FUMA Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 27775,
+  "teams": [
+    "TiAMAT",
+    "FUMA Gaming"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tLower Bracket Round 3"
+}

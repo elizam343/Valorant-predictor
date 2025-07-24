@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-17 14:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "206",
+          "name": "Melon",
+          "team": "Intellectually Challenged Gamers"
+        },
+        {
+          "kills": "173",
+          "name": "\u30d0\u30ca\u30ca",
+          "team": "Intellectually Challenged Gamers"
+        },
+        {
+          "kills": "198",
+          "name": "Mody",
+          "team": "Intellectually Challenged Gamers"
+        },
+        {
+          "kills": "89",
+          "name": "rockabilly8",
+          "team": "Intellectually Challenged Gamers"
+        },
+        {
+          "kills": "71",
+          "name": "Gurdz",
+          "team": "Intellectually Challenged Gamers"
+        },
+        {
+          "kills": "364",
+          "name": "Apyr",
+          "team": "Monkey Momentum"
+        },
+        {
+          "kills": "215",
+          "name": "putte",
+          "team": "Monkey Momentum"
+        },
+        {
+          "kills": "247",
+          "name": "mezoky",
+          "team": "Monkey Momentum"
+        },
+        {
+          "kills": "198",
+          "name": "Bix",
+          "team": "Monkey Momentum"
+        },
+        {
+          "kills": "160",
+          "name": "Mikelelle",
+          "team": "Monkey Momentum"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.88\n1.07\n0.42",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "140\n150\n115",
+            "hs%": "65%\n75%\n40%",
+            "kdr": "5\n4\n1",
+            "kills": "206",
+            "name": "Melon",
+            "team": "Intellectually Challenged Gamers"
+          },
+          {
+            "acs": "0.85\n0.75\n1.09",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "103\n103\n102",
+            "hs%": "29%\n25%\n40%",
+            "kdr": "1\n0\n1",
+            "kills": "173",
+            "name": "\u30d0\u30ca\u30ca",
+            "team": "Intellectually Challenged Gamers"
+          },
+          {
+            "acs": "0.69\n0.55\n1.01",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "126\n100\n189",
+            "hs%": "53%\n42%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "198",
+            "name": "Mody",
+            "team": "Intellectually Challenged Gamers"
+          },
+          {
+            "acs": "0.63\n0.67\n0.55",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "69\n72\n61",
+            "hs%": "41%\n42%\n40%",
+            "kdr": "8\n7\n1",
+            "kills": "89",
+            "name": "rockabilly8",
+            "team": "Intellectually Challenged Gamers"
+          },
+          {
+            "acs": "0.25\n0.26\n0.23",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "3\n2\n1",
+            "fk": "53\n51\n60",
+            "hs%": "41%\n42%\n40%",
+            "kdr": "5\n4\n1",
+            "kills": "71",
+            "name": "Gurdz",
+            "team": "Intellectually Challenged Gamers"
+          }
+        ],
+        [
+          {
+            "acs": "1.76\n1.63\n1.81",
+            "adr": "+15\n+4\n+11",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "222\n164\n246",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "364",
+            "name": "Apyr",
+            "team": "Monkey Momentum"
+          },
+          {
+            "acs": "1.39\n2.40\n0.97",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "145\n231\n109",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "215",
+            "name": "putte",
+            "team": "Monkey Momentum"
+          },
+          {
+            "acs": "1.31\n0.79\n1.52",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "157\n116\n174",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "247",
+            "name": "mezoky",
+            "team": "Monkey Momentum"
+          },
+          {
+            "acs": "1.18\n1.22\n1.16",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "150\n105\n168",
+            "hs%": "76%\n60%\n83%",
+            "kdr": "3\n3\n0",
+            "kills": "198",
+            "name": "Bix",
+            "team": "Monkey Momentum"
+          },
+          {
+            "acs": "1.05\n0.64\n1.22",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "97\n74\n107",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "160",
+            "name": "Mikelelle",
+            "team": "Monkey Momentum"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "205",
+          "name": "Mody",
+          "team": null
+        },
+        {
+          "kills": "122",
+          "name": "\u30d0\u30ca\u30ca",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "Melon",
+          "team": null
+        },
+        {
+          "kills": "100",
+          "name": "rockabilly8",
+          "team": null
+        },
+        {
+          "kills": "93",
+          "name": "Gurdz",
+          "team": null
+        },
+        {
+          "kills": "323",
+          "name": "Apyr",
+          "team": null
+        },
+        {
+          "kills": "277",
+          "name": "Bix",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "putte",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "mezoky",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "Mikelelle",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.89\n0.80\n0.86",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n30\n20\n10\n\n/",
+            "deaths": "24\n17\n7",
+            "fk": "127\n118\n150",
+            "hs%": "56%\n50%\n70%",
+            "kdr": "5\n3\n2",
+            "kills": "205",
+            "name": "Mody",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.65\n0.67",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n28\n19\n9\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "83\n81\n89",
+            "hs%": "38%\n38%\n40%",
+            "kdr": "3\n1\n2",
+            "kills": "122",
+            "name": "\u30d0\u30ca\u30ca",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.35\n0.62",
+            "adr": "-13\n-7\n-6",
+            "agent": "",
+            "assists": "/\n\n32\n22\n10\n\n/",
+            "deaths": "19\n15\n4",
+            "fk": "110\n115\n99",
+            "hs%": "53%\n58%\n40%",
+            "kdr": "8\n6\n2",
+            "kills": "175",
+            "name": "Melon",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.53\n0.60",
+            "adr": "-17\n-12\n-5",
+            "agent": "",
+            "assists": "/\n\n29\n20\n9\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "76\n72\n85",
+            "hs%": "38%\n38%\n40%",
+            "kdr": "8\n7\n1",
+            "kills": "100",
+            "name": "rockabilly8",
+            "team": null
+          },
+          {
+            "acs": "0.45\n0.23\n0.38",
+            "adr": "-22\n-15\n-7",
+            "agent": "",
+            "assists": "/\n\n30\n21\n9\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "74\n73\n77",
+            "hs%": "35%\n38%\n30%",
+            "kdr": "8\n7\n1",
+            "kills": "93",
+            "name": "Gurdz",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.65\n1.64\n1.64",
+            "adr": "+24\n+7\n+17",
+            "agent": "",
+            "assists": "/\n\n18\n5\n13\n\n/",
+            "deaths": "42\n12\n30",
+            "fk": "207\n182\n218",
+            "hs%": "91%\n90%\n92%",
+            "kdr": "5\n3\n2",
+            "kills": "323",
+            "name": "Apyr",
+            "team": null
+          },
+          {
+            "acs": "2.06\n1.09\n1.37",
+            "adr": "+18\n+11\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "31\n13\n18",
+            "fk": "148\n190\n130",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "277",
+            "name": "Bix",
+            "team": null
+          },
+          {
+            "acs": "1.53\n1.27\n1.35",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "25\n8\n17",
+            "fk": "162\n142\n170",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "15\n5\n10",
+            "kills": "232",
+            "name": "putte",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.26\n1.22",
+            "adr": "+13\n+3\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "29\n8\n21",
+            "fk": "149\n125\n159",
+            "hs%": "79%\n70%\n83%",
+            "kdr": "5\n0\n5",
+            "kills": "195",
+            "name": "mezoky",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.28\n1.19",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "118\n103\n125",
+            "hs%": "88%\n90%\n88%",
+            "kdr": "17\n6\n11",
+            "kills": "170",
+            "name": "Mikelelle",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "167",
+          "name": "Mody",
+          "team": "Intellectually Challenged Gamers"
+        },
+        {
+          "kills": "157",
+          "name": "rockabilly8",
+          "team": "Intellectually Challenged Gamers"
+        },
+        {
+          "kills": "111",
+          "name": "Gurdz",
+          "team": "Intellectually Challenged Gamers"
+        },
+        {
+          "kills": "75",
+          "name": "\u30d0\u30ca\u30ca",
+          "team": "Intellectually Challenged Gamers"
+        },
+        {
+          "kills": "134",
+          "name": "Melon",
+          "team": "Intellectually Challenged Gamers"
+        },
+        {
+          "kills": "160",
+          "name": "Bix",
+          "team": "Monkey Momentum"
+        },
+        {
+          "kills": "317",
+          "name": "Apyr",
+          "team": "Monkey Momentum"
+        },
+        {
+          "kills": "169",
+          "name": "Mikelelle",
+          "team": "Monkey Momentum"
+        },
+        {
+          "kills": "310",
+          "name": "putte",
+          "team": "Monkey Momentum"
+        },
+        {
+          "kills": "174",
+          "name": "mezoky",
+          "team": "Monkey Momentum"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.04\n1.23\n0.58",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "128\n135\n111",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "1\n1\n0",
+            "kills": "167",
+            "name": "Mody",
+            "team": "Intellectually Challenged Gamers"
+          },
+          {
+            "acs": "0.57\n0.60\n0.51",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "82\n71\n109",
+            "hs%": "35%\n33%\n40%",
+            "kdr": "0\n0\n0",
+            "kills": "157",
+            "name": "rockabilly8",
+            "team": "Intellectually Challenged Gamers"
+          },
+          {
+            "acs": "0.52\n0.64\n0.23",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "95\n96\n94",
+            "hs%": "29%\n33%\n20%",
+            "kdr": "3\n3\n0",
+            "kills": "111",
+            "name": "Gurdz",
+            "team": "Intellectually Challenged Gamers"
+          },
+          {
+            "acs": "0.49\n0.60\n0.20",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "63\n59\n75",
+            "hs%": "47%\n50%\n40%",
+            "kdr": "2\n1\n1",
+            "kills": "75",
+            "name": "\u30d0\u30ca\u30ca",
+            "team": "Intellectually Challenged Gamers"
+          },
+          {
+            "acs": "0.37\n0.40\n0.29",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "80\n79\n84",
+            "hs%": "41%\n42%\n40%",
+            "kdr": "3\n2\n1",
+            "kills": "134",
+            "name": "Melon",
+            "team": "Intellectually Challenged Gamers"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n2.90\n1.01",
+            "adr": "+12\n+10\n+2",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "146\n275\n92",
+            "hs%": "76%\n100%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "160",
+            "name": "Bix",
+            "team": "Monkey Momentum"
+          },
+          {
+            "acs": "1.52\n1.68\n1.46",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "192\n199\n190",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "3\n2\n1",
+            "kills": "317",
+            "name": "Apyr",
+            "team": "Monkey Momentum"
+          },
+          {
+            "acs": "1.34\n1.33\n1.34",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "140\n131\n143",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "8\n3\n5",
+            "kills": "169",
+            "name": "Mikelelle",
+            "team": "Monkey Momentum"
+          },
+          {
+            "acs": "1.30\n0.66\n1.57",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "179\n52\n232",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "9\n2\n7",
+            "kills": "310",
+            "name": "putte",
+            "team": "Monkey Momentum"
+          },
+          {
+            "acs": "1.13\n1.44\n1.01",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "141\n134\n143",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "174",
+            "name": "mezoky",
+            "team": "Monkey Momentum"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 64629,
+  "teams": [
+    "Monkey Momentum",
+    "Intellectually Challenged Gamers"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 128"
+}

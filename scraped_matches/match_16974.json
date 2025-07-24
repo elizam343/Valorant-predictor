@@ -1,0 +1,788 @@
+{
+  "date": "2021-04-21 18:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "329",
+          "name": "jcrueL",
+          "team": "Complexity"
+        },
+        {
+          "kills": "257",
+          "name": "agM",
+          "team": "Complexity"
+        },
+        {
+          "kills": "181",
+          "name": "valyn",
+          "team": "Complexity"
+        },
+        {
+          "kills": "156",
+          "name": "JonahP",
+          "team": "Complexity"
+        },
+        {
+          "kills": "101",
+          "name": "ohai",
+          "team": "Complexity"
+        },
+        {
+          "kills": "325",
+          "name": "jovahnii",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "238",
+          "name": "In0X",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "209",
+          "name": "Stealthy",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "161",
+          "name": "ChurmZ",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "158",
+          "name": "polarbear",
+          "team": "Cosmic Divide"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.51\n1.36\n1.66",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "29\n10\n19",
+            "fk": "190\n143\n237",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "329",
+            "name": "jcrueL",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.13\n1.32\n0.94",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "167\n191\n142",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "257",
+            "name": "agM",
+            "team": "Complexity"
+          },
+          {
+            "acs": "0.90\n1.15\n0.64",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "108\n109\n108",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "181",
+            "name": "valyn",
+            "team": "Complexity"
+          },
+          {
+            "acs": "0.70\n0.64\n0.76",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "108\n99\n117",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "5\n0\n5",
+            "kills": "156",
+            "name": "JonahP",
+            "team": "Complexity"
+          },
+          {
+            "acs": "0.45\n0.17\n0.74",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "70\n30\n109",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "101",
+            "name": "ohai",
+            "team": "Complexity"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.90\n1.24",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "206\n218\n194",
+            "hs%": "88%\n83%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "325",
+            "name": "jovahnii",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "1.07\n0.56\n1.59",
+            "adr": "+2\n-6\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "141\n72\n211",
+            "hs%": "88%\n92%\n83%",
+            "kdr": "11\n6\n5",
+            "kills": "238",
+            "name": "In0X",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.97\n0.72\n1.23",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "131\n131\n130",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "209",
+            "name": "Stealthy",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.73\n0.94\n0.52",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "112\n120\n105",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "161",
+            "name": "ChurmZ",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.73\n1.08\n0.38",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "108\n165\n51",
+            "hs%": "58%\n58%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "158",
+            "name": "polarbear",
+            "team": "Cosmic Divide"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "294",
+          "name": "jcrueL",
+          "team": null
+        },
+        {
+          "kills": "240",
+          "name": "JonahP",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "agM",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "valyn",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "ohai",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "jovahnii",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "Stealthy",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "In0X",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "ChurmZ",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "polarbear",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.62\n1.49",
+            "adr": "+30\n+12\n+18",
+            "agent": "",
+            "assists": "/\n\n39\n26\n13\n\n/",
+            "deaths": "69\n38\n31",
+            "fk": "185\n183\n187",
+            "hs%": "80%\n81%\n79%",
+            "kdr": "14\n11\n3",
+            "kills": "294",
+            "name": "jcrueL",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.35\n1.22",
+            "adr": "+14\n+6\n+8",
+            "agent": "",
+            "assists": "/\n\n38\n27\n11\n\n/",
+            "deaths": "52\n33\n19",
+            "fk": "153\n171\n127",
+            "hs%": "77%\n72%\n83%",
+            "kdr": "17\n9\n8",
+            "kills": "240",
+            "name": "JonahP",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.38\n1.05",
+            "adr": "+11\n-2\n+13",
+            "agent": "",
+            "assists": "/\n\n37\n27\n10\n\n/",
+            "deaths": "48\n25\n23",
+            "fk": "139\n141\n136",
+            "hs%": "73%\n67%\n83%",
+            "kdr": "7\n6\n1",
+            "kills": "209",
+            "name": "agM",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.98\n1.04",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n37\n22\n15\n\n/",
+            "deaths": "45\n27\n18",
+            "fk": "112\n120\n100",
+            "hs%": "77%\n78%\n75%",
+            "kdr": "24\n11\n13",
+            "kills": "196",
+            "name": "valyn",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.11\n0.91",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n37\n24\n13\n\n/",
+            "deaths": "32\n19\n13",
+            "fk": "105\n95\n119",
+            "hs%": "82%\n75%\n92%",
+            "kdr": "21\n10\n11",
+            "kills": "147",
+            "name": "ohai",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.97\n1.27\n1.13",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n48\n20\n28\n\n/",
+            "deaths": "51\n17\n34",
+            "fk": "167\n132\n190",
+            "hs%": "72%\n63%\n78%",
+            "kdr": "13\n3\n10",
+            "kills": "207",
+            "name": "jovahnii",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.00\n0.92",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n48\n21\n27\n\n/",
+            "deaths": "42\n16\n26",
+            "fk": "115\n123\n109",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "191",
+            "name": "Stealthy",
+            "team": null
+          },
+          {
+            "acs": "0.47\n1.11\n0.85",
+            "adr": "-11\n-14\n+3",
+            "agent": "",
+            "assists": "/\n\n51\n23\n28\n\n/",
+            "deaths": "40\n9\n31",
+            "fk": "130\n80\n163",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "18\n7\n11",
+            "kills": "121",
+            "name": "In0X",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.69\n0.64",
+            "adr": "-19\n-11\n-8",
+            "agent": "",
+            "assists": "/\n\n49\n21\n28\n\n/",
+            "deaths": "30\n10\n20",
+            "fk": "109\n93\n120",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "10\n4\n6",
+            "kills": "139",
+            "name": "ChurmZ",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.54\n0.54",
+            "adr": "-25\n-11\n-14",
+            "agent": "",
+            "assists": "/\n\n50\n22\n28\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "90\n97\n85",
+            "hs%": "50%\n38%\n58%",
+            "kdr": "12\n4\n8",
+            "kills": "145",
+            "name": "polarbear",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "346",
+          "name": "jcrueL",
+          "team": "Complexity"
+        },
+        {
+          "kills": "279",
+          "name": "JonahP",
+          "team": "Complexity"
+        },
+        {
+          "kills": "168",
+          "name": "ohai",
+          "team": "Complexity"
+        },
+        {
+          "kills": "156",
+          "name": "valyn",
+          "team": "Complexity"
+        },
+        {
+          "kills": "304",
+          "name": "agM",
+          "team": "Complexity"
+        },
+        {
+          "kills": "160",
+          "name": "Stealthy",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "189",
+          "name": "In0X",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "242",
+          "name": "jovahnii",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "142",
+          "name": "ChurmZ",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "139",
+          "name": "polarbear",
+          "team": "Cosmic Divide"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.60\n1.58\n1.64",
+            "adr": "+12\n+9\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "21\n16\n5",
+            "fk": "183\n201\n132",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "6\n4\n2",
+            "kills": "346",
+            "name": "jcrueL",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.52\n1.54\n1.45",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "195\n216\n132",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "279",
+            "name": "JonahP",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.44\n1.42\n1.49",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n6\n5\n1\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "123\n129\n106",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "168",
+            "name": "ohai",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.14\n1.30\n0.68",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "104\n134\n14",
+            "hs%": "75%\n83%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "156",
+            "name": "valyn",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.02\n0.72\n1.91",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "128\n119\n155",
+            "hs%": "75%\n67%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "304",
+            "name": "agM",
+            "team": "Complexity"
+          }
+        ],
+        [
+          {
+            "acs": "0.77\n1.06\n0.67",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "97\n104\n95",
+            "hs%": "56%\n75%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "160",
+            "name": "Stealthy",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.76\n0.91\n0.72",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "124\n144\n118",
+            "hs%": "56%\n75%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "189",
+            "name": "In0X",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.54\n0.01\n0.80",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "128\n12\n166",
+            "hs%": "63%\n50%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "242",
+            "name": "jovahnii",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.48\n0.02\n0.66",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "6\n0\n6",
+            "fk": "79\n25\n98",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "142",
+            "name": "ChurmZ",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.34\n0.04\n0.45",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "86\n60\n95",
+            "hs%": "38%\n25%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "139",
+            "name": "polarbear",
+            "team": "Cosmic Divide"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "273",
+          "name": "JonahP",
+          "team": "Complexity"
+        },
+        {
+          "kills": "264",
+          "name": "jcrueL",
+          "team": "Complexity"
+        },
+        {
+          "kills": "245",
+          "name": "valyn",
+          "team": "Complexity"
+        },
+        {
+          "kills": "191",
+          "name": "ohai",
+          "team": "Complexity"
+        },
+        {
+          "kills": "193",
+          "name": "agM",
+          "team": "Complexity"
+        },
+        {
+          "kills": "237",
+          "name": "jovahnii",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "173",
+          "name": "Stealthy",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "174",
+          "name": "In0X",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "176",
+          "name": "ChurmZ",
+          "team": "Cosmic Divide"
+        },
+        {
+          "kills": "105",
+          "name": "polarbear",
+          "team": "Cosmic Divide"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.61\n1.22\n2.20",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "175\n199\n140",
+            "hs%": "85%\n75%\n100%",
+            "kdr": "8\n5\n3",
+            "kills": "273",
+            "name": "JonahP",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.37\n1.26\n1.54",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n11\n1\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "179\n206\n139",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "5\n5\n0",
+            "kills": "264",
+            "name": "jcrueL",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.14\n0.80\n1.66",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "122\n117\n131",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "14\n4\n10",
+            "kills": "245",
+            "name": "valyn",
+            "team": "Complexity"
+          },
+          {
+            "acs": "1.04\n0.75\n1.47",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "132\n126\n140",
+            "hs%": "85%\n75%\n100%",
+            "kdr": "10\n5\n5",
+            "kills": "191",
+            "name": "ohai",
+            "team": "Complexity"
+          },
+          {
+            "acs": "0.98\n0.46\n1.76",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n10\n0\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "114\n112\n117",
+            "hs%": "75%\n58%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "193",
+            "name": "agM",
+            "team": "Complexity"
+          }
+        ],
+        [
+          {
+            "acs": "1.08\n0.05\n1.77",
+            "adr": "+1\n-6\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n2\n15",
+            "fk": "151\n63\n210",
+            "hs%": "60%\n38%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "237",
+            "name": "jovahnii",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.96\n0.74\n1.11",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "110\n120\n104",
+            "hs%": "65%\n38%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "173",
+            "name": "Stealthy",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.66\n0.11\n1.03",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "120\n60\n160",
+            "hs%": "45%\n25%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "174",
+            "name": "In0X",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.65\n0.28\n0.89",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "128\n86\n157",
+            "hs%": "50%\n25%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "176",
+            "name": "ChurmZ",
+            "team": "Cosmic Divide"
+          },
+          {
+            "acs": "0.46\n0.03\n0.78",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "6\n0\n6",
+            "fk": "71\n13\n110",
+            "hs%": "50%\n13%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "105",
+            "name": "polarbear",
+            "team": "Cosmic Divide"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 16974,
+  "teams": [
+    "Cosmic Divide",
+    "Complexity"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 16"
+}

@@ -1,0 +1,648 @@
+{
+  "date": "2023-01-09 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "274",
+          "name": "Kess",
+          "team": "Zer0 Latency"
+        },
+        {
+          "kills": "330",
+          "name": "Soul",
+          "team": "Zer0 Latency"
+        },
+        {
+          "kills": "220",
+          "name": "Nightmare",
+          "team": "Zer0 Latency"
+        },
+        {
+          "kills": "167",
+          "name": "drake",
+          "team": "Zer0 Latency"
+        },
+        {
+          "kills": "172",
+          "name": "TomZu",
+          "team": "Zer0 Latency"
+        },
+        {
+          "kills": "194",
+          "name": "Sheyd",
+          "team": "Vizion Uprising"
+        },
+        {
+          "kills": "126",
+          "name": "jiggy",
+          "team": "Vizion Uprising"
+        },
+        {
+          "kills": "133",
+          "name": "Nebu",
+          "team": "Vizion Uprising"
+        },
+        {
+          "kills": "156",
+          "name": "PotatonBacon",
+          "team": "Vizion Uprising"
+        },
+        {
+          "kills": "106",
+          "name": "Lni",
+          "team": "Vizion Uprising"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.71\n1.85\n1.37",
+            "adr": "+12\n+10\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "19\n16\n3",
+            "fk": "189\n220\n115",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "274",
+            "name": "Kess",
+            "team": "Zer0 Latency"
+          },
+          {
+            "acs": "1.64\n1.64\n1.66",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "230\n243\n200",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "8\n4\n4",
+            "kills": "330",
+            "name": "Soul",
+            "team": "Zer0 Latency"
+          },
+          {
+            "acs": "1.47\n0.86\n2.91",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n6\n6\n0\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "139\n81\n278",
+            "hs%": "76%\n67%\n100%",
+            "kdr": "6\n5\n1",
+            "kills": "220",
+            "name": "Nightmare",
+            "team": "Zer0 Latency"
+          },
+          {
+            "acs": "1.13\n1.20\n0.95",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "99\n100\n97",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "11\n7\n4",
+            "kills": "167",
+            "name": "drake",
+            "team": "Zer0 Latency"
+          },
+          {
+            "acs": "1.02\n0.75\n1.67",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "103\n103\n102",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "9\n5\n4",
+            "kills": "172",
+            "name": "TomZu",
+            "team": "Zer0 Latency"
+          }
+        ],
+        [
+          {
+            "acs": "0.70\n0.26\n0.89",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "113\n53\n137",
+            "hs%": "59%\n40%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "194",
+            "name": "Sheyd",
+            "team": "Vizion Uprising"
+          },
+          {
+            "acs": "0.62\n0.42\n0.70",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "87\n81\n90",
+            "hs%": "47%\n20%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "126",
+            "name": "jiggy",
+            "team": "Vizion Uprising"
+          },
+          {
+            "acs": "0.61\n0.21\n0.78",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "83\n32\n104",
+            "hs%": "59%\n40%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "133",
+            "name": "Nebu",
+            "team": "Vizion Uprising"
+          },
+          {
+            "acs": "0.55\n0.17\n0.70",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "108\n78\n120",
+            "hs%": "47%\n20%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "156",
+            "name": "PotatonBacon",
+            "team": "Vizion Uprising"
+          },
+          {
+            "acs": "0.44\n0.32\n0.49",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "69\n60\n73",
+            "hs%": "41%\n40%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "106",
+            "name": "Lni",
+            "team": "Vizion Uprising"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "198",
+          "name": "drake",
+          "team": null
+        },
+        {
+          "kills": "140",
+          "name": "Nightmare",
+          "team": null
+        },
+        {
+          "kills": "274",
+          "name": "Kess",
+          "team": null
+        },
+        {
+          "kills": "396",
+          "name": "Soul",
+          "team": null
+        },
+        {
+          "kills": "154",
+          "name": "TomZu",
+          "team": null
+        },
+        {
+          "kills": "297",
+          "name": "jiggy",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "Sheyd",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "Nebu",
+          "team": null
+        },
+        {
+          "kills": "115",
+          "name": "Sheyd",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "jiggy",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "PotatonBacon",
+          "team": null
+        },
+        {
+          "kills": "92",
+          "name": "Lni",
+          "team": null
+        },
+        {
+          "kills": "76",
+          "name": "Lni",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.45\n1.65\n1.56",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "157\n115\n194",
+            "hs%": "88%\n87%\n88%",
+            "kdr": "23\n8\n15",
+            "kills": "198",
+            "name": "drake",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.79\n1.36",
+            "adr": "+12\n-2\n+14",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "27\n6\n21",
+            "fk": "139\n86\n186",
+            "hs%": "81%\n73%\n88%",
+            "kdr": "13\n9\n4",
+            "kills": "140",
+            "name": "Nightmare",
+            "team": null
+          },
+          {
+            "acs": "1.58\n1.06\n1.31",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "27\n16\n11",
+            "fk": "152\n194\n115",
+            "hs%": "88%\n93%\n82%",
+            "kdr": "8\n6\n2",
+            "kills": "274",
+            "name": "Kess",
+            "team": null
+          },
+          {
+            "acs": "1.74\n0.70\n1.19",
+            "adr": "+10\n+12\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "31\n21\n10",
+            "fk": "183\n256\n119",
+            "hs%": "84%\n93%\n76%",
+            "kdr": "9\n5\n4",
+            "kills": "396",
+            "name": "Soul",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.42\n1.18",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "28\n9\n19",
+            "fk": "134\n105\n159",
+            "hs%": "88%\n87%\n88%",
+            "kdr": "11\n5\n6",
+            "kills": "154",
+            "name": "TomZu",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n0.03\n1.11",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "12\n12\n0",
+            "fk": "168\n199\n48",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "297",
+            "name": "jiggy",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.58\n1.03",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "131\n111\n213",
+            "hs%": "80%\n83%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "194",
+            "name": "Sheyd",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.66\n0.78",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n26\n16\n10\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "101\n106\n95",
+            "hs%": "69%\n76%\n60%",
+            "kdr": "11\n8\n3",
+            "kills": "182",
+            "name": "Nebu",
+            "team": null
+          },
+          {
+            "acs": "0.26\n0.89\n0.70",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "113\n53\n137",
+            "hs%": "59%\n40%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "115",
+            "name": "Sheyd",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.70\n0.62",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "87\n81\n90",
+            "hs%": "47%\n20%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "138",
+            "name": "jiggy",
+            "team": null
+          },
+          {
+            "acs": "0.47\n0.69\n0.57",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n29\n16\n13\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "119\n112\n126",
+            "hs%": "59%\n53%\n67%",
+            "kdr": "9\n6\n3",
+            "kills": "153",
+            "name": "PotatonBacon",
+            "team": null
+          },
+          {
+            "acs": "0.32\n0.49\n0.44",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "69\n60\n73",
+            "hs%": "41%\n40%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "92",
+            "name": "Lni",
+            "team": null
+          },
+          {
+            "acs": "0.38\n0.24\n0.36",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "3\n2\n1",
+            "fk": "59\n59\n61",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n6\n1",
+            "kills": "76",
+            "name": "Lni",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "354",
+          "name": "drake",
+          "team": "Zer0 Latency"
+        },
+        {
+          "kills": "296",
+          "name": "TomZu",
+          "team": "Zer0 Latency"
+        },
+        {
+          "kills": "248",
+          "name": "Nightmare",
+          "team": "Zer0 Latency"
+        },
+        {
+          "kills": "157",
+          "name": "Kess",
+          "team": "Zer0 Latency"
+        },
+        {
+          "kills": "112",
+          "name": "Soul",
+          "team": "Zer0 Latency"
+        },
+        {
+          "kills": "48",
+          "name": "jiggy",
+          "team": "Vizion Uprising"
+        },
+        {
+          "kills": "391",
+          "name": "Sheyd",
+          "team": "Vizion Uprising"
+        },
+        {
+          "kills": "67",
+          "name": "Nebu",
+          "team": "Vizion Uprising"
+        },
+        {
+          "kills": "195",
+          "name": "PotatonBacon",
+          "team": "Vizion Uprising"
+        },
+        {
+          "kills": "109",
+          "name": "Lni",
+          "team": "Vizion Uprising"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "2.05\n2.47\n1.94",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "222\n174\n234",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "12\n1\n11",
+            "kills": "354",
+            "name": "drake",
+            "team": "Zer0 Latency"
+          },
+          {
+            "acs": "1.35\n1.50\n1.31",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n1\n9\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "169\n112\n183",
+            "hs%": "80%\n67%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "296",
+            "name": "TomZu",
+            "team": "Zer0 Latency"
+          },
+          {
+            "acs": "1.25\n0.97\n1.32",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "139\n105\n148",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "248",
+            "name": "Nightmare",
+            "team": "Zer0 Latency"
+          },
+          {
+            "acs": "0.85\n0.50\n0.93",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "110\n88\n115",
+            "hs%": "80%\n100%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "157",
+            "name": "Kess",
+            "team": "Zer0 Latency"
+          },
+          {
+            "acs": "0.68\n2.18\n0.30",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "130\n309\n86",
+            "hs%": "73%\n100%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "112",
+            "name": "Soul",
+            "team": "Zer0 Latency"
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n1.39\n0.03",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "12\n12\n0",
+            "fk": "168\n199\n48",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "48",
+            "name": "jiggy",
+            "team": "Vizion Uprising"
+          },
+          {
+            "acs": "1.03\n0.89\n1.58",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "131\n111\n213",
+            "hs%": "80%\n83%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "391",
+            "name": "Sheyd",
+            "team": "Vizion Uprising"
+          },
+          {
+            "acs": "0.97\n1.16\n0.20",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "11\n10\n1",
+            "fk": "122\n137\n62",
+            "hs%": "80%\n92%\n33%",
+            "kdr": "6\n6\n0",
+            "kills": "67",
+            "name": "Nebu",
+            "team": "Vizion Uprising"
+          },
+          {
+            "acs": "0.60\n0.59\n0.66",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "131\n126\n148",
+            "hs%": "73%\n67%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "195",
+            "name": "PotatonBacon",
+            "team": "Vizion Uprising"
+          },
+          {
+            "acs": "0.36\n0.38\n0.24",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "3\n2\n1",
+            "fk": "59\n59\n61",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n6\n1",
+            "kills": "109",
+            "name": "Lni",
+            "team": "Vizion Uprising"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 164926,
+  "teams": [
+    "Zer0 Latency",
+    "Vizion Uprising"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 256"
+}

@@ -1,0 +1,788 @@
+{
+  "date": "2022-03-16 19:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "314",
+          "name": "mmonch",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "234",
+          "name": "Aleksandra",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "273",
+          "name": "vaLentina",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "138",
+          "name": "LiNLiN",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "173",
+          "name": "JuW",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "229",
+          "name": "Ivy",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "200",
+          "name": "Andrehs",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "160",
+          "name": "Rage",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "169",
+          "name": "laskat",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "109",
+          "name": "Buffala",
+          "team": "Skull Cracker Quartz"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.80\n2.01\n1.38",
+            "adr": "+15\n+12\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "23\n18\n5",
+            "fk": "201\n229\n147",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "314",
+            "name": "mmonch",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.42\n1.40\n1.46",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "141\n143\n136",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "234",
+            "name": "Aleksandra",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.15\n1.07\n1.31",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "170\n161\n186",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "8\n7\n1",
+            "kills": "273",
+            "name": "vaLentina",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "0.92\n0.66\n1.43",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "101\n78\n149",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "11\n7\n4",
+            "kills": "138",
+            "name": "LiNLiN",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "0.80\n1.02\n0.35",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "137\n161\n91",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "8\n6\n2",
+            "kills": "173",
+            "name": "JuW",
+            "team": "FiRePOWER"
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n1.40\n0.91",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "128\n129\n128",
+            "hs%": "72%\n83%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "229",
+            "name": "Ivy",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "0.93\n1.22\n0.79",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "149\n182\n132",
+            "hs%": "67%\n83%\n58%",
+            "kdr": "14\n4\n10",
+            "kills": "200",
+            "name": "Andrehs",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "0.82\n0.48\n0.99",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "110\n64\n133",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "160",
+            "name": "Rage",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "0.75\n0.66\n0.80",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "121\n61\n151",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "169",
+            "name": "laskat",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "0.61\n0.53\n0.66",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "74\n67\n77",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "109",
+            "name": "Buffala",
+            "team": "Skull Cracker Quartz"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "356",
+          "name": "mmonch",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "Aleksandra",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "vaLentina",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "JuW",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "LiNLiN",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "Andrehs",
+          "team": null
+        },
+        {
+          "kills": "258",
+          "name": "Ivy",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "Buffala",
+          "team": null
+        },
+        {
+          "kills": "117",
+          "name": "laskat",
+          "team": null
+        },
+        {
+          "kills": "116",
+          "name": "Rage",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.73\n1.01\n1.35",
+            "adr": "+24\n+20\n+4",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "54\n35\n19",
+            "fk": "157\n218\n102",
+            "hs%": "72%\n78%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "356",
+            "name": "mmonch",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.39\n1.29",
+            "adr": "+13\n+4\n+9",
+            "agent": "",
+            "assists": "/\n\n31\n13\n18\n\n/",
+            "deaths": "44\n17\n27",
+            "fk": "145\n119\n168",
+            "hs%": "82%\n78%\n87%",
+            "kdr": "17\n3\n14",
+            "kills": "180",
+            "name": "Aleksandra",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.22\n1.07",
+            "adr": "+9\n-1\n+10",
+            "agent": "",
+            "assists": "/\n\n35\n18\n17\n\n/",
+            "deaths": "44\n17\n27",
+            "fk": "128\n115\n140",
+            "hs%": "79%\n81%\n77%",
+            "kdr": "19\n15\n4",
+            "kills": "180",
+            "name": "vaLentina",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.94\n0.98",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n39\n18\n21\n\n/",
+            "deaths": "44\n21\n23",
+            "fk": "162\n158\n166",
+            "hs%": "77%\n81%\n73%",
+            "kdr": "15\n10\n5",
+            "kills": "230",
+            "name": "JuW",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.99\n0.95",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n35\n16\n19\n\n/",
+            "deaths": "34\n17\n17",
+            "fk": "113\n98\n127",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "29\n15\n14",
+            "kills": "161",
+            "name": "LiNLiN",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.09\n1.03\n1.06",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "36\n22\n14",
+            "fk": "145\n146\n143",
+            "hs%": "61%\n63%\n59%",
+            "kdr": "19\n7\n12",
+            "kills": "208",
+            "name": "Andrehs",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.96\n1.04",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "49\n27\n22",
+            "fk": "152\n169\n133",
+            "hs%": "63%\n60%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "258",
+            "name": "Ivy",
+            "team": null
+          },
+          {
+            "acs": "1.03\n0.81\n0.92",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "36\n21\n15",
+            "fk": "123\n144\n99",
+            "hs%": "65%\n70%\n59%",
+            "kdr": "7\n3\n4",
+            "kills": "206",
+            "name": "Buffala",
+            "team": null
+          },
+          {
+            "acs": "0.68\n0.79\n0.73",
+            "adr": "-22\n-14\n-8",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "110\n87\n135",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "20\n11\n9",
+            "kills": "117",
+            "name": "laskat",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.83\n0.69",
+            "adr": "-18\n-12\n-6",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "97\n84\n113",
+            "hs%": "51%\n50%\n52%",
+            "kdr": "11\n6\n5",
+            "kills": "116",
+            "name": "Rage",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "295",
+          "name": "Aleksandra",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "192",
+          "name": "mmonch",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "182",
+          "name": "vaLentina",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "100",
+          "name": "JuW",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "98",
+          "name": "LiNLiN",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "263",
+          "name": "Ivy",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "245",
+          "name": "Andrehs",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "241",
+          "name": "Buffala",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "189",
+          "name": "laskat",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "153",
+          "name": "Rage",
+          "team": "Skull Cracker Quartz"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.19\n0.91\n1.43",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "149\n96\n193",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "295",
+            "name": "Aleksandra",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.13\n1.23\n1.04",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "150\n195\n111",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "192",
+            "name": "mmonch",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "0.66\n0.37\n0.90",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "81\n36\n119",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "7\n6\n1",
+            "kills": "182",
+            "name": "vaLentina",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "0.63\n0.88\n0.42",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "112\n156\n75",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "100",
+            "name": "JuW",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "0.59\n0.58\n0.60",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "81\n102\n63",
+            "hs%": "59%\n50%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "98",
+            "name": "LiNLiN",
+            "team": "FiRePOWER"
+          }
+        ],
+        [
+          {
+            "acs": "1.47\n1.69\n1.20",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "211\n256\n157",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "1\n0\n1",
+            "kills": "263",
+            "name": "Ivy",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "1.22\n1.13\n1.33",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "152\n136\n171",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "4\n2\n2",
+            "kills": "245",
+            "name": "Andrehs",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "1.10\n0.87\n1.38",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "127\n114\n144",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "3\n1\n2",
+            "kills": "241",
+            "name": "Buffala",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "0.92\n0.87\n0.98",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "101\n74\n134",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "6\n3\n3",
+            "kills": "189",
+            "name": "laskat",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "0.91\n0.80\n1.05",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "109\n90\n132",
+            "hs%": "59%\n50%\n70%",
+            "kdr": "4\n0\n4",
+            "kills": "153",
+            "name": "Rage",
+            "team": "Skull Cracker Quartz"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "362",
+          "name": "JuW",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "239",
+          "name": "vaLentina",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "263",
+          "name": "LiNLiN",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "230",
+          "name": "Aleksandra",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "177",
+          "name": "mmonch",
+          "team": "FiRePOWER"
+        },
+        {
+          "kills": "225",
+          "name": "Buffala",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "183",
+          "name": "Andrehs",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "153",
+          "name": "Ivy",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "146",
+          "name": "laskat",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "80",
+          "name": "Rage",
+          "team": "Skull Cracker Quartz"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.62\n1.31\n1.75",
+            "adr": "+12\n+1\n+11",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "21\n3\n18",
+            "fk": "254\n153\n296",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "362",
+            "name": "JuW",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.51\n1.55\n1.49",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "145\n162\n138",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "239",
+            "name": "vaLentina",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.45\n2.14\n1.17",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "167\n140\n179",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "14\n6\n8",
+            "kills": "263",
+            "name": "LiNLiN",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.27\n1.18\n1.31",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "143\n107\n158",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "230",
+            "name": "Aleksandra",
+            "team": "FiRePOWER"
+          },
+          {
+            "acs": "1.18\n2.07\n0.80",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "119\n237\n70",
+            "hs%": "82%\n100%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "177",
+            "name": "mmonch",
+            "team": "FiRePOWER"
+          }
+        ],
+        [
+          {
+            "acs": "1.02\n1.44\n0.04",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "13\n13\n0",
+            "fk": "168\n212\n61",
+            "hs%": "53%\n67%\n20%",
+            "kdr": "1\n0\n1",
+            "kills": "225",
+            "name": "Buffala",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "0.99\n0.98\n1.03",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "131\n139\n114",
+            "hs%": "53%\n58%\n40%",
+            "kdr": "1\n1\n0",
+            "kills": "183",
+            "name": "Andrehs",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "0.47\n0.41\n0.61",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "102\n104\n97",
+            "hs%": "47%\n42%\n60%",
+            "kdr": "2\n2\n0",
+            "kills": "153",
+            "name": "Ivy",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "0.47\n0.51\n0.38",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "109\n113\n99",
+            "hs%": "59%\n75%\n20%",
+            "kdr": "7\n6\n1",
+            "kills": "146",
+            "name": "laskat",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "0.25\n0.41\n0.02",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "69\n87\n27",
+            "hs%": "35%\n50%",
+            "kdr": "5\n5\n0",
+            "kills": "80",
+            "name": "Rage",
+            "team": "Skull Cracker Quartz"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 76888,
+  "teams": [
+    "Skull Cracker Quartz",
+    "FiRePOWER"
+  ],
+  "tournament": "Latin America: North: \n\t\t\t\t\t\tGrand Final"
+}

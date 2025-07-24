@@ -1,0 +1,788 @@
+{
+  "date": "2022-06-09 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "runi",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "193",
+          "name": "shonk",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "196",
+          "name": "iyen",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "207",
+          "name": "Crunchy",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "117",
+          "name": "dizzyLife",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "270",
+          "name": "SwayZ",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "244",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "127",
+          "name": "Spaz",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "164",
+          "name": "Teague",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "160",
+          "name": "bones",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.50\n1.08\n2.07",
+            "adr": "+5\n-4\n+9",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "172\n102\n267",
+            "hs%": "81%\n67%\n100%",
+            "kdr": "12\n7\n5",
+            "kills": "265",
+            "name": "runi",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "1.16\n0.69\n1.79",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "120\n87\n163",
+            "hs%": "81%\n67%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "193",
+            "name": "shonk",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "1.00\n0.55\n1.61",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "118\n54\n204",
+            "hs%": "67%\n42%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "196",
+            "name": "iyen",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.97\n0.93\n1.03",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "133\n139\n126",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "5\n2\n3",
+            "kills": "207",
+            "name": "Crunchy",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.69\n0.53\n0.90",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "82\n74\n93",
+            "hs%": "62%\n42%\n89%",
+            "kdr": "8\n3\n5",
+            "kills": "117",
+            "name": "dizzyLife",
+            "team": "Soniqs"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n0.67\n1.79",
+            "adr": "+7\n-3\n+10",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "174\n98\n232",
+            "hs%": "86%\n67%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "270",
+            "name": "SwayZ",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.11\n0.82\n1.33",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "143\n107\n170",
+            "hs%": "67%\n44%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "244",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.88\n0.50\n1.16",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "86\n79\n91",
+            "hs%": "67%\n44%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "127",
+            "name": "Spaz",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.82\n0.41\n1.13",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "101\n96\n105",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "9\n2\n7",
+            "kills": "164",
+            "name": "Teague",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.56\n0.13\n0.88",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "112\n58\n153",
+            "hs%": "57%\n22%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "160",
+            "name": "bones",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "146",
+          "name": "runi",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "iyen",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "shonk",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Crunchy",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "dizzyLife",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "SwayZ",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "Teague",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "MOCKING",
+          "team": null
+        },
+        {
+          "kills": "256",
+          "name": "bones",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "Spaz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.79\n1.52\n1.18",
+            "adr": "-1\n-11\n+10",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "44\n12\n32",
+            "fk": "139\n93\n179",
+            "hs%": "74%\n69%\n79%",
+            "kdr": "29\n13\n16",
+            "kills": "146",
+            "name": "runi",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.38\n1.18",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n45\n21\n24\n\n/",
+            "deaths": "54\n22\n32",
+            "fk": "148\n127\n166",
+            "hs%": "73%\n55%\n88%",
+            "kdr": "9\n0\n9",
+            "kills": "208",
+            "name": "iyen",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.00\n0.93",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "37\n17\n20",
+            "fk": "99\n97\n101",
+            "hs%": "66%\n66%\n67%",
+            "kdr": "16\n8\n8",
+            "kills": "159",
+            "name": "shonk",
+            "team": null
+          },
+          {
+            "acs": "0.59\n1.00\n0.81",
+            "adr": "-12\n-13\n+1",
+            "agent": "",
+            "assists": "/\n\n53\n27\n26\n\n/",
+            "deaths": "41\n14\n27",
+            "fk": "135\n119\n148",
+            "hs%": "63%\n62%\n64%",
+            "kdr": "15\n8\n7",
+            "kills": "171",
+            "name": "Crunchy",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.56\n0.69",
+            "adr": "-24\n-7\n-17",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "27\n17\n10",
+            "fk": "97\n97\n97",
+            "hs%": "65%\n62%\n67%",
+            "kdr": "26\n10\n16",
+            "kills": "167",
+            "name": "dizzyLife",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.91\n1.48\n1.18",
+            "adr": "+13\n+1\n+12",
+            "agent": "",
+            "assists": "/\n\n39\n24\n15\n\n/",
+            "deaths": "52\n25\n27",
+            "fk": "155\n135\n179",
+            "hs%": "79%\n70%\n90%",
+            "kdr": "16\n6\n10",
+            "kills": "200",
+            "name": "SwayZ",
+            "team": null
+          },
+          {
+            "acs": "1.15\n1.14\n1.14",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n39\n23\n16\n\n/",
+            "deaths": "43\n26\n17",
+            "fk": "130\n138\n122",
+            "hs%": "81%\n79%\n83%",
+            "kdr": "44\n16\n28",
+            "kills": "220",
+            "name": "Teague",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.33\n1.08",
+            "adr": "+13\n-1\n+14",
+            "agent": "",
+            "assists": "/\n\n41\n23\n18\n\n/",
+            "deaths": "54\n22\n32",
+            "fk": "143\n118\n172",
+            "hs%": "73%\n67%\n79%",
+            "kdr": "20\n11\n9",
+            "kills": "178",
+            "name": "MOCKING",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.14\n1.05",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n47\n28\n19\n\n/",
+            "deaths": "55\n29\n26",
+            "fk": "162\n159\n166",
+            "hs%": "69%\n58%\n83%",
+            "kdr": "11\n5\n6",
+            "kills": "256",
+            "name": "bones",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.06\n0.93",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n37\n24\n13\n\n/",
+            "deaths": "35\n19\n16",
+            "fk": "99\n107\n90",
+            "hs%": "77%\n76%\n79%",
+            "kdr": "27\n13\n14",
+            "kills": "162",
+            "name": "Spaz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "159",
+          "name": "shonk",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "276",
+          "name": "runi",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "176",
+          "name": "iyen",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "112",
+          "name": "dizzyLife",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "232",
+          "name": "Crunchy",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "287",
+          "name": "bones",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "292",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "136",
+          "name": "SwayZ",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "212",
+          "name": "Teague",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "111",
+          "name": "Spaz",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.15\n1.31\n1.01",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "103\n122\n87",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "159",
+            "name": "shonk",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "1.11\n0.54\n1.64",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "131\n76\n180",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "11\n3\n8",
+            "kills": "276",
+            "name": "runi",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "1.09\n1.29\n0.91",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "148\n175\n123",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "176",
+            "name": "iyen",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.78\n1.34\n0.26",
+            "adr": "-6\n+4\n-10",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "125\n159\n94",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "10\n4\n6",
+            "kills": "112",
+            "name": "dizzyLife",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.61\n0.27\n0.93",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "121\n96\n145",
+            "hs%": "57%\n73%\n42%",
+            "kdr": "5\n5\n0",
+            "kills": "232",
+            "name": "Crunchy",
+            "team": "Soniqs"
+          }
+        ],
+        [
+          {
+            "acs": "1.66\n1.79\n1.52",
+            "adr": "+14\n+9\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "29\n17\n12",
+            "fk": "213\n238\n186",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "5\n3\n2",
+            "kills": "287",
+            "name": "bones",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.09\n0.85\n1.35",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "139\n111\n169",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "10\n5\n5",
+            "kills": "292",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.02\n1.14\n0.90",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "138\n164\n109",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "10\n5\n5",
+            "kills": "136",
+            "name": "SwayZ",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.93\n0.99\n0.86",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "127\n114\n142",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "18\n9\n9",
+            "kills": "212",
+            "name": "Teague",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.80\n0.94\n0.65",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "100\n134\n63",
+            "hs%": "83%\n100%\n64%",
+            "kdr": "10\n7\n3",
+            "kills": "111",
+            "name": "Spaz",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "305",
+          "name": "iyen",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "164",
+          "name": "runi",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "227",
+          "name": "Crunchy",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "103",
+          "name": "dizzyLife",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "107",
+          "name": "shonk",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "293",
+          "name": "Teague",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "214",
+          "name": "SwayZ",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "184",
+          "name": "Spaz",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "217",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "233",
+          "name": "bones",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.49\n1.14\n1.67",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "184\n187\n182",
+            "hs%": "83%\n67%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "305",
+            "name": "iyen",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.88\n0.68\n0.99",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "109\n104\n112",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "164",
+            "name": "runi",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.88\n0.53\n1.05",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "153\n123\n168",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "227",
+            "name": "Crunchy",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.57\n0.54\n0.59",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "78\n30\n102",
+            "hs%": "61%\n67%\n58%",
+            "kdr": "8\n3\n5",
+            "kills": "103",
+            "name": "dizzyLife",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.37\n0.32\n0.39",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "69\n70\n69",
+            "hs%": "44%\n50%\n42%",
+            "kdr": "4\n2\n2",
+            "kills": "107",
+            "name": "shonk",
+            "team": "Soniqs"
+          }
+        ],
+        [
+          {
+            "acs": "1.80\n1.87\n1.66",
+            "adr": "+10\n+9\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "19\n16\n3",
+            "fk": "168\n192\n121",
+            "hs%": "83%\n75%\n100%",
+            "kdr": "17\n5\n12",
+            "kills": "293",
+            "name": "Teague",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.22\n0.87\n1.93",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "155\n132\n201",
+            "hs%": "78%\n67%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "214",
+            "name": "SwayZ",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.14\n0.91\n1.61",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "113\n101\n137",
+            "hs%": "83%\n75%\n100%",
+            "kdr": "10\n4\n6",
+            "kills": "184",
+            "name": "Spaz",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.02\n0.90\n1.26",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "150\n133\n185",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "6\n6\n0",
+            "kills": "217",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.84\n0.80\n0.94",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "155\n156\n153",
+            "hs%": "61%\n58%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "233",
+            "name": "bones",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 106608,
+  "teams": [
+    "Soniqs",
+    "Lenny Time"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tQuarterfinals"
+}

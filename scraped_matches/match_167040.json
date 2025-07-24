@@ -1,0 +1,788 @@
+{
+  "date": "2023-02-08 15:15:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "384",
+          "name": "CTC",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "169",
+          "name": "gaabxx",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "172",
+          "name": "RND",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "190",
+          "name": "Leozin",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "123",
+          "name": "gtn",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "229",
+          "name": "Zanatsu",
+          "team": "Liberty"
+        },
+        {
+          "kills": "204",
+          "name": "guuih",
+          "team": "Liberty"
+        },
+        {
+          "kills": "243",
+          "name": "pepa",
+          "team": "Liberty"
+        },
+        {
+          "kills": "270",
+          "name": "duhT",
+          "team": "Liberty"
+        },
+        {
+          "kills": "200",
+          "name": "tockers",
+          "team": "Liberty"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.96\n2.24\n1.68",
+            "adr": "+19\n+11\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "34\n20\n14",
+            "fk": "227\n240\n215",
+            "hs%": "92%\n92%\n92%",
+            "kdr": "10\n7\n3",
+            "kills": "384",
+            "name": "CTC",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "0.85\n0.74\n0.96",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "114\n117\n111",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "11\n1\n10",
+            "kills": "169",
+            "name": "gaabxx",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "0.69\n0.19\n1.19",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "102\n78\n125",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "3\n1\n2",
+            "kills": "172",
+            "name": "RND",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "0.58\n0.57\n0.59",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "127\n130\n123",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "10\n5\n5",
+            "kills": "190",
+            "name": "Leozin",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "0.45\n0.30\n0.60",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "80\n73\n88",
+            "hs%": "69%\n54%\n85%",
+            "kdr": "11\n6\n5",
+            "kills": "123",
+            "name": "gtn",
+            "team": "RED Canids"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n1.47\n1.18",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "169\n193\n146",
+            "hs%": "88%\n92%\n85%",
+            "kdr": "9\n5\n4",
+            "kills": "229",
+            "name": "Zanatsu",
+            "team": "Liberty"
+          },
+          {
+            "acs": "1.14\n0.79\n1.49",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "148\n99\n198",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "8\n2\n6",
+            "kills": "204",
+            "name": "guuih",
+            "team": "Liberty"
+          },
+          {
+            "acs": "1.12\n1.07\n1.17",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "156\n141\n172",
+            "hs%": "81%\n69%\n92%",
+            "kdr": "12\n5\n7",
+            "kills": "243",
+            "name": "pepa",
+            "team": "Liberty"
+          },
+          {
+            "acs": "1.06\n1.09\n1.04",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n14\n7\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "168\n193\n144",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "3\n1\n2",
+            "kills": "270",
+            "name": "duhT",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.78\n0.60\n0.96",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "131\n113\n150",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "6\n4\n2",
+            "kills": "200",
+            "name": "tockers",
+            "team": "Liberty"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "305",
+          "name": "CTC",
+          "team": null
+        },
+        {
+          "kills": "277",
+          "name": "Leozin",
+          "team": null
+        },
+        {
+          "kills": "123",
+          "name": "gaabxx",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "RND",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "gtn",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "pepa",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Zanatsu",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "guuih",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "tockers",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "duhT",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.79\n1.32\n1.54",
+            "adr": "+25\n+16\n+9",
+            "agent": "",
+            "assists": "/\n\n41\n18\n23\n\n/",
+            "deaths": "66\n34\n32",
+            "fk": "183\n181\n184",
+            "hs%": "85%\n81%\n89%",
+            "kdr": "32\n20\n12",
+            "kills": "305",
+            "name": "CTC",
+            "team": null
+          },
+          {
+            "acs": "1.21\n1.05\n1.13",
+            "adr": "+13\n+10\n+3",
+            "agent": "",
+            "assists": "/\n\n50\n23\n27\n\n/",
+            "deaths": "63\n33\n30",
+            "fk": "163\n180\n148",
+            "hs%": "78%\n74%\n81%",
+            "kdr": "16\n9\n7",
+            "kills": "277",
+            "name": "Leozin",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.14\n0.91",
+            "adr": "-5\n-9\n+4",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "40\n14\n26",
+            "fk": "107\n83\n128",
+            "hs%": "78%\n77%\n78%",
+            "kdr": "24\n9\n15",
+            "kills": "123",
+            "name": "gaabxx",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.91\n0.89",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "44\n20\n24",
+            "fk": "114\n125\n105",
+            "hs%": "68%\n61%\n73%",
+            "kdr": "14\n6\n8",
+            "kills": "181",
+            "name": "RND",
+            "team": null
+          },
+          {
+            "acs": "0.62\n1.04\n0.85",
+            "adr": "-12\n-14\n+2",
+            "agent": "",
+            "assists": "/\n\n47\n24\n23\n\n/",
+            "deaths": "35\n10\n25",
+            "fk": "100\n74\n122",
+            "hs%": "76%\n71%\n81%",
+            "kdr": "36\n21\n15",
+            "kills": "121",
+            "name": "gtn",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n1.06\n1.06",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "55\n29\n26",
+            "fk": "130\n116\n146",
+            "hs%": "74%\n68%\n81%",
+            "kdr": "20\n9\n11",
+            "kills": "199",
+            "name": "pepa",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.00\n1.05",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "47\n26\n21",
+            "fk": "141\n141\n142",
+            "hs%": "74%\n70%\n77%",
+            "kdr": "20\n10\n10",
+            "kills": "209",
+            "name": "Zanatsu",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.14\n1.04",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "43\n20\n23",
+            "fk": "137\n121\n157",
+            "hs%": "72%\n68%\n77%",
+            "kdr": "13\n5\n8",
+            "kills": "156",
+            "name": "guuih",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.93\n0.82",
+            "adr": "-14\n-10\n-4",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "39\n19\n20",
+            "fk": "118\n116\n120",
+            "hs%": "75%\n76%\n74%",
+            "kdr": "22\n13\n9",
+            "kills": "167",
+            "name": "tockers",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.85\n0.77",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n54\n36\n18\n\n/",
+            "deaths": "45\n27\n18",
+            "fk": "126\n143\n104",
+            "hs%": "71%\n68%\n74%",
+            "kdr": "10\n4\n6",
+            "kills": "220",
+            "name": "duhT",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "284",
+          "name": "CTC",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "233",
+          "name": "Leozin",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "213",
+          "name": "gtn",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "95",
+          "name": "RND",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "133",
+          "name": "gaabxx",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "184",
+          "name": "pepa",
+          "team": "Liberty"
+        },
+        {
+          "kills": "107",
+          "name": "guuih",
+          "team": "Liberty"
+        },
+        {
+          "kills": "167",
+          "name": "tockers",
+          "team": "Liberty"
+        },
+        {
+          "kills": "166",
+          "name": "duhT",
+          "team": "Liberty"
+        },
+        {
+          "kills": "177",
+          "name": "Zanatsu",
+          "team": "Liberty"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.53\n1.87\n1.22",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "156\n142\n170",
+            "hs%": "87%\n82%\n92%",
+            "kdr": "17\n11\n6",
+            "kills": "284",
+            "name": "CTC",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "1.40\n2.03\n0.82",
+            "adr": "+9\n+11\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "26\n17\n9",
+            "fk": "190\n250\n136",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "233",
+            "name": "Leozin",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "1.27\n1.00\n1.52",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "124\n107\n140",
+            "hs%": "83%\n91%\n75%",
+            "kdr": "10\n7\n3",
+            "kills": "213",
+            "name": "gtn",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "0.87\n1.21\n0.56",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "107\n141\n76",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "95",
+            "name": "RND",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "0.52\n0.36\n0.67",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "70\n45\n94",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "7\n5\n2",
+            "kills": "133",
+            "name": "gaabxx",
+            "team": "RED Canids"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.62\n0.86",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "22\n15\n7",
+            "fk": "145\n177\n109",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "2\n1\n1",
+            "kills": "184",
+            "name": "pepa",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.92\n1.28\n0.52",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "114\n142\n84",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "2\n1\n1",
+            "kills": "107",
+            "name": "guuih",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.87\n0.88\n0.85",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "115\n125\n104",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "6\n4\n2",
+            "kills": "167",
+            "name": "tockers",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.72\n0.64\n0.81",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "128\n162\n91",
+            "hs%": "70%\n83%\n55%",
+            "kdr": "3\n1\n2",
+            "kills": "166",
+            "name": "duhT",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.66\n0.66\n0.66",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "103\n80\n128",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "7\n3\n4",
+            "kills": "177",
+            "name": "Zanatsu",
+            "team": "Liberty"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "286",
+          "name": "Leozin",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "218",
+          "name": "gaabxx",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "209",
+          "name": "RND",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "216",
+          "name": "CTC",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "153",
+          "name": "gtn",
+          "team": "RED Canids"
+        },
+        {
+          "kills": "237",
+          "name": "Zanatsu",
+          "team": "Liberty"
+        },
+        {
+          "kills": "195",
+          "name": "guuih",
+          "team": "Liberty"
+        },
+        {
+          "kills": "154",
+          "name": "tockers",
+          "team": "Liberty"
+        },
+        {
+          "kills": "143",
+          "name": "pepa",
+          "team": "Liberty"
+        },
+        {
+          "kills": "100",
+          "name": "duhT",
+          "team": "Liberty"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.55\n1.12\n1.80",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "179\n163\n188",
+            "hs%": "79%\n57%\n92%",
+            "kdr": "3\n2\n1",
+            "kills": "286",
+            "name": "Leozin",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "1.44\n0.85\n1.79",
+            "adr": "+8\n-2\n+10",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "142\n78\n180",
+            "hs%": "95%\n86%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "218",
+            "name": "gaabxx",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "1.19\n1.59\n0.95",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "138\n184\n112",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "209",
+            "name": "RND",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "0.97\n0.83\n1.04",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "153\n133\n165",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "216",
+            "name": "CTC",
+            "team": "RED Canids"
+          },
+          {
+            "acs": "0.88\n0.60\n1.04",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "99\n25\n142",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "15\n8\n7",
+            "kills": "153",
+            "name": "gtn",
+            "team": "RED Canids"
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n1.09\n1.21",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "150\n147\n155",
+            "hs%": "68%\n50%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "237",
+            "name": "Zanatsu",
+            "team": "Liberty"
+          },
+          {
+            "acs": "1.05\n0.83\n1.44",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "151\n124\n197",
+            "hs%": "63%\n50%\n86%",
+            "kdr": "3\n2\n1",
+            "kills": "195",
+            "name": "guuih",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.80\n0.68\n1.01",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "103\n111\n91",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "10\n5\n5",
+            "kills": "154",
+            "name": "tockers",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.72\n0.46\n1.17",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "75\n29\n154",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "6\n3\n3",
+            "kills": "143",
+            "name": "pepa",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.42\n0.33\n0.58",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "64\n71\n52",
+            "hs%": "58%\n42%\n86%",
+            "kdr": "4\n2\n2",
+            "kills": "100",
+            "name": "duhT",
+            "team": "Liberty"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 167040,
+  "teams": [
+    "RED Canids",
+    "Liberty"
+  ],
+  "tournament": "Regular Season: \n\t\t\t\t\t\tWeek 4"
+}

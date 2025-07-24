@@ -1,0 +1,788 @@
+{
+  "date": "2021-08-19 17:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "334",
+          "name": "RockeT",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "179",
+          "name": "Rexus",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "194",
+          "name": "TERNOS",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "198",
+          "name": "B4HA",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "142",
+          "name": "Maaatrix",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "196",
+          "name": "fr0st",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "252",
+          "name": "Shalaby",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "181",
+          "name": "zizox",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "185",
+          "name": "Avez",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "141",
+          "name": "Tuna",
+          "team": "Anubis Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.27\n0.79\n1.91",
+            "adr": "+6\n-3\n+9",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "172\n127\n232",
+            "hs%": "76%\n58%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "334",
+            "name": "RockeT",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "1.23\n1.35\n1.07",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "109\n133\n78",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "6\n2\n4",
+            "kills": "179",
+            "name": "Rexus",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "1.14\n1.21\n1.05",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "139\n160\n110",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "8\n5\n3",
+            "kills": "194",
+            "name": "TERNOS",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "0.91\n0.51\n1.45",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "148\n122\n182",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "3\n2\n1",
+            "kills": "198",
+            "name": "B4HA",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "0.85\n0.40\n1.44",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "103\n57\n163",
+            "hs%": "81%\n67%\n100%",
+            "kdr": "8\n3\n5",
+            "kills": "142",
+            "name": "Maaatrix",
+            "team": "La7zag Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n1.33\n0.82",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "119\n165\n86",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "196",
+            "name": "fr0st",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "1.04\n0.75\n1.26",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "166\n124\n198",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "252",
+            "name": "Shalaby",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "0.85\n0.13\n1.38",
+            "adr": "-1\n-8\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "113\n34\n172",
+            "hs%": "57%\n22%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "181",
+            "name": "zizox",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "0.69\n0.29\n1.00",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "113\n91\n130",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "185",
+            "name": "Avez",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "0.66\n0.38\n0.88",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "96\n55\n126",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "141",
+            "name": "Tuna",
+            "team": "Anubis Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "224",
+          "name": "TERNOS",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "Rexus",
+          "team": null
+        },
+        {
+          "kills": "272",
+          "name": "RockeT",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "Maaatrix",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "B4HA",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "Shalaby",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "fr0st",
+          "team": null
+        },
+        {
+          "kills": "236",
+          "name": "Avez",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "Tuna",
+          "team": null
+        },
+        {
+          "kills": "142",
+          "name": "zizox",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.23\n0.92\n1.09",
+            "adr": "+3\n+8\n-5",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "45\n30\n15",
+            "fk": "134\n138\n129",
+            "hs%": "77%\n78%\n76%",
+            "kdr": "19\n9\n10",
+            "kills": "224",
+            "name": "TERNOS",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.04\n1.03",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "42\n24\n18",
+            "fk": "124\n122\n126",
+            "hs%": "74%\n72%\n76%",
+            "kdr": "13\n7\n6",
+            "kills": "174",
+            "name": "Rexus",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.97\n0.94",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n55\n31\n24\n\n/",
+            "deaths": "55\n33\n22",
+            "fk": "162\n178\n141",
+            "hs%": "66%\n67%\n66%",
+            "kdr": "17\n9\n8",
+            "kills": "272",
+            "name": "RockeT",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.98\n0.86",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "114\n100\n132",
+            "hs%": "68%\n64%\n72%",
+            "kdr": "16\n9\n7",
+            "kills": "147",
+            "name": "Maaatrix",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.88\n0.80",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n51\n28\n23\n\n/",
+            "deaths": "45\n25\n20",
+            "fk": "124\n121\n128",
+            "hs%": "60%\n56%\n66%",
+            "kdr": "7\n3\n4",
+            "kills": "179",
+            "name": "B4HA",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.98\n1.27\n1.14",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n48\n21\n27\n\n/",
+            "deaths": "53\n20\n33",
+            "fk": "167\n152\n179",
+            "hs%": "68%\n72%\n64%",
+            "kdr": "19\n9\n10",
+            "kills": "220",
+            "name": "Shalaby",
+            "team": null
+          },
+          {
+            "acs": "1.30\n0.95\n1.11",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n42\n18\n24\n\n/",
+            "deaths": "50\n27\n23",
+            "fk": "114\n121\n108",
+            "hs%": "80%\n86%\n75%",
+            "kdr": "24\n10\n14",
+            "kills": "230",
+            "name": "fr0st",
+            "team": null
+          },
+          {
+            "acs": "1.23\n1.00\n1.10",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n46\n20\n26\n\n/",
+            "deaths": "54\n26\n28",
+            "fk": "128\n139\n118",
+            "hs%": "71%\n76%\n67%",
+            "kdr": "19\n13\n6",
+            "kills": "236",
+            "name": "Avez",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.00\n1.04",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n43\n18\n25\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "120\n108\n129",
+            "hs%": "77%\n83%\n72%",
+            "kdr": "24\n12\n12",
+            "kills": "176",
+            "name": "Tuna",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.83\n0.71",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "37\n14\n23",
+            "fk": "95\n78\n109",
+            "hs%": "68%\n59%\n75%",
+            "kdr": "10\n4\n6",
+            "kills": "142",
+            "name": "zizox",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "207",
+          "name": "TERNOS",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "155",
+          "name": "Maaatrix",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "222",
+          "name": "Rexus",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "222",
+          "name": "RockeT",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "173",
+          "name": "B4HA",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "209",
+          "name": "Avez",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "188",
+          "name": "Tuna",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "192",
+          "name": "fr0st",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "191",
+          "name": "Shalaby",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "154",
+          "name": "zizox",
+          "team": "Anubis Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.23\n1.66\n0.81",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "147\n141\n154",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "207",
+            "name": "TERNOS",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "1.21\n1.69\n0.73",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "150\n183\n116",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "6\n4\n2",
+            "kills": "155",
+            "name": "Maaatrix",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "1.13\n1.15\n1.11",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "161\n153\n168",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "222",
+            "name": "Rexus",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "0.72\n0.71\n0.72",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "155\n166\n145",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "7\n4\n3",
+            "kills": "222",
+            "name": "RockeT",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "0.40\n0.05\n0.76",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "79\n38\n121",
+            "hs%": "54%\n42%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "173",
+            "name": "B4HA",
+            "team": "La7zag Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n1.73\n1.15",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "139\n162\n116",
+            "hs%": "88%\n92%\n83%",
+            "kdr": "13\n10\n3",
+            "kills": "209",
+            "name": "Avez",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "1.30\n1.59\n1.00",
+            "adr": "+7\n+8\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "142\n165\n120",
+            "hs%": "79%\n92%\n67%",
+            "kdr": "9\n4\n5",
+            "kills": "188",
+            "name": "Tuna",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "1.28\n1.59\n0.98",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "111\n128\n94",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "11\n6\n5",
+            "kills": "192",
+            "name": "fr0st",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "0.92\n1.15\n0.69",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "168\n197\n139",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "8\n6\n2",
+            "kills": "191",
+            "name": "Shalaby",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "0.37\n0.23\n0.50",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "85\n96\n74",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "154",
+            "name": "zizox",
+            "team": "Anubis Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "252",
+          "name": "B4HA",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "168",
+          "name": "TERNOS",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "210",
+          "name": "RockeT",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "130",
+          "name": "Rexus",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "141",
+          "name": "Maaatrix",
+          "team": "La7zag Esports"
+        },
+        {
+          "kills": "278",
+          "name": "Shalaby",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "229",
+          "name": "Avez",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "186",
+          "name": "Tuna",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "166",
+          "name": "zizox",
+          "team": "Anubis Gaming"
+        },
+        {
+          "kills": "181",
+          "name": "fr0st",
+          "team": "Anubis Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.14\n1.61\n0.44",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "153\n204\n77",
+            "hs%": "50%\n58%\n38%",
+            "kdr": "0\n0\n0",
+            "kills": "252",
+            "name": "B4HA",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "0.87\n0.84\n0.93",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "114\n114\n113",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "168",
+            "name": "TERNOS",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "0.86\n1.24\n0.29",
+            "adr": "-3\n+3\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "13\n13\n0",
+            "fk": "158\n241\n34",
+            "hs%": "60%\n75%\n38%",
+            "kdr": "3\n2\n1",
+            "kills": "210",
+            "name": "RockeT",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "0.71\n0.59\n0.89",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "94\n79\n117",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "4\n4\n0",
+            "kills": "130",
+            "name": "Rexus",
+            "team": "La7zag Esports"
+          },
+          {
+            "acs": "0.44\n0.18\n0.84",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "84\n59\n122",
+            "hs%": "55%\n50%\n63%",
+            "kdr": "2\n2\n0",
+            "kills": "141",
+            "name": "Maaatrix",
+            "team": "La7zag Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.51\n0.97\n1.87",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "167\n116\n201",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "278",
+            "name": "Shalaby",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "1.13\n1.53\n0.86",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "129\n160\n109",
+            "hs%": "60%\n75%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "229",
+            "name": "Avez",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "1.12\n1.09\n1.13",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "118\n81\n143",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "10\n6\n4",
+            "kills": "186",
+            "name": "Tuna",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "0.97\n1.53\n0.60",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "90\n101\n82",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "166",
+            "name": "zizox",
+            "team": "Anubis Gaming"
+          },
+          {
+            "acs": "0.96\n0.84\n1.04",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "110\n61\n143",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "9\n4\n5",
+            "kills": "181",
+            "name": "fr0st",
+            "team": "Anubis Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 31668,
+  "teams": [
+    "Anubis Gaming",
+    "La7zag Esports"
+  ],
+  "tournament": "Levant and North Africa: \n\t\t\t\t\t\tRound 10"
+}

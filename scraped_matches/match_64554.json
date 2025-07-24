@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-17 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "390",
+          "name": "Leare",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "257",
+          "name": "Foxie",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "169",
+          "name": "tsack",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "266",
+          "name": "UNFAKE",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "225",
+          "name": "k1zpawn",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "221",
+          "name": "buyko",
+          "team": "Underdogs"
+        },
+        {
+          "kills": "178",
+          "name": "DrinkeZ",
+          "team": "Underdogs"
+        },
+        {
+          "kills": "190",
+          "name": "BuyKO",
+          "team": "Underdogs"
+        },
+        {
+          "kills": "83",
+          "name": "WindowParkany",
+          "team": "Underdogs"
+        },
+        {
+          "kills": "53",
+          "name": "nexo",
+          "team": "Underdogs"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.86\n1.86\n1.86",
+            "adr": "+12\n+2\n+10",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "20\n3\n17",
+            "fk": "247\n199\n259",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "390",
+            "name": "Leare",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.58\n1.88\n1.50",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "194\n193\n194",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "8\n3\n5",
+            "kills": "257",
+            "name": "Foxie",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.53\n0.53\n1.78",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n3\n1\n2\n\n/",
+            "deaths": "10\n0\n10",
+            "fk": "121\n0\n151",
+            "hs%": "87%\n67%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "169",
+            "name": "tsack",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.31\n0.45\n1.53",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "14\n1\n13",
+            "fk": "193\n90\n219",
+            "hs%": "87%\n67%\n92%",
+            "kdr": "9\n4\n5",
+            "kills": "266",
+            "name": "UNFAKE",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.28\n2.09\n1.08",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "129\n269\n93",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "225",
+            "name": "k1zpawn",
+            "team": "Team Queso"
+          }
+        ],
+        [
+          {
+            "acs": "0.90\n0.86\n1.06",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "141\n145\n126",
+            "hs%": "67%\n58%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "221",
+            "name": "buyko",
+            "team": "Underdogs"
+          },
+          {
+            "acs": "0.79\n0.59\n1.58",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "116\n91\n218",
+            "hs%": "53%\n42%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "178",
+            "name": "DrinkeZ",
+            "team": "Underdogs"
+          },
+          {
+            "acs": "0.76\n0.82\n0.51",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "136\n141\n115",
+            "hs%": "60%\n50%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "190",
+            "name": "BuyKO",
+            "team": "Underdogs"
+          },
+          {
+            "acs": "0.06\n0.04\n0.19",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "55\n51\n71",
+            "hs%": "27%\n25%\n33%",
+            "kdr": "1\n0\n1",
+            "kills": "83",
+            "name": "WindowParkany",
+            "team": "Underdogs"
+          },
+          {
+            "acs": "0.02\n0.02\n0.10",
+            "adr": "-14\n-12\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n13\n3\n\n/",
+            "deaths": "2\n1\n1",
+            "fk": "44\n38\n71",
+            "hs%": "27%\n17%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "53",
+            "name": "nexo",
+            "team": "Underdogs"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "Leare",
+          "team": null
+        },
+        {
+          "kills": "353",
+          "name": "Foxie",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "tsack",
+          "team": null
+        },
+        {
+          "kills": "132",
+          "name": "UNFAKE",
+          "team": null
+        },
+        {
+          "kills": "480",
+          "name": "k1zpawn",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "buyko",
+          "team": null
+        },
+        {
+          "kills": "142",
+          "name": "DrinkeZ",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "BuyKO",
+          "team": null
+        },
+        {
+          "kills": "79",
+          "name": "WindowParkany",
+          "team": null
+        },
+        {
+          "kills": "45",
+          "name": "nexo",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.86\n1.86\n1.86",
+            "adr": "+18\n+2\n+10",
+            "agent": "",
+            "assists": "/\n\n17\n1\n7\n\n/",
+            "deaths": "35\n3\n17",
+            "fk": "247\n199\n259",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "3\n0\n2",
+            "kills": "265",
+            "name": "Leare",
+            "team": null
+          },
+          {
+            "acs": "1.88\n1.50\n1.58",
+            "adr": "+20\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n3\n5\n\n/",
+            "deaths": "35\n4\n12",
+            "fk": "194\n193\n194",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "12\n3\n5",
+            "kills": "353",
+            "name": "Foxie",
+            "team": null
+          },
+          {
+            "acs": "0.53\n1.78\n1.53",
+            "adr": "+17\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n7\n1\n2\n\n/",
+            "deaths": "24\n0\n10",
+            "fk": "121\n\u00a0\n151",
+            "hs%": "87%\n67%\n92%",
+            "kdr": "5\n1\n3",
+            "kills": "212",
+            "name": "tsack",
+            "team": null
+          },
+          {
+            "acs": "0.45\n1.53\n1.31",
+            "adr": "+8\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n19\n3\n7\n\n/",
+            "deaths": "27\n1\n13",
+            "fk": "193\n90\n219",
+            "hs%": "87%\n67%\n92%",
+            "kdr": "13\n4\n5",
+            "kills": "132",
+            "name": "UNFAKE",
+            "team": null
+          },
+          {
+            "acs": "2.09\n1.08\n1.28",
+            "adr": "+6\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n2\n4\n\n/",
+            "deaths": "20\n6\n7",
+            "fk": "129\n269\n93",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "5\n0\n2",
+            "kills": "480",
+            "name": "k1zpawn",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.86\n1.06\n0.90",
+            "adr": "-11\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n28\n11\n3\n\n/",
+            "deaths": "17\n7\n3",
+            "fk": "141\n145\n126",
+            "hs%": "67%\n58%\n100%",
+            "kdr": "6\n2\n1",
+            "kills": "209",
+            "name": "buyko",
+            "team": null
+          },
+          {
+            "acs": "0.59\n1.58\n0.79",
+            "adr": "-13\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n27\n12\n2\n\n/",
+            "deaths": "14\n6\n4",
+            "fk": "116\n91\n218",
+            "hs%": "53%\n42%\n100%",
+            "kdr": "4\n1\n0",
+            "kills": "142",
+            "name": "DrinkeZ",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.51\n0.76",
+            "adr": "-8\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n27\n11\n3\n\n/",
+            "deaths": "19\n8\n1",
+            "fk": "136\n141\n115",
+            "hs%": "60%\n50%\n100%",
+            "kdr": "7\n1\n2",
+            "kills": "201",
+            "name": "BuyKO",
+            "team": null
+          },
+          {
+            "acs": "0.04\n0.19\n0.06",
+            "adr": "-15\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n29\n12\n3\n\n/",
+            "deaths": "14\n3\n1",
+            "fk": "55\n51\n71",
+            "hs%": "27%\n25%\n33%",
+            "kdr": "1\n0\n1",
+            "kills": "79",
+            "name": "WindowParkany",
+            "team": null
+          },
+          {
+            "acs": "0.02\n0.10\n0.02",
+            "adr": "-22\n-12\n-2",
+            "agent": "",
+            "assists": "/\n\n30\n13\n3\n\n/",
+            "deaths": "8\n1\n1",
+            "fk": "44\n38\n71",
+            "hs%": "27%\n17%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "45",
+            "name": "nexo",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "",
+          "name": "Foxie",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "",
+          "name": "Leare",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "",
+          "name": "tsack",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "",
+          "name": "UNFAKE",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "",
+          "name": "k1zpawn",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "",
+          "name": "BuyKO",
+          "team": "Underdogs"
+        },
+        {
+          "kills": "",
+          "name": "WindowParkany",
+          "team": "Underdogs"
+        },
+        {
+          "kills": "",
+          "name": "buyko",
+          "team": "Underdogs"
+        },
+        {
+          "kills": "",
+          "name": "nexo",
+          "team": "Underdogs"
+        },
+        {
+          "kills": "",
+          "name": "DrinkeZ",
+          "team": "Underdogs"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "",
+            "adr": "+12",
+            "agent": "",
+            "assists": "/\n\n7\n\n/",
+            "deaths": "19",
+            "fk": "",
+            "hs%": "",
+            "kdr": "4",
+            "kills": "",
+            "name": "Foxie",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "",
+            "adr": "+6",
+            "agent": "",
+            "assists": "/\n\n9\n\n/",
+            "deaths": "15",
+            "fk": "",
+            "hs%": "",
+            "kdr": "1",
+            "kills": "",
+            "name": "Leare",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "",
+            "adr": "+10",
+            "agent": "",
+            "assists": "/\n\n4\n\n/",
+            "deaths": "14",
+            "fk": "",
+            "hs%": "",
+            "kdr": "1",
+            "kills": "",
+            "name": "tsack",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "",
+            "adr": "+4",
+            "agent": "",
+            "assists": "/\n\n9\n\n/",
+            "deaths": "13",
+            "fk": "",
+            "hs%": "",
+            "kdr": "4",
+            "kills": "",
+            "name": "UNFAKE",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "",
+            "adr": "-1",
+            "agent": "",
+            "assists": "/\n\n8\n\n/",
+            "deaths": "7",
+            "fk": "",
+            "hs%": "",
+            "kdr": "3",
+            "kills": "",
+            "name": "k1zpawn",
+            "team": "Team Queso"
+          }
+        ],
+        [
+          {
+            "acs": "",
+            "adr": "-3",
+            "agent": "",
+            "assists": "/\n\n13\n\n/",
+            "deaths": "10",
+            "fk": "",
+            "hs%": "",
+            "kdr": "4",
+            "kills": "",
+            "name": "BuyKO",
+            "team": "Underdogs"
+          },
+          {
+            "acs": "",
+            "adr": "-4",
+            "agent": "",
+            "assists": "/\n\n14\n\n/",
+            "deaths": "10",
+            "fk": "",
+            "hs%": "",
+            "kdr": "0",
+            "kills": "",
+            "name": "WindowParkany",
+            "team": "Underdogs"
+          },
+          {
+            "acs": "",
+            "adr": "-7",
+            "agent": "",
+            "assists": "/\n\n14\n\n/",
+            "deaths": "7",
+            "fk": "",
+            "hs%": "",
+            "kdr": "3",
+            "kills": "",
+            "name": "buyko",
+            "team": "Underdogs"
+          },
+          {
+            "acs": "",
+            "adr": "-8",
+            "agent": "",
+            "assists": "/\n\n14\n\n/",
+            "deaths": "6",
+            "fk": "",
+            "hs%": "",
+            "kdr": "0",
+            "kills": "",
+            "name": "nexo",
+            "team": "Underdogs"
+          },
+          {
+            "acs": "",
+            "adr": "-9",
+            "agent": "",
+            "assists": "/\n\n13\n\n/",
+            "deaths": "4",
+            "fk": "",
+            "hs%": "",
+            "kdr": "3",
+            "kills": "",
+            "name": "DrinkeZ",
+            "team": "Underdogs"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 64554,
+  "teams": [
+    "Team Queso",
+    "Underdogs"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 256"
+}

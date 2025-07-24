@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-30 09:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "249",
+          "name": "Dawn",
+          "team": "bref"
+        },
+        {
+          "kills": "278",
+          "name": "mikee",
+          "team": "bref"
+        },
+        {
+          "kills": "266",
+          "name": "Fatiiiih",
+          "team": "bref"
+        },
+        {
+          "kills": "240",
+          "name": "Yuta",
+          "team": "bref"
+        },
+        {
+          "kills": "91",
+          "name": "Newzera",
+          "team": "bref"
+        },
+        {
+          "kills": "238",
+          "name": "Moestii",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "215",
+          "name": "dash",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "218",
+          "name": "LDP",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "171",
+          "name": "Flickless",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "117",
+          "name": "Nakirye",
+          "team": "PASCHKA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.55\n0.97\n2.19",
+            "adr": "+10\n-1\n+11",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "178\n151\n208",
+            "hs%": "91%\n83%\n100%",
+            "kdr": "15\n6\n9",
+            "kills": "249",
+            "name": "Dawn",
+            "team": "bref"
+          },
+          {
+            "acs": "1.53\n1.48\n1.59",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "200\n184\n219",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "5\n1\n4",
+            "kills": "278",
+            "name": "mikee",
+            "team": "bref"
+          },
+          {
+            "acs": "1.26\n0.78\n1.77",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "185\n123\n253",
+            "hs%": "91%\n92%\n91%",
+            "kdr": "16\n6\n10",
+            "kills": "266",
+            "name": "Fatiiiih",
+            "team": "bref"
+          },
+          {
+            "acs": "0.96\n1.38\n0.50",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "151\n184\n115",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "7\n4\n3",
+            "kills": "240",
+            "name": "Yuta",
+            "team": "bref"
+          },
+          {
+            "acs": "0.88\n0.67\n1.11",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "70\n80\n59",
+            "hs%": "91%\n83%\n100%",
+            "kdr": "21\n7\n14",
+            "kills": "91",
+            "name": "Newzera",
+            "team": "bref"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n1.35\n1.02",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "134\n158\n112",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "238",
+            "name": "Moestii",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "1.12\n1.16\n1.09",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "158\n164\n154",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "11\n3\n8",
+            "kills": "215",
+            "name": "dash",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "0.74\n0.73\n0.75",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "152\n158\n147",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "9\n5\n4",
+            "kills": "218",
+            "name": "LDP",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "0.64\n0.03\n1.23",
+            "adr": "-5\n-9\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "101\n53\n144",
+            "hs%": "52%\n36%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "171",
+            "name": "Flickless",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "0.60\n0.25\n0.93",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "82\n64\n99",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "9\n6\n3",
+            "kills": "117",
+            "name": "Nakirye",
+            "team": "PASCHKA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "294",
+          "name": "mikee",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "Dawn",
+          "team": null
+        },
+        {
+          "kills": "237",
+          "name": "Fatiiiih",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "Newzera",
+          "team": null
+        },
+        {
+          "kills": "280",
+          "name": "Yuta",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "Moestii",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "dash",
+          "team": null
+        },
+        {
+          "kills": "88",
+          "name": "Flickless",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "LDP",
+          "team": null
+        },
+        {
+          "kills": "115",
+          "name": "Nakirye",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.61\n1.90\n1.74",
+            "adr": "+38\n+18\n+20",
+            "agent": "",
+            "assists": "/\n\n29\n16\n13\n\n/",
+            "deaths": "67\n34\n33",
+            "fk": "224\n199\n257",
+            "hs%": "87%\n87%\n88%",
+            "kdr": "19\n8\n11",
+            "kills": "294",
+            "name": "mikee",
+            "team": null
+          },
+          {
+            "acs": "1.29\n1.79\n1.51",
+            "adr": "+26\n+9\n+17",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "48\n22\n26",
+            "fk": "161\n135\n195",
+            "hs%": "93%\n90%\n96%",
+            "kdr": "29\n17\n12",
+            "kills": "194",
+            "name": "Dawn",
+            "team": null
+          },
+          {
+            "acs": "1.24\n1.43\n1.32",
+            "adr": "+13\n+4\n+9",
+            "agent": "",
+            "assists": "/\n\n36\n20\n16\n\n/",
+            "deaths": "49\n24\n25",
+            "fk": "171\n159\n185",
+            "hs%": "93%\n90%\n96%",
+            "kdr": "29\n12\n17",
+            "kills": "237",
+            "name": "Fatiiiih",
+            "team": null
+          },
+          {
+            "acs": "1.06\n1.31\n1.17",
+            "adr": "+12\n+1\n+11",
+            "agent": "",
+            "assists": "/\n\n22\n17\n5\n\n/",
+            "deaths": "34\n18\n16",
+            "fk": "103\n95\n112",
+            "hs%": "91%\n87%\n96%",
+            "kdr": "30\n16\n14",
+            "kills": "139",
+            "name": "Newzera",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.90\n1.10",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n35\n21\n14\n\n/",
+            "deaths": "44\n28\n16",
+            "fk": "153\n186\n111",
+            "hs%": "89%\n87%\n92%",
+            "kdr": "11\n8\n3",
+            "kills": "280",
+            "name": "Yuta",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.01\n0.81\n0.90",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n47\n22\n25\n\n/",
+            "deaths": "37\n17\n20",
+            "fk": "111\n114\n109",
+            "hs%": "63%\n67%\n60%",
+            "kdr": "15\n9\n6",
+            "kills": "198",
+            "name": "Moestii",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.65\n0.71",
+            "adr": "-19\n-5\n-14",
+            "agent": "",
+            "assists": "/\n\n47\n22\n25\n\n/",
+            "deaths": "28\n17\n11",
+            "fk": "112\n132\n97",
+            "hs%": "50%\n54%\n47%",
+            "kdr": "14\n3\n11",
+            "kills": "195",
+            "name": "dash",
+            "team": null
+          },
+          {
+            "acs": "0.18\n1.02\n0.63",
+            "adr": "-19\n-19\n0",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "29\n5\n24",
+            "fk": "100\n65\n129",
+            "hs%": "50%\n33%\n63%",
+            "kdr": "8\n4\n4",
+            "kills": "88",
+            "name": "Flickless",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.58\n0.57",
+            "adr": "-22\n-10\n-12",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "29\n14\n15",
+            "fk": "121\n125\n118",
+            "hs%": "57%\n50%\n63%",
+            "kdr": "13\n6\n7",
+            "kills": "189",
+            "name": "LDP",
+            "team": null
+          },
+          {
+            "acs": "0.36\n0.59\n0.48",
+            "adr": "-28\n-18\n-10",
+            "agent": "",
+            "assists": "/\n\n49\n25\n24\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "87\n86\n87",
+            "hs%": "56%\n46%\n63%",
+            "kdr": "11\n7\n4",
+            "kills": "115",
+            "name": "Nakirye",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "420",
+          "name": "mikee",
+          "team": "bref"
+        },
+        {
+          "kills": "175",
+          "name": "Yuta",
+          "team": "bref"
+        },
+        {
+          "kills": "272",
+          "name": "Dawn",
+          "team": "bref"
+        },
+        {
+          "kills": "251",
+          "name": "Newzera",
+          "team": "bref"
+        },
+        {
+          "kills": "204",
+          "name": "Fatiiiih",
+          "team": "bref"
+        },
+        {
+          "kills": "181",
+          "name": "Moestii",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "211",
+          "name": "Flickless",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "130",
+          "name": "Nakirye",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "80",
+          "name": "dash",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "212",
+          "name": "LDP",
+          "team": "PASCHKA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.71\n1.07\n2.03",
+            "adr": "+14\n+1\n+13",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "23\n5\n18",
+            "fk": "243\n168\n281",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "9\n3\n6",
+            "kills": "420",
+            "name": "mikee",
+            "team": "bref"
+          },
+          {
+            "acs": "1.34\n1.47\n1.27",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "150\n248\n101",
+            "hs%": "94%\n83%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "175",
+            "name": "Yuta",
+            "team": "bref"
+          },
+          {
+            "acs": "1.33\n1.16\n1.41",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "168\n118\n194",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "7\n5\n2",
+            "kills": "272",
+            "name": "Dawn",
+            "team": "bref"
+          },
+          {
+            "acs": "1.30\n0.88\n1.51",
+            "adr": "+8\n-2\n+10",
+            "agent": "",
+            "assists": "/\n\n6\n4\n2\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "136\n69\n170",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "2\n2\n0",
+            "kills": "251",
+            "name": "Newzera",
+            "team": "bref"
+          },
+          {
+            "acs": "1.23\n1.36\n1.17",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "138\n162\n127",
+            "hs%": "94%\n83%\n100%",
+            "kdr": "7\n0\n7",
+            "kills": "204",
+            "name": "Fatiiiih",
+            "team": "bref"
+          }
+        ],
+        [
+          {
+            "acs": "0.79\n0.72\n0.94",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "95\n82\n120",
+            "hs%": "61%\n50%\n83%",
+            "kdr": "9\n6\n3",
+            "kills": "181",
+            "name": "Moestii",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "0.72\n0.32\n1.51",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "96\n81\n125",
+            "hs%": "44%\n33%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "211",
+            "name": "Flickless",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "0.55\n0.49\n0.67",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n13\n5\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "112\n114\n109",
+            "hs%": "50%\n42%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "130",
+            "name": "Nakirye",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "0.47\n0.49\n0.43",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "9\n9\n0",
+            "fk": "89\n100\n66",
+            "hs%": "50%\n58%\n33%",
+            "kdr": "2\n0\n2",
+            "kills": "80",
+            "name": "dash",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "0.42\n0.31\n0.65",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "98\n85\n124",
+            "hs%": "33%\n17%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "212",
+            "name": "LDP",
+            "team": "PASCHKA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "394",
+          "name": "mikee",
+          "team": "bref"
+        },
+        {
+          "kills": "198",
+          "name": "Dawn",
+          "team": "bref"
+        },
+        {
+          "kills": "275",
+          "name": "Fatiiiih",
+          "team": "bref"
+        },
+        {
+          "kills": "180",
+          "name": "Newzera",
+          "team": "bref"
+        },
+        {
+          "kills": "225",
+          "name": "Yuta",
+          "team": "bref"
+        },
+        {
+          "kills": "144",
+          "name": "Moestii",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "150",
+          "name": "Flickless",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "139",
+          "name": "LDP",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "90",
+          "name": "dash",
+          "team": "PASCHKA"
+        },
+        {
+          "kills": "100",
+          "name": "Nakirye",
+          "team": "PASCHKA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "2.14\n2.00\n3.88",
+            "adr": "+15\n+13\n+2",
+            "agent": "",
+            "assists": "/\n\n4\n4\n0\n\n/",
+            "deaths": "19\n17\n2",
+            "fk": "241\n229\n381",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "394",
+            "name": "mikee",
+            "team": "bref"
+          },
+          {
+            "acs": "1.69\n1.67\n1.90",
+            "adr": "+10\n+9\n+1",
+            "agent": "",
+            "assists": "/\n\n2\n2\n0\n\n/",
+            "deaths": "12\n11\n1",
+            "fk": "122\n127\n62",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "7\n6\n1",
+            "kills": "198",
+            "name": "Dawn",
+            "team": "bref"
+          },
+          {
+            "acs": "1.56\n1.62\n0.87",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "12\n11\n1",
+            "fk": "189\n194\n130",
+            "hs%": "92%\n92%\n100%",
+            "kdr": "6\n6\n0",
+            "kills": "275",
+            "name": "Fatiiiih",
+            "team": "bref"
+          },
+          {
+            "acs": "1.50\n1.53\n1.15",
+            "adr": "+7\n+8\n-1",
+            "agent": "",
+            "assists": "/\n\n3\n3\n0\n\n/",
+            "deaths": "10\n11\n-1",
+            "fk": "114\n123",
+            "hs%": "92%\n92%\n100%",
+            "kdr": "7\n7\n0",
+            "kills": "180",
+            "name": "Newzera",
+            "team": "bref"
+          },
+          {
+            "acs": "1.01\n1.03\n0.76",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "160\n158\n195",
+            "hs%": "92%\n92%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "225",
+            "name": "Yuta",
+            "team": "bref"
+          }
+        ],
+        [
+          {
+            "acs": "0.55\n0.68\n0.54",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n1\n12\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "93\n0\n101",
+            "hs%": "46%\n100%\n42%",
+            "kdr": "3\n2\n1",
+            "kills": "144",
+            "name": "Moestii",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "0.49\n0.01\n0.57",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n1\n13\n\n/",
+            "deaths": "6\n0\n6",
+            "fk": "106\n0\n115",
+            "hs%": "54%\n0%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "150",
+            "name": "Flickless",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "0.47\n1.68\n0.37",
+            "adr": "-7\n+1\n-8",
+            "agent": "",
+            "assists": "/\n\n12\n1\n11\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "98\n240\n87",
+            "hs%": "54%\n100%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "139",
+            "name": "LDP",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "0.33\n0.28\n0.33",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n12\n1\n11\n\n/",
+            "deaths": "3\n0\n3",
+            "fk": "64\n171\n55",
+            "hs%": "31%\n0%\n33%",
+            "kdr": "1\n0\n1",
+            "kills": "90",
+            "name": "dash",
+            "team": "PASCHKA"
+          },
+          {
+            "acs": "0.17\n0.01\n0.21",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n12\n1\n11\n\n/",
+            "deaths": "4\n0\n4",
+            "fk": "60\n0\n65",
+            "hs%": "38%\n0%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "100",
+            "name": "Nakirye",
+            "team": "PASCHKA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 67104,
+  "teams": [
+    "bref",
+    "PASCHKA"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tSemifinals"
+}

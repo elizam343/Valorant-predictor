@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-15 23:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "366",
+          "name": "tixx",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "268",
+          "name": "NiceHacks",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "178",
+          "name": "skrawl",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "166",
+          "name": "daiK",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "177",
+          "name": "Minimise",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "237",
+          "name": "Rackem",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "227",
+          "name": "clutchyy",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "212",
+          "name": "ANDY",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "146",
+          "name": "junglew0w",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "173",
+          "name": "ninim",
+          "team": "MEOW MEOW"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.93\n1.86\n1.98",
+            "adr": "+18\n+9\n+9",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "30\n14\n16",
+            "fk": "246\n243\n248",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "366",
+            "name": "tixx",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "1.06\n1.28\n0.89",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "172\n189\n158",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "268",
+            "name": "NiceHacks",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "0.97\n1.62\n0.43",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "139\n203\n86",
+            "hs%": "59%\n80%\n42%",
+            "kdr": "5\n4\n1",
+            "kills": "178",
+            "name": "skrawl",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "0.88\n0.92\n0.86",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "118\n109\n125",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "166",
+            "name": "daiK",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "0.67\n0.25\n1.02",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "117\n83\n145",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "5\n4\n1",
+            "kills": "177",
+            "name": "Minimise",
+            "team": "Bonkers"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.55\n1.09",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "150\n174\n121",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "10\n8\n2",
+            "kills": "237",
+            "name": "Rackem",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "0.99\n0.83\n1.18",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "157\n138\n181",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "6\n4\n2",
+            "kills": "227",
+            "name": "clutchyy",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "0.90\n1.06\n0.71",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "147\n148\n145",
+            "hs%": "50%\n58%\n40%",
+            "kdr": "4\n2\n2",
+            "kills": "212",
+            "name": "ANDY",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "0.72\n0.46\n1.03",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "94\n66\n128",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "1\n0\n1",
+            "kills": "146",
+            "name": "junglew0w",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "0.48\n0.75\n0.17",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "112\n148\n70",
+            "hs%": "50%\n58%\n40%",
+            "kdr": "4\n2\n2",
+            "kills": "173",
+            "name": "ninim",
+            "team": "MEOW MEOW"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "183",
+          "name": "tixx",
+          "team": null
+        },
+        {
+          "kills": "255",
+          "name": "NiceHacks",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "skrawl",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "Minimise",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "daiK",
+          "team": null
+        },
+        {
+          "kills": "237",
+          "name": "clutchyy",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "junglew0w",
+          "team": null
+        },
+        {
+          "kills": "261",
+          "name": "ninim",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "Rackem",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "ANDY",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.50\n1.26",
+            "adr": "+12\n+1\n+11",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "56\n23\n33",
+            "fk": "160\n131\n190",
+            "hs%": "67%\n62%\n73%",
+            "kdr": "10\n4\n6",
+            "kills": "183",
+            "name": "tixx",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.19\n1.15",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n55\n27\n28\n\n/",
+            "deaths": "59\n30\n29",
+            "fk": "180\n173\n188",
+            "hs%": "72%\n71%\n73%",
+            "kdr": "14\n7\n7",
+            "kills": "255",
+            "name": "NiceHacks",
+            "team": null
+          },
+          {
+            "acs": "1.11\n0.76\n0.94",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n51\n27\n24\n\n/",
+            "deaths": "47\n28\n19",
+            "fk": "133\n154\n113",
+            "hs%": "64%\n76%\n52%",
+            "kdr": "18\n14\n4",
+            "kills": "222",
+            "name": "skrawl",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.90\n0.93",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n53\n27\n26\n\n/",
+            "deaths": "48\n26\n22",
+            "fk": "144\n158\n131",
+            "hs%": "78%\n76%\n79%",
+            "kdr": "17\n8\n9",
+            "kills": "222",
+            "name": "Minimise",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.59\n0.65",
+            "adr": "-21\n-9\n-12",
+            "agent": "",
+            "assists": "/\n\n54\n27\n27\n\n/",
+            "deaths": "33\n18\n15",
+            "fk": "109\n117\n101",
+            "hs%": "72%\n74%\n70%",
+            "kdr": "20\n10\n10",
+            "kills": "157",
+            "name": "daiK",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.00\n1.10",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n49\n23\n26\n\n/",
+            "deaths": "55\n30\n25",
+            "fk": "158\n158\n159",
+            "hs%": "76%\n85%\n68%",
+            "kdr": "16\n10\n6",
+            "kills": "237",
+            "name": "clutchyy",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.09\n1.06",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n46\n22\n24\n\n/",
+            "deaths": "56\n25\n31",
+            "fk": "135\n122\n148",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "10\n5\n5",
+            "kills": "184",
+            "name": "junglew0w",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.91\n0.98",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "54\n29\n25",
+            "fk": "149\n165\n134",
+            "hs%": "64%\n67%\n62%",
+            "kdr": "9\n5\n4",
+            "kills": "261",
+            "name": "ninim",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.99\n0.94",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "45\n21\n24",
+            "fk": "121\n114\n128",
+            "hs%": "70%\n67%\n74%",
+            "kdr": "21\n13\n8",
+            "kills": "178",
+            "name": "Rackem",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.01\n0.93",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "47\n22\n25",
+            "fk": "132\n126\n139",
+            "hs%": "66%\n55%\n76%",
+            "kdr": "11\n4\n7",
+            "kills": "192",
+            "name": "ANDY",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "348",
+          "name": "NiceHacks",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "182",
+          "name": "skrawl",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "119",
+          "name": "Minimise",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "191",
+          "name": "tixx",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "132",
+          "name": "daiK",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "342",
+          "name": "junglew0w",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "192",
+          "name": "clutchyy",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "259",
+          "name": "ANDY",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "150",
+          "name": "ninim",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "161",
+          "name": "Rackem",
+          "team": "MEOW MEOW"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.13\n0.67\n1.63",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "174\n123\n229",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "4\n2\n2",
+            "kills": "348",
+            "name": "NiceHacks",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "1.06\n1.01\n1.12",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "132\n134\n129",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "4\n2\n2",
+            "kills": "182",
+            "name": "skrawl",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "0.98\n1.29\n0.64",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "143\n192\n91",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "7\n2\n5",
+            "kills": "119",
+            "name": "Minimise",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "0.87\n0.64\n1.13",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "107\n84\n133",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "7\n2\n5",
+            "kills": "191",
+            "name": "tixx",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "0.60\n0.67\n0.53",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "115\n130\n100",
+            "hs%": "83%\n92%\n73%",
+            "kdr": "12\n5\n7",
+            "kills": "132",
+            "name": "daiK",
+            "team": "Bonkers"
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.03\n1.68",
+            "adr": "+13\n+2\n+11",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "27\n10\n17",
+            "fk": "167\n138\n194",
+            "hs%": "87%\n91%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "342",
+            "name": "junglew0w",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "1.25\n1.71\n0.82",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "182\n228\n140",
+            "hs%": "83%\n91%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "192",
+            "name": "clutchyy",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "1.01\n0.75\n1.25",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "136\n100\n169",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "259",
+            "name": "ANDY",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "0.97\n1.19\n0.76",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "133\n170\n99",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "150",
+            "name": "ninim",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "0.61\n0.45\n0.75",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "93\n66\n117",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "161",
+            "name": "Rackem",
+            "team": "MEOW MEOW"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "282",
+          "name": "NiceHacks",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "249",
+          "name": "Minimise",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "183",
+          "name": "tixx",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "175",
+          "name": "skrawl",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "132",
+          "name": "daiK",
+          "team": "Bonkers"
+        },
+        {
+          "kills": "312",
+          "name": "ninim",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "200",
+          "name": "clutchyy",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "210",
+          "name": "junglew0w",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "182",
+          "name": "ANDY",
+          "team": "MEOW MEOW"
+        },
+        {
+          "kills": "192",
+          "name": "Rackem",
+          "team": "MEOW MEOW"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.26\n1.42\n1.06",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "196\n211\n177",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "7\n3\n4",
+            "kills": "282",
+            "name": "NiceHacks",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "1.15\n1.23\n1.04",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "173\n186\n157",
+            "hs%": "86%\n92%\n80%",
+            "kdr": "5\n2\n3",
+            "kills": "249",
+            "name": "Minimise",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "0.99\n0.71\n1.34",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "129\n84\n183",
+            "hs%": "59%\n50%\n70%",
+            "kdr": "2\n2\n0",
+            "kills": "183",
+            "name": "tixx",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "0.77\n0.78\n0.76",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "129\n133\n126",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "9\n8\n1",
+            "kills": "175",
+            "name": "skrawl",
+            "team": "Bonkers"
+          },
+          {
+            "acs": "0.48\n0.59\n0.35",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "93\n110\n72",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "5\n3\n2",
+            "kills": "132",
+            "name": "daiK",
+            "team": "Bonkers"
+          }
+        ],
+        [
+          {
+            "acs": "1.50\n1.28\n1.68",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "202\n179\n222",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "312",
+            "name": "ninim",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "1.07\n1.12\n1.02",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "134\n105\n159",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "7\n4\n3",
+            "kills": "200",
+            "name": "clutchyy",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "1.07\n1.70\n0.55",
+            "adr": "+2\n+6\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "141\n170\n117",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "210",
+            "name": "junglew0w",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "0.89\n0.72\n1.02",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "114\n127\n103",
+            "hs%": "68%\n40%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "182",
+            "name": "ANDY",
+            "team": "MEOW MEOW"
+          },
+          {
+            "acs": "0.87\n0.55\n1.14",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "122\n96\n144",
+            "hs%": "68%\n50%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "192",
+            "name": "Rackem",
+            "team": "MEOW MEOW"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 64160,
+  "teams": [
+    "Bonkers",
+    "MEOW MEOW"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tConsolation Finals"
+}

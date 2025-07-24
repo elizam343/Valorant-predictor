@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-28 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "315",
+          "name": "SoOn",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "214",
+          "name": "Shazeon",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "215",
+          "name": "BennY",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "167",
+          "name": "Leon",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "120",
+          "name": "blitzeN",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "237",
+          "name": "al0rante",
+          "team": "MMix"
+        },
+        {
+          "kills": "177",
+          "name": "Amilwa",
+          "team": "MMix"
+        },
+        {
+          "kills": "190",
+          "name": "memset",
+          "team": "MMix"
+        },
+        {
+          "kills": "184",
+          "name": "Luzuh",
+          "team": "MMix"
+        },
+        {
+          "kills": "130",
+          "name": "Kryptix",
+          "team": "MMix"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.31\n0.79\n1.94",
+            "adr": "+9\n-1\n+10",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "186\n143\n237",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "3\n3\n0",
+            "kills": "315",
+            "name": "SoOn",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "1.10\n1.03\n1.20",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "147\n161\n129",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "6\n3\n3",
+            "kills": "214",
+            "name": "Shazeon",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "1.10\n1.09\n1.11",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "138\n161\n111",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "3\n0\n3",
+            "kills": "215",
+            "name": "BennY",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "0.95\n0.84\n1.09",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "129\n122\n137",
+            "hs%": "77%\n67%\n90%",
+            "kdr": "6\n5\n1",
+            "kills": "167",
+            "name": "Leon",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "0.59\n0.60\n0.57",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "76\n81\n71",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "2\n0\n2",
+            "kills": "120",
+            "name": "blitzeN",
+            "team": "CGN Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n1.13\n0.98",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "156\n137\n172",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "237",
+            "name": "al0rante",
+            "team": "MMix"
+          },
+          {
+            "acs": "0.91\n0.94\n0.89",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "117\n123\n113",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "10\n4\n6",
+            "kills": "177",
+            "name": "Amilwa",
+            "team": "MMix"
+          },
+          {
+            "acs": "0.88\n0.43\n1.25",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "127\n55\n187",
+            "hs%": "59%\n50%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "190",
+            "name": "memset",
+            "team": "MMix"
+          },
+          {
+            "acs": "0.86\n0.25\n1.38",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "109\n38\n168",
+            "hs%": "55%\n30%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "184",
+            "name": "Luzuh",
+            "team": "MMix"
+          },
+          {
+            "acs": "0.76\n0.92\n0.63",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "91\n99\n84",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "130",
+            "name": "Kryptix",
+            "team": "MMix"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "195",
+          "name": "SoOn",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "blitzeN",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "BennY",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "Shazeon",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "Leon",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "memset",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "al0rante",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Kryptix",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "Luzuh",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "Amilwa",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.09\n1.44\n1.27",
+            "adr": "+14\n0\n+14",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "58\n22\n36",
+            "fk": "157\n135\n177",
+            "hs%": "74%\n66%\n82%",
+            "kdr": "20\n13\n7",
+            "kills": "195",
+            "name": "SoOn",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.32\n0.98",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "47\n17\n30",
+            "fk": "133\n100\n165",
+            "hs%": "66%\n56%\n76%",
+            "kdr": "8\n2\n6",
+            "kills": "148",
+            "name": "blitzeN",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.95\n0.89",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "45\n23\n22",
+            "fk": "143\n141\n145",
+            "hs%": "71%\n66%\n76%",
+            "kdr": "19\n7\n12",
+            "kills": "218",
+            "name": "BennY",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.75\n0.81",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "41\n25\n16",
+            "fk": "119\n139\n100",
+            "hs%": "72%\n75%\n70%",
+            "kdr": "18\n9\n9",
+            "kills": "219",
+            "name": "Shazeon",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.79\n0.78",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "36\n18\n18",
+            "fk": "105\n116\n95",
+            "hs%": "74%\n72%\n76%",
+            "kdr": "15\n11\n4",
+            "kills": "158",
+            "name": "Leon",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n1.38\n1.21",
+            "adr": "+15\n+1\n+14",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "59\n26\n33",
+            "fk": "165\n138\n194",
+            "hs%": "74%\n70%\n78%",
+            "kdr": "11\n7\n4",
+            "kills": "220",
+            "name": "memset",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.35\n1.06",
+            "adr": "+8\n-3\n+11",
+            "agent": "",
+            "assists": "/\n\n54\n28\n26\n\n/",
+            "deaths": "62\n25\n37",
+            "fk": "170\n130\n210",
+            "hs%": "66%\n58%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "197",
+            "name": "al0rante",
+            "team": null
+          },
+          {
+            "acs": "1.06\n1.05\n1.05",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n39\n23\n16\n\n/",
+            "deaths": "41\n20\n21",
+            "fk": "123\n116\n130",
+            "hs%": "71%\n64%\n78%",
+            "kdr": "20\n11\n9",
+            "kills": "167",
+            "name": "Kryptix",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.11\n0.93",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "47\n22\n25",
+            "fk": "123\n112\n134",
+            "hs%": "63%\n52%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "172",
+            "name": "Luzuh",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.80\n0.88",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n43\n24\n19\n\n/",
+            "deaths": "35\n20\n15",
+            "fk": "119\n130\n107",
+            "hs%": "71%\n64%\n78%",
+            "kdr": "19\n9\n10",
+            "kills": "185",
+            "name": "Amilwa",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "238",
+          "name": "blitzeN",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "253",
+          "name": "SoOn",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "209",
+          "name": "BennY",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "122",
+          "name": "Leon",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "183",
+          "name": "Shazeon",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "293",
+          "name": "memset",
+          "team": "MMix"
+        },
+        {
+          "kills": "279",
+          "name": "Kryptix",
+          "team": "MMix"
+        },
+        {
+          "kills": "110",
+          "name": "Amilwa",
+          "team": "MMix"
+        },
+        {
+          "kills": "179",
+          "name": "Luzuh",
+          "team": "MMix"
+        },
+        {
+          "kills": "368",
+          "name": "al0rante",
+          "team": "MMix"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.07\n0.70\n1.31",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "138\n109\n157",
+            "hs%": "60%\n38%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "238",
+            "name": "blitzeN",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "0.83\n0.29\n1.20",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "101\n36\n145",
+            "hs%": "60%\n38%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "253",
+            "name": "SoOn",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "0.77\n0.66\n0.85",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "122\n82\n148",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "209",
+            "name": "BennY",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "0.77\n0.78\n0.75",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "106\n123\n94",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "122",
+            "name": "Leon",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "0.77\n0.64\n0.85",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "129\n129\n129",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "183",
+            "name": "Shazeon",
+            "team": "CGN Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n1.44\n1.14",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "191\n190\n192",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "293",
+            "name": "memset",
+            "team": "MMix"
+          },
+          {
+            "acs": "1.13\n0.84\n1.56",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "144\n94\n219",
+            "hs%": "85%\n75%\n100%",
+            "kdr": "10\n6\n4",
+            "kills": "279",
+            "name": "Kryptix",
+            "team": "MMix"
+          },
+          {
+            "acs": "1.12\n1.02\n1.27",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "120\n140\n90",
+            "hs%": "75%\n67%\n88%",
+            "kdr": "4\n2\n2",
+            "kills": "110",
+            "name": "Amilwa",
+            "team": "MMix"
+          },
+          {
+            "acs": "1.11\n1.06\n1.19",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "139\n154\n117",
+            "hs%": "75%\n58%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "179",
+            "name": "Luzuh",
+            "team": "MMix"
+          },
+          {
+            "acs": "1.11\n0.64\n1.80",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "186\n141\n253",
+            "hs%": "60%\n42%\n88%",
+            "kdr": "3\n1\n2",
+            "kills": "368",
+            "name": "al0rante",
+            "team": "MMix"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "257",
+          "name": "SoOn",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "305",
+          "name": "blitzeN",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "235",
+          "name": "BennY",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "121",
+          "name": "Leon",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "126",
+          "name": "Shazeon",
+          "team": "CGN Esports"
+        },
+        {
+          "kills": "268",
+          "name": "memset",
+          "team": "MMix"
+        },
+        {
+          "kills": "202",
+          "name": "Kryptix",
+          "team": "MMix"
+        },
+        {
+          "kills": "292",
+          "name": "al0rante",
+          "team": "MMix"
+        },
+        {
+          "kills": "190",
+          "name": "Luzuh",
+          "team": "MMix"
+        },
+        {
+          "kills": "157",
+          "name": "Amilwa",
+          "team": "MMix"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.60\n1.92\n1.26",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "177\n194\n159",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "14\n8\n6",
+            "kills": "257",
+            "name": "SoOn",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "1.27\n0.60\n2.01",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "183\n113\n260",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "2\n0\n2",
+            "kills": "305",
+            "name": "blitzeN",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "0.79\n0.66\n0.92",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "166\n159\n173",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "12\n6\n6",
+            "kills": "235",
+            "name": "BennY",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "0.62\n0.68\n0.55",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "82\n104\n58",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "5\n4\n1",
+            "kills": "121",
+            "name": "Leon",
+            "team": "CGN Esports"
+          },
+          {
+            "acs": "0.57\n0.87\n0.24",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "84\n123\n42",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "6\n5\n1",
+            "kills": "126",
+            "name": "Shazeon",
+            "team": "CGN Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.43\n1.15\n1.68",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "180\n157\n202",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "8\n5\n3",
+            "kills": "268",
+            "name": "memset",
+            "team": "MMix"
+          },
+          {
+            "acs": "1.27\n1.42\n1.13",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "136\n155\n118",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "202",
+            "name": "Kryptix",
+            "team": "MMix"
+          },
+          {
+            "acs": "1.02\n0.60\n1.41",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "169\n113\n220",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "292",
+            "name": "al0rante",
+            "team": "MMix"
+          },
+          {
+            "acs": "0.82\n0.86\n0.79",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "123\n134\n113",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "190",
+            "name": "Luzuh",
+            "team": "MMix"
+          },
+          {
+            "acs": "0.63\n0.91\n0.39",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "118\n124\n113",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "157",
+            "name": "Amilwa",
+            "team": "MMix"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 66611,
+  "teams": [
+    "MMix",
+    "CGN Esports"
+  ],
+  "tournament": "Qualifier: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

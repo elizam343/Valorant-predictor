@@ -1,0 +1,594 @@
+{
+  "date": "2021-07-02 17:00:22",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "340",
+          "name": "pl1xx",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "250",
+          "name": "dizzyLife",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "187",
+          "name": "iyen",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "162",
+          "name": "Crunchy",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "145",
+          "name": "Bob",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "293",
+          "name": "RetrQ",
+          "team": "Renegades"
+        },
+        {
+          "kills": "201",
+          "name": "Jerk",
+          "team": "Renegades"
+        },
+        {
+          "kills": "198",
+          "name": "ROY",
+          "team": "Renegades"
+        },
+        {
+          "kills": "155",
+          "name": "randyySAVAGE",
+          "team": "Renegades"
+        },
+        {
+          "kills": "184",
+          "name": "Winsum",
+          "team": "Renegades"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.55\n1.38\n1.73",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "26\n12\n14",
+            "fk": "201\n178\n227",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "8\n3\n5",
+            "kills": "340",
+            "name": "pl1xx",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "1.26\n1.35\n1.16",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "158\n174\n140",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "6\n2\n4",
+            "kills": "250",
+            "name": "dizzyLife",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "1.15\n1.04\n1.28",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "128\n113\n144",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "10\n3\n7",
+            "kills": "187",
+            "name": "iyen",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.85\n0.58\n1.14",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "108\n92\n126",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "2\n2\n0",
+            "kills": "162",
+            "name": "Crunchy",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.70\n0.58\n0.83",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "102\n112\n92",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "10\n4\n6",
+            "kills": "145",
+            "name": "Bob",
+            "team": "Soniqs"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n1.05\n1.70",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "167\n141\n191",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "3\n3\n0",
+            "kills": "293",
+            "name": "RetrQ",
+            "team": "Renegades"
+          },
+          {
+            "acs": "0.97\n1.15\n0.80",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "137\n155\n120",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "10\n2\n8",
+            "kills": "201",
+            "name": "Jerk",
+            "team": "Renegades"
+          },
+          {
+            "acs": "0.92\n0.71\n1.12",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "126\n91\n158",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "198",
+            "name": "ROY",
+            "team": "Renegades"
+          },
+          {
+            "acs": "0.67\n0.38\n0.93",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "118\n98\n136",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "155",
+            "name": "randyySAVAGE",
+            "team": "Renegades"
+          },
+          {
+            "acs": "0.54\n0.63\n0.46",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "116\n115\n116",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "184",
+            "name": "Winsum",
+            "team": "Renegades"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "277",
+          "name": "pl1xx",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "dizzyLife",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "iyen",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "Crunchy",
+          "team": null
+        },
+        {
+          "kills": "122",
+          "name": "Bob",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "RetrQ",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "Jerk",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "Winsum",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "ROY",
+          "team": null
+        },
+        {
+          "kills": "110",
+          "name": "randyySAVAGE",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.30\n1.38\n1.34",
+            "adr": "+14\n+4\n+10",
+            "agent": "",
+            "assists": "/\n\n38\n21\n17\n\n/",
+            "deaths": "52\n25\n27",
+            "fk": "174\n162\n186",
+            "hs%": "72%\n59%\n85%",
+            "kdr": "14\n5\n9",
+            "kills": "277",
+            "name": "pl1xx",
+            "team": null
+          },
+          {
+            "acs": "1.19\n1.48\n1.33",
+            "adr": "+16\n+4\n+12",
+            "agent": "",
+            "assists": "/\n\n31\n18\n13\n\n/",
+            "deaths": "47\n22\n25",
+            "fk": "156\n144\n169",
+            "hs%": "81%\n74%\n88%",
+            "kdr": "13\n5\n8",
+            "kills": "232",
+            "name": "dizzyLife",
+            "team": null
+          },
+          {
+            "acs": "1.17\n1.44\n1.30",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n34\n20\n14\n\n/",
+            "deaths": "45\n22\n23",
+            "fk": "142\n129\n156",
+            "hs%": "72%\n56%\n88%",
+            "kdr": "17\n8\n9",
+            "kills": "227",
+            "name": "iyen",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.00\n0.85",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n38\n22\n16\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "98\n84\n111",
+            "hs%": "75%\n67%\n85%",
+            "kdr": "8\n5\n3",
+            "kills": "151",
+            "name": "Crunchy",
+            "team": null
+          },
+          {
+            "acs": "0.41\n0.98\n0.69",
+            "adr": "-13\n-13\n0",
+            "agent": "",
+            "assists": "/\n\n40\n23\n17\n\n/",
+            "deaths": "27\n10\n17",
+            "fk": "106\n83\n130",
+            "hs%": "64%\n59%\n69%",
+            "kdr": "19\n6\n13",
+            "kills": "122",
+            "name": "Bob",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.98\n1.45\n1.22",
+            "adr": "+11\n-2\n+13",
+            "agent": "",
+            "assists": "/\n\n38\n20\n18\n\n/",
+            "deaths": "49\n18\n31",
+            "fk": "147\n120\n174",
+            "hs%": "68%\n62%\n74%",
+            "kdr": "6\n3\n3",
+            "kills": "205",
+            "name": "RetrQ",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.07\n0.99",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n37\n20\n17\n\n/",
+            "deaths": "36\n18\n18",
+            "fk": "145\n140\n149",
+            "hs%": "70%\n62%\n78%",
+            "kdr": "19\n7\n12",
+            "kills": "207",
+            "name": "Jerk",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.91\n0.88",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n43\n22\n21\n\n/",
+            "deaths": "40\n19\n21",
+            "fk": "136\n128\n144",
+            "hs%": "72%\n77%\n67%",
+            "kdr": "15\n5\n10",
+            "kills": "204",
+            "name": "Winsum",
+            "team": null
+          },
+          {
+            "acs": "0.68\n0.84\n0.76",
+            "adr": "-10\n-10\n0",
+            "agent": "",
+            "assists": "/\n\n42\n23\n19\n\n/",
+            "deaths": "32\n13\n19",
+            "fk": "112\n112\n112",
+            "hs%": "66%\n62%\n70%",
+            "kdr": "13\n8\n5",
+            "kills": "170",
+            "name": "ROY",
+            "team": null
+          },
+          {
+            "acs": "0.35\n0.79\n0.57",
+            "adr": "-18\n-15\n-3",
+            "agent": "",
+            "assists": "/\n\n42\n24\n18\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "99\n85\n112",
+            "hs%": "60%\n50%\n70%",
+            "kdr": "10\n5\n5",
+            "kills": "110",
+            "name": "randyySAVAGE",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "267",
+          "name": "iyen",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "308",
+          "name": "dizzyLife",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "244",
+          "name": "pl1xx",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "138",
+          "name": "Crunchy",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "213",
+          "name": "Bob",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "247",
+          "name": "Winsum",
+          "team": "Renegades"
+        },
+        {
+          "kills": "297",
+          "name": "RetrQ",
+          "team": "Renegades"
+        },
+        {
+          "kills": "271",
+          "name": "Jerk",
+          "team": "Renegades"
+        },
+        {
+          "kills": "135",
+          "name": "ROY",
+          "team": "Renegades"
+        },
+        {
+          "kills": "138",
+          "name": "randyySAVAGE",
+          "team": "Renegades"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.27\n1.56",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "30\n14\n16",
+            "fk": "153\n142\n165",
+            "hs%": "77%\n60%\n93%",
+            "kdr": "7\n5\n2",
+            "kills": "267",
+            "name": "iyen",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "1.38\n1.06\n1.71",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "155\n120\n190",
+            "hs%": "83%\n73%\n93%",
+            "kdr": "7\n3\n4",
+            "kills": "308",
+            "name": "dizzyLife",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "1.18\n1.23\n1.13",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "153\n149\n157",
+            "hs%": "70%\n53%\n87%",
+            "kdr": "6\n2\n4",
+            "kills": "244",
+            "name": "pl1xx",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.85\n0.81\n0.89",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "90\n79\n101",
+            "hs%": "70%\n60%\n80%",
+            "kdr": "6\n3\n3",
+            "kills": "138",
+            "name": "Crunchy",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.68\n0.27\n1.08",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "109\n60\n159",
+            "hs%": "53%\n40%\n67%",
+            "kdr": "9\n2\n7",
+            "kills": "213",
+            "name": "Bob",
+            "team": "Soniqs"
+          }
+        ],
+        [
+          {
+            "acs": "1.15\n1.02\n1.27",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "152\n137\n167",
+            "hs%": "73%\n73%\n73%",
+            "kdr": "11\n2\n9",
+            "kills": "247",
+            "name": "Winsum",
+            "team": "Renegades"
+          },
+          {
+            "acs": "1.09\n0.92\n1.26",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "132\n105\n160",
+            "hs%": "60%\n53%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "297",
+            "name": "RetrQ",
+            "team": "Renegades"
+          },
+          {
+            "acs": "1.01\n0.73\n1.29",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "151\n129\n172",
+            "hs%": "70%\n60%\n80%",
+            "kdr": "9\n5\n4",
+            "kills": "271",
+            "name": "Jerk",
+            "team": "Renegades"
+          },
+          {
+            "acs": "0.63\n0.65\n0.62",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n25\n14\n11\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "101\n127\n75",
+            "hs%": "60%\n60%\n60%",
+            "kdr": "8\n5\n3",
+            "kills": "135",
+            "name": "ROY",
+            "team": "Renegades"
+          },
+          {
+            "acs": "0.50\n0.33\n0.67",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "85\n76\n94",
+            "hs%": "60%\n47%\n73%",
+            "kdr": "7\n3\n4",
+            "kills": "138",
+            "name": "randyySAVAGE",
+            "team": "Renegades"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 24005,
+  "teams": [
+    "Soniqs",
+    "Renegades"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 32"
+}

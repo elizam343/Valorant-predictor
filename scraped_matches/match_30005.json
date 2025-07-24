@@ -1,0 +1,788 @@
+{
+  "date": "2021-07-30 11:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "212",
+          "name": "circu",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "263",
+          "name": "b0rja",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "209",
+          "name": "Chechuu",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "177",
+          "name": "ease",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "155",
+          "name": "RAYZZ",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "232",
+          "name": "falltw",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "208",
+          "name": "Drags",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "207",
+          "name": "vo0kashu",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "197",
+          "name": "retauZ",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "128",
+          "name": "iamtaymee",
+          "team": "PURPURE"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.46\n1.04",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "133\n159\n106",
+            "hs%": "82%\n86%\n79%",
+            "kdr": "6\n5\n1",
+            "kills": "212",
+            "name": "circu",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "1.19\n1.03\n1.34",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "146\n137\n156",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "1\n1\n0",
+            "kills": "263",
+            "name": "b0rja",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "0.93\n1.11\n0.75",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "128\n136\n121",
+            "hs%": "64%\n71%\n57%",
+            "kdr": "9\n5\n4",
+            "kills": "209",
+            "name": "Chechuu",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "0.85\n0.65\n1.04",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "118\n72\n164",
+            "hs%": "64%\n64%\n64%",
+            "kdr": "10\n6\n4",
+            "kills": "177",
+            "name": "ease",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "0.73\n1.21\n0.26",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "89\n146\n31",
+            "hs%": "68%\n86%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "155",
+            "name": "RAYZZ",
+            "team": "NEBULAA"
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n1.54\n0.68",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n22\n9\n13\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "160\n184\n136",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "11\n7\n4",
+            "kills": "232",
+            "name": "falltw",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "1.10\n1.68\n0.52",
+            "adr": "+3\n+7\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "21\n15\n6",
+            "fk": "124\n181\n68",
+            "hs%": "61%\n71%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "208",
+            "name": "Drags",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "0.96\n0.48\n1.44",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "133\n91\n175",
+            "hs%": "64%\n64%\n64%",
+            "kdr": "2\n1\n1",
+            "kills": "207",
+            "name": "vo0kashu",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "0.86\n0.98\n0.75",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "141\n151\n130",
+            "hs%": "64%\n71%\n57%",
+            "kdr": "5\n4\n1",
+            "kills": "197",
+            "name": "retauZ",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "0.75\n0.63\n0.87",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "86\n65\n106",
+            "hs%": "54%\n64%\n43%",
+            "kdr": "6\n4\n2",
+            "kills": "128",
+            "name": "iamtaymee",
+            "team": "PURPURE"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "252",
+          "name": "circu",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "ease",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Chechuu",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "b0rja",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "RAYZZ",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "vo0kashu",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "Drags",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "iamtaymee",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "falltw",
+          "team": null
+        },
+        {
+          "kills": "266",
+          "name": "retauZ",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.40\n0.98\n1.20",
+            "adr": "+11\n+15\n-4",
+            "agent": "",
+            "assists": "/\n\n50\n23\n27\n\n/",
+            "deaths": "61\n38\n23",
+            "fk": "143\n164\n121",
+            "hs%": "71%\n76%\n65%",
+            "kdr": "18\n9\n9",
+            "kills": "252",
+            "name": "circu",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.21\n1.01",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n57\n30\n27\n\n/",
+            "deaths": "59\n27\n32",
+            "fk": "136\n111\n165",
+            "hs%": "67%\n66%\n68%",
+            "kdr": "17\n9\n8",
+            "kills": "180",
+            "name": "ease",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.72\n0.77",
+            "adr": "-13\n-6\n-7",
+            "agent": "",
+            "assists": "/\n\n58\n30\n28\n\n/",
+            "deaths": "45\n24\n21",
+            "fk": "107\n109\n104",
+            "hs%": "62%\n63%\n59%",
+            "kdr": "19\n13\n6",
+            "kills": "171",
+            "name": "Chechuu",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.85\n0.75",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n61\n33\n28\n\n/",
+            "deaths": "52\n26\n26",
+            "fk": "115\n115\n114",
+            "hs%": "63%\n59%\n68%",
+            "kdr": "10\n3\n7",
+            "kills": "193",
+            "name": "b0rja",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.57\n0.67",
+            "adr": "-14\n-3\n-11",
+            "agent": "",
+            "assists": "/\n\n64\n34\n30\n\n/",
+            "deaths": "50\n31\n19",
+            "fk": "105\n133\n74",
+            "hs%": "67%\n78%\n54%",
+            "kdr": "13\n4\n9",
+            "kills": "211",
+            "name": "RAYZZ",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.93\n1.33\n1.14",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n55\n26\n29\n\n/",
+            "deaths": "64\n27\n37",
+            "fk": "151\n124\n176",
+            "hs%": "72%\n65%\n78%",
+            "kdr": "20\n9\n11",
+            "kills": "204",
+            "name": "vo0kashu",
+            "team": null
+          },
+          {
+            "acs": "1.30\n0.98\n1.13",
+            "adr": "+7\n+8\n-1",
+            "agent": "",
+            "assists": "/\n\n51\n21\n30\n\n/",
+            "deaths": "58\n29\n29",
+            "fk": "132\n133\n132",
+            "hs%": "74%\n81%\n68%",
+            "kdr": "22\n12\n10",
+            "kills": "218",
+            "name": "Drags",
+            "team": null
+          },
+          {
+            "acs": "1.02\n1.11\n1.07",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n48\n22\n26\n\n/",
+            "deaths": "49\n20\n29",
+            "fk": "116\n109\n123",
+            "hs%": "68%\n73%\n63%",
+            "kdr": "24\n13\n11",
+            "kills": "164",
+            "name": "iamtaymee",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.00\n1.05",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n56\n24\n32\n\n/",
+            "deaths": "57\n29\n28",
+            "fk": "137\n125\n147",
+            "hs%": "68%\n65%\n71%",
+            "kdr": "18\n10\n8",
+            "kills": "221",
+            "name": "falltw",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.93\n1.02",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n57\n29\n28\n\n/",
+            "deaths": "62\n35\n27",
+            "fk": "147\n159\n136",
+            "hs%": "74%\n81%\n68%",
+            "kdr": "13\n7\n6",
+            "kills": "266",
+            "name": "retauZ",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "370",
+          "name": "ease",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "161",
+          "name": "circu",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "101",
+          "name": "b0rja",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "160",
+          "name": "Chechuu",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "87",
+          "name": "RAYZZ",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "357",
+          "name": "vo0kashu",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "239",
+          "name": "Drags",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "187",
+          "name": "retauZ",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "172",
+          "name": "iamtaymee",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "190",
+          "name": "falltw",
+          "team": "PURPURE"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.30\n1.08\n1.64",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "159\n140\n186",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "370",
+            "name": "ease",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "1.21\n1.50\n0.76",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "161\n193\n111",
+            "hs%": "45%\n58%\n25%",
+            "kdr": "2\n2\n0",
+            "kills": "161",
+            "name": "circu",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "0.51\n0.75\n0.15",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "90\n128\n33",
+            "hs%": "45%\n50%\n38%",
+            "kdr": "4\n1\n3",
+            "kills": "101",
+            "name": "b0rja",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "0.51\n0.38\n0.71",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "80\n59\n111",
+            "hs%": "45%\n50%\n38%",
+            "kdr": "3\n2\n1",
+            "kills": "160",
+            "name": "Chechuu",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "0.12\n0.25\n0.02",
+            "adr": "-15\n-8\n-7",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "63\n72\n49",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "87",
+            "name": "RAYZZ",
+            "team": "NEBULAA"
+          }
+        ],
+        [
+          {
+            "acs": "1.56\n1.39\n1.68",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "202\n162\n229",
+            "hs%": "90%\n88%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "357",
+            "name": "vo0kashu",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "1.20\n1.30\n1.14",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "149\n126\n164",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "239",
+            "name": "Drags",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "1.16\n1.62\n0.86",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "126\n177\n92",
+            "hs%": "80%\n100%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "187",
+            "name": "retauZ",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "1.08\n1.21\n0.99",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "123\n118\n126",
+            "hs%": "90%\n100%\n83%",
+            "kdr": "10\n4\n6",
+            "kills": "172",
+            "name": "iamtaymee",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "0.91\n0.68\n1.06",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "99\n61\n124",
+            "hs%": "65%\n75%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "190",
+            "name": "falltw",
+            "team": "PURPURE"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "221",
+          "name": "circu",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "243",
+          "name": "RAYZZ",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "210",
+          "name": "ease",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "157",
+          "name": "Chechuu",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "166",
+          "name": "b0rja",
+          "team": "NEBULAA"
+        },
+        {
+          "kills": "229",
+          "name": "iamtaymee",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "212",
+          "name": "Drags",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "213",
+          "name": "falltw",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "239",
+          "name": "retauZ",
+          "team": "PURPURE"
+        },
+        {
+          "kills": "192",
+          "name": "vo0kashu",
+          "team": "PURPURE"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.27\n1.05",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "142\n145\n140",
+            "hs%": "77%\n80%\n73%",
+            "kdr": "10\n2\n8",
+            "kills": "221",
+            "name": "circu",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "0.98\n0.79\n1.16",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "148\n168\n127",
+            "hs%": "77%\n93%\n60%",
+            "kdr": "5\n1\n4",
+            "kills": "243",
+            "name": "RAYZZ",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "0.97\n0.81\n1.14",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "139\n124\n154",
+            "hs%": "60%\n53%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "210",
+            "name": "ease",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "0.78\n0.88\n0.69",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "105\n124\n85",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "7\n6\n1",
+            "kills": "157",
+            "name": "Chechuu",
+            "team": "NEBULAA"
+          },
+          {
+            "acs": "0.51\n0.27\n0.76",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "102\n84\n119",
+            "hs%": "63%\n53%\n73%",
+            "kdr": "5\n1\n4",
+            "kills": "166",
+            "name": "b0rja",
+            "team": "NEBULAA"
+          }
+        ],
+        [
+          {
+            "acs": "1.36\n1.29\n1.43",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "141\n144\n137",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "229",
+            "name": "iamtaymee",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "1.11\n0.95\n1.28",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "128\n91\n165",
+            "hs%": "83%\n93%\n73%",
+            "kdr": "10\n6\n4",
+            "kills": "212",
+            "name": "Drags",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "1.07\n0.90\n1.25",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "141\n104\n177",
+            "hs%": "63%\n60%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "213",
+            "name": "falltw",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "1.07\n1.00\n1.14",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "167\n157\n177",
+            "hs%": "80%\n80%\n80%",
+            "kdr": "7\n2\n5",
+            "kills": "239",
+            "name": "retauZ",
+            "team": "PURPURE"
+          },
+          {
+            "acs": "1.02\n1.09\n0.95",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "135\n135\n134",
+            "hs%": "67%\n53%\n80%",
+            "kdr": "14\n7\n7",
+            "kills": "192",
+            "name": "vo0kashu",
+            "team": "PURPURE"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 30005,
+  "teams": [
+    "NEBULAA",
+    "PURPURE"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tUpper Round of 32"
+}

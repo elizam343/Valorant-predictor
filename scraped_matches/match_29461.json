@@ -1,0 +1,788 @@
+{
+  "date": "2021-07-28 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "301",
+          "name": "venture",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "277",
+          "name": "FIEND",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "236",
+          "name": "naisu",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "166",
+          "name": "sSef",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "139",
+          "name": "tdawgg",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "310",
+          "name": "Paincakes",
+          "team": "FYB"
+        },
+        {
+          "kills": "187",
+          "name": "carlos",
+          "team": "FYB"
+        },
+        {
+          "kills": "178",
+          "name": "riku",
+          "team": "FYB"
+        },
+        {
+          "kills": "151",
+          "name": "Huston",
+          "team": "FYB"
+        },
+        {
+          "kills": "207",
+          "name": "witmer",
+          "team": "FYB"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.77\n2.53\n1.13",
+            "adr": "+14\n+13\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "25\n17\n8",
+            "fk": "185\n258\n125",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "9\n4\n5",
+            "kills": "301",
+            "name": "venture",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "1.28\n1.21\n1.34",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "168\n157\n177",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "277",
+            "name": "FIEND",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.89\n0.74\n1.02",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "158\n147\n167",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "236",
+            "name": "naisu",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.86\n0.62\n1.05",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "102\n82\n120",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "7\n5\n2",
+            "kills": "166",
+            "name": "sSef",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.64\n0.56\n0.70",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "88\n62\n109",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "8\n5\n3",
+            "kills": "139",
+            "name": "tdawgg",
+            "team": "Good Fellas"
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n1.47\n0.86",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "200\n202\n197",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "310",
+            "name": "Paincakes",
+            "team": "FYB"
+          },
+          {
+            "acs": "0.91\n1.04\n0.76",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "127\n126\n129",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "187",
+            "name": "carlos",
+            "team": "FYB"
+          },
+          {
+            "acs": "0.83\n0.52\n1.19",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "112\n79\n152",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "5\n2\n3",
+            "kills": "178",
+            "name": "riku",
+            "team": "FYB"
+          },
+          {
+            "acs": "0.80\n0.72\n0.90",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "100\n72\n134",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "9\n6\n3",
+            "kills": "151",
+            "name": "Huston",
+            "team": "FYB"
+          },
+          {
+            "acs": "0.77\n1.01\n0.49",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "136\n187\n75",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "5\n5\n0",
+            "kills": "207",
+            "name": "witmer",
+            "team": "FYB"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "venture",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "naisu",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "sSef",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "FIEND",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "tdawgg",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "carlos",
+          "team": null
+        },
+        {
+          "kills": "268",
+          "name": "Paincakes",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "Huston",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "riku",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "witmer",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.54\n1.28\n1.42",
+            "adr": "+23\n+18\n+5",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "67\n39\n28",
+            "fk": "159\n162\n155",
+            "hs%": "79%\n76%\n82%",
+            "kdr": "29\n12\n17",
+            "kills": "265",
+            "name": "venture",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.02\n0.92",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n58\n31\n27\n\n/",
+            "deaths": "52\n25\n27",
+            "fk": "143\n136\n151",
+            "hs%": "72%\n76%\n68%",
+            "kdr": "19\n12\n7",
+            "kills": "194",
+            "name": "naisu",
+            "team": null
+          },
+          {
+            "acs": "0.62\n1.23\n0.91",
+            "adr": "-3\n-10\n+7",
+            "agent": "",
+            "assists": "/\n\n53\n30\n23\n\n/",
+            "deaths": "50\n20\n30",
+            "fk": "123\n108\n139",
+            "hs%": "73%\n73%\n74%",
+            "kdr": "24\n13\n11",
+            "kills": "158",
+            "name": "sSef",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.91\n0.88",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n53\n28\n25\n\n/",
+            "deaths": "47\n26\n21",
+            "fk": "132\n131\n134",
+            "hs%": "61%\n57%\n65%",
+            "kdr": "15\n8\n7",
+            "kills": "210",
+            "name": "FIEND",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.65\n0.86",
+            "adr": "-12\n0\n-12",
+            "agent": "",
+            "assists": "/\n\n55\n27\n28\n\n/",
+            "deaths": "43\n27\n16",
+            "fk": "103\n118\n86",
+            "hs%": "75%\n76%\n74%",
+            "kdr": "30\n17\n13",
+            "kills": "209",
+            "name": "tdawgg",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.36\n1.46",
+            "adr": "+21\n+13\n+8",
+            "agent": "",
+            "assists": "/\n\n44\n20\n24\n\n/",
+            "deaths": "65\n33\n32",
+            "fk": "161\n170\n153",
+            "hs%": "68%\n65%\n70%",
+            "kdr": "27\n10\n17",
+            "kills": "262",
+            "name": "carlos",
+            "team": null
+          },
+          {
+            "acs": "1.20\n1.08\n1.14",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n53\n26\n27\n\n/",
+            "deaths": "64\n34\n30",
+            "fk": "161\n158\n163",
+            "hs%": "75%\n74%\n76%",
+            "kdr": "18\n6\n12",
+            "kills": "268",
+            "name": "Paincakes",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.15\n0.94",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "43\n16\n27",
+            "fk": "106\n88\n123",
+            "hs%": "70%\n71%\n70%",
+            "kdr": "19\n10\n9",
+            "kills": "139",
+            "name": "Huston",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.79\n0.73",
+            "adr": "-14\n-8\n-6",
+            "agent": "",
+            "assists": "/\n\n57\n26\n31\n\n/",
+            "deaths": "43\n18\n25",
+            "fk": "114\n96\n130",
+            "hs%": "61%\n59%\n62%",
+            "kdr": "19\n8\n11",
+            "kills": "153",
+            "name": "riku",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.69\n0.71",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n59\n29\n30\n\n/",
+            "deaths": "48\n25\n23",
+            "fk": "114\n133\n95",
+            "hs%": "66%\n62%\n70%",
+            "kdr": "10\n7\n3",
+            "kills": "211",
+            "name": "witmer",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "168",
+          "name": "tdawgg",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "325",
+          "name": "venture",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "142",
+          "name": "naisu",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "104",
+          "name": "FIEND",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "116",
+          "name": "sSef",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "263",
+          "name": "carlos",
+          "team": "FYB"
+        },
+        {
+          "kills": "268",
+          "name": "Paincakes",
+          "team": "FYB"
+        },
+        {
+          "kills": "216",
+          "name": "riku",
+          "team": "FYB"
+        },
+        {
+          "kills": "204",
+          "name": "Huston",
+          "team": "FYB"
+        },
+        {
+          "kills": "186",
+          "name": "witmer",
+          "team": "FYB"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.72\n0.84",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "139\n179\n70",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "4\n3\n1",
+            "kills": "168",
+            "name": "tdawgg",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "1.21\n1.08\n1.43",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "136\n115\n173",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "6\n2\n4",
+            "kills": "325",
+            "name": "venture",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "1.03\n1.31\n0.54",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "148\n185\n84",
+            "hs%": "68%\n83%\n43%",
+            "kdr": "5\n5\n0",
+            "kills": "142",
+            "name": "naisu",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.26\n0.22\n0.33",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "99\n110\n81",
+            "hs%": "47%\n42%\n57%",
+            "kdr": "6\n5\n1",
+            "kills": "104",
+            "name": "FIEND",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.22\n0.13\n0.36",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "77\n79\n72",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "5\n2\n3",
+            "kills": "116",
+            "name": "sSef",
+            "team": "Good Fellas"
+          }
+        ],
+        [
+          {
+            "acs": "1.84\n2.09\n1.69",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "164\n162\n165",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "11\n4\n7",
+            "kills": "263",
+            "name": "carlos",
+            "team": "FYB"
+          },
+          {
+            "acs": "1.39\n1.56\n1.29",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "158\n136\n170",
+            "hs%": "89%\n100%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "268",
+            "name": "Paincakes",
+            "team": "FYB"
+          },
+          {
+            "acs": "1.16\n1.64\n0.88",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "151\n133\n161",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "216",
+            "name": "riku",
+            "team": "FYB"
+          },
+          {
+            "acs": "0.87\n0.44\n1.11",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "102\n61\n126",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "204",
+            "name": "Huston",
+            "team": "FYB"
+          },
+          {
+            "acs": "0.60\n0.31\n0.77",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "105\n100\n107",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "186",
+            "name": "witmer",
+            "team": "FYB"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "267",
+          "name": "sSef",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "241",
+          "name": "venture",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "204",
+          "name": "FIEND",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "181",
+          "name": "naisu",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "156",
+          "name": "tdawgg",
+          "team": "Good Fellas"
+        },
+        {
+          "kills": "271",
+          "name": "carlos",
+          "team": "FYB"
+        },
+        {
+          "kills": "206",
+          "name": "Huston",
+          "team": "FYB"
+        },
+        {
+          "kills": "202",
+          "name": "Paincakes",
+          "team": "FYB"
+        },
+        {
+          "kills": "187",
+          "name": "witmer",
+          "team": "FYB"
+        },
+        {
+          "kills": "139",
+          "name": "riku",
+          "team": "FYB"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.00\n1.78",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "30\n12\n18",
+            "fk": "167\n148\n186",
+            "hs%": "83%\n80%\n87%",
+            "kdr": "12\n6\n6",
+            "kills": "267",
+            "name": "sSef",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "1.29\n1.24\n1.34",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "153\n135\n172",
+            "hs%": "83%\n80%\n87%",
+            "kdr": "14\n6\n8",
+            "kills": "241",
+            "name": "venture",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.98\n1.12\n0.83",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "127\n132\n123",
+            "hs%": "63%\n60%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "204",
+            "name": "FIEND",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.86\n0.48\n1.25",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "130\n89\n170",
+            "hs%": "73%\n73%\n73%",
+            "kdr": "12\n7\n5",
+            "kills": "181",
+            "name": "naisu",
+            "team": "Good Fellas"
+          },
+          {
+            "acs": "0.69\n0.86\n0.52",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "91\n105\n76",
+            "hs%": "77%\n80%\n73%",
+            "kdr": "18\n9\n9",
+            "kills": "156",
+            "name": "tdawgg",
+            "team": "Good Fellas"
+          }
+        ],
+        [
+          {
+            "acs": "1.62\n1.75\n1.49",
+            "adr": "+13\n+7\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "30\n16\n14",
+            "fk": "185\n210\n161",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "14\n5\n9",
+            "kills": "271",
+            "name": "carlos",
+            "team": "FYB"
+          },
+          {
+            "acs": "1.09\n0.83\n1.36",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "113\n113\n112",
+            "hs%": "60%\n53%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "206",
+            "name": "Huston",
+            "team": "FYB"
+          },
+          {
+            "acs": "0.93\n0.81\n1.06",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n23\n14\n9\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "134\n134\n134",
+            "hs%": "60%\n53%\n67%",
+            "kdr": "7\n1\n6",
+            "kills": "202",
+            "name": "Paincakes",
+            "team": "FYB"
+          },
+          {
+            "acs": "0.74\n0.73\n0.75",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "103\n105\n100",
+            "hs%": "60%\n53%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "187",
+            "name": "witmer",
+            "team": "FYB"
+          },
+          {
+            "acs": "0.40\n0.34\n0.45",
+            "adr": "-15\n-8\n-7",
+            "agent": "",
+            "assists": "/\n\n28\n14\n14\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "92\n93\n91",
+            "hs%": "47%\n47%\n47%",
+            "kdr": "8\n5\n3",
+            "kills": "139",
+            "name": "riku",
+            "team": "FYB"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 29461,
+  "teams": [
+    "FYB",
+    "Good Fellas"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tDecider (F)"
+}

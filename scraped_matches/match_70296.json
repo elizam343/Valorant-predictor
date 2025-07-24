@@ -1,0 +1,594 @@
+{
+  "date": "2022-03-06 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "314",
+          "name": "kon4n",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "299",
+          "name": "tuyz",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "180",
+          "name": "lukzera",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "232",
+          "name": "matheuzin",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "144",
+          "name": "ryotzz",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "198",
+          "name": "swag",
+          "team": "Team Vikings"
+        },
+        {
+          "kills": "190",
+          "name": "pepa",
+          "team": "Team Vikings"
+        },
+        {
+          "kills": "204",
+          "name": "Ds",
+          "team": "Team Vikings"
+        },
+        {
+          "kills": "99",
+          "name": "Veroneze",
+          "team": "Team Vikings"
+        },
+        {
+          "kills": "207",
+          "name": "pollo",
+          "team": "Team Vikings"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.54\n1.56\n1.51",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "214\n192\n248",
+            "hs%": "65%\n75%\n50%",
+            "kdr": "6\n4\n2",
+            "kills": "314",
+            "name": "kon4n",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "1.50\n1.77\n1.10",
+            "adr": "+10\n+11\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "22\n18\n4",
+            "fk": "218\n288\n111",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "5\n2\n3",
+            "kills": "299",
+            "name": "tuyz",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "1.11\n1.10\n1.13",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "111\n110\n113",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "6\n2\n4",
+            "kills": "180",
+            "name": "lukzera",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "1.08\n0.94\n1.30",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "154\n138\n179",
+            "hs%": "80%\n92%\n63%",
+            "kdr": "7\n5\n2",
+            "kills": "232",
+            "name": "matheuzin",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "0.68\n0.72\n0.63",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "108\n109\n107",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "8\n4\n4",
+            "kills": "144",
+            "name": "ryotzz",
+            "team": "TBK Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n1.08\n1.12",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "127\n116\n135",
+            "hs%": "50%\n63%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "198",
+            "name": "swag",
+            "team": "Team Vikings"
+          },
+          {
+            "acs": "1.01\n1.24\n0.85",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "130\n133\n128",
+            "hs%": "60%\n75%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "190",
+            "name": "pepa",
+            "team": "Team Vikings"
+          },
+          {
+            "acs": "0.90\n1.10\n0.76",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "125\n120\n128",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "10\n3\n7",
+            "kills": "204",
+            "name": "Ds",
+            "team": "Team Vikings"
+          },
+          {
+            "acs": "0.55\n0.67\n0.47",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "71\n65\n75",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "99",
+            "name": "Veroneze",
+            "team": "Team Vikings"
+          },
+          {
+            "acs": "0.55\n0.45\n0.63",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "151\n120\n172",
+            "hs%": "50%\n63%\n42%",
+            "kdr": "5\n3\n2",
+            "kills": "207",
+            "name": "pollo",
+            "team": "Team Vikings"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "411",
+          "name": "tuyz",
+          "team": null
+        },
+        {
+          "kills": "272",
+          "name": "kon4n",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "matheuzin",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "lukzera",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "ryotzz",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "pepa",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "swag",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "Veroneze",
+          "team": null
+        },
+        {
+          "kills": "117",
+          "name": "Ds",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "pollo",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.84\n1.36\n1.58",
+            "adr": "+23\n+14\n+9",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "44\n24\n20",
+            "fk": "212\n276\n161",
+            "hs%": "81%\n75%\n85%",
+            "kdr": "8\n4\n4",
+            "kills": "411",
+            "name": "tuyz",
+            "team": null
+          },
+          {
+            "acs": "1.54\n1.56\n1.55",
+            "adr": "+20\n+9\n+11",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "38\n17\n21",
+            "fk": "179\n165\n190",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "16\n6\n10",
+            "kills": "272",
+            "name": "kon4n",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.45\n1.20",
+            "adr": "+8\n-2\n+10",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "28\n9\n19",
+            "fk": "158\n123\n186",
+            "hs%": "81%\n88%\n75%",
+            "kdr": "11\n6\n5",
+            "kills": "175",
+            "name": "matheuzin",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.07\n1.05",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "93\n102\n86",
+            "hs%": "86%\n81%\n90%",
+            "kdr": "15\n3\n12",
+            "kills": "152",
+            "name": "lukzera",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.17\n1.04",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "134\n112\n152",
+            "hs%": "81%\n75%\n85%",
+            "kdr": "15\n5\n10",
+            "kills": "174",
+            "name": "ryotzz",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n0.93\n0.99",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n28\n15\n13\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "139\n142\n136",
+            "hs%": "58%\n65%\n50%",
+            "kdr": "8\n7\n1",
+            "kills": "211",
+            "name": "pepa",
+            "team": null
+          },
+          {
+            "acs": "0.68\n1.05\n0.84",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n29\n16\n13\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "120\n91\n157",
+            "hs%": "47%\n45%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "153",
+            "name": "swag",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.57\n0.62",
+            "adr": "-15\n-8\n-7",
+            "agent": "",
+            "assists": "/\n\n31\n17\n14\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "93\n102\n82",
+            "hs%": "61%\n55%\n69%",
+            "kdr": "10\n5\n5",
+            "kills": "141",
+            "name": "Veroneze",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.62\n0.59",
+            "adr": "-15\n-10\n-5",
+            "agent": "",
+            "assists": "/\n\n32\n19\n13\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "94\n79\n114",
+            "hs%": "58%\n55%\n63%",
+            "kdr": "11\n3\n8",
+            "kills": "117",
+            "name": "Ds",
+            "team": null
+          },
+          {
+            "acs": "0.44\n0.60\n0.51",
+            "adr": "-18\n-10\n-8",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "116\n93\n145",
+            "hs%": "50%\n55%\n44%",
+            "kdr": "7\n4\n3",
+            "kills": "141",
+            "name": "pollo",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "322",
+          "name": "tuyz",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "259",
+          "name": "kon4n",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "271",
+          "name": "ryotzz",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "292",
+          "name": "matheuzin",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "136",
+          "name": "lukzera",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "224",
+          "name": "pepa",
+          "team": "Team Vikings"
+        },
+        {
+          "kills": "195",
+          "name": "Veroneze",
+          "team": "Team Vikings"
+        },
+        {
+          "kills": "315",
+          "name": "swag",
+          "team": "Team Vikings"
+        },
+        {
+          "kills": "90",
+          "name": "pollo",
+          "team": "Team Vikings"
+        },
+        {
+          "kills": "74",
+          "name": "Ds",
+          "team": "Team Vikings"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.67\n2.06\n1.54",
+            "adr": "+13\n+3\n+10",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "206\n238\n195",
+            "hs%": "81%\n75%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "322",
+            "name": "tuyz",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "1.57\n1.47\n1.60",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "135\n83\n152",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "10\n2\n8",
+            "kills": "259",
+            "name": "kon4n",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "1.48\n1.36\n1.52",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "166\n121\n182",
+            "hs%": "94%\n75%\n100%",
+            "kdr": "7\n1\n6",
+            "kills": "271",
+            "name": "ryotzz",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "1.35\n0.75\n1.55",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "163\n79\n191",
+            "hs%": "81%\n75%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "292",
+            "name": "matheuzin",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "0.97\n0.77\n1.04",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "71\n78\n69",
+            "hs%": "88%\n75%\n92%",
+            "kdr": "9\n1\n8",
+            "kills": "136",
+            "name": "lukzera",
+            "team": "TBK Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.97\n0.90\n1.18",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "150\n148\n158",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "224",
+            "name": "pepa",
+            "team": "Team Vikings"
+          },
+          {
+            "acs": "0.71\n0.66\n0.84",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "122\n127\n106",
+            "hs%": "69%\n58%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "195",
+            "name": "Veroneze",
+            "team": "Team Vikings"
+          },
+          {
+            "acs": "0.52\n0.41\n0.85",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "111\n74\n222",
+            "hs%": "44%\n33%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "315",
+            "name": "swag",
+            "team": "Team Vikings"
+          },
+          {
+            "acs": "0.45\n0.43\n0.51",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "72\n75\n65",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "90",
+            "name": "pollo",
+            "team": "Team Vikings"
+          },
+          {
+            "acs": "0.20\n0.20\n0.21",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "2\n2\n0",
+            "fk": "57\n51\n74",
+            "hs%": "44%\n42%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "74",
+            "name": "Ds",
+            "team": "Team Vikings"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 70296,
+  "teams": [
+    "TBK Esports",
+    "Team Vikings"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tWeek 4"
+}

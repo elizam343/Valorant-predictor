@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-08 18:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "337",
+          "name": "Okin",
+          "team": "Bjor's Kittens"
+        },
+        {
+          "kills": "206",
+          "name": "Teague",
+          "team": "Bjor's Kittens"
+        },
+        {
+          "kills": "182",
+          "name": "Coach Joe",
+          "team": "Bjor's Kittens"
+        },
+        {
+          "kills": "236",
+          "name": "Tkaz",
+          "team": "Bjor's Kittens"
+        },
+        {
+          "kills": "200",
+          "name": "hyjinx",
+          "team": "Bjor's Kittens"
+        },
+        {
+          "kills": "272",
+          "name": "RaM",
+          "team": "mustahed mocking gaming"
+        },
+        {
+          "kills": "217",
+          "name": "wraith",
+          "team": "mustahed mocking gaming"
+        },
+        {
+          "kills": "167",
+          "name": "Awkua",
+          "team": "mustahed mocking gaming"
+        },
+        {
+          "kills": "100",
+          "name": "GLYPH",
+          "team": "mustahed mocking gaming"
+        },
+        {
+          "kills": "122",
+          "name": "chanse",
+          "team": "mustahed mocking gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.88\n1.54\n2.02",
+            "adr": "+15\n+1\n+14",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "24\n4\n20",
+            "fk": "213\n148\n240",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "337",
+            "name": "Okin",
+            "team": "Bjor's Kittens"
+          },
+          {
+            "acs": "1.28\n1.80\n1.07",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "153\n227\n122",
+            "hs%": "82%\n60%\n92%",
+            "kdr": "4\n0\n4",
+            "kills": "206",
+            "name": "Teague",
+            "team": "Bjor's Kittens"
+          },
+          {
+            "acs": "1.19\n0.42\n1.51",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "150\n66\n185",
+            "hs%": "88%\n60%\n100%",
+            "kdr": "1\n0\n1",
+            "kills": "182",
+            "name": "Coach Joe",
+            "team": "Bjor's Kittens"
+          },
+          {
+            "acs": "1.16\n0.40\n1.47",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "151\n67\n187",
+            "hs%": "82%\n60%\n92%",
+            "kdr": "14\n4\n10",
+            "kills": "236",
+            "name": "Tkaz",
+            "team": "Bjor's Kittens"
+          },
+          {
+            "acs": "1.05\n1.07\n1.05",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "148\n167\n140",
+            "hs%": "65%\n60%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "200",
+            "name": "hyjinx",
+            "team": "Bjor's Kittens"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.36\n0.87",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "182\n215\n103",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "5\n3\n2",
+            "kills": "272",
+            "name": "RaM",
+            "team": "mustahed mocking gaming"
+          },
+          {
+            "acs": "0.92\n0.50\n1.94",
+            "adr": "+1\n-6\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n13\n2\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "131\n107\n189",
+            "hs%": "71%\n67%\n80%",
+            "kdr": "2\n2\n0",
+            "kills": "217",
+            "name": "wraith",
+            "team": "mustahed mocking gaming"
+          },
+          {
+            "acs": "0.70\n0.58\n0.98",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "159\n124\n242",
+            "hs%": "59%\n50%\n80%",
+            "kdr": "12\n5\n7",
+            "kills": "167",
+            "name": "Awkua",
+            "team": "mustahed mocking gaming"
+          },
+          {
+            "acs": "0.47\n0.46\n0.48",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "67\n75\n46",
+            "hs%": "53%\n42%\n80%",
+            "kdr": "0\n0\n0",
+            "kills": "100",
+            "name": "GLYPH",
+            "team": "mustahed mocking gaming"
+          },
+          {
+            "acs": "0.35\n0.21\n0.67",
+            "adr": "-10\n-11\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n13\n3\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "92\n74\n134",
+            "hs%": "59%\n50%\n80%",
+            "kdr": "3\n3\n0",
+            "kills": "122",
+            "name": "chanse",
+            "team": "mustahed mocking gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "223",
+          "name": "Okin",
+          "team": null
+        },
+        {
+          "kills": "336",
+          "name": "Tkaz",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "hyjinx",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "Teague",
+          "team": null
+        },
+        {
+          "kills": "88",
+          "name": "Coach Joe",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "RaM",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "wraith",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Awkua",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "GLYPH",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "chanse",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.06\n1.90\n1.54",
+            "adr": "+22\n0\n+22",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "48\n13\n35",
+            "fk": "203\n145\n246",
+            "hs%": "80%\n65%\n91%",
+            "kdr": "9\n4\n5",
+            "kills": "223",
+            "name": "Okin",
+            "team": null
+          },
+          {
+            "acs": "1.44\n1.43\n1.43",
+            "adr": "+13\n+4\n+9",
+            "agent": "",
+            "assists": "/\n\n29\n14\n15\n\n/",
+            "deaths": "42\n18\n24",
+            "fk": "196\n201\n191",
+            "hs%": "83%\n65%\n96%",
+            "kdr": "21\n9\n12",
+            "kills": "336",
+            "name": "Tkaz",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.19\n1.04",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "28\n9\n19",
+            "fk": "133\n103\n156",
+            "hs%": "68%\n59%\n74%",
+            "kdr": "2\n1\n1",
+            "kills": "137",
+            "name": "hyjinx",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.08\n0.99",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "128\n109\n142",
+            "hs%": "75%\n53%\n91%",
+            "kdr": "14\n2\n12",
+            "kills": "174",
+            "name": "Teague",
+            "team": null
+          },
+          {
+            "acs": "0.52\n1.01\n0.80",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "95\n61\n120",
+            "hs%": "85%\n71%\n96%",
+            "kdr": "8\n5\n3",
+            "kills": "88",
+            "name": "Coach Joe",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.97\n1.32\n1.12",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n33\n22\n11\n\n/",
+            "deaths": "37\n18\n19",
+            "fk": "175\n158\n197",
+            "hs%": "63%\n61%\n65%",
+            "kdr": "6\n4\n2",
+            "kills": "229",
+            "name": "RaM",
+            "team": null
+          },
+          {
+            "acs": "0.70\n1.41\n1.00",
+            "adr": "+1\n-8\n+9",
+            "agent": "",
+            "assists": "/\n\n31\n23\n8\n\n/",
+            "deaths": "32\n15\n17",
+            "fk": "140\n121\n164",
+            "hs%": "60%\n57%\n65%",
+            "kdr": "7\n4\n3",
+            "kills": "167",
+            "name": "wraith",
+            "team": null
+          },
+          {
+            "acs": "0.60\n1.40\n0.94",
+            "adr": "-10\n-13\n+3",
+            "agent": "",
+            "assists": "/\n\n31\n23\n8\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "158\n126\n201",
+            "hs%": "60%\n52%\n71%",
+            "kdr": "15\n7\n8",
+            "kills": "163",
+            "name": "Awkua",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.64\n0.72",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n32\n20\n12\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "97\n93\n103",
+            "hs%": "55%\n43%\n71%",
+            "kdr": "5\n3\n2",
+            "kills": "133",
+            "name": "GLYPH",
+            "team": null
+          },
+          {
+            "acs": "0.50\n0.50\n0.50",
+            "adr": "-17\n-13\n-4",
+            "agent": "",
+            "assists": "/\n\n35\n22\n13\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "95\n94\n97",
+            "hs%": "55%\n48%\n65%",
+            "kdr": "6\n4\n2",
+            "kills": "129",
+            "name": "chanse",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "313",
+          "name": "Tkaz",
+          "team": "Bjor's Kittens"
+        },
+        {
+          "kills": "356",
+          "name": "Okin",
+          "team": "Bjor's Kittens"
+        },
+        {
+          "kills": "229",
+          "name": "hyjinx",
+          "team": "Bjor's Kittens"
+        },
+        {
+          "kills": "202",
+          "name": "Teague",
+          "team": "Bjor's Kittens"
+        },
+        {
+          "kills": "80",
+          "name": "Coach Joe",
+          "team": "Bjor's Kittens"
+        },
+        {
+          "kills": "235",
+          "name": "Awkua",
+          "team": "mustahed mocking gaming"
+        },
+        {
+          "kills": "199",
+          "name": "wraith",
+          "team": "mustahed mocking gaming"
+        },
+        {
+          "kills": "351",
+          "name": "RaM",
+          "team": "mustahed mocking gaming"
+        },
+        {
+          "kills": "188",
+          "name": "GLYPH",
+          "team": "mustahed mocking gaming"
+        },
+        {
+          "kills": "137",
+          "name": "chanse",
+          "team": "mustahed mocking gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.64\n1.87\n1.38",
+            "adr": "+14\n+8\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "30\n17\n13",
+            "fk": "228\n257\n197",
+            "hs%": "83%\n67%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "313",
+            "name": "Tkaz",
+            "team": "Bjor's Kittens"
+          },
+          {
+            "acs": "1.30\n0.86\n1.77",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "196\n144\n252",
+            "hs%": "74%\n58%\n91%",
+            "kdr": "5\n3\n2",
+            "kills": "356",
+            "name": "Okin",
+            "team": "Bjor's Kittens"
+          },
+          {
+            "acs": "1.04\n0.76\n1.34",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "123\n77\n173",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "1\n0\n1",
+            "kills": "229",
+            "name": "hyjinx",
+            "team": "Bjor's Kittens"
+          },
+          {
+            "acs": "0.77\n0.48\n1.09",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "109\n59\n163",
+            "hs%": "70%\n50%\n91%",
+            "kdr": "10\n2\n8",
+            "kills": "202",
+            "name": "Teague",
+            "team": "Bjor's Kittens"
+          },
+          {
+            "acs": "0.51\n0.56\n0.45",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "54\n60\n48",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "7\n5\n2",
+            "kills": "80",
+            "name": "Coach Joe",
+            "team": "Bjor's Kittens"
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n0.61\n1.58",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "158\n129\n184",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "235",
+            "name": "Awkua",
+            "team": "mustahed mocking gaming"
+          },
+          {
+            "acs": "1.06\n0.93\n1.18",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "146\n138\n154",
+            "hs%": "52%\n45%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "199",
+            "name": "wraith",
+            "team": "mustahed mocking gaming"
+          },
+          {
+            "acs": "1.04\n0.54\n1.51",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "21\n5\n16",
+            "fk": "169\n96\n236",
+            "hs%": "52%\n45%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "351",
+            "name": "RaM",
+            "team": "mustahed mocking gaming"
+          },
+          {
+            "acs": "0.90\n1.11\n0.71",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "120\n112\n128",
+            "hs%": "57%\n45%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "188",
+            "name": "GLYPH",
+            "team": "mustahed mocking gaming"
+          },
+          {
+            "acs": "0.62\n0.82\n0.43",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "98\n115\n82",
+            "hs%": "52%\n45%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "137",
+            "name": "chanse",
+            "team": "mustahed mocking gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 62406,
+  "teams": [
+    "Bjor's Kittens",
+    "mustahed mocking gaming"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tQuarterfinals"
+}

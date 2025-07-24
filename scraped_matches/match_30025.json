@@ -1,0 +1,788 @@
+{
+  "date": "2021-07-30 12:45:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "314",
+          "name": "neph",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "288",
+          "name": "Jesse",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "231",
+          "name": "m1sfit",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "204",
+          "name": "feqew",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "115",
+          "name": "kpiz",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "278",
+          "name": "Feeqn",
+          "team": "IVY"
+        },
+        {
+          "kills": "195",
+          "name": "roxie",
+          "team": "IVY"
+        },
+        {
+          "kills": "167",
+          "name": "wayLander",
+          "team": "IVY"
+        },
+        {
+          "kills": "166",
+          "name": "rAsk",
+          "team": "IVY"
+        },
+        {
+          "kills": "98",
+          "name": "WorldEdit",
+          "team": "IVY"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.65\n1.34\n2.27",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "201\n196\n212",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "314",
+            "name": "neph",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "1.48\n1.06\n2.31",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "158\n155\n164",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "288",
+            "name": "Jesse",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "1.31\n1.22\n1.51",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "132\n130\n135",
+            "hs%": "83%\n75%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "231",
+            "name": "m1sfit",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "1.13\n0.85\n1.69",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "131\n130\n135",
+            "hs%": "72%\n58%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "204",
+            "name": "feqew",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "0.53\n0.68\n0.23",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "87\n110\n41",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "7\n5\n2",
+            "kills": "115",
+            "name": "kpiz",
+            "team": "LDN UTD"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n0.51\n1.49",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "172\n128\n193",
+            "hs%": "67%\n50%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "278",
+            "name": "Feeqn",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.78\n0.53\n0.91",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "105\n101\n108",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "195",
+            "name": "roxie",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.74\n0.02\n1.14",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "110\n38\n147",
+            "hs%": "56%\n33%\n67%",
+            "kdr": "11\n2\n9",
+            "kills": "167",
+            "name": "wayLander",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.65\n0.46\n0.75",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "110\n91\n119",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "166",
+            "name": "rAsk",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.48\n0.24\n0.61",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "69\n51\n78",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "98",
+            "name": "WorldEdit",
+            "team": "IVY"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "208",
+          "name": "feqew",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "neph",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "Jesse",
+          "team": null
+        },
+        {
+          "kills": "140",
+          "name": "m1sfit",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "kpiz",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Feeqn",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "wayLander",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "rAsk",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "roxie",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "WorldEdit",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.01\n1.37\n1.16",
+            "adr": "+10\n-1\n+11",
+            "agent": "",
+            "assists": "/\n\n39\n28\n11\n\n/",
+            "deaths": "49\n27\n22",
+            "fk": "143\n136\n154",
+            "hs%": "76%\n61%\n96%",
+            "kdr": "12\n4\n8",
+            "kills": "208",
+            "name": "feqew",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.53\n1.16",
+            "adr": "+12\n-4\n+16",
+            "agent": "",
+            "assists": "/\n\n41\n28\n13\n\n/",
+            "deaths": "53\n24\n29",
+            "fk": "138\n120\n162",
+            "hs%": "71%\n61%\n85%",
+            "kdr": "24\n13\n11",
+            "kills": "195",
+            "name": "neph",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.26\n1.10",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n44\n30\n14\n\n/",
+            "deaths": "50\n28\n22",
+            "fk": "134\n139\n127",
+            "hs%": "68%\n64%\n73%",
+            "kdr": "17\n11\n6",
+            "kills": "218",
+            "name": "Jesse",
+            "team": null
+          },
+          {
+            "acs": "0.66\n1.34\n0.95",
+            "adr": "-2\n-12\n+10",
+            "agent": "",
+            "assists": "/\n\n45\n30\n15\n\n/",
+            "deaths": "43\n18\n25",
+            "fk": "121\n87\n167",
+            "hs%": "68%\n58%\n81%",
+            "kdr": "13\n3\n10",
+            "kills": "140",
+            "name": "m1sfit",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.97\n0.85",
+            "adr": "-10\n-11\n+1",
+            "agent": "",
+            "assists": "/\n\n44\n31\n13\n\n/",
+            "deaths": "34\n20\n14",
+            "fk": "107\n109\n103",
+            "hs%": "66%\n58%\n77%",
+            "kdr": "18\n12\n6",
+            "kills": "167",
+            "name": "kpiz",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.78\n1.28\n1.07",
+            "adr": "0\n-8\n+8",
+            "agent": "",
+            "assists": "/\n\n48\n22\n26\n\n/",
+            "deaths": "48\n14\n34",
+            "fk": "139\n102\n166",
+            "hs%": "69%\n50%\n83%",
+            "kdr": "26\n8\n18",
+            "kills": "171",
+            "name": "Feeqn",
+            "team": null
+          },
+          {
+            "acs": "0.54\n1.44\n1.05",
+            "adr": "+5\n-10\n+15",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "50\n14\n36",
+            "fk": "135\n98\n162",
+            "hs%": "65%\n54%\n72%",
+            "kdr": "17\n5\n12",
+            "kills": "161",
+            "name": "wayLander",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.17\n0.97",
+            "adr": "-6\n-10\n+4",
+            "agent": "",
+            "assists": "/\n\n43\n22\n21\n\n/",
+            "deaths": "37\n12\n25",
+            "fk": "130\n92\n157",
+            "hs%": "73%\n58%\n83%",
+            "kdr": "25\n8\n17",
+            "kills": "147",
+            "name": "rAsk",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.03\n0.92",
+            "adr": "+1\n-8\n+9",
+            "agent": "",
+            "assists": "/\n\n47\n22\n25\n\n/",
+            "deaths": "48\n14\n34",
+            "fk": "110\n86\n128",
+            "hs%": "69%\n62%\n75%",
+            "kdr": "18\n9\n9",
+            "kills": "145",
+            "name": "roxie",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.68\n0.65",
+            "adr": "-16\n-10\n-6",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "30\n13\n17",
+            "fk": "87\n93\n82",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "11\n5\n6",
+            "kills": "148",
+            "name": "WorldEdit",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "247",
+          "name": "feqew",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "319",
+          "name": "neph",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "148",
+          "name": "kpiz",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "272",
+          "name": "m1sfit",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "157",
+          "name": "Jesse",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "299",
+          "name": "Feeqn",
+          "team": "IVY"
+        },
+        {
+          "kills": "327",
+          "name": "wayLander",
+          "team": "IVY"
+        },
+        {
+          "kills": "240",
+          "name": "rAsk",
+          "team": "IVY"
+        },
+        {
+          "kills": "192",
+          "name": "roxie",
+          "team": "IVY"
+        },
+        {
+          "kills": "180",
+          "name": "WorldEdit",
+          "team": "IVY"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.01\n0.96\n1.10",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "130\n138\n118",
+            "hs%": "70%\n50%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "247",
+            "name": "feqew",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "0.93\n0.53\n1.53",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "116\n76\n175",
+            "hs%": "60%\n42%\n88%",
+            "kdr": "6\n3\n3",
+            "kills": "319",
+            "name": "neph",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "0.86\n0.79\n0.97",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "112\n110\n115",
+            "hs%": "50%\n42%\n63%",
+            "kdr": "5\n3\n2",
+            "kills": "148",
+            "name": "kpiz",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "0.84\n0.47\n1.41",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "120\n78\n184",
+            "hs%": "65%\n58%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "272",
+            "name": "m1sfit",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "0.73\n0.59\n0.92",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "112\n107\n120",
+            "hs%": "55%\n42%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "157",
+            "name": "Jesse",
+            "team": "LDN UTD"
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.44\n1.59",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "146\n107\n172",
+            "hs%": "85%\n75%\n92%",
+            "kdr": "13\n6\n7",
+            "kills": "299",
+            "name": "Feeqn",
+            "team": "IVY"
+          },
+          {
+            "acs": "1.10\n0.52\n1.49",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "145\n64\n199",
+            "hs%": "65%\n50%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "327",
+            "name": "wayLander",
+            "team": "IVY"
+          },
+          {
+            "acs": "1.08\n0.34\n1.58",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "118\n31\n177",
+            "hs%": "70%\n38%\n92%",
+            "kdr": "8\n2\n6",
+            "kills": "240",
+            "name": "rAsk",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.98\n0.97\n0.99",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "109\n97\n117",
+            "hs%": "85%\n88%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "192",
+            "name": "roxie",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.76\n0.46\n0.97",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "98\n95\n101",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "4\n3\n1",
+            "kills": "180",
+            "name": "WorldEdit",
+            "team": "IVY"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "256",
+          "name": "feqew",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "222",
+          "name": "Jesse",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "194",
+          "name": "kpiz",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "162",
+          "name": "neph",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "189",
+          "name": "m1sfit",
+          "team": "LDN UTD"
+        },
+        {
+          "kills": "235",
+          "name": "wayLander",
+          "team": "IVY"
+        },
+        {
+          "kills": "222",
+          "name": "rAsk",
+          "team": "IVY"
+        },
+        {
+          "kills": "196",
+          "name": "roxie",
+          "team": "IVY"
+        },
+        {
+          "kills": "146",
+          "name": "WorldEdit",
+          "team": "IVY"
+        },
+        {
+          "kills": "167",
+          "name": "Feeqn",
+          "team": "IVY"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.30\n1.22\n1.38",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "164\n140\n187",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "256",
+            "name": "feqew",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "1.12\n1.29\n0.95",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "135\n156\n114",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "6\n5\n1",
+            "kills": "222",
+            "name": "Jesse",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "1.09\n0.83\n1.34",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "117\n108\n127",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "194",
+            "name": "kpiz",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "0.99\n0.83\n1.15",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "108\n89\n127",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "13\n7\n6",
+            "kills": "162",
+            "name": "neph",
+            "team": "LDN UTD"
+          },
+          {
+            "acs": "0.76\n0.31\n1.22",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "113\n53\n173",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "6\n0\n6",
+            "kills": "189",
+            "name": "m1sfit",
+            "team": "LDN UTD"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n0.82\n1.68",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "146\n151\n140",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "235",
+            "name": "wayLander",
+            "team": "IVY"
+          },
+          {
+            "acs": "1.11\n1.03\n1.18",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "154\n134\n174",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "13\n5\n8",
+            "kills": "222",
+            "name": "rAsk",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.96\n0.75\n1.17",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "115\n71\n159",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "196",
+            "name": "roxie",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.68\n0.88\n0.48",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "91\n114\n68",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "146",
+            "name": "WorldEdit",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.62\n0.49\n0.76",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "109\n85\n133",
+            "hs%": "58%\n33%\n83%",
+            "kdr": "7\n1\n6",
+            "kills": "167",
+            "name": "Feeqn",
+            "team": "IVY"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 30025,
+  "teams": [
+    "LDN UTD",
+    "IVY"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tUpper Round of 16"
+}

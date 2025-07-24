@@ -1,0 +1,806 @@
+{
+  "date": "2023-01-14 00:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "252",
+          "name": "Sly",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "219",
+          "name": "LuCA",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "148",
+          "name": "ch0ku",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "155",
+          "name": "Lory",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "166",
+          "name": "PenEloPE",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "370",
+          "name": "KIT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "298",
+          "name": "SKzombie",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "226",
+          "name": "RDT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "214",
+          "name": "Taegeun",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "114",
+          "name": "Polance",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "0.97\n0.68\n1.41",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "153\n144\n166",
+            "hs%": "65%\n50%\n88%",
+            "kdr": "4\n1\n3",
+            "kills": "252",
+            "name": "Sly",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "0.88\n0.85\n0.93",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "125\n115\n140",
+            "hs%": "70%\n58%\n88%",
+            "kdr": "3\n1\n2",
+            "kills": "219",
+            "name": "LuCA",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "0.79\n0.78\n0.79",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "100\n100\n101",
+            "hs%": "45%\n33%\n63%",
+            "kdr": "5\n3\n2",
+            "kills": "148",
+            "name": "ch0ku",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "0.72\n0.41\n1.20",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "100\n69\n145",
+            "hs%": "60%\n58%\n63%",
+            "kdr": "2\n2\n0",
+            "kills": "155",
+            "name": "Lory",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "0.58\n0.44\n0.80",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "121\n93\n164",
+            "hs%": "50%\n42%\n63%",
+            "kdr": "3\n3\n0",
+            "kills": "166",
+            "name": "PenEloPE",
+            "team": "Las Serpientes"
+          }
+        ],
+        [
+          {
+            "acs": "1.67\n1.90\n1.51",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "242\n231\n250",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "7\n0\n7",
+            "kills": "370",
+            "name": "KIT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "1.66\n0.65\n2.33",
+            "adr": "+11\n-2\n+13",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "21\n5\n16",
+            "fk": "192\n149\n220",
+            "hs%": "75%\n50%\n92%",
+            "kdr": "9\n0\n9",
+            "kills": "298",
+            "name": "SKzombie",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "1.34\n0.79\n1.71",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "154\n113\n181",
+            "hs%": "80%\n50%\n100%",
+            "kdr": "7\n2\n5",
+            "kills": "226",
+            "name": "RDT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.95\n0.89\n0.99",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "153\n142\n160",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "214",
+            "name": "Taegeun",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.58\n0.41\n0.69",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "79\n72\n83",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "12\n3\n9",
+            "kills": "114",
+            "name": "Polance",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "221",
+          "name": "Sly",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "ch0ku",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "LuCA",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "Lory",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "PenEloPE",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "SKzombie",
+          "team": null
+        },
+        {
+          "kills": "242",
+          "name": "KIT",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "RDT",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "Taegeun",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "KAR GO AND KILL",
+          "team": null
+        },
+        {
+          "kills": "134",
+          "name": "Polance",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.76\n1.30\n0.99",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n48\n32\n16\n\n/",
+            "deaths": "50\n27\n23",
+            "fk": "138\n134\n143",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "10\n6\n4",
+            "kills": "221",
+            "name": "Sly",
+            "team": null
+          },
+          {
+            "acs": "1.03\n0.87\n0.96",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n41\n24\n17\n\n/",
+            "deaths": "38\n22\n16",
+            "fk": "114\n120\n105",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "15\n10\n5",
+            "kills": "176",
+            "name": "ch0ku",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.09\n0.92",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n47\n30\n17\n\n/",
+            "deaths": "43\n23\n20",
+            "fk": "121\n107\n141",
+            "hs%": "68%\n61%\n77%",
+            "kdr": "18\n14\n4",
+            "kills": "181",
+            "name": "LuCA",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.73\n0.81",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n47\n30\n17\n\n/",
+            "deaths": "38\n23\n15",
+            "fk": "112\n113\n111",
+            "hs%": "66%\n67%\n65%",
+            "kdr": "8\n5\n3",
+            "kills": "185",
+            "name": "Lory",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.87\n0.79",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n48\n29\n19\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "123\n110\n142",
+            "hs%": "58%\n61%\n54%",
+            "kdr": "10\n4\n6",
+            "kills": "174",
+            "name": "PenEloPE",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.75\n1.79\n1.35",
+            "adr": "+15\n-7\n+22",
+            "agent": "",
+            "assists": "/\n\n40\n21\n19\n\n/",
+            "deaths": "55\n14\n41",
+            "fk": "181\n131\n218",
+            "hs%": "74%\n58%\n86%",
+            "kdr": "26\n6\n20",
+            "kills": "186",
+            "name": "SKzombie",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.31\n1.26",
+            "adr": "+14\n+3\n+11",
+            "agent": "",
+            "assists": "/\n\n43\n18\n25\n\n/",
+            "deaths": "57\n21\n36",
+            "fk": "178\n153\n196",
+            "hs%": "66%\n58%\n72%",
+            "kdr": "14\n5\n9",
+            "kills": "242",
+            "name": "KIT",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.21\n1.20",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n40\n17\n23\n\n/",
+            "deaths": "48\n19\n29",
+            "fk": "154\n151\n156",
+            "hs%": "73%\n65%\n78%",
+            "kdr": "20\n9\n11",
+            "kills": "219",
+            "name": "RDT",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.99\n1.01",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n40\n17\n23\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "132\n128\n136",
+            "hs%": "68%\n62%\n72%",
+            "kdr": "15\n7\n8",
+            "kills": "202",
+            "name": "Taegeun",
+            "team": null
+          },
+          {
+            "acs": "1.25\n0.66\n0.91",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "120\n138\n106",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "203",
+            "name": "KAR GO AND KILL",
+            "team": null
+          },
+          {
+            "acs": "0.63\n0.62\n0.63",
+            "adr": "-14\n-6\n-8",
+            "agent": "",
+            "assists": "/\n\n31\n14\n17\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "77\n82\n73",
+            "hs%": "66%\n65%\n67%",
+            "kdr": "16\n4\n12",
+            "kills": "134",
+            "name": "Polance",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "259",
+          "name": "PenEloPE",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "273",
+          "name": "Sly",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "242",
+          "name": "LuCA",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "159",
+          "name": "ch0ku",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "187",
+          "name": "Lory",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "243",
+          "name": "RDT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "243",
+          "name": "KIT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "294",
+          "name": "SKzombie",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "103",
+          "name": "Polance",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "109",
+          "name": "Taegeun",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.45\n1.44\n1.46",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "177\n182\n170",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "3\n0\n3",
+            "kills": "259",
+            "name": "PenEloPE",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "1.29\n1.10\n1.54",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "145\n139\n152",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "3\n2\n1",
+            "kills": "273",
+            "name": "Sly",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "1.04\n0.81\n1.34",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "147\n121\n180",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "7\n7\n0",
+            "kills": "242",
+            "name": "LuCA",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "1.01\n1.10\n0.88",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "112\n115\n107",
+            "hs%": "71%\n83%\n56%",
+            "kdr": "8\n5\n3",
+            "kills": "159",
+            "name": "ch0ku",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "0.82\n0.80\n0.85",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "100\n77\n130",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "5\n3\n2",
+            "kills": "187",
+            "name": "Lory",
+            "team": "Las Serpientes"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n1.26\n1.13",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "175\n180\n172",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "10\n5\n5",
+            "kills": "243",
+            "name": "RDT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.99\n0.90\n1.05",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "139\n110\n160",
+            "hs%": "57%\n44%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "243",
+            "name": "KIT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.93\n0.30\n1.40",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "134\n69\n183",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "294",
+            "name": "SKzombie",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.67\n0.83\n0.55",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "75\n91\n63",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "103",
+            "name": "Polance",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.60\n0.58\n0.60",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "86\n94\n80",
+            "hs%": "62%\n44%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "109",
+            "name": "Taegeun",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "195",
+          "name": "ch0ku",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "219",
+          "name": "Lory",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "167",
+          "name": "LuCA",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "179",
+          "name": "Sly",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "118",
+          "name": "PenEloPE",
+          "team": "Las Serpientes"
+        },
+        {
+          "kills": "325",
+          "name": "SKzombie",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "248",
+          "name": "Taegeun",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "224",
+          "name": "KIT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "200",
+          "name": "RDT",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        },
+        {
+          "kills": "166",
+          "name": "KAR GO AND KILL",
+          "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.21\n0.92",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "129\n146\n107",
+            "hs%": "71%\n83%\n56%",
+            "kdr": "2\n2\n0",
+            "kills": "195",
+            "name": "ch0ku",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "0.89\n1.42\n0.19",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "16\n14\n2",
+            "fk": "136\n191\n61",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "1\n0\n1",
+            "kills": "219",
+            "name": "Lory",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "0.83\n0.73\n0.97",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "93\n86\n102",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "8\n6\n2",
+            "kills": "167",
+            "name": "LuCA",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "0.71\n0.51\n0.98",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "118\n120\n115",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "3\n3\n0",
+            "kills": "179",
+            "name": "Sly",
+            "team": "Las Serpientes"
+          },
+          {
+            "acs": "0.32\n0.29\n0.36",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "72\n56\n93",
+            "hs%": "43%\n58%\n22%",
+            "kdr": "4\n1\n3",
+            "kills": "118",
+            "name": "PenEloPE",
+            "team": "Las Serpientes"
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.28\n1.64",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "219\n177\n250",
+            "hs%": "81%\n67%\n92%",
+            "kdr": "11\n4\n7",
+            "kills": "325",
+            "name": "SKzombie",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "1.48\n1.65\n1.36",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "159\n148\n167",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "8\n5\n3",
+            "kills": "248",
+            "name": "Taegeun",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "1.14\n0.83\n1.38",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "156\n126\n179",
+            "hs%": "71%\n56%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "224",
+            "name": "KIT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "1.07\n1.45\n0.79",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "131\n154\n114",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "200",
+            "name": "RDT",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          },
+          {
+            "acs": "0.91\n1.25\n0.66",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "120\n138\n106",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "166",
+            "name": "KAR GO AND KILL",
+            "team": "\uc880\ube44 \uc544\uce74\ub370\ubbf8"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 166475,
+  "teams": [
+    "\uc880\ube44 \uc544\uce74\ub370\ubbf8",
+    "Las Serpientes"
+  ],
+  "tournament": "Open Qualifier - Group 4: \n\t\t\t\t\t\tRound of 16"
+}

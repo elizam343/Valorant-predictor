@@ -1,0 +1,788 @@
+{
+  "date": "2021-10-17 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "244",
+          "name": "Melser",
+          "team": "Australs"
+        },
+        {
+          "kills": "174",
+          "name": "kiNgg",
+          "team": "Australs"
+        },
+        {
+          "kills": "186",
+          "name": "adverso",
+          "team": "Australs"
+        },
+        {
+          "kills": "71",
+          "name": "Capi",
+          "team": "Australs"
+        },
+        {
+          "kills": "94",
+          "name": "Tacolilla",
+          "team": "Australs"
+        },
+        {
+          "kills": "414",
+          "name": "Khalil",
+          "team": "FURIA"
+        },
+        {
+          "kills": "395",
+          "name": "nzr",
+          "team": "FURIA"
+        },
+        {
+          "kills": "105",
+          "name": "Quick",
+          "team": "FURIA"
+        },
+        {
+          "kills": "169",
+          "name": "mazin",
+          "team": "FURIA"
+        },
+        {
+          "kills": "157",
+          "name": "xand",
+          "team": "FURIA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.05\n0.29\n1.24",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "141\n121\n146",
+            "hs%": "73%\n33%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "244",
+            "name": "Melser",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.85\n0.73\n0.87",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "119\n77\n130",
+            "hs%": "40%\n33%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "174",
+            "name": "kiNgg",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.55\n0.01\n0.74",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "133\n49\n154",
+            "hs%": "60%\n33%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "186",
+            "name": "adverso",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.23\n0.15\n0.25",
+            "adr": "-10\n-2\n-8",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "39\n52\n36",
+            "hs%": "47%\n33%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "71",
+            "name": "Capi",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.19\n0.02\n0.27",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "3\n0\n3",
+            "fk": "73\n43\n81",
+            "hs%": "33%\n33%\n33%",
+            "kdr": "4\n1\n3",
+            "kills": "94",
+            "name": "Tacolilla",
+            "team": "Australs"
+          }
+        ],
+        [
+          {
+            "acs": "2.37\n2.09\n3.47",
+            "adr": "+19\n+12\n+7",
+            "agent": "",
+            "assists": "/\n\n4\n4\n0\n\n/",
+            "deaths": "23\n16\n7",
+            "fk": "285\n258\n395",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "414",
+            "name": "Khalil",
+            "team": "FURIA"
+          },
+          {
+            "acs": "2.22\n2.17\n2.42",
+            "adr": "+17\n+12\n+5",
+            "agent": "",
+            "assists": "/\n\n6\n6\n0\n\n/",
+            "deaths": "23\n18\n5",
+            "fk": "251\n268\n184",
+            "hs%": "87%\n83%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "395",
+            "name": "nzr",
+            "team": "FURIA"
+          },
+          {
+            "acs": "1.02\n1.06\n0.85",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "70\n82\n20",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "9\n7\n2",
+            "kills": "105",
+            "name": "Quick",
+            "team": "FURIA"
+          },
+          {
+            "acs": "0.84\n0.79\n1.04",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "9\n9\n0",
+            "fk": "112\n127\n52",
+            "hs%": "87%\n83%\n100%",
+            "kdr": "6\n6\n0",
+            "kills": "169",
+            "name": "mazin",
+            "team": "FURIA"
+          },
+          {
+            "acs": "0.68\n0.60\n1.03",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "105\n114\n69",
+            "hs%": "73%\n75%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "157",
+            "name": "xand",
+            "team": "FURIA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "152",
+          "name": "Melser",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "kiNgg",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "Tacolilla",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "adverso",
+          "team": null
+        },
+        {
+          "kills": "72",
+          "name": "Capi",
+          "team": null
+        },
+        {
+          "kills": "271",
+          "name": "Khalil",
+          "team": null
+        },
+        {
+          "kills": "305",
+          "name": "nzr",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "Quick",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "xand",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "mazin",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.74\n1.14\n0.93",
+            "adr": "-10\n-10\n0",
+            "agent": "",
+            "assists": "/\n\n41\n22\n19\n\n/",
+            "deaths": "31\n12\n19",
+            "fk": "122\n101\n145",
+            "hs%": "62%\n52%\n72%",
+            "kdr": "11\n7\n4",
+            "kills": "152",
+            "name": "Melser",
+            "team": null
+          },
+          {
+            "acs": "0.67\n1.04\n0.85",
+            "adr": "-9\n-10\n+1",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "35\n15\n20",
+            "fk": "125\n106\n145",
+            "hs%": "58%\n59%\n56%",
+            "kdr": "5\n3\n2",
+            "kills": "168",
+            "name": "kiNgg",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.80\n0.80",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n43\n22\n21\n\n/",
+            "deaths": "30\n13\n17",
+            "fk": "106\n96\n117",
+            "hs%": "62%\n63%\n60%",
+            "kdr": "15\n9\n6",
+            "kills": "139",
+            "name": "Tacolilla",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.47\n0.61",
+            "adr": "-21\n-8\n-13",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "27\n16\n11",
+            "fk": "123\n124\n122",
+            "hs%": "63%\n63%\n64%",
+            "kdr": "13\n5\n8",
+            "kills": "194",
+            "name": "adverso",
+            "team": null
+          },
+          {
+            "acs": "0.28\n0.52\n0.39",
+            "adr": "-27\n-18\n-9",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "60\n45\n75",
+            "hs%": "50%\n37%\n64%",
+            "kdr": "6\n2\n4",
+            "kills": "72",
+            "name": "Capi",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.60\n1.56",
+            "adr": "+26\n+11\n+15",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "48\n24\n24",
+            "fk": "176\n190\n163",
+            "hs%": "85%\n84%\n85%",
+            "kdr": "13\n6\n7",
+            "kills": "271",
+            "name": "Khalil",
+            "team": null
+          },
+          {
+            "acs": "1.59\n1.29\n1.43",
+            "adr": "+24\n+13\n+11",
+            "agent": "",
+            "assists": "/\n\n27\n15\n12\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "188\n214\n164",
+            "hs%": "79%\n76%\n81%",
+            "kdr": "17\n7\n10",
+            "kills": "305",
+            "name": "nzr",
+            "team": null
+          },
+          {
+            "acs": "1.25\n1.43\n1.34",
+            "adr": "+15\n+3\n+12",
+            "agent": "",
+            "assists": "/\n\n29\n16\n13\n\n/",
+            "deaths": "44\n19\n25",
+            "fk": "148\n141\n155",
+            "hs%": "88%\n88%\n89%",
+            "kdr": "22\n13\n9",
+            "kills": "203",
+            "name": "Quick",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.13\n1.05",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n33\n18\n15\n\n/",
+            "deaths": "41\n19\n22",
+            "fk": "143\n139\n147",
+            "hs%": "77%\n76%\n78%",
+            "kdr": "10\n7\n3",
+            "kills": "225",
+            "name": "xand",
+            "team": null
+          },
+          {
+            "acs": "0.66\n1.23\n0.96",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n30\n17\n13\n\n/",
+            "deaths": "37\n16\n21",
+            "fk": "112\n100\n123",
+            "hs%": "79%\n72%\n85%",
+            "kdr": "18\n7\n11",
+            "kills": "151",
+            "name": "mazin",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "242",
+          "name": "Melser",
+          "team": "Australs"
+        },
+        {
+          "kills": "293",
+          "name": "Tacolilla",
+          "team": "Australs"
+        },
+        {
+          "kills": "239",
+          "name": "kiNgg",
+          "team": "Australs"
+        },
+        {
+          "kills": "130",
+          "name": "adverso",
+          "team": "Australs"
+        },
+        {
+          "kills": "133",
+          "name": "Capi",
+          "team": "Australs"
+        },
+        {
+          "kills": "324",
+          "name": "Khalil",
+          "team": "FURIA"
+        },
+        {
+          "kills": "272",
+          "name": "xand",
+          "team": "FURIA"
+        },
+        {
+          "kills": "279",
+          "name": "Quick",
+          "team": "FURIA"
+        },
+        {
+          "kills": "206",
+          "name": "nzr",
+          "team": "FURIA"
+        },
+        {
+          "kills": "145",
+          "name": "mazin",
+          "team": "FURIA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.03\n1.44",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "135\n112\n174",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "6\n4\n2",
+            "kills": "242",
+            "name": "Melser",
+            "team": "Australs"
+          },
+          {
+            "acs": "1.12\n0.90\n1.51",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "120\n100\n154",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "7\n5\n2",
+            "kills": "293",
+            "name": "Tacolilla",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.97\n0.98\n0.95",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "141\n135\n152",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "4\n3\n1",
+            "kills": "239",
+            "name": "kiNgg",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.42\n0.59\n0.13",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "99\n94\n108",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "8\n4\n4",
+            "kills": "130",
+            "name": "adverso",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.40\n0.36\n0.48",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "75\n77\n72",
+            "hs%": "53%\n42%\n71%",
+            "kdr": "1\n1\n0",
+            "kills": "133",
+            "name": "Capi",
+            "team": "Australs"
+          }
+        ],
+        [
+          {
+            "acs": "1.61\n0.87\n2.04",
+            "adr": "+10\n-2\n+12",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "172\n146\n187",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "324",
+            "name": "Khalil",
+            "team": "FURIA"
+          },
+          {
+            "acs": "1.48\n2.29\n1.01",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "185\n215\n167",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "272",
+            "name": "xand",
+            "team": "FURIA"
+          },
+          {
+            "acs": "1.17\n0.72\n1.44",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "167\n135\n185",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "7\n3\n4",
+            "kills": "279",
+            "name": "Quick",
+            "team": "FURIA"
+          },
+          {
+            "acs": "0.88\n0.70\n0.98",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "141\n113\n158",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "206",
+            "name": "nzr",
+            "team": "FURIA"
+          },
+          {
+            "acs": "0.79\n0.80\n0.78",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "94\n85\n99",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "6\n0\n6",
+            "kills": "145",
+            "name": "mazin",
+            "team": "FURIA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "191",
+          "name": "Tacolilla",
+          "team": "Australs"
+        },
+        {
+          "kills": "213",
+          "name": "adverso",
+          "team": "Australs"
+        },
+        {
+          "kills": "177",
+          "name": "kiNgg",
+          "team": "Australs"
+        },
+        {
+          "kills": "118",
+          "name": "Melser",
+          "team": "Australs"
+        },
+        {
+          "kills": "83",
+          "name": "Capi",
+          "team": "Australs"
+        },
+        {
+          "kills": "331",
+          "name": "Quick",
+          "team": "FURIA"
+        },
+        {
+          "kills": "285",
+          "name": "nzr",
+          "team": "FURIA"
+        },
+        {
+          "kills": "224",
+          "name": "mazin",
+          "team": "FURIA"
+        },
+        {
+          "kills": "194",
+          "name": "xand",
+          "team": "FURIA"
+        },
+        {
+          "kills": "116",
+          "name": "Khalil",
+          "team": "FURIA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "0.96\n0.93\n1.01",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "119\n105\n146",
+            "hs%": "67%\n58%\n83%",
+            "kdr": "4\n3\n1",
+            "kills": "191",
+            "name": "Tacolilla",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.87\n1.14\n0.32",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "140\n173\n74",
+            "hs%": "72%\n75%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "213",
+            "name": "adverso",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.73\n0.35\n1.48",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "112\n85\n166",
+            "hs%": "67%\n58%\n83%",
+            "kdr": "0\n0\n0",
+            "kills": "177",
+            "name": "kiNgg",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.57\n0.57\n0.58",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "93\n84\n111",
+            "hs%": "44%\n33%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "118",
+            "name": "Melser",
+            "team": "Australs"
+          },
+          {
+            "acs": "0.52\n0.23\n1.11",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "60\n12\n156",
+            "hs%": "50%\n33%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "83",
+            "name": "Capi",
+            "team": "Australs"
+          }
+        ],
+        [
+          {
+            "acs": "1.79\n2.25\n1.56",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "194\n267\n158",
+            "hs%": "89%\n100%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "331",
+            "name": "Quick",
+            "team": "FURIA"
+          },
+          {
+            "acs": "1.37\n1.47\n1.32",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "185\n225\n165",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "285",
+            "name": "nzr",
+            "team": "FURIA"
+          },
+          {
+            "acs": "1.24\n0.25\n1.73",
+            "adr": "+9\n-1\n+10",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "131\n64\n164",
+            "hs%": "83%\n67%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "224",
+            "name": "mazin",
+            "team": "FURIA"
+          },
+          {
+            "acs": "0.91\n0.15\n1.29",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "132\n100\n147",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "194",
+            "name": "xand",
+            "team": "FURIA"
+          },
+          {
+            "acs": "0.85\n1.17\n0.70",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "89\n106\n81",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "116",
+            "name": "Khalil",
+            "team": "FURIA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 42187,
+  "teams": [
+    "FURIA",
+    "Australs"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tGrand Final"
+}

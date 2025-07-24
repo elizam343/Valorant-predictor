@@ -1,0 +1,788 @@
+{
+  "date": "2021-04-01 11:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "353",
+          "name": "SimonD4rk",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "322",
+          "name": "Vlady",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "258",
+          "name": "yuudai",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "208",
+          "name": "steady",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "106",
+          "name": "braveaf",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "157",
+          "name": "sickrey",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "171",
+          "name": "HEMMORJAY",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "135",
+          "name": "yelf",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "142",
+          "name": "Shrudi",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "69",
+          "name": "Arthas",
+          "team": "Aim.Attack"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.85\n1.43\n1.96",
+            "adr": "+13\n+2\n+11",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "173\n77\n197",
+            "hs%": "80%\n67%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "353",
+            "name": "SimonD4rk",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "1.79\n1.67\n1.82",
+            "adr": "+12\n+2\n+10",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "17\n2\n15",
+            "fk": "203\n63\n238",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "322",
+            "name": "Vlady",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "1.55\n1.93\n1.45",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "155\n162\n154",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "258",
+            "name": "yuudai",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "1.35\n0.79\n1.49",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "111\n35\n130",
+            "hs%": "80%\n100%\n75%",
+            "kdr": "12\n3\n9",
+            "kills": "208",
+            "name": "steady",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "0.83\n1.56\n0.65",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "77\n91\n74",
+            "hs%": "80%\n100%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "106",
+            "name": "braveaf",
+            "team": "tyeasy"
+          }
+        ],
+        [
+          {
+            "acs": "0.73\n0.62\n1.17",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "103\n83\n184",
+            "hs%": "47%\n33%\n100%",
+            "kdr": "1\n0\n1",
+            "kills": "157",
+            "name": "sickrey",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "0.61\n0.71\n0.22",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "107\n125\n35",
+            "hs%": "47%\n50%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "171",
+            "name": "HEMMORJAY",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "0.42\n0.53\n0.03",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "92\n102\n52",
+            "hs%": "53%\n58%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "135",
+            "name": "yelf",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "0.41\n0.52\n0.03",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "93\n108\n32",
+            "hs%": "53%\n58%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "142",
+            "name": "Shrudi",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "0.15\n0.15\n0.17",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "3\n2\n1",
+            "fk": "48\n49\n45",
+            "hs%": "20%\n17%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "69",
+            "name": "Arthas",
+            "team": "Aim.Attack"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "273",
+          "name": "SimonD4rk",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "Vlady",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "yuudai",
+          "team": null
+        },
+        {
+          "kills": "134",
+          "name": "steady",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "braveaf",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "sickrey",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "yelf",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "HEMMORJAY",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "Arthas",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "Shrudi",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.50\n1.20\n1.33",
+            "adr": "+24\n+14\n+10",
+            "agent": "",
+            "assists": "/\n\n42\n18\n24\n\n/",
+            "deaths": "66\n32\n34",
+            "fk": "164\n184\n149",
+            "hs%": "78%\n83%\n74%",
+            "kdr": "11\n5\n6",
+            "kills": "273",
+            "name": "SimonD4rk",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.42\n1.22",
+            "adr": "+13\n-2\n+15",
+            "agent": "",
+            "assists": "/\n\n41\n19\n22\n\n/",
+            "deaths": "54\n17\n37",
+            "fk": "148\n126\n165",
+            "hs%": "81%\n83%\n79%",
+            "kdr": "27\n13\n14",
+            "kills": "175",
+            "name": "Vlady",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.11\n1.08",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n43\n21\n22\n\n/",
+            "deaths": "51\n21\n30",
+            "fk": "130\n129\n132",
+            "hs%": "74%\n70%\n77%",
+            "kdr": "7\n2\n5",
+            "kills": "195",
+            "name": "yuudai",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.09\n0.96",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n45\n19\n26\n\n/",
+            "deaths": "45\n18\n27",
+            "fk": "110\n87\n127",
+            "hs%": "77%\n83%\n72%",
+            "kdr": "36\n14\n22",
+            "kills": "134",
+            "name": "steady",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.72\n0.88",
+            "adr": "-7\n+3\n-10",
+            "agent": "",
+            "assists": "/\n\n48\n22\n26\n\n/",
+            "deaths": "41\n25\n16",
+            "fk": "126\n153\n105",
+            "hs%": "68%\n73%\n64%",
+            "kdr": "16\n5\n11",
+            "kills": "229",
+            "name": "braveaf",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.10\n1.30",
+            "adr": "+15\n+10\n+5",
+            "agent": "",
+            "assists": "/\n\n40\n22\n18\n\n/",
+            "deaths": "55\n32\n23",
+            "fk": "140\n143\n135",
+            "hs%": "75%\n69%\n83%",
+            "kdr": "16\n8\n8",
+            "kills": "219",
+            "name": "sickrey",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.76\n0.85",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n55\n30\n25\n\n/",
+            "deaths": "44\n27\n17",
+            "fk": "122\n120\n126",
+            "hs%": "68%\n69%\n67%",
+            "kdr": "13\n6\n7",
+            "kills": "168",
+            "name": "yelf",
+            "team": null
+          },
+          {
+            "acs": "0.58\n1.02\n0.77",
+            "adr": "-10\n-12\n+2",
+            "agent": "",
+            "assists": "/\n\n54\n34\n20\n\n/",
+            "deaths": "44\n22\n22",
+            "fk": "108\n113\n101",
+            "hs%": "61%\n59%\n63%",
+            "kdr": "8\n6\n2",
+            "kills": "183",
+            "name": "HEMMORJAY",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.82\n0.75",
+            "adr": "-14\n-10\n-4",
+            "agent": "",
+            "assists": "/\n\n54\n30\n24\n\n/",
+            "deaths": "40\n20\n20",
+            "fk": "102\n97\n108",
+            "hs%": "57%\n51%\n63%",
+            "kdr": "16\n10\n6",
+            "kills": "148",
+            "name": "Arthas",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.61\n0.64",
+            "adr": "-19\n-11\n-8",
+            "agent": "",
+            "assists": "/\n\n54\n30\n24\n\n/",
+            "deaths": "35\n19\n16",
+            "fk": "97\n102\n91",
+            "hs%": "62%\n59%\n67%",
+            "kdr": "15\n6\n9",
+            "kills": "144",
+            "name": "Shrudi",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "283",
+          "name": "SimonD4rk",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "218",
+          "name": "yuudai",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "324",
+          "name": "steady",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "118",
+          "name": "Vlady",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "94",
+          "name": "braveaf",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "371",
+          "name": "HEMMORJAY",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "219",
+          "name": "sickrey",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "292",
+          "name": "yelf",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "223",
+          "name": "Arthas",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "118",
+          "name": "Shrudi",
+          "team": "Aim.Attack"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.04\n1.14\n0.95",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "164\n184\n144",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "283",
+            "name": "SimonD4rk",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "1.03\n0.73\n1.34",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "124\n129\n120",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "218",
+            "name": "yuudai",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "1.01\n0.64\n1.38",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "138\n93\n184",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "324",
+            "name": "steady",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "1.00\n1.00\n1.01",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "106\n135\n78",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "118",
+            "name": "Vlady",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "0.68\n0.59\n0.78",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "76\n77\n76",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "94",
+            "name": "braveaf",
+            "team": "tyeasy"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n0.70\n1.87",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "147\n112\n182",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "2\n2\n0",
+            "kills": "371",
+            "name": "HEMMORJAY",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "1.04\n0.88\n1.20",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "99\n81\n117",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "9\n5\n4",
+            "kills": "219",
+            "name": "sickrey",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "1.02\n1.21\n0.82",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "132\n133\n131",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "292",
+            "name": "yelf",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "0.87\n0.53\n1.20",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "96\n58\n134",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "223",
+            "name": "Arthas",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "0.78\n0.99\n0.56",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "108\n130\n85",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "9\n4\n5",
+            "kills": "118",
+            "name": "Shrudi",
+            "team": "Aim.Attack"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "SimonD4rk",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "222",
+          "name": "Vlady",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "292",
+          "name": "braveaf",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "188",
+          "name": "yuudai",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "131",
+          "name": "steady",
+          "team": "tyeasy"
+        },
+        {
+          "kills": "293",
+          "name": "sickrey",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "224",
+          "name": "Arthas",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "183",
+          "name": "yelf",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "160",
+          "name": "Shrudi",
+          "team": "Aim.Attack"
+        },
+        {
+          "kills": "129",
+          "name": "HEMMORJAY",
+          "team": "Aim.Attack"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.30\n1.80\n0.80",
+            "adr": "+9\n+12\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "26\n18\n8",
+            "fk": "159\n205\n113",
+            "hs%": "80%\n93%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "245",
+            "name": "SimonD4rk",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "1.11\n0.80\n1.43",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "154\n132\n176",
+            "hs%": "83%\n87%\n80%",
+            "kdr": "17\n10\n7",
+            "kills": "222",
+            "name": "Vlady",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "1.07\n1.39\n0.74",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "27\n17\n10",
+            "fk": "190\n226\n155",
+            "hs%": "60%\n73%\n47%",
+            "kdr": "4\n1\n3",
+            "kills": "292",
+            "name": "braveaf",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "0.87\n1.08\n0.66",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n9\n13\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "123\n122\n124",
+            "hs%": "70%\n80%\n60%",
+            "kdr": "1\n1\n0",
+            "kills": "188",
+            "name": "yuudai",
+            "team": "tyeasy"
+          },
+          {
+            "acs": "0.73\n0.93\n0.54",
+            "adr": "-6\n+2\n-8",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "87\n94\n79",
+            "hs%": "80%\n93%\n67%",
+            "kdr": "16\n9\n7",
+            "kills": "131",
+            "name": "steady",
+            "team": "tyeasy"
+          }
+        ],
+        [
+          {
+            "acs": "1.78\n2.56\n1.01",
+            "adr": "+21\n+18\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "35\n23\n12",
+            "fk": "191\n241\n141",
+            "hs%": "83%\n93%\n73%",
+            "kdr": "6\n3\n3",
+            "kills": "293",
+            "name": "sickrey",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "0.96\n1.28\n0.65",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n24\n10\n14\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "133\n166\n100",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "10\n7\n3",
+            "kills": "224",
+            "name": "Arthas",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "0.94\n1.01\n0.86",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n22\n9\n13\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "130\n123\n136",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "183",
+            "name": "yelf",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "0.65\n0.53\n0.76",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "91\n74\n108",
+            "hs%": "60%\n53%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "160",
+            "name": "Shrudi",
+            "team": "Aim.Attack"
+          },
+          {
+            "acs": "0.45\n0.39\n0.51",
+            "adr": "-13\n-6\n-7",
+            "agent": "",
+            "assists": "/\n\n25\n14\n11\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "78\n106\n50",
+            "hs%": "60%\n73%\n47%",
+            "kdr": "5\n3\n2",
+            "kills": "129",
+            "name": "HEMMORJAY",
+            "team": "Aim.Attack"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 14931,
+  "teams": [
+    "tyeasy",
+    "Aim.Attack"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 16"
+}

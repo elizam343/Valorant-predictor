@@ -1,0 +1,594 @@
+{
+  "date": "2021-04-29 05:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "191",
+          "name": "sommboiii",
+          "team": "New Haven"
+        },
+        {
+          "kills": "215",
+          "name": "tixx",
+          "team": "New Haven"
+        },
+        {
+          "kills": "154",
+          "name": "Motion",
+          "team": "New Haven"
+        },
+        {
+          "kills": "203",
+          "name": "Ronin",
+          "team": "New Haven"
+        },
+        {
+          "kills": "165",
+          "name": "operator",
+          "team": "New Haven"
+        },
+        {
+          "kills": "217",
+          "name": "Kismet",
+          "team": "TinyTurtles"
+        },
+        {
+          "kills": "309",
+          "name": "Cliqahh",
+          "team": "TinyTurtles"
+        },
+        {
+          "kills": "250",
+          "name": "Chilean El Dios",
+          "team": "TinyTurtles"
+        },
+        {
+          "kills": "205",
+          "name": "Lucid",
+          "team": "TinyTurtles"
+        },
+        {
+          "kills": "150",
+          "name": "Leave42",
+          "team": "TinyTurtles"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.15\n0.73\n1.54",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "126\n105\n145",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "15\n3\n12",
+            "kills": "191",
+            "name": "sommboiii",
+            "team": "New Haven"
+          },
+          {
+            "acs": "1.12\n1.09\n1.14",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "123\n120\n125",
+            "hs%": "57%\n45%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "215",
+            "name": "tixx",
+            "team": "New Haven"
+          },
+          {
+            "acs": "0.80\n0.63\n0.95",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "94\n46\n137",
+            "hs%": "57%\n45%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "154",
+            "name": "Motion",
+            "team": "New Haven"
+          },
+          {
+            "acs": "0.73\n0.52\n0.91",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "128\n108\n147",
+            "hs%": "57%\n64%\n50%",
+            "kdr": "7\n3\n4",
+            "kills": "203",
+            "name": "Ronin",
+            "team": "New Haven"
+          },
+          {
+            "acs": "0.71\n0.61\n0.80",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "108\n103\n113",
+            "hs%": "43%\n36%\n50%",
+            "kdr": "6\n4\n2",
+            "kills": "165",
+            "name": "operator",
+            "team": "New Haven"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n1.46\n1.32",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "143\n196\n86",
+            "hs%": "87%\n92%\n82%",
+            "kdr": "3\n3\n0",
+            "kills": "217",
+            "name": "Kismet",
+            "team": "TinyTurtles"
+          },
+          {
+            "acs": "1.28\n0.84\n1.76",
+            "adr": "+7\n-2\n+9",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "198\n166\n234",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "8\n5\n3",
+            "kills": "309",
+            "name": "Cliqahh",
+            "team": "TinyTurtles"
+          },
+          {
+            "acs": "1.10\n1.32\n0.87",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "140\n169\n109",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "4\n1\n3",
+            "kills": "250",
+            "name": "Chilean El Dios",
+            "team": "TinyTurtles"
+          },
+          {
+            "acs": "0.83\n0.81\n0.86",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "124\n142\n104",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "7\n2\n5",
+            "kills": "205",
+            "name": "Lucid",
+            "team": "TinyTurtles"
+          },
+          {
+            "acs": "0.73\n0.37\n1.12",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "99\n81\n119",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "3\n1\n2",
+            "kills": "150",
+            "name": "Leave42",
+            "team": "TinyTurtles"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "206",
+          "name": "tixx",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "sommboiii",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Motion",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "operator",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Ronin",
+          "team": null
+        },
+        {
+          "kills": "290",
+          "name": "Cliqahh",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "Kismet",
+          "team": null
+        },
+        {
+          "kills": "270",
+          "name": "Chilean El Dios",
+          "team": null
+        },
+        {
+          "kills": "128",
+          "name": "Leave42",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Lucid",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.86\n1.02\n0.92",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n30\n21\n9\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "127\n132\n119",
+            "hs%": "57%\n52%\n64%",
+            "kdr": "3\n3\n0",
+            "kills": "206",
+            "name": "tixx",
+            "team": null
+          },
+          {
+            "acs": "0.56\n1.48\n0.91",
+            "adr": "-8\n-13\n+5",
+            "agent": "",
+            "assists": "/\n\n30\n21\n9\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "101\n87\n124",
+            "hs%": "65%\n57%\n79%",
+            "kdr": "18\n6\n12",
+            "kills": "130",
+            "name": "sommboiii",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.83\n0.78",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n31\n20\n11\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "105\n96\n120",
+            "hs%": "54%\n52%\n57%",
+            "kdr": "3\n1\n2",
+            "kills": "157",
+            "name": "Motion",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.70\n0.70",
+            "adr": "-14\n-9\n-5",
+            "agent": "",
+            "assists": "/\n\n32\n20\n12\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "108\n114\n97",
+            "hs%": "49%\n48%\n50%",
+            "kdr": "7\n5\n2",
+            "kills": "168",
+            "name": "operator",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.79\n0.63",
+            "adr": "-14\n-10\n-4",
+            "agent": "",
+            "assists": "/\n\n35\n22\n13\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "110\n99\n127",
+            "hs%": "54%\n57%\n50%",
+            "kdr": "11\n4\n7",
+            "kills": "167",
+            "name": "Ronin",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n1.72\n1.49",
+            "adr": "+22\n+3\n+19",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "43\n14\n29",
+            "fk": "192\n158\n212",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "8\n5\n3",
+            "kills": "290",
+            "name": "Cliqahh",
+            "team": null
+          },
+          {
+            "acs": "1.40\n1.31\n1.34",
+            "adr": "+13\n+3\n+10",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "28\n12\n16",
+            "fk": "121\n168\n92",
+            "hs%": "92%\n93%\n91%",
+            "kdr": "8\n4\n4",
+            "kills": "253",
+            "name": "Kismet",
+            "team": null
+          },
+          {
+            "acs": "1.28\n1.12\n1.18",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n22\n9\n13\n\n/",
+            "deaths": "31\n13\n18",
+            "fk": "153\n163\n146",
+            "hs%": "76%\n71%\n78%",
+            "kdr": "13\n3\n10",
+            "kills": "270",
+            "name": "Chilean El Dios",
+            "team": null
+          },
+          {
+            "acs": "0.52\n1.41\n1.07",
+            "adr": "+8\n-4\n+12",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "32\n7\n25",
+            "fk": "149\n80\n191",
+            "hs%": "78%\n71%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "128",
+            "name": "Leave42",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.84\n0.82",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n26\n11\n15\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "119\n126\n116",
+            "hs%": "73%\n57%\n83%",
+            "kdr": "15\n4\n11",
+            "kills": "163",
+            "name": "Lucid",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "15",
+          "name": "Motion",
+          "team": "New Haven"
+        },
+        {
+          "kills": "54",
+          "name": "operator",
+          "team": "New Haven"
+        },
+        {
+          "kills": "151",
+          "name": "tixx",
+          "team": "New Haven"
+        },
+        {
+          "kills": "455",
+          "name": "sommboiii",
+          "team": "New Haven"
+        },
+        {
+          "kills": "144",
+          "name": "Ronin",
+          "team": "New Haven"
+        },
+        {
+          "kills": "288",
+          "name": "Cliqahh",
+          "team": "TinyTurtles"
+        },
+        {
+          "kills": "369",
+          "name": "Leave42",
+          "team": "TinyTurtles"
+        },
+        {
+          "kills": "259",
+          "name": "Chilean El Dios",
+          "team": "TinyTurtles"
+        },
+        {
+          "kills": "152",
+          "name": "Kismet",
+          "team": "TinyTurtles"
+        },
+        {
+          "kills": "166",
+          "name": "Lucid",
+          "team": "TinyTurtles"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.76\n0.86\n0.14",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "9\n9\n0",
+            "fk": "124\n142\n15",
+            "hs%": "50%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "15",
+            "name": "Motion",
+            "team": "New Haven"
+          },
+          {
+            "acs": "0.70\n0.80\n0.09",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "106\n124",
+            "hs%": "57%\n58%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "54",
+            "name": "operator",
+            "team": "New Haven"
+          },
+          {
+            "acs": "0.60\n0.65\n0.29",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "134\n143\n78",
+            "hs%": "57%\n58%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "151",
+            "name": "tixx",
+            "team": "New Haven"
+          },
+          {
+            "acs": "0.51\n0.40\n1.16",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "61\n71",
+            "hs%": "57%\n58%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "455",
+            "name": "sommboiii",
+            "team": "New Haven"
+          },
+          {
+            "acs": "0.48\n0.55\n0.09",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "79\n91\n9",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "4\n1\n3",
+            "kills": "144",
+            "name": "Ronin",
+            "team": "New Haven"
+          }
+        ],
+        [
+          {
+            "acs": "1.83\n2.72\n1.69",
+            "adr": "+15\n+5\n+10",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "181\n107\n193",
+            "hs%": "79%\n100%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "288",
+            "name": "Cliqahh",
+            "team": "TinyTurtles"
+          },
+          {
+            "acs": "1.64\n1.41\n1.68",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "19\n3\n16",
+            "fk": "231\n69\n258",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "369",
+            "name": "Leave42",
+            "team": "TinyTurtles"
+          },
+          {
+            "acs": "1.31\n1.08\n1.35",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "174\n133\n181",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "9\n2\n7",
+            "kills": "259",
+            "name": "Chilean El Dios",
+            "team": "TinyTurtles"
+          },
+          {
+            "acs": "1.26\n1.06\n1.29",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "84\n0\n98",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "152",
+            "name": "Kismet",
+            "team": "TinyTurtles"
+          },
+          {
+            "acs": "0.79\n0.54\n0.83",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "113\n30\n126",
+            "hs%": "79%\n50%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "166",
+            "name": "Lucid",
+            "team": "TinyTurtles"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 17677,
+  "teams": [
+    "TinyTurtles",
+    "New Haven"
+  ],
+  "tournament": "Open Qualifier #2: \n\t\t\t\t\t\tRound of 16"
+}

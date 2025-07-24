@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-31 22:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "339",
+          "name": "demon",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "262",
+          "name": "laddermoves",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "179",
+          "name": "dino",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "81",
+          "name": "smiley",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "87",
+          "name": "ARES",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "191",
+          "name": "renai",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "212",
+          "name": "enaye",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "270",
+          "name": "Benevolence",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "196",
+          "name": "wOBBS",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "171",
+          "name": "JimmyJam",
+          "team": "UnitedERA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.55\n1.67\n1.41",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "231\n253\n208",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "6\n2\n4",
+            "kills": "339",
+            "name": "demon",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "1.17\n0.74\n1.64",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "178\n153\n205",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "3\n1\n2",
+            "kills": "262",
+            "name": "laddermoves",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "0.87\n0.63\n1.13",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "115\n91\n142",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "2\n0\n2",
+            "kills": "179",
+            "name": "dino",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "0.57\n0.52\n0.62",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "61\n64\n58",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "8\n5\n3",
+            "kills": "81",
+            "name": "smiley",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "0.53\n0.31\n0.77",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "69\n45\n96",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "7\n6\n1",
+            "kills": "87",
+            "name": "ARES",
+            "team": "Aspyre x Swarm"
+          }
+        ],
+        [
+          {
+            "acs": "1.28\n0.85\n1.67",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "135\n89\n178",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "191",
+            "name": "renai",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "1.25\n1.51\n1.02",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "136\n153\n121",
+            "hs%": "61%\n73%\n50%",
+            "kdr": "10\n5\n5",
+            "kills": "212",
+            "name": "enaye",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "1.21\n0.77\n1.61",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "159\n126\n190",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "270",
+            "name": "Benevolence",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "1.07\n0.69\n1.42",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "148\n112\n181",
+            "hs%": "65%\n45%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "196",
+            "name": "wOBBS",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "0.62\n0.61\n0.63",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "112\n96\n126",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "11\n6\n5",
+            "kills": "171",
+            "name": "JimmyJam",
+            "team": "UnitedERA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "348",
+          "name": "demon",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "laddermoves",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "ARES",
+          "team": null
+        },
+        {
+          "kills": "238",
+          "name": "smiley",
+          "team": null
+        },
+        {
+          "kills": "116",
+          "name": "dino",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "wOBBS",
+          "team": null
+        },
+        {
+          "kills": "236",
+          "name": "enaye",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "Benevolence",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "renai",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "JimmyJam",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.64\n0.86\n1.25",
+            "adr": "+13\n+18\n-5",
+            "agent": "",
+            "assists": "/\n\n55\n25\n30\n\n/",
+            "deaths": "68\n43\n25",
+            "fk": "179\n226\n132",
+            "hs%": "66%\n81%\n51%",
+            "kdr": "14\n8\n6",
+            "kills": "348",
+            "name": "demon",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.13\n1.10",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n49\n22\n27\n\n/",
+            "deaths": "58\n27\n31",
+            "fk": "151\n149\n153",
+            "hs%": "70%\n70%\n70%",
+            "kdr": "12\n6\n6",
+            "kills": "208",
+            "name": "laddermoves",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.04\n1.01",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n50\n22\n28\n\n/",
+            "deaths": "41\n16\n25",
+            "fk": "129\n104\n153",
+            "hs%": "73%\n76%\n70%",
+            "kdr": "32\n19\n13",
+            "kills": "143",
+            "name": "ARES",
+            "team": null
+          },
+          {
+            "acs": "1.29\n0.63\n0.96",
+            "adr": "+2\n+14\n-12",
+            "agent": "",
+            "assists": "/\n\n52\n23\n29\n\n/",
+            "deaths": "54\n37\n17",
+            "fk": "115\n144\n85",
+            "hs%": "72%\n81%\n62%",
+            "kdr": "28\n18\n10",
+            "kills": "238",
+            "name": "smiley",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.91\n0.88",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n54\n25\n29\n\n/",
+            "deaths": "41\n16\n25",
+            "fk": "102\n82\n122",
+            "hs%": "72%\n81%\n62%",
+            "kdr": "28\n20\n8",
+            "kills": "116",
+            "name": "dino",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n1.07\n1.12",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n50\n24\n26\n\n/",
+            "deaths": "58\n31\n27",
+            "fk": "155\n155\n155",
+            "hs%": "69%\n70%\n68%",
+            "kdr": "16\n8\n8",
+            "kills": "216",
+            "name": "wOBBS",
+            "team": null
+          },
+          {
+            "acs": "1.24\n0.88\n1.06",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n50\n24\n26\n\n/",
+            "deaths": "54\n31\n23",
+            "fk": "134\n147\n120",
+            "hs%": "62%\n73%\n51%",
+            "kdr": "24\n15\n9",
+            "kills": "236",
+            "name": "enaye",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.08\n1.03",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n55\n25\n30\n\n/",
+            "deaths": "61\n30\n31",
+            "fk": "144\n139\n149",
+            "hs%": "73%\n70%\n76%",
+            "kdr": "11\n5\n6",
+            "kills": "219",
+            "name": "Benevolence",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.97\n0.94",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n49\n24\n25\n\n/",
+            "deaths": "40\n19\n21",
+            "fk": "115\n102\n129",
+            "hs%": "61%\n65%\n57%",
+            "kdr": "23\n13\n10",
+            "kills": "158",
+            "name": "renai",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.41\n0.79",
+            "adr": "-11\n+6\n-17",
+            "agent": "",
+            "assists": "/\n\n58\n26\n32\n\n/",
+            "deaths": "47\n32\n15",
+            "fk": "119\n150\n89",
+            "hs%": "66%\n73%\n59%",
+            "kdr": "30\n17\n13",
+            "kills": "227",
+            "name": "JimmyJam",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "220",
+          "name": "smiley",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "111",
+          "name": "demon",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "215",
+          "name": "ARES",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "204",
+          "name": "dino",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "208",
+          "name": "laddermoves",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "252",
+          "name": "Benevolence",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "176",
+          "name": "wOBBS",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "153",
+          "name": "enaye",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "99",
+          "name": "JimmyJam",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "154",
+          "name": "renai",
+          "team": "UnitedERA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.92\n0.78",
+            "adr": "+11\n+14\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "31\n21\n10",
+            "fk": "168\n209\n128",
+            "hs%": "79%\n100%\n57%",
+            "kdr": "7\n4\n3",
+            "kills": "220",
+            "name": "smiley",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "1.13\n1.90\n0.37",
+            "adr": "+4\n+12\n-8",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "24\n19\n5",
+            "fk": "157\n235\n80",
+            "hs%": "68%\n93%\n43%",
+            "kdr": "4\n2\n2",
+            "kills": "111",
+            "name": "demon",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "1.13\n1.38\n0.89",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n6\n13\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "142\n138\n145",
+            "hs%": "79%\n93%\n64%",
+            "kdr": "14\n9\n5",
+            "kills": "215",
+            "name": "ARES",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "0.96\n0.82\n1.09",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "93\n56\n131",
+            "hs%": "75%\n86%\n64%",
+            "kdr": "17\n14\n3",
+            "kills": "204",
+            "name": "dino",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "0.96\n1.05\n0.87",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "135\n119\n152",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "7\n4\n3",
+            "kills": "208",
+            "name": "laddermoves",
+            "team": "Aspyre x Swarm"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.49\n0.94",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "162\n170\n154",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "6\n3\n3",
+            "kills": "252",
+            "name": "Benevolence",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "1.16\n1.70\n0.62",
+            "adr": "+5\n+9\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "25\n17\n8",
+            "fk": "170\n229\n111",
+            "hs%": "71%\n93%\n50%",
+            "kdr": "7\n5\n2",
+            "kills": "176",
+            "name": "wOBBS",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "0.96\n1.02\n0.89",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "128\n150\n106",
+            "hs%": "64%\n71%\n57%",
+            "kdr": "8\n6\n2",
+            "kills": "153",
+            "name": "enaye",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "0.73\n1.22\n0.23",
+            "adr": "-6\n+4\n-10",
+            "agent": "",
+            "assists": "/\n\n24\n10\n14\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "119\n168\n70",
+            "hs%": "64%\n79%\n50%",
+            "kdr": "10\n6\n4",
+            "kills": "99",
+            "name": "JimmyJam",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "0.63\n0.72\n0.55",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "109\n100\n119",
+            "hs%": "64%\n79%\n50%",
+            "kdr": "8\n3\n5",
+            "kills": "154",
+            "name": "renai",
+            "team": "UnitedERA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "255",
+          "name": "ARES",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "210",
+          "name": "laddermoves",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "246",
+          "name": "demon",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "178",
+          "name": "smiley",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "134",
+          "name": "dino",
+          "team": "Aspyre x Swarm"
+        },
+        {
+          "kills": "215",
+          "name": "wOBBS",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "188",
+          "name": "JimmyJam",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "218",
+          "name": "enaye",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "174",
+          "name": "renai",
+          "team": "UnitedERA"
+        },
+        {
+          "kills": "166",
+          "name": "Benevolence",
+          "team": "UnitedERA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.33\n1.18\n1.47",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "173\n126\n216",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "11\n4\n7",
+            "kills": "255",
+            "name": "ARES",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "1.21\n1.48\n0.96",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "144\n183\n107",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "210",
+            "name": "laddermoves",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "1.10\n1.29\n0.93",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "153\n186\n123",
+            "hs%": "65%\n82%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "246",
+            "name": "demon",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "0.88\n1.34\n0.47",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "103\n149\n61",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "13\n9\n4",
+            "kills": "178",
+            "name": "smiley",
+            "team": "Aspyre x Swarm"
+          },
+          {
+            "acs": "0.79\n1.13\n0.48",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "100\n106\n95",
+            "hs%": "78%\n100%\n58%",
+            "kdr": "9\n6\n3",
+            "kills": "134",
+            "name": "dino",
+            "team": "Aspyre x Swarm"
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n1.00\n1.27",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "144\n109\n182",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "215",
+            "name": "wOBBS",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "1.03\n1.63\n0.39",
+            "adr": "-1\n+5\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "127\n179\n72",
+            "hs%": "61%\n75%\n45%",
+            "kdr": "9\n5\n4",
+            "kills": "188",
+            "name": "JimmyJam",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "1.00\n1.25\n0.72",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "137\n137\n138",
+            "hs%": "61%\n75%\n45%",
+            "kdr": "6\n4\n2",
+            "kills": "218",
+            "name": "enaye",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "0.96\n1.17\n0.74",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "102\n116\n87",
+            "hs%": "52%\n58%\n45%",
+            "kdr": "9\n7\n2",
+            "kills": "174",
+            "name": "renai",
+            "team": "UnitedERA"
+          },
+          {
+            "acs": "0.64\n0.60\n0.68",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "108\n116\n99",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "1\n0\n1",
+            "kills": "166",
+            "name": "Benevolence",
+            "team": "UnitedERA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 68111,
+  "teams": [
+    "UnitedERA",
+    "Aspyre x Swarm"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tDecider (A)"
+}

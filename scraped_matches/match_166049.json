@@ -1,0 +1,594 @@
+{
+  "date": "2023-02-07 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "254",
+          "name": "L1NK",
+          "team": "Les Petits Bouffons"
+        },
+        {
+          "kills": "272",
+          "name": "vong",
+          "team": "Les Petits Bouffons"
+        },
+        {
+          "kills": "215",
+          "name": "Russ",
+          "team": "Les Petits Bouffons"
+        },
+        {
+          "kills": "234",
+          "name": "Luzuh",
+          "team": "Les Petits Bouffons"
+        },
+        {
+          "kills": "106",
+          "name": "KRAY",
+          "team": "Les Petits Bouffons"
+        },
+        {
+          "kills": "257",
+          "name": "Polvi",
+          "team": "Human Tripwires"
+        },
+        {
+          "kills": "203",
+          "name": "Epzz",
+          "team": "Human Tripwires"
+        },
+        {
+          "kills": "223",
+          "name": "ec1s",
+          "team": "Human Tripwires"
+        },
+        {
+          "kills": "144",
+          "name": "Dev0",
+          "team": "Human Tripwires"
+        },
+        {
+          "kills": "98",
+          "name": "stanley",
+          "team": "Human Tripwires"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.44\n1.35",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "172\n139\n206",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "254",
+            "name": "L1NK",
+            "team": "Les Petits Bouffons"
+          },
+          {
+            "acs": "1.33\n1.48\n1.19",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "163\n181\n144",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "15\n8\n7",
+            "kills": "272",
+            "name": "vong",
+            "team": "Les Petits Bouffons"
+          },
+          {
+            "acs": "1.31\n1.68\n0.94",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "137\n157\n118",
+            "hs%": "83%\n100%\n67%",
+            "kdr": "13\n7\n6",
+            "kills": "215",
+            "name": "Russ",
+            "team": "Les Petits Bouffons"
+          },
+          {
+            "acs": "1.00\n1.46\n0.54",
+            "adr": "+3\n+7\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "142\n197\n88",
+            "hs%": "75%\n100%\n50%",
+            "kdr": "6\n2\n4",
+            "kills": "234",
+            "name": "Luzuh",
+            "team": "Les Petits Bouffons"
+          },
+          {
+            "acs": "0.51\n0.66\n0.36",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "86\n103\n68",
+            "hs%": "58%\n67%\n50%",
+            "kdr": "4\n1\n3",
+            "kills": "106",
+            "name": "KRAY",
+            "team": "Les Petits Bouffons"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.55\n0.85",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "166\n207\n124",
+            "hs%": "75%\n92%\n58%",
+            "kdr": "12\n7\n5",
+            "kills": "257",
+            "name": "Polvi",
+            "team": "Human Tripwires"
+          },
+          {
+            "acs": "1.16\n1.77\n0.56",
+            "adr": "+1\n+9\n-8",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "115\n175\n54",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "12\n5\n7",
+            "kills": "203",
+            "name": "Epzz",
+            "team": "Human Tripwires"
+          },
+          {
+            "acs": "0.99\n0.65\n1.34",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "131\n108\n155",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "8\n6\n2",
+            "kills": "223",
+            "name": "ec1s",
+            "team": "Human Tripwires"
+          },
+          {
+            "acs": "0.56\n0.92\n0.20",
+            "adr": "-9\n0\n-9",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "103\n128\n79",
+            "hs%": "67%\n92%\n42%",
+            "kdr": "5\n4\n1",
+            "kills": "144",
+            "name": "Dev0",
+            "team": "Human Tripwires"
+          },
+          {
+            "acs": "0.49\n0.59\n0.39",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "69\n74\n65",
+            "hs%": "54%\n58%\n50%",
+            "kdr": "4\n1\n3",
+            "kills": "98",
+            "name": "stanley",
+            "team": "Human Tripwires"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "256",
+          "name": "L1NK",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "Russ",
+          "team": null
+        },
+        {
+          "kills": "289",
+          "name": "vong",
+          "team": null
+        },
+        {
+          "kills": "245",
+          "name": "Luzuh",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "KRAY",
+          "team": null
+        },
+        {
+          "kills": "305",
+          "name": "Polvi",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "ec1s",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "Epzz",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "Dev0",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "stanley",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.07\n1.23",
+            "adr": "+10\n+10\n0",
+            "agent": "",
+            "assists": "/\n\n32\n12\n20\n\n/",
+            "deaths": "42\n22\n20",
+            "fk": "162\n170\n155",
+            "hs%": "85%\n86%\n83%",
+            "kdr": "13\n7\n6",
+            "kills": "256",
+            "name": "L1NK",
+            "team": null
+          },
+          {
+            "acs": "1.79\n0.66\n1.20",
+            "adr": "+7\n+13\n-6",
+            "agent": "",
+            "assists": "/\n\n26\n7\n19\n\n/",
+            "deaths": "33\n20\n13",
+            "fk": "114\n129\n99",
+            "hs%": "78%\n95%\n63%",
+            "kdr": "26\n14\n12",
+            "kills": "225",
+            "name": "Russ",
+            "team": null
+          },
+          {
+            "acs": "1.58\n0.73\n1.14",
+            "adr": "+8\n+13\n-5",
+            "agent": "",
+            "assists": "/\n\n28\n9\n19\n\n/",
+            "deaths": "36\n22\n14",
+            "fk": "141\n177\n108",
+            "hs%": "76%\n86%\n67%",
+            "kdr": "19\n10\n9",
+            "kills": "289",
+            "name": "vong",
+            "team": null
+          },
+          {
+            "acs": "1.19\n1.09\n1.14",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n31\n13\n18\n\n/",
+            "deaths": "40\n20\n20",
+            "fk": "150\n157\n144",
+            "hs%": "76%\n95%\n58%",
+            "kdr": "10\n5\n5",
+            "kills": "245",
+            "name": "Luzuh",
+            "team": null
+          },
+          {
+            "acs": "1.15\n0.58\n0.85",
+            "adr": "-3\n+6\n-9",
+            "agent": "",
+            "assists": "/\n\n31\n12\n19\n\n/",
+            "deaths": "28\n18\n10",
+            "fk": "128\n159\n99",
+            "hs%": "67%\n73%\n63%",
+            "kdr": "7\n3\n4",
+            "kills": "218",
+            "name": "KRAY",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.71\n0.57\n1.16",
+            "adr": "+2\n+12\n-10",
+            "agent": "",
+            "assists": "/\n\n35\n14\n21\n\n/",
+            "deaths": "37\n26\n11",
+            "fk": "156\n200\n107",
+            "hs%": "78%\n88%\n68%",
+            "kdr": "19\n13\n6",
+            "kills": "305",
+            "name": "Polvi",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.05\n1.02",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n36\n16\n20\n\n/",
+            "deaths": "36\n21\n15",
+            "fk": "133\n137\n129",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "18\n12\n6",
+            "kills": "218",
+            "name": "ec1s",
+            "team": null
+          },
+          {
+            "acs": "1.25\n0.53\n0.91",
+            "adr": "-6\n+8\n-14",
+            "agent": "",
+            "assists": "/\n\n35\n14\n21\n\n/",
+            "deaths": "29\n22\n7",
+            "fk": "105\n126\n82",
+            "hs%": "70%\n83%\n55%",
+            "kdr": "17\n10\n7",
+            "kills": "220",
+            "name": "Epzz",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.51\n0.74",
+            "adr": "-9\n+3\n-12",
+            "agent": "",
+            "assists": "/\n\n37\n16\n21\n\n/",
+            "deaths": "28\n19\n9",
+            "fk": "111\n133\n88",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "7\n6\n1",
+            "kills": "210",
+            "name": "Dev0",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.25\n0.48",
+            "adr": "-19\n-4\n-15",
+            "agent": "",
+            "assists": "/\n\n37\n17\n20\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "84\n106\n59",
+            "hs%": "57%\n71%\n41%",
+            "kdr": "6\n2\n4",
+            "kills": "148",
+            "name": "stanley",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "343",
+          "name": "Luzuh",
+          "team": "Les Petits Bouffons"
+        },
+        {
+          "kills": "171",
+          "name": "KRAY",
+          "team": "Les Petits Bouffons"
+        },
+        {
+          "kills": "139",
+          "name": "Russ",
+          "team": "Les Petits Bouffons"
+        },
+        {
+          "kills": "181",
+          "name": "L1NK",
+          "team": "Les Petits Bouffons"
+        },
+        {
+          "kills": "110",
+          "name": "vong",
+          "team": "Les Petits Bouffons"
+        },
+        {
+          "kills": "130",
+          "name": "Polvi",
+          "team": "Human Tripwires"
+        },
+        {
+          "kills": "168",
+          "name": "ec1s",
+          "team": "Human Tripwires"
+        },
+        {
+          "kills": "162",
+          "name": "Dev0",
+          "team": "Human Tripwires"
+        },
+        {
+          "kills": "156",
+          "name": "Epzz",
+          "team": "Human Tripwires"
+        },
+        {
+          "kills": "78",
+          "name": "stanley",
+          "team": "Human Tripwires"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.29\n0.88\n1.64",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "159\n108\n201",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "343",
+            "name": "Luzuh",
+            "team": "Les Petits Bouffons"
+          },
+          {
+            "acs": "1.23\n1.73\n0.80",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "173\n227\n129",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "171",
+            "name": "KRAY",
+            "team": "Les Petits Bouffons"
+          },
+          {
+            "acs": "1.08\n1.93\n0.37",
+            "adr": "+1\n+8\n-7",
+            "agent": "",
+            "assists": "/\n\n13\n1\n12\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "88\n97\n81",
+            "hs%": "73%\n90%\n58%",
+            "kdr": "13\n7\n6",
+            "kills": "139",
+            "name": "Russ",
+            "team": "Les Petits Bouffons"
+          },
+          {
+            "acs": "1.06\n1.38\n0.79",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "151\n207\n103",
+            "hs%": "91%\n90%\n92%",
+            "kdr": "10\n5\n5",
+            "kills": "181",
+            "name": "L1NK",
+            "team": "Les Petits Bouffons"
+          },
+          {
+            "acs": "0.92\n1.69\n0.28",
+            "adr": "+1\n+7\n-6",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "118\n173\n71",
+            "hs%": "73%\n90%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "110",
+            "name": "vong",
+            "team": "Les Petits Bouffons"
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n1.87\n0.24",
+            "adr": "+1\n+7\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "145\n194\n86",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "7\n6\n1",
+            "kills": "130",
+            "name": "Polvi",
+            "team": "Human Tripwires"
+          },
+          {
+            "acs": "1.05\n1.34\n0.70",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "136\n167\n98",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "10\n6\n4",
+            "kills": "168",
+            "name": "ec1s",
+            "team": "Human Tripwires"
+          },
+          {
+            "acs": "0.94\n0.99\n0.88",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "120\n138\n100",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "2\n2\n0",
+            "kills": "162",
+            "name": "Dev0",
+            "team": "Human Tripwires"
+          },
+          {
+            "acs": "0.63\n0.74\n0.50",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "95\n77\n116",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "5\n5\n0",
+            "kills": "156",
+            "name": "Epzz",
+            "team": "Human Tripwires"
+          },
+          {
+            "acs": "0.47\n0.79\n0.07",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "100\n139\n52",
+            "hs%": "59%\n83%\n30%",
+            "kdr": "2\n1\n1",
+            "kills": "78",
+            "name": "stanley",
+            "team": "Human Tripwires"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 166049,
+  "teams": [
+    "Human Tripwires",
+    "Les Petits Bouffons"
+  ],
+  "tournament": "Regular Season: \n\t\t\t\t\t\tRound 1"
+}

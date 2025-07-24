@@ -1,0 +1,788 @@
+{
+  "date": "2021-04-12 11:00:42",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "369",
+          "name": "alcoacH",
+          "team": "FAWES"
+        },
+        {
+          "kills": "263",
+          "name": "Patrui",
+          "team": "FAWES"
+        },
+        {
+          "kills": "221",
+          "name": "DenV",
+          "team": "FAWES"
+        },
+        {
+          "kills": "124",
+          "name": "B\u00dcC\u00dcR",
+          "team": "FAWES"
+        },
+        {
+          "kills": "144",
+          "name": "nAked",
+          "team": "FAWES"
+        },
+        {
+          "kills": "311",
+          "name": "Kuzuur",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "227",
+          "name": "Darrick",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "184",
+          "name": "Mykoz",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "210",
+          "name": "sian",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "118",
+          "name": "ST0MPiN",
+          "team": "Cyber Skull Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.43\n1.51",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "27\n16\n11",
+            "fk": "213\n250\n169",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "4\n3\n1",
+            "kills": "369",
+            "name": "alcoacH",
+            "team": "FAWES"
+          },
+          {
+            "acs": "1.11\n1.41\n0.74",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "173\n193\n150",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "7\n5\n2",
+            "kills": "263",
+            "name": "Patrui",
+            "team": "FAWES"
+          },
+          {
+            "acs": "1.05\n1.19\n0.88",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "145\n150\n139",
+            "hs%": "59%\n75%\n40%",
+            "kdr": "4\n2\n2",
+            "kills": "221",
+            "name": "DenV",
+            "team": "FAWES"
+          },
+          {
+            "acs": "0.84\n0.83\n0.85",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "90\n85\n97",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "6\n4\n2",
+            "kills": "124",
+            "name": "B\u00dcC\u00dcR",
+            "team": "FAWES"
+          },
+          {
+            "acs": "0.69\n0.76\n0.61",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "92\n74\n114",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "9\n3\n6",
+            "kills": "144",
+            "name": "nAked",
+            "team": "FAWES"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.51\n1.11",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "195\n220\n174",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "7\n2\n5",
+            "kills": "311",
+            "name": "Kuzuur",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "1.10\n1.34\n0.91",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "119\n136\n105",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "10\n7\n3",
+            "kills": "227",
+            "name": "Darrick",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "1.06\n1.84\n0.40",
+            "adr": "-1\n+6\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "115\n173\n66",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "184",
+            "name": "Mykoz",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "0.94\n0.25\n1.52",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "139\n59\n205",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "210",
+            "name": "sian",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "0.49\n0.35\n0.60",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "94\n89\n97",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "118",
+            "name": "ST0MPiN",
+            "team": "Cyber Skull Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "272",
+          "name": "alcoacH",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "DenV",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "nAked",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Patrui",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "B\u00dcC\u00dcR",
+          "team": null
+        },
+        {
+          "kills": "271",
+          "name": "Kuzuur",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "sian",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Darrick",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "Mykoz",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "ST0MPiN",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.99\n1.70\n1.33",
+            "adr": "+16\n-2\n+18",
+            "agent": "",
+            "assists": "/\n\n52\n33\n19\n\n/",
+            "deaths": "68\n31\n37",
+            "fk": "180\n165\n197",
+            "hs%": "81%\n74%\n88%",
+            "kdr": "12\n8\n4",
+            "kills": "272",
+            "name": "alcoacH",
+            "team": null
+          },
+          {
+            "acs": "1.10\n0.80\n0.96",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "48\n29\n19",
+            "fk": "131\n146\n116",
+            "hs%": "69%\n74%\n63%",
+            "kdr": "19\n6\n13",
+            "kills": "226",
+            "name": "DenV",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.09\n0.96",
+            "adr": "-8\n-11\n+3",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "41\n16\n25",
+            "fk": "116\n106\n127",
+            "hs%": "81%\n74%\n88%",
+            "kdr": "33\n17\n16",
+            "kills": "160",
+            "name": "nAked",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.04\n0.92",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "42\n19\n23",
+            "fk": "129\n117\n143",
+            "hs%": "69%\n66%\n72%",
+            "kdr": "21\n9\n12",
+            "kills": "167",
+            "name": "Patrui",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.91\n0.80",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n48\n27\n21\n\n/",
+            "deaths": "40\n23\n17",
+            "fk": "108\n108\n107",
+            "hs%": "64%\n51%\n78%",
+            "kdr": "15\n7\n8",
+            "kills": "173",
+            "name": "B\u00dcC\u00dcR",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.14\n1.42\n1.29",
+            "adr": "+21\n+6\n+15",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "72\n32\n40",
+            "fk": "194\n184\n203",
+            "hs%": "75%\n75%\n74%",
+            "kdr": "15\n5\n10",
+            "kills": "271",
+            "name": "Kuzuur",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.62\n1.15",
+            "adr": "+7\n-10\n+17",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "51\n14\n37",
+            "fk": "140\n86\n189",
+            "hs%": "73%\n66%\n80%",
+            "kdr": "21\n6\n15",
+            "kills": "130",
+            "name": "sian",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.02\n1.05",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "43\n21\n22",
+            "fk": "110\n114\n106",
+            "hs%": "78%\n69%\n86%",
+            "kdr": "32\n16\n16",
+            "kills": "157",
+            "name": "Darrick",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.66\n0.80",
+            "adr": "-13\n-3\n-10",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "38\n21\n17",
+            "fk": "117\n117\n117",
+            "hs%": "66%\n63%\n69%",
+            "kdr": "13\n3\n10",
+            "kills": "177",
+            "name": "Mykoz",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.95\n0.77",
+            "adr": "-13\n-11\n-2",
+            "agent": "",
+            "assists": "/\n\n49\n26\n23\n\n/",
+            "deaths": "36\n15\n21",
+            "fk": "100\n94\n106",
+            "hs%": "69%\n59%\n77%",
+            "kdr": "16\n4\n12",
+            "kills": "148",
+            "name": "ST0MPiN",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "312",
+          "name": "alcoacH",
+          "team": "FAWES"
+        },
+        {
+          "kills": "317",
+          "name": "nAked",
+          "team": "FAWES"
+        },
+        {
+          "kills": "105",
+          "name": "DenV",
+          "team": "FAWES"
+        },
+        {
+          "kills": "278",
+          "name": "Patrui",
+          "team": "FAWES"
+        },
+        {
+          "kills": "191",
+          "name": "B\u00dcC\u00dcR",
+          "team": "FAWES"
+        },
+        {
+          "kills": "301",
+          "name": "sian",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "354",
+          "name": "Kuzuur",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "199",
+          "name": "Darrick",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "207",
+          "name": "Mykoz",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "157",
+          "name": "ST0MPiN",
+          "team": "Cyber Skull Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.44\n0.91\n2.07",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "178\n145\n218",
+            "hs%": "91%\n83%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "312",
+            "name": "alcoacH",
+            "team": "FAWES"
+          },
+          {
+            "acs": "0.98\n0.58\n1.47",
+            "adr": "-4\n-8\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "100\n79\n127",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "15\n9\n6",
+            "kills": "317",
+            "name": "nAked",
+            "team": "FAWES"
+          },
+          {
+            "acs": "0.95\n1.35\n0.46",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "120\n171\n58",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "10\n2\n8",
+            "kills": "105",
+            "name": "DenV",
+            "team": "FAWES"
+          },
+          {
+            "acs": "0.92\n0.45\n1.50",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "118\n95\n145",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "7\n1\n6",
+            "kills": "278",
+            "name": "Patrui",
+            "team": "FAWES"
+          },
+          {
+            "acs": "0.90\n0.79\n1.03",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "119\n125\n112",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "5\n2\n3",
+            "kills": "191",
+            "name": "B\u00dcC\u00dcR",
+            "team": "FAWES"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n0.63\n1.84",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "150\n118\n178",
+            "hs%": "73%\n50%\n92%",
+            "kdr": "10\n3\n7",
+            "kills": "301",
+            "name": "sian",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "1.15\n0.51\n1.69",
+            "adr": "+5\n-4\n+9",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "169\n110\n218",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "354",
+            "name": "Kuzuur",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "0.96\n0.93\n1.00",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "124\n117\n129",
+            "hs%": "91%\n90%\n92%",
+            "kdr": "11\n4\n7",
+            "kills": "199",
+            "name": "Darrick",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "0.81\n0.82\n0.80",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "149\n125\n168",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "5\n0\n5",
+            "kills": "207",
+            "name": "Mykoz",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "0.76\n0.56\n0.93",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "90\n81\n98",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "157",
+            "name": "ST0MPiN",
+            "team": "Cyber Skull Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "243",
+          "name": "nAked",
+          "team": "FAWES"
+        },
+        {
+          "kills": "244",
+          "name": "alcoacH",
+          "team": "FAWES"
+        },
+        {
+          "kills": "214",
+          "name": "DenV",
+          "team": "FAWES"
+        },
+        {
+          "kills": "130",
+          "name": "Patrui",
+          "team": "FAWES"
+        },
+        {
+          "kills": "187",
+          "name": "B\u00dcC\u00dcR",
+          "team": "FAWES"
+        },
+        {
+          "kills": "343",
+          "name": "Kuzuur",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "192",
+          "name": "sian",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "153",
+          "name": "Darrick",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "193",
+          "name": "ST0MPiN",
+          "team": "Cyber Skull Esports"
+        },
+        {
+          "kills": "124",
+          "name": "Mykoz",
+          "team": "Cyber Skull Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.19\n1.18",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "154\n172\n137",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "9\n5\n4",
+            "kills": "243",
+            "name": "nAked",
+            "team": "FAWES"
+          },
+          {
+            "acs": "1.10\n0.60\n1.56",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "151\n95\n203",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "4\n3\n1",
+            "kills": "244",
+            "name": "alcoacH",
+            "team": "FAWES"
+          },
+          {
+            "acs": "0.89\n0.74\n1.03",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "130\n113\n146",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "214",
+            "name": "DenV",
+            "team": "FAWES"
+          },
+          {
+            "acs": "0.73\n0.52\n0.91",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "99\n59\n136",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "130",
+            "name": "Patrui",
+            "team": "FAWES"
+          },
+          {
+            "acs": "0.67\n0.47\n0.85",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "113\n116\n111",
+            "hs%": "57%\n36%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "187",
+            "name": "B\u00dcC\u00dcR",
+            "team": "FAWES"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.36\n1.47",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "217\n217\n217",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "3\n1\n2",
+            "kills": "343",
+            "name": "Kuzuur",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "1.21\n0.96\n1.49",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "131\n82\n183",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "6\n1\n5",
+            "kills": "192",
+            "name": "sian",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "1.07\n0.97\n1.18",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "88\n93\n83",
+            "hs%": "70%\n42%\n100%",
+            "kdr": "11\n5\n6",
+            "kills": "153",
+            "name": "Darrick",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "1.05\n0.78\n1.35",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "117\n110\n125",
+            "hs%": "70%\n50%\n91%",
+            "kdr": "6\n1\n5",
+            "kills": "193",
+            "name": "ST0MPiN",
+            "team": "Cyber Skull Esports"
+          },
+          {
+            "acs": "0.54\n0.31\n0.79",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "89\n63\n118",
+            "hs%": "52%\n42%\n64%",
+            "kdr": "2\n1\n1",
+            "kills": "124",
+            "name": "Mykoz",
+            "team": "Cyber Skull Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 16172,
+  "teams": [
+    "Cyber Skull Esports",
+    "FAWES"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 16"
+}

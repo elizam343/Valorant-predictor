@@ -1,0 +1,788 @@
+{
+  "date": "2021-08-21 11:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "186",
+          "name": "Nitro",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "201",
+          "name": "frontside",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "125",
+          "name": "kacpi",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "105",
+          "name": "AjMERiTO",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "109",
+          "name": "grubinho",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "326",
+          "name": "UNFAKE",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "299",
+          "name": "xuss",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "210",
+          "name": "maniek",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "192",
+          "name": "adm1k",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "141",
+          "name": "krytyq",
+          "team": "Team Queso"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "0.86\n0.97\n0.65",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "110\n119\n93",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "186",
+            "name": "Nitro",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.76\n0.76\n0.74",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "144\n136\n162",
+            "hs%": "61%\n67%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "201",
+            "name": "frontside",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.67\n0.90\n0.20",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "92\n127\n22",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "125",
+            "name": "kacpi",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.52\n0.58\n0.41",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "60\n82\n17",
+            "hs%": "56%\n67%\n33%",
+            "kdr": "4\n4\n0",
+            "kills": "105",
+            "name": "AjMERiTO",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.41\n0.46\n0.30",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "69\n87\n33",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "109",
+            "name": "grubinho",
+            "team": "Chakalaka"
+          }
+        ],
+        [
+          {
+            "acs": "1.85\n2.01\n1.77",
+            "adr": "+14\n+7\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "212\n178\n229",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "7\n2\n5",
+            "kills": "326",
+            "name": "UNFAKE",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.38\n1.67\n1.23",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "180\n240\n149",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "3\n2\n1",
+            "kills": "299",
+            "name": "xuss",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.18\n0.93\n1.30",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "130\n114\n137",
+            "hs%": "83%\n100%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "210",
+            "name": "maniek",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.16\n1.30\n1.09",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "116\n92\n129",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "11\n3\n8",
+            "kills": "192",
+            "name": "adm1k",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.00\n0.98\n1.01",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "11\n1\n10",
+            "fk": "84\n17\n117",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "141",
+            "name": "krytyq",
+            "team": "Team Queso"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "189",
+          "name": "frontside",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Nitro",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "AjMERiTO",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "kacpi",
+          "team": null
+        },
+        {
+          "kills": "123",
+          "name": "grubinho",
+          "team": null
+        },
+        {
+          "kills": "247",
+          "name": "UNFAKE",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "maniek",
+          "team": null
+        },
+        {
+          "kills": "106",
+          "name": "krytyq",
+          "team": null
+        },
+        {
+          "kills": "119",
+          "name": "adm1k",
+          "team": null
+        },
+        {
+          "kills": "242",
+          "name": "xuss",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.81\n1.14\n0.94",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n45\n31\n14\n\n/",
+            "deaths": "41\n22\n19",
+            "fk": "127\n123\n135",
+            "hs%": "65%\n61%\n71%",
+            "kdr": "8\n5\n3",
+            "kills": "189",
+            "name": "frontside",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.16\n0.91",
+            "adr": "-3\n-10\n+7",
+            "agent": "",
+            "assists": "/\n\n46\n31\n15\n\n/",
+            "deaths": "43\n21\n22",
+            "fk": "120\n107\n139",
+            "hs%": "60%\n56%\n67%",
+            "kdr": "12\n6\n6",
+            "kills": "173",
+            "name": "Nitro",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.87\n0.85",
+            "adr": "-13\n-11\n-2",
+            "agent": "",
+            "assists": "/\n\n48\n33\n15\n\n/",
+            "deaths": "35\n22\n13",
+            "fk": "109\n113\n103",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "13\n9\n4",
+            "kills": "174",
+            "name": "AjMERiTO",
+            "team": null
+          },
+          {
+            "acs": "0.55\n1.07\n0.76",
+            "adr": "-11\n-16\n+5",
+            "agent": "",
+            "assists": "/\n\n49\n33\n16\n\n/",
+            "deaths": "38\n17\n21",
+            "fk": "108\n95\n126",
+            "hs%": "63%\n53%\n79%",
+            "kdr": "9\n7\n2",
+            "kills": "141",
+            "name": "kacpi",
+            "team": null
+          },
+          {
+            "acs": "0.43\n0.90\n0.62",
+            "adr": "-20\n-21\n+1",
+            "agent": "",
+            "assists": "/\n\n47\n34\n13\n\n/",
+            "deaths": "27\n13\n14",
+            "fk": "83\n72\n98",
+            "hs%": "60%\n56%\n67%",
+            "kdr": "15\n8\n7",
+            "kills": "123",
+            "name": "grubinho",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.40\n1.32",
+            "adr": "+17\n+3\n+14",
+            "agent": "",
+            "assists": "/\n\n35\n16\n19\n\n/",
+            "deaths": "52\n19\n33",
+            "fk": "165\n153\n173",
+            "hs%": "77%\n63%\n86%",
+            "kdr": "20\n7\n13",
+            "kills": "247",
+            "name": "UNFAKE",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.58\n1.22",
+            "adr": "+19\n-5\n+24",
+            "agent": "",
+            "assists": "/\n\n39\n20\n19\n\n/",
+            "deaths": "58\n15\n43",
+            "fk": "150\n109\n177",
+            "hs%": "68%\n58%\n75%",
+            "kdr": "7\n1\n6",
+            "kills": "185",
+            "name": "maniek",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.36\n1.19",
+            "adr": "+6\n-5\n+11",
+            "agent": "",
+            "assists": "/\n\n33\n14\n19\n\n/",
+            "deaths": "39\n9\n30",
+            "fk": "127\n74\n162",
+            "hs%": "78%\n58%\n92%",
+            "kdr": "31\n8\n23",
+            "kills": "106",
+            "name": "krytyq",
+            "team": null
+          },
+          {
+            "acs": "0.59\n1.28\n1.00",
+            "adr": "+3\n-8\n+11",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "38\n11\n27",
+            "fk": "100\n58\n127",
+            "hs%": "77%\n54%\n92%",
+            "kdr": "22\n6\n16",
+            "kills": "119",
+            "name": "adm1k",
+            "team": null
+          },
+          {
+            "acs": "0.98\n0.94\n0.96",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n42\n20\n22\n\n/",
+            "deaths": "48\n19\n29",
+            "fk": "132\n130\n133",
+            "hs%": "73%\n63%\n81%",
+            "kdr": "6\n3\n3",
+            "kills": "242",
+            "name": "xuss",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "273",
+          "name": "frontside",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "274",
+          "name": "Nitro",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "243",
+          "name": "kacpi",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "188",
+          "name": "AjMERiTO",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "205",
+          "name": "grubinho",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "306",
+          "name": "krytyq",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "248",
+          "name": "UNFAKE",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "365",
+          "name": "maniek",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "226",
+          "name": "xuss",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "124",
+          "name": "adm1k",
+          "team": "Team Queso"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.21\n1.64",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "159\n152\n166",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "273",
+            "name": "frontside",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.92\n0.53\n1.30",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "126\n80\n172",
+            "hs%": "54%\n42%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "274",
+            "name": "Nitro",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.90\n0.49\n1.31",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "113\n91\n136",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "3\n3\n0",
+            "kills": "243",
+            "name": "kacpi",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.86\n0.67\n1.04",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "118\n87\n149",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "188",
+            "name": "AjMERiTO",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.69\n0.16\n1.22",
+            "adr": "-5\n-10\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "83\n42\n124",
+            "hs%": "63%\n42%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "205",
+            "name": "grubinho",
+            "team": "Chakalaka"
+          }
+        ],
+        [
+          {
+            "acs": "1.36\n1.10\n1.63",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "165\n123\n207",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "14\n3\n11",
+            "kills": "306",
+            "name": "krytyq",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.07\n0.82\n1.33",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "148\n140\n155",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "248",
+            "name": "UNFAKE",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.02\n0.47\n1.56",
+            "adr": "+3\n-6\n+9",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "23\n6\n17",
+            "fk": "148\n98\n198",
+            "hs%": "54%\n33%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "365",
+            "name": "maniek",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "0.93\n0.72\n1.13",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "117\n102\n132",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "0\n0\n0",
+            "kills": "226",
+            "name": "xuss",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "0.61\n0.13\n1.09",
+            "adr": "-7\n-10\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "56\n32\n80",
+            "hs%": "54%\n25%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "124",
+            "name": "adm1k",
+            "team": "Team Queso"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "221",
+          "name": "AjMERiTO",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "223",
+          "name": "Nitro",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "137",
+          "name": "grubinho",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "204",
+          "name": "kacpi",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "135",
+          "name": "frontside",
+          "team": "Chakalaka"
+        },
+        {
+          "kills": "309",
+          "name": "maniek",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "242",
+          "name": "adm1k",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "173",
+          "name": "krytyq",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "209",
+          "name": "UNFAKE",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "194",
+          "name": "xuss",
+          "team": "Team Queso"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.17\n1.26\n0.98",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "147\n172\n98",
+            "hs%": "72%\n75%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "221",
+            "name": "AjMERiTO",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.94\n0.72\n1.38",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "122\n123\n118",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "223",
+            "name": "Nitro",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.73\n0.67\n0.86",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "96\n88\n111",
+            "hs%": "61%\n67%\n50%",
+            "kdr": "5\n2\n3",
+            "kills": "137",
+            "name": "grubinho",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.65\n0.25\n1.46",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "116\n69\n211",
+            "hs%": "72%\n58%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "204",
+            "name": "kacpi",
+            "team": "Chakalaka"
+          },
+          {
+            "acs": "0.49\n0.48\n0.52",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "69\n80\n45",
+            "hs%": "56%\n50%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "135",
+            "name": "frontside",
+            "team": "Chakalaka"
+          }
+        ],
+        [
+          {
+            "acs": "1.55\n0.87\n1.89",
+            "adr": "+10\n-1\n+11",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "21\n4\n17",
+            "fk": "173\n125\n197",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "309",
+            "name": "maniek",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.37\n0.79\n1.65",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "141\n77\n173",
+            "hs%": "89%\n67%\n100%",
+            "kdr": "4\n0\n4",
+            "kills": "242",
+            "name": "adm1k",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.16\n0.60\n1.43",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "119\n34\n161",
+            "hs%": "83%\n50%\n100%",
+            "kdr": "11\n3\n8",
+            "kills": "173",
+            "name": "krytyq",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.11\n1.14\n1.10",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "141\n155\n135",
+            "hs%": "72%\n50%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "209",
+            "name": "UNFAKE",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "0.58\n0.79\n0.47",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "103\n74\n117",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "194",
+            "name": "xuss",
+            "team": "Team Queso"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 33684,
+  "teams": [
+    "Chakalaka",
+    "Team Queso"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tGrand Final"
+}

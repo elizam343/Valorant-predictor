@@ -1,0 +1,594 @@
+{
+  "date": "2021-08-19 19:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "316",
+          "name": "roca",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "245",
+          "name": "Boostio",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "194",
+          "name": "BRANTED",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "209",
+          "name": "Temperature",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "127",
+          "name": "pho",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "288",
+          "name": "tetchra",
+          "team": "YFP"
+        },
+        {
+          "kills": "234",
+          "name": "Meeeeester Juan",
+          "team": "YFP"
+        },
+        {
+          "kills": "184",
+          "name": "w0rldw1de",
+          "team": "YFP"
+        },
+        {
+          "kills": "185",
+          "name": "Reformed",
+          "team": "YFP"
+        },
+        {
+          "kills": "73",
+          "name": "Jet",
+          "team": "YFP"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.44\n1.23\n1.56",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "192\n144\n221",
+            "hs%": "89%\n71%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "316",
+            "name": "roca",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.16\n1.22\n1.12",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "139\n151\n132",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "1\n1\n0",
+            "kills": "245",
+            "name": "Boostio",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.04\n0.90\n1.12",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "116\n62\n147",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "194",
+            "name": "BRANTED",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.00\n1.19\n0.89",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "156\n92\n194",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "209",
+            "name": "Temperature",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.83\n0.16\n1.23",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "80\n14\n119",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "127",
+            "name": "pho",
+            "team": "Evil Geniuses"
+          }
+        ],
+        [
+          {
+            "acs": "1.09\n1.17\n0.95",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "166\n166\n166",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "3\n3\n0",
+            "kills": "288",
+            "name": "tetchra",
+            "team": "YFP"
+          },
+          {
+            "acs": "1.03\n1.10\n0.91",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "153\n156\n148",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "10\n5\n5",
+            "kills": "234",
+            "name": "Meeeeester Juan",
+            "team": "YFP"
+          },
+          {
+            "acs": "0.99\n0.91\n1.13",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "131\n133\n128",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "9\n5\n4",
+            "kills": "184",
+            "name": "w0rldw1de",
+            "team": "YFP"
+          },
+          {
+            "acs": "0.88\n0.59\n1.38",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "133\n102\n186",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "6\n3\n3",
+            "kills": "185",
+            "name": "Reformed",
+            "team": "YFP"
+          },
+          {
+            "acs": "0.40\n0.40\n0.38",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "44\n64\n10",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "2\n2\n0",
+            "kills": "73",
+            "name": "Jet",
+            "team": "YFP"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "356",
+          "name": "Boostio",
+          "team": null
+        },
+        {
+          "kills": "115",
+          "name": "pho",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "Temperature",
+          "team": null
+        },
+        {
+          "kills": "112",
+          "name": "BRANTED",
+          "team": null
+        },
+        {
+          "kills": "260",
+          "name": "roca",
+          "team": null
+        },
+        {
+          "kills": "214",
+          "name": "Reformed",
+          "team": null
+        },
+        {
+          "kills": "126",
+          "name": "Jet",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "tetchra",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "Meeeeester Juan",
+          "team": null
+        },
+        {
+          "kills": "128",
+          "name": "w0rldw1de",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.58\n1.13\n1.36",
+            "adr": "+18\n+13\n+5",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "41\n25\n16",
+            "fk": "158\n203\n113",
+            "hs%": "76%\n74%\n79%",
+            "kdr": "5\n3\n2",
+            "kills": "356",
+            "name": "Boostio",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.42\n1.17",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "98\n63\n132",
+            "hs%": "79%\n74%\n84%",
+            "kdr": "16\n8\n8",
+            "kills": "115",
+            "name": "pho",
+            "team": null
+          },
+          {
+            "acs": "0.94\n1.33\n1.14",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "34\n13\n21",
+            "fk": "159\n117\n202",
+            "hs%": "82%\n74%\n89%",
+            "kdr": "9\n6\n3",
+            "kills": "187",
+            "name": "Temperature",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.07\n1.00",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "25\n9\n16",
+            "fk": "99\n68\n130",
+            "hs%": "82%\n84%\n79%",
+            "kdr": "4\n2\n2",
+            "kills": "112",
+            "name": "BRANTED",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.11\n0.99",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n29\n17\n12\n\n/",
+            "deaths": "32\n16\n16",
+            "fk": "165\n159\n172",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "9\n5\n4",
+            "kills": "260",
+            "name": "roca",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.85\n0.93\n0.89",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n31\n17\n14\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "129\n134\n123",
+            "hs%": "58%\n68%\n47%",
+            "kdr": "7\n4\n3",
+            "kills": "214",
+            "name": "Reformed",
+            "team": null
+          },
+          {
+            "acs": "0.58\n1.14\n0.86",
+            "adr": "-7\n-10\n+3",
+            "agent": "",
+            "assists": "/\n\n31\n18\n13\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "104\n89\n120",
+            "hs%": "63%\n53%\n74%",
+            "kdr": "3\n3\n0",
+            "kills": "126",
+            "name": "Jet",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.82\n0.86",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n32\n18\n14\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "136\n136\n136",
+            "hs%": "68%\n68%\n68%",
+            "kdr": "10\n8\n2",
+            "kills": "223",
+            "name": "tetchra",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.84\n0.85",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n31\n16\n15\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "131\n123\n140",
+            "hs%": "68%\n68%\n68%",
+            "kdr": "15\n6\n9",
+            "kills": "206",
+            "name": "Meeeeester Juan",
+            "team": null
+          },
+          {
+            "acs": "0.66\n0.75\n0.70",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n31\n16\n15\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "108\n99\n117",
+            "hs%": "63%\n53%\n74%",
+            "kdr": "13\n6\n7",
+            "kills": "128",
+            "name": "w0rldw1de",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "251",
+          "name": "Boostio",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "244",
+          "name": "pho",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "433",
+          "name": "Temperature",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "154",
+          "name": "BRANTED",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "141",
+          "name": "roca",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "315",
+          "name": "Jet",
+          "team": "YFP"
+        },
+        {
+          "kills": "139",
+          "name": "Reformed",
+          "team": "YFP"
+        },
+        {
+          "kills": "192",
+          "name": "Meeeeester Juan",
+          "team": "YFP"
+        },
+        {
+          "kills": "161",
+          "name": "tetchra",
+          "team": "YFP"
+        },
+        {
+          "kills": "149",
+          "name": "w0rldw1de",
+          "team": "YFP"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.56\n1.79\n1.15",
+            "adr": "+12\n+10\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "23\n17\n6",
+            "fk": "177\n233\n80",
+            "hs%": "79%\n83%\n71%",
+            "kdr": "4\n2\n2",
+            "kills": "251",
+            "name": "Boostio",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.51\n1.37\n1.75",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "115\n92\n154",
+            "hs%": "84%\n75%\n100%",
+            "kdr": "10\n6\n4",
+            "kills": "244",
+            "name": "pho",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.28\n0.80\n2.09",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "162\n132\n215",
+            "hs%": "79%\n67%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "433",
+            "name": "Temperature",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.95\n0.93\n0.98",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "82\n71\n100",
+            "hs%": "84%\n83%\n86%",
+            "kdr": "3\n1\n2",
+            "kills": "154",
+            "name": "BRANTED",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.53\n0.65\n0.33",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "138\n167\n89",
+            "hs%": "68%\n83%\n43%",
+            "kdr": "4\n4\n0",
+            "kills": "141",
+            "name": "roca",
+            "team": "Evil Geniuses"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n0.88\n1.58",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "164\n131\n184",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "315",
+            "name": "Jet",
+            "team": "YFP"
+          },
+          {
+            "acs": "0.90\n1.29\n0.67",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "125\n190\n87",
+            "hs%": "58%\n86%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "139",
+            "name": "Reformed",
+            "team": "YFP"
+          },
+          {
+            "acs": "0.67\n0.47\n0.80",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "110\n67\n135",
+            "hs%": "58%\n57%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "192",
+            "name": "Meeeeester Juan",
+            "team": "YFP"
+          },
+          {
+            "acs": "0.62\n0.41\n0.75",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "106\n85\n118",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "161",
+            "name": "tetchra",
+            "team": "YFP"
+          },
+          {
+            "acs": "0.41\n0.21\n0.53",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "85\n40\n111",
+            "hs%": "63%\n43%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "149",
+            "name": "w0rldw1de",
+            "team": "YFP"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 33352,
+  "teams": [
+    "Evil Geniuses",
+    "YFP"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tDecider (H)"
+}

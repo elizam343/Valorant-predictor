@@ -1,0 +1,788 @@
+{
+  "date": "2022-10-05 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "253",
+          "name": "flabben",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "176",
+          "name": "SalvoN",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "170",
+          "name": "fr0st",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "181",
+          "name": "Kero",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "150",
+          "name": "Tuna",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "341",
+          "name": "iboss",
+          "team": "CrewX"
+        },
+        {
+          "kills": "239",
+          "name": "Madara",
+          "team": "CrewX"
+        },
+        {
+          "kills": "185",
+          "name": "AlDBoOR",
+          "team": "CrewX"
+        },
+        {
+          "kills": "123",
+          "name": "TERNOS",
+          "team": "CrewX"
+        },
+        {
+          "kills": "146",
+          "name": "zizox",
+          "team": "CrewX"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.19\n0.98\n1.44",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "151\n122\n186",
+            "hs%": "64%\n42%\n90%",
+            "kdr": "2\n1\n1",
+            "kills": "253",
+            "name": "flabben",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "0.98\n0.48\n1.57",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "96\n75\n121",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "5\n0\n5",
+            "kills": "176",
+            "name": "SalvoN",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "0.95\n0.26\n1.79",
+            "adr": "-1\n-9\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "127\n80\n183",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "6\n3\n3",
+            "kills": "170",
+            "name": "fr0st",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "0.75\n0.24\n1.37",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "125\n78\n181",
+            "hs%": "64%\n50%\n80%",
+            "kdr": "8\n2\n6",
+            "kills": "181",
+            "name": "Kero",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "0.49\n0.42\n0.58",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "93\n103\n80",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "14\n7\n7",
+            "kills": "150",
+            "name": "Tuna",
+            "team": "Bravado Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.59\n0.41\n2.58",
+            "adr": "+10\n-6\n+16",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "25\n3\n22",
+            "fk": "227\n92\n340",
+            "hs%": "73%\n40%\n100%",
+            "kdr": "5\n0\n5",
+            "kills": "341",
+            "name": "iboss",
+            "team": "CrewX"
+          },
+          {
+            "acs": "1.48\n1.37\n1.57",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "147\n166\n132",
+            "hs%": "77%\n60%\n92%",
+            "kdr": "16\n2\n14",
+            "kills": "239",
+            "name": "Madara",
+            "team": "CrewX"
+          },
+          {
+            "acs": "1.08\n0.23\n1.79",
+            "adr": "+2\n-7\n+9",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "122\n39\n191",
+            "hs%": "68%\n40%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "185",
+            "name": "AlDBoOR",
+            "team": "CrewX"
+          },
+          {
+            "acs": "0.98\n0.60\n1.30",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "81\n53\n105",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "10\n3\n7",
+            "kills": "123",
+            "name": "TERNOS",
+            "team": "CrewX"
+          },
+          {
+            "acs": "0.68\n0.61\n0.75",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "103\n93\n111",
+            "hs%": "68%\n50%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "146",
+            "name": "zizox",
+            "team": "CrewX"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "258",
+          "name": "flabben",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "fr0st",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "SalvoN",
+          "team": null
+        },
+        {
+          "kills": "134",
+          "name": "Kero",
+          "team": null
+        },
+        {
+          "kills": "239",
+          "name": "Tuna",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "iboss",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "Madara",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "AlDBoOR",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "zizox",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "TERNOS",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.41\n1.30",
+            "adr": "+22\n+9\n+13",
+            "agent": "",
+            "assists": "/\n\n34\n25\n9\n\n/",
+            "deaths": "56\n34\n22",
+            "fk": "152\n151\n152",
+            "hs%": "75%\n64%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "258",
+            "name": "flabben",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.64\n1.20",
+            "adr": "+12\n-3\n+15",
+            "agent": "",
+            "assists": "/\n\n32\n24\n8\n\n/",
+            "deaths": "44\n21\n23",
+            "fk": "142\n122\n171",
+            "hs%": "73%\n69%\n79%",
+            "kdr": "17\n11\n6",
+            "kills": "169",
+            "name": "fr0st",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.07\n1.07",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n38\n24\n14\n\n/",
+            "deaths": "43\n27\n16",
+            "fk": "117\n125\n105",
+            "hs%": "77%\n78%\n75%",
+            "kdr": "19\n9\n10",
+            "kills": "201",
+            "name": "SalvoN",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.24\n0.94",
+            "adr": "-5\n-10\n+5",
+            "agent": "",
+            "assists": "/\n\n41\n26\n15\n\n/",
+            "deaths": "36\n16\n20",
+            "fk": "129\n102\n170",
+            "hs%": "75%\n72%\n79%",
+            "kdr": "32\n15\n17",
+            "kills": "134",
+            "name": "Kero",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.01\n0.82",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n50\n33\n17\n\n/",
+            "deaths": "48\n28\n20",
+            "fk": "145\n152\n136",
+            "hs%": "75%\n69%\n83%",
+            "kdr": "22\n12\n10",
+            "kills": "239",
+            "name": "Tuna",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.42\n1.76\n1.23",
+            "adr": "+10\n-13\n+23",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "55\n9\n46",
+            "fk": "178\n87\n239",
+            "hs%": "70%\n46%\n86%",
+            "kdr": "10\n3\n7",
+            "kills": "124",
+            "name": "iboss",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.02\n0.93",
+            "adr": "-14\n-7\n-7",
+            "agent": "",
+            "assists": "/\n\n47\n21\n26\n\n/",
+            "deaths": "33\n14\n19",
+            "fk": "106\n112\n102",
+            "hs%": "68%\n63%\n72%",
+            "kdr": "32\n7\n25",
+            "kills": "183",
+            "name": "Madara",
+            "team": null
+          },
+          {
+            "acs": "0.65\n1.08\n0.90",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n45\n20\n25\n\n/",
+            "deaths": "39\n12\n27",
+            "fk": "119\n91\n137",
+            "hs%": "65%\n54%\n72%",
+            "kdr": "14\n5\n9",
+            "kills": "152",
+            "name": "AlDBoOR",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.82\n0.83",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n46\n21\n25\n\n/",
+            "deaths": "35\n16\n19",
+            "fk": "114\n130\n103",
+            "hs%": "62%\n63%\n61%",
+            "kdr": "5\n1\n4",
+            "kills": "202",
+            "name": "zizox",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.80\n0.83",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n44\n18\n26\n\n/",
+            "deaths": "33\n13\n20",
+            "fk": "106\n98\n112",
+            "hs%": "62%\n58%\n64%",
+            "kdr": "19\n5\n14",
+            "kills": "150",
+            "name": "TERNOS",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "350",
+          "name": "flabben",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "281",
+          "name": "fr0st",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "210",
+          "name": "Kero",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "36",
+          "name": "SalvoN",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "304",
+          "name": "Tuna",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "347",
+          "name": "iboss",
+          "team": "CrewX"
+        },
+        {
+          "kills": "155",
+          "name": "TERNOS",
+          "team": "CrewX"
+        },
+        {
+          "kills": "129",
+          "name": "Madara",
+          "team": "CrewX"
+        },
+        {
+          "kills": "94",
+          "name": "AlDBoOR",
+          "team": "CrewX"
+        },
+        {
+          "kills": "103",
+          "name": "zizox",
+          "team": "CrewX"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.59\n1.50\n1.77",
+            "adr": "+13\n+8\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "172\n155\n207",
+            "hs%": "83%\n75%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "350",
+            "name": "flabben",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "1.59\n1.36\n2.05",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "171\n157\n198",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "281",
+            "name": "fr0st",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "1.02\n1.06\n0.95",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "123\n109\n151",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "14\n8\n6",
+            "kills": "210",
+            "name": "Kero",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "1.00\n1.36\n0.27",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "9\n9\n0",
+            "fk": "98\n129\n36",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "7\n5\n2",
+            "kills": "36",
+            "name": "SalvoN",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "0.99\n1.00\n0.97",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "22\n15\n7",
+            "fk": "208\n213\n197",
+            "hs%": "72%\n75%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "304",
+            "name": "Tuna",
+            "team": "Bravado Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n0.26\n1.71",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "16\n1\n15",
+            "fk": "169\n51\n228",
+            "hs%": "72%\n50%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "347",
+            "name": "iboss",
+            "team": "CrewX"
+          },
+          {
+            "acs": "0.71\n1.12\n0.51",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "120\n139\n110",
+            "hs%": "61%\n67%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "155",
+            "name": "TERNOS",
+            "team": "CrewX"
+          },
+          {
+            "acs": "0.68\n0.81\n0.61",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "92\n116\n81",
+            "hs%": "67%\n83%\n58%",
+            "kdr": "6\n2\n4",
+            "kills": "129",
+            "name": "Madara",
+            "team": "CrewX"
+          },
+          {
+            "acs": "0.66\n1.20\n0.40",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "96\n165\n62",
+            "hs%": "50%\n67%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "94",
+            "name": "AlDBoOR",
+            "team": "CrewX"
+          },
+          {
+            "acs": "0.39\n0.52\n0.32",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "73\n77\n70",
+            "hs%": "39%\n50%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "103",
+            "name": "zizox",
+            "team": "CrewX"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "237",
+          "name": "SalvoN",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "229",
+          "name": "flabben",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "187",
+          "name": "fr0st",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "186",
+          "name": "Kero",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "241",
+          "name": "Tuna",
+          "team": "Bravado Gaming"
+        },
+        {
+          "kills": "247",
+          "name": "zizox",
+          "team": "CrewX"
+        },
+        {
+          "kills": "201",
+          "name": "AlDBoOR",
+          "team": "CrewX"
+        },
+        {
+          "kills": "179",
+          "name": "iboss",
+          "team": "CrewX"
+        },
+        {
+          "kills": "182",
+          "name": "TERNOS",
+          "team": "CrewX"
+        },
+        {
+          "kills": "115",
+          "name": "Madara",
+          "team": "CrewX"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.23\n1.37\n1.04",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "158\n173\n137",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "237",
+            "name": "SalvoN",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "1.18\n1.23\n1.09",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "134\n177\n70",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "3\n2\n1",
+            "kills": "229",
+            "name": "flabben",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "1.12\n1.10\n1.16",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "132\n130\n135",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "4\n4\n0",
+            "kills": "187",
+            "name": "fr0st",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "1.08\n0.94\n1.30",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "139\n119\n169",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "10\n5\n5",
+            "kills": "186",
+            "name": "Kero",
+            "team": "Bravado Gaming"
+          },
+          {
+            "acs": "1.02\n0.66\n1.57",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "147\n139\n160",
+            "hs%": "80%\n67%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "241",
+            "name": "Tuna",
+            "team": "Bravado Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.38\n1.36\n1.39",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "164\n217\n129",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "247",
+            "name": "zizox",
+            "team": "CrewX"
+          },
+          {
+            "acs": "0.93\n0.75\n1.04",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "136\n102\n159",
+            "hs%": "75%\n63%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "201",
+            "name": "AlDBoOR",
+            "team": "CrewX"
+          },
+          {
+            "acs": "0.82\n0.56\n1.00",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "132\n108\n149",
+            "hs%": "65%\n50%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "179",
+            "name": "iboss",
+            "team": "CrewX"
+          },
+          {
+            "acs": "0.78\n1.06\n0.59",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "122\n123\n122",
+            "hs%": "60%\n63%\n58%",
+            "kdr": "7\n2\n5",
+            "kills": "182",
+            "name": "TERNOS",
+            "team": "CrewX"
+          },
+          {
+            "acs": "0.56\n0.09\n0.87",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "72\n42\n93",
+            "hs%": "60%\n50%\n67%",
+            "kdr": "10\n3\n7",
+            "kills": "115",
+            "name": "Madara",
+            "team": "CrewX"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 146840,
+  "teams": [
+    "Bravado Gaming",
+    "CrewX"
+  ],
+  "tournament": "Levant and Egypt: \n\t\t\t\t\t\tSemifinals"
+}

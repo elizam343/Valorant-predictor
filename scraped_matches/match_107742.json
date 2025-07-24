@@ -1,0 +1,982 @@
+{
+  "date": "2022-06-25 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "241",
+          "name": "Cryocells",
+          "team": "XSET"
+        },
+        {
+          "kills": "188",
+          "name": "BcJ",
+          "team": "XSET"
+        },
+        {
+          "kills": "197",
+          "name": "AYRIN",
+          "team": "XSET"
+        },
+        {
+          "kills": "119",
+          "name": "dephh",
+          "team": "XSET"
+        },
+        {
+          "kills": "133",
+          "name": "zekken",
+          "team": "XSET"
+        },
+        {
+          "kills": "284",
+          "name": "dicey",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "238",
+          "name": "POISED",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "225",
+          "name": "supamen",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "146",
+          "name": "flyuh",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "148",
+          "name": "BABYBAY",
+          "team": "FaZe Clan"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.21\n1.14",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "139\n162\n115",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "241",
+            "name": "Cryocells",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.06\n0.50\n1.62",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "123\n81\n166",
+            "hs%": "63%\n42%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "188",
+            "name": "BcJ",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.88\n0.99\n0.77",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "133\n148\n118",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "197",
+            "name": "AYRIN",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.77\n0.79\n0.75",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "93\n83\n102",
+            "hs%": "46%\n33%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "119",
+            "name": "dephh",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.51\n0.14\n0.87",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "87\n56\n119",
+            "hs%": "50%\n42%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "133",
+            "name": "zekken",
+            "team": "XSET"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n1.57\n1.35",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "180\n208\n151",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "284",
+            "name": "dicey",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "1.22\n0.66\n1.78",
+            "adr": "+5\n-4\n+9",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "146\n79\n212",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "7\n5\n2",
+            "kills": "238",
+            "name": "POISED",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "1.22\n1.27\n1.17",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "149\n163\n134",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "225",
+            "name": "supamen",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "0.94\n0.65\n1.24",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "103\n77\n129",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "146",
+            "name": "flyuh",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "0.55\n0.45\n0.65",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "101\n88\n114",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "7\n1\n6",
+            "kills": "148",
+            "name": "BABYBAY",
+            "team": "FaZe Clan"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "317",
+          "name": "Cryocells",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "BcJ",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "AYRIN",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "dephh",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "zekken",
+          "team": null
+        },
+        {
+          "kills": "252",
+          "name": "dicey",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "supamen",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "BABYBAY",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "flyuh",
+          "team": null
+        },
+        {
+          "kills": "117",
+          "name": "POISED",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.61\n1.27\n1.43",
+            "adr": "+43\n+26\n+17",
+            "agent": "",
+            "assists": "/\n\n60\n26\n34\n\n/",
+            "deaths": "103\n52\n51",
+            "fk": "166\n197\n140",
+            "hs%": "79%\n79%\n78%",
+            "kdr": "9\n5\n4",
+            "kills": "317",
+            "name": "Cryocells",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.22\n1.20",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n61\n26\n35\n\n/",
+            "deaths": "72\n30\n42",
+            "fk": "155\n142\n166",
+            "hs%": "72%\n72%\n73%",
+            "kdr": "24\n12\n12",
+            "kills": "210",
+            "name": "BcJ",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.91\n0.98",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n54\n22\n32\n\n/",
+            "deaths": "54\n26\n28",
+            "fk": "112\n117\n108",
+            "hs%": "76%\n84%\n69%",
+            "kdr": "24\n12\n12",
+            "kills": "186",
+            "name": "AYRIN",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.82\n0.83",
+            "adr": "-15\n-5\n-10",
+            "agent": "",
+            "assists": "/\n\n64\n29\n35\n\n/",
+            "deaths": "49\n24\n25",
+            "fk": "103\n100\n106",
+            "hs%": "68%\n67%\n69%",
+            "kdr": "29\n14\n15",
+            "kills": "152",
+            "name": "dephh",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.77\n0.78",
+            "adr": "-16\n-5\n-11",
+            "agent": "",
+            "assists": "/\n\n72\n30\n42\n\n/",
+            "deaths": "56\n25\n31",
+            "fk": "109\n93\n122",
+            "hs%": "71%\n77%\n67%",
+            "kdr": "36\n14\n22",
+            "kills": "159",
+            "name": "zekken",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.40\n0.92\n1.18",
+            "adr": "+17\n+19\n-2",
+            "agent": "",
+            "assists": "/\n\n62\n29\n33\n\n/",
+            "deaths": "79\n48\n31",
+            "fk": "145\n165\n122",
+            "hs%": "68%\n76%\n58%",
+            "kdr": "12\n8\n4",
+            "kills": "252",
+            "name": "dicey",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.95\n1.02",
+            "adr": "+5\n+9\n-4",
+            "agent": "",
+            "assists": "/\n\n67\n33\n34\n\n/",
+            "deaths": "72\n42\n30",
+            "fk": "142\n140\n144",
+            "hs%": "73%\n80%\n65%",
+            "kdr": "16\n9\n7",
+            "kills": "216",
+            "name": "supamen",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.71\n0.88",
+            "adr": "-9\n+2\n-11",
+            "agent": "",
+            "assists": "/\n\n68\n37\n31\n\n/",
+            "deaths": "59\n39\n20",
+            "fk": "122\n140\n101",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "25\n17\n8",
+            "kills": "226",
+            "name": "BABYBAY",
+            "team": null
+          },
+          {
+            "acs": "0.83\n0.85\n0.84",
+            "adr": "-16\n-8\n-8",
+            "agent": "",
+            "assists": "/\n\n67\n34\n33\n\n/",
+            "deaths": "51\n26\n25",
+            "fk": "113\n109\n118",
+            "hs%": "69%\n73%\n65%",
+            "kdr": "23\n15\n8",
+            "kills": "158",
+            "name": "flyuh",
+            "team": null
+          },
+          {
+            "acs": "0.61\n0.88\n0.73",
+            "adr": "-20\n-17\n-3",
+            "agent": "",
+            "assists": "/\n\n70\n37\n33\n\n/",
+            "deaths": "50\n20\n30",
+            "fk": "98\n73\n127",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "27\n16\n11",
+            "kills": "117",
+            "name": "POISED",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "344",
+          "name": "Cryocells",
+          "team": "XSET"
+        },
+        {
+          "kills": "139",
+          "name": "AYRIN",
+          "team": "XSET"
+        },
+        {
+          "kills": "189",
+          "name": "zekken",
+          "team": "XSET"
+        },
+        {
+          "kills": "293",
+          "name": "BcJ",
+          "team": "XSET"
+        },
+        {
+          "kills": "84",
+          "name": "dephh",
+          "team": "XSET"
+        },
+        {
+          "kills": "190",
+          "name": "flyuh",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "133",
+          "name": "BABYBAY",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "157",
+          "name": "dicey",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "254",
+          "name": "supamen",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "144",
+          "name": "POISED",
+          "team": "FaZe Clan"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.74\n1.64\n1.83",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "27\n12\n15",
+            "fk": "172\n159\n185",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "344",
+            "name": "Cryocells",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.16\n1.18\n1.13",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "107\n114\n101",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "139",
+            "name": "AYRIN",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.98\n1.27\n0.71",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "128\n142\n115",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "9\n4\n5",
+            "kills": "189",
+            "name": "zekken",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.91\n0.58\n1.21",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "142\n85\n194",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "293",
+            "name": "BcJ",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.75\n1.30\n0.25",
+            "adr": "-3\n+3\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "115\n174\n61",
+            "hs%": "74%\n91%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "84",
+            "name": "dephh",
+            "team": "XSET"
+          }
+        ],
+        [
+          {
+            "acs": "1.08\n1.23\n0.93",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "148\n169\n126",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "4\n3\n1",
+            "kills": "190",
+            "name": "flyuh",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "1.01\n1.34\n0.66",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "140\n190\n86",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "5\n3\n2",
+            "kills": "133",
+            "name": "BABYBAY",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "0.82\n1.00\n0.62",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "125\n127\n123",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "2\n1\n1",
+            "kills": "157",
+            "name": "dicey",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "0.78\n0.58\n1.01",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "112\n65\n164",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "6\n5\n1",
+            "kills": "254",
+            "name": "supamen",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "0.66\n0.69\n0.63",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "92\n82\n102",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "8\n6\n2",
+            "kills": "144",
+            "name": "POISED",
+            "team": "FaZe Clan"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "314",
+          "name": "Cryocells",
+          "team": "XSET"
+        },
+        {
+          "kills": "258",
+          "name": "BcJ",
+          "team": "XSET"
+        },
+        {
+          "kills": "164",
+          "name": "AYRIN",
+          "team": "XSET"
+        },
+        {
+          "kills": "163",
+          "name": "zekken",
+          "team": "XSET"
+        },
+        {
+          "kills": "156",
+          "name": "dephh",
+          "team": "XSET"
+        },
+        {
+          "kills": "263",
+          "name": "dicey",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "255",
+          "name": "supamen",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "161",
+          "name": "BABYBAY",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "166",
+          "name": "flyuh",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "149",
+          "name": "POISED",
+          "team": "FaZe Clan"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.39\n2.03\n0.74",
+            "adr": "+13\n+16\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n8\n14\n\n/",
+            "deaths": "35\n24\n11",
+            "fk": "198\n271\n124",
+            "hs%": "77%\n87%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "314",
+            "name": "Cryocells",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.38\n1.75\n1.01",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "183\n216\n150",
+            "hs%": "77%\n87%\n67%",
+            "kdr": "10\n6\n4",
+            "kills": "258",
+            "name": "BcJ",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.89\n1.07\n0.70",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "101\n93\n109",
+            "hs%": "77%\n87%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "164",
+            "name": "AYRIN",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.85\n0.80\n0.89",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n23\n11\n12\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "110\n86\n133",
+            "hs%": "77%\n93%\n60%",
+            "kdr": "16\n9\n7",
+            "kills": "163",
+            "name": "zekken",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.79\n0.59\n0.99",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n23\n10\n13\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "105\n72\n138",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "14\n8\n6",
+            "kills": "156",
+            "name": "dephh",
+            "team": "XSET"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n1.82\n1.10",
+            "adr": "+11\n+11\n0",
+            "agent": "",
+            "assists": "/\n\n19\n6\n13\n\n/",
+            "deaths": "30\n17\n13",
+            "fk": "160\n192\n128",
+            "hs%": "80%\n100%\n60%",
+            "kdr": "7\n5\n2",
+            "kills": "263",
+            "name": "dicey",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "1.02\n1.36\n0.69",
+            "adr": "+3\n+9\n-6",
+            "agent": "",
+            "assists": "/\n\n24\n10\n14\n\n/",
+            "deaths": "27\n19\n8",
+            "fk": "174\n209\n140",
+            "hs%": "77%\n100%\n53%",
+            "kdr": "4\n1\n3",
+            "kills": "255",
+            "name": "supamen",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "0.87\n1.07\n0.67",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "111\n151\n70",
+            "hs%": "63%\n73%\n53%",
+            "kdr": "4\n4\n0",
+            "kills": "161",
+            "name": "BABYBAY",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "0.80\n0.93\n0.67",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n23\n10\n13\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "121\n126\n116",
+            "hs%": "70%\n80%\n60%",
+            "kdr": "10\n6\n4",
+            "kills": "166",
+            "name": "flyuh",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "0.66\n0.67\n0.64",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n23\n10\n13\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "95\n80\n110",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "149",
+            "name": "POISED",
+            "team": "FaZe Clan"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "260",
+          "name": "BcJ",
+          "team": "XSET"
+        },
+        {
+          "kills": "241",
+          "name": "Cryocells",
+          "team": "XSET"
+        },
+        {
+          "kills": "149",
+          "name": "dephh",
+          "team": "XSET"
+        },
+        {
+          "kills": "158",
+          "name": "AYRIN",
+          "team": "XSET"
+        },
+        {
+          "kills": "169",
+          "name": "zekken",
+          "team": "XSET"
+        },
+        {
+          "kills": "235",
+          "name": "BABYBAY",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "160",
+          "name": "supamen",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "166",
+          "name": "dicey",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "96",
+          "name": "flyuh",
+          "team": "FaZe Clan"
+        },
+        {
+          "kills": "57",
+          "name": "POISED",
+          "team": "FaZe Clan"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.48\n2.45\n1.08",
+            "adr": "+10\n+6\n+4",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "170\n196\n159",
+            "hs%": "82%\n100%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "260",
+            "name": "BcJ",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.43\n1.28\n1.50",
+            "adr": "+13\n+1\n+12",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "20\n4\n16",
+            "fk": "140\n140\n140",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "1\n1\n0",
+            "kills": "241",
+            "name": "Cryocells",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.09\n0.71\n1.24",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "98\n58\n115",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "149",
+            "name": "dephh",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.05\n0.98\n1.08",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "109\n121\n104",
+            "hs%": "82%\n100%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "158",
+            "name": "AYRIN",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.76\n1.26\n0.56",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "113\n96\n120",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "8\n1\n7",
+            "kills": "169",
+            "name": "zekken",
+            "team": "XSET"
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n1.23\n1.08",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "148\n129\n193",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "9\n9\n0",
+            "kills": "235",
+            "name": "BABYBAY",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "1.07\n1.07\n1.09",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "116\n107\n136",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "4\n3\n1",
+            "kills": "160",
+            "name": "supamen",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "0.76\n1.13\n0.02",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "99\n125\n35",
+            "hs%": "59%\n75%\n20%",
+            "kdr": "0\n0\n0",
+            "kills": "166",
+            "name": "dicey",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "0.43\n0.48\n0.31",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "66\n59\n84",
+            "hs%": "59%\n75%\n20%",
+            "kdr": "4\n4\n0",
+            "kills": "96",
+            "name": "flyuh",
+            "team": "FaZe Clan"
+          },
+          {
+            "acs": "0.29\n0.41\n0.03",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "3\n2\n1",
+            "fk": "45\n50\n34",
+            "hs%": "65%\n67%\n60%",
+            "kdr": "5\n3\n2",
+            "kills": "57",
+            "name": "POISED",
+            "team": "FaZe Clan"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 107742,
+  "teams": [
+    "XSET",
+    "FaZe Clan"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tLower Bracket Finals"
+}

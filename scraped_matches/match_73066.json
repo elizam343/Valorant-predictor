@@ -1,0 +1,788 @@
+{
+  "date": "2022-02-24 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "268",
+          "name": "aimhunterr",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "257",
+          "name": "kasper",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "241",
+          "name": "INFESTOR",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "153",
+          "name": "fr1",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "147",
+          "name": "bucher1",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "226",
+          "name": "SnipKw",
+          "team": "redCore"
+        },
+        {
+          "kills": "241",
+          "name": "NaTTs",
+          "team": "redCore"
+        },
+        {
+          "kills": "152",
+          "name": "xelouz",
+          "team": "redCore"
+        },
+        {
+          "kills": "199",
+          "name": "JustnatioNN",
+          "team": "redCore"
+        },
+        {
+          "kills": "124",
+          "name": "EpicoN",
+          "team": "redCore"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.72\n1.50\n1.98",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "183\n215\n146",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "2\n1\n1",
+            "kills": "268",
+            "name": "aimhunterr",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "1.50\n1.04\n2.04",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "162\n83\n257",
+            "hs%": "86%\n92%\n80%",
+            "kdr": "11\n6\n5",
+            "kills": "257",
+            "name": "kasper",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "1.39\n1.19\n1.62",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "147\n149\n144",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "8\n3\n5",
+            "kills": "241",
+            "name": "INFESTOR",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.65\n0.71\n0.58",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "117\n118\n115",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "6\n1\n5",
+            "kills": "153",
+            "name": "fr1",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.54\n0.75\n0.28",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "104\n131\n72",
+            "hs%": "59%\n67%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "147",
+            "name": "bucher1",
+            "team": "Team Duelist"
+          }
+        ],
+        [
+          {
+            "acs": "0.96\n1.01\n0.92",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "140\n145\n135",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "226",
+            "name": "SnipKw",
+            "team": "redCore"
+          },
+          {
+            "acs": "0.93\n0.49\n1.29",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "149\n98\n192",
+            "hs%": "68%\n50%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "241",
+            "name": "NaTTs",
+            "team": "redCore"
+          },
+          {
+            "acs": "0.85\n0.60\n1.06",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "114\n106\n120",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "152",
+            "name": "xelouz",
+            "team": "redCore"
+          },
+          {
+            "acs": "0.84\n0.92\n0.77",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "125\n152\n103",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "6\n5\n1",
+            "kills": "199",
+            "name": "JustnatioNN",
+            "team": "redCore"
+          },
+          {
+            "acs": "0.65\n0.66\n0.63",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "80\n75\n85",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "124",
+            "name": "EpicoN",
+            "team": "redCore"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "191",
+          "name": "aimhunterr",
+          "team": null
+        },
+        {
+          "kills": "214",
+          "name": "INFESTOR",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "fr1",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "kasper",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "bucher1",
+          "team": null
+        },
+        {
+          "kills": "238",
+          "name": "NaTTs",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "xelouz",
+          "team": null
+        },
+        {
+          "kills": "234",
+          "name": "JustnatioNN",
+          "team": null
+        },
+        {
+          "kills": "234",
+          "name": "SnipKw",
+          "team": null
+        },
+        {
+          "kills": "109",
+          "name": "EpicoN",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.86\n1.45\n1.15",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n48\n28\n20\n\n/",
+            "deaths": "57\n26\n31",
+            "fk": "145\n134\n158",
+            "hs%": "71%\n65%\n77%",
+            "kdr": "12\n5\n7",
+            "kills": "191",
+            "name": "aimhunterr",
+            "team": null
+          },
+          {
+            "acs": "1.06\n1.23\n1.14",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "54\n27\n27",
+            "fk": "148\n151\n144",
+            "hs%": "69%\n65%\n74%",
+            "kdr": "19\n9\n10",
+            "kills": "214",
+            "name": "INFESTOR",
+            "team": null
+          },
+          {
+            "acs": "1.17\n1.10\n1.13",
+            "adr": "+7\n+8\n-1",
+            "agent": "",
+            "assists": "/\n\n52\n25\n27\n\n/",
+            "deaths": "59\n33\n26",
+            "fk": "157\n158\n155",
+            "hs%": "71%\n68%\n74%",
+            "kdr": "12\n4\n8",
+            "kills": "229",
+            "name": "fr1",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.10\n1.05",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n49\n23\n26\n\n/",
+            "deaths": "50\n20\n30",
+            "fk": "123\n102\n144",
+            "hs%": "72%\n78%\n66%",
+            "kdr": "24\n11\n13",
+            "kills": "151",
+            "name": "kasper",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.50\n0.66",
+            "adr": "-19\n-6\n-13",
+            "agent": "",
+            "assists": "/\n\n56\n29\n27\n\n/",
+            "deaths": "37\n23\n14",
+            "fk": "106\n129\n82",
+            "hs%": "64%\n76%\n51%",
+            "kdr": "16\n9\n7",
+            "kills": "187",
+            "name": "bucher1",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.90\n1.47\n1.19",
+            "adr": "+12\n-3\n+15",
+            "agent": "",
+            "assists": "/\n\n54\n29\n25\n\n/",
+            "deaths": "66\n26\n40",
+            "fk": "181\n150\n209",
+            "hs%": "71%\n63%\n78%",
+            "kdr": "10\n6\n4",
+            "kills": "238",
+            "name": "NaTTs",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.13\n1.06",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "54\n24\n30",
+            "fk": "138\n138\n137",
+            "hs%": "72%\n69%\n76%",
+            "kdr": "20\n13\n7",
+            "kills": "197",
+            "name": "xelouz",
+            "team": null
+          },
+          {
+            "acs": "1.16\n0.91\n1.03",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n50\n24\n26\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "137\n160\n115",
+            "hs%": "75%\n86%\n65%",
+            "kdr": "30\n20\n10",
+            "kills": "234",
+            "name": "JustnatioNN",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.70\n0.93",
+            "adr": "-2\n+6\n-8",
+            "agent": "",
+            "assists": "/\n\n50\n24\n26\n\n/",
+            "deaths": "48\n30\n18",
+            "fk": "123\n156\n92",
+            "hs%": "68%\n69%\n68%",
+            "kdr": "21\n10\n11",
+            "kills": "234",
+            "name": "SnipKw",
+            "team": null
+          },
+          {
+            "acs": "0.49\n0.72\n0.61",
+            "adr": "-21\n-13\n-8",
+            "agent": "",
+            "assists": "/\n\n53\n27\n26\n\n/",
+            "deaths": "32\n14\n18",
+            "fk": "75\n66\n83",
+            "hs%": "61%\n57%\n65%",
+            "kdr": "9\n3\n6",
+            "kills": "109",
+            "name": "EpicoN",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "341",
+          "name": "fr1",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "125",
+          "name": "bucher1",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "238",
+          "name": "INFESTOR",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "184",
+          "name": "kasper",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "148",
+          "name": "aimhunterr",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "405",
+          "name": "NaTTs",
+          "team": "redCore"
+        },
+        {
+          "kills": "180",
+          "name": "xelouz",
+          "team": "redCore"
+        },
+        {
+          "kills": "113",
+          "name": "JustnatioNN",
+          "team": "redCore"
+        },
+        {
+          "kills": "152",
+          "name": "EpicoN",
+          "team": "redCore"
+        },
+        {
+          "kills": "149",
+          "name": "SnipKw",
+          "team": "redCore"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.59\n1.57\n1.61",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "27\n13\n14",
+            "fk": "194\n176\n212",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "341",
+            "name": "fr1",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.97\n1.23\n0.71",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "131\n186\n77",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "125",
+            "name": "bucher1",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.74\n0.35\n1.13",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "127\n92\n161",
+            "hs%": "54%\n33%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "238",
+            "name": "INFESTOR",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.70\n0.50\n0.90",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "84\n50\n119",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "6\n4\n2",
+            "kills": "184",
+            "name": "kasper",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.55\n0.38\n0.72",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "81\n65\n97",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "148",
+            "name": "aimhunterr",
+            "team": "Team Duelist"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.07\n2.07",
+            "adr": "+12\n0\n+12",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "28\n10\n18",
+            "fk": "214\n168\n260",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "3\n3\n0",
+            "kills": "405",
+            "name": "NaTTs",
+            "team": "redCore"
+          },
+          {
+            "acs": "1.14\n1.34\n0.95",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "135\n142\n127",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "12\n8\n4",
+            "kills": "180",
+            "name": "xelouz",
+            "team": "redCore"
+          },
+          {
+            "acs": "0.85\n1.05\n0.66",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "117\n153\n82",
+            "hs%": "79%\n92%\n67%",
+            "kdr": "9\n7\n2",
+            "kills": "113",
+            "name": "JustnatioNN",
+            "team": "redCore"
+          },
+          {
+            "acs": "0.84\n0.58\n1.11",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "85\n87\n82",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "152",
+            "name": "EpicoN",
+            "team": "redCore"
+          },
+          {
+            "acs": "0.84\n0.93\n0.75",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "102\n115\n89",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "149",
+            "name": "SnipKw",
+            "team": "redCore"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "251",
+          "name": "INFESTOR",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "257",
+          "name": "aimhunterr",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "230",
+          "name": "fr1",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "197",
+          "name": "kasper",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "124",
+          "name": "bucher1",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "254",
+          "name": "JustnatioNN",
+          "team": "redCore"
+        },
+        {
+          "kills": "230",
+          "name": "xelouz",
+          "team": "redCore"
+        },
+        {
+          "kills": "256",
+          "name": "NaTTs",
+          "team": "redCore"
+        },
+        {
+          "kills": "181",
+          "name": "SnipKw",
+          "team": "redCore"
+        },
+        {
+          "kills": "96",
+          "name": "EpicoN",
+          "team": "redCore"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.60\n1.03",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "168\n208\n129",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "4\n2\n2",
+            "kills": "251",
+            "name": "INFESTOR",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "1.22\n0.73\n1.71",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "173\n122\n225",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "9\n4\n5",
+            "kills": "257",
+            "name": "aimhunterr",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "1.13\n1.23\n1.02",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "156\n179\n133",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "4\n3\n1",
+            "kills": "230",
+            "name": "fr1",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.98\n1.40\n0.57",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "124\n168\n80",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "7\n1\n6",
+            "kills": "197",
+            "name": "kasper",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.48\n0.48\n0.48",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "85\n74\n95",
+            "hs%": "62%\n77%\n46%",
+            "kdr": "7\n4\n3",
+            "kills": "124",
+            "name": "bucher1",
+            "team": "Team Duelist"
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n1.45\n1.26",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "165\n174\n156",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "15\n8\n7",
+            "kills": "254",
+            "name": "JustnatioNN",
+            "team": "redCore"
+          },
+          {
+            "acs": "1.17\n0.97\n1.38",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "160\n158\n163",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "2\n0\n2",
+            "kills": "230",
+            "name": "xelouz",
+            "team": "redCore"
+          },
+          {
+            "acs": "1.06\n1.05\n1.07",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "177\n174\n179",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "4\n3\n1",
+            "kills": "256",
+            "name": "NaTTs",
+            "team": "redCore"
+          },
+          {
+            "acs": "0.99\n1.53\n0.44",
+            "adr": "0\n+6\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "129\n203\n55",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "7\n3\n4",
+            "kills": "181",
+            "name": "SnipKw",
+            "team": "redCore"
+          },
+          {
+            "acs": "0.37\n0.28\n0.46",
+            "adr": "-13\n-7\n-6",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "62\n41\n83",
+            "hs%": "62%\n62%\n62%",
+            "kdr": "5\n1\n4",
+            "kills": "96",
+            "name": "EpicoN",
+            "team": "redCore"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 73066,
+  "teams": [
+    "redCore",
+    "Team Duelist"
+  ],
+  "tournament": "GCC and Iraq: \n\t\t\t\t\t\tWeek 2"
+}

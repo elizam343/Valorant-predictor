@@ -1,0 +1,594 @@
+{
+  "date": "2021-04-24 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "314",
+          "name": "Feeqn",
+          "team": "IVY"
+        },
+        {
+          "kills": "271",
+          "name": "Rebounter",
+          "team": "IVY"
+        },
+        {
+          "kills": "238",
+          "name": "HighKitty",
+          "team": "IVY"
+        },
+        {
+          "kills": "182",
+          "name": "xTribune",
+          "team": "IVY"
+        },
+        {
+          "kills": "83",
+          "name": "rAsk",
+          "team": "IVY"
+        },
+        {
+          "kills": "228",
+          "name": "Kuba",
+          "team": "CE Calling"
+        },
+        {
+          "kills": "244",
+          "name": "Shazeon",
+          "team": "CE Calling"
+        },
+        {
+          "kills": "194",
+          "name": "BennY",
+          "team": "CE Calling"
+        },
+        {
+          "kills": "174",
+          "name": "Luc1d",
+          "team": "CE Calling"
+        },
+        {
+          "kills": "144",
+          "name": "Nex",
+          "team": "CE Calling"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.57\n1.22\n1.94",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "198\n179\n218",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "9\n3\n6",
+            "kills": "314",
+            "name": "Feeqn",
+            "team": "IVY"
+          },
+          {
+            "acs": "1.25\n1.20\n1.32",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "162\n174\n149",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "2\n1\n1",
+            "kills": "271",
+            "name": "Rebounter",
+            "team": "IVY"
+          },
+          {
+            "acs": "1.20\n1.49\n0.89",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "143\n193\n89",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "2\n2\n0",
+            "kills": "238",
+            "name": "HighKitty",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.96\n1.01\n0.91",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "108\n88\n131",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "6\n2\n4",
+            "kills": "182",
+            "name": "xTribune",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.38\n0.27\n0.51",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "65\n76\n53",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "8\n2\n6",
+            "kills": "83",
+            "name": "rAsk",
+            "team": "IVY"
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n1.38\n1.11",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "154\n171\n139",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "10\n1\n9",
+            "kills": "228",
+            "name": "Kuba",
+            "team": "CE Calling"
+          },
+          {
+            "acs": "1.07\n1.03\n1.10",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "149\n158\n141",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "244",
+            "name": "Shazeon",
+            "team": "CE Calling"
+          },
+          {
+            "acs": "0.81\n0.76\n0.86",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "120\n123\n117",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "194",
+            "name": "BennY",
+            "team": "CE Calling"
+          },
+          {
+            "acs": "0.77\n0.36\n1.15",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "103\n67\n136",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "174",
+            "name": "Luc1d",
+            "team": "CE Calling"
+          },
+          {
+            "acs": "0.58\n0.51\n0.65",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "95\n94\n96",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "144",
+            "name": "Nex",
+            "team": "CE Calling"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "292",
+          "name": "Feeqn",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "HighKitty",
+          "team": null
+        },
+        {
+          "kills": "241",
+          "name": "Rebounter",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "xTribune",
+          "team": null
+        },
+        {
+          "kills": "126",
+          "name": "rAsk",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "Kuba",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "Luc1d",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "Shazeon",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "BennY",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "Nex",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.76\n1.56",
+            "adr": "+17\n+8\n+9",
+            "agent": "",
+            "assists": "/\n\n29\n14\n15\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "201\n187\n215",
+            "hs%": "85%\n83%\n87%",
+            "kdr": "19\n10\n9",
+            "kills": "292",
+            "name": "Feeqn",
+            "team": null
+          },
+          {
+            "acs": "1.30\n0.80\n1.05",
+            "adr": "+6\n+9\n-3",
+            "agent": "",
+            "assists": "/\n\n33\n15\n18\n\n/",
+            "deaths": "39\n24\n15",
+            "fk": "134\n171\n98",
+            "hs%": "83%\n87%\n78%",
+            "kdr": "6\n3\n3",
+            "kills": "262",
+            "name": "HighKitty",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.88\n1.03",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n32\n14\n18\n\n/",
+            "deaths": "36\n19\n17",
+            "fk": "131\n141\n121",
+            "hs%": "72%\n74%\n70%",
+            "kdr": "8\n5\n3",
+            "kills": "241",
+            "name": "Rebounter",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.90\n0.96",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n34\n14\n20\n\n/",
+            "deaths": "31\n15\n16",
+            "fk": "123\n105\n141",
+            "hs%": "74%\n78%\n70%",
+            "kdr": "13\n6\n7",
+            "kills": "166",
+            "name": "xTribune",
+            "team": null
+          },
+          {
+            "acs": "0.65\n0.72\n0.68",
+            "adr": "-12\n-6\n-6",
+            "agent": "",
+            "assists": "/\n\n34\n15\n19\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "87\n74\n100",
+            "hs%": "74%\n74%\n74%",
+            "kdr": "14\n6\n8",
+            "kills": "126",
+            "name": "rAsk",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n0.91\n1.12",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "33\n21\n12",
+            "fk": "152\n163\n141",
+            "hs%": "74%\n70%\n78%",
+            "kdr": "24\n12\n12",
+            "kills": "262",
+            "name": "Kuba",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.11\n1.03",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n33\n17\n16\n\n/",
+            "deaths": "36\n16\n20",
+            "fk": "132\n115\n149",
+            "hs%": "76%\n74%\n78%",
+            "kdr": "12\n8\n4",
+            "kills": "190",
+            "name": "Luc1d",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.79\n0.98",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n36\n17\n19\n\n/",
+            "deaths": "36\n21\n15",
+            "fk": "141\n172\n110",
+            "hs%": "67%\n83%\n52%",
+            "kdr": "8\n5\n3",
+            "kills": "262",
+            "name": "Shazeon",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.99\n0.82",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n36\n19\n17\n\n/",
+            "deaths": "29\n15\n14",
+            "fk": "127\n111\n144",
+            "hs%": "70%\n70%\n70%",
+            "kdr": "11\n4\n7",
+            "kills": "196",
+            "name": "BennY",
+            "team": null
+          },
+          {
+            "acs": "0.80\n0.61\n0.70",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n37\n18\n19\n\n/",
+            "deaths": "28\n17\n11",
+            "fk": "97\n119\n74",
+            "hs%": "63%\n57%\n70%",
+            "kdr": "7\n2\n5",
+            "kills": "200",
+            "name": "Nex",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "277",
+          "name": "Feeqn",
+          "team": "IVY"
+        },
+        {
+          "kills": "217",
+          "name": "rAsk",
+          "team": "IVY"
+        },
+        {
+          "kills": "222",
+          "name": "xTribune",
+          "team": "IVY"
+        },
+        {
+          "kills": "172",
+          "name": "HighKitty",
+          "team": "IVY"
+        },
+        {
+          "kills": "136",
+          "name": "Rebounter",
+          "team": "IVY"
+        },
+        {
+          "kills": "228",
+          "name": "Luc1d",
+          "team": "CE Calling"
+        },
+        {
+          "kills": "201",
+          "name": "Kuba",
+          "team": "CE Calling"
+        },
+        {
+          "kills": "118",
+          "name": "Shazeon",
+          "team": "CE Calling"
+        },
+        {
+          "kills": "246",
+          "name": "BennY",
+          "team": "CE Calling"
+        },
+        {
+          "kills": "153",
+          "name": "Nex",
+          "team": "CE Calling"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.56\n1.52\n1.59",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "204\n195\n212",
+            "hs%": "87%\n91%\n83%",
+            "kdr": "10\n7\n3",
+            "kills": "277",
+            "name": "Feeqn",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.99\n1.08\n0.91",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "110\n73\n144",
+            "hs%": "83%\n91%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "217",
+            "name": "rAsk",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.95\n1.02\n0.89",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "137\n124\n150",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "7\n4\n3",
+            "kills": "222",
+            "name": "xTribune",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.89\n1.10\n0.71",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "125\n147\n106",
+            "hs%": "87%\n91%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "172",
+            "name": "HighKitty",
+            "team": "IVY"
+          },
+          {
+            "acs": "0.80\n1.16\n0.47",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "100\n104\n96",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "6\n4\n2",
+            "kills": "136",
+            "name": "Rebounter",
+            "team": "IVY"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.49\n1.07",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "162\n160\n163",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "9\n8\n1",
+            "kills": "228",
+            "name": "Luc1d",
+            "team": "CE Calling"
+          },
+          {
+            "acs": "1.01\n1.29\n0.71",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "150\n156\n142",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "14\n11\n3",
+            "kills": "201",
+            "name": "Kuba",
+            "team": "CE Calling"
+          },
+          {
+            "acs": "0.88\n1.29\n0.44",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "132\n185\n76",
+            "hs%": "70%\n100%\n36%",
+            "kdr": "4\n3\n1",
+            "kills": "118",
+            "name": "Shazeon",
+            "team": "CE Calling"
+          },
+          {
+            "acs": "0.83\n0.54\n1.14",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "135\n99\n173",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "5\n3\n2",
+            "kills": "246",
+            "name": "BennY",
+            "team": "CE Calling"
+          },
+          {
+            "acs": "0.82\n1.07\n0.56",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "98\n143\n50",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "3\n2\n1",
+            "kills": "153",
+            "name": "Nex",
+            "team": "CE Calling"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 17053,
+  "teams": [
+    "CE Calling",
+    "IVY"
+  ],
+  "tournament": "Tournament: \n\t\t\t\t\t\tSemifinals"
+}

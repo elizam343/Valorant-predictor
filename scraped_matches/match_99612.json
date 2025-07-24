@@ -1,0 +1,806 @@
+{
+  "date": "2022-05-13 23:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "235",
+          "name": "Georggyyy",
+          "team": "Action PH"
+        },
+        {
+          "kills": "226",
+          "name": "Emman",
+          "team": "Action PH"
+        },
+        {
+          "kills": "179",
+          "name": "ABATMAN",
+          "team": "Action PH"
+        },
+        {
+          "kills": "173",
+          "name": "theDoctorr",
+          "team": "Action PH"
+        },
+        {
+          "kills": "54",
+          "name": "Aryu",
+          "team": "Action PH"
+        },
+        {
+          "kills": "257",
+          "name": "flippy",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "225",
+          "name": "Papi",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "183",
+          "name": "Pro",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "230",
+          "name": "azys",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "175",
+          "name": "JA",
+          "team": "South Built Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.09\n1.75\n0.21",
+            "adr": "+1\n+7\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "175\n259\n63",
+            "hs%": "67%\n92%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "235",
+            "name": "Georggyyy",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.99\n1.56\n0.22",
+            "adr": "0\n+8\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "15\n14\n1",
+            "fk": "150\n206\n76",
+            "hs%": "57%\n83%\n22%",
+            "kdr": "2\n2\n0",
+            "kills": "226",
+            "name": "Emman",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.80\n1.09\n0.41",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "113\n142\n73",
+            "hs%": "62%\n75%\n44%",
+            "kdr": "6\n5\n1",
+            "kills": "179",
+            "name": "ABATMAN",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.79\n0.78\n0.80",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "118\n106\n133",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "7\n7\n0",
+            "kills": "173",
+            "name": "theDoctorr",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.30\n0.36\n0.22",
+            "adr": "-16\n-7\n-9",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "1\n1\n0",
+            "fk": "48\n50\n45",
+            "hs%": "52%\n75%\n22%",
+            "kdr": "7\n6\n1",
+            "kills": "54",
+            "name": "Aryu",
+            "team": "Action PH"
+          }
+        ],
+        [
+          {
+            "acs": "1.50\n1.71\n1.35",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n1\n10\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "170\n153\n182",
+            "hs%": "81%\n100%\n67%",
+            "kdr": "10\n6\n4",
+            "kills": "257",
+            "name": "flippy",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "1.48\n2.05\n1.05",
+            "adr": "+11\n+9\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "147\n196\n111",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "225",
+            "name": "Papi",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "1.06\n1.70\n0.58",
+            "adr": "+3\n+7\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "121\n188\n70",
+            "hs%": "76%\n100%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "183",
+            "name": "Pro",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "1.00\n1.32\n0.76",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "145\n177\n121",
+            "hs%": "71%\n89%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "230",
+            "name": "azys",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "0.88\n1.27\n0.59",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "118\n137\n104",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "4\n0\n4",
+            "kills": "175",
+            "name": "JA",
+            "team": "South Built Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "281",
+          "name": "Georggyyy",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "Emman",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "ABATMAN",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "theDoctorr",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "Aryu",
+          "team": null
+        },
+        {
+          "kills": "256",
+          "name": "Papi",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "micr0",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "azys",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "Pro",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "JA",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "flippy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.18\n1.19",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "60\n29\n31",
+            "fk": "187\n200\n174",
+            "hs%": "75%\n80%\n70%",
+            "kdr": "12\n4\n8",
+            "kills": "281",
+            "name": "Georggyyy",
+            "team": null
+          },
+          {
+            "acs": "1.19\n0.94\n1.06",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n39\n18\n21\n\n/",
+            "deaths": "43\n23\n20",
+            "fk": "134\n140\n128",
+            "hs%": "78%\n80%\n76%",
+            "kdr": "16\n9\n7",
+            "kills": "215",
+            "name": "Emman",
+            "team": null
+          },
+          {
+            "acs": "1.04\n0.85\n0.94",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n50\n23\n27\n\n/",
+            "deaths": "49\n24\n25",
+            "fk": "147\n146\n148",
+            "hs%": "63%\n63%\n64%",
+            "kdr": "14\n8\n6",
+            "kills": "224",
+            "name": "ABATMAN",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.89\n0.86",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "40\n19\n21",
+            "fk": "124\n127\n121",
+            "hs%": "75%\n73%\n76%",
+            "kdr": "15\n10\n5",
+            "kills": "195",
+            "name": "theDoctorr",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.98\n0.79",
+            "adr": "-14\n-9\n-5",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "30\n12\n18",
+            "fk": "105\n84\n125",
+            "hs%": "63%\n67%\n61%",
+            "kdr": "14\n7\n7",
+            "kills": "121",
+            "name": "Aryu",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.56\n0.87\n1.20",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n23\n11\n12\n\n/",
+            "deaths": "31\n20\n11",
+            "fk": "134\n173\n98",
+            "hs%": "80%\n90%\n70%",
+            "kdr": "14\n7\n7",
+            "kills": "256",
+            "name": "Papi",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.68\n1.17",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "138\n109\n188",
+            "hs%": "68%\n50%\n100%",
+            "kdr": "1\n0\n1",
+            "kills": "164",
+            "name": "micr0",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.15\n1.09",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n49\n26\n23\n\n/",
+            "deaths": "54\n25\n29",
+            "fk": "156\n150\n163",
+            "hs%": "71%\n79%\n63%",
+            "kdr": "16\n11\n5",
+            "kills": "225",
+            "name": "azys",
+            "team": null
+          },
+          {
+            "acs": "1.06\n1.10\n1.08",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n43\n25\n18\n\n/",
+            "deaths": "42\n22\n20",
+            "fk": "131\n135\n127",
+            "hs%": "76%\n76%\n77%",
+            "kdr": "23\n13\n10",
+            "kills": "202",
+            "name": "Pro",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.92\n0.93",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "46\n26\n20",
+            "fk": "128\n127\n129",
+            "hs%": "62%\n64%\n60%",
+            "kdr": "12\n5\n7",
+            "kills": "208",
+            "name": "JA",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.80\n0.85",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n46\n22\n24\n\n/",
+            "deaths": "36\n17\n19",
+            "fk": "109\n102\n117",
+            "hs%": "71%\n73%\n70%",
+            "kdr": "19\n11\n8",
+            "kills": "145",
+            "name": "flippy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "359",
+          "name": "Georggyyy",
+          "team": "Action PH"
+        },
+        {
+          "kills": "270",
+          "name": "Aryu",
+          "team": "Action PH"
+        },
+        {
+          "kills": "131",
+          "name": "theDoctorr",
+          "team": "Action PH"
+        },
+        {
+          "kills": "193",
+          "name": "Emman",
+          "team": "Action PH"
+        },
+        {
+          "kills": "312",
+          "name": "ABATMAN",
+          "team": "Action PH"
+        },
+        {
+          "kills": "328",
+          "name": "micr0",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "309",
+          "name": "azys",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "170",
+          "name": "Pro",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "275",
+          "name": "JA",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "52",
+          "name": "flippy",
+          "team": "South Built Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.34\n0.61\n1.76",
+            "adr": "+10\n-1\n+11",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "20\n4\n16",
+            "fk": "161\n100\n197",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "359",
+            "name": "Georggyyy",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.32\n1.11\n1.43",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "175\n148\n191",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "270",
+            "name": "Aryu",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.00\n1.17\n0.89",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "138\n213\n95",
+            "hs%": "89%\n86%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "131",
+            "name": "theDoctorr",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.93\n0.30\n1.29",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "115\n25\n168",
+            "hs%": "89%\n71%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "193",
+            "name": "Emman",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.92\n0.73\n1.03",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "198\n184\n206",
+            "hs%": "63%\n43%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "312",
+            "name": "ABATMAN",
+            "team": "Action PH"
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n0.88\n1.68",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "138\n109\n188",
+            "hs%": "68%\n50%\n100%",
+            "kdr": "1\n0\n1",
+            "kills": "328",
+            "name": "micr0",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "1.16\n1.02\n1.41",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "142\n125\n172",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "7\n5\n2",
+            "kills": "309",
+            "name": "azys",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "0.87\n0.80\n0.98",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "137\n142\n129",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "9\n6\n3",
+            "kills": "170",
+            "name": "Pro",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "0.86\n0.56\n1.36",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "118\n88\n168",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "5\n2\n3",
+            "kills": "275",
+            "name": "JA",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "0.33\n0.40\n0.23",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "46\n55\n32",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "4\n3\n1",
+            "kills": "52",
+            "name": "flippy",
+            "team": "South Built Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "198",
+          "name": "Emman",
+          "team": "Action PH"
+        },
+        {
+          "kills": "322",
+          "name": "Georggyyy",
+          "team": "Action PH"
+        },
+        {
+          "kills": "211",
+          "name": "ABATMAN",
+          "team": "Action PH"
+        },
+        {
+          "kills": "178",
+          "name": "theDoctorr",
+          "team": "Action PH"
+        },
+        {
+          "kills": "147",
+          "name": "Aryu",
+          "team": "Action PH"
+        },
+        {
+          "kills": "208",
+          "name": "Pro",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "270",
+          "name": "azys",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "237",
+          "name": "JA",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "182",
+          "name": "Papi",
+          "team": "South Built Esports"
+        },
+        {
+          "kills": "157",
+          "name": "flippy",
+          "team": "South Built Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.23\n1.35\n1.11",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "135\n142\n128",
+            "hs%": "87%\n82%\n92%",
+            "kdr": "9\n5\n4",
+            "kills": "198",
+            "name": "Emman",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.16\n0.99\n1.31",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "218\n200\n234",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "10\n3\n7",
+            "kills": "322",
+            "name": "Georggyyy",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.08\n1.17\n1.00",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "137\n127\n147",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "211",
+            "name": "ABATMAN",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.81\n0.64\n0.96",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "117\n94\n138",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "178",
+            "name": "theDoctorr",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.79\n0.45\n1.10",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "100\n81\n118",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "147",
+            "name": "Aryu",
+            "team": "Action PH"
+          }
+        ],
+        [
+          {
+            "acs": "1.28\n0.84\n1.76",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "136\n88\n188",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "7\n4\n3",
+            "kills": "208",
+            "name": "Pro",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "1.11\n0.82\n1.41",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "178\n156\n203",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "5\n4\n1",
+            "kills": "270",
+            "name": "azys",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "1.02\n1.05\n0.99",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "146\n159\n132",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "3\n3\n0",
+            "kills": "237",
+            "name": "JA",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "0.95\n1.19\n0.68",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "121\n156\n84",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "7\n4\n3",
+            "kills": "182",
+            "name": "Papi",
+            "team": "South Built Esports"
+          },
+          {
+            "acs": "0.67\n0.77\n0.56",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "106\n111\n100",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "157",
+            "name": "flippy",
+            "team": "South Built Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 99612,
+  "teams": [
+    "South Built Esports",
+    "Action PH"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tWeek 1"
+}

@@ -1,0 +1,806 @@
+{
+  "date": "2021-07-02 13:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "277",
+          "name": "Nerf",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "202",
+          "name": "CabboSM",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "193",
+          "name": "V1vaMeSs1",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "180",
+          "name": "mTz1",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "124",
+          "name": "raynj",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "319",
+          "name": "J0E",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "237",
+          "name": "raynj",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "220",
+          "name": "Getoxic",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "175",
+          "name": "ViiPeRz",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "152",
+          "name": "Boxx",
+          "team": "Z-Managa eSports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.37\n0.91\n1.98",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "184\n150\n229",
+            "hs%": "81%\n92%\n67%",
+            "kdr": "9\n7\n2",
+            "kills": "277",
+            "name": "Nerf",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "0.99\n1.37\n0.47",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "126\n167\n71",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "3\n1\n2",
+            "kills": "202",
+            "name": "CabboSM",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "0.85\n0.67\n1.10",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "111\n92\n138",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "6\n6\n0",
+            "kills": "193",
+            "name": "V1vaMeSs1",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "0.78\n0.73\n0.85",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "106\n80\n141",
+            "hs%": "57%\n58%\n56%",
+            "kdr": "3\n1\n2",
+            "kills": "180",
+            "name": "mTz1",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "0.59\n0.60\n0.57",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "87\n89\n83",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "9\n2\n7",
+            "kills": "124",
+            "name": "raynj",
+            "team": "RTG eSports"
+          }
+        ],
+        [
+          {
+            "acs": "1.40\n1.84\n1.07",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "181\n202\n166",
+            "hs%": "71%\n89%\n58%",
+            "kdr": "8\n4\n4",
+            "kills": "319",
+            "name": "J0E",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "1.23\n0.84\n1.52",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "146\n112\n172",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "237",
+            "name": "raynj",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "1.14\n0.72\n1.45",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "164\n126\n192",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "220",
+            "name": "Getoxic",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "0.95\n1.22\n0.76",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "119\n154\n92",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "175",
+            "name": "ViiPeRz",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "0.83\n0.44\n1.11",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "100\n77\n117",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "152",
+            "name": "Boxx",
+            "team": "Z-Managa eSports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "243",
+          "name": "CabboSM",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "Nerf",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "mTz1",
+          "team": null
+        },
+        {
+          "kills": "120",
+          "name": "V1vaMeSs1",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "raynj",
+          "team": null
+        },
+        {
+          "kills": "278",
+          "name": "J0E",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "Getoxic",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Boxx",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "ViiPeRz",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "raynj",
+          "team": null
+        },
+        {
+          "kills": "146",
+          "name": "ScreaMY",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.50\n1.11\n1.31",
+            "adr": "+12\n+11\n+1",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "56\n33\n23",
+            "fk": "144\n152\n136",
+            "hs%": "77%\n78%\n77%",
+            "kdr": "23\n8\n15",
+            "kills": "243",
+            "name": "CabboSM",
+            "team": null
+          },
+          {
+            "acs": "1.02\n1.28\n1.15",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n50\n25\n25\n\n/",
+            "deaths": "54\n23\n31",
+            "fk": "151\n139\n163",
+            "hs%": "72%\n69%\n74%",
+            "kdr": "20\n12\n8",
+            "kills": "207",
+            "name": "Nerf",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.91\n1.02",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n52\n26\n26\n\n/",
+            "deaths": "55\n29\n26",
+            "fk": "142\n160\n124",
+            "hs%": "62%\n61%\n63%",
+            "kdr": "12\n6\n6",
+            "kills": "248",
+            "name": "mTz1",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.17\n0.94",
+            "adr": "+1\n-7\n+8",
+            "agent": "",
+            "assists": "/\n\n48\n23\n25\n\n/",
+            "deaths": "49\n16\n33",
+            "fk": "102\n69\n137",
+            "hs%": "72%\n67%\n77%",
+            "kdr": "22\n13\n9",
+            "kills": "120",
+            "name": "V1vaMeSs1",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.75\n0.82",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n48\n23\n25\n\n/",
+            "deaths": "40\n22\n18",
+            "fk": "96\n99\n93",
+            "hs%": "73%\n78%\n69%",
+            "kdr": "18\n6\n12",
+            "kills": "167",
+            "name": "raynj",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.09\n1.21\n1.15",
+            "adr": "+17\n+8\n+9",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "69\n35\n34",
+            "fk": "157\n139\n175",
+            "hs%": "69%\n74%\n64%",
+            "kdr": "16\n7\n9",
+            "kills": "278",
+            "name": "J0E",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.00\n0.99",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n34\n16\n18\n\n/",
+            "deaths": "33\n14\n19",
+            "fk": "144\n122\n164",
+            "hs%": "71%\n78%\n65%",
+            "kdr": "11\n5\n6",
+            "kills": "178",
+            "name": "Getoxic",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.94\n0.91",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n50\n25\n25\n\n/",
+            "deaths": "46\n21\n25",
+            "fk": "117\n102\n131",
+            "hs%": "61%\n60%\n61%",
+            "kdr": "15\n9\n6",
+            "kills": "167",
+            "name": "Boxx",
+            "team": null
+          },
+          {
+            "acs": "1.04\n0.70\n0.87",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n31\n15\n16\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "106\n143\n70",
+            "hs%": "53%\n52%\n55%",
+            "kdr": "9\n5\n4",
+            "kills": "208",
+            "name": "ViiPeRz",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.77\n0.86",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n47\n28\n19\n\n/",
+            "deaths": "43\n27\n16",
+            "fk": "116\n148\n85",
+            "hs%": "72%\n86%\n58%",
+            "kdr": "14\n9\n5",
+            "kills": "212",
+            "name": "raynj",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.78\n0.69",
+            "adr": "-14\n-9\n-5",
+            "agent": "",
+            "assists": "/\n\n40\n21\n19\n\n/",
+            "deaths": "26\n12\n14",
+            "fk": "96\n84\n109",
+            "hs%": "64%\n65%\n63%",
+            "kdr": "19\n12\n7",
+            "kills": "146",
+            "name": "ScreaMY",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "285",
+          "name": "CabboSM",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "171",
+          "name": "mTz1",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "141",
+          "name": "raynj",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "213",
+          "name": "Nerf",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "274",
+          "name": "V1vaMeSs1",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "253",
+          "name": "Boxx",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "251",
+          "name": "J0E",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "71",
+          "name": "ViiPeRz",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "51",
+          "name": "raynj",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "197",
+          "name": "ScreaMY",
+          "team": "Z-Managa eSports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.64\n1.62\n1.65",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "183\n166\n197",
+            "hs%": "86%\n90%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "285",
+            "name": "CabboSM",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "1.28\n1.53\n1.06",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "155\n221\n100",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "171",
+            "name": "mTz1",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "0.91\n1.03\n0.81",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "89\n82\n94",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "141",
+            "name": "raynj",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "0.88\n0.66\n1.07",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "118\n94\n138",
+            "hs%": "64%\n40%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "213",
+            "name": "Nerf",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "0.86\n0.44\n1.21",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "96\n17\n163",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "8\n1\n7",
+            "kills": "274",
+            "name": "V1vaMeSs1",
+            "team": "RTG eSports"
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n1.26\n0.85",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "142\n143\n141",
+            "hs%": "59%\n67%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "253",
+            "name": "Boxx",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "1.05\n0.93\n1.18",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "118\n120\n116",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "3\n2\n1",
+            "kills": "251",
+            "name": "J0E",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "0.78\n0.91\n0.63",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "93\n135\n43",
+            "hs%": "41%\n42%\n40%",
+            "kdr": "1\n1\n0",
+            "kills": "71",
+            "name": "ViiPeRz",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "0.62\n0.81\n0.40",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "77\n115\n31",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "5\n5\n0",
+            "kills": "51",
+            "name": "raynj",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "0.54\n0.33\n0.79",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "80\n52\n112",
+            "hs%": "64%\n50%\n80%",
+            "kdr": "11\n6\n5",
+            "kills": "197",
+            "name": "ScreaMY",
+            "team": "Z-Managa eSports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "183",
+          "name": "CabboSM",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "233",
+          "name": "Nerf",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "181",
+          "name": "V1vaMeSs1",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "260",
+          "name": "mTz1",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "184",
+          "name": "raynj",
+          "team": "RTG eSports"
+        },
+        {
+          "kills": "268",
+          "name": "J0E",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "185",
+          "name": "Getoxic",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "183",
+          "name": "Boxx",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "176",
+          "name": "ScreaMY",
+          "team": "Z-Managa eSports"
+        },
+        {
+          "kills": "176",
+          "name": "raynj",
+          "team": "Z-Managa eSports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.29\n1.51\n1.06",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "127\n129\n125",
+            "hs%": "82%\n79%\n86%",
+            "kdr": "12\n5\n7",
+            "kills": "183",
+            "name": "CabboSM",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "1.18\n1.36\n1.00",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "152\n161\n142",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "10\n5\n5",
+            "kills": "233",
+            "name": "Nerf",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "1.07\n0.96\n1.18",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "100\n86\n114",
+            "hs%": "68%\n64%\n71%",
+            "kdr": "8\n6\n2",
+            "kills": "181",
+            "name": "V1vaMeSs1",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "0.99\n1.16\n0.82",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "159\n184\n134",
+            "hs%": "61%\n57%\n64%",
+            "kdr": "7\n4\n3",
+            "kills": "260",
+            "name": "mTz1",
+            "team": "RTG eSports"
+          },
+          {
+            "acs": "0.92\n1.02\n0.82",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "109\n120\n97",
+            "hs%": "75%\n86%\n64%",
+            "kdr": "3\n3\n0",
+            "kills": "184",
+            "name": "raynj",
+            "team": "RTG eSports"
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n0.74\n1.36",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "170\n115\n225",
+            "hs%": "68%\n64%\n71%",
+            "kdr": "5\n1\n4",
+            "kills": "268",
+            "name": "J0E",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "0.88\n1.13\n0.62",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "130\n120\n139",
+            "hs%": "68%\n79%\n57%",
+            "kdr": "3\n3\n0",
+            "kills": "185",
+            "name": "Getoxic",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "0.83\n0.81\n0.86",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "109\n83\n136",
+            "hs%": "57%\n50%\n64%",
+            "kdr": "6\n3\n3",
+            "kills": "183",
+            "name": "Boxx",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "0.81\n0.83\n0.78",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "109\n112\n106",
+            "hs%": "64%\n79%\n50%",
+            "kdr": "8\n6\n2",
+            "kills": "176",
+            "name": "ScreaMY",
+            "team": "Z-Managa eSports"
+          },
+          {
+            "acs": "0.78\n1.17\n0.39",
+            "adr": "-2\n+5\n-7",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n15\n2",
+            "fk": "123\n199\n48",
+            "hs%": "64%\n86%\n43%",
+            "kdr": "2\n2\n0",
+            "kills": "176",
+            "name": "raynj",
+            "team": "Z-Managa eSports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 24704,
+  "teams": [
+    "RTG eSports",
+    "Z-Managa eSports"
+  ],
+  "tournament": "Levant and Egypt: \n\t\t\t\t\t\tUpper Bracket Quarterfinals"
+}

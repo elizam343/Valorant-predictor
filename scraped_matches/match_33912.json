@@ -1,0 +1,788 @@
+{
+  "date": "2021-08-20 02:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "390",
+          "name": "iZnoGouD",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "185",
+          "name": "alz",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "189",
+          "name": "Star1og",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "182",
+          "name": "Brackz",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "163",
+          "name": "XXXTACO",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "248",
+          "name": "one1",
+          "team": "Underdog"
+        },
+        {
+          "kills": "189",
+          "name": "PPQ",
+          "team": "Underdog"
+        },
+        {
+          "kills": "132",
+          "name": "Skies",
+          "team": "Underdog"
+        },
+        {
+          "kills": "144",
+          "name": "Attention",
+          "team": "Underdog"
+        },
+        {
+          "kills": "99",
+          "name": "Miracle",
+          "team": "Underdog"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.76\n1.44\n2.25",
+            "adr": "+14\n+7\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "219\n231\n201",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "390",
+            "name": "iZnoGouD",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "1.29\n1.40\n1.13",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "119\n131\n100",
+            "hs%": "85%\n92%\n75%",
+            "kdr": "9\n5\n4",
+            "kills": "185",
+            "name": "alz",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "1.23\n1.11\n1.42",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "144\n122\n178",
+            "hs%": "75%\n67%\n88%",
+            "kdr": "6\n2\n4",
+            "kills": "189",
+            "name": "Star1og",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "1.09\n1.06\n1.13",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "105\n100\n113",
+            "hs%": "90%\n92%\n88%",
+            "kdr": "7\n5\n2",
+            "kills": "182",
+            "name": "Brackz",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "0.70\n1.09\n0.13",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "113\n155\n51",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "5\n3\n2",
+            "kills": "163",
+            "name": "XXXTACO",
+            "team": "Number One Player"
+          }
+        ],
+        [
+          {
+            "acs": "1.27\n1.54\n1.09",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "140\n165\n122",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "248",
+            "name": "one1",
+            "team": "Underdog"
+          },
+          {
+            "acs": "0.73\n0.37\n0.97",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "132\n99\n153",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "189",
+            "name": "PPQ",
+            "team": "Underdog"
+          },
+          {
+            "acs": "0.65\n0.64\n0.65",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "81\n104\n65",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "7\n0\n7",
+            "kills": "132",
+            "name": "Skies",
+            "team": "Underdog"
+          },
+          {
+            "acs": "0.57\n0.13\n0.86",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "94\n62\n115",
+            "hs%": "55%\n38%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "144",
+            "name": "Attention",
+            "team": "Underdog"
+          },
+          {
+            "acs": "0.43\n0.58\n0.33",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "64\n53\n72",
+            "hs%": "45%\n38%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "99",
+            "name": "Miracle",
+            "team": "Underdog"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "373",
+          "name": "iZnoGouD",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "alz",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Star1og",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "Brackz",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "XXXTACO",
+          "team": null
+        },
+        {
+          "kills": "247",
+          "name": "Skies",
+          "team": null
+        },
+        {
+          "kills": "284",
+          "name": "Miracle",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "Attention",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "one1",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "PPQ",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.52\n1.25\n1.40",
+            "adr": "+23\n+19\n+4",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "69\n43\n26",
+            "fk": "183\n221\n136",
+            "hs%": "75%\n79%\n70%",
+            "kdr": "8\n5\n3",
+            "kills": "373",
+            "name": "iZnoGouD",
+            "team": null
+          },
+          {
+            "acs": "1.06\n1.24\n1.14",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n38\n18\n20\n\n/",
+            "deaths": "42\n21\n21",
+            "fk": "110\n90\n134",
+            "hs%": "77%\n85%\n67%",
+            "kdr": "24\n14\n10",
+            "kills": "156",
+            "name": "alz",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.02\n1.01",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n40\n18\n22\n\n/",
+            "deaths": "39\n20\n19",
+            "fk": "128\n109\n152",
+            "hs%": "77%\n74%\n81%",
+            "kdr": "15\n8\n7",
+            "kills": "167",
+            "name": "Star1og",
+            "team": null
+          },
+          {
+            "acs": "1.28\n0.70\n1.00",
+            "adr": "-1\n+8\n-9",
+            "agent": "",
+            "assists": "/\n\n42\n20\n22\n\n/",
+            "deaths": "41\n28\n13",
+            "fk": "116\n126\n102",
+            "hs%": "80%\n88%\n70%",
+            "kdr": "27\n14\n13",
+            "kills": "212",
+            "name": "Brackz",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.57\n0.73",
+            "adr": "-13\n-2\n-11",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "34\n21\n13",
+            "fk": "104\n110\n97",
+            "hs%": "66%\n74%\n56%",
+            "kdr": "16\n9\n7",
+            "kills": "158",
+            "name": "XXXTACO",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n0.89\n1.09",
+            "adr": "+6\n+13\n-7",
+            "agent": "",
+            "assists": "/\n\n41\n15\n26\n\n/",
+            "deaths": "47\n28\n19",
+            "fk": "122\n139\n108",
+            "hs%": "74%\n74%\n74%",
+            "kdr": "14\n5\n9",
+            "kills": "247",
+            "name": "Skies",
+            "team": null
+          },
+          {
+            "acs": "1.55\n0.57\n1.00",
+            "adr": "+1\n+14\n-13",
+            "agent": "",
+            "assists": "/\n\n42\n14\n28\n\n/",
+            "deaths": "43\n28\n15",
+            "fk": "117\n154\n88",
+            "hs%": "66%\n67%\n65%",
+            "kdr": "17\n9\n8",
+            "kills": "284",
+            "name": "Miracle",
+            "team": null
+          },
+          {
+            "acs": "0.51\n1.15\n0.87",
+            "adr": "-2\n-8\n+6",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "46\n16\n30",
+            "fk": "126\n123\n127",
+            "hs%": "67%\n63%\n71%",
+            "kdr": "6\n4\n2",
+            "kills": "200",
+            "name": "Attention",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.78\n0.79",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n42\n18\n24\n\n/",
+            "deaths": "36\n19\n17",
+            "fk": "95\n85\n103",
+            "hs%": "70%\n70%\n71%",
+            "kdr": "15\n4\n11",
+            "kills": "151",
+            "name": "one1",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.71\n0.74",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n52\n23\n29\n\n/",
+            "deaths": "41\n20\n21",
+            "fk": "135\n127\n140",
+            "hs%": "69%\n67%\n71%",
+            "kdr": "19\n8\n11",
+            "kills": "219",
+            "name": "PPQ",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "332",
+          "name": "iZnoGouD",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "240",
+          "name": "Star1og",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "53",
+          "name": "Brackz",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "92",
+          "name": "XXXTACO",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "90",
+          "name": "alz",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "209",
+          "name": "Skies",
+          "team": "Underdog"
+        },
+        {
+          "kills": "246",
+          "name": "Attention",
+          "team": "Underdog"
+        },
+        {
+          "kills": "189",
+          "name": "Miracle",
+          "team": "Underdog"
+        },
+        {
+          "kills": "257",
+          "name": "PPQ",
+          "team": "Underdog"
+        },
+        {
+          "kills": "99",
+          "name": "one1",
+          "team": "Underdog"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.40\n1.36",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "175\n196\n140",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "1\n1\n0",
+            "kills": "332",
+            "name": "iZnoGouD",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "0.87\n0.94\n0.75",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "104\n86\n137",
+            "hs%": "79%\n83%\n71%",
+            "kdr": "4\n4\n0",
+            "kills": "240",
+            "name": "Star1og",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "0.76\n1.30\n0.02",
+            "adr": "-6\n+2\n-8",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "11\n11\n0",
+            "fk": "113\n154\n43",
+            "hs%": "68%\n83%\n43%",
+            "kdr": "7\n4\n3",
+            "kills": "53",
+            "name": "Brackz",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "0.61\n0.94\n0.06",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "80\n99\n48",
+            "hs%": "63%\n83%\n29%",
+            "kdr": "2\n2\n0",
+            "kills": "92",
+            "name": "XXXTACO",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "0.40\n0.46\n0.30",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "52\n46\n63",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "5\n2\n3",
+            "kills": "90",
+            "name": "alz",
+            "team": "Number One Player"
+          }
+        ],
+        [
+          {
+            "acs": "1.50\n2.06\n1.18",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n10\n1\n9\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "155\n140\n164",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "209",
+            "name": "Skies",
+            "team": "Underdog"
+          },
+          {
+            "acs": "1.36\n1.33\n1.38",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "158\n185\n142",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "1\n1\n0",
+            "kills": "246",
+            "name": "Attention",
+            "team": "Underdog"
+          },
+          {
+            "acs": "1.18\n1.59\n0.94",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "122\n128\n119",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "189",
+            "name": "Miracle",
+            "team": "Underdog"
+          },
+          {
+            "acs": "1.04\n1.43\n0.81",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "178\n169\n184",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "257",
+            "name": "PPQ",
+            "team": "Underdog"
+          },
+          {
+            "acs": "0.56\n0.64\n0.52",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "76\n64\n83",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "7\n1\n6",
+            "kills": "99",
+            "name": "one1",
+            "team": "Underdog"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "262",
+          "name": "alz",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "200",
+          "name": "Brackz",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "258",
+          "name": "iZnoGouD",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "215",
+          "name": "Star1og",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "170",
+          "name": "XXXTACO",
+          "team": "Number One Player"
+        },
+        {
+          "kills": "267",
+          "name": "Miracle",
+          "team": "Underdog"
+        },
+        {
+          "kills": "229",
+          "name": "Skies",
+          "team": "Underdog"
+        },
+        {
+          "kills": "237",
+          "name": "Attention",
+          "team": "Underdog"
+        },
+        {
+          "kills": "126",
+          "name": "one1",
+          "team": "Underdog"
+        },
+        {
+          "kills": "164",
+          "name": "PPQ",
+          "team": "Underdog"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.64\n1.39\n1.85",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "152\n95\n199",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "10\n7\n3",
+            "kills": "262",
+            "name": "alz",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "1.14\n1.52\n0.82",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "127\n126\n129",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "13\n5\n8",
+            "kills": "200",
+            "name": "Brackz",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "1.09\n1.77\n0.52",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "159\n241\n90",
+            "hs%": "73%\n100%\n50%",
+            "kdr": "5\n2\n3",
+            "kills": "258",
+            "name": "iZnoGouD",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "0.94\n0.97\n0.91",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "134\n123\n143",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "215",
+            "name": "Star1og",
+            "team": "Number One Player"
+          },
+          {
+            "acs": "0.86\n0.50\n1.15",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "117\n68\n157",
+            "hs%": "59%\n50%\n67%",
+            "kdr": "9\n4\n5",
+            "kills": "170",
+            "name": "XXXTACO",
+            "team": "Number One Player"
+          }
+        ],
+        [
+          {
+            "acs": "1.38\n2.17\n0.42",
+            "adr": "+7\n+13\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "22\n18\n4",
+            "fk": "162\n237\n72",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "9\n4\n5",
+            "kills": "267",
+            "name": "Miracle",
+            "team": "Underdog"
+          },
+          {
+            "acs": "1.13\n1.38\n0.82",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "131\n162\n93",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "3\n3\n0",
+            "kills": "229",
+            "name": "Skies",
+            "team": "Underdog"
+          },
+          {
+            "acs": "0.72\n0.29\n1.23",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "127\n128\n125",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "3\n3\n0",
+            "kills": "237",
+            "name": "Attention",
+            "team": "Underdog"
+          },
+          {
+            "acs": "0.54\n0.38\n0.73",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "71\n43\n104",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "4\n1\n3",
+            "kills": "126",
+            "name": "one1",
+            "team": "Underdog"
+          },
+          {
+            "acs": "0.47\n0.64\n0.28",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "100\n123\n73",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "6\n4\n2",
+            "kills": "164",
+            "name": "PPQ",
+            "team": "Underdog"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 33912,
+  "teams": [
+    "Underdog",
+    "Number One Player"
+  ],
+  "tournament": "Swiss Stage: \n\t\t\t\t\t\tRound 1"
+}

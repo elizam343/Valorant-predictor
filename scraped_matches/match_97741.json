@@ -1,0 +1,788 @@
+{
+  "date": "2022-06-06 10:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "237",
+          "name": "Elite",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "328",
+          "name": "jonx",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "256",
+          "name": "Burzzy",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "169",
+          "name": "Mykoz",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "131",
+          "name": "sian",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "278",
+          "name": "hatex",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "165",
+          "name": "DeadInk",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "147",
+          "name": "SasuKe",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "156",
+          "name": "mini",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "90",
+          "name": "m1tez",
+          "team": "Galakticos"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.84\n1.80\n1.94",
+            "adr": "+13\n+8\n+5",
+            "agent": "",
+            "assists": "/\n\n4\n3\n1\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "152\n144\n172",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "237",
+            "name": "Elite",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "1.50\n1.08\n2.51",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "200\n171\n269",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "6\n5\n1",
+            "kills": "328",
+            "name": "jonx",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "1.37\n1.59\n0.85",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "173\n194\n123",
+            "hs%": "76%\n67%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "256",
+            "name": "Burzzy",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.87\n0.58\n1.59",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "106\n87\n150",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "169",
+            "name": "Mykoz",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.81\n0.96\n0.46",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "89\n110\n39",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "2\n2\n0",
+            "kills": "131",
+            "name": "sian",
+            "team": "Fenerbah\u00e7e Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n0.05\n1.55",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "17\n1\n16",
+            "fk": "162\n37\n215",
+            "hs%": "71%\n40%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "278",
+            "name": "hatex",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "0.68\n1.11\n0.50",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "101\n176\n70",
+            "hs%": "53%\n60%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "165",
+            "name": "DeadInk",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "0.64\n0.89\n0.53",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "91\n121\n79",
+            "hs%": "53%\n40%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "147",
+            "name": "SasuKe",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "0.46\n0.03\n0.64",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "101\n49\n122",
+            "hs%": "35%\n20%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "156",
+            "name": "mini",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "0.35\n0.20\n0.41",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "58\n44\n64",
+            "hs%": "53%\n20%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "90",
+            "name": "m1tez",
+            "team": "Galakticos"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "296",
+          "name": "jonx",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "Elite",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "Burzzy",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "sian",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "Mykoz",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "hatex",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "m1tez",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "DeadInk",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "mini",
+          "team": null
+        },
+        {
+          "kills": "126",
+          "name": "SasuKe",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.31\n1.37",
+            "adr": "+23\n+10\n+13",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "65\n32\n33",
+            "fk": "186\n189\n183",
+            "hs%": "73%\n76%\n70%",
+            "kdr": "14\n9\n5",
+            "kills": "296",
+            "name": "jonx",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.47\n1.27",
+            "adr": "+19\n+3\n+16",
+            "agent": "",
+            "assists": "/\n\n37\n18\n19\n\n/",
+            "deaths": "56\n21\n35",
+            "fk": "149\n106\n195",
+            "hs%": "75%\n64%\n87%",
+            "kdr": "12\n6\n6",
+            "kills": "160",
+            "name": "Elite",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.97\n0.97",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n45\n25\n20\n\n/",
+            "deaths": "43\n22\n21",
+            "fk": "136\n126\n147",
+            "hs%": "68%\n64%\n73%",
+            "kdr": "20\n10\n10",
+            "kills": "187",
+            "name": "Burzzy",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.76\n0.92",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n40\n23\n17\n\n/",
+            "deaths": "36\n23\n13",
+            "fk": "117\n140\n91",
+            "hs%": "75%\n76%\n73%",
+            "kdr": "13\n7\n6",
+            "kills": "199",
+            "name": "sian",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.08\n0.90",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n40\n23\n17\n\n/",
+            "deaths": "39\n19\n20",
+            "fk": "106\n90\n125",
+            "hs%": "79%\n82%\n77%",
+            "kdr": "16\n7\n9",
+            "kills": "149",
+            "name": "Mykoz",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.99\n1.00\n1.00",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "48\n21\n27",
+            "fk": "131\n113\n148",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "16\n11\n5",
+            "kills": "199",
+            "name": "hatex",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.79\n0.92",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "39\n20\n19",
+            "fk": "111\n115\n107",
+            "hs%": "63%\n60%\n67%",
+            "kdr": "11\n5\n6",
+            "kills": "183",
+            "name": "m1tez",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.83\n0.88",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "41\n20\n21",
+            "fk": "128\n140\n117",
+            "hs%": "67%\n70%\n64%",
+            "kdr": "10\n7\n3",
+            "kills": "202",
+            "name": "DeadInk",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.96\n0.84",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n50\n25\n25\n\n/",
+            "deaths": "45\n20\n25",
+            "fk": "133\n118\n147",
+            "hs%": "54%\n50%\n58%",
+            "kdr": "6\n1\n5",
+            "kills": "192",
+            "name": "mini",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.88\n0.74",
+            "adr": "-13\n-12\n-1",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "31\n12\n19",
+            "fk": "92\n85\n99",
+            "hs%": "68%\n60%\n76%",
+            "kdr": "14\n8\n6",
+            "kills": "126",
+            "name": "SasuKe",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "297",
+          "name": "jonx",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "192",
+          "name": "sian",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "294",
+          "name": "Elite",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "157",
+          "name": "Mykoz",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "174",
+          "name": "Burzzy",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "271",
+          "name": "mini",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "258",
+          "name": "m1tez",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "138",
+          "name": "hatex",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "236",
+          "name": "DeadInk",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "143",
+          "name": "SasuKe",
+          "team": "Galakticos"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.48\n1.00",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "186\n194\n177",
+            "hs%": "62%\n69%\n54%",
+            "kdr": "3\n3\n0",
+            "kills": "297",
+            "name": "jonx",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.99\n0.81\n1.16",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "128\n116\n140",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "6\n3\n3",
+            "kills": "192",
+            "name": "sian",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.88\n0.51\n1.24",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "135\n88\n182",
+            "hs%": "62%\n46%\n77%",
+            "kdr": "0\n0\n0",
+            "kills": "294",
+            "name": "Elite",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.72\n0.59\n0.85",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "86\n60\n112",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "8\n4\n4",
+            "kills": "157",
+            "name": "Mykoz",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.67\n0.69\n0.65",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "104\n77\n130",
+            "hs%": "58%\n62%\n54%",
+            "kdr": "7\n2\n5",
+            "kills": "174",
+            "name": "Burzzy",
+            "team": "Fenerbah\u00e7e Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.35\n1.28",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "174\n171\n177",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "2\n0\n2",
+            "kills": "271",
+            "name": "mini",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "1.21\n1.14\n1.28",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "133\n116\n151",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "4\n2\n2",
+            "kills": "258",
+            "name": "m1tez",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "1.09\n1.45\n0.73",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "139\n172\n105",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "10\n7\n3",
+            "kills": "138",
+            "name": "hatex",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "0.95\n0.74\n1.16",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "146\n142\n151",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "7\n5\n2",
+            "kills": "236",
+            "name": "DeadInk",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "0.74\n0.36\n1.12",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "78\n64\n92",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "143",
+            "name": "SasuKe",
+            "team": "Galakticos"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "283",
+          "name": "jonx",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "256",
+          "name": "Elite",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "191",
+          "name": "Mykoz",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "214",
+          "name": "Burzzy",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "168",
+          "name": "sian",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "188",
+          "name": "m1tez",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "202",
+          "name": "DeadInk",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "175",
+          "name": "SasuKe",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "163",
+          "name": "hatex",
+          "team": "Galakticos"
+        },
+        {
+          "kills": "138",
+          "name": "mini",
+          "team": "Galakticos"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.44\n1.85\n1.16",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "175\n208\n153",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "283",
+            "name": "jonx",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "1.28\n0.90\n1.53",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "163\n80\n219",
+            "hs%": "80%\n63%\n92%",
+            "kdr": "10\n5\n5",
+            "kills": "256",
+            "name": "Elite",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "1.17\n1.24\n1.12",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "133\n142\n128",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "191",
+            "name": "Mykoz",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "1.02\n0.49\n1.38",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "146\n101\n175",
+            "hs%": "75%\n63%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "214",
+            "name": "Burzzy",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.94\n1.68\n0.45",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "125\n225\n59",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "168",
+            "name": "sian",
+            "team": "Fenerbah\u00e7e Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n1.36\n0.57",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "126\n144\n99",
+            "hs%": "60%\n75%\n38%",
+            "kdr": "3\n3\n0",
+            "kills": "188",
+            "name": "m1tez",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "0.96\n1.08\n0.79",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "126\n122\n132",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "2\n2\n0",
+            "kills": "202",
+            "name": "DeadInk",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "0.81\n0.70\n0.98",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "111\n93\n138",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "10\n8\n2",
+            "kills": "175",
+            "name": "SasuKe",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "0.78\n0.88\n0.61",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "95\n81\n116",
+            "hs%": "60%\n58%\n63%",
+            "kdr": "3\n3\n0",
+            "kills": "163",
+            "name": "hatex",
+            "team": "Galakticos"
+          },
+          {
+            "acs": "0.54\n0.30\n0.90",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "107\n89\n133",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "138",
+            "name": "mini",
+            "team": "Galakticos"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 97741,
+  "teams": [
+    "Galakticos",
+    "Fenerbah\u00e7e Esports"
+  ],
+  "tournament": "Season: \n\t\t\t\t\t\tWeek 5"
+}

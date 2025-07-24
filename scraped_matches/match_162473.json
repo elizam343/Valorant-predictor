@@ -1,0 +1,788 @@
+{
+  "date": "2022-12-13 14:05:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "266",
+          "name": "Slacherj",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "184",
+          "name": "9ondoss",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "198",
+          "name": "zMART",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "192",
+          "name": "Uzi",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "143",
+          "name": "TNKJ",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "302",
+          "name": "zyad",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "231",
+          "name": "zizox",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "211",
+          "name": "AlDBoOR",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "179",
+          "name": "Sher1o",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "184",
+          "name": "iboss",
+          "team": "FATE Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.38\n1.10\n1.67",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "28\n11\n17",
+            "fk": "164\n132\n195",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "14\n4\n10",
+            "kills": "266",
+            "name": "Slacherj",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "0.84\n0.64\n1.04",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "122\n104\n140",
+            "hs%": "71%\n57%\n86%",
+            "kdr": "16\n5\n11",
+            "kills": "184",
+            "name": "9ondoss",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "0.83\n0.44\n1.23",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n23\n14\n9\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "138\n110\n166",
+            "hs%": "82%\n64%\n100%",
+            "kdr": "18\n6\n12",
+            "kills": "198",
+            "name": "zMART",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "0.68\n0.49\n0.88",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "133\n118\n148",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "7\n6\n1",
+            "kills": "192",
+            "name": "Uzi",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "0.67\n0.66\n0.69",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "103\n102\n103",
+            "hs%": "71%\n57%\n86%",
+            "kdr": "8\n4\n4",
+            "kills": "143",
+            "name": "TNKJ",
+            "team": "Krakens Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.67\n1.20\n2.14",
+            "adr": "+15\n+1\n+14",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "31\n12\n19",
+            "fk": "196\n139\n254",
+            "hs%": "79%\n64%\n93%",
+            "kdr": "12\n6\n6",
+            "kills": "302",
+            "name": "zyad",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "1.36\n1.61\n1.11",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "157\n177\n137",
+            "hs%": "79%\n64%\n93%",
+            "kdr": "9\n4\n5",
+            "kills": "231",
+            "name": "zizox",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "1.14\n1.00\n1.29",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "126\n112\n140",
+            "hs%": "86%\n79%\n93%",
+            "kdr": "23\n14\n9",
+            "kills": "211",
+            "name": "AlDBoOR",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "1.00\n0.79\n1.21",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "122\n109\n135",
+            "hs%": "86%\n86%\n86%",
+            "kdr": "10\n5\n5",
+            "kills": "179",
+            "name": "Sher1o",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "0.78\n0.53\n1.04",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "109\n92\n126",
+            "hs%": "71%\n64%\n79%",
+            "kdr": "2\n2\n0",
+            "kills": "184",
+            "name": "iboss",
+            "team": "FATE Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "195",
+          "name": "Slacherj",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "zMART",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "9ondoss",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Uzi",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "TNKJ",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "zyad",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "zizox",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "Sher1o",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "AlDBoOR",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "iboss",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.99\n1.41\n1.21",
+            "adr": "+13\n-2\n+15",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "63\n24\n39",
+            "fk": "149\n123\n172",
+            "hs%": "78%\n71%\n84%",
+            "kdr": "24\n9\n15",
+            "kills": "195",
+            "name": "Slacherj",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.51\n1.17",
+            "adr": "+2\n-10\n+12",
+            "agent": "",
+            "assists": "/\n\n55\n33\n22\n\n/",
+            "deaths": "57\n23\n34",
+            "fk": "159\n152\n165",
+            "hs%": "79%\n65%\n92%",
+            "kdr": "41\n10\n31",
+            "kills": "222",
+            "name": "zMART",
+            "team": null
+          },
+          {
+            "acs": "0.93\n1.05\n0.99",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n46\n26\n20\n\n/",
+            "deaths": "44\n21\n23",
+            "fk": "115\n101\n128",
+            "hs%": "72%\n62%\n82%",
+            "kdr": "30\n12\n18",
+            "kills": "165",
+            "name": "9ondoss",
+            "team": null
+          },
+          {
+            "acs": "0.52\n1.13\n0.85",
+            "adr": "-7\n-14\n+7",
+            "agent": "",
+            "assists": "/\n\n61\n31\n30\n\n/",
+            "deaths": "54\n17\n37",
+            "fk": "151\n121\n177",
+            "hs%": "67%\n50%\n82%",
+            "kdr": "18\n7\n11",
+            "kills": "163",
+            "name": "Uzi",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.73\n0.66",
+            "adr": "-23\n-15\n-8",
+            "agent": "",
+            "assists": "/\n\n51\n28\n23\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "90\n89\n91",
+            "hs%": "72%\n62%\n82%",
+            "kdr": "26\n11\n15",
+            "kills": "129",
+            "name": "TNKJ",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.88\n1.93\n1.38",
+            "adr": "+25\n-3\n+28",
+            "agent": "",
+            "assists": "/\n\n47\n32\n15\n\n/",
+            "deaths": "72\n29\n43",
+            "fk": "187\n135\n245",
+            "hs%": "71%\n53%\n91%",
+            "kdr": "23\n8\n15",
+            "kills": "205",
+            "name": "zyad",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.27\n1.22",
+            "adr": "+10\n-3\n+13",
+            "agent": "",
+            "assists": "/\n\n46\n29\n17\n\n/",
+            "deaths": "56\n26\n30",
+            "fk": "159\n154\n164",
+            "hs%": "72%\n63%\n82%",
+            "kdr": "20\n11\n9",
+            "kills": "216",
+            "name": "zizox",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.26\n1.17",
+            "adr": "+6\n-3\n+9",
+            "agent": "",
+            "assists": "/\n\n43\n28\n15\n\n/",
+            "deaths": "49\n25\n24",
+            "fk": "126\n122\n131",
+            "hs%": "74%\n74%\n74%",
+            "kdr": "26\n12\n14",
+            "kills": "178",
+            "name": "Sher1o",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.07\n0.90",
+            "adr": "-8\n-12\n+4",
+            "agent": "",
+            "assists": "/\n\n53\n32\n21\n\n/",
+            "deaths": "45\n20\n25",
+            "fk": "109\n101\n118",
+            "hs%": "83%\n76%\n91%",
+            "kdr": "49\n22\n27",
+            "kills": "162",
+            "name": "AlDBoOR",
+            "team": null
+          },
+          {
+            "acs": "0.62\n0.65\n0.62",
+            "adr": "-16\n-13\n-3",
+            "agent": "",
+            "assists": "/\n\n57\n34\n23\n\n/",
+            "deaths": "41\n21\n20",
+            "fk": "103\n113\n92",
+            "hs%": "64%\n63%\n65%",
+            "kdr": "7\n5\n2",
+            "kills": "165",
+            "name": "iboss",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "303",
+          "name": "zMART",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "353",
+          "name": "Uzi",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "254",
+          "name": "Slacherj",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "67",
+          "name": "9ondoss",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "142",
+          "name": "TNKJ",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "151",
+          "name": "Sher1o",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "339",
+          "name": "zyad",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "90",
+          "name": "zizox",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "168",
+          "name": "iboss",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "113",
+          "name": "AlDBoOR",
+          "team": "FATE Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.71\n1.43\n1.92",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "221\n248\n201",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "8\n0\n8",
+            "kills": "303",
+            "name": "zMART",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "1.36\n1.15\n1.52",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "206\n193\n216",
+            "hs%": "76%\n44%\n100%",
+            "kdr": "5\n0\n5",
+            "kills": "353",
+            "name": "Uzi",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "1.23\n1.14\n1.29",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "150\n122\n171",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "254",
+            "name": "Slacherj",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "0.92\n1.40\n0.57",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "69\n83\n59",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "67",
+            "name": "9ondoss",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "0.85\n0.75\n0.91",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "86\n83\n89",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "142",
+            "name": "TNKJ",
+            "team": "Krakens Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.01\n1.04\n0.98",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "90\n78\n106",
+            "hs%": "52%\n50%\n56%",
+            "kdr": "4\n2\n2",
+            "kills": "151",
+            "name": "Sher1o",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "0.84\n0.37\n1.46",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "136\n66\n229",
+            "hs%": "52%\n33%\n78%",
+            "kdr": "5\n0\n5",
+            "kills": "339",
+            "name": "zyad",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "0.70\n1.01\n0.28",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "127\n181\n56",
+            "hs%": "52%\n58%\n44%",
+            "kdr": "6\n5\n1",
+            "kills": "90",
+            "name": "zizox",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "0.70\n0.62\n0.80",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "103\n98\n108",
+            "hs%": "57%\n50%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "168",
+            "name": "iboss",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "0.69\n0.77\n0.57",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "98\n116\n75",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "6\n3\n3",
+            "kills": "113",
+            "name": "AlDBoOR",
+            "team": "FATE Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "220",
+          "name": "9ondoss",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "207",
+          "name": "zMART",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "191",
+          "name": "Slacherj",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "187",
+          "name": "Uzi",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "119",
+          "name": "TNKJ",
+          "team": "Krakens Esports"
+        },
+        {
+          "kills": "305",
+          "name": "zizox",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "224",
+          "name": "Sher1o",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "315",
+          "name": "zyad",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "159",
+          "name": "AlDBoOR",
+          "team": "FATE Esports"
+        },
+        {
+          "kills": "125",
+          "name": "iboss",
+          "team": "FATE Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.23\n0.91\n1.53",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "148\n111\n182",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "220",
+            "name": "9ondoss",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "1.09\n0.73\n1.43",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "128\n128\n128",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "15\n4\n11",
+            "kills": "207",
+            "name": "zMART",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "0.99\n0.74\n1.23",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "129\n112\n145",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "191",
+            "name": "Slacherj",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "0.57\n0.06\n1.04",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "122\n66\n173",
+            "hs%": "43%\n18%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "187",
+            "name": "Uzi",
+            "team": "Krakens Esports"
+          },
+          {
+            "acs": "0.47\n0.34\n0.59",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "78\n78\n77",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "10\n4\n6",
+            "kills": "119",
+            "name": "TNKJ",
+            "team": "Krakens Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n0.85\n2.28",
+            "adr": "+11\n-3\n+14",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "24\n6\n18",
+            "fk": "189\n101\n286",
+            "hs%": "83%\n67%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "305",
+            "name": "zizox",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "1.53\n1.50\n1.57",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "165\n181\n147",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "12\n5\n7",
+            "kills": "224",
+            "name": "Sher1o",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "1.51\n1.01\n2.05",
+            "adr": "+13\n+2\n+11",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "27\n13\n14",
+            "fk": "222\n202\n245",
+            "hs%": "78%\n58%\n100%",
+            "kdr": "6\n2\n4",
+            "kills": "315",
+            "name": "zyad",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "0.81\n0.46\n1.19",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "99\n74\n126",
+            "hs%": "91%\n83%\n100%",
+            "kdr": "20\n5\n15",
+            "kills": "159",
+            "name": "AlDBoOR",
+            "team": "FATE Esports"
+          },
+          {
+            "acs": "0.36\n0.72\n0.03",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "95\n152\n34",
+            "hs%": "61%\n75%\n45%",
+            "kdr": "5\n3\n2",
+            "kills": "125",
+            "name": "iboss",
+            "team": "FATE Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 162473,
+  "teams": [
+    "FATE Esports",
+    "Krakens Esports"
+  ],
+  "tournament": "Levant and North Africa: \n\t\t\t\t\t\tLower Round 1"
+}

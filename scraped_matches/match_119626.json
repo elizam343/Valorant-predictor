@@ -1,0 +1,788 @@
+{
+  "date": "2022-07-18 21:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "282",
+          "name": "velis",
+          "team": "Resonate"
+        },
+        {
+          "kills": "230",
+          "name": "fletcher",
+          "team": "Resonate"
+        },
+        {
+          "kills": "199",
+          "name": "Nahsie",
+          "team": "Resonate"
+        },
+        {
+          "kills": "152",
+          "name": "Cain",
+          "team": "Resonate"
+        },
+        {
+          "kills": "198",
+          "name": "contii",
+          "team": "Resonate"
+        },
+        {
+          "kills": "276",
+          "name": "Dani",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "258",
+          "name": "d1msumboi",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "205",
+          "name": "renz",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "212",
+          "name": "Yoshii",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "176",
+          "name": "Cade3k",
+          "team": "Teal Seam"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.17\n1.31",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "190\n171\n209",
+            "hs%": "88%\n92%\n85%",
+            "kdr": "10\n5\n5",
+            "kills": "282",
+            "name": "velis",
+            "team": "Resonate"
+          },
+          {
+            "acs": "1.14\n1.81\n0.47",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "23\n18\n5",
+            "fk": "146\n225\n67",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "4\n2\n2",
+            "kills": "230",
+            "name": "fletcher",
+            "team": "Resonate"
+          },
+          {
+            "acs": "0.91\n0.77\n1.05",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "120\n85\n154",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "199",
+            "name": "Nahsie",
+            "team": "Resonate"
+          },
+          {
+            "acs": "0.80\n0.62\n0.99",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "105\n81\n128",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "3\n2\n1",
+            "kills": "152",
+            "name": "Cain",
+            "team": "Resonate"
+          },
+          {
+            "acs": "0.77\n0.45\n1.09",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "129\n99\n160",
+            "hs%": "85%\n77%\n92%",
+            "kdr": "16\n8\n8",
+            "kills": "198",
+            "name": "contii",
+            "team": "Resonate"
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n1.26\n1.44",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "189\n167\n210",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "9\n4\n5",
+            "kills": "276",
+            "name": "Dani",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "1.30\n1.25\n1.36",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "161\n158\n164",
+            "hs%": "88%\n77%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "258",
+            "name": "d1msumboi",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.95\n0.83\n1.08",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "133\n129\n137",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "10\n6\n4",
+            "kills": "205",
+            "name": "renz",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.89\n1.01\n0.77",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "126\n134\n117",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "6\n5\n1",
+            "kills": "212",
+            "name": "Yoshii",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.73\n0.87\n0.58",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "116\n118\n114",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "8\n4\n4",
+            "kills": "176",
+            "name": "Cade3k",
+            "team": "Teal Seam"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "232",
+          "name": "velis",
+          "team": null
+        },
+        {
+          "kills": "294",
+          "name": "fletcher",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "Nahsie",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "contii",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "Cain",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "d1msumboi",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "Dani",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "renz",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Cade3k",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "Yoshii",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.12\n1.48\n1.30",
+            "adr": "+18\n+4\n+14",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "69\n28\n41",
+            "fk": "180\n161\n198",
+            "hs%": "79%\n80%\n78%",
+            "kdr": "17\n10\n7",
+            "kills": "232",
+            "name": "velis",
+            "team": null
+          },
+          {
+            "acs": "1.59\n0.78\n1.18",
+            "adr": "+11\n+18\n-7",
+            "agent": "",
+            "assists": "/\n\n47\n21\n26\n\n/",
+            "deaths": "58\n39\n19",
+            "fk": "141\n189\n96",
+            "hs%": "75%\n86%\n65%",
+            "kdr": "18\n8\n10",
+            "kills": "294",
+            "name": "fletcher",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.95\n1.02",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n51\n23\n28\n\n/",
+            "deaths": "56\n26\n30",
+            "fk": "130\n123\n136",
+            "hs%": "79%\n80%\n78%",
+            "kdr": "12\n7\n5",
+            "kills": "203",
+            "name": "Nahsie",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.93\n0.99",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n55\n26\n29\n\n/",
+            "deaths": "53\n29\n24",
+            "fk": "136\n135\n138",
+            "hs%": "81%\n86%\n76%",
+            "kdr": "25\n10\n15",
+            "kills": "230",
+            "name": "contii",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.84\n0.74",
+            "adr": "-16\n-10\n-6",
+            "agent": "",
+            "assists": "/\n\n55\n28\n27\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "106\n101\n112",
+            "hs%": "72%\n69%\n76%",
+            "kdr": "21\n10\n11",
+            "kills": "153",
+            "name": "Cain",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n1.21\n1.13",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "58\n29\n29",
+            "fk": "145\n138\n153",
+            "hs%": "81%\n76%\n86%",
+            "kdr": "17\n7\n10",
+            "kills": "220",
+            "name": "d1msumboi",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.91\n0.98",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n52\n24\n28\n\n/",
+            "deaths": "48\n26\n22",
+            "fk": "142\n136\n149",
+            "hs%": "71%\n73%\n69%",
+            "kdr": "29\n12\n17",
+            "kills": "196",
+            "name": "Dani",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.91\n0.92",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n56\n30\n26\n\n/",
+            "deaths": "53\n29\n24",
+            "fk": "139\n136\n142",
+            "hs%": "72%\n68%\n77%",
+            "kdr": "21\n11\n10",
+            "kills": "213",
+            "name": "renz",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.77\n0.92",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n56\n27\n29\n\n/",
+            "deaths": "52\n29\n23",
+            "fk": "131\n133\n128",
+            "hs%": "74%\n78%\n69%",
+            "kdr": "23\n11\n12",
+            "kills": "217",
+            "name": "Cade3k",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.68\n0.78",
+            "adr": "-12\n-4\n-8",
+            "agent": "",
+            "assists": "/\n\n59\n28\n31\n\n/",
+            "deaths": "47\n24\n23",
+            "fk": "116\n122\n110",
+            "hs%": "57%\n59%\n54%",
+            "kdr": "13\n10\n3",
+            "kills": "192",
+            "name": "Yoshii",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "333",
+          "name": "velis",
+          "team": "Resonate"
+        },
+        {
+          "kills": "186",
+          "name": "fletcher",
+          "team": "Resonate"
+        },
+        {
+          "kills": "256",
+          "name": "contii",
+          "team": "Resonate"
+        },
+        {
+          "kills": "211",
+          "name": "Nahsie",
+          "team": "Resonate"
+        },
+        {
+          "kills": "168",
+          "name": "Cain",
+          "team": "Resonate"
+        },
+        {
+          "kills": "215",
+          "name": "d1msumboi",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "211",
+          "name": "Cade3k",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "285",
+          "name": "Yoshii",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "157",
+          "name": "renz",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "191",
+          "name": "Dani",
+          "team": "Teal Seam"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.56\n1.39\n1.71",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "189\n171\n207",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "333",
+            "name": "velis",
+            "team": "Resonate"
+          },
+          {
+            "acs": "1.18\n1.33\n1.04",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "149\n169\n131",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "186",
+            "name": "fletcher",
+            "team": "Resonate"
+          },
+          {
+            "acs": "1.15\n1.31\n1.01",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "155\n148\n160",
+            "hs%": "87%\n91%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "256",
+            "name": "contii",
+            "team": "Resonate"
+          },
+          {
+            "acs": "1.08\n1.20\n0.98",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "137\n159\n117",
+            "hs%": "87%\n100%\n75%",
+            "kdr": "5\n4\n1",
+            "kills": "211",
+            "name": "Nahsie",
+            "team": "Resonate"
+          },
+          {
+            "acs": "0.61\n0.46\n0.75",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "106\n101\n110",
+            "hs%": "87%\n82%\n92%",
+            "kdr": "9\n5\n4",
+            "kills": "168",
+            "name": "Cain",
+            "team": "Resonate"
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n0.92\n1.29",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "154\n141\n169",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "9\n3\n6",
+            "kills": "215",
+            "name": "d1msumboi",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "1.07\n1.38\n0.74",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "145\n159\n129",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "10\n4\n6",
+            "kills": "211",
+            "name": "Cade3k",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.87\n0.56\n1.22",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "131\n99\n165",
+            "hs%": "57%\n42%\n73%",
+            "kdr": "4\n3\n1",
+            "kills": "285",
+            "name": "Yoshii",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.83\n1.15\n0.49",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "136\n164\n107",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "6\n3\n3",
+            "kills": "157",
+            "name": "renz",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.57\n0.49\n0.64",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "99\n76\n123",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "10\n4\n6",
+            "kills": "191",
+            "name": "Dani",
+            "team": "Teal Seam"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "179",
+          "name": "fletcher",
+          "team": "Resonate"
+        },
+        {
+          "kills": "247",
+          "name": "velis",
+          "team": "Resonate"
+        },
+        {
+          "kills": "210",
+          "name": "contii",
+          "team": "Resonate"
+        },
+        {
+          "kills": "210",
+          "name": "Nahsie",
+          "team": "Resonate"
+        },
+        {
+          "kills": "162",
+          "name": "Cain",
+          "team": "Resonate"
+        },
+        {
+          "kills": "216",
+          "name": "Cade3k",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "180",
+          "name": "Dani",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "219",
+          "name": "renz",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "166",
+          "name": "d1msumboi",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "149",
+          "name": "Yoshii",
+          "team": "Teal Seam"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.59\n0.86",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "127\n166\n91",
+            "hs%": "70%\n91%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "179",
+            "name": "fletcher",
+            "team": "Resonate"
+          },
+          {
+            "acs": "1.12\n0.78\n1.44",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "161\n140\n179",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "247",
+            "name": "velis",
+            "team": "Resonate"
+          },
+          {
+            "acs": "1.09\n1.55\n0.68",
+            "adr": "+3\n+7\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "126\n164\n91",
+            "hs%": "70%\n91%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "210",
+            "name": "contii",
+            "team": "Resonate"
+          },
+          {
+            "acs": "1.08\n1.36\n0.82",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "133\n132\n135",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "210",
+            "name": "Nahsie",
+            "team": "Resonate"
+          },
+          {
+            "acs": "0.80\n0.84\n0.77",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "109\n124\n95",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "9\n3\n6",
+            "kills": "162",
+            "name": "Cain",
+            "team": "Resonate"
+          }
+        ],
+        [
+          {
+            "acs": "0.99\n0.95\n1.03",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "133\n124\n143",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "5\n3\n2",
+            "kills": "216",
+            "name": "Cade3k",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.99\n1.38\n0.56",
+            "adr": "-1\n+5\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "134\n163\n101",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "10\n4\n6",
+            "kills": "180",
+            "name": "Dani",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.96\n0.81\n1.12",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "148\n117\n183",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "5\n2\n3",
+            "kills": "219",
+            "name": "renz",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.96\n0.97\n0.95",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "119\n113\n126",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "4\n2\n2",
+            "kills": "166",
+            "name": "d1msumboi",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.57\n1.08\n0.04",
+            "adr": "-7\n+1\n-8",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "91\n131\n47",
+            "hs%": "48%\n67%\n27%",
+            "kdr": "3\n2\n1",
+            "kills": "149",
+            "name": "Yoshii",
+            "team": "Teal Seam"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 119626,
+  "teams": [
+    "Teal Seam",
+    "Resonate"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 32"
+}

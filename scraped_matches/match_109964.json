@@ -1,0 +1,788 @@
+{
+  "date": "2022-07-02 08:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "368",
+          "name": "Ale",
+          "team": "KOVA"
+        },
+        {
+          "kills": "198",
+          "name": "Supmah",
+          "team": "KOVA"
+        },
+        {
+          "kills": "196",
+          "name": "sh\u00e9d",
+          "team": "KOVA"
+        },
+        {
+          "kills": "204",
+          "name": "JESMUND",
+          "team": "KOVA"
+        },
+        {
+          "kills": "190",
+          "name": "vicious",
+          "team": "KOVA"
+        },
+        {
+          "kills": "199",
+          "name": "AKIMB0",
+          "team": "who cars?"
+        },
+        {
+          "kills": "226",
+          "name": "Davud",
+          "team": "who cars?"
+        },
+        {
+          "kills": "203",
+          "name": "mishu",
+          "team": "who cars?"
+        },
+        {
+          "kills": "183",
+          "name": "Masked",
+          "team": "who cars?"
+        },
+        {
+          "kills": "142",
+          "name": "sunshine",
+          "team": "who cars?"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.67\n1.27\n1.94",
+            "adr": "+13\n+3\n+10",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "25\n8\n17",
+            "fk": "246\n195\n280",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "368",
+            "name": "Ale",
+            "team": "KOVA"
+          },
+          {
+            "acs": "1.13\n1.36\n0.99",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "119\n129\n112",
+            "hs%": "85%\n88%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "198",
+            "name": "Supmah",
+            "team": "KOVA"
+          },
+          {
+            "acs": "1.08\n1.57\n0.75",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "127\n138\n120",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "196",
+            "name": "sh\u00e9d",
+            "team": "KOVA"
+          },
+          {
+            "acs": "1.05\n1.14\n0.99",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "130\n128\n132",
+            "hs%": "80%\n100%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "204",
+            "name": "JESMUND",
+            "team": "KOVA"
+          },
+          {
+            "acs": "0.83\n1.17\n0.61",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "148\n166\n136",
+            "hs%": "85%\n88%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "190",
+            "name": "vicious",
+            "team": "KOVA"
+          }
+        ],
+        [
+          {
+            "acs": "0.96\n0.85\n1.13",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "123\n88\n176",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "7\n5\n2",
+            "kills": "199",
+            "name": "AKIMB0",
+            "team": "who cars?"
+          },
+          {
+            "acs": "0.89\n0.82\n1.00",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "144\n136\n155",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "226",
+            "name": "Davud",
+            "team": "who cars?"
+          },
+          {
+            "acs": "0.89\n1.32\n0.24",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "13\n13\n0",
+            "fk": "122\n176\n42",
+            "hs%": "70%\n83%\n50%",
+            "kdr": "8\n6\n2",
+            "kills": "203",
+            "name": "mishu",
+            "team": "who cars?"
+          },
+          {
+            "acs": "0.87\n1.11\n0.51",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "115\n131\n90",
+            "hs%": "65%\n75%\n50%",
+            "kdr": "11\n8\n3",
+            "kills": "183",
+            "name": "Masked",
+            "team": "who cars?"
+          },
+          {
+            "acs": "0.66\n0.77\n0.50",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "107\n113\n98",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "142",
+            "name": "sunshine",
+            "team": "who cars?"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "187",
+          "name": "Ale",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "Supmah",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "vicious",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "JESMUND",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "sh\u00e9d",
+          "team": null
+        },
+        {
+          "kills": "250",
+          "name": "mishu",
+          "team": null
+        },
+        {
+          "kills": "293",
+          "name": "Davud",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "AKIMB0",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Masked",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "sunshine",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.91\n1.28\n1.09",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "49\n19\n30",
+            "fk": "160\n124\n197",
+            "hs%": "68%\n69%\n68%",
+            "kdr": "14\n9\n5",
+            "kills": "187",
+            "name": "Ale",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.91\n1.00",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n46\n21\n25\n\n/",
+            "deaths": "47\n25\n22",
+            "fk": "133\n133\n132",
+            "hs%": "68%\n72%\n65%",
+            "kdr": "12\n5\n7",
+            "kills": "216",
+            "name": "Supmah",
+            "team": null
+          },
+          {
+            "acs": "1.30\n0.67\n0.99",
+            "adr": "-2\n+9\n-11",
+            "agent": "",
+            "assists": "/\n\n44\n19\n25\n\n/",
+            "deaths": "42\n28\n14",
+            "fk": "132\n147\n117",
+            "hs%": "75%\n75%\n74%",
+            "kdr": "14\n9\n5",
+            "kills": "235",
+            "name": "vicious",
+            "team": null
+          },
+          {
+            "acs": "1.20\n0.62\n0.91",
+            "adr": "-4\n+5\n-9",
+            "agent": "",
+            "assists": "/\n\n46\n22\n24\n\n/",
+            "deaths": "42\n27\n15",
+            "fk": "136\n164\n108",
+            "hs%": "62%\n72%\n52%",
+            "kdr": "15\n6\n9",
+            "kills": "230",
+            "name": "JESMUND",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.77\n0.85",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n47\n22\n25\n\n/",
+            "deaths": "42\n23\n19",
+            "fk": "128\n138\n118",
+            "hs%": "63%\n59%\n68%",
+            "kdr": "6\n3\n3",
+            "kills": "201",
+            "name": "sh\u00e9d",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.12\n1.23",
+            "adr": "+13\n+9\n+4",
+            "agent": "",
+            "assists": "/\n\n40\n19\n21\n\n/",
+            "deaths": "53\n28\n25",
+            "fk": "146\n146\n146",
+            "hs%": "73%\n81%\n66%",
+            "kdr": "20\n12\n8",
+            "kills": "250",
+            "name": "mishu",
+            "team": null
+          },
+          {
+            "acs": "1.43\n0.76\n1.09",
+            "adr": "+6\n+11\n-5",
+            "agent": "",
+            "assists": "/\n\n48\n21\n27\n\n/",
+            "deaths": "54\n32\n22",
+            "fk": "164\n200\n129",
+            "hs%": "68%\n81%\n56%",
+            "kdr": "8\n5\n3",
+            "kills": "293",
+            "name": "Davud",
+            "team": null
+          },
+          {
+            "acs": "1.20\n0.92\n1.06",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n45\n19\n26\n\n/",
+            "deaths": "46\n24\n22",
+            "fk": "145\n138\n153",
+            "hs%": "75%\n84%\n66%",
+            "kdr": "22\n11\n11",
+            "kills": "212",
+            "name": "AKIMB0",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.04\n1.02",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n42\n19\n23\n\n/",
+            "deaths": "40\n19\n21",
+            "fk": "108\n104\n113",
+            "hs%": "75%\n81%\n69%",
+            "kdr": "20\n13\n7",
+            "kills": "163",
+            "name": "Masked",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.66\n0.74",
+            "adr": "-12\n-3\n-9",
+            "agent": "",
+            "assists": "/\n\n47\n22\n25\n\n/",
+            "deaths": "35\n19\n16",
+            "fk": "100\n107\n94",
+            "hs%": "62%\n68%\n56%",
+            "kdr": "17\n9\n8",
+            "kills": "167",
+            "name": "sunshine",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "131",
+          "name": "vicious",
+          "team": "KOVA"
+        },
+        {
+          "kills": "229",
+          "name": "sh\u00e9d",
+          "team": "KOVA"
+        },
+        {
+          "kills": "301",
+          "name": "Supmah",
+          "team": "KOVA"
+        },
+        {
+          "kills": "301",
+          "name": "Ale",
+          "team": "KOVA"
+        },
+        {
+          "kills": "135",
+          "name": "JESMUND",
+          "team": "KOVA"
+        },
+        {
+          "kills": "309",
+          "name": "mishu",
+          "team": "who cars?"
+        },
+        {
+          "kills": "211",
+          "name": "AKIMB0",
+          "team": "who cars?"
+        },
+        {
+          "kills": "239",
+          "name": "Masked",
+          "team": "who cars?"
+        },
+        {
+          "kills": "169",
+          "name": "sunshine",
+          "team": "who cars?"
+        },
+        {
+          "kills": "105",
+          "name": "Davud",
+          "team": "who cars?"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.37\n1.97\n0.77",
+            "adr": "+7\n+10\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "21\n17\n4",
+            "fk": "156\n214\n99",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "131",
+            "name": "vicious",
+            "team": "KOVA"
+          },
+          {
+            "acs": "1.13\n1.17\n1.10",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "161\n191\n131",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "229",
+            "name": "sh\u00e9d",
+            "team": "KOVA"
+          },
+          {
+            "acs": "0.97\n0.73\n1.21",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "136\n89\n182",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "301",
+            "name": "Supmah",
+            "team": "KOVA"
+          },
+          {
+            "acs": "0.94\n0.66\n1.23",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "144\n101\n187",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "301",
+            "name": "Ale",
+            "team": "KOVA"
+          },
+          {
+            "acs": "0.62\n0.65\n0.60",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "99\n93\n105",
+            "hs%": "58%\n58%\n58%",
+            "kdr": "6\n1\n5",
+            "kills": "135",
+            "name": "JESMUND",
+            "team": "KOVA"
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n0.99\n1.70",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "161\n110\n212",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "7\n5\n2",
+            "kills": "309",
+            "name": "mishu",
+            "team": "who cars?"
+          },
+          {
+            "acs": "1.03\n1.27\n0.78",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "164\n186\n142",
+            "hs%": "92%\n100%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "211",
+            "name": "AKIMB0",
+            "team": "who cars?"
+          },
+          {
+            "acs": "1.01\n0.80\n1.21",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "100\n73\n127",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "239",
+            "name": "Masked",
+            "team": "who cars?"
+          },
+          {
+            "acs": "0.90\n1.16\n0.65",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "128\n136\n120",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "11\n6\n5",
+            "kills": "169",
+            "name": "sunshine",
+            "team": "who cars?"
+          },
+          {
+            "acs": "0.68\n0.98\n0.39",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "119\n158\n81",
+            "hs%": "58%\n75%\n42%",
+            "kdr": "5\n3\n2",
+            "kills": "105",
+            "name": "Davud",
+            "team": "who cars?"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "247",
+          "name": "JESMUND",
+          "team": "KOVA"
+        },
+        {
+          "kills": "223",
+          "name": "Supmah",
+          "team": "KOVA"
+        },
+        {
+          "kills": "117",
+          "name": "vicious",
+          "team": "KOVA"
+        },
+        {
+          "kills": "123",
+          "name": "Ale",
+          "team": "KOVA"
+        },
+        {
+          "kills": "139",
+          "name": "sh\u00e9d",
+          "team": "KOVA"
+        },
+        {
+          "kills": "369",
+          "name": "Davud",
+          "team": "who cars?"
+        },
+        {
+          "kills": "262",
+          "name": "mishu",
+          "team": "who cars?"
+        },
+        {
+          "kills": "169",
+          "name": "Masked",
+          "team": "who cars?"
+        },
+        {
+          "kills": "195",
+          "name": "AKIMB0",
+          "team": "who cars?"
+        },
+        {
+          "kills": "111",
+          "name": "sunshine",
+          "team": "who cars?"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.79\n0.03",
+            "adr": "+1\n+7\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "16\n15\n1",
+            "fk": "190\n260\n70",
+            "hs%": "47%\n67%\n14%",
+            "kdr": "1\n1\n0",
+            "kills": "247",
+            "name": "JESMUND",
+            "team": "KOVA"
+          },
+          {
+            "acs": "0.89\n1.26\n0.26",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "145\n180\n84",
+            "hs%": "47%\n67%\n14%",
+            "kdr": "1\n1\n0",
+            "kills": "223",
+            "name": "Supmah",
+            "team": "KOVA"
+          },
+          {
+            "acs": "0.68\n0.71\n0.62",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "84\n67\n114",
+            "hs%": "53%\n58%\n43%",
+            "kdr": "2\n2\n0",
+            "kills": "117",
+            "name": "vicious",
+            "team": "KOVA"
+          },
+          {
+            "acs": "0.68\n0.92\n0.27",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "89\n100\n72",
+            "hs%": "58%\n75%\n29%",
+            "kdr": "7\n6\n1",
+            "kills": "123",
+            "name": "Ale",
+            "team": "KOVA"
+          },
+          {
+            "acs": "0.25\n0.25\n0.26",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "88\n86\n93",
+            "hs%": "32%\n25%\n43%",
+            "kdr": "1\n1\n0",
+            "kills": "139",
+            "name": "sh\u00e9d",
+            "team": "KOVA"
+          }
+        ],
+        [
+          {
+            "acs": "1.82\n3.27\n0.97",
+            "adr": "+14\n+14\n0",
+            "agent": "",
+            "assists": "/\n\n11\n1\n10\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "243\n384\n160",
+            "hs%": "74%\n100%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "369",
+            "name": "Davud",
+            "team": "who cars?"
+          },
+          {
+            "acs": "1.43\n1.99\n1.11",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "151\n157\n148",
+            "hs%": "68%\n86%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "262",
+            "name": "mishu",
+            "team": "who cars?"
+          },
+          {
+            "acs": "1.21\n1.18\n1.22",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "112\n111\n113",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "169",
+            "name": "Masked",
+            "team": "who cars?"
+          },
+          {
+            "acs": "1.20\n1.68\n0.92",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "145\n140\n148",
+            "hs%": "63%\n86%\n50%",
+            "kdr": "8\n4\n4",
+            "kills": "195",
+            "name": "AKIMB0",
+            "team": "who cars?"
+          },
+          {
+            "acs": "0.62\n0.34\n0.79",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "59\n46\n66",
+            "hs%": "58%\n71%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "111",
+            "name": "sunshine",
+            "team": "who cars?"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 109964,
+  "teams": [
+    "KOVA",
+    "who cars?"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tLower Round 1"
+}

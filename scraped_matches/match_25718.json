@@ -1,0 +1,594 @@
+{
+  "date": "2021-07-09 07:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "299",
+          "name": "Kishi",
+          "team": "CERBERUS Esports"
+        },
+        {
+          "kills": "178",
+          "name": "Akashi",
+          "team": "CERBERUS Esports"
+        },
+        {
+          "kills": "208",
+          "name": "Suka",
+          "team": "CERBERUS Esports"
+        },
+        {
+          "kills": "178",
+          "name": "viness",
+          "team": "CERBERUS Esports"
+        },
+        {
+          "kills": "181",
+          "name": "KeA",
+          "team": "CERBERUS Esports"
+        },
+        {
+          "kills": "340",
+          "name": "Layla",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "167",
+          "name": "ting2k5",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "237",
+          "name": "K1LLERS",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "176",
+          "name": "JCun",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "106",
+          "name": "Son Keke",
+          "team": "Fancy United Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.52\n1.28\n1.75",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "186\n179\n193",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "7\n3\n4",
+            "kills": "299",
+            "name": "Kishi",
+            "team": "CERBERUS Esports"
+          },
+          {
+            "acs": "1.07\n0.71\n1.43",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "113\n77\n148",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "10\n5\n5",
+            "kills": "178",
+            "name": "Akashi",
+            "team": "CERBERUS Esports"
+          },
+          {
+            "acs": "0.95\n0.79\n1.12",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "130\n133\n128",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "8\n4\n4",
+            "kills": "208",
+            "name": "Suka",
+            "team": "CERBERUS Esports"
+          },
+          {
+            "acs": "0.89\n1.18\n0.60",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "114\n152\n76",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "11\n6\n5",
+            "kills": "178",
+            "name": "viness",
+            "team": "CERBERUS Esports"
+          },
+          {
+            "acs": "0.85\n1.12\n0.58",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "120\n166\n74",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "5\n2\n3",
+            "kills": "181",
+            "name": "KeA",
+            "team": "CERBERUS Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.72\n1.34\n2.09",
+            "adr": "+15\n+4\n+11",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "32\n13\n19",
+            "fk": "224\n188\n260",
+            "hs%": "88%\n85%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "340",
+            "name": "Layla",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.98\n0.53\n1.44",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "125\n114\n136",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "7\n4\n3",
+            "kills": "167",
+            "name": "ting2k5",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.89\n1.42\n0.36",
+            "adr": "-2\n+5\n-7",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "19\n15\n4",
+            "fk": "172\n226\n118",
+            "hs%": "58%\n69%\n46%",
+            "kdr": "8\n4\n4",
+            "kills": "237",
+            "name": "K1LLERS",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.70\n0.71\n0.69",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "115\n119\n111",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "12\n4\n8",
+            "kills": "176",
+            "name": "JCun",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.57\n0.61\n0.54",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "65\n71\n60",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "10\n6\n4",
+            "kills": "106",
+            "name": "Son Keke",
+            "team": "Fancy United Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "314",
+          "name": "Kishi",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "Akashi",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "viness",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "KeA",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "Suka",
+          "team": null
+        },
+        {
+          "kills": "297",
+          "name": "Layla",
+          "team": null
+        },
+        {
+          "kills": "301",
+          "name": "K1LLERS",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "ting2k5",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "JCun",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "Son Keke",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.37\n1.41\n1.39",
+            "adr": "+14\n+5\n+9",
+            "agent": "",
+            "assists": "/\n\n34\n16\n18\n\n/",
+            "deaths": "48\n21\n27",
+            "fk": "181\n182\n180",
+            "hs%": "76%\n71%\n80%",
+            "kdr": "13\n6\n7",
+            "kills": "314",
+            "name": "Kishi",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.29\n1.15",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n29\n11\n18\n\n/",
+            "deaths": "34\n13\n21",
+            "fk": "127\n86\n163",
+            "hs%": "76%\n76%\n76%",
+            "kdr": "17\n8\n9",
+            "kills": "152",
+            "name": "Akashi",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.08\n1.06",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n32\n14\n18\n\n/",
+            "deaths": "33\n15\n18",
+            "fk": "124\n120\n129",
+            "hs%": "76%\n71%\n80%",
+            "kdr": "21\n7\n14",
+            "kills": "186",
+            "name": "viness",
+            "team": null
+          },
+          {
+            "acs": "1.20\n0.82\n0.99",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n32\n14\n18\n\n/",
+            "deaths": "31\n15\n16",
+            "fk": "120\n149\n95",
+            "hs%": "76%\n81%\n72%",
+            "kdr": "11\n7\n4",
+            "kills": "211",
+            "name": "KeA",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.05\n0.92",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n32\n14\n18\n\n/",
+            "deaths": "30\n12\n18",
+            "fk": "111\n106\n116",
+            "hs%": "74%\n67%\n80%",
+            "kdr": "12\n4\n8",
+            "kills": "155",
+            "name": "Suka",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.69\n1.52",
+            "adr": "+19\n+8\n+11",
+            "agent": "",
+            "assists": "/\n\n31\n18\n13\n\n/",
+            "deaths": "50\n26\n24",
+            "fk": "204\n199\n211",
+            "hs%": "78%\n76%\n81%",
+            "kdr": "9\n4\n5",
+            "kills": "297",
+            "name": "Layla",
+            "team": null
+          },
+          {
+            "acs": "1.24\n0.54\n0.92",
+            "adr": "-2\n+6\n-8",
+            "agent": "",
+            "assists": "/\n\n37\n20\n17\n\n/",
+            "deaths": "35\n26\n9",
+            "fk": "168\n192\n140",
+            "hs%": "61%\n64%\n57%",
+            "kdr": "12\n5\n7",
+            "kills": "301",
+            "name": "K1LLERS",
+            "team": null
+          },
+          {
+            "acs": "0.55\n1.08\n0.80",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n33\n20\n13\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "116\n100\n135",
+            "hs%": "67%\n68%\n67%",
+            "kdr": "10\n6\n4",
+            "kills": "133",
+            "name": "ting2k5",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.82\n0.75",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n38\n23\n15\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "123\n118\n128",
+            "hs%": "76%\n80%\n71%",
+            "kdr": "18\n8\n10",
+            "kills": "179",
+            "name": "JCun",
+            "team": null
+          },
+          {
+            "acs": "0.66\n0.57\n0.62",
+            "adr": "-16\n-10\n-6",
+            "agent": "",
+            "assists": "/\n\n37\n21\n16\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "92\n109\n72",
+            "hs%": "70%\n76%\n62%",
+            "kdr": "18\n13\n5",
+            "kills": "143",
+            "name": "Son Keke",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "viness",
+          "team": "CERBERUS Esports"
+        },
+        {
+          "kills": "282",
+          "name": "Akashi",
+          "team": "CERBERUS Esports"
+        },
+        {
+          "kills": "253",
+          "name": "Kishi",
+          "team": "CERBERUS Esports"
+        },
+        {
+          "kills": "195",
+          "name": "KeA",
+          "team": "CERBERUS Esports"
+        },
+        {
+          "kills": "160",
+          "name": "Suka",
+          "team": "CERBERUS Esports"
+        },
+        {
+          "kills": "175",
+          "name": "Layla",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "239",
+          "name": "K1LLERS",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "219",
+          "name": "JCun",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "166",
+          "name": "Son Keke",
+          "team": "Fancy United Esports"
+        },
+        {
+          "kills": "182",
+          "name": "ting2k5",
+          "team": "Fancy United Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.27\n0.79\n1.59",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "138\n67\n185",
+            "hs%": "85%\n63%\n100%",
+            "kdr": "10\n1\n9",
+            "kills": "245",
+            "name": "viness",
+            "team": "CERBERUS Esports"
+          },
+          {
+            "acs": "1.25\n1.42\n1.14",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "147\n100\n178",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "282",
+            "name": "Akashi",
+            "team": "CERBERUS Esports"
+          },
+          {
+            "acs": "1.23\n1.52\n1.04",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "175\n188\n167",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "253",
+            "name": "Kishi",
+            "team": "CERBERUS Esports"
+          },
+          {
+            "acs": "1.18\n1.32\n1.08",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "119\n122\n118",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "195",
+            "name": "KeA",
+            "team": "CERBERUS Esports"
+          },
+          {
+            "acs": "0.88\n0.74\n0.97",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "87\n63\n102",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "160",
+            "name": "Suka",
+            "team": "CERBERUS Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.40\n1.03",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "178\n210\n130",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "3\n2\n1",
+            "kills": "175",
+            "name": "Layla",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.96\n1.05\n0.82",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "163\n155\n175",
+            "hs%": "65%\n58%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "239",
+            "name": "K1LLERS",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.81\n0.65\n1.03",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "133\n117\n156",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "6\n4\n2",
+            "kills": "219",
+            "name": "JCun",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.68\n0.72\n0.62",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "127\n150\n92",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "8\n7\n1",
+            "kills": "166",
+            "name": "Son Keke",
+            "team": "Fancy United Esports"
+          },
+          {
+            "acs": "0.55\n0.58\n0.51",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "104\n85\n133",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "3\n2\n1",
+            "kills": "182",
+            "name": "ting2k5",
+            "team": "Fancy United Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 25718,
+  "teams": [
+    "CERBERUS Esports",
+    "Fancy United Esports"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

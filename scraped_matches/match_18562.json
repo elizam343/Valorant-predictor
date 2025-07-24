@@ -1,0 +1,594 @@
+{
+  "date": "2021-05-09 07:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "394",
+          "name": "GatsH",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "195",
+          "name": "TiduS",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "261",
+          "name": "KONEQT",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "218",
+          "name": "PetitSkel",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "151",
+          "name": "mikee",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "206",
+          "name": "khe0ps",
+          "team": "PCS One"
+        },
+        {
+          "kills": "136",
+          "name": "YaB",
+          "team": "PCS One"
+        },
+        {
+          "kills": "173",
+          "name": "Muho",
+          "team": "PCS One"
+        },
+        {
+          "kills": "98",
+          "name": "Wissite1",
+          "team": "PCS One"
+        },
+        {
+          "kills": "85",
+          "name": "Lazii",
+          "team": "PCS One"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "2.16\n2.28\n2.10",
+            "adr": "+19\n+6\n+13",
+            "agent": "",
+            "assists": "/\n\n5\n2\n3\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "217\n183\n231",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "394",
+            "name": "GatsH",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "1.37\n1.23\n1.44",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n6\n3\n3\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "117\n57\n143",
+            "hs%": "94%\n80%\n100%",
+            "kdr": "9\n2\n7",
+            "kills": "195",
+            "name": "TiduS",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "1.33\n0.51\n1.67",
+            "adr": "+8\n-2\n+10",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "17\n2\n15",
+            "fk": "144\n77\n172",
+            "hs%": "82%\n60%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "261",
+            "name": "KONEQT",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "1.29\n1.13\n1.35",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "122\n125\n120",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "218",
+            "name": "PetitSkel",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "0.87\n0.29\n1.11",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "90\n19\n120",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "151",
+            "name": "mikee",
+            "team": "Edelweiss Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.91\n1.09\n0.47",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "144\n155\n116",
+            "hs%": "53%\n42%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "206",
+            "name": "khe0ps",
+            "team": "PCS One"
+          },
+          {
+            "acs": "0.57\n0.48\n0.80",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "93\n76\n134",
+            "hs%": "41%\n42%\n40%",
+            "kdr": "1\n0\n1",
+            "kills": "136",
+            "name": "YaB",
+            "team": "PCS One"
+          },
+          {
+            "acs": "0.54\n0.54\n0.53",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "105\n103\n109",
+            "hs%": "59%\n50%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "173",
+            "name": "Muho",
+            "team": "PCS One"
+          },
+          {
+            "acs": "0.50\n0.27\n1.06",
+            "adr": "-10\n-10\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "69\n38\n145",
+            "hs%": "29%\n17%\n60%",
+            "kdr": "6\n4\n2",
+            "kills": "98",
+            "name": "Wissite1",
+            "team": "PCS One"
+          },
+          {
+            "acs": "0.35\n0.03\n1.27",
+            "adr": "-11\n-12\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "4\n0\n4",
+            "fk": "59\n40\n103",
+            "hs%": "53%\n50%\n60%",
+            "kdr": "5\n4\n1",
+            "kills": "85",
+            "name": "Lazii",
+            "team": "PCS One"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "312",
+          "name": "GatsH",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "PetitSkel",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "KONEQT",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "TiduS",
+          "team": null
+        },
+        {
+          "kills": "128",
+          "name": "mikee",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "Wissite1",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "khe0ps",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "Lazii",
+          "team": null
+        },
+        {
+          "kills": "95",
+          "name": "YaB",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "Muho",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.55\n1.90\n1.76",
+            "adr": "+31\n+10\n+21",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "52\n21\n31",
+            "fk": "203\n175\n223",
+            "hs%": "85%\n76%\n91%",
+            "kdr": "11\n3\n8",
+            "kills": "312",
+            "name": "GatsH",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.48\n1.22",
+            "adr": "+14\n-1\n+15",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "32\n11\n21",
+            "fk": "133\n122\n141",
+            "hs%": "83%\n71%\n91%",
+            "kdr": "10\n4\n6",
+            "kills": "210",
+            "name": "PetitSkel",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.37\n1.21",
+            "adr": "+13\n+1\n+12",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "38\n14\n24",
+            "fk": "148\n137\n155",
+            "hs%": "70%\n59%\n78%",
+            "kdr": "10\n2\n8",
+            "kills": "235",
+            "name": "KONEQT",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.09\n0.98",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "93\n77\n105",
+            "hs%": "78%\n59%\n91%",
+            "kdr": "15\n5\n10",
+            "kills": "157",
+            "name": "TiduS",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.99\n0.87",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "88\n82\n93",
+            "hs%": "73%\n71%\n74%",
+            "kdr": "14\n9\n5",
+            "kills": "128",
+            "name": "mikee",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.94\n1.43\n1.15",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n30\n18\n12\n\n/",
+            "deaths": "30\n13\n17",
+            "fk": "139\n112\n176",
+            "hs%": "53%\n43%\n65%",
+            "kdr": "11\n5\n6",
+            "kills": "175",
+            "name": "Wissite1",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.96\n0.80",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n32\n19\n13\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "128\n110\n152",
+            "hs%": "58%\n48%\n71%",
+            "kdr": "9\n3\n6",
+            "kills": "169",
+            "name": "khe0ps",
+            "team": null
+          },
+          {
+            "acs": "0.37\n1.04\n0.64",
+            "adr": "-15\n-15\n0",
+            "agent": "",
+            "assists": "/\n\n33\n22\n11\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "94\n82\n109",
+            "hs%": "63%\n57%\n71%",
+            "kdr": "12\n7\n5",
+            "kills": "129",
+            "name": "Lazii",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.92\n0.63",
+            "adr": "-12\n-11\n-1",
+            "agent": "",
+            "assists": "/\n\n30\n19\n11\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "71\n56\n93",
+            "hs%": "53%\n43%\n65%",
+            "kdr": "9\n2\n7",
+            "kills": "95",
+            "name": "YaB",
+            "team": null
+          },
+          {
+            "acs": "0.47\n0.64\n0.54",
+            "adr": "-20\n-13\n-7",
+            "agent": "",
+            "assists": "/\n\n38\n23\n15\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "93\n88\n99",
+            "hs%": "58%\n52%\n65%",
+            "kdr": "9\n2\n7",
+            "kills": "143",
+            "name": "Muho",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "415",
+          "name": "GatsH",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "274",
+          "name": "PetitSkel",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "227",
+          "name": "KONEQT",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "140",
+          "name": "mikee",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "96",
+          "name": "TiduS",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "326",
+          "name": "Wissite1",
+          "team": "PCS One"
+        },
+        {
+          "kills": "161",
+          "name": "Lazii",
+          "team": "PCS One"
+        },
+        {
+          "kills": "273",
+          "name": "khe0ps",
+          "team": "PCS One"
+        },
+        {
+          "kills": "138",
+          "name": "YaB",
+          "team": "PCS One"
+        },
+        {
+          "kills": "149",
+          "name": "Muho",
+          "team": "PCS One"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.25\n1.69",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "192\n172\n214",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "5\n2\n3",
+            "kills": "415",
+            "name": "GatsH",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "1.18\n0.76\n1.62",
+            "adr": "+7\n-2\n+9",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "141\n121\n163",
+            "hs%": "83%\n67%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "274",
+            "name": "PetitSkel",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "1.12\n1.20\n1.04",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "150\n162\n137",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "4\n1\n3",
+            "kills": "227",
+            "name": "KONEQT",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "0.87\n0.89\n0.85",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "86\n108\n63",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "8\n6\n2",
+            "kills": "140",
+            "name": "mikee",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "0.68\n0.66\n0.71",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "74\n85\n63",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "6\n3\n3",
+            "kills": "96",
+            "name": "TiduS",
+            "team": "Edelweiss Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.63\n1.67\n1.59",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "191\n193\n189",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "326",
+            "name": "Wissite1",
+            "team": "PCS One"
+          },
+          {
+            "acs": "0.85\n0.74\n0.95",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "120\n128\n112",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "161",
+            "name": "Lazii",
+            "team": "PCS One"
+          },
+          {
+            "acs": "0.73\n0.25\n1.16",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "116\n61\n166",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "273",
+            "name": "khe0ps",
+            "team": "PCS One"
+          },
+          {
+            "acs": "0.68\n0.36\n0.97",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "56\n34\n76",
+            "hs%": "61%\n45%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "138",
+            "name": "YaB",
+            "team": "PCS One"
+          },
+          {
+            "acs": "0.55\n0.40\n0.69",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "84\n72\n95",
+            "hs%": "57%\n55%\n58%",
+            "kdr": "7\n1\n6",
+            "kills": "149",
+            "name": "Muho",
+            "team": "PCS One"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 18562,
+  "teams": [
+    "PCS One",
+    "Edelweiss Esports"
+  ],
+  "tournament": "Tournament: \n\t\t\t\t\t\tUpper Round of 32"
+}

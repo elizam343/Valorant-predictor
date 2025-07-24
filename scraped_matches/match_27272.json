@@ -1,0 +1,594 @@
+{
+  "date": "2021-07-16 21:30:42",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "262",
+          "name": "Drakious",
+          "team": "Synergy"
+        },
+        {
+          "kills": "224",
+          "name": "hyun",
+          "team": "Synergy"
+        },
+        {
+          "kills": "193",
+          "name": "Tillo",
+          "team": "Synergy"
+        },
+        {
+          "kills": "151",
+          "name": "Tyler",
+          "team": "Synergy"
+        },
+        {
+          "kills": "124",
+          "name": "Benevolence",
+          "team": "Synergy"
+        },
+        {
+          "kills": "231",
+          "name": "YJS",
+          "team": "Able Esports"
+        },
+        {
+          "kills": "265",
+          "name": "VolcaN",
+          "team": "Able Esports"
+        },
+        {
+          "kills": "215",
+          "name": "Swifts",
+          "team": "Able Esports"
+        },
+        {
+          "kills": "238",
+          "name": "SHNOZERBULLDOZER",
+          "team": "Able Esports"
+        },
+        {
+          "kills": "104",
+          "name": "Dreylo",
+          "team": "Able Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.12\n0.84\n1.42",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "168\n156\n181",
+            "hs%": "83%\n67%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "262",
+            "name": "Drakious",
+            "team": "Synergy"
+          },
+          {
+            "acs": "1.06\n1.13\n0.99",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "136\n146\n124",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "5\n1\n4",
+            "kills": "224",
+            "name": "hyun",
+            "team": "Synergy"
+          },
+          {
+            "acs": "0.96\n0.71\n1.22",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "109\n85\n136",
+            "hs%": "61%\n42%\n82%",
+            "kdr": "3\n1\n2",
+            "kills": "193",
+            "name": "Tillo",
+            "team": "Synergy"
+          },
+          {
+            "acs": "0.80\n0.71\n0.90",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "97\n84\n111",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "7\n3\n4",
+            "kills": "151",
+            "name": "Tyler",
+            "team": "Synergy"
+          },
+          {
+            "acs": "0.59\n0.41\n0.77",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "71\n60\n82",
+            "hs%": "74%\n58%\n91%",
+            "kdr": "3\n0\n3",
+            "kills": "124",
+            "name": "Benevolence",
+            "team": "Synergy"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n1.08\n1.77",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "143\n97\n185",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "12\n2\n10",
+            "kills": "231",
+            "name": "YJS",
+            "team": "Able Esports"
+          },
+          {
+            "acs": "1.27\n1.51\n1.06",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "138\n157\n120",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "265",
+            "name": "VolcaN",
+            "team": "Able Esports"
+          },
+          {
+            "acs": "1.03\n1.02\n1.03",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "137\n151\n125",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "215",
+            "name": "Swifts",
+            "team": "Able Esports"
+          },
+          {
+            "acs": "0.85\n0.39\n1.27",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "153\n92\n209",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "238",
+            "name": "SHNOZERBULLDOZER",
+            "team": "Able Esports"
+          },
+          {
+            "acs": "0.71\n0.27\n1.12",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "89\n58\n117",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "104",
+            "name": "Dreylo",
+            "team": "Able Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "217",
+          "name": "Drakious",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "hyun",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Tillo",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "Tyler",
+          "team": null
+        },
+        {
+          "kills": "108",
+          "name": "Benevolence",
+          "team": null
+        },
+        {
+          "kills": "307",
+          "name": "VolcaN",
+          "team": null
+        },
+        {
+          "kills": "300",
+          "name": "Swifts",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "YJS",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "SHNOZERBULLDOZER",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "Dreylo",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.00\n1.25\n1.13",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "37\n16\n21",
+            "fk": "150\n141\n159",
+            "hs%": "72%\n65%\n78%",
+            "kdr": "14\n9\n5",
+            "kills": "217",
+            "name": "Drakious",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.90\n0.89",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "34\n16\n18",
+            "fk": "126\n120\n132",
+            "hs%": "72%\n61%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "195",
+            "name": "hyun",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.97\n0.86",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n33\n17\n16\n\n/",
+            "deaths": "30\n16\n14",
+            "fk": "108\n102\n114",
+            "hs%": "61%\n52%\n70%",
+            "kdr": "7\n2\n5",
+            "kills": "171",
+            "name": "Tillo",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.77\n0.83",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n33\n16\n17\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "106\n108\n103",
+            "hs%": "63%\n61%\n65%",
+            "kdr": "13\n6\n7",
+            "kills": "161",
+            "name": "Tyler",
+            "team": null
+          },
+          {
+            "acs": "0.37\n0.84\n0.60",
+            "adr": "-13\n-12\n-1",
+            "agent": "",
+            "assists": "/\n\n36\n20\n16\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "97\n65\n130",
+            "hs%": "59%\n48%\n70%",
+            "kdr": "6\n2\n4",
+            "kills": "108",
+            "name": "Benevolence",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.30\n1.22\n1.26",
+            "adr": "+16\n+9\n+7",
+            "agent": "",
+            "assists": "/\n\n33\n17\n16\n\n/",
+            "deaths": "49\n26\n23",
+            "fk": "156\n154\n158",
+            "hs%": "78%\n70%\n87%",
+            "kdr": "8\n6\n2",
+            "kills": "307",
+            "name": "VolcaN",
+            "team": null
+          },
+          {
+            "acs": "1.40\n0.99\n1.20",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n30\n17\n13\n\n/",
+            "deaths": "38\n22\n16",
+            "fk": "143\n186\n99",
+            "hs%": "65%\n61%\n70%",
+            "kdr": "12\n8\n4",
+            "kills": "300",
+            "name": "Swifts",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.29\n1.15",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "29\n13\n16",
+            "fk": "120\n102\n138",
+            "hs%": "72%\n74%\n70%",
+            "kdr": "23\n10\n13",
+            "kills": "162",
+            "name": "YJS",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.53\n1.15",
+            "adr": "+7\n-3\n+10",
+            "agent": "",
+            "assists": "/\n\n31\n17\n14\n\n/",
+            "deaths": "38\n14\n24",
+            "fk": "149\n105\n194",
+            "hs%": "76%\n70%\n83%",
+            "kdr": "15\n7\n8",
+            "kills": "166",
+            "name": "SHNOZERBULLDOZER",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.92\n0.86",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n28\n16\n12\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "113\n115\n112",
+            "hs%": "72%\n65%\n78%",
+            "kdr": "17\n10\n7",
+            "kills": "147",
+            "name": "Dreylo",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "226",
+          "name": "Drakious",
+          "team": "Synergy"
+        },
+        {
+          "kills": "129",
+          "name": "Tyler",
+          "team": "Synergy"
+        },
+        {
+          "kills": "121",
+          "name": "Tillo",
+          "team": "Synergy"
+        },
+        {
+          "kills": "215",
+          "name": "hyun",
+          "team": "Synergy"
+        },
+        {
+          "kills": "241",
+          "name": "Benevolence",
+          "team": "Synergy"
+        },
+        {
+          "kills": "309",
+          "name": "SHNOZERBULLDOZER",
+          "team": "Able Esports"
+        },
+        {
+          "kills": "171",
+          "name": "Swifts",
+          "team": "Able Esports"
+        },
+        {
+          "kills": "379",
+          "name": "VolcaN",
+          "team": "Able Esports"
+        },
+        {
+          "kills": "125",
+          "name": "Dreylo",
+          "team": "Able Esports"
+        },
+        {
+          "kills": "108",
+          "name": "YJS",
+          "team": "Able Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.14\n1.18\n1.11",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "132\n124\n139",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "7\n4\n3",
+            "kills": "226",
+            "name": "Drakious",
+            "team": "Synergy"
+          },
+          {
+            "acs": "0.86\n1.09\n0.64",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "115\n135\n97",
+            "hs%": "61%\n73%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "129",
+            "name": "Tyler",
+            "team": "Synergy"
+          },
+          {
+            "acs": "0.76\n0.78\n0.73",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "107\n121\n95",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "121",
+            "name": "Tillo",
+            "team": "Synergy"
+          },
+          {
+            "acs": "0.72\n0.60\n0.83",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "116\n91\n140",
+            "hs%": "61%\n45%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "215",
+            "name": "hyun",
+            "team": "Synergy"
+          },
+          {
+            "acs": "0.62\n0.32\n0.90",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "124\n69\n173",
+            "hs%": "43%\n36%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "241",
+            "name": "Benevolence",
+            "team": "Synergy"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n1.14\n1.81",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "145\n117\n177",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "9\n5\n4",
+            "kills": "309",
+            "name": "SHNOZERBULLDOZER",
+            "team": "Able Esports"
+          },
+          {
+            "acs": "1.37\n1.75\n0.95",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "148\n219\n71",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "6\n5\n1",
+            "kills": "171",
+            "name": "Swifts",
+            "team": "Able Esports"
+          },
+          {
+            "acs": "1.24\n1.10\n1.39",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "175\n152\n199",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "5\n5\n0",
+            "kills": "379",
+            "name": "VolcaN",
+            "team": "Able Esports"
+          },
+          {
+            "acs": "1.00\n1.27\n0.72",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "138\n166\n106",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "11\n8\n3",
+            "kills": "125",
+            "name": "Dreylo",
+            "team": "Able Esports"
+          },
+          {
+            "acs": "0.86\n0.94\n0.77",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "97\n107\n86",
+            "hs%": "65%\n83%\n45%",
+            "kdr": "11\n8\n3",
+            "kills": "108",
+            "name": "YJS",
+            "team": "Able Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 27272,
+  "teams": [
+    "Able Esports",
+    "Synergy"
+  ],
+  "tournament": "Series III Playoffs: \n\t\t\t\t\t\tRound of 16"
+}

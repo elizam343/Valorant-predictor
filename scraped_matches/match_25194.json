@@ -1,0 +1,594 @@
+{
+  "date": "2021-07-08 17:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "315",
+          "name": "Victor",
+          "team": "ENVY"
+        },
+        {
+          "kills": "171",
+          "name": "crashies",
+          "team": "ENVY"
+        },
+        {
+          "kills": "164",
+          "name": "Marved",
+          "team": "ENVY"
+        },
+        {
+          "kills": "194",
+          "name": "FiNESSE",
+          "team": "ENVY"
+        },
+        {
+          "kills": "211",
+          "name": "mummAy",
+          "team": "ENVY"
+        },
+        {
+          "kills": "205",
+          "name": "skuba",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "236",
+          "name": "oderus",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "198",
+          "name": "jmoh",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "162",
+          "name": "fiziq",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "155",
+          "name": "scourge",
+          "team": "Pioneers"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.43\n1.40",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "204\n215\n192",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "315",
+            "name": "Victor",
+            "team": "ENVY"
+          },
+          {
+            "acs": "1.09\n0.59\n1.68",
+            "adr": "+1\n-6\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "118\n86\n156",
+            "hs%": "73%\n50%\n100%",
+            "kdr": "6\n2\n4",
+            "kills": "171",
+            "name": "crashies",
+            "team": "ENVY"
+          },
+          {
+            "acs": "1.04\n0.95\n1.15",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "110\n113\n105",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "5\n2\n3",
+            "kills": "164",
+            "name": "Marved",
+            "team": "ENVY"
+          },
+          {
+            "acs": "0.99\n0.50\n1.58",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "133\n121\n146",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "6\n4\n2",
+            "kills": "194",
+            "name": "FiNESSE",
+            "team": "ENVY"
+          },
+          {
+            "acs": "0.95\n0.70\n1.26",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "132\n109\n159",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "5\n1\n4",
+            "kills": "211",
+            "name": "mummAy",
+            "team": "ENVY"
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n0.22\n1.72",
+            "adr": "+1\n-7\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "156\n95\n208",
+            "hs%": "64%\n40%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "205",
+            "name": "skuba",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.99\n0.76\n1.18",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "153\n153\n152",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "236",
+            "name": "oderus",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.90\n0.56\n1.18",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "126\n89\n157",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "198",
+            "name": "jmoh",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.81\n0.64\n0.95",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "118\n90\n142",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "162",
+            "name": "fiziq",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.62\n0.51\n0.71",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "96\n90\n101",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "155",
+            "name": "scourge",
+            "team": "Pioneers"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "217",
+          "name": "Victor",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "crashies",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "FiNESSE",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "Marved",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "mummAy",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "jmoh",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "oderus",
+          "team": null
+        },
+        {
+          "kills": "118",
+          "name": "skuba",
+          "team": null
+        },
+        {
+          "kills": "118",
+          "name": "fiziq",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "scourge",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.00\n1.42\n1.20",
+            "adr": "+8\n-3\n+11",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "43\n16\n27",
+            "fk": "177\n153\n204",
+            "hs%": "85%\n75%\n95%",
+            "kdr": "13\n7\n6",
+            "kills": "217",
+            "name": "Victor",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.35\n1.15",
+            "adr": "+9\n-3\n+12",
+            "agent": "",
+            "assists": "/\n\n27\n18\n9\n\n/",
+            "deaths": "36\n15\n21",
+            "fk": "126\n114\n139",
+            "hs%": "80%\n71%\n91%",
+            "kdr": "11\n5\n6",
+            "kills": "198",
+            "name": "crashies",
+            "team": null
+          },
+          {
+            "acs": "0.65\n1.46\n1.04",
+            "adr": "+5\n-6\n+11",
+            "agent": "",
+            "assists": "/\n\n29\n20\n9\n\n/",
+            "deaths": "34\n14\n20",
+            "fk": "140\n124\n158",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "10\n5\n5",
+            "kills": "176",
+            "name": "FiNESSE",
+            "team": null
+          },
+          {
+            "acs": "0.60\n1.22\n0.90",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n32\n21\n11\n\n/",
+            "deaths": "30\n14\n16",
+            "fk": "112\n94\n132",
+            "hs%": "72%\n50%\n95%",
+            "kdr": "15\n3\n12",
+            "kills": "150",
+            "name": "Marved",
+            "team": null
+          },
+          {
+            "acs": "0.68\n1.07\n0.86",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n32\n19\n13\n\n/",
+            "deaths": "29\n12\n17",
+            "fk": "113\n100\n128",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "8\n2\n6",
+            "kills": "149",
+            "name": "mummAy",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.94\n1.21\n1.08",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n33\n19\n14\n\n/",
+            "deaths": "33\n14\n19",
+            "fk": "131\n118\n143",
+            "hs%": "72%\n68%\n75%",
+            "kdr": "10\n4\n6",
+            "kills": "193",
+            "name": "jmoh",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.30\n1.06",
+            "adr": "+2\n-6\n+8",
+            "agent": "",
+            "assists": "/\n\n34\n21\n13\n\n/",
+            "deaths": "36\n15\n21",
+            "fk": "161\n150\n172",
+            "hs%": "76%\n64%\n88%",
+            "kdr": "7\n2\n5",
+            "kills": "216",
+            "name": "oderus",
+            "team": null
+          },
+          {
+            "acs": "0.41\n1.45\n0.95",
+            "adr": "-3\n-13\n+10",
+            "agent": "",
+            "assists": "/\n\n34\n21\n13\n\n/",
+            "deaths": "31\n8\n23",
+            "fk": "137\n92\n179",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "15\n5\n10",
+            "kills": "118",
+            "name": "skuba",
+            "team": null
+          },
+          {
+            "acs": "0.59\n1.09\n0.85",
+            "adr": "-7\n-12\n+5",
+            "agent": "",
+            "assists": "/\n\n33\n20\n13\n\n/",
+            "deaths": "26\n8\n18",
+            "fk": "116\n85\n145",
+            "hs%": "63%\n45%\n79%",
+            "kdr": "9\n3\n6",
+            "kills": "118",
+            "name": "fiziq",
+            "team": null
+          },
+          {
+            "acs": "0.61\n0.91\n0.77",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n38\n22\n16\n\n/",
+            "deaths": "29\n13\n16",
+            "fk": "110\n106\n114",
+            "hs%": "63%\n64%\n63%",
+            "kdr": "7\n3\n4",
+            "kills": "174",
+            "name": "scourge",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "215",
+          "name": "crashies",
+          "team": "ENVY"
+        },
+        {
+          "kills": "259",
+          "name": "FiNESSE",
+          "team": "ENVY"
+        },
+        {
+          "kills": "316",
+          "name": "Victor",
+          "team": "ENVY"
+        },
+        {
+          "kills": "163",
+          "name": "mummAy",
+          "team": "ENVY"
+        },
+        {
+          "kills": "225",
+          "name": "Marved",
+          "team": "ENVY"
+        },
+        {
+          "kills": "240",
+          "name": "jmoh",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "279",
+          "name": "oderus",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "209",
+          "name": "scourge",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "228",
+          "name": "fiziq",
+          "team": "Pioneers"
+        },
+        {
+          "kills": "215",
+          "name": "skuba",
+          "team": "Pioneers"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.34\n1.08",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "134\n143\n124",
+            "hs%": "88%\n92%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "215",
+            "name": "crashies",
+            "team": "ENVY"
+          },
+          {
+            "acs": "1.09\n0.81\n1.37",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "148\n128\n167",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "259",
+            "name": "FiNESSE",
+            "team": "ENVY"
+          },
+          {
+            "acs": "1.00\n0.57\n1.43",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "152\n90\n214",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "316",
+            "name": "Victor",
+            "team": "ENVY"
+          },
+          {
+            "acs": "0.78\n0.66\n0.91",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "96\n90\n101",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "163",
+            "name": "mummAy",
+            "team": "ENVY"
+          },
+          {
+            "acs": "0.77\n0.26\n1.28",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "115\n75\n155",
+            "hs%": "71%\n42%\n100%",
+            "kdr": "10\n1\n9",
+            "kills": "225",
+            "name": "Marved",
+            "team": "ENVY"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.26\n1.25",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "136\n143\n129",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "240",
+            "name": "jmoh",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "1.12\n0.83\n1.41",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "169\n147\n192",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "279",
+            "name": "oderus",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.90\n0.70\n1.11",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "123\n118\n128",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "209",
+            "name": "scourge",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.88\n0.54\n1.22",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "114\n82\n147",
+            "hs%": "63%\n42%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "228",
+            "name": "fiziq",
+            "team": "Pioneers"
+          },
+          {
+            "acs": "0.88\n0.57\n1.19",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "120\n90\n150",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "10\n4\n6",
+            "kills": "215",
+            "name": "skuba",
+            "team": "Pioneers"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 25194,
+  "teams": [
+    "ENVY",
+    "Pioneers"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

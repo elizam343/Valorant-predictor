@@ -1,0 +1,788 @@
+{
+  "date": "2023-02-28 11:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "365",
+          "name": "Wo0t",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "249",
+          "name": "DESTRUCT1VEE",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "223",
+          "name": "SasuKe",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "141",
+          "name": "WerlasS",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "115",
+          "name": "yetujey",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "200",
+          "name": "sterben",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "219",
+          "name": "Izzy",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "202",
+          "name": "Burzzy",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "93",
+          "name": "CyderX",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "90",
+          "name": "Elite",
+          "team": "Papara SuperMassive"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.81\n1.79\n1.87",
+            "adr": "+13\n+9\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "22\n17\n5",
+            "fk": "231\n246\n195",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "365",
+            "name": "Wo0t",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "1.38\n1.25\n1.68",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "182\n162\n231",
+            "hs%": "65%\n67%\n60%",
+            "kdr": "5\n3\n2",
+            "kills": "249",
+            "name": "DESTRUCT1VEE",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "1.26\n0.65\n2.71",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "138\n84\n267",
+            "hs%": "76%\n67%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "223",
+            "name": "SasuKe",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "1.05\n1.08\n0.96",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "95\n104\n74",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "6\n4\n2",
+            "kills": "141",
+            "name": "WerlasS",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "0.88\n0.68\n1.37",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "84\n89\n73",
+            "hs%": "65%\n58%\n80%",
+            "kdr": "2\n2\n0",
+            "kills": "115",
+            "name": "yetujey",
+            "team": "Fire Flux Vatangame"
+          }
+        ],
+        [
+          {
+            "acs": "1.03\n0.14\n1.39",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "122\n48\n153",
+            "hs%": "65%\n40%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "200",
+            "name": "sterben",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "0.82\n0.10\n1.12",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "138\n53\n174",
+            "hs%": "76%\n40%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "219",
+            "name": "Izzy",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "0.71\n0.14\n0.94",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "132\n73\n157",
+            "hs%": "76%\n40%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "202",
+            "name": "Burzzy",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "0.52\n0.05\n0.72",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "6\n0\n6",
+            "fk": "62\n3\n86",
+            "hs%": "47%\n20%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "93",
+            "name": "CyderX",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "0.36\n0.60\n0.26",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "65\n115\n45",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "90",
+            "name": "Elite",
+            "team": "Papara SuperMassive"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "298",
+          "name": "Wo0t",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "WerlasS",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "yetujey",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "DESTRUCT1VEE",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "SasuKe",
+          "team": null
+        },
+        {
+          "kills": "274",
+          "name": "sterben",
+          "team": null
+        },
+        {
+          "kills": "266",
+          "name": "Elite",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "Izzy",
+          "team": null
+        },
+        {
+          "kills": "122",
+          "name": "CyderX",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "Burzzy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.30\n1.00\n1.16",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n43\n25\n18\n\n/",
+            "deaths": "51\n34\n17",
+            "fk": "167\n193\n134",
+            "hs%": "64%\n73%\n54%",
+            "kdr": "11\n5\n6",
+            "kills": "298",
+            "name": "Wo0t",
+            "team": null
+          },
+          {
+            "acs": "1.22\n0.88\n1.07",
+            "adr": "-3\n+5\n-8",
+            "agent": "",
+            "assists": "/\n\n33\n16\n17\n\n/",
+            "deaths": "30\n21\n9",
+            "fk": "105\n116\n92",
+            "hs%": "78%\n79%\n77%",
+            "kdr": "37\n18\n19",
+            "kills": "184",
+            "name": "WerlasS",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.08\n1.04",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n38\n19\n19\n\n/",
+            "deaths": "40\n21\n19",
+            "fk": "126\n128\n123",
+            "hs%": "76%\n76%\n77%",
+            "kdr": "5\n4\n1",
+            "kills": "157",
+            "name": "yetujey",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.04\n1.01",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n40\n21\n19\n\n/",
+            "deaths": "47\n27\n20",
+            "fk": "150\n139\n164",
+            "hs%": "64%\n67%\n62%",
+            "kdr": "17\n9\n8",
+            "kills": "217",
+            "name": "DESTRUCT1VEE",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.24\n0.93",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n42\n23\n19\n\n/",
+            "deaths": "40\n18\n22",
+            "fk": "131\n99\n172",
+            "hs%": "71%\n70%\n73%",
+            "kdr": "13\n7\n6",
+            "kills": "157",
+            "name": "SasuKe",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n1.15\n1.26",
+            "adr": "+13\n+9\n+4",
+            "agent": "",
+            "assists": "/\n\n42\n18\n24\n\n/",
+            "deaths": "55\n27\n28",
+            "fk": "156\n174\n142",
+            "hs%": "68%\n69%\n67%",
+            "kdr": "20\n10\n10",
+            "kills": "274",
+            "name": "sterben",
+            "team": null
+          },
+          {
+            "acs": "1.52\n0.63\n1.02",
+            "adr": "-3\n+9\n-12",
+            "agent": "",
+            "assists": "/\n\n40\n15\n25\n\n/",
+            "deaths": "37\n24\n13",
+            "fk": "146\n201\n102",
+            "hs%": "75%\n81%\n70%",
+            "kdr": "8\n7\n1",
+            "kills": "266",
+            "name": "Elite",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.17\n0.99",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n42\n21\n21\n\n/",
+            "deaths": "40\n15\n25",
+            "fk": "131\n105\n151",
+            "hs%": "68%\n65%\n70%",
+            "kdr": "21\n11\n10",
+            "kills": "161",
+            "name": "Izzy",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.78\n0.78",
+            "adr": "-12\n-5\n-7",
+            "agent": "",
+            "assists": "/\n\n38\n16\n22\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "90\n78\n100",
+            "hs%": "66%\n69%\n64%",
+            "kdr": "18\n9\n9",
+            "kills": "122",
+            "name": "CyderX",
+            "team": null
+          },
+          {
+            "acs": "0.65\n0.86\n0.74",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "38\n15\n23",
+            "fk": "117\n97\n132",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "14\n6\n8",
+            "kills": "162",
+            "name": "Burzzy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "241",
+          "name": "yetujey",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "191",
+          "name": "Wo0t",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "151",
+          "name": "WerlasS",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "166",
+          "name": "SasuKe",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "112",
+          "name": "DESTRUCT1VEE",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "263",
+          "name": "Burzzy",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "147",
+          "name": "sterben",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "176",
+          "name": "Elite",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "186",
+          "name": "Izzy",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "88",
+          "name": "CyderX",
+          "team": "Papara SuperMassive"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.44\n1.04",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "149\n166\n136",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "241",
+            "name": "yetujey",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "0.85\n0.72\n0.95",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "126\n118\n133",
+            "hs%": "43%\n44%\n42%",
+            "kdr": "6\n1\n5",
+            "kills": "191",
+            "name": "Wo0t",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "0.83\n0.88\n0.80",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "98\n87\n106",
+            "hs%": "57%\n56%\n58%",
+            "kdr": "13\n5\n8",
+            "kills": "151",
+            "name": "WerlasS",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "0.82\n1.28\n0.48",
+            "adr": "-3\n+3\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "137\n146\n130",
+            "hs%": "62%\n78%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "166",
+            "name": "SasuKe",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "0.35\n0.45\n0.28",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "72\n69\n75",
+            "hs%": "57%\n67%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "112",
+            "name": "DESTRUCT1VEE",
+            "team": "Fire Flux Vatangame"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.34\n1.15",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "149\n143\n158",
+            "hs%": "71%\n83%\n56%",
+            "kdr": "5\n5\n0",
+            "kills": "263",
+            "name": "Burzzy",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "1.26\n1.63\n0.77",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "152\n204\n83",
+            "hs%": "76%\n92%\n56%",
+            "kdr": "11\n8\n3",
+            "kills": "147",
+            "name": "sterben",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "1.24\n1.49\n0.91",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "174\n202\n135",
+            "hs%": "86%\n92%\n78%",
+            "kdr": "6\n6\n0",
+            "kills": "176",
+            "name": "Elite",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "1.22\n1.17\n1.28",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "140\n161\n111",
+            "hs%": "76%\n83%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "186",
+            "name": "Izzy",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "1.14\n1.31\n0.91",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "100\n121\n73",
+            "hs%": "81%\n92%\n67%",
+            "kdr": "8\n6\n2",
+            "kills": "88",
+            "name": "CyderX",
+            "team": "Papara SuperMassive"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "319",
+          "name": "DESTRUCT1VEE",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "206",
+          "name": "WerlasS",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "163",
+          "name": "yetujey",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "249",
+          "name": "Wo0t",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "182",
+          "name": "SasuKe",
+          "team": "Fire Flux Vatangame"
+        },
+        {
+          "kills": "300",
+          "name": "sterben",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "246",
+          "name": "Elite",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "165",
+          "name": "Izzy",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "154",
+          "name": "CyderX",
+          "team": "Papara SuperMassive"
+        },
+        {
+          "kills": "101",
+          "name": "Burzzy",
+          "team": "Papara SuperMassive"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.11\n1.71",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "202\n170\n245",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "6\n3\n3",
+            "kills": "319",
+            "name": "DESTRUCT1VEE",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "1.33\n1.62\n0.94",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "121\n151\n82",
+            "hs%": "95%\n100%\n89%",
+            "kdr": "18\n9\n9",
+            "kills": "206",
+            "name": "WerlasS",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "0.99\n1.02\n0.96",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "137\n139\n134",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "2\n1\n1",
+            "kills": "163",
+            "name": "yetujey",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "0.95\n1.23\n0.57",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "156\n198\n101",
+            "hs%": "62%\n75%\n44%",
+            "kdr": "3\n3\n0",
+            "kills": "249",
+            "name": "Wo0t",
+            "team": "Fire Flux Vatangame"
+          },
+          {
+            "acs": "0.78\n0.29\n1.43",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "121\n80\n176",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "3\n1\n2",
+            "kills": "182",
+            "name": "SasuKe",
+            "team": "Fire Flux Vatangame"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n1.78\n1.19",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "188\n204\n176",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "300",
+            "name": "sterben",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "1.34\n2.07\n0.80",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "182\n247\n133",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "246",
+            "name": "Elite",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "0.90\n0.56\n1.15",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "116\n59\n159",
+            "hs%": "52%\n56%\n50%",
+            "kdr": "15\n8\n7",
+            "kills": "165",
+            "name": "Izzy",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "0.62\n0.45\n0.75",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "103\n62\n134",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "154",
+            "name": "CyderX",
+            "team": "Papara SuperMassive"
+          },
+          {
+            "acs": "0.24\n0.02\n0.54",
+            "adr": "-14\n-10\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "71\n48\n88",
+            "hs%": "48%\n33%\n58%",
+            "kdr": "6\n1\n5",
+            "kills": "101",
+            "name": "Burzzy",
+            "team": "Papara SuperMassive"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 165586,
+  "teams": [
+    "Papara SuperMassive",
+    "Fire Flux Vatangame"
+  ],
+  "tournament": "Regular Season: \n\t\t\t\t\t\tWeek 7"
+}

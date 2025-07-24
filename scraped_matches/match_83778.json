@@ -1,0 +1,594 @@
+{
+  "date": "2022-04-01 19:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "219",
+          "name": "yae",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "230",
+          "name": "kaii",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "161",
+          "name": "liz",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "165",
+          "name": "may",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "161",
+          "name": "gogu",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "240",
+          "name": "PreTaxMicrob",
+          "team": "Team Mystic Venus"
+        },
+        {
+          "kills": "236",
+          "name": "Jessie",
+          "team": "Team Mystic Venus"
+        },
+        {
+          "kills": "218",
+          "name": "mimiFPS",
+          "team": "Team Mystic Venus"
+        },
+        {
+          "kills": "178",
+          "name": "Violette",
+          "team": "Team Mystic Venus"
+        },
+        {
+          "kills": "198",
+          "name": "Pine",
+          "team": "Team Mystic Venus"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.03\n0.74\n1.42",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "138\n115\n169",
+            "hs%": "52%\n50%\n56%",
+            "kdr": "7\n3\n4",
+            "kills": "219",
+            "name": "yae",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "0.95\n0.71\n1.28",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "144\n140\n150",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "230",
+            "name": "kaii",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "0.92\n0.95\n0.89",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "112\n104\n123",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "161",
+            "name": "liz",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "0.90\n1.00\n0.76",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "113\n130\n92",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "10\n6\n4",
+            "kills": "165",
+            "name": "may",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "0.86\n1.07\n0.59",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "119\n117\n122",
+            "hs%": "57%\n50%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "161",
+            "name": "gogu",
+            "team": "eq Scarlet"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n1.26\n1.13",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "173\n181\n167",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "240",
+            "name": "PreTaxMicrob",
+            "team": "Team Mystic Venus"
+          },
+          {
+            "acs": "1.15\n1.49\n0.89",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "149\n185\n122",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "236",
+            "name": "Jessie",
+            "team": "Team Mystic Venus"
+          },
+          {
+            "acs": "1.14\n0.53\n1.60",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "135\n77\n179",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "12\n3\n9",
+            "kills": "218",
+            "name": "mimiFPS",
+            "team": "Team Mystic Venus"
+          },
+          {
+            "acs": "0.94\n1.40\n0.59",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "107\n159\n68",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "178",
+            "name": "Violette",
+            "team": "Team Mystic Venus"
+          },
+          {
+            "acs": "0.93\n0.30\n1.40",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "137\n84\n177",
+            "hs%": "62%\n33%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "198",
+            "name": "Pine",
+            "team": "Team Mystic Venus"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "209",
+          "name": "yae",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "gogu",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "liz",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "kaii",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "may",
+          "team": null
+        },
+        {
+          "kills": "298",
+          "name": "PreTaxMicrob",
+          "team": null
+        },
+        {
+          "kills": "268",
+          "name": "Jessie",
+          "team": null
+        },
+        {
+          "kills": "118",
+          "name": "mimiFPS",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "Pine",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "Violette",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.93\n1.12\n1.03",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n33\n15\n18\n\n/",
+            "deaths": "33\n15\n18",
+            "fk": "146\n136\n155",
+            "hs%": "63%\n53%\n71%",
+            "kdr": "14\n4\n10",
+            "kills": "209",
+            "name": "yae",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.16\n0.98",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "28\n9\n19",
+            "fk": "138\n103\n170",
+            "hs%": "60%\n47%\n71%",
+            "kdr": "8\n2\n6",
+            "kills": "143",
+            "name": "gogu",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.80\n0.86",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n30\n14\n16\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "105\n104\n106",
+            "hs%": "63%\n68%\n57%",
+            "kdr": "4\n2\n2",
+            "kills": "169",
+            "name": "liz",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.71\n0.73",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n32\n16\n16\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "129\n146\n114",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "11\n8\n3",
+            "kills": "201",
+            "name": "kaii",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.57\n0.64",
+            "adr": "-15\n-7\n-8",
+            "agent": "",
+            "assists": "/\n\n33\n16\n17\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "92\n96\n89",
+            "hs%": "58%\n53%\n62%",
+            "kdr": "14\n7\n7",
+            "kills": "141",
+            "name": "may",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.80\n0.96\n1.40",
+            "adr": "+12\n+13\n-1",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "34\n23\n11",
+            "fk": "183\n217\n146",
+            "hs%": "80%\n81%\n79%",
+            "kdr": "21\n10\n11",
+            "kills": "298",
+            "name": "PreTaxMicrob",
+            "team": null
+          },
+          {
+            "acs": "1.40\n1.14\n1.28",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "32\n20\n12",
+            "fk": "148\n176\n117",
+            "hs%": "85%\n86%\n84%",
+            "kdr": "13\n6\n7",
+            "kills": "268",
+            "name": "Jessie",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.82\n1.25",
+            "adr": "+9\n-6\n+15",
+            "agent": "",
+            "assists": "/\n\n24\n14\n10\n\n/",
+            "deaths": "33\n8\n25",
+            "fk": "156\n90\n230",
+            "hs%": "80%\n76%\n84%",
+            "kdr": "23\n10\n13",
+            "kills": "118",
+            "name": "mimiFPS",
+            "team": null
+          },
+          {
+            "acs": "0.65\n1.37\n0.99",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n31\n19\n12\n\n/",
+            "deaths": "34\n14\n20",
+            "fk": "146\n127\n167",
+            "hs%": "68%\n52%\n84%",
+            "kdr": "5\n4\n1",
+            "kills": "203",
+            "name": "Pine",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.70\n0.95",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "24\n17\n7",
+            "fk": "105\n137\n69",
+            "hs%": "85%\n90%\n79%",
+            "kdr": "6\n3\n3",
+            "kills": "221",
+            "name": "Violette",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "324",
+          "name": "gogu",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "217",
+          "name": "yae",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "135",
+          "name": "liz",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "135",
+          "name": "kaii",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "118",
+          "name": "may",
+          "team": "eq Scarlet"
+        },
+        {
+          "kills": "142",
+          "name": "PreTaxMicrob",
+          "team": "Team Mystic Venus"
+        },
+        {
+          "kills": "175",
+          "name": "Jessie",
+          "team": "Team Mystic Venus"
+        },
+        {
+          "kills": "480",
+          "name": "mimiFPS",
+          "team": "Team Mystic Venus"
+        },
+        {
+          "kills": "297",
+          "name": "Pine",
+          "team": "Team Mystic Venus"
+        },
+        {
+          "kills": "98",
+          "name": "Violette",
+          "team": "Team Mystic Venus"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.10\n0.26\n1.59",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "17\n2\n15",
+            "fk": "160\n80\n206",
+            "hs%": "63%\n43%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "324",
+            "name": "gogu",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "1.02\n1.25\n0.89",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "156\n173\n145",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "7\n1\n6",
+            "kills": "217",
+            "name": "yae",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "0.79\n0.90\n0.73",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "97\n106\n93",
+            "hs%": "58%\n71%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "135",
+            "name": "liz",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "0.49\n0.84\n0.29",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "112\n155\n87",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "135",
+            "name": "kaii",
+            "team": "eq Scarlet"
+          },
+          {
+            "acs": "0.35\n0.23\n0.42",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "69\n38\n87",
+            "hs%": "47%\n29%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "118",
+            "name": "may",
+            "team": "eq Scarlet"
+          }
+        ],
+        [
+          {
+            "acs": "1.64\n2.21\n0.67",
+            "adr": "+7\n+10\n-3",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "17\n15\n2",
+            "fk": "195\n244\n110",
+            "hs%": "89%\n92%\n86%",
+            "kdr": "15\n9\n6",
+            "kills": "142",
+            "name": "PreTaxMicrob",
+            "team": "Team Mystic Venus"
+          },
+          {
+            "acs": "1.42\n1.33\n1.58",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "147\n169\n109",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "8\n4\n4",
+            "kills": "175",
+            "name": "Jessie",
+            "team": "Team Mystic Venus"
+          },
+          {
+            "acs": "1.38\n0.89\n2.20",
+            "adr": "+6\n-3\n+9",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "179\n99\n317",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "11\n7\n4",
+            "kills": "480",
+            "name": "mimiFPS",
+            "team": "Team Mystic Venus"
+          },
+          {
+            "acs": "1.05\n0.90\n1.31",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "156\n160\n148",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "3\n2\n1",
+            "kills": "297",
+            "name": "Pine",
+            "team": "Team Mystic Venus"
+          },
+          {
+            "acs": "0.96\n0.99\n0.90",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "102\n120\n70",
+            "hs%": "89%\n92%\n86%",
+            "kdr": "4\n2\n2",
+            "kills": "98",
+            "name": "Violette",
+            "team": "Team Mystic Venus"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 83778,
+  "teams": [
+    "eq Scarlet",
+    "Team Mystic Venus"
+  ],
+  "tournament": "Swiss Stage: \n\t\t\t\t\t\tRound 4"
+}

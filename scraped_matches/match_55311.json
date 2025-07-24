@@ -1,0 +1,788 @@
+{
+  "date": "2021-12-04 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "333",
+          "name": "LarryBanks",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "224",
+          "name": "Cade3k",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "227",
+          "name": "bones",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "194",
+          "name": "Yoshii",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "175",
+          "name": "flyuh",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "281",
+          "name": "koalanoob",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "198",
+          "name": "Jonaaa6",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "205",
+          "name": "Sugarfree",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "182",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "146",
+          "name": "Tkaz",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.70\n1.92\n1.36",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "234\n269\n182",
+            "hs%": "90%\n100%\n75%",
+            "kdr": "9\n7\n2",
+            "kills": "333",
+            "name": "LarryBanks",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "1.37\n1.37\n1.38",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "142\n143\n139",
+            "hs%": "90%\n92%\n88%",
+            "kdr": "2\n2\n0",
+            "kills": "224",
+            "name": "Cade3k",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "1.09\n1.07\n1.12",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "144\n135\n158",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "7\n6\n1",
+            "kills": "227",
+            "name": "bones",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.84\n0.19\n1.81",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "127\n47\n246",
+            "hs%": "70%\n58%\n88%",
+            "kdr": "5\n3\n2",
+            "kills": "194",
+            "name": "Yoshii",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.74\n0.90\n0.50",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "110\n147\n55",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "7\n4\n3",
+            "kills": "175",
+            "name": "flyuh",
+            "team": "Teal Seam"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.08\n1.63",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "182\n155\n200",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "281",
+            "name": "koalanoob",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.91\n1.00\n0.85",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "160\n167\n155",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "11\n4\n7",
+            "kills": "198",
+            "name": "Jonaaa6",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.82\n0.48\n1.05",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "123\n68\n159",
+            "hs%": "75%\n63%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "205",
+            "name": "Sugarfree",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.72\n0.54\n0.84",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "123\n93\n143",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "182",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.57\n0.60\n0.54",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "100\n102\n99",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "8\n0\n8",
+            "kills": "146",
+            "name": "Tkaz",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "203",
+          "name": "Cade3k",
+          "team": null
+        },
+        {
+          "kills": "228",
+          "name": "LarryBanks",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "flyuh",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "Yoshii",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "bones",
+          "team": null
+        },
+        {
+          "kills": "318",
+          "name": "koalanoob",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "Jonaaa6",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "MOCKING",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "Sugarfree",
+          "team": null
+        },
+        {
+          "kills": "119",
+          "name": "Tkaz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.15\n1.01\n1.09",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n40\n23\n17\n\n/",
+            "deaths": "44\n30\n14",
+            "fk": "121\n125\n115",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "13\n5\n8",
+            "kills": "203",
+            "name": "Cade3k",
+            "team": null
+          },
+          {
+            "acs": "1.15\n0.98\n1.08",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n46\n27\n19\n\n/",
+            "deaths": "44\n27\n17",
+            "fk": "147\n162\n126",
+            "hs%": "73%\n81%\n62%",
+            "kdr": "17\n14\n3",
+            "kills": "228",
+            "name": "LarryBanks",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.90\n0.89",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n52\n31\n21\n\n/",
+            "deaths": "41\n22\n19",
+            "fk": "136\n137\n136",
+            "hs%": "68%\n69%\n65%",
+            "kdr": "18\n11\n7",
+            "kills": "196",
+            "name": "flyuh",
+            "team": null
+          },
+          {
+            "acs": "0.62\n1.17\n0.85",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n50\n31\n19\n\n/",
+            "deaths": "44\n22\n22",
+            "fk": "131\n106\n165",
+            "hs%": "60%\n50%\n73%",
+            "kdr": "8\n6\n2",
+            "kills": "169",
+            "name": "Yoshii",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.79\n0.80",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n46\n28\n18\n\n/",
+            "deaths": "37\n25\n12",
+            "fk": "106\n102\n112",
+            "hs%": "66%\n64%\n69%",
+            "kdr": "23\n18\n5",
+            "kills": "177",
+            "name": "bones",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n1.47\n1.46",
+            "adr": "+25\n+9\n+16",
+            "agent": "",
+            "assists": "/\n\n41\n19\n22\n\n/",
+            "deaths": "66\n28\n38",
+            "fk": "197\n192\n201",
+            "hs%": "77%\n81%\n75%",
+            "kdr": "9\n6\n3",
+            "kills": "318",
+            "name": "koalanoob",
+            "team": null
+          },
+          {
+            "acs": "1.17\n1.51\n1.37",
+            "adr": "+18\n+4\n+14",
+            "agent": "",
+            "assists": "/\n\n38\n15\n23\n\n/",
+            "deaths": "56\n19\n37",
+            "fk": "189\n162\n209",
+            "hs%": "87%\n92%\n83%",
+            "kdr": "31\n13\n18",
+            "kills": "211",
+            "name": "Jonaaa6",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.09\n1.04",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n39\n16\n23\n\n/",
+            "deaths": "42\n16\n26",
+            "fk": "136\n124\n144",
+            "hs%": "84%\n77%\n89%",
+            "kdr": "19\n10\n9",
+            "kills": "180",
+            "name": "MOCKING",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.81\n0.85",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n42\n17\n25\n\n/",
+            "deaths": "41\n21\n20",
+            "fk": "94\n83\n103",
+            "hs%": "73%\n62%\n81%",
+            "kdr": "12\n2\n10",
+            "kills": "169",
+            "name": "Sugarfree",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.61\n0.59",
+            "adr": "-21\n-9\n-12",
+            "agent": "",
+            "assists": "/\n\n50\n19\n31\n\n/",
+            "deaths": "29\n10\n19",
+            "fk": "95\n77\n108",
+            "hs%": "68%\n65%\n69%",
+            "kdr": "18\n4\n14",
+            "kills": "119",
+            "name": "Tkaz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "194",
+          "name": "Cade3k",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "251",
+          "name": "Yoshii",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "181",
+          "name": "flyuh",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "111",
+          "name": "LarryBanks",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "77",
+          "name": "bones",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "331",
+          "name": "koalanoob",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "360",
+          "name": "Jonaaa6",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "206",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "97",
+          "name": "Sugarfree",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "178",
+          "name": "Tkaz",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "0.99\n1.00\n0.95",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "131\n116\n156",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "6\n1\n5",
+            "kills": "194",
+            "name": "Cade3k",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.98\n0.91\n1.10",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "147\n134\n169",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "1\n1\n0",
+            "kills": "251",
+            "name": "Yoshii",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.82\n0.79\n0.88",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "118\n123\n110",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "5\n4\n1",
+            "kills": "181",
+            "name": "flyuh",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.75\n0.86\n0.56",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "120\n142\n81",
+            "hs%": "63%\n75%\n43%",
+            "kdr": "2\n2\n0",
+            "kills": "111",
+            "name": "LarryBanks",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.66\n0.77\n0.47",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "79\n91\n59",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "8\n8\n0",
+            "kills": "77",
+            "name": "bones",
+            "team": "Teal Seam"
+          }
+        ],
+        [
+          {
+            "acs": "1.64\n1.79\n1.55",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "225\n247\n211",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "3\n2\n1",
+            "kills": "331",
+            "name": "koalanoob",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.42\n1.00\n1.67",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "18\n3\n15",
+            "fk": "177\n92\n226",
+            "hs%": "95%\n100%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "360",
+            "name": "Jonaaa6",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.05\n1.07\n1.04",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "139\n139\n139",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "206",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.94\n1.35\n0.70",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "85\n110\n70",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "97",
+            "name": "Sugarfree",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.78\n0.79\n0.78",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "115\n68\n142",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "9\n3\n6",
+            "kills": "178",
+            "name": "Tkaz",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "262",
+          "name": "flyuh",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "151",
+          "name": "Cade3k",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "129",
+          "name": "LarryBanks",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "190",
+          "name": "Yoshii",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "140",
+          "name": "bones",
+          "team": "Teal Seam"
+        },
+        {
+          "kills": "315",
+          "name": "Jonaaa6",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "294",
+          "name": "koalanoob",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "216",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "130",
+          "name": "Sugarfree",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "108",
+          "name": "Tkaz",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.07\n0.94\n1.20",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "174\n140\n210",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "6\n3\n3",
+            "kills": "262",
+            "name": "flyuh",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.93\n1.07\n0.78",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "94\n115\n71",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "5\n2\n3",
+            "kills": "151",
+            "name": "Cade3k",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.82\n0.67\n0.98",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "94\n75\n114",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "6\n5\n1",
+            "kills": "129",
+            "name": "LarryBanks",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.75\n0.77\n0.74",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "121\n136\n105",
+            "hs%": "52%\n42%\n64%",
+            "kdr": "2\n2\n0",
+            "kills": "190",
+            "name": "Yoshii",
+            "team": "Teal Seam"
+          },
+          {
+            "acs": "0.67\n0.60\n0.75",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "95\n79\n112",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "8\n4\n4",
+            "kills": "140",
+            "name": "bones",
+            "team": "Teal Seam"
+          }
+        ],
+        [
+          {
+            "acs": "1.72\n1.40\n2.02",
+            "adr": "+16\n+5\n+11",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "225\n204\n245",
+            "hs%": "91%\n91%\n92%",
+            "kdr": "12\n5\n7",
+            "kills": "315",
+            "name": "Jonaaa6",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.37\n1.53\n1.22",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "188\n184\n191",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "294",
+            "name": "koalanoob",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "1.32\n1.23\n1.40",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "144\n137\n150",
+            "hs%": "87%\n73%\n100%",
+            "kdr": "9\n5\n4",
+            "kills": "216",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.80\n0.93\n0.68",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "78\n76\n79",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "130",
+            "name": "Sugarfree",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.46\n0.42\n0.50",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "74\n64\n84",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "108",
+            "name": "Tkaz",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 55311,
+  "teams": [
+    "Teal Seam",
+    "Lenny Time"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tRound of 16"
+}

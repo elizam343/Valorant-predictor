@@ -1,0 +1,594 @@
+{
+  "date": "2022-08-03 19:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "298",
+          "name": "conir",
+          "team": "KR\u00dc BLAZE"
+        },
+        {
+          "kills": "184",
+          "name": "bae",
+          "team": "KR\u00dc BLAZE"
+        },
+        {
+          "kills": "187",
+          "name": "romi",
+          "team": "KR\u00dc BLAZE"
+        },
+        {
+          "kills": "196",
+          "name": "consu",
+          "team": "KR\u00dc BLAZE"
+        },
+        {
+          "kills": "154",
+          "name": "kalita",
+          "team": "KR\u00dc BLAZE"
+        },
+        {
+          "kills": "294",
+          "name": "reshi",
+          "team": "9z Team GC"
+        },
+        {
+          "kills": "278",
+          "name": "micaela",
+          "team": "9z Team GC"
+        },
+        {
+          "kills": "158",
+          "name": "covas",
+          "team": "9z Team GC"
+        },
+        {
+          "kills": "133",
+          "name": "Anqh",
+          "team": "9z Team GC"
+        },
+        {
+          "kills": "85",
+          "name": "Nanu",
+          "team": "9z Team GC"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.46\n0.91\n2.00",
+            "adr": "+10\n-1\n+11",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "180\n139\n221",
+            "hs%": "63%\n42%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "298",
+            "name": "conir",
+            "team": "KR\u00dc BLAZE"
+          },
+          {
+            "acs": "1.11\n0.86\n1.36",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "109\n105\n112",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "9\n2\n7",
+            "kills": "184",
+            "name": "bae",
+            "team": "KR\u00dc BLAZE"
+          },
+          {
+            "acs": "1.04\n1.01\n1.08",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "130\n108\n152",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "187",
+            "name": "romi",
+            "team": "KR\u00dc BLAZE"
+          },
+          {
+            "acs": "0.90\n0.97\n0.83",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "139\n135\n143",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "196",
+            "name": "consu",
+            "team": "KR\u00dc BLAZE"
+          },
+          {
+            "acs": "0.80\n0.52\n1.07",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "103\n95\n111",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "154",
+            "name": "kalita",
+            "team": "KR\u00dc BLAZE"
+          }
+        ],
+        [
+          {
+            "acs": "1.38\n1.20\n1.56",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "178\n143\n214",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "0\n0\n0",
+            "kills": "294",
+            "name": "reshi",
+            "team": "9z Team GC"
+          },
+          {
+            "acs": "1.28\n0.91\n1.66",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "167\n142\n191",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "278",
+            "name": "micaela",
+            "team": "9z Team GC"
+          },
+          {
+            "acs": "0.67\n0.56\n0.78",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "107\n98\n116",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "7\n3\n4",
+            "kills": "158",
+            "name": "covas",
+            "team": "9z Team GC"
+          },
+          {
+            "acs": "0.64\n0.42\n0.86",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "96\n67\n125",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "133",
+            "name": "Anqh",
+            "team": "9z Team GC"
+          },
+          {
+            "acs": "0.46\n0.29\n0.62",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "61\n68\n54",
+            "hs%": "50%\n33%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "85",
+            "name": "Nanu",
+            "team": "9z Team GC"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "174",
+          "name": "conir",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "romi",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "bae",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "kalita",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "consu",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "reshi",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "micaela",
+          "team": null
+        },
+        {
+          "kills": "63",
+          "name": "Anqh",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "covas",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "Nanu",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.79\n1.86\n1.35",
+            "adr": "+17\n-6\n+23",
+            "agent": "",
+            "assists": "/\n\n29\n18\n11\n\n/",
+            "deaths": "46\n12\n34",
+            "fk": "170\n117\n219",
+            "hs%": "76%\n59%\n92%",
+            "kdr": "15\n5\n10",
+            "kills": "174",
+            "name": "conir",
+            "team": null
+          },
+          {
+            "acs": "1.24\n1.24\n1.24",
+            "adr": "+13\n+3\n+10",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "40\n17\n23",
+            "fk": "147\n146\n147",
+            "hs%": "70%\n59%\n79%",
+            "kdr": "8\n3\n5",
+            "kills": "216",
+            "name": "romi",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.11\n1.06",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n28\n16\n12\n\n/",
+            "deaths": "29\n15\n14",
+            "fk": "118\n124\n112",
+            "hs%": "76%\n64%\n88%",
+            "kdr": "17\n4\n13",
+            "kills": "194",
+            "name": "bae",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.33\n1.04",
+            "adr": "+2\n-6\n+8",
+            "agent": "",
+            "assists": "/\n\n31\n20\n11\n\n/",
+            "deaths": "33\n14\n19",
+            "fk": "131\n120\n142",
+            "hs%": "72%\n55%\n88%",
+            "kdr": "16\n3\n13",
+            "kills": "187",
+            "name": "kalita",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.06\n0.91",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n30\n18\n12\n\n/",
+            "deaths": "28\n11\n17",
+            "fk": "131\n116\n144",
+            "hs%": "70%\n59%\n79%",
+            "kdr": "9\n5\n4",
+            "kills": "168",
+            "name": "consu",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.92\n1.32\n1.11",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n36\n21\n15\n\n/",
+            "deaths": "39\n17\n22",
+            "fk": "151\n118\n187",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "6\n4\n2",
+            "kills": "203",
+            "name": "reshi",
+            "team": null
+          },
+          {
+            "acs": "0.70\n1.32\n0.99",
+            "adr": "-2\n-8\n+6",
+            "agent": "",
+            "assists": "/\n\n36\n23\n13\n\n/",
+            "deaths": "34\n15\n19",
+            "fk": "136\n117\n157",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "4\n1\n3",
+            "kills": "188",
+            "name": "micaela",
+            "team": null
+          },
+          {
+            "acs": "0.22\n1.37\n0.76",
+            "adr": "-6\n-16\n+10",
+            "agent": "",
+            "assists": "/\n\n35\n21\n14\n\n/",
+            "deaths": "29\n5\n24",
+            "fk": "112\n46\n184",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "16\n8\n8",
+            "kills": "63",
+            "name": "Anqh",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.83\n0.71",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n35\n22\n13\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "102\n102\n103",
+            "hs%": "74%\n58%\n91%",
+            "kdr": "13\n6\n7",
+            "kills": "158",
+            "name": "covas",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.54\n0.66",
+            "adr": "-15\n-7\n-8",
+            "agent": "",
+            "assists": "/\n\n34\n20\n14\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "84\n105\n61",
+            "hs%": "50%\n42%\n59%",
+            "kdr": "8\n4\n4",
+            "kills": "143",
+            "name": "Nanu",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "248",
+          "name": "romi",
+          "team": "KR\u00dc BLAZE"
+        },
+        {
+          "kills": "272",
+          "name": "kalita",
+          "team": "KR\u00dc BLAZE"
+        },
+        {
+          "kills": "389",
+          "name": "conir",
+          "team": "KR\u00dc BLAZE"
+        },
+        {
+          "kills": "148",
+          "name": "bae",
+          "team": "KR\u00dc BLAZE"
+        },
+        {
+          "kills": "214",
+          "name": "consu",
+          "team": "KR\u00dc BLAZE"
+        },
+        {
+          "kills": "430",
+          "name": "Anqh",
+          "team": "9z Team GC"
+        },
+        {
+          "kills": "127",
+          "name": "Nanu",
+          "team": "9z Team GC"
+        },
+        {
+          "kills": "218",
+          "name": "reshi",
+          "team": "9z Team GC"
+        },
+        {
+          "kills": "160",
+          "name": "covas",
+          "team": "9z Team GC"
+        },
+        {
+          "kills": "191",
+          "name": "micaela",
+          "team": "9z Team GC"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.45\n1.51\n1.39",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "165\n192\n142",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "248",
+            "name": "romi",
+            "team": "KR\u00dc BLAZE"
+          },
+          {
+            "acs": "1.31\n0.97\n1.59",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "162\n149\n174",
+            "hs%": "82%\n60%\n100%",
+            "kdr": "13\n2\n11",
+            "kills": "272",
+            "name": "kalita",
+            "team": "KR\u00dc BLAZE"
+          },
+          {
+            "acs": "1.22\n0.64\n1.71",
+            "adr": "+7\n-5\n+12",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "22\n4\n18",
+            "fk": "159\n91\n217",
+            "hs%": "91%\n80%\n100%",
+            "kdr": "11\n5\n6",
+            "kills": "389",
+            "name": "conir",
+            "team": "KR\u00dc BLAZE"
+          },
+          {
+            "acs": "1.00\n1.16\n0.87",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "127\n146\n112",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "148",
+            "name": "bae",
+            "team": "KR\u00dc BLAZE"
+          },
+          {
+            "acs": "0.92\n0.48\n1.29",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "121\n94\n144",
+            "hs%": "77%\n60%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "214",
+            "name": "consu",
+            "team": "KR\u00dc BLAZE"
+          }
+        ],
+        [
+          {
+            "acs": "0.89\n0.03\n1.98",
+            "adr": "-3\n-12\n+9",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "16\n0\n16",
+            "fk": "130\n26\n254",
+            "hs%": "64%\n50%\n80%",
+            "kdr": "11\n5\n6",
+            "kills": "430",
+            "name": "Anqh",
+            "team": "9z Team GC"
+          },
+          {
+            "acs": "0.87\n1.22\n0.45",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "109\n141\n70",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "127",
+            "name": "Nanu",
+            "team": "9z Team GC"
+          },
+          {
+            "acs": "0.81\n0.63\n1.03",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "121\n93\n155",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "6\n4\n2",
+            "kills": "218",
+            "name": "reshi",
+            "team": "9z Team GC"
+          },
+          {
+            "acs": "0.76\n0.64\n0.90",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "98\n105\n88",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "6\n3\n3",
+            "kills": "160",
+            "name": "covas",
+            "team": "9z Team GC"
+          },
+          {
+            "acs": "0.68\n0.48\n0.92",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "103\n91\n116",
+            "hs%": "64%\n50%\n80%",
+            "kdr": "3\n1\n2",
+            "kills": "191",
+            "name": "micaela",
+            "team": "9z Team GC"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 122107,
+  "teams": [
+    "KR\u00dc BLAZE",
+    "9z Team GC"
+  ],
+  "tournament": "Latin America: South: \n\t\t\t\t\t\tUpper Semifinals"
+}

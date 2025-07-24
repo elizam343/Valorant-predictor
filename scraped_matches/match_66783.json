@@ -1,0 +1,612 @@
+{
+  "date": "2022-01-27 07:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "299",
+          "name": "Kay",
+          "team": "MadHood"
+        },
+        {
+          "kills": "208",
+          "name": "Noisy",
+          "team": "MadHood"
+        },
+        {
+          "kills": "290",
+          "name": "YaeMiko",
+          "team": "MadHood"
+        },
+        {
+          "kills": "242",
+          "name": "nawngus",
+          "team": "MadHood"
+        },
+        {
+          "kills": "189",
+          "name": "BCLound",
+          "team": "MadHood"
+        },
+        {
+          "kills": "204",
+          "name": "legenat",
+          "team": "SHOOT FOR FUN"
+        },
+        {
+          "kills": "163",
+          "name": "Jay",
+          "team": "SHOOT FOR FUN"
+        },
+        {
+          "kills": "189",
+          "name": "GenC",
+          "team": "SHOOT FOR FUN"
+        },
+        {
+          "kills": "156",
+          "name": "Hanzo",
+          "team": "SHOOT FOR FUN"
+        },
+        {
+          "kills": "146",
+          "name": "LucaS",
+          "team": "SHOOT FOR FUN"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.50\n1.25\n1.61",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "195\n128\n223",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "299",
+            "name": "Kay",
+            "team": "MadHood"
+          },
+          {
+            "acs": "1.46\n2.19\n1.16",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "150\n275\n98",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "9\n2\n7",
+            "kills": "208",
+            "name": "Noisy",
+            "team": "MadHood"
+          },
+          {
+            "acs": "1.39\n1.69\n1.26",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "185\n176\n189",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "290",
+            "name": "YaeMiko",
+            "team": "MadHood"
+          },
+          {
+            "acs": "1.12\n1.78\n0.85",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "143\n152\n139",
+            "hs%": "76%\n100%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "242",
+            "name": "nawngus",
+            "team": "MadHood"
+          },
+          {
+            "acs": "0.97\n1.01\n0.96",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "141\n103\n157",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "189",
+            "name": "BCLound",
+            "team": "MadHood"
+          }
+        ],
+        [
+          {
+            "acs": "1.08\n1.21\n0.76",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "142\n139\n150",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "3\n1\n2",
+            "kills": "204",
+            "name": "legenat",
+            "team": "SHOOT FOR FUN"
+          },
+          {
+            "acs": "0.85\n0.82\n0.92",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "115\n92\n171",
+            "hs%": "71%\n67%\n80%",
+            "kdr": "5\n4\n1",
+            "kills": "163",
+            "name": "Jay",
+            "team": "SHOOT FOR FUN"
+          },
+          {
+            "acs": "0.63\n0.87\n0.06",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "121\n149\n52",
+            "hs%": "71%\n83%\n40%",
+            "kdr": "2\n2\n0",
+            "kills": "189",
+            "name": "GenC",
+            "team": "SHOOT FOR FUN"
+          },
+          {
+            "acs": "0.53\n0.68\n0.18",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "119\n133\n85",
+            "hs%": "41%\n42%\n40%",
+            "kdr": "0\n0\n0",
+            "kills": "156",
+            "name": "Hanzo",
+            "team": "SHOOT FOR FUN"
+          },
+          {
+            "acs": "0.47\n0.61\n0.12",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "95\n111\n56",
+            "hs%": "65%\n75%\n40%",
+            "kdr": "4\n3\n1",
+            "kills": "146",
+            "name": "LucaS",
+            "team": "SHOOT FOR FUN"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "266",
+          "name": "Erw1n",
+          "team": null
+        },
+        {
+          "kills": "256",
+          "name": "Noisy",
+          "team": null
+        },
+        {
+          "kills": "249",
+          "name": "Kay",
+          "team": null
+        },
+        {
+          "kills": "259",
+          "name": "nawngus",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "YaeMiko",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "BCLound",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "GenC",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "legenat",
+          "team": null
+        },
+        {
+          "kills": "101",
+          "name": "Jay",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "Hanzo",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "LucaS",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.77\n1.14\n1.39",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "145\n170\n129",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "266",
+            "name": "Erw1n",
+            "team": null
+          },
+          {
+            "acs": "1.32\n1.39\n1.37",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n21\n7\n14\n\n/",
+            "deaths": "32\n12\n20",
+            "fk": "180\n184\n177",
+            "hs%": "84%\n92%\n79%",
+            "kdr": "18\n5\n13",
+            "kills": "256",
+            "name": "Noisy",
+            "team": null
+          },
+          {
+            "acs": "1.19\n1.35\n1.29",
+            "adr": "+13\n+4\n+9",
+            "agent": "",
+            "assists": "/\n\n22\n8\n14\n\n/",
+            "deaths": "35\n12\n23",
+            "fk": "169\n150\n180",
+            "hs%": "81%\n85%\n79%",
+            "kdr": "9\n4\n5",
+            "kills": "249",
+            "name": "Kay",
+            "team": null
+          },
+          {
+            "acs": "1.72\n0.98\n1.24",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n6\n13\n\n/",
+            "deaths": "28\n14\n14",
+            "fk": "136\n168\n118",
+            "hs%": "86%\n100%\n79%",
+            "kdr": "17\n8\n9",
+            "kills": "259",
+            "name": "nawngus",
+            "team": null
+          },
+          {
+            "acs": "1.19\n0.93\n1.02",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n24\n7\n17\n\n/",
+            "deaths": "28\n12\n16",
+            "fk": "141\n159\n131",
+            "hs%": "81%\n85%\n79%",
+            "kdr": "12\n6\n6",
+            "kills": "235",
+            "name": "YaeMiko",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.96\n0.97",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "141\n103\n157",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "137",
+            "name": "BCLound",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.00\n0.74\n0.91",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n31\n20\n11\n\n/",
+            "deaths": "26\n18\n8",
+            "fk": "144\n160\n114",
+            "hs%": "76%\n88%\n54%",
+            "kdr": "6\n5\n1",
+            "kills": "233",
+            "name": "GenC",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.56\n0.84",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n28\n17\n11\n\n/",
+            "deaths": "19\n15\n4",
+            "fk": "107\n119\n83",
+            "hs%": "57%\n54%\n62%",
+            "kdr": "8\n4\n4",
+            "kills": "185",
+            "name": "legenat",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.21\n0.83",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n31\n18\n13\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "116\n77\n189",
+            "hs%": "70%\n63%\n85%",
+            "kdr": "8\n4\n4",
+            "kills": "101",
+            "name": "Jay",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.27\n0.70",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n29\n17\n12\n\n/",
+            "deaths": "20\n16\n4",
+            "fk": "108\n129\n69",
+            "hs%": "54%\n54%\n54%",
+            "kdr": "7\n4\n3",
+            "kills": "190",
+            "name": "Hanzo",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.38\n0.64",
+            "adr": "-14\n-6\n-8",
+            "agent": "",
+            "assists": "/\n\n32\n20\n12\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "95\n100\n85",
+            "hs%": "68%\n75%\n54%",
+            "kdr": "12\n7\n5",
+            "kills": "170",
+            "name": "LucaS",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "183",
+          "name": "Erw1n",
+          "team": "MadHood"
+        },
+        {
+          "kills": "153",
+          "name": "nawngus",
+          "team": "MadHood"
+        },
+        {
+          "kills": "362",
+          "name": "Noisy",
+          "team": "MadHood"
+        },
+        {
+          "kills": "219",
+          "name": "Kay",
+          "team": "MadHood"
+        },
+        {
+          "kills": "100",
+          "name": "YaeMiko",
+          "team": "MadHood"
+        },
+        {
+          "kills": "255",
+          "name": "GenC",
+          "team": "SHOOT FOR FUN"
+        },
+        {
+          "kills": "91",
+          "name": "Hanzo",
+          "team": "SHOOT FOR FUN"
+        },
+        {
+          "kills": "313",
+          "name": "Jay",
+          "team": "SHOOT FOR FUN"
+        },
+        {
+          "kills": "155",
+          "name": "LucaS",
+          "team": "SHOOT FOR FUN"
+        },
+        {
+          "kills": "67",
+          "name": "legenat",
+          "team": "SHOOT FOR FUN"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.77\n1.14",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "145\n170\n129",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "183",
+            "name": "Erw1n",
+            "team": "MadHood"
+          },
+          {
+            "acs": "1.34\n1.69\n1.12",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "130\n178\n98",
+            "hs%": "95%\n100%\n92%",
+            "kdr": "11\n4\n7",
+            "kills": "153",
+            "name": "nawngus",
+            "team": "MadHood"
+          },
+          {
+            "acs": "1.29\n0.78\n1.63",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "204\n127\n256",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "9\n3\n6",
+            "kills": "362",
+            "name": "Noisy",
+            "team": "MadHood"
+          },
+          {
+            "acs": "1.12\n1.16\n1.09",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "147\n164\n136",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "219",
+            "name": "Kay",
+            "team": "MadHood"
+          },
+          {
+            "acs": "0.71\n0.87\n0.60",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "103\n149\n73",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "100",
+            "name": "YaeMiko",
+            "team": "MadHood"
+          }
+        ],
+        [
+          {
+            "acs": "1.15\n1.13\n1.17",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "164\n171\n154",
+            "hs%": "80%\n92%\n63%",
+            "kdr": "4\n3\n1",
+            "kills": "255",
+            "name": "GenC",
+            "team": "SHOOT FOR FUN"
+          },
+          {
+            "acs": "0.84\n1.17\n0.33",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "99\n125\n59",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "7\n4\n3",
+            "kills": "91",
+            "name": "Hanzo",
+            "team": "SHOOT FOR FUN"
+          },
+          {
+            "acs": "0.82\n0.43\n1.40",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "117\n62\n200",
+            "hs%": "70%\n58%\n88%",
+            "kdr": "3\n0\n3",
+            "kills": "313",
+            "name": "Jay",
+            "team": "SHOOT FOR FUN"
+          },
+          {
+            "acs": "0.79\n0.96\n0.55",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "95\n90\n104",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "8\n4\n4",
+            "kills": "155",
+            "name": "LucaS",
+            "team": "SHOOT FOR FUN"
+          },
+          {
+            "acs": "0.65\n0.79\n0.43",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "76\n99\n42",
+            "hs%": "55%\n50%\n63%",
+            "kdr": "5\n3\n2",
+            "kills": "67",
+            "name": "legenat",
+            "team": "SHOOT FOR FUN"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 66783,
+  "teams": [
+    "SHOOT FOR FUN",
+    "MadHood"
+  ],
+  "tournament": "Round 5: \n\t\t\t\t\t\tRound of 16"
+}

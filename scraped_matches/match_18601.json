@@ -1,0 +1,788 @@
+{
+  "date": "2021-05-15 10:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "319",
+          "name": "Kinguyen",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "257",
+          "name": "dathuaaN",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "182",
+          "name": "b2kk",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "248",
+          "name": "Aegis",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "136",
+          "name": "NeskaaS",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "241",
+          "name": "zYKK",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "194",
+          "name": "Scxjesus",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "193",
+          "name": "SoOn",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "176",
+          "name": "Noomi",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "167",
+          "name": "Izzy",
+          "team": "Graviton Surge"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.71\n1.93\n1.39",
+            "adr": "+12\n+9\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "177\n196\n148",
+            "hs%": "85%\n92%\n75%",
+            "kdr": "10\n7\n3",
+            "kills": "319",
+            "name": "Kinguyen",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "1.46\n0.98\n2.19",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "157\n138\n185",
+            "hs%": "75%\n67%\n88%",
+            "kdr": "3\n1\n2",
+            "kills": "257",
+            "name": "dathuaaN",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "0.97\n1.02\n0.88",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "118\n106\n137",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "182",
+            "name": "b2kk",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "0.83\n0.62\n1.15",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "159\n163\n154",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "8\n3\n5",
+            "kills": "248",
+            "name": "Aegis",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "0.59\n0.64\n0.51",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "99\n122\n65",
+            "hs%": "60%\n50%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "136",
+            "name": "NeskaaS",
+            "team": "BK ROG Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n1.07\n1.55",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "150\n108\n179",
+            "hs%": "65%\n75%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "241",
+            "name": "zYKK",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "0.95\n0.76\n1.07",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "112\n64\n144",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "10\n6\n4",
+            "kills": "194",
+            "name": "Scxjesus",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "0.80\n0.90\n0.73",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "120\n128\n115",
+            "hs%": "70%\n88%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "193",
+            "name": "SoOn",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "0.80\n0.82\n0.79",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "104\n97\n108",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "12\n4\n8",
+            "kills": "176",
+            "name": "Noomi",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "0.51\n0.45\n0.55",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "101\n112\n94",
+            "hs%": "55%\n38%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "167",
+            "name": "Izzy",
+            "team": "Graviton Surge"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "280",
+          "name": "Kinguyen",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "b2kk",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "Aegis",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "dathuaaN",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "NeskaaS",
+          "team": null
+        },
+        {
+          "kills": "249",
+          "name": "SoOn",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "zYKK",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "Scxjesus",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "Noomi",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "Izzy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.36\n0.97\n1.17",
+            "adr": "+11\n+11\n0",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "57\n35\n22",
+            "fk": "133\n152\n111",
+            "hs%": "69%\n77%\n59%",
+            "kdr": "25\n17\n8",
+            "kills": "280",
+            "name": "Kinguyen",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.98\n1.08",
+            "adr": "+3\n+7\n-4",
+            "agent": "",
+            "assists": "/\n\n47\n22\n25\n\n/",
+            "deaths": "50\n29\n21",
+            "fk": "141\n141\n142",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "20\n8\n12",
+            "kills": "219",
+            "name": "b2kk",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.31\n1.05",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n51\n28\n23\n\n/",
+            "deaths": "53\n23\n30",
+            "fk": "163\n152\n174",
+            "hs%": "75%\n74%\n75%",
+            "kdr": "19\n9\n10",
+            "kills": "222",
+            "name": "Aegis",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.03\n0.97",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n43\n21\n22\n\n/",
+            "deaths": "45\n23\n22",
+            "fk": "112\n110\n115",
+            "hs%": "67%\n74%\n59%",
+            "kdr": "8\n4\n4",
+            "kills": "172",
+            "name": "dathuaaN",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.88\n0.80",
+            "adr": "-15\n-8\n-7",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "110\n105\n116",
+            "hs%": "72%\n69%\n75%",
+            "kdr": "26\n11\n15",
+            "kills": "164",
+            "name": "NeskaaS",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n1.16\n1.15",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "54\n26\n28",
+            "fk": "149\n163\n136",
+            "hs%": "70%\n75%\n66%",
+            "kdr": "15\n9\n6",
+            "kills": "249",
+            "name": "SoOn",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.12\n1.05",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "45\n22\n23",
+            "fk": "126\n115\n136",
+            "hs%": "72%\n66%\n77%",
+            "kdr": "15\n6\n9",
+            "kills": "198",
+            "name": "zYKK",
+            "team": null
+          },
+          {
+            "acs": "1.11\n0.76\n0.93",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n50\n22\n28\n\n/",
+            "deaths": "48\n26\n22",
+            "fk": "120\n136\n105",
+            "hs%": "76%\n75%\n77%",
+            "kdr": "19\n9\n10",
+            "kills": "215",
+            "name": "Scxjesus",
+            "team": null
+          },
+          {
+            "acs": "0.98\n0.86\n0.92",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n51\n23\n28\n\n/",
+            "deaths": "47\n24\n23",
+            "fk": "121\n123\n119",
+            "hs%": "72%\n75%\n69%",
+            "kdr": "27\n14\n13",
+            "kills": "204",
+            "name": "Noomi",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.00\n0.86",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "41\n17\n24",
+            "fk": "123\n110\n134",
+            "hs%": "69%\n59%\n77%",
+            "kdr": "16\n9\n7",
+            "kills": "169",
+            "name": "Izzy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "248",
+          "name": "Kinguyen",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "159",
+          "name": "dathuaaN",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "170",
+          "name": "b2kk",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "204",
+          "name": "Aegis",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "120",
+          "name": "NeskaaS",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "323",
+          "name": "Noomi",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "141",
+          "name": "Scxjesus",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "251",
+          "name": "Izzy",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "221",
+          "name": "SoOn",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "172",
+          "name": "zYKK",
+          "team": "Graviton Surge"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.09\n1.22",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "147\n156\n138",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "10\n5\n5",
+            "kills": "248",
+            "name": "Kinguyen",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "0.87\n0.93\n0.81",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "105\n98\n112",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "159",
+            "name": "dathuaaN",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "0.81\n0.91\n0.71",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "108\n98\n117",
+            "hs%": "54%\n50%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "170",
+            "name": "b2kk",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "0.74\n0.66\n0.83",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "115\n106\n123",
+            "hs%": "58%\n58%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "204",
+            "name": "Aegis",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "0.68\n0.58\n0.78",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "94\n102\n87",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "12\n5\n7",
+            "kills": "120",
+            "name": "NeskaaS",
+            "team": "BK ROG Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.43\n1.39\n1.46",
+            "adr": "+12\n+7\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "28\n15\n13",
+            "fk": "185\n181\n189",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "323",
+            "name": "Noomi",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "1.21\n1.84\n0.58",
+            "adr": "+6\n+9\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "127\n195\n59",
+            "hs%": "88%\n100%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "141",
+            "name": "Scxjesus",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "1.18\n1.04\n1.32",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "148\n129\n168",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "7\n6\n1",
+            "kills": "251",
+            "name": "Izzy",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "1.08\n0.91\n1.25",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "136\n134\n139",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "8\n5\n3",
+            "kills": "221",
+            "name": "SoOn",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "0.86\n0.60\n1.12",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "88\n63\n112",
+            "hs%": "88%\n83%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "172",
+            "name": "zYKK",
+            "team": "Graviton Surge"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "327",
+          "name": "Aegis",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "279",
+          "name": "b2kk",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "225",
+          "name": "NeskaaS",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "147",
+          "name": "Kinguyen",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "137",
+          "name": "dathuaaN",
+          "team": "BK ROG Esports"
+        },
+        {
+          "kills": "330",
+          "name": "SoOn",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "222",
+          "name": "zYKK",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "170",
+          "name": "Izzy",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "182",
+          "name": "Scxjesus",
+          "team": "Graviton Surge"
+        },
+        {
+          "kills": "97",
+          "name": "Noomi",
+          "team": "Graviton Surge"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.55\n1.17\n1.91",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "26\n10\n16",
+            "fk": "215\n191\n238",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "6\n5\n1",
+            "kills": "327",
+            "name": "Aegis",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "1.46\n1.61\n1.33",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "196\n225\n170",
+            "hs%": "83%\n91%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "279",
+            "name": "b2kk",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "1.12\n1.02\n1.21",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "137\n90\n180",
+            "hs%": "87%\n91%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "225",
+            "name": "NeskaaS",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "0.73\n1.04\n0.44",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "79\n99\n61",
+            "hs%": "57%\n73%\n42%",
+            "kdr": "5\n5\n0",
+            "kills": "147",
+            "name": "Kinguyen",
+            "team": "BK ROG Esports"
+          },
+          {
+            "acs": "0.64\n0.84\n0.47",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "81\n91\n71",
+            "hs%": "57%\n73%\n42%",
+            "kdr": "3\n2\n1",
+            "kills": "137",
+            "name": "dathuaaN",
+            "team": "BK ROG Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.52\n1.49\n1.55",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "188\n216\n157",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "1\n1\n0",
+            "kills": "330",
+            "name": "SoOn",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "0.99\n1.31\n0.64",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "146\n172\n116",
+            "hs%": "61%\n42%\n82%",
+            "kdr": "5\n1\n4",
+            "kills": "222",
+            "name": "zYKK",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "0.83\n0.56\n1.13",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "114\n88\n142",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "5\n2\n3",
+            "kills": "170",
+            "name": "Izzy",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "0.61\n0.60\n0.62",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "120\n126\n113",
+            "hs%": "61%\n50%\n73%",
+            "kdr": "2\n0\n2",
+            "kills": "182",
+            "name": "Scxjesus",
+            "team": "Graviton Surge"
+          },
+          {
+            "acs": "0.49\n0.68\n0.28",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "68\n82\n53",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "9\n8\n1",
+            "kills": "97",
+            "name": "Noomi",
+            "team": "Graviton Surge"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 18601,
+  "teams": [
+    "Graviton Surge",
+    "BK ROG Esports"
+  ],
+  "tournament": "Tournament: \n\t\t\t\t\t\tLower Round 3"
+}

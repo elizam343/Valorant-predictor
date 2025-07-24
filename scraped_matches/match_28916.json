@@ -1,0 +1,806 @@
+{
+  "date": "2021-07-29 14:35:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "302",
+          "name": "Mistic",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "250",
+          "name": "Derke",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "190",
+          "name": "MAGNUM",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "148",
+          "name": "Boaster",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "185",
+          "name": "doma",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "262",
+          "name": "rodeN",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "188",
+          "name": "logaN",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "158",
+          "name": "GatsH",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "144",
+          "name": "hoppY",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "191",
+          "name": "AKUMAAAAA",
+          "team": "Team BDS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.52\n1.50\n1.54",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "29\n14\n15",
+            "fk": "181\n177\n185",
+            "hs%": "85%\n85%\n85%",
+            "kdr": "9\n5\n4",
+            "kills": "302",
+            "name": "Mistic",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "1.25\n1.47\n1.04",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "166\n191\n142",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "3\n1\n2",
+            "kills": "250",
+            "name": "Derke",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "0.98\n0.77\n1.19",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "118\n90\n146",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "7\n2\n5",
+            "kills": "190",
+            "name": "MAGNUM",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "0.94\n0.64\n1.25",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "106\n87\n124",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "13\n6\n7",
+            "kills": "148",
+            "name": "Boaster",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "0.83\n0.55\n1.11",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "115\n106\n125",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "7\n4\n3",
+            "kills": "185",
+            "name": "doma",
+            "team": "FNATIC"
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n1.05\n1.05",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "166\n132\n200",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "8\n5\n3",
+            "kills": "262",
+            "name": "rodeN",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "1.02\n0.91\n1.12",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "113\n107\n120",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "3\n1\n2",
+            "kills": "188",
+            "name": "logaN",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.85\n0.76\n0.93",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "107\n94\n119",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "2\n1\n1",
+            "kills": "158",
+            "name": "GatsH",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.80\n0.37\n1.23",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "97\n50\n145",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "8\n3\n5",
+            "kills": "144",
+            "name": "hoppY",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.67\n0.60\n0.74",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "116\n101\n131",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "7\n2\n5",
+            "kills": "191",
+            "name": "AKUMAAAAA",
+            "team": "Team BDS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "228",
+          "name": "Mistic",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "Boaster",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Derke",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "MAGNUM",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "doma",
+          "team": null
+        },
+        {
+          "kills": "241",
+          "name": "TakaS",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "AKUMAAAAA",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "logaN",
+          "team": null
+        },
+        {
+          "kills": "100",
+          "name": "hoppY",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "rodeN",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "GatsH",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.41\n1.29",
+            "adr": "+18\n+5\n+13",
+            "agent": "",
+            "assists": "/\n\n47\n28\n19\n\n/",
+            "deaths": "65\n33\n32",
+            "fk": "158\n149\n169",
+            "hs%": "83%\n84%\n82%",
+            "kdr": "16\n8\n8",
+            "kills": "228",
+            "name": "Mistic",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.33\n1.08",
+            "adr": "+2\n-6\n+8",
+            "agent": "",
+            "assists": "/\n\n44\n28\n16\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "135\n119\n152",
+            "hs%": "76%\n73%\n79%",
+            "kdr": "27\n13\n14",
+            "kills": "178",
+            "name": "Boaster",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.01\n0.99",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n53\n30\n23\n\n/",
+            "deaths": "52\n26\n26",
+            "fk": "140\n145\n135",
+            "hs%": "66%\n57%\n76%",
+            "kdr": "14\n11\n3",
+            "kills": "217",
+            "name": "Derke",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.03\n0.87",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "42\n20\n22",
+            "fk": "106\n95\n119",
+            "hs%": "73%\n65%\n82%",
+            "kdr": "19\n4\n15",
+            "kills": "152",
+            "name": "MAGNUM",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.90\n0.78",
+            "adr": "-8\n-10\n+2",
+            "agent": "",
+            "assists": "/\n\n53\n31\n22\n\n/",
+            "deaths": "45\n21\n24",
+            "fk": "108\n104\n112",
+            "hs%": "73%\n70%\n76%",
+            "kdr": "14\n7\n7",
+            "kills": "168",
+            "name": "doma",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.89\n1.45\n1.20",
+            "adr": "+9\n-1\n+10",
+            "agent": "",
+            "assists": "/\n\n31\n17\n14\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "159\n134\n180",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "241",
+            "name": "TakaS",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.21\n1.04",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n49\n29\n20\n\n/",
+            "deaths": "52\n26\n26",
+            "fk": "136\n115\n154",
+            "hs%": "71%\n70%\n73%",
+            "kdr": "15\n5\n10",
+            "kills": "218",
+            "name": "AKUMAAAAA",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.05\n1.01",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "49\n21\n28",
+            "fk": "115\n105\n124",
+            "hs%": "70%\n70%\n70%",
+            "kdr": "12\n7\n5",
+            "kills": "168",
+            "name": "logaN",
+            "team": null
+          },
+          {
+            "acs": "0.62\n1.07\n0.87",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "26\n7\n19",
+            "fk": "105\n72\n133",
+            "hs%": "80%\n71%\n88%",
+            "kdr": "16\n7\n9",
+            "kills": "100",
+            "name": "hoppY",
+            "team": null
+          },
+          {
+            "acs": "0.80\n0.90\n0.85",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n59\n26\n33\n\n/",
+            "deaths": "52\n21\n31",
+            "fk": "135\n104\n162",
+            "hs%": "69%\n58%\n78%",
+            "kdr": "18\n8\n10",
+            "kills": "185",
+            "name": "rodeN",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.96\n0.83",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n38\n20\n18\n\n/",
+            "deaths": "30\n12\n18",
+            "fk": "111\n91\n132",
+            "hs%": "74%\n72%\n76%",
+            "kdr": "7\n4\n3",
+            "kills": "149",
+            "name": "GatsH",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "229",
+          "name": "Mistic",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "190",
+          "name": "Boaster",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "176",
+          "name": "MAGNUM",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "193",
+          "name": "doma",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "282",
+          "name": "Derke",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "204",
+          "name": "AKUMAAAAA",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "211",
+          "name": "TakaS",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "175",
+          "name": "logaN",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "209",
+          "name": "GatsH",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "193",
+          "name": "rodeN",
+          "team": "Team BDS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.34\n1.33\n1.36",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "158\n162\n154",
+            "hs%": "92%\n92%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "229",
+            "name": "Mistic",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "1.05\n1.02\n1.09",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "136\n132\n141",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "190",
+            "name": "Boaster",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "0.94\n0.84\n1.05",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "100\n93\n107",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "9\n1\n8",
+            "kills": "176",
+            "name": "MAGNUM",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "0.92\n1.00\n0.84",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "124\n145\n104",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "193",
+            "name": "doma",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "0.90\n0.73\n1.07",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "130\n113\n147",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "9\n8\n1",
+            "kills": "282",
+            "name": "Derke",
+            "team": "FNATIC"
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n1.11\n1.34",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "150\n152\n148",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "204",
+            "name": "AKUMAAAAA",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.99\n0.89\n1.10",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "144\n144\n145",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "211",
+            "name": "TakaS",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.97\n1.12\n0.83",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "127\n137\n117",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "7\n6\n1",
+            "kills": "175",
+            "name": "logaN",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.81\n0.64\n0.99",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "116\n87\n146",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "209",
+            "name": "GatsH",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.66\n0.74\n0.59",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "113\n99\n127",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "193",
+            "name": "rodeN",
+            "team": "Team BDS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "254",
+          "name": "Boaster",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "177",
+          "name": "Mistic",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "208",
+          "name": "Derke",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "152",
+          "name": "MAGNUM",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "103",
+          "name": "doma",
+          "team": "FNATIC"
+        },
+        {
+          "kills": "321",
+          "name": "TakaS",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "211",
+          "name": "AKUMAAAAA",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "171",
+          "name": "logaN",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "148",
+          "name": "hoppY",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "212",
+          "name": "rodeN",
+          "team": "Team BDS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.31\n0.95\n1.84",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "171\n142\n214",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "10\n5\n5",
+            "kills": "254",
+            "name": "Boaster",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "0.92\n0.68\n1.27",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "128\n104\n164",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "1\n1\n0",
+            "kills": "177",
+            "name": "Mistic",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "0.76\n0.66\n0.90",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "119\n127\n107",
+            "hs%": "55%\n33%\n88%",
+            "kdr": "2\n2\n0",
+            "kills": "208",
+            "name": "Derke",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "0.65\n0.61\n0.72",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "98\n102\n93",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "152",
+            "name": "MAGNUM",
+            "team": "FNATIC"
+          },
+          {
+            "acs": "0.55\n0.48\n0.65",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "79\n62\n103",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "3\n2\n1",
+            "kills": "103",
+            "name": "doma",
+            "team": "FNATIC"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n0.90\n1.81",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "176\n118\n215",
+            "hs%": "85%\n63%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "321",
+            "name": "TakaS",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "1.30\n0.89\n1.58",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "143\n80\n185",
+            "hs%": "70%\n50%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "211",
+            "name": "AKUMAAAAA",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "1.03\n0.77\n1.20",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "102\n54\n135",
+            "hs%": "70%\n50%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "171",
+            "name": "logaN",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.96\n1.04\n0.91",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "115\n108\n120",
+            "hs%": "90%\n88%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "148",
+            "name": "hoppY",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.82\n0.48\n1.04",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "120\n68\n155",
+            "hs%": "70%\n50%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "212",
+            "name": "rodeN",
+            "team": "Team BDS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 28916,
+  "teams": [
+    "Team BDS",
+    "FNATIC"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tLower Round 2"
+}

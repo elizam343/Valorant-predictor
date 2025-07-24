@@ -1,0 +1,788 @@
+{
+  "date": "2022-06-04 01:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "304",
+          "name": "Foxy9",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "201",
+          "name": "hyouka",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "205",
+          "name": "kurozooted",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "198",
+          "name": "eKo",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "82",
+          "name": "Ask",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "294",
+          "name": "Vici",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "293",
+          "name": "Art",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "187",
+          "name": "something",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "113",
+          "name": "Zerost",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "86",
+          "name": "Misaya",
+          "team": "Sengoku Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.75\n0.81",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "27\n16\n11",
+            "fk": "187\n229\n146",
+            "hs%": "79%\n92%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "304",
+            "name": "Foxy9",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "1.19\n1.53\n0.85",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "135\n179\n91",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "8\n6\n2",
+            "kills": "201",
+            "name": "hyouka",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "1.15\n1.16\n1.14",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "137\n117\n156",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "205",
+            "name": "kurozooted",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "1.00\n1.21\n0.79",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "131\n131\n130",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "198",
+            "name": "eKo",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "0.49\n0.37\n0.62",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "50\n18\n83",
+            "hs%": "46%\n50%\n42%",
+            "kdr": "7\n2\n5",
+            "kills": "82",
+            "name": "Ask",
+            "team": "REIGNITE"
+          }
+        ],
+        [
+          {
+            "acs": "1.56\n1.97\n1.16",
+            "adr": "+10\n+9\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "191\n221\n161",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "294",
+            "name": "Vici",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "1.39\n1.57\n1.22",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "187\n220\n154",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "9\n5\n4",
+            "kills": "293",
+            "name": "Art",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.81\n1.01\n0.61",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "126\n165\n88",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "187",
+            "name": "something",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.59\n0.70\n0.47",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "66\n69\n64",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "6\n5\n1",
+            "kills": "113",
+            "name": "Zerost",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.40\n0.42\n0.38",
+            "adr": "-13\n-4\n-9",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "66\n86\n46",
+            "hs%": "58%\n58%\n58%",
+            "kdr": "14\n6\n8",
+            "kills": "86",
+            "name": "Misaya",
+            "team": "Sengoku Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "194",
+          "name": "kurozooted",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "Foxy9",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "eKo",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "hyouka",
+          "team": null
+        },
+        {
+          "kills": "119",
+          "name": "Ask",
+          "team": null
+        },
+        {
+          "kills": "263",
+          "name": "Vici",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "Art",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Misaya",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "something",
+          "team": null
+        },
+        {
+          "kills": "131",
+          "name": "Zerost",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.20\n1.07\n1.14",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "47\n23\n24",
+            "fk": "149\n147\n152",
+            "hs%": "73%\n72%\n74%",
+            "kdr": "18\n13\n5",
+            "kills": "194",
+            "name": "kurozooted",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.21\n1.08",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n53\n27\n26\n\n/",
+            "deaths": "59\n27\n32",
+            "fk": "152\n130\n178",
+            "hs%": "70%\n69%\n71%",
+            "kdr": "9\n3\n6",
+            "kills": "215",
+            "name": "Foxy9",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.80\n1.00",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n49\n25\n24\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "132\n139\n123",
+            "hs%": "75%\n78%\n71%",
+            "kdr": "13\n8\n5",
+            "kills": "222",
+            "name": "eKo",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.67\n0.85",
+            "adr": "-14\n-5\n-9",
+            "agent": "",
+            "assists": "/\n\n50\n27\n23\n\n/",
+            "deaths": "36\n22\n14",
+            "fk": "93\n110\n73",
+            "hs%": "64%\n64%\n65%",
+            "kdr": "18\n11\n7",
+            "kills": "178",
+            "name": "hyouka",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.69\n0.62",
+            "adr": "-23\n-14\n-9",
+            "agent": "",
+            "assists": "/\n\n51\n29\n22\n\n/",
+            "deaths": "28\n15\n13",
+            "fk": "80\n75\n87",
+            "hs%": "57%\n61%\n52%",
+            "kdr": "20\n10\n10",
+            "kills": "119",
+            "name": "Ask",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n1.29\n1.35",
+            "adr": "+26\n+11\n+15",
+            "agent": "",
+            "assists": "/\n\n38\n18\n20\n\n/",
+            "deaths": "64\n29\n35",
+            "fk": "166\n164\n168",
+            "hs%": "85%\n77%\n92%",
+            "kdr": "9\n2\n7",
+            "kills": "263",
+            "name": "Vici",
+            "team": null
+          },
+          {
+            "acs": "1.15\n1.40\n1.29",
+            "adr": "+14\n+3\n+11",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "61\n26\n35",
+            "fk": "174\n155\n190",
+            "hs%": "78%\n74%\n81%",
+            "kdr": "39\n17\n22",
+            "kills": "248",
+            "name": "Art",
+            "team": null
+          },
+          {
+            "acs": "1.19\n0.74\n0.95",
+            "adr": "-6\n+2\n-8",
+            "agent": "",
+            "assists": "/\n\n46\n21\n25\n\n/",
+            "deaths": "40\n23\n17",
+            "fk": "115\n136\n97",
+            "hs%": "70%\n71%\n69%",
+            "kdr": "30\n15\n15",
+            "kills": "217",
+            "name": "Misaya",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.00\n0.90",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "51\n25\n26",
+            "fk": "142\n151\n134",
+            "hs%": "70%\n65%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "235",
+            "name": "something",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.69\n0.78",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n42\n19\n23\n\n/",
+            "deaths": "32\n15\n17",
+            "fk": "87\n85\n88",
+            "hs%": "70%\n74%\n67%",
+            "kdr": "15\n8\n7",
+            "kills": "131",
+            "name": "Zerost",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "260",
+          "name": "kurozooted",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "403",
+          "name": "Foxy9",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "143",
+          "name": "eKo",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "136",
+          "name": "hyouka",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "176",
+          "name": "Ask",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "356",
+          "name": "Vici",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "382",
+          "name": "Art",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "198",
+          "name": "Misaya",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "150",
+          "name": "Zerost",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "150",
+          "name": "something",
+          "team": "Sengoku Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.17\n1.32",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "159\n146\n172",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "7\n4\n3",
+            "kills": "260",
+            "name": "kurozooted",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "1.13\n0.48\n1.83",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "151\n78\n231",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "6\n1\n5",
+            "kills": "403",
+            "name": "Foxy9",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "0.83\n1.10\n0.53",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "113\n143\n80",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "6\n3\n3",
+            "kills": "143",
+            "name": "eKo",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "0.75\n0.61\n0.90",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "72\n58\n87",
+            "hs%": "70%\n50%\n91%",
+            "kdr": "7\n2\n5",
+            "kills": "136",
+            "name": "hyouka",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "0.65\n0.34\n0.99",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "80\n48\n115",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "9\n4\n5",
+            "kills": "176",
+            "name": "Ask",
+            "team": "REIGNITE"
+          }
+        ],
+        [
+          {
+            "acs": "1.28\n0.72\n1.79",
+            "adr": "+10\n-3\n+13",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "24\n6\n18",
+            "fk": "166\n97\n228",
+            "hs%": "83%\n64%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "356",
+            "name": "Vici",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "1.28\n0.70\n1.81",
+            "adr": "+6\n-3\n+9",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "178\n123\n227",
+            "hs%": "74%\n55%\n92%",
+            "kdr": "15\n5\n10",
+            "kills": "382",
+            "name": "Art",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "1.25\n1.71\n0.83",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "158\n195\n124",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "198",
+            "name": "Misaya",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.83\n0.79\n0.86",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "99\n107\n92",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "150",
+            "name": "Zerost",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.71\n0.54\n0.86",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "105\n109\n102",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "150",
+            "name": "something",
+            "team": "Sengoku Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "260",
+          "name": "eKo",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "194",
+          "name": "kurozooted",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "181",
+          "name": "Foxy9",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "168",
+          "name": "Ask",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "117",
+          "name": "hyouka",
+          "team": "REIGNITE"
+        },
+        {
+          "kills": "204",
+          "name": "Misaya",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "317",
+          "name": "something",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "224",
+          "name": "Vici",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "254",
+          "name": "Art",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "145",
+          "name": "Zerost",
+          "team": "Sengoku Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.21\n1.20",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "155\n145\n170",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "3\n3\n0",
+            "kills": "260",
+            "name": "eKo",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "1.01\n1.26\n0.62",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "153\n177\n117",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "8\n7\n1",
+            "kills": "194",
+            "name": "kurozooted",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "0.79\n0.67\n0.97",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "112\n84\n154",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "2\n1\n1",
+            "kills": "181",
+            "name": "Foxy9",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "0.74\n0.98\n0.37",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "116\n158\n55",
+            "hs%": "60%\n75%\n38%",
+            "kdr": "4\n4\n0",
+            "kills": "168",
+            "name": "Ask",
+            "team": "REIGNITE"
+          },
+          {
+            "acs": "0.54\n0.83\n0.10",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "66\n93\n26",
+            "hs%": "50%\n58%\n38%",
+            "kdr": "3\n3\n0",
+            "kills": "117",
+            "name": "hyouka",
+            "team": "REIGNITE"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.64\n1.00",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "124\n129\n121",
+            "hs%": "85%\n88%\n83%",
+            "kdr": "10\n4\n6",
+            "kills": "204",
+            "name": "Misaya",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "1.23\n0.77\n1.53",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "203\n187\n214",
+            "hs%": "75%\n63%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "317",
+            "name": "something",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "1.19\n1.57\n0.93",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "137\n171\n115",
+            "hs%": "95%\n88%\n100%",
+            "kdr": "6\n0\n6",
+            "kills": "224",
+            "name": "Vici",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "1.17\n1.15\n1.19",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "154\n102\n189",
+            "hs%": "90%\n88%\n92%",
+            "kdr": "15\n7\n8",
+            "kills": "254",
+            "name": "Art",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.96\n1.29\n0.75",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "97\n79\n109",
+            "hs%": "65%\n75%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "145",
+            "name": "Zerost",
+            "team": "Sengoku Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 104969,
+  "teams": [
+    "Sengoku Gaming",
+    "REIGNITE"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tSemifinals"
+}

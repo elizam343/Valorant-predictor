@@ -1,0 +1,594 @@
+{
+  "date": "2023-01-15 06:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "213",
+          "name": "Pkm",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "205",
+          "name": "IceBear",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "176",
+          "name": "Athan",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "132",
+          "name": "YUNSEUNG",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "163",
+          "name": "JaXe",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "362",
+          "name": "Jinboong",
+          "team": "Rio Company"
+        },
+        {
+          "kills": "196",
+          "name": "LuZ",
+          "team": "Rio Company"
+        },
+        {
+          "kills": "234",
+          "name": "kanade",
+          "team": "Rio Company"
+        },
+        {
+          "kills": "185",
+          "name": "SungJin",
+          "team": "Rio Company"
+        },
+        {
+          "kills": "173",
+          "name": "Sunday",
+          "team": "Rio Company"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "0.98\n1.16\n0.73",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "146\n185\n95",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "213",
+            "name": "Pkm",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.81\n0.58\n1.11",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "135\n117\n161",
+            "hs%": "57%\n50%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "205",
+            "name": "IceBear",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.77\n0.67\n0.90",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "118\n97\n145",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "176",
+            "name": "Athan",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.74\n0.59\n0.95",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "93\n97\n88",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "132",
+            "name": "YUNSEUNG",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.64\n0.63\n0.64",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "115\n114\n116",
+            "hs%": "52%\n42%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "163",
+            "name": "JaXe",
+            "team": "TEAM INDIGO"
+          }
+        ],
+        [
+          {
+            "acs": "1.72\n1.79\n1.67",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "219\n244\n200",
+            "hs%": "90%\n89%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "362",
+            "name": "Jinboong",
+            "team": "Rio Company"
+          },
+          {
+            "acs": "1.20\n0.87\n1.44",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "122\n95\n143",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "9\n5\n4",
+            "kills": "196",
+            "name": "LuZ",
+            "team": "Rio Company"
+          },
+          {
+            "acs": "1.14\n1.23\n1.07",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "140\n102\n169",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "234",
+            "name": "kanade",
+            "team": "Rio Company"
+          },
+          {
+            "acs": "1.06\n0.94\n1.15",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "117\n94\n135",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "12\n5\n7",
+            "kills": "185",
+            "name": "SungJin",
+            "team": "Rio Company"
+          },
+          {
+            "acs": "0.92\n0.62\n1.14",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "113\n71\n145",
+            "hs%": "90%\n89%\n92%",
+            "kdr": "10\n6\n4",
+            "kills": "173",
+            "name": "Sunday",
+            "team": "Rio Company"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "206",
+          "name": "Athan",
+          "team": null
+        },
+        {
+          "kills": "244",
+          "name": "Pkm",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "IceBear",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "JaXe",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "YUNSEUNG",
+          "team": null
+        },
+        {
+          "kills": "320",
+          "name": "Jinboong",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "SungJin",
+          "team": null
+        },
+        {
+          "kills": "274",
+          "name": "kanade",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "LuZ",
+          "team": null
+        },
+        {
+          "kills": "123",
+          "name": "Sunday",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.68\n1.04\n0.88",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n32\n16\n16\n\n/",
+            "deaths": "31\n13\n18",
+            "fk": "131\n124\n137",
+            "hs%": "64%\n56%\n71%",
+            "kdr": "7\n3\n4",
+            "kills": "206",
+            "name": "Athan",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.52\n0.78",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n33\n15\n18\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "138\n170\n110",
+            "hs%": "62%\n67%\n57%",
+            "kdr": "10\n6\n4",
+            "kills": "244",
+            "name": "Pkm",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.78\n0.76",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n32\n14\n18\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "112\n124\n101",
+            "hs%": "51%\n50%\n52%",
+            "kdr": "5\n1\n4",
+            "kills": "181",
+            "name": "IceBear",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.83\n0.71",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "115\n85\n142",
+            "hs%": "56%\n44%\n67%",
+            "kdr": "11\n4\n7",
+            "kills": "124",
+            "name": "JaXe",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.62\n0.64",
+            "adr": "-16\n-6\n-10",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "93\n102\n84",
+            "hs%": "54%\n56%\n52%",
+            "kdr": "13\n4\n9",
+            "kills": "156",
+            "name": "YUNSEUNG",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.51\n1.50\n1.50",
+            "adr": "+16\n+9\n+7",
+            "agent": "",
+            "assists": "/\n\n24\n14\n10\n\n/",
+            "deaths": "40\n23\n17",
+            "fk": "197\n208\n185",
+            "hs%": "87%\n86%\n89%",
+            "kdr": "11\n8\n3",
+            "kills": "320",
+            "name": "Jinboong",
+            "team": null
+          },
+          {
+            "acs": "1.27\n1.59\n1.42",
+            "adr": "+15\n+9\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "33\n18\n15",
+            "fk": "143\n137\n150",
+            "hs%": "79%\n76%\n83%",
+            "kdr": "17\n8\n9",
+            "kills": "207",
+            "name": "SungJin",
+            "team": null
+          },
+          {
+            "acs": "1.42\n0.96\n1.20",
+            "adr": "+12\n+11\n+1",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "36\n22\n14",
+            "fk": "152\n161\n142",
+            "hs%": "79%\n90%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "274",
+            "name": "kanade",
+            "team": null
+          },
+          {
+            "acs": "1.13\n1.23\n1.17",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "29\n16\n13",
+            "fk": "128\n121\n136",
+            "hs%": "85%\n81%\n89%",
+            "kdr": "14\n8\n6",
+            "kills": "209",
+            "name": "LuZ",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.03\n0.88",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "105\n83\n130",
+            "hs%": "85%\n81%\n89%",
+            "kdr": "18\n10\n8",
+            "kills": "123",
+            "name": "Sunday",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "238",
+          "name": "Athan",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "223",
+          "name": "JaXe",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "113",
+          "name": "IceBear",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "140",
+          "name": "Pkm",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "117",
+          "name": "YUNSEUNG",
+          "team": "TEAM INDIGO"
+        },
+        {
+          "kills": "331",
+          "name": "SungJin",
+          "team": "Rio Company"
+        },
+        {
+          "kills": "128",
+          "name": "kanade",
+          "team": "Rio Company"
+        },
+        {
+          "kills": "234",
+          "name": "Jinboong",
+          "team": "Rio Company"
+        },
+        {
+          "kills": "186",
+          "name": "LuZ",
+          "team": "Rio Company"
+        },
+        {
+          "kills": "172",
+          "name": "Sunday",
+          "team": "Rio Company"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.00\n0.71\n1.15",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "147\n179\n132",
+            "hs%": "67%\n50%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "238",
+            "name": "Athan",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.80\n0.44\n0.98",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "116\n25\n161",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "223",
+            "name": "JaXe",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.72\n1.07\n0.54",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "84\n138\n57",
+            "hs%": "44%\n50%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "113",
+            "name": "IceBear",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.55\n0.93\n0.36",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "128\n142\n121",
+            "hs%": "56%\n67%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "140",
+            "name": "Pkm",
+            "team": "TEAM INDIGO"
+          },
+          {
+            "acs": "0.52\n0.82\n0.37",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "92\n113\n82",
+            "hs%": "44%\n50%\n42%",
+            "kdr": "7\n3\n4",
+            "kills": "117",
+            "name": "YUNSEUNG",
+            "team": "TEAM INDIGO"
+          }
+        ],
+        [
+          {
+            "acs": "1.83\n1.51\n2.47",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "173\n170\n181",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "331",
+            "name": "SungJin",
+            "team": "Rio Company"
+          },
+          {
+            "acs": "1.28\n1.55\n0.72",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "166\n206\n86",
+            "hs%": "83%\n100%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "128",
+            "name": "kanade",
+            "team": "Rio Company"
+          },
+          {
+            "acs": "1.25\n1.30\n1.15",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "172\n181\n155",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "7\n6\n1",
+            "kills": "234",
+            "name": "Jinboong",
+            "team": "Rio Company"
+          },
+          {
+            "acs": "1.15\n1.33\n0.79",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "135\n142\n123",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "186",
+            "name": "LuZ",
+            "team": "Rio Company"
+          },
+          {
+            "acs": "0.84\n0.86\n0.81",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "95\n93\n99",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "172",
+            "name": "Sunday",
+            "team": "Rio Company"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 166757,
+  "teams": [
+    "Rio Company",
+    "TEAM INDIGO"
+  ],
+  "tournament": "Closed Qualifier: \n\t\t\t\t\t\tDecider"
+}

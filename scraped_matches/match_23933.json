@@ -1,0 +1,788 @@
+{
+  "date": "2021-07-01 17:00:22",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "229",
+          "name": "dangle",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "200",
+          "name": "Mundle",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "170",
+          "name": "Brian2K",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "148",
+          "name": "knightmare",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "51",
+          "name": "phean",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "299",
+          "name": "Town",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "220",
+          "name": "Adam",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "230",
+          "name": "Soto",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "247",
+          "name": "Soar",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "146",
+          "name": "forwrds",
+          "team": "Lazarus"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.01\n0.83\n1.07",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "164\n122\n178",
+            "hs%": "63%\n75%\n58%",
+            "kdr": "0\n0\n0",
+            "kills": "229",
+            "name": "dangle",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "0.74\n0.91\n0.69",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "115\n106\n118",
+            "hs%": "44%\n50%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "200",
+            "name": "Mundle",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "0.67\n0.78\n0.64",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "97\n81\n103",
+            "hs%": "63%\n75%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "170",
+            "name": "Brian2K",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "0.42\n0.01\n0.65",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "103\n0\n137",
+            "hs%": "44%\n25%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "148",
+            "name": "knightmare",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "0.19\n0.67\n0.04",
+            "adr": "-11\n-1\n-10",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "2\n2\n0",
+            "fk": "36\n77\n22",
+            "hs%": "31%\n50%\n25%",
+            "kdr": "2\n0\n2",
+            "kills": "51",
+            "name": "phean",
+            "team": "Hysteria"
+          }
+        ],
+        [
+          {
+            "acs": "1.61\n1.76\n1.18",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "187\n221\n84",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "299",
+            "name": "Town",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "1.53\n1.45\n1.78",
+            "adr": "+10\n+6\n+4",
+            "agent": "",
+            "assists": "/\n\n6\n5\n1\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "129\n131\n122",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "220",
+            "name": "Adam",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "1.33\n1.34\n1.30",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "135\n164\n49",
+            "hs%": "88%\n92%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "230",
+            "name": "Soto",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "1.24\n1.21\n1.33",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "148\n146\n153",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "247",
+            "name": "Soar",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "0.82\n1.00\n0.28",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "101\n127\n23",
+            "hs%": "69%\n75%\n50%",
+            "kdr": "5\n5\n0",
+            "kills": "146",
+            "name": "forwrds",
+            "team": "Lazarus"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "250",
+          "name": "dangle",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "knightmare",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "Mundle",
+          "team": null
+        },
+        {
+          "kills": "135",
+          "name": "phean",
+          "team": null
+        },
+        {
+          "kills": "109",
+          "name": "Brian2K",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "Adam",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "Town",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "Soto",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "Soar",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "forwrds",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.14\n1.20\n1.18",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n44\n18\n26\n\n/",
+            "deaths": "50\n20\n30",
+            "fk": "174\n161\n181",
+            "hs%": "68%\n64%\n71%",
+            "kdr": "9\n4\n5",
+            "kills": "250",
+            "name": "dangle",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.89\n0.88",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n43\n17\n26\n\n/",
+            "deaths": "36\n14\n22",
+            "fk": "114\n97\n124",
+            "hs%": "68%\n68%\n68%",
+            "kdr": "9\n2\n7",
+            "kills": "170",
+            "name": "knightmare",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.78\n0.86",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n44\n16\n28\n\n/",
+            "deaths": "36\n13\n23",
+            "fk": "123\n119\n126",
+            "hs%": "52%\n50%\n53%",
+            "kdr": "5\n3\n2",
+            "kills": "186",
+            "name": "Mundle",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.93\n0.81",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n38\n16\n22\n\n/",
+            "deaths": "29\n10\n19",
+            "fk": "100\n101\n100",
+            "hs%": "55%\n59%\n53%",
+            "kdr": "7\n3\n4",
+            "kills": "135",
+            "name": "phean",
+            "team": null
+          },
+          {
+            "acs": "0.54\n0.60\n0.58",
+            "adr": "-18\n-8\n-10",
+            "agent": "",
+            "assists": "/\n\n41\n15\n26\n\n/",
+            "deaths": "23\n7\n16",
+            "fk": "66\n52\n75",
+            "hs%": "57%\n59%\n56%",
+            "kdr": "7\n3\n4",
+            "kills": "109",
+            "name": "Brian2K",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n1.42\n1.27",
+            "adr": "+19\n+7\n+12",
+            "agent": "",
+            "assists": "/\n\n32\n22\n10\n\n/",
+            "deaths": "51\n29\n22",
+            "fk": "137\n137\n136",
+            "hs%": "80%\n79%\n82%",
+            "kdr": "11\n7\n4",
+            "kills": "219",
+            "name": "Adam",
+            "team": null
+          },
+          {
+            "acs": "1.20\n1.16\n1.18",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n36\n22\n14\n\n/",
+            "deaths": "44\n28\n16",
+            "fk": "149\n160\n131",
+            "hs%": "73%\n74%\n73%",
+            "kdr": "13\n7\n6",
+            "kills": "243",
+            "name": "Town",
+            "team": null
+          },
+          {
+            "acs": "1.02\n1.23\n1.11",
+            "adr": "+13\n+4\n+9",
+            "agent": "",
+            "assists": "/\n\n34\n20\n14\n\n/",
+            "deaths": "47\n24\n23",
+            "fk": "141\n136\n150",
+            "hs%": "79%\n76%\n82%",
+            "kdr": "9\n5\n4",
+            "kills": "174",
+            "name": "Soto",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.98\n0.99",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n37\n24\n13\n\n/",
+            "deaths": "42\n28\n14",
+            "fk": "136\n149\n117",
+            "hs%": "71%\n68%\n77%",
+            "kdr": "12\n7\n5",
+            "kills": "225",
+            "name": "Soar",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.57\n0.79",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n35\n22\n13\n\n/",
+            "deaths": "26\n20\n6",
+            "fk": "91\n112\n58",
+            "hs%": "66%\n71%\n59%",
+            "kdr": "17\n13\n4",
+            "kills": "177",
+            "name": "forwrds",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "205",
+          "name": "Mundle",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "297",
+          "name": "dangle",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "206",
+          "name": "phean",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "210",
+          "name": "knightmare",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "168",
+          "name": "Brian2K",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "241",
+          "name": "Adam",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "275",
+          "name": "Soto",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "159",
+          "name": "Soar",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "221",
+          "name": "Town",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "75",
+          "name": "forwrds",
+          "team": "Lazarus"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.22\n1.49\n0.89",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "159\n172\n143",
+            "hs%": "55%\n50%\n60%",
+            "kdr": "4\n2\n2",
+            "kills": "205",
+            "name": "Mundle",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "1.20\n0.95\n1.50",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "193\n166\n225",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "7\n4\n3",
+            "kills": "297",
+            "name": "dangle",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "1.18\n0.86\n1.56",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "123\n129\n115",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "3\n2\n1",
+            "kills": "206",
+            "name": "phean",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "1.12\n1.03\n1.22",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "111\n108\n114",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "4\n1\n3",
+            "kills": "210",
+            "name": "knightmare",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "0.60\n0.43\n0.79",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "42\n38\n47",
+            "hs%": "50%\n42%\n60%",
+            "kdr": "0\n0\n0",
+            "kills": "168",
+            "name": "Brian2K",
+            "team": "Hysteria"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n0.94\n1.35",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "118\n87\n144",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "241",
+            "name": "Adam",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "1.00\n0.77\n1.18",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "166\n166\n166",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "275",
+            "name": "Soto",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "0.84\n0.71\n0.95",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "124\n140\n111",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "159",
+            "name": "Soar",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "0.82\n0.49\n1.09",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "130\n77\n175",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "221",
+            "name": "Town",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "0.72\n0.91\n0.56",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "73\n99\n51",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "8\n4\n4",
+            "kills": "75",
+            "name": "forwrds",
+            "team": "Lazarus"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "281",
+          "name": "dangle",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "207",
+          "name": "knightmare",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "206",
+          "name": "phean",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "155",
+          "name": "Mundle",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "107",
+          "name": "Brian2K",
+          "team": "Hysteria"
+        },
+        {
+          "kills": "241",
+          "name": "Town",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "280",
+          "name": "Adam",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "159",
+          "name": "Soto",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "221",
+          "name": "Soar",
+          "team": "Lazarus"
+        },
+        {
+          "kills": "178",
+          "name": "forwrds",
+          "team": "Lazarus"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.30\n1.71\n1.09",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "159\n179\n148",
+            "hs%": "67%\n50%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "281",
+            "name": "dangle",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "1.00\n1.28\n0.86",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "127\n142\n120",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "207",
+            "name": "knightmare",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "0.92\n0.17\n1.29",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "130\n60\n165",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "206",
+            "name": "phean",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "0.51\n0.03\n0.77",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "87\n23\n119",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "155",
+            "name": "Mundle",
+            "team": "Hysteria"
+          },
+          {
+            "acs": "0.47\n0.59\n0.40",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "67\n61\n70",
+            "hs%": "61%\n83%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "107",
+            "name": "Brian2K",
+            "team": "Hysteria"
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n1.22\n1.29",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "137\n168\n75",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "241",
+            "name": "Town",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "1.18\n1.11\n1.32",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "166\n184\n131",
+            "hs%": "72%\n75%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "280",
+            "name": "Adam",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "1.04\n0.92\n1.28",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "117\n82\n187",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "159",
+            "name": "Soto",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "0.95\n1.02\n0.80",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "142\n160\n106",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "221",
+            "name": "Soar",
+            "team": "Lazarus"
+          },
+          {
+            "acs": "0.86\n0.90\n0.79",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "102\n107\n94",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "178",
+            "name": "forwrds",
+            "team": "Lazarus"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 23933,
+  "teams": [
+    "Hysteria",
+    "Lazarus"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 128"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2023-01-14 04:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "294",
+          "name": "x v y",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "351",
+          "name": "RIZKYMD",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "275",
+          "name": "Rapheleen",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "193",
+          "name": "blood",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "146",
+          "name": "Flynch",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "164",
+          "name": "XaoLung",
+          "team": "PWYH"
+        },
+        {
+          "kills": "122",
+          "name": "GanduL",
+          "team": "PWYH"
+        },
+        {
+          "kills": "159",
+          "name": "BlueCuracao",
+          "team": "PWYH"
+        },
+        {
+          "kills": "106",
+          "name": "FzLvnd",
+          "team": "PWYH"
+        },
+        {
+          "kills": "129",
+          "name": "Congasser",
+          "team": "PWYH"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.76\n1.85\n1.73",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "173\n114\n193",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "294",
+            "name": "x v y",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "1.75\n2.33\n1.56",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "209\n247\n196",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "11\n2\n9",
+            "kills": "351",
+            "name": "RIZKYMD",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "1.59\n1.89\n1.48",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "169\n138\n179",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "14\n3\n11",
+            "kills": "275",
+            "name": "Rapheleen",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "1.20\n1.95\n0.94",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "138\n165\n129",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "193",
+            "name": "blood",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "0.75\n0.04\n0.98",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "94\n69\n103",
+            "hs%": "69%\n50%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "146",
+            "name": "Flynch",
+            "team": "Le Crapaud"
+          }
+        ],
+        [
+          {
+            "acs": "1.03\n1.19\n0.53",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "100\n96\n111",
+            "hs%": "63%\n58%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "164",
+            "name": "XaoLung",
+            "team": "PWYH"
+          },
+          {
+            "acs": "0.53\n0.81\n0.01",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "75\n93\n21",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "122",
+            "name": "GanduL",
+            "team": "PWYH"
+          },
+          {
+            "acs": "0.47\n0.63\n0.03",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "95\n113\n40",
+            "hs%": "44%\n50%\n25%",
+            "kdr": "1\n1\n0",
+            "kills": "159",
+            "name": "BlueCuracao",
+            "team": "PWYH"
+          },
+          {
+            "acs": "0.45\n0.41\n0.56",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "64\n58\n83",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "106",
+            "name": "FzLvnd",
+            "team": "PWYH"
+          },
+          {
+            "acs": "0.33\n0.23\n0.63",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "75\n62\n115",
+            "hs%": "44%\n33%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "129",
+            "name": "Congasser",
+            "team": "PWYH"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "252",
+          "name": "Rapheleen",
+          "team": null
+        },
+        {
+          "kills": "267",
+          "name": "x v y",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "RIZKYMD",
+          "team": null
+        },
+        {
+          "kills": "260",
+          "name": "Flynch",
+          "team": null
+        },
+        {
+          "kills": "242",
+          "name": "blood",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "XaoLung",
+          "team": null
+        },
+        {
+          "kills": "136",
+          "name": "GanduL",
+          "team": null
+        },
+        {
+          "kills": "91",
+          "name": "FzLvnd",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "BlueCuracao",
+          "team": null
+        },
+        {
+          "kills": "93",
+          "name": "Congasser",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.53\n1.56\n1.54",
+            "adr": "+15\n+7\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "29\n15\n14",
+            "fk": "156\n148\n166",
+            "hs%": "90%\n88%\n93%",
+            "kdr": "21\n9\n12",
+            "kills": "252",
+            "name": "Rapheleen",
+            "team": null
+          },
+          {
+            "acs": "1.36\n1.60\n1.47",
+            "adr": "+14\n+6\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "29\n15\n14",
+            "fk": "175\n177\n173",
+            "hs%": "90%\n88%\n93%",
+            "kdr": "14\n8\n6",
+            "kills": "267",
+            "name": "x v y",
+            "team": null
+          },
+          {
+            "acs": "1.28\n1.55\n1.41",
+            "adr": "+14\n+7\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "31\n16\n15",
+            "fk": "173\n158\n190",
+            "hs%": "87%\n75%\n100%",
+            "kdr": "17\n4\n13",
+            "kills": "248",
+            "name": "RIZKYMD",
+            "team": null
+          },
+          {
+            "acs": "1.23\n1.40\n1.31",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "151\n165\n135",
+            "hs%": "77%\n75%\n79%",
+            "kdr": "8\n5\n3",
+            "kills": "260",
+            "name": "Flynch",
+            "team": null
+          },
+          {
+            "acs": "1.38\n1.00\n1.20",
+            "adr": "+10\n+10\n0",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "23\n17\n6",
+            "fk": "132\n140\n122",
+            "hs%": "83%\n81%\n86%",
+            "kdr": "2\n0\n2",
+            "kills": "242",
+            "name": "blood",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n0.80\n0.95",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n26\n11\n15\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "125\n103\n144",
+            "hs%": "70%\n57%\n81%",
+            "kdr": "9\n3\n6",
+            "kills": "168",
+            "name": "XaoLung",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.81\n0.71",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n26\n12\n14\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "92\n82\n101",
+            "hs%": "53%\n50%\n56%",
+            "kdr": "4\n1\n3",
+            "kills": "136",
+            "name": "GanduL",
+            "team": null
+          },
+          {
+            "acs": "0.36\n0.78\n0.56",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "90\n56\n119",
+            "hs%": "57%\n43%\n69%",
+            "kdr": "5\n2\n3",
+            "kills": "91",
+            "name": "FzLvnd",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.43\n0.50",
+            "adr": "-14\n-5\n-9",
+            "agent": "",
+            "assists": "/\n\n29\n14\n15\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "107\n119\n97",
+            "hs%": "47%\n50%\n44%",
+            "kdr": "4\n1\n3",
+            "kills": "190",
+            "name": "BlueCuracao",
+            "team": null
+          },
+          {
+            "acs": "0.20\n0.38\n0.29",
+            "adr": "-19\n-9\n-10",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "72\n59\n83",
+            "hs%": "43%\n29%\n56%",
+            "kdr": "5\n1\n4",
+            "kills": "93",
+            "name": "Congasser",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "717",
+          "name": "Flynch",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "173",
+          "name": "Rapheleen",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "98",
+          "name": "blood",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "67",
+          "name": "x v y",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "232",
+          "name": "RIZKYMD",
+          "team": "Le Crapaud"
+        },
+        {
+          "kills": "217",
+          "name": "GanduL",
+          "team": "PWYH"
+        },
+        {
+          "kills": "199",
+          "name": "XaoLung",
+          "team": "PWYH"
+        },
+        {
+          "kills": "224",
+          "name": "FzLvnd",
+          "team": "PWYH"
+        },
+        {
+          "kills": "158",
+          "name": "BlueCuracao",
+          "team": "PWYH"
+        },
+        {
+          "kills": "98",
+          "name": "Congasser",
+          "team": "PWYH"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.95\n1.62\n3.93",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n7\n0\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "215\n196\n329",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "717",
+            "name": "Flynch",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "1.49\n1.41\n2.01",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n7\n0\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "142\n151\n89",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "7\n6\n1",
+            "kills": "173",
+            "name": "Rapheleen",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "1.21\n1.19\n1.36",
+            "adr": "+6\n+6",
+            "agent": "",
+            "assists": "/\n\n6\n6\n0\n\n/",
+            "deaths": "12\n12\n0",
+            "fk": "125\n132\n80",
+            "hs%": "79%\n75%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "98",
+            "name": "blood",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "1.14\n1.19\n0.86",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "12\n12\n0",
+            "fk": "177\n197\n54",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "8\n6\n2",
+            "kills": "67",
+            "name": "x v y",
+            "team": "Le Crapaud"
+          },
+          {
+            "acs": "1.01\n0.93\n1.47",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n8\n7\n1\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "132\n128\n155",
+            "hs%": "71%\n67%\n100%",
+            "kdr": "6\n2\n4",
+            "kills": "232",
+            "name": "RIZKYMD",
+            "team": "Le Crapaud"
+          }
+        ],
+        [
+          {
+            "acs": "0.90\n0.02\n1.07",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "10\n0\n10",
+            "fk": "111\n13\n127",
+            "hs%": "50%\n0%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "217",
+            "name": "GanduL",
+            "team": "PWYH"
+          },
+          {
+            "acs": "0.87\n0.71\n0.89",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "153\n143\n155",
+            "hs%": "79%\n50%\n83%",
+            "kdr": "5\n0\n5",
+            "kills": "199",
+            "name": "XaoLung",
+            "team": "PWYH"
+          },
+          {
+            "acs": "0.68\n0.01\n0.85",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "10\n0\n10",
+            "fk": "119\n45\n131",
+            "hs%": "64%\n0%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "224",
+            "name": "FzLvnd",
+            "team": "PWYH"
+          },
+          {
+            "acs": "0.54\n0.43\n0.56",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "121\n149\n116",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "158",
+            "name": "BlueCuracao",
+            "team": "PWYH"
+          },
+          {
+            "acs": "0.24\n0.02\n0.29",
+            "adr": "-11\n-2\n-9",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "3\n0\n3",
+            "fk": "68\n42\n73",
+            "hs%": "43%\n0%\n50%",
+            "kdr": "4\n0\n4",
+            "kills": "98",
+            "name": "Congasser",
+            "team": "PWYH"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 165905,
+  "teams": [
+    "Le Crapaud",
+    "PWYH"
+  ],
+  "tournament": "Qualifier 2: \n\t\t\t\t\t\tElimination (A)"
+}

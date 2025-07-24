@@ -1,0 +1,806 @@
+{
+  "date": "2022-11-25 11:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "231",
+          "name": "kasper",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "164",
+          "name": "fr1",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "148",
+          "name": "KHaaLiD",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "175",
+          "name": "ExiT",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "119",
+          "name": "Kuro",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "294",
+          "name": "Minisk1N",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "208",
+          "name": "rezy",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "228",
+          "name": "TTyke",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "145",
+          "name": "DVDOV",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "212",
+          "name": "madcon",
+          "team": "NOBLES"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.20\n1.13\n1.26",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "128\n130\n127",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "8\n2\n6",
+            "kills": "231",
+            "name": "kasper",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "0.84\n0.26\n1.28",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "102\n52\n139",
+            "hs%": "52%\n33%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "164",
+            "name": "fr1",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "0.77\n0.62\n0.89",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "99\n88\n107",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "148",
+            "name": "KHaaLiD",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "0.70\n0.15\n1.12",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "118\n55\n165",
+            "hs%": "43%\n44%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "175",
+            "name": "ExiT",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "0.65\n0.28\n0.92",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "86\n47\n114",
+            "hs%": "57%\n56%\n58%",
+            "kdr": "6\n1\n5",
+            "kills": "119",
+            "name": "Kuro",
+            "team": "Triple Esports Club"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n1.47\n1.43",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "183\n191\n173",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "8\n5\n3",
+            "kills": "294",
+            "name": "Minisk1N",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "1.17\n0.76\n1.70",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "150\n99\n218",
+            "hs%": "76%\n58%\n100%",
+            "kdr": "1\n0\n1",
+            "kills": "208",
+            "name": "rezy",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "1.16\n1.05\n1.29",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "141\n156\n120",
+            "hs%": "71%\n58%\n89%",
+            "kdr": "3\n2\n1",
+            "kills": "228",
+            "name": "TTyke",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.95\n0.50\n1.55",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "92\n69\n124",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "2\n1\n1",
+            "kills": "145",
+            "name": "DVDOV",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.92\n0.78\n1.11",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "145\n142\n150",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "15\n8\n7",
+            "kills": "212",
+            "name": "madcon",
+            "team": "NOBLES"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "kasper",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "fr1",
+          "team": null
+        },
+        {
+          "kills": "114",
+          "name": "ExiT",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "KHaaLiD",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Kuro",
+          "team": null
+        },
+        {
+          "kills": "303",
+          "name": "Minisk1N",
+          "team": null
+        },
+        {
+          "kills": "246",
+          "name": "DVDOV",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "rezy",
+          "team": null
+        },
+        {
+          "kills": "214",
+          "name": "TTyke",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Izuki",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "madcon",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.34\n0.88\n1.10",
+            "adr": "+4\n+10\n-6",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "49\n32\n17",
+            "fk": "126\n147\n105",
+            "hs%": "68%\n69%\n68%",
+            "kdr": "18\n8\n10",
+            "kills": "245",
+            "name": "kasper",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.98\n1.02",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n50\n25\n25\n\n/",
+            "deaths": "49\n26\n23",
+            "fk": "126\n143\n110",
+            "hs%": "62%\n56%\n68%",
+            "kdr": "3\n2\n1",
+            "kills": "223",
+            "name": "fr1",
+            "team": null
+          },
+          {
+            "acs": "0.41\n1.33\n0.89",
+            "adr": "-4\n-16\n+12",
+            "agent": "",
+            "assists": "/\n\n52\n28\n24\n\n/",
+            "deaths": "48\n12\n36",
+            "fk": "128\n78\n176",
+            "hs%": "59%\n50%\n68%",
+            "kdr": "9\n5\n4",
+            "kills": "114",
+            "name": "ExiT",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.03\n0.87",
+            "adr": "-10\n-10\n0",
+            "agent": "",
+            "assists": "/\n\n50\n27\n23\n\n/",
+            "deaths": "40\n17\n23",
+            "fk": "128\n106\n148",
+            "hs%": "68%\n63%\n74%",
+            "kdr": "23\n8\n15",
+            "kills": "153",
+            "name": "KHaaLiD",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.77\n0.75",
+            "adr": "-19\n-10\n-9",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "32\n16\n16",
+            "fk": "105\n110\n101",
+            "hs%": "67%\n66%\n68%",
+            "kdr": "32\n17\n15",
+            "kills": "163",
+            "name": "Kuro",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.47\n1.43\n1.46",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "183\n191\n173",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "8\n5\n3",
+            "kills": "303",
+            "name": "Minisk1N",
+            "team": null
+          },
+          {
+            "acs": "1.36\n1.13\n1.25",
+            "adr": "+16\n+11\n+5",
+            "agent": "",
+            "assists": "/\n\n37\n20\n17\n\n/",
+            "deaths": "53\n31\n22",
+            "fk": "140\n150\n128",
+            "hs%": "85%\n85%\n84%",
+            "kdr": "13\n7\n6",
+            "kills": "246",
+            "name": "DVDOV",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.25\n1.01",
+            "adr": "+2\n-7\n+9",
+            "agent": "",
+            "assists": "/\n\n42\n24\n18\n\n/",
+            "deaths": "44\n17\n27",
+            "fk": "131\n99\n166",
+            "hs%": "76%\n65%\n88%",
+            "kdr": "20\n11\n9",
+            "kills": "139",
+            "name": "rezy",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.14\n0.98",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n48\n27\n21\n\n/",
+            "deaths": "53\n25\n28",
+            "fk": "149\n136\n163",
+            "hs%": "67%\n53%\n81%",
+            "kdr": "13\n7\n6",
+            "kills": "214",
+            "name": "TTyke",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.86\n0.94",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "30\n14\n16",
+            "fk": "127\n106\n147",
+            "hs%": "69%\n64%\n74%",
+            "kdr": "9\n5\n4",
+            "kills": "171",
+            "name": "Izuki",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.00\n0.93",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "46\n21\n25",
+            "fk": "134\n131\n138",
+            "hs%": "70%\n62%\n78%",
+            "kdr": "25\n13\n12",
+            "kills": "198",
+            "name": "madcon",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "143",
+          "name": "kasper",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "421",
+          "name": "ExiT",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "195",
+          "name": "fr1",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "254",
+          "name": "KHaaLiD",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "114",
+          "name": "Kuro",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "234",
+          "name": "DVDOV",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "197",
+          "name": "Izuki",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "300",
+          "name": "TTyke",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "196",
+          "name": "rezy",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "144",
+          "name": "madcon",
+          "team": "NOBLES"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.44\n2.14\n0.81",
+            "adr": "+10\n+11\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "22\n16\n6",
+            "fk": "145\n189\n104",
+            "hs%": "78%\n91%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "143",
+            "name": "kasper",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "1.36\n0.88\n1.79",
+            "adr": "+8\n-3\n+11",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "24\n6\n18",
+            "fk": "186\n128\n238",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "6\n5\n1",
+            "kills": "421",
+            "name": "ExiT",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "1.19\n1.51\n0.89",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "151\n191\n114",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "195",
+            "name": "fr1",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "1.03\n0.86\n1.20",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "152\n111\n189",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "10\n4\n6",
+            "kills": "254",
+            "name": "KHaaLiD",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "0.48\n0.47\n0.49",
+            "adr": "-13\n-7\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "87\n99\n76",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "17\n12\n5",
+            "kills": "114",
+            "name": "Kuro",
+            "team": "Triple Esports Club"
+          }
+        ],
+        [
+          {
+            "acs": "1.47\n2.04\n0.85",
+            "adr": "+9\n+10\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "24\n16\n8",
+            "fk": "185\n212\n156",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "5\n2\n3",
+            "kills": "234",
+            "name": "DVDOV",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "1.00\n1.11\n0.89",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "134\n127\n143",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "3\n1\n2",
+            "kills": "197",
+            "name": "Izuki",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.90\n0.51\n1.33",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "145\n99\n195",
+            "hs%": "61%\n42%\n82%",
+            "kdr": "6\n3\n3",
+            "kills": "300",
+            "name": "TTyke",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.68\n0.51\n0.87",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "101\n81\n123",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "5\n4\n1",
+            "kills": "196",
+            "name": "rezy",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.53\n0.57\n0.49",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "74\n53\n97",
+            "hs%": "52%\n50%\n55%",
+            "kdr": "7\n2\n5",
+            "kills": "144",
+            "name": "madcon",
+            "team": "NOBLES"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "229",
+          "name": "Kuro",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "210",
+          "name": "fr1",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "191",
+          "name": "KHaaLiD",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "152",
+          "name": "kasper",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "136",
+          "name": "ExiT",
+          "team": "Triple Esports Club"
+        },
+        {
+          "kills": "298",
+          "name": "madcon",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "209",
+          "name": "DVDOV",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "211",
+          "name": "rezy",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "227",
+          "name": "TTyke",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "171",
+          "name": "Izuki",
+          "team": "NOBLES"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.14\n1.30\n0.94",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "144\n167\n117",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "9\n4\n5",
+            "kills": "229",
+            "name": "Kuro",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "1.02\n1.25\n0.74",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "124\n167\n72",
+            "hs%": "55%\n50%\n60%",
+            "kdr": "0\n0\n0",
+            "kills": "210",
+            "name": "fr1",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "0.81\n0.65\n0.99",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "129\n115\n147",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "7\n2\n5",
+            "kills": "191",
+            "name": "KHaaLiD",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "0.66\n0.77\n0.52",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "103\n121\n82",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "5\n4\n1",
+            "kills": "152",
+            "name": "kasper",
+            "team": "Triple Esports Club"
+          },
+          {
+            "acs": "0.57\n0.18\n1.03",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "78\n48\n114",
+            "hs%": "50%\n25%\n80%",
+            "kdr": "3\n0\n3",
+            "kills": "136",
+            "name": "ExiT",
+            "team": "Triple Esports Club"
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.34\n1.39",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "188\n212\n167",
+            "hs%": "82%\n70%\n92%",
+            "kdr": "3\n3\n0",
+            "kills": "298",
+            "name": "madcon",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "1.30\n1.56\n1.09",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "137\n173\n107",
+            "hs%": "91%\n100%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "209",
+            "name": "DVDOV",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "1.21\n1.14\n1.27",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "145\n122\n165",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "14\n7\n7",
+            "kills": "211",
+            "name": "rezy",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.90\n0.99\n0.84",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "161\n154\n167",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "227",
+            "name": "TTyke",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.87\n0.92\n0.84",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "119\n81\n150",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "171",
+            "name": "Izuki",
+            "team": "NOBLES"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 159187,
+  "teams": [
+    "NOBLES",
+    "Triple Esports Club"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tLower Final"
+}

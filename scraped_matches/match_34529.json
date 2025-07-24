@@ -1,0 +1,788 @@
+{
+  "date": "2021-08-24 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "273",
+          "name": "Dutch",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "285",
+          "name": "fr1",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "267",
+          "name": "aimhunterr",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "151",
+          "name": "INFESTOR",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "163",
+          "name": "kasper",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "259",
+          "name": "Moh",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "118",
+          "name": "Dazlly",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "203",
+          "name": "Fr4nky",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "213",
+          "name": "kugio",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "113",
+          "name": "iFly",
+          "team": "Piercer Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.57\n2.18\n1.22",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "166\n142\n181",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "8\n5\n3",
+            "kills": "273",
+            "name": "Dutch",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "1.55\n1.97\n1.31",
+            "adr": "+12\n+9\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "162\n199\n141",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "285",
+            "name": "fr1",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "1.10\n0.66\n1.35",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "159\n122\n181",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "267",
+            "name": "aimhunterr",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.94\n0.07\n1.44",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "11\n0\n11",
+            "fk": "91\n0\n145",
+            "hs%": "74%\n43%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "151",
+            "name": "INFESTOR",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.60\n1.02\n0.36",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "116\n149\n97",
+            "hs%": "63%\n86%\n50%",
+            "kdr": "6\n2\n4",
+            "kills": "163",
+            "name": "kasper",
+            "team": "Team Duelist"
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n1.08\n1.16",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "174\n191\n145",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "5\n3\n2",
+            "kills": "259",
+            "name": "Moh",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "0.79\n1.03\n0.38",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "82\n104\n44",
+            "hs%": "68%\n83%\n43%",
+            "kdr": "6\n5\n1",
+            "kills": "118",
+            "name": "Dazlly",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "0.79\n0.96\n0.49",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "135\n157\n97",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "2\n1\n1",
+            "kills": "203",
+            "name": "Fr4nky",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "0.77\n0.49\n1.25",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "112\n92\n147",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "1\n1\n0",
+            "kills": "213",
+            "name": "kugio",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "0.54\n0.72\n0.24",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "75\n90\n51",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "3\n2\n1",
+            "kills": "113",
+            "name": "iFly",
+            "team": "Piercer Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "204",
+          "name": "Dutch",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "aimhunterr",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "fr1",
+          "team": null
+        },
+        {
+          "kills": "112",
+          "name": "INFESTOR",
+          "team": null
+        },
+        {
+          "kills": "119",
+          "name": "kasper",
+          "team": null
+        },
+        {
+          "kills": "304",
+          "name": "Moh",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "Dazlly",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "kugio",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "Fr4nky",
+          "team": null
+        },
+        {
+          "kills": "135",
+          "name": "iFly",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.33\n1.76\n1.54",
+            "adr": "+20\n0\n+20",
+            "agent": "",
+            "assists": "/\n\n39\n21\n18\n\n/",
+            "deaths": "59\n21\n38",
+            "fk": "170\n130\n212",
+            "hs%": "77%\n65%\n90%",
+            "kdr": "18\n12\n6",
+            "kills": "204",
+            "name": "Dutch",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.08\n0.93",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "50\n22\n28",
+            "fk": "147\n126\n169",
+            "hs%": "67%\n61%\n73%",
+            "kdr": "13\n6\n7",
+            "kills": "211",
+            "name": "aimhunterr",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.88\n0.89",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n50\n25\n25\n\n/",
+            "deaths": "50\n27\n23",
+            "fk": "142\n148\n137",
+            "hs%": "64%\n61%\n67%",
+            "kdr": "8\n2\n6",
+            "kills": "233",
+            "name": "fr1",
+            "team": null
+          },
+          {
+            "acs": "0.55\n0.99\n0.76",
+            "adr": "-13\n-14\n+1",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "31\n11\n20",
+            "fk": "93\n84\n103",
+            "hs%": "66%\n48%\n83%",
+            "kdr": "13\n4\n9",
+            "kills": "112",
+            "name": "INFESTOR",
+            "team": null
+          },
+          {
+            "acs": "0.52\n0.51\n0.52",
+            "adr": "-23\n-12\n-11",
+            "agent": "",
+            "assists": "/\n\n49\n26\n23\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "84\n70\n98",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "17\n5\n12",
+            "kills": "119",
+            "name": "kasper",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.26\n1.31",
+            "adr": "+14\n+6\n+8",
+            "agent": "",
+            "assists": "/\n\n45\n25\n20\n\n/",
+            "deaths": "59\n31\n28",
+            "fk": "187\n203\n171",
+            "hs%": "72%\n80%\n65%",
+            "kdr": "17\n11\n6",
+            "kills": "304",
+            "name": "Moh",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.11\n1.03",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n38\n21\n17\n\n/",
+            "deaths": "41\n19\n22",
+            "fk": "116\n94\n137",
+            "hs%": "84%\n87%\n81%",
+            "kdr": "20\n13\n7",
+            "kills": "168",
+            "name": "Dazlly",
+            "team": null
+          },
+          {
+            "acs": "0.73\n1.28\n1.01",
+            "adr": "+8\n-5\n+13",
+            "agent": "",
+            "assists": "/\n\n45\n28\n17\n\n/",
+            "deaths": "53\n23\n30",
+            "fk": "125\n104\n146",
+            "hs%": "70%\n60%\n81%",
+            "kdr": "6\n3\n3",
+            "kills": "203",
+            "name": "kugio",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.03\n0.98",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n45\n25\n20\n\n/",
+            "deaths": "43\n23\n20",
+            "fk": "140\n136\n144",
+            "hs%": "77%\n70%\n84%",
+            "kdr": "24\n6\n18",
+            "kills": "227",
+            "name": "Fr4nky",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.02\n0.89",
+            "adr": "-6\n-11\n+5",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "37\n12\n25",
+            "fk": "111\n94\n128",
+            "hs%": "74%\n67%\n81%",
+            "kdr": "20\n14\n6",
+            "kills": "135",
+            "name": "iFly",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "377",
+          "name": "Dutch",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "294",
+          "name": "fr1",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "112",
+          "name": "INFESTOR",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "122",
+          "name": "kasper",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "175",
+          "name": "aimhunterr",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "281",
+          "name": "Moh",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "267",
+          "name": "iFly",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "162",
+          "name": "kugio",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "239",
+          "name": "Dazlly",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "234",
+          "name": "Fr4nky",
+          "team": "Piercer Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.51\n1.11\n2.03",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "152\n103\n218",
+            "hs%": "67%\n50%\n89%",
+            "kdr": "6\n3\n3",
+            "kills": "377",
+            "name": "Dutch",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.73\n0.50\n1.05",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "135\n116\n161",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "5\n1\n4",
+            "kills": "294",
+            "name": "fr1",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.61\n0.64\n0.57",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "86\n98\n69",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "4\n1\n3",
+            "kills": "112",
+            "name": "INFESTOR",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.53\n0.37\n0.75",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "66\n46\n93",
+            "hs%": "52%\n42%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "122",
+            "name": "kasper",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.50\n0.59\n0.37",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "100\n103\n95",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "3\n1\n2",
+            "kills": "175",
+            "name": "aimhunterr",
+            "team": "Team Duelist"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.71\n1.26",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "200\n211\n192",
+            "hs%": "81%\n100%\n67%",
+            "kdr": "7\n5\n2",
+            "kills": "281",
+            "name": "Moh",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "1.23\n0.59\n1.71",
+            "adr": "+4\n-6\n+10",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "138\n96\n170",
+            "hs%": "90%\n89%\n92%",
+            "kdr": "11\n9\n2",
+            "kills": "267",
+            "name": "iFly",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "1.23\n1.28\n1.19",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "146\n162\n134",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "162",
+            "name": "kugio",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "1.11\n0.79\n1.34",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "118\n86\n143",
+            "hs%": "90%\n89%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "239",
+            "name": "Dazlly",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "0.93\n0.79\n1.04",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "134\n94\n165",
+            "hs%": "86%\n67%\n100%",
+            "kdr": "10\n1\n9",
+            "kills": "234",
+            "name": "Fr4nky",
+            "team": "Piercer Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "268",
+          "name": "Dutch",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "293",
+          "name": "aimhunterr",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "165",
+          "name": "INFESTOR",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "197",
+          "name": "fr1",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "111",
+          "name": "kasper",
+          "team": "Team Duelist"
+        },
+        {
+          "kills": "291",
+          "name": "Moh",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "226",
+          "name": "Fr4nky",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "231",
+          "name": "Dazlly",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "233",
+          "name": "kugio",
+          "team": "Piercer Esports"
+        },
+        {
+          "kills": "177",
+          "name": "iFly",
+          "team": "Piercer Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.55\n1.05\n2.21",
+            "adr": "+7\n-3\n+10",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "191\n150\n246",
+            "hs%": "81%\n67%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "268",
+            "name": "Dutch",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "1.22\n1.06\n1.44",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "183\n150\n228",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "293",
+            "name": "aimhunterr",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.76\n0.73\n0.80",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "102\n118\n80",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "6\n3\n3",
+            "kills": "165",
+            "name": "INFESTOR",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.45\n0.70\n0.13",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "132\n150\n107",
+            "hs%": "52%\n58%\n44%",
+            "kdr": "1\n1\n0",
+            "kills": "197",
+            "name": "fr1",
+            "team": "Team Duelist"
+          },
+          {
+            "acs": "0.42\n0.39\n0.47",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "73\n49\n105",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "111",
+            "name": "kasper",
+            "team": "Team Duelist"
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.42\n1.33",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "185\n211\n165",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "291",
+            "name": "Moh",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "1.19\n0.99\n1.35",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "151\n151\n151",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "12\n4\n8",
+            "kills": "226",
+            "name": "Fr4nky",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "1.17\n1.02\n1.29",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "144\n89\n185",
+            "hs%": "90%\n89%\n92%",
+            "kdr": "12\n7\n5",
+            "kills": "231",
+            "name": "Dazlly",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "1.02\n0.51\n1.40",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "117\n62\n158",
+            "hs%": "71%\n56%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "233",
+            "name": "kugio",
+            "team": "Piercer Esports"
+          },
+          {
+            "acs": "0.87\n0.98\n0.79",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "117\n100\n130",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "177",
+            "name": "iFly",
+            "team": "Piercer Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 34529,
+  "teams": [
+    "Piercer Esports",
+    "Team Duelist"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tSemifinals"
+}

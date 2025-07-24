@@ -1,0 +1,594 @@
+{
+  "date": "2021-06-28 13:00:02",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "128",
+          "name": "McDonnell",
+          "team": "ENTS"
+        },
+        {
+          "kills": "113",
+          "name": "Mithrandir",
+          "team": "ENTS"
+        },
+        {
+          "kills": "101",
+          "name": "quiquerot",
+          "team": "ENTS"
+        },
+        {
+          "kills": "76",
+          "name": "Fangorn",
+          "team": "ENTS"
+        },
+        {
+          "kills": "48",
+          "name": "F\u00e9nixX",
+          "team": "ENTS"
+        },
+        {
+          "kills": "476",
+          "name": "SyD",
+          "team": "ooliganz"
+        },
+        {
+          "kills": "213",
+          "name": "howellsey",
+          "team": "ooliganz"
+        },
+        {
+          "kills": "235",
+          "name": "Piniu",
+          "team": "ooliganz"
+        },
+        {
+          "kills": "195",
+          "name": "Jaf",
+          "team": "ooliganz"
+        },
+        {
+          "kills": "187",
+          "name": "AeykO",
+          "team": "ooliganz"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "0.58\n0.56\n0.82",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "66\n72",
+            "hs%": "46%\n42%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "128",
+            "name": "McDonnell",
+            "team": "ENTS"
+          },
+          {
+            "acs": "0.40\n0.43\n0.02",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "69\n75",
+            "hs%": "38%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "113",
+            "name": "Mithrandir",
+            "team": "ENTS"
+          },
+          {
+            "acs": "0.22\n0.29\n0.01",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "71\n77",
+            "hs%": "31%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "101",
+            "name": "quiquerot",
+            "team": "ENTS"
+          },
+          {
+            "acs": "0.08\n0.11\n0.01",
+            "adr": "-12\n-11\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n13\n1\n\n/",
+            "deaths": "2\n2\n0",
+            "fk": "45\n48",
+            "hs%": "38%\n33%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "76",
+            "name": "Fangorn",
+            "team": "ENTS"
+          },
+          {
+            "acs": "0.05\n0.03\n0.60",
+            "adr": "-11\n-11\n0",
+            "agent": "",
+            "assists": "/\n\n13\n12\n1\n\n/",
+            "deaths": "2\n1\n1",
+            "fk": "17\n19",
+            "hs%": "38%\n33%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "48",
+            "name": "F\u00e9nixX",
+            "team": "ENTS"
+          }
+        ],
+        [
+          {
+            "acs": "2.23\n0.82\n2.34",
+            "adr": "+19\n0\n+19",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "24\n1\n23",
+            "fk": "283\n0\n307",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "476",
+            "name": "SyD",
+            "team": "ooliganz"
+          },
+          {
+            "acs": "1.83\n2.58\n1.77",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n0\n0\n0\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "125\n0\n135",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "213",
+            "name": "howellsey",
+            "team": "ooliganz"
+          },
+          {
+            "acs": "1.48\n3.06\n1.35",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n6\n0\n6\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "129\n0\n140",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "10\n1\n9",
+            "kills": "235",
+            "name": "Piniu",
+            "team": "ooliganz"
+          },
+          {
+            "acs": "1.36\n0.01\n1.50",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "124\n0\n135",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "4\n1\n3",
+            "kills": "195",
+            "name": "Jaf",
+            "team": "ooliganz"
+          },
+          {
+            "acs": "1.34\n0.86\n1.38",
+            "adr": "+7\n\u00a0\n+7",
+            "agent": "",
+            "assists": "/\n\n3\n0\n3\n\n/",
+            "deaths": "10\n0\n10",
+            "fk": "104\n0\n113",
+            "hs%": "92%\n100%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "187",
+            "name": "AeykO",
+            "team": "ooliganz"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "29",
+          "name": "F\u00e9nixX",
+          "team": null
+        },
+        {
+          "kills": "136",
+          "name": "McDonnell",
+          "team": null
+        },
+        {
+          "kills": "127",
+          "name": "Mithrandir",
+          "team": null
+        },
+        {
+          "kills": "105",
+          "name": "quiquerot",
+          "team": null
+        },
+        {
+          "kills": "69",
+          "name": "Fangorn",
+          "team": null
+        },
+        {
+          "kills": "300",
+          "name": "howellsey",
+          "team": null
+        },
+        {
+          "kills": "271",
+          "name": "SyD",
+          "team": null
+        },
+        {
+          "kills": "240",
+          "name": "Piniu",
+          "team": null
+        },
+        {
+          "kills": "297",
+          "name": "AeykO",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "Jaf",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.03\n0.93\n0.45",
+            "adr": "-15\n-12\n-3",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "54\n17\n91",
+            "hs%": "42%\n31%\n54%",
+            "kdr": "2\n2\n0",
+            "kills": "29",
+            "name": "F\u00e9nixX",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.13\n0.36",
+            "adr": "-17\n-7\n-10",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "50\n66\n34",
+            "hs%": "35%\n46%\n23%",
+            "kdr": "1\n1\n0",
+            "kills": "136",
+            "name": "McDonnell",
+            "team": null
+          },
+          {
+            "acs": "0.43\n0.11\n0.27",
+            "adr": "-16\n-7\n-9",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "63\n69\n58",
+            "hs%": "38%\n46%\n31%",
+            "kdr": "1\n1\n0",
+            "kills": "127",
+            "name": "Mithrandir",
+            "team": null
+          },
+          {
+            "acs": "0.26\n0.32\n0.26",
+            "adr": "-19\n-10\n-9",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "76\n71\n81",
+            "hs%": "38%\n31%\n46%",
+            "kdr": "3\n2\n1",
+            "kills": "105",
+            "name": "quiquerot",
+            "team": null
+          },
+          {
+            "acs": "0.11\n0.04\n0.06",
+            "adr": "-24\n-12\n-12",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "3\n2\n1",
+            "fk": "43\n45\n41",
+            "hs%": "31%\n31%\n31%",
+            "kdr": "4\n1\n3",
+            "kills": "69",
+            "name": "Fangorn",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "2.23\n1.70\n1.96",
+            "adr": "+26\n+17\n+9",
+            "agent": "",
+            "assists": "/\n\n0\n0\n0\n\n/",
+            "deaths": "26\n17\n9",
+            "fk": "152\n179\n125",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "300",
+            "name": "howellsey",
+            "team": null
+          },
+          {
+            "acs": "1.43\n2.17\n1.80",
+            "adr": "+24\n+6\n+18",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "36\n13\n23",
+            "fk": "217\n151\n283",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "12\n7\n5",
+            "kills": "271",
+            "name": "SyD",
+            "team": null
+          },
+          {
+            "acs": "1.66\n1.43\n1.55",
+            "adr": "+16\n+10\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "135\n141\n129",
+            "hs%": "96%\n92%\n100%",
+            "kdr": "14\n5\n9",
+            "kills": "240",
+            "name": "Piniu",
+            "team": null
+          },
+          {
+            "acs": "1.45\n1.43\n1.44",
+            "adr": "+15\n+7\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "149\n194\n104",
+            "hs%": "92%\n92%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "297",
+            "name": "AeykO",
+            "team": null
+          },
+          {
+            "acs": "1.19\n1.50\n1.33",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n6\n3\n3\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "98\n72\n124",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "8\n5\n3",
+            "kills": "124",
+            "name": "Jaf",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "162",
+          "name": "F\u00e9nixX",
+          "team": "ENTS"
+        },
+        {
+          "kills": "131",
+          "name": "quiquerot",
+          "team": "ENTS"
+        },
+        {
+          "kills": "62",
+          "name": "McDonnell",
+          "team": "ENTS"
+        },
+        {
+          "kills": "107",
+          "name": "Mithrandir",
+          "team": "ENTS"
+        },
+        {
+          "kills": "53",
+          "name": "Fangorn",
+          "team": "ENTS"
+        },
+        {
+          "kills": "267",
+          "name": "howellsey",
+          "team": "ooliganz"
+        },
+        {
+          "kills": "351",
+          "name": "Piniu",
+          "team": "ooliganz"
+        },
+        {
+          "kills": "528",
+          "name": "AeykO",
+          "team": "ooliganz"
+        },
+        {
+          "kills": "97",
+          "name": "SyD",
+          "team": "ooliganz"
+        },
+        {
+          "kills": "170",
+          "name": "Jaf",
+          "team": "ooliganz"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "0.85\n0.01\n0.96",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n11\n1\n10\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "91\n0\n99",
+            "hs%": "46%\n0%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "162",
+            "name": "F\u00e9nixX",
+            "team": "ENTS"
+          },
+          {
+            "acs": "0.30\n0.01\n0.35",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n13\n1\n12\n\n/",
+            "deaths": "4\n0\n4",
+            "fk": "81\n0\n88",
+            "hs%": "46%\n0%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "131",
+            "name": "quiquerot",
+            "team": "ENTS"
+          },
+          {
+            "acs": "0.14\n0.79\n0.08",
+            "adr": "-10\n0\n-10",
+            "agent": "",
+            "assists": "/\n\n13\n1\n12\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "34\n0\n37",
+            "hs%": "23%\n100%\n17%",
+            "kdr": "0\n0\n0",
+            "kills": "62",
+            "name": "McDonnell",
+            "team": "ENTS"
+          },
+          {
+            "acs": "0.13\n0.34\n0.12",
+            "adr": "-8\n0\n-8",
+            "agent": "",
+            "assists": "/\n\n13\n1\n12\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "58\n0\n63",
+            "hs%": "38%\n100%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "107",
+            "name": "Mithrandir",
+            "team": "ENTS"
+          },
+          {
+            "acs": "0.04\n0.01\n0.04",
+            "adr": "-12\n-1\n-11",
+            "agent": "",
+            "assists": "/\n\n13\n1\n12\n\n/",
+            "deaths": "1\n0\n1",
+            "fk": "41\n0\n44",
+            "hs%": "23%\n0%\n25%",
+            "kdr": "2\n0\n2",
+            "kills": "53",
+            "name": "Fangorn",
+            "team": "ENTS"
+          }
+        ],
+        [
+          {
+            "acs": "2.10\n2.20\n0.86",
+            "adr": "+15\n+15",
+            "agent": "",
+            "assists": "/\n\n0\n0\n0\n\n/",
+            "deaths": "15\n15\n0",
+            "fk": "179\n194",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "267",
+            "name": "howellsey",
+            "team": "ooliganz"
+          },
+          {
+            "acs": "1.61\n1.55\n2.38",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n3\n3\n0\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "141\n153",
+            "hs%": "92%\n92%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "351",
+            "name": "Piniu",
+            "team": "ooliganz"
+          },
+          {
+            "acs": "1.54\n1.50\n2.14",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n7\n1\n\n/",
+            "deaths": "16\n14\n2",
+            "fk": "194\n210",
+            "hs%": "92%\n92%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "528",
+            "name": "AeykO",
+            "team": "ooliganz"
+          },
+          {
+            "acs": "1.37\n1.48\n0.03",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "12\n12\n0",
+            "fk": "151\n163",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "7\n6\n1",
+            "kills": "97",
+            "name": "SyD",
+            "team": "ooliganz"
+          },
+          {
+            "acs": "1.30\n1.29\n1.51",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n2\n2\n0\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "72\n78",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "170",
+            "name": "Jaf",
+            "team": "ooliganz"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 23667,
+  "teams": [
+    "ENTS",
+    "ooliganz"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 256"
+}

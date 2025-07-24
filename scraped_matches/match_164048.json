@@ -1,0 +1,788 @@
+{
+  "date": "2023-02-09 05:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "305",
+          "name": "Tempz",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "247",
+          "name": "Chrysania",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "206",
+          "name": "Egoist",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "195",
+          "name": "nephh",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "185",
+          "name": "Vera",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "213",
+          "name": "Shun",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "219",
+          "name": "DxN",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "218",
+          "name": "Riza",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "166",
+          "name": "Flaring",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "130",
+          "name": "kimmy",
+          "team": "Kizuna Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.19\n1.62",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "183\n163\n194",
+            "hs%": "89%\n86%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "305",
+            "name": "Tempz",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "1.32\n2.06\n0.89",
+            "adr": "+5\n+8\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "170\n198\n154",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "13\n6\n7",
+            "kills": "247",
+            "name": "Chrysania",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "1.11\n0.76\n1.31",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "149\n103\n175",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "206",
+            "name": "Egoist",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "1.09\n1.15\n1.05",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "127\n113\n136",
+            "hs%": "89%\n100%\n83%",
+            "kdr": "13\n7\n6",
+            "kills": "195",
+            "name": "nephh",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "0.96\n0.83\n1.03",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "124\n142\n113",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "185",
+            "name": "Vera",
+            "team": "X10 Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n1.29\n1.14",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "133\n150\n103",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "4\n3\n1",
+            "kills": "213",
+            "name": "Shun",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "1.01\n1.10\n0.84",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "160\n149\n179",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "4\n1\n3",
+            "kills": "219",
+            "name": "DxN",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.97\n0.75\n1.35",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "148\n130\n179",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "9\n6\n3",
+            "kills": "218",
+            "name": "Riza",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.67\n0.79\n0.46",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "105\n95\n122",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "9\n6\n3",
+            "kills": "166",
+            "name": "Flaring",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.28\n0.36\n0.15",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "76\n76\n75",
+            "hs%": "47%\n58%\n29%",
+            "kdr": "0\n0\n0",
+            "kills": "130",
+            "name": "kimmy",
+            "team": "Kizuna Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "202",
+          "name": "Egoist",
+          "team": null
+        },
+        {
+          "kills": "245",
+          "name": "Tempz",
+          "team": null
+        },
+        {
+          "kills": "234",
+          "name": "Chrysania",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "Vera",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "nephh",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "Shun",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "kimmy",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "DxN",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Flaring",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Riza",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.32\n1.34\n1.33",
+            "adr": "+20\n+10\n+10",
+            "agent": "",
+            "assists": "/\n\n33\n17\n16\n\n/",
+            "deaths": "53\n27\n26",
+            "fk": "158\n141\n178",
+            "hs%": "82%\n84%\n79%",
+            "kdr": "13\n7\n6",
+            "kills": "202",
+            "name": "Egoist",
+            "team": null
+          },
+          {
+            "acs": "1.23\n1.09\n1.16",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n41\n22\n19\n\n/",
+            "deaths": "49\n28\n21",
+            "fk": "140\n144\n135",
+            "hs%": "77%\n75%\n79%",
+            "kdr": "23\n13\n10",
+            "kills": "245",
+            "name": "Tempz",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.99\n1.13",
+            "adr": "+6\n+10\n-4",
+            "agent": "",
+            "assists": "/\n\n42\n20\n22\n\n/",
+            "deaths": "48\n30\n18",
+            "fk": "140\n148\n131",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "35\n20\n15",
+            "kills": "234",
+            "name": "Chrysania",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.22\n0.98",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n46\n27\n19\n\n/",
+            "deaths": "49\n25\n24",
+            "fk": "138\n137\n139",
+            "hs%": "66%\n66%\n66%",
+            "kdr": "10\n6\n4",
+            "kills": "222",
+            "name": "Vera",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.08\n0.93",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "41\n21\n20",
+            "fk": "126\n120\n133",
+            "hs%": "79%\n81%\n76%",
+            "kdr": "33\n16\n17",
+            "kills": "191",
+            "name": "nephh",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n1.09\n1.14",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n42\n19\n23\n\n/",
+            "deaths": "49\n24\n25",
+            "fk": "127\n131\n123",
+            "hs%": "79%\n90%\n69%",
+            "kdr": "17\n9\n8",
+            "kills": "205",
+            "name": "Shun",
+            "team": null
+          },
+          {
+            "acs": "0.70\n1.19\n0.94",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n54\n27\n27\n\n/",
+            "deaths": "53\n21\n32",
+            "fk": "152\n117\n184",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "8\n3\n5",
+            "kills": "209",
+            "name": "kimmy",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.67\n0.82",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "37\n21\n16",
+            "fk": "131\n150\n113",
+            "hs%": "67%\n66%\n69%",
+            "kdr": "13\n5\n8",
+            "kills": "209",
+            "name": "DxN",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.86\n0.78",
+            "adr": "-12\n-10\n-2",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "39\n16\n23",
+            "fk": "115\n95\n133",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "23\n11\n12",
+            "kills": "163",
+            "name": "Flaring",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.69\n0.71",
+            "adr": "-17\n-6\n-11",
+            "agent": "",
+            "assists": "/\n\n48\n22\n26\n\n/",
+            "deaths": "31\n16\n15",
+            "fk": "99\n109\n90",
+            "hs%": "75%\n79%\n72%",
+            "kdr": "24\n9\n15",
+            "kills": "167",
+            "name": "Riza",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "284",
+          "name": "Egoist",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "307",
+          "name": "Vera",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "165",
+          "name": "Chrysania",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "191",
+          "name": "nephh",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "110",
+          "name": "Tempz",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "350",
+          "name": "kimmy",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "266",
+          "name": "Flaring",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "148",
+          "name": "Shun",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "147",
+          "name": "DxN",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "107",
+          "name": "Riza",
+          "team": "Kizuna Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.12\n1.18\n1.07",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "153\n137\n170",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "8\n5\n3",
+            "kills": "284",
+            "name": "Egoist",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "0.99\n0.57\n1.42",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "144\n118\n169",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "3\n2\n1",
+            "kills": "307",
+            "name": "Vera",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "0.93\n0.99\n0.87",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "122\n133\n111",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "14\n8\n6",
+            "kills": "165",
+            "name": "Chrysania",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "0.90\n1.02\n0.79",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "134\n134\n133",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "4\n2\n2",
+            "kills": "191",
+            "name": "nephh",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "0.77\n1.08\n0.45",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "98\n123\n72",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "15\n9\n6",
+            "kills": "110",
+            "name": "Tempz",
+            "team": "X10 Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n1.22\n1.66",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "32\n15\n17",
+            "fk": "198\n188\n208",
+            "hs%": "85%\n85%\n85%",
+            "kdr": "4\n2\n2",
+            "kills": "350",
+            "name": "kimmy",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "1.04\n0.84\n1.25",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "138\n112\n164",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "10\n5\n5",
+            "kills": "266",
+            "name": "Flaring",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "1.01\n1.22\n0.80",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "105\n115\n95",
+            "hs%": "81%\n100%\n62%",
+            "kdr": "11\n6\n5",
+            "kills": "148",
+            "name": "Shun",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.88\n1.10\n0.66",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "132\n162\n103",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "5\n2\n3",
+            "kills": "147",
+            "name": "DxN",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.62\n0.74\n0.50",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "79\n88\n69",
+            "hs%": "69%\n85%\n54%",
+            "kdr": "3\n2\n1",
+            "kills": "107",
+            "name": "Riza",
+            "team": "Kizuna Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "266",
+          "name": "Egoist",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "262",
+          "name": "Tempz",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "197",
+          "name": "Chrysania",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "265",
+          "name": "Vera",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "182",
+          "name": "nephh",
+          "team": "X10 Esports"
+        },
+        {
+          "kills": "259",
+          "name": "Shun",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "242",
+          "name": "kimmy",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "118",
+          "name": "Riza",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "147",
+          "name": "DxN",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "149",
+          "name": "Flaring",
+          "team": "Kizuna Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.93\n1.80\n2.31",
+            "adr": "+14\n+9\n+5",
+            "agent": "",
+            "assists": "/\n\n5\n4\n1\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "178\n166\n213",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "266",
+            "name": "Egoist",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "1.46\n1.42\n1.57",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "157\n156\n161",
+            "hs%": "75%\n67%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "262",
+            "name": "Tempz",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "1.22\n1.07\n1.69",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "133\n136\n127",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "8\n6\n2",
+            "kills": "197",
+            "name": "Chrysania",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "0.98\n0.92\n1.15",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "144\n154\n115",
+            "hs%": "56%\n50%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "265",
+            "name": "Vera",
+            "team": "X10 Esports"
+          },
+          {
+            "acs": "0.77\n0.32\n2.10",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n11\n1\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "113\n109\n125",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "16\n7\n9",
+            "kills": "182",
+            "name": "nephh",
+            "team": "X10 Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n0.80\n1.39",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "157\n126\n167",
+            "hs%": "75%\n100%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "259",
+            "name": "Shun",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.93\n0.02\n1.29",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "12\n0\n12",
+            "fk": "169\n14\n221",
+            "hs%": "69%\n50%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "242",
+            "name": "kimmy",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.55\n0.66\n0.51",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "74\n111\n61",
+            "hs%": "81%\n75%\n83%",
+            "kdr": "12\n1\n11",
+            "kills": "118",
+            "name": "Riza",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.51\n0.35\n0.57",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "95\n118\n87",
+            "hs%": "63%\n50%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "147",
+            "name": "DxN",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.50\n0.03\n0.68",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "89\n39\n106",
+            "hs%": "63%\n50%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "149",
+            "name": "Flaring",
+            "team": "Kizuna Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 164048,
+  "teams": [
+    "X10 Esports",
+    "Kizuna Esports"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tDay 6"
+}

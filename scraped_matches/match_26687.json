@@ -1,0 +1,788 @@
+{
+  "date": "2021-07-13 17:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "235",
+          "name": "eeiu",
+          "team": "NRG"
+        },
+        {
+          "kills": "268",
+          "name": "tex",
+          "team": "NRG"
+        },
+        {
+          "kills": "202",
+          "name": "ANDROID",
+          "team": "NRG"
+        },
+        {
+          "kills": "135",
+          "name": "wedid",
+          "team": "NRG"
+        },
+        {
+          "kills": "80",
+          "name": "s0m",
+          "team": "NRG"
+        },
+        {
+          "kills": "321",
+          "name": "Dcop",
+          "team": "ez5"
+        },
+        {
+          "kills": "227",
+          "name": "gucc107",
+          "team": "ez5"
+        },
+        {
+          "kills": "180",
+          "name": "Paincakes",
+          "team": "ez5"
+        },
+        {
+          "kills": "168",
+          "name": "Kanpeki",
+          "team": "ez5"
+        },
+        {
+          "kills": "150",
+          "name": "C0M",
+          "team": "ez5"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.07\n0.70\n1.45",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "143\n87\n199",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "235",
+            "name": "eeiu",
+            "team": "NRG"
+          },
+          {
+            "acs": "1.06\n1.05\n1.07",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "168\n162\n174",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "268",
+            "name": "tex",
+            "team": "NRG"
+          },
+          {
+            "acs": "1.03\n0.46\n1.61",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "137\n64\n210",
+            "hs%": "63%\n42%\n83%",
+            "kdr": "11\n3\n8",
+            "kills": "202",
+            "name": "ANDROID",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.91\n0.63\n1.20",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "95\n77\n113",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "8\n6\n2",
+            "kills": "135",
+            "name": "wedid",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.44\n0.06\n0.82",
+            "adr": "-10\n-10\n0",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "61\n30\n93",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "80",
+            "name": "s0m",
+            "team": "NRG"
+          }
+        ],
+        [
+          {
+            "acs": "1.55\n1.03\n2.08",
+            "adr": "+9\n-1\n+10",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "180\n129\n231",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "15\n4\n11",
+            "kills": "321",
+            "name": "Dcop",
+            "team": "ez5"
+          },
+          {
+            "acs": "1.25\n0.94\n1.55",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "130\n117\n144",
+            "hs%": "79%\n58%\n100%",
+            "kdr": "13\n3\n10",
+            "kills": "227",
+            "name": "gucc107",
+            "team": "ez5"
+          },
+          {
+            "acs": "1.01\n0.71\n1.31",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "118\n96\n140",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "180",
+            "name": "Paincakes",
+            "team": "ez5"
+          },
+          {
+            "acs": "0.90\n0.76\n1.04",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "106\n120\n93",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "168",
+            "name": "Kanpeki",
+            "team": "ez5"
+          },
+          {
+            "acs": "0.79\n0.50\n1.07",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "103\n112\n94",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "150",
+            "name": "C0M",
+            "team": "ez5"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "204",
+          "name": "eeiu",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "wedid",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "tex",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "ANDROID",
+          "team": null
+        },
+        {
+          "kills": "91",
+          "name": "s0m",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "Paincakes",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "Dcop",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "gucc107",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "Kanpeki",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "C0M",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.98\n1.37\n1.15",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n47\n28\n19\n\n/",
+            "deaths": "55\n27\n28",
+            "fk": "157\n130\n191",
+            "hs%": "69%\n61%\n79%",
+            "kdr": "15\n6\n9",
+            "kills": "204",
+            "name": "eeiu",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.18\n1.08",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n40\n27\n13\n\n/",
+            "deaths": "40\n22\n18",
+            "fk": "110\n113\n105",
+            "hs%": "72%\n67%\n79%",
+            "kdr": "21\n13\n8",
+            "kills": "177",
+            "name": "wedid",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.29\n1.08",
+            "adr": "+6\n-5\n+11",
+            "agent": "",
+            "assists": "/\n\n49\n32\n17\n\n/",
+            "deaths": "55\n27\n28",
+            "fk": "146\n136\n160",
+            "hs%": "73%\n69%\n79%",
+            "kdr": "15\n10\n5",
+            "kills": "220",
+            "name": "tex",
+            "team": null
+          },
+          {
+            "acs": "0.67\n1.31\n0.95",
+            "adr": "-7\n-15\n+8",
+            "agent": "",
+            "assists": "/\n\n50\n32\n18\n\n/",
+            "deaths": "43\n17\n26",
+            "fk": "128\n102\n160",
+            "hs%": "75%\n72%\n79%",
+            "kdr": "22\n10\n12",
+            "kills": "155",
+            "name": "ANDROID",
+            "team": null
+          },
+          {
+            "acs": "0.29\n0.64\n0.44",
+            "adr": "-30\n-24\n-6",
+            "agent": "",
+            "assists": "/\n\n52\n34\n18\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "68\n65\n71",
+            "hs%": "61%\n53%\n71%",
+            "kdr": "18\n11\n7",
+            "kills": "91",
+            "name": "s0m",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.11\n1.36\n1.25",
+            "adr": "+15\n0\n+15",
+            "agent": "",
+            "assists": "/\n\n41\n21\n20\n\n/",
+            "deaths": "56\n21\n35",
+            "fk": "140\n110\n164",
+            "hs%": "81%\n75%\n86%",
+            "kdr": "21\n8\n13",
+            "kills": "192",
+            "name": "Paincakes",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.41\n1.17",
+            "adr": "+6\n-5\n+11",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "51\n18\n33",
+            "fk": "154\n122\n180",
+            "hs%": "73%\n64%\n81%",
+            "kdr": "30\n7\n23",
+            "kills": "204",
+            "name": "Dcop",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.36\n1.16",
+            "adr": "+9\n-4\n+13",
+            "agent": "",
+            "assists": "/\n\n40\n21\n19\n\n/",
+            "deaths": "49\n17\n32",
+            "fk": "126\n105\n143",
+            "hs%": "75%\n61%\n86%",
+            "kdr": "29\n7\n22",
+            "kills": "183",
+            "name": "gucc107",
+            "team": null
+          },
+          {
+            "acs": "0.58\n1.09\n0.87",
+            "adr": "-1\n-10\n+9",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "44\n14\n30",
+            "fk": "102\n87\n114",
+            "hs%": "66%\n57%\n72%",
+            "kdr": "10\n7\n3",
+            "kills": "153",
+            "name": "Kanpeki",
+            "team": null
+          },
+          {
+            "acs": "0.56\n1.02\n0.82",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "38\n15\n23",
+            "fk": "105\n89\n118",
+            "hs%": "72%\n57%\n83%",
+            "kdr": "16\n4\n12",
+            "kills": "143",
+            "name": "C0M",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "394",
+          "name": "eeiu",
+          "team": "NRG"
+        },
+        {
+          "kills": "341",
+          "name": "tex",
+          "team": "NRG"
+        },
+        {
+          "kills": "124",
+          "name": "wedid",
+          "team": "NRG"
+        },
+        {
+          "kills": "250",
+          "name": "ANDROID",
+          "team": "NRG"
+        },
+        {
+          "kills": "129",
+          "name": "s0m",
+          "team": "NRG"
+        },
+        {
+          "kills": "242",
+          "name": "Paincakes",
+          "team": "ez5"
+        },
+        {
+          "kills": "272",
+          "name": "gucc107",
+          "team": "ez5"
+        },
+        {
+          "kills": "171",
+          "name": "Dcop",
+          "team": "ez5"
+        },
+        {
+          "kills": "245",
+          "name": "Kanpeki",
+          "team": "ez5"
+        },
+        {
+          "kills": "127",
+          "name": "C0M",
+          "team": "ez5"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.49\n1.14\n1.86",
+            "adr": "+10\n+1\n+9",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "25\n9\n16",
+            "fk": "211\n178\n248",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "6\n2\n4",
+            "kills": "394",
+            "name": "eeiu",
+            "team": "NRG"
+          },
+          {
+            "acs": "1.43\n0.94\n1.96",
+            "adr": "+13\n+1\n+12",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "152\n130\n176",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "4\n2\n2",
+            "kills": "341",
+            "name": "tex",
+            "team": "NRG"
+          },
+          {
+            "acs": "1.36\n1.56\n1.13",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "122\n166\n75",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "8\n4\n4",
+            "kills": "124",
+            "name": "wedid",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.99\n0.72\n1.28",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "135\n114\n157",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "8\n5\n3",
+            "kills": "250",
+            "name": "ANDROID",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.43\n0.26\n0.61",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "56\n51\n61",
+            "hs%": "61%\n42%\n82%",
+            "kdr": "6\n3\n3",
+            "kills": "129",
+            "name": "s0m",
+            "team": "NRG"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n0.97\n1.41",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "133\n103\n160",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "11\n3\n8",
+            "kills": "242",
+            "name": "Paincakes",
+            "team": "ez5"
+          },
+          {
+            "acs": "1.03\n0.74\n1.30",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "132\n86\n175",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "272",
+            "name": "gucc107",
+            "team": "ez5"
+          },
+          {
+            "acs": "0.97\n1.00\n0.93",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "147\n169\n126",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "12\n3\n9",
+            "kills": "171",
+            "name": "Dcop",
+            "team": "ez5"
+          },
+          {
+            "acs": "0.73\n0.05\n1.36",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "91\n37\n140",
+            "hs%": "57%\n36%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "245",
+            "name": "Kanpeki",
+            "team": "ez5"
+          },
+          {
+            "acs": "0.35\n0.04\n0.65",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "62\n39\n84",
+            "hs%": "57%\n36%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "127",
+            "name": "C0M",
+            "team": "ez5"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "191",
+          "name": "wedid",
+          "team": "NRG"
+        },
+        {
+          "kills": "159",
+          "name": "eeiu",
+          "team": "NRG"
+        },
+        {
+          "kills": "199",
+          "name": "ANDROID",
+          "team": "NRG"
+        },
+        {
+          "kills": "163",
+          "name": "tex",
+          "team": "NRG"
+        },
+        {
+          "kills": "148",
+          "name": "s0m",
+          "team": "NRG"
+        },
+        {
+          "kills": "328",
+          "name": "Paincakes",
+          "team": "ez5"
+        },
+        {
+          "kills": "281",
+          "name": "C0M",
+          "team": "ez5"
+        },
+        {
+          "kills": "190",
+          "name": "gucc107",
+          "team": "ez5"
+        },
+        {
+          "kills": "222",
+          "name": "Kanpeki",
+          "team": "ez5"
+        },
+        {
+          "kills": "190",
+          "name": "Dcop",
+          "team": "ez5"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.93\n0.81\n1.23",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "113\n96\n154",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "5\n3\n2",
+            "kills": "191",
+            "name": "wedid",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.80\n1.09\n0.12",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "11\n11\n0",
+            "fk": "102\n126\n45",
+            "hs%": "65%\n67%\n60%",
+            "kdr": "3\n1\n2",
+            "kills": "159",
+            "name": "eeiu",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.77\n0.82\n0.66",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "105\n129\n47",
+            "hs%": "82%\n92%\n60%",
+            "kdr": "3\n2\n1",
+            "kills": "199",
+            "name": "ANDROID",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.63\n0.74\n0.36",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "108\n117\n88",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "9\n6\n3",
+            "kills": "163",
+            "name": "tex",
+            "team": "NRG"
+          },
+          {
+            "acs": "0.47\n0.57\n0.24",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "92\n114\n41",
+            "hs%": "53%\n58%\n40%",
+            "kdr": "6\n5\n1",
+            "kills": "148",
+            "name": "s0m",
+            "team": "NRG"
+          }
+        ],
+        [
+          {
+            "acs": "1.66\n2.38\n1.36",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "183\n158\n193",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "7\n3\n4",
+            "kills": "328",
+            "name": "Paincakes",
+            "team": "ez5"
+          },
+          {
+            "acs": "1.49\n1.84\n1.35",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "167\n142\n177",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "7\n3\n4",
+            "kills": "281",
+            "name": "C0M",
+            "team": "ez5"
+          },
+          {
+            "acs": "1.20\n1.14\n1.22",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "112\n118\n109",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "9\n2\n7",
+            "kills": "190",
+            "name": "gucc107",
+            "team": "ez5"
+          },
+          {
+            "acs": "1.01\n1.29\n0.89",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "112\n119\n109",
+            "hs%": "71%\n100%\n58%",
+            "kdr": "3\n3\n0",
+            "kills": "222",
+            "name": "Kanpeki",
+            "team": "ez5"
+          },
+          {
+            "acs": "0.90\n0.12\n1.23",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "11\n0\n11",
+            "fk": "128\n0\n182",
+            "hs%": "71%\n40%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "190",
+            "name": "Dcop",
+            "team": "ez5"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 26687,
+  "teams": [
+    "NRG",
+    "ez5"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tQuarterfinals"
+}

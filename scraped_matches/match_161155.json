@@ -1,0 +1,788 @@
+{
+  "date": "2022-12-10 05:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "275",
+          "name": "RIPablo",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "206",
+          "name": "GangPin",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "258",
+          "name": "tf",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "140",
+          "name": "oitaN",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "136",
+          "name": "Norisen",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "298",
+          "name": "something",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "231",
+          "name": "Npoint",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "234",
+          "name": "Misaya",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "178",
+          "name": "Senpai",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "116",
+          "name": "NOBITA",
+          "team": "Sengoku Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.12\n1.78",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "158\n108\n203",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "11\n8\n3",
+            "kills": "275",
+            "name": "RIPablo",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "0.99\n1.18\n0.82",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "129\n170\n91",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "9\n2\n7",
+            "kills": "206",
+            "name": "GangPin",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "0.97\n0.99\n0.95",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "181\n174\n186",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "13\n6\n7",
+            "kills": "258",
+            "name": "tf",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "0.74\n0.81\n0.66",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "99\n105\n94",
+            "hs%": "78%\n91%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "140",
+            "name": "oitaN",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "0.71\n0.60\n0.80",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "83\n71\n95",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "10\n6\n4",
+            "kills": "136",
+            "name": "Norisen",
+            "team": "IGZIST"
+          }
+        ],
+        [
+          {
+            "acs": "1.60\n1.53\n1.68",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "207\n199\n216",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "6\n1\n5",
+            "kills": "298",
+            "name": "something",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "1.33\n1.28\n1.38",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "132\n133\n132",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "6\n5\n1",
+            "kills": "231",
+            "name": "Npoint",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "1.01\n0.78\n1.26",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "163\n134\n194",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "14\n3\n11",
+            "kills": "234",
+            "name": "Misaya",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.86\n0.75\n0.98",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "124\n117\n131",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "5\n2\n3",
+            "kills": "178",
+            "name": "Senpai",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.54\n0.52\n0.55",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "68\n81\n53",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "3\n1\n2",
+            "kills": "116",
+            "name": "NOBITA",
+            "team": "Sengoku Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "249",
+          "name": "RIPablo",
+          "team": null
+        },
+        {
+          "kills": "254",
+          "name": "tf",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "GangPin",
+          "team": null
+        },
+        {
+          "kills": "135",
+          "name": "oitaN",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "Norisen",
+          "team": null
+        },
+        {
+          "kills": "353",
+          "name": "something",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "Misaya",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "Npoint",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "NOBITA",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "Senpai",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.44\n1.24\n1.33",
+            "adr": "+20\n+13\n+7",
+            "agent": "",
+            "assists": "/\n\n43\n15\n28\n\n/",
+            "deaths": "63\n28\n35",
+            "fk": "166\n155\n175",
+            "hs%": "80%\n82%\n78%",
+            "kdr": "21\n10\n11",
+            "kills": "249",
+            "name": "RIPablo",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.13\n1.10",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n52\n23\n29\n\n/",
+            "deaths": "53\n24\n29",
+            "fk": "172\n170\n173",
+            "hs%": "73%\n75%\n72%",
+            "kdr": "28\n12\n16",
+            "kills": "254",
+            "name": "tf",
+            "team": null
+          },
+          {
+            "acs": "1.31\n0.74\n0.98",
+            "adr": "-2\n+7\n-9",
+            "agent": "",
+            "assists": "/\n\n44\n17\n27\n\n/",
+            "deaths": "42\n24\n18",
+            "fk": "113\n141\n91",
+            "hs%": "77%\n79%\n75%",
+            "kdr": "26\n9\n17",
+            "kills": "227",
+            "name": "GangPin",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.84\n0.85",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n40\n16\n24\n\n/",
+            "deaths": "32\n11\n21",
+            "fk": "106\n89\n120",
+            "hs%": "72%\n79%\n67%",
+            "kdr": "16\n10\n6",
+            "kills": "135",
+            "name": "oitaN",
+            "team": null
+          },
+          {
+            "acs": "1.03\n0.57\n0.77",
+            "adr": "-10\n+3\n-13",
+            "agent": "",
+            "assists": "/\n\n42\n16\n26\n\n/",
+            "deaths": "32\n19\n13",
+            "fk": "84\n113\n61",
+            "hs%": "70%\n82%\n61%",
+            "kdr": "23\n12\n11",
+            "kills": "193",
+            "name": "Norisen",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.59\n1.26\n1.44",
+            "adr": "+17\n+16\n+1",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "69\n45\n24",
+            "fk": "191\n211\n165",
+            "hs%": "83%\n89%\n75%",
+            "kdr": "19\n9\n10",
+            "kills": "353",
+            "name": "something",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.00\n1.08",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "44\n29\n15",
+            "fk": "145\n137\n156",
+            "hs%": "86%\n92%\n79%",
+            "kdr": "34\n17\n17",
+            "kills": "232",
+            "name": "Misaya",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.02\n1.07",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n38\n19\n19\n\n/",
+            "deaths": "41\n22\n19",
+            "fk": "114\n112\n116",
+            "hs%": "81%\n83%\n79%",
+            "kdr": "26\n22\n4",
+            "kills": "180",
+            "name": "Npoint",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.61\n0.77",
+            "adr": "-11\n-2\n-9",
+            "agent": "",
+            "assists": "/\n\n47\n24\n23\n\n/",
+            "deaths": "36\n22\n14",
+            "fk": "92\n102\n80",
+            "hs%": "69%\n75%\n61%",
+            "kdr": "15\n10\n5",
+            "kills": "172",
+            "name": "NOBITA",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.64\n0.72",
+            "adr": "-11\n-2\n-9",
+            "agent": "",
+            "assists": "/\n\n42\n21\n21\n\n/",
+            "deaths": "31\n19\n12",
+            "fk": "94\n94\n94",
+            "hs%": "70%\n72%\n68%",
+            "kdr": "13\n7\n6",
+            "kills": "151",
+            "name": "Senpai",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "326",
+          "name": "tf",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "253",
+          "name": "RIPablo",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "264",
+          "name": "oitaN",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "54",
+          "name": "Norisen",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "97",
+          "name": "GangPin",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "229",
+          "name": "something",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "91",
+          "name": "Misaya",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "94",
+          "name": "NOBITA",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "149",
+          "name": "Npoint",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "68",
+          "name": "Senpai",
+          "team": "Sengoku Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.49\n0.92\n1.87",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "180\n144\n205",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "326",
+            "name": "tf",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "1.47\n2.21\n0.97",
+            "adr": "+9\n+10\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "194\n253\n154",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "7\n1\n6",
+            "kills": "253",
+            "name": "RIPablo",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "1.25\n1.07\n1.36",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "118\n66\n153",
+            "hs%": "85%\n88%\n83%",
+            "kdr": "5\n4\n1",
+            "kills": "264",
+            "name": "oitaN",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "1.14\n2.14\n0.47",
+            "adr": "+4\n+10\n-6",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "109\n213\n40",
+            "hs%": "75%\n100%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "54",
+            "name": "Norisen",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "0.55\n0.76\n0.40",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "52\n37\n62",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "9\n3\n6",
+            "kills": "97",
+            "name": "GangPin",
+            "team": "IGZIST"
+          }
+        ],
+        [
+          {
+            "acs": "1.09\n1.16\n0.97",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "159\n173\n139",
+            "hs%": "85%\n100%\n63%",
+            "kdr": "6\n4\n2",
+            "kills": "229",
+            "name": "something",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.91\n1.21\n0.46",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "107\n124\n81",
+            "hs%": "75%\n92%\n50%",
+            "kdr": "8\n7\n1",
+            "kills": "91",
+            "name": "Misaya",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.86\n1.27\n0.24",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "109\n143\n57",
+            "hs%": "70%\n83%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "94",
+            "name": "NOBITA",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.84\n0.97\n0.64",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "89\n89\n89",
+            "hs%": "80%\n100%\n50%",
+            "kdr": "10\n8\n2",
+            "kills": "149",
+            "name": "Npoint",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.34\n0.33\n0.35",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "67\n71\n62",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "68",
+            "name": "Senpai",
+            "team": "Sengoku Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "GangPin",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "236",
+          "name": "RIPablo",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "229",
+          "name": "tf",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "148",
+          "name": "oitaN",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "98",
+          "name": "Norisen",
+          "team": "IGZIST"
+        },
+        {
+          "kills": "353",
+          "name": "something",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "282",
+          "name": "Misaya",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "165",
+          "name": "Npoint",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "149",
+          "name": "Senpai",
+          "team": "Sengoku Gaming"
+        },
+        {
+          "kills": "162",
+          "name": "NOBITA",
+          "team": "Sengoku Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.94\n0.98",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "154\n197\n121",
+            "hs%": "95%\n100%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "245",
+            "name": "GangPin",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "1.04\n1.15\n0.97",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "149\n125\n167",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "236",
+            "name": "RIPablo",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "0.86\n1.23\n0.57",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "154\n188\n129",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "229",
+            "name": "tf",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "0.59\n0.70\n0.51",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "102\n88\n113",
+            "hs%": "52%\n56%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "148",
+            "name": "oitaN",
+            "team": "IGZIST"
+          },
+          {
+            "acs": "0.50\n0.58\n0.44",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "60\n76\n48",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "11\n6\n5",
+            "kills": "98",
+            "name": "Norisen",
+            "team": "IGZIST"
+          }
+        ],
+        [
+          {
+            "acs": "1.61\n2.08\n0.99",
+            "adr": "+10\n+11\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "26\n19\n7",
+            "fk": "204\n262\n127",
+            "hs%": "90%\n100%\n78%",
+            "kdr": "7\n4\n3",
+            "kills": "353",
+            "name": "something",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "1.32\n1.44\n1.17",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "163\n153\n176",
+            "hs%": "95%\n100%\n89%",
+            "kdr": "12\n7\n5",
+            "kills": "282",
+            "name": "Misaya",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "1.01\n1.08\n0.93",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "117\n115\n120",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "10\n9\n1",
+            "kills": "165",
+            "name": "Npoint",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.94\n1.27\n0.49",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "88\n95\n79",
+            "hs%": "76%\n92%\n56%",
+            "kdr": "7\n5\n2",
+            "kills": "149",
+            "name": "Senpai",
+            "team": "Sengoku Gaming"
+          },
+          {
+            "acs": "0.94\n0.90\n0.99",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "103\n81\n132",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "8\n6\n2",
+            "kills": "162",
+            "name": "NOBITA",
+            "team": "Sengoku Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 161155,
+  "teams": [
+    "Sengoku Gaming",
+    "IGZIST"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tShowmatch"
+}

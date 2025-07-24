@@ -1,0 +1,788 @@
+{
+  "date": "2021-07-20 15:00:19",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "295",
+          "name": "Masked",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "228",
+          "name": "AKIMB0",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "284",
+          "name": "Davud",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "215",
+          "name": "Mizzz",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "122",
+          "name": "Loonie",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "227",
+          "name": "iNK",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "201",
+          "name": "dNnYO",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "163",
+          "name": "TheooS",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "163",
+          "name": "Tey",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "112",
+          "name": "Geeb8",
+          "team": "webSPELL"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.52\n1.27\n1.94",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "195\n152\n268",
+            "hs%": "79%\n83%\n71%",
+            "kdr": "3\n3\n0",
+            "kills": "295",
+            "name": "Masked",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "1.40\n1.79\n0.73",
+            "adr": "+10\n+11\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "17\n15\n2",
+            "fk": "142\n201\n41",
+            "hs%": "79%\n92%\n57%",
+            "kdr": "0\n0\n0",
+            "kills": "228",
+            "name": "AKIMB0",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "1.21\n1.27\n1.12",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "166\n182\n138",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "5\n4\n1",
+            "kills": "284",
+            "name": "Davud",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "1.04\n1.02\n1.07",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "120\n130\n104",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "6\n5\n1",
+            "kills": "215",
+            "name": "Mizzz",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "0.68\n0.74\n0.57",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "93\n126\n36",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "5\n4\n1",
+            "kills": "122",
+            "name": "Loonie",
+            "team": "AXIBYTE ESPORTS"
+          }
+        ],
+        [
+          {
+            "acs": "1.01\n0.63\n1.24",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "146\n103\n171",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "227",
+            "name": "iNK",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "0.88\n1.13\n0.73",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "120\n106\n128",
+            "hs%": "53%\n57%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "201",
+            "name": "dNnYO",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "0.82\n0.74\n0.86",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "102\n97\n105",
+            "hs%": "53%\n57%\n50%",
+            "kdr": "5\n1\n4",
+            "kills": "163",
+            "name": "TheooS",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "0.72\n0.88\n0.63",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "122\n126\n119",
+            "hs%": "58%\n57%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "163",
+            "name": "Tey",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "0.55\n0.50\n0.59",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "85\n60\n99",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "112",
+            "name": "Geeb8",
+            "team": "webSPELL"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "230",
+          "name": "AKIMB0",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "Masked",
+          "team": null
+        },
+        {
+          "kills": "257",
+          "name": "Davud",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "Loonie",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "Mizzz",
+          "team": null
+        },
+        {
+          "kills": "238",
+          "name": "iNK",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "Tey",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "dNnYO",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "Geeb8",
+          "team": null
+        },
+        {
+          "kills": "136",
+          "name": "TheooS",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.36\n1.35",
+            "adr": "+18\n+11\n+7",
+            "agent": "",
+            "assists": "/\n\n30\n17\n13\n\n/",
+            "deaths": "48\n28\n20",
+            "fk": "136\n153\n118",
+            "hs%": "75%\n78%\n71%",
+            "kdr": "10\n3\n7",
+            "kills": "230",
+            "name": "AKIMB0",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.20\n1.12",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n35\n21\n14\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "151\n137\n166",
+            "hs%": "72%\n72%\n71%",
+            "kdr": "10\n6\n4",
+            "kills": "202",
+            "name": "Masked",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.92\n1.03",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "153\n172\n132",
+            "hs%": "68%\n75%\n61%",
+            "kdr": "14\n11\n3",
+            "kills": "257",
+            "name": "Davud",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.86\n0.81",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "36\n21\n15",
+            "fk": "127\n145\n108",
+            "hs%": "70%\n66%\n75%",
+            "kdr": "23\n15\n8",
+            "kills": "201",
+            "name": "Loonie",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.57\n0.77",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n40\n20\n20\n\n/",
+            "deaths": "33\n19\n14",
+            "fk": "104\n121\n86",
+            "hs%": "65%\n69%\n61%",
+            "kdr": "14\n10\n4",
+            "kills": "177",
+            "name": "Mizzz",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n1.42\n1.26",
+            "adr": "+12\n0\n+12",
+            "agent": "",
+            "assists": "/\n\n41\n21\n20\n\n/",
+            "deaths": "53\n21\n32",
+            "fk": "170\n175\n166",
+            "hs%": "72%\n71%\n72%",
+            "kdr": "12\n9\n3",
+            "kills": "238",
+            "name": "iNK",
+            "team": null
+          },
+          {
+            "acs": "1.25\n0.89\n1.06",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n44\n19\n25\n\n/",
+            "deaths": "49\n25\n24",
+            "fk": "148\n169\n130",
+            "hs%": "67%\n64%\n69%",
+            "kdr": "14\n5\n9",
+            "kills": "253",
+            "name": "Tey",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.72\n0.83",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n44\n18\n26\n\n/",
+            "deaths": "35\n17\n18",
+            "fk": "98\n96\n100",
+            "hs%": "68%\n71%\n66%",
+            "kdr": "12\n5\n7",
+            "kills": "155",
+            "name": "dNnYO",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.75\n0.82",
+            "adr": "-14\n-4\n-10",
+            "agent": "",
+            "assists": "/\n\n42\n18\n24\n\n/",
+            "deaths": "28\n14\n14",
+            "fk": "102\n90\n112",
+            "hs%": "75%\n71%\n78%",
+            "kdr": "18\n6\n12",
+            "kills": "138",
+            "name": "Geeb8",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.99\n0.80",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n43\n22\n21\n\n/",
+            "deaths": "33\n14\n19",
+            "fk": "103\n99\n106",
+            "hs%": "60%\n50%\n69%",
+            "kdr": "11\n2\n9",
+            "kills": "136",
+            "name": "TheooS",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "256",
+          "name": "Davud",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "170",
+          "name": "AKIMB0",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "190",
+          "name": "Masked",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "253",
+          "name": "Loonie",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "133",
+          "name": "Mizzz",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "319",
+          "name": "iNK",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "269",
+          "name": "Tey",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "209",
+          "name": "Geeb8",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "211",
+          "name": "TheooS",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "167",
+          "name": "dNnYO",
+          "team": "webSPELL"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.96\n0.88\n1.01",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "148\n115\n170",
+            "hs%": "75%\n100%\n58%",
+            "kdr": "6\n6\n0",
+            "kills": "256",
+            "name": "Davud",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "0.94\n0.95\n0.93",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "106\n106\n106",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "170",
+            "name": "AKIMB0",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "0.93\n0.97\n0.91",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "148\n155\n143",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "190",
+            "name": "Masked",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "0.82\n0.31\n1.16",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "142\n104\n167",
+            "hs%": "75%\n63%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "253",
+            "name": "Loonie",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "0.54\n0.75\n0.39",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "90\n116\n74",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "133",
+            "name": "Mizzz",
+            "team": "AXIBYTE ESPORTS"
+          }
+        ],
+        [
+          {
+            "acs": "1.54\n1.56\n1.52",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "201\n226\n162",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "319",
+            "name": "iNK",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "1.17\n1.12\n1.24",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "155\n180\n118",
+            "hs%": "65%\n58%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "269",
+            "name": "Tey",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "1.12\n1.14\n1.09",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "121\n108\n140",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "5\n2\n3",
+            "kills": "209",
+            "name": "Geeb8",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "1.05\n0.87\n1.32",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "130\n128\n132",
+            "hs%": "80%\n67%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "211",
+            "name": "TheooS",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "0.90\n0.88\n0.93",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "97\n114\n72",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "167",
+            "name": "dNnYO",
+            "team": "webSPELL"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "AKIMB0",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "165",
+          "name": "Masked",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "267",
+          "name": "Davud",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "207",
+          "name": "Loonie",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "137",
+          "name": "Mizzz",
+          "team": "AXIBYTE ESPORTS"
+        },
+        {
+          "kills": "271",
+          "name": "Tey",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "216",
+          "name": "iNK",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "145",
+          "name": "Geeb8",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "123",
+          "name": "dNnYO",
+          "team": "webSPELL"
+        },
+        {
+          "kills": "131",
+          "name": "TheooS",
+          "team": "webSPELL"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.71\n1.17\n2.43",
+            "adr": "+10\n+1\n+9",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "160\n135\n193",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "8\n3\n5",
+            "kills": "245",
+            "name": "AKIMB0",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "0.95\n0.89\n1.03",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "114\n112\n118",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "5\n2\n3",
+            "kills": "165",
+            "name": "Masked",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "0.94\n1.16\n0.64",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "147\n200\n77",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "3\n1\n2",
+            "kills": "267",
+            "name": "Davud",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "0.91\n1.07\n0.70",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "145\n190\n84",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "9\n7\n2",
+            "kills": "207",
+            "name": "Loonie",
+            "team": "AXIBYTE ESPORTS"
+          },
+          {
+            "acs": "0.74\n0.96\n0.44",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "103\n115\n88",
+            "hs%": "81%\n92%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "137",
+            "name": "Mizzz",
+            "team": "AXIBYTE ESPORTS"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.70\n0.91",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "166\n189\n149",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "271",
+            "name": "Tey",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "1.20\n0.77\n1.53",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "163\n163\n163",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "216",
+            "name": "iNK",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "0.79\n0.92\n0.69",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "100\n90\n108",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "145",
+            "name": "Geeb8",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "0.72\n0.93\n0.56",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "80\n65\n92",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "123",
+            "name": "dNnYO",
+            "team": "webSPELL"
+          },
+          {
+            "acs": "0.56\n0.07\n0.91",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "78\n61\n90",
+            "hs%": "48%\n22%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "131",
+            "name": "TheooS",
+            "team": "webSPELL"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 28114,
+  "teams": [
+    "webSPELL",
+    "AXIBYTE ESPORTS"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 128"
+}

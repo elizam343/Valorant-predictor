@@ -1,0 +1,788 @@
+{
+  "date": "2022-03-19 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "246",
+          "name": "runi",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "223",
+          "name": "shonk",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "205",
+          "name": "mina",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "209",
+          "name": "ADRENALINE",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "153",
+          "name": "Enjoy",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "235",
+          "name": "kirei",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "238",
+          "name": "THOOMER",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "191",
+          "name": "AlphaFly",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "186",
+          "name": "ricky",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "170",
+          "name": "Bape",
+          "team": "AstraSect"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.66\n1.20",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "167\n186\n151",
+            "hs%": "73%\n90%\n58%",
+            "kdr": "8\n3\n5",
+            "kills": "246",
+            "name": "runi",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "1.13\n0.54\n1.63",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "143\n60\n211",
+            "hs%": "86%\n90%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "223",
+            "name": "shonk",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "0.90\n1.33\n0.54",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "134\n199\n80",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "205",
+            "name": "mina",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "0.81\n1.06\n0.61",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "125\n140\n112",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "11\n8\n3",
+            "kills": "209",
+            "name": "ADRENALINE",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "0.51\n0.69\n0.36",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "101\n120\n85",
+            "hs%": "55%\n70%\n42%",
+            "kdr": "5\n1\n4",
+            "kills": "153",
+            "name": "Enjoy",
+            "team": "Zero MarksMen Black"
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.39\n1.70",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "168\n139\n203",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "4\n3\n1",
+            "kills": "235",
+            "name": "kirei",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "1.31\n1.16\n1.49",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "139\n103\n182",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "13\n10\n3",
+            "kills": "238",
+            "name": "THOOMER",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "0.89\n1.27\n0.44",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "135\n179\n83",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "8\n5\n3",
+            "kills": "191",
+            "name": "AlphaFly",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "0.84\n0.91\n0.75",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "116\n125\n106",
+            "hs%": "68%\n83%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "186",
+            "name": "ricky",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "0.69\n1.01\n0.31",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n11\n0",
+            "fk": "120\n187\n41",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "7\n3\n4",
+            "kills": "170",
+            "name": "Bape",
+            "team": "AstraSect"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "runi",
+          "team": null
+        },
+        {
+          "kills": "239",
+          "name": "mina",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "shonk",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "ADRENALINE",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "Enjoy",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "kirei",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "ricky",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "THOOMER",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "AlphaFly",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "Bape",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.31\n1.38",
+            "adr": "+14\n+8\n+6",
+            "agent": "",
+            "assists": "/\n\n45\n19\n26\n\n/",
+            "deaths": "59\n27\n32",
+            "fk": "173\n167\n177",
+            "hs%": "77%\n83%\n72%",
+            "kdr": "21\n7\n14",
+            "kills": "265",
+            "name": "runi",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.19\n1.08",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n48\n22\n26\n\n/",
+            "deaths": "55\n23\n32",
+            "fk": "152\n152\n152",
+            "hs%": "71%\n79%\n64%",
+            "kdr": "10\n5\n5",
+            "kills": "239",
+            "name": "mina",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.04\n1.03",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n44\n19\n25\n\n/",
+            "deaths": "48\n21\n27",
+            "fk": "131\n125\n136",
+            "hs%": "66%\n72%\n61%",
+            "kdr": "10\n7\n3",
+            "kills": "197",
+            "name": "shonk",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.68\n0.80",
+            "adr": "-9\n0\n-9",
+            "agent": "",
+            "assists": "/\n\n46\n18\n28\n\n/",
+            "deaths": "37\n18\n19",
+            "fk": "108\n112\n106",
+            "hs%": "69%\n72%\n67%",
+            "kdr": "21\n12\n9",
+            "kills": "174",
+            "name": "ADRENALINE",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.74\n0.70",
+            "adr": "-14\n-8\n-6",
+            "agent": "",
+            "assists": "/\n\n49\n24\n25\n\n/",
+            "deaths": "35\n16\n19",
+            "fk": "106\n110\n103",
+            "hs%": "66%\n66%\n67%",
+            "kdr": "12\n4\n8",
+            "kills": "183",
+            "name": "Enjoy",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.36\n1.32",
+            "adr": "+19\n+8\n+11",
+            "agent": "",
+            "assists": "/\n\n38\n23\n15\n\n/",
+            "deaths": "57\n31\n26",
+            "fk": "151\n152\n149",
+            "hs%": "72%\n69%\n76%",
+            "kdr": "5\n4\n1",
+            "kills": "229",
+            "name": "kirei",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.79\n0.98",
+            "adr": "-1\n+5\n-6",
+            "agent": "",
+            "assists": "/\n\n43\n22\n21\n\n/",
+            "deaths": "42\n27\n15",
+            "fk": "118\n130\n103",
+            "hs%": "72%\n81%\n62%",
+            "kdr": "18\n11\n7",
+            "kills": "199",
+            "name": "ricky",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.13\n0.96",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n50\n27\n23\n\n/",
+            "deaths": "47\n21\n26",
+            "fk": "133\n115\n155",
+            "hs%": "69%\n67%\n72%",
+            "kdr": "25\n16\n9",
+            "kills": "184",
+            "name": "THOOMER",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.82\n0.90",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "44\n25\n19",
+            "fk": "129\n136\n120",
+            "hs%": "66%\n67%\n66%",
+            "kdr": "23\n14\n9",
+            "kills": "192",
+            "name": "AlphaFly",
+            "team": null
+          },
+          {
+            "acs": "0.80\n0.70\n0.75",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n53\n32\n21\n\n/",
+            "deaths": "42\n27\n15",
+            "fk": "124\n145\n99",
+            "hs%": "66%\n67%\n66%",
+            "kdr": "11\n6\n5",
+            "kills": "235",
+            "name": "Bape",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "219",
+          "name": "runi",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "307",
+          "name": "mina",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "137",
+          "name": "shonk",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "174",
+          "name": "Enjoy",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "161",
+          "name": "ADRENALINE",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "329",
+          "name": "kirei",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "181",
+          "name": "ricky",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "160",
+          "name": "Bape",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "107",
+          "name": "AlphaFly",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "214",
+          "name": "THOOMER",
+          "team": "AstraSect"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.34\n1.50\n1.21",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "144\n153\n136",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "219",
+            "name": "runi",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "1.27\n0.79\n1.67",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "155\n112\n191",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "307",
+            "name": "mina",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "1.07\n1.48\n0.72",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "133\n187\n88",
+            "hs%": "64%\n80%\n50%",
+            "kdr": "7\n5\n2",
+            "kills": "137",
+            "name": "shonk",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "0.76\n0.76\n0.77",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "118\n110\n124",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "174",
+            "name": "Enjoy",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "0.65\n0.40\n0.86",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "83\n47\n114",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "161",
+            "name": "ADRENALINE",
+            "team": "Zero MarksMen Black"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.27\n1.92",
+            "adr": "+13\n+4\n+9",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "174\n160\n190",
+            "hs%": "77%\n67%\n90%",
+            "kdr": "0\n0\n0",
+            "kills": "329",
+            "name": "kirei",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "1.04\n1.08\n0.98",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "99\n94\n105",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "4\n2\n2",
+            "kills": "181",
+            "name": "ricky",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "0.87\n0.94\n0.80",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "112\n135\n85",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "160",
+            "name": "Bape",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "0.63\n0.77\n0.45",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "97\n119\n70",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "7\n5\n2",
+            "kills": "107",
+            "name": "AlphaFly",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "0.58\n0.58\n0.58",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "126\n122\n132",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "7\n4\n3",
+            "kills": "214",
+            "name": "THOOMER",
+            "team": "AstraSect"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "331",
+          "name": "runi",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "257",
+          "name": "mina",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "178",
+          "name": "ADRENALINE",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "164",
+          "name": "shonk",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "175",
+          "name": "Enjoy",
+          "team": "Zero MarksMen Black"
+        },
+        {
+          "kills": "252",
+          "name": "AlphaFly",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "194",
+          "name": "ricky",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "216",
+          "name": "THOOMER",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "173",
+          "name": "kirei",
+          "team": "AstraSect"
+        },
+        {
+          "kills": "219",
+          "name": "Bape",
+          "team": "AstraSect"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.24\n1.52",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "209\n159\n246",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "331",
+            "name": "runi",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "1.07\n0.71\n1.35",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "168\n144\n186",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "257",
+            "name": "mina",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "0.94\n1.40\n0.58",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "118\n153\n91",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "178",
+            "name": "ADRENALINE",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "0.87\n1.00\n0.77",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "117\n129\n109",
+            "hs%": "48%\n44%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "164",
+            "name": "shonk",
+            "team": "Zero MarksMen Black"
+          },
+          {
+            "acs": "0.82\n0.46\n1.09",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "100\n98\n101",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "175",
+            "name": "Enjoy",
+            "team": "Zero MarksMen Black"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n0.83\n1.65",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "156\n110\n217",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "8\n4\n4",
+            "kills": "252",
+            "name": "AlphaFly",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "1.06\n1.37\n0.64",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "139\n170\n98",
+            "hs%": "86%\n92%\n78%",
+            "kdr": "9\n6\n3",
+            "kills": "194",
+            "name": "ricky",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "1.00\n0.74\n1.35",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "133\n120\n150",
+            "hs%": "52%\n42%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "216",
+            "name": "THOOMER",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "0.85\n1.22\n0.37",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "108\n156\n44",
+            "hs%": "57%\n58%\n56%",
+            "kdr": "1\n1\n0",
+            "kills": "173",
+            "name": "kirei",
+            "team": "AstraSect"
+          },
+          {
+            "acs": "0.69\n0.44\n1.03",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "141\n113\n179",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "219",
+            "name": "Bape",
+            "team": "AstraSect"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 79522,
+  "teams": [
+    "Zero MarksMen Black",
+    "AstraSect"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tRound of 16"
+}

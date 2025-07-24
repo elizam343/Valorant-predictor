@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-17 21:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "199",
+          "name": "JUST_IN",
+          "team": "Project A"
+        },
+        {
+          "kills": "243",
+          "name": "fletcher",
+          "team": "Project A"
+        },
+        {
+          "kills": "221",
+          "name": "Campion",
+          "team": "Project A"
+        },
+        {
+          "kills": "186",
+          "name": "velis",
+          "team": "Project A"
+        },
+        {
+          "kills": "129",
+          "name": "Teddy",
+          "team": "Project A"
+        },
+        {
+          "kills": "232",
+          "name": "geeza",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "191",
+          "name": "Menace",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "237",
+          "name": "Trick",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "167",
+          "name": "Jangler",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "185",
+          "name": "ZexRow",
+          "team": "Bait Academy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.05\n1.12",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "142\n132\n155",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "6\n5\n1",
+            "kills": "199",
+            "name": "JUST_IN",
+            "team": "Project A"
+          },
+          {
+            "acs": "1.05\n0.69\n1.48",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "138\n101\n182",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "5\n2\n3",
+            "kills": "243",
+            "name": "fletcher",
+            "team": "Project A"
+          },
+          {
+            "acs": "0.98\n1.64\n0.18",
+            "adr": "0\n+8\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n15\n1",
+            "fk": "147\n223\n55",
+            "hs%": "68%\n83%\n50%",
+            "kdr": "6\n4\n2",
+            "kills": "221",
+            "name": "Campion",
+            "team": "Project A"
+          },
+          {
+            "acs": "0.96\n1.26\n0.60",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "121\n131\n110",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "12\n6\n6",
+            "kills": "186",
+            "name": "velis",
+            "team": "Project A"
+          },
+          {
+            "acs": "0.63\n0.93\n0.27",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "94\n112\n72",
+            "hs%": "64%\n75%\n50%",
+            "kdr": "5\n1\n4",
+            "kills": "129",
+            "name": "Teddy",
+            "team": "Project A"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n1.32\n1.31",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "161\n153\n167",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "232",
+            "name": "geeza",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "1.12\n1.30\n0.96",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "125\n117\n133",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "191",
+            "name": "Menace",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "1.06\n1.46\n0.73",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "160\n198\n127",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "12\n7\n5",
+            "kills": "237",
+            "name": "Trick",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "1.02\n1.22\n0.85",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "110\n97\n122",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "16\n9\n7",
+            "kills": "167",
+            "name": "Jangler",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "0.88\n1.05\n0.75",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "120\n160\n87",
+            "hs%": "64%\n80%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "185",
+            "name": "ZexRow",
+            "team": "Bait Academy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "192",
+          "name": "JUST_IN",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "velis",
+          "team": null
+        },
+        {
+          "kills": "306",
+          "name": "Campion",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "fletcher",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "Teddy",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "geeza",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "Trick",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "Menace",
+          "team": null
+        },
+        {
+          "kills": "242",
+          "name": "ZexRow",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "Jangler",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.29\n1.15",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n51\n25\n26\n\n/",
+            "deaths": "57\n23\n34",
+            "fk": "151\n135\n168",
+            "hs%": "82%\n87%\n78%",
+            "kdr": "23\n16\n7",
+            "kills": "192",
+            "name": "JUST_IN",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.93\n1.10",
+            "adr": "+9\n+13\n-4",
+            "agent": "",
+            "assists": "/\n\n51\n21\n30\n\n/",
+            "deaths": "60\n34\n26",
+            "fk": "144\n139\n149",
+            "hs%": "74%\n84%\n64%",
+            "kdr": "33\n20\n13",
+            "kills": "221",
+            "name": "velis",
+            "team": null
+          },
+          {
+            "acs": "1.42\n0.56\n1.00",
+            "adr": "+2\n+16\n-14",
+            "agent": "",
+            "assists": "/\n\n56\n25\n31\n\n/",
+            "deaths": "58\n41\n17",
+            "fk": "152\n191\n110",
+            "hs%": "72%\n84%\n58%",
+            "kdr": "19\n13\n6",
+            "kills": "306",
+            "name": "Campion",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.84\n0.95",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "49\n28\n21",
+            "fk": "115\n117\n113",
+            "hs%": "72%\n76%\n67%",
+            "kdr": "20\n8\n12",
+            "kills": "184",
+            "name": "fletcher",
+            "team": null
+          },
+          {
+            "acs": "1.14\n0.53\n0.85",
+            "adr": "-7\n+8\n-15",
+            "agent": "",
+            "assists": "/\n\n52\n22\n30\n\n/",
+            "deaths": "45\n30\n15",
+            "fk": "122\n147\n95",
+            "hs%": "65%\n76%\n53%",
+            "kdr": "14\n8\n6",
+            "kills": "208",
+            "name": "Teddy",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.15\n1.20",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n52\n21\n31\n\n/",
+            "deaths": "58\n29\n29",
+            "fk": "163\n151\n176",
+            "hs%": "76%\n78%\n74%",
+            "kdr": "26\n14\n12",
+            "kills": "222",
+            "name": "geeza",
+            "team": null
+          },
+          {
+            "acs": "1.19\n0.96\n1.07",
+            "adr": "-1\n+8\n-9",
+            "agent": "",
+            "assists": "/\n\n53\n23\n30\n\n/",
+            "deaths": "52\n31\n21",
+            "fk": "151\n154\n149",
+            "hs%": "81%\n86%\n76%",
+            "kdr": "39\n23\n16",
+            "kills": "232",
+            "name": "Trick",
+            "team": null
+          },
+          {
+            "acs": "1.34\n0.75\n1.04",
+            "adr": "+1\n+12\n-11",
+            "agent": "",
+            "assists": "/\n\n52\n21\n31\n\n/",
+            "deaths": "53\n33\n20",
+            "fk": "126\n148\n106",
+            "hs%": "68%\n78%\n58%",
+            "kdr": "11\n5\n6",
+            "kills": "233",
+            "name": "Menace",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.76\n0.94",
+            "adr": "-2\n+8\n-10",
+            "agent": "",
+            "assists": "/\n\n58\n25\n33\n\n/",
+            "deaths": "56\n33\n23",
+            "fk": "132\n149\n117",
+            "hs%": "66%\n78%\n55%",
+            "kdr": "13\n7\n6",
+            "kills": "242",
+            "name": "ZexRow",
+            "team": null
+          },
+          {
+            "acs": "0.98\n0.74\n0.86",
+            "adr": "-15\n-4\n-11",
+            "agent": "",
+            "assists": "/\n\n54\n23\n31\n\n/",
+            "deaths": "39\n19\n20",
+            "fk": "99\n100\n98",
+            "hs%": "74%\n81%\n68%",
+            "kdr": "38\n23\n15",
+            "kills": "148",
+            "name": "Jangler",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "301",
+          "name": "JUST_IN",
+          "team": "Project A"
+        },
+        {
+          "kills": "246",
+          "name": "velis",
+          "team": "Project A"
+        },
+        {
+          "kills": "208",
+          "name": "Teddy",
+          "team": "Project A"
+        },
+        {
+          "kills": "116",
+          "name": "fletcher",
+          "team": "Project A"
+        },
+        {
+          "kills": "197",
+          "name": "Campion",
+          "team": "Project A"
+        },
+        {
+          "kills": "245",
+          "name": "Trick",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "249",
+          "name": "ZexRow",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "79",
+          "name": "Menace",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "151",
+          "name": "Jangler",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "209",
+          "name": "geeza",
+          "team": "Bait Academy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.20\n1.01\n1.39",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "171\n152\n191",
+            "hs%": "89%\n86%\n93%",
+            "kdr": "10\n8\n2",
+            "kills": "301",
+            "name": "JUST_IN",
+            "team": "Project A"
+          },
+          {
+            "acs": "1.18\n1.23\n1.13",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "157\n147\n167",
+            "hs%": "75%\n86%\n64%",
+            "kdr": "9\n5\n4",
+            "kills": "246",
+            "name": "velis",
+            "team": "Project A"
+          },
+          {
+            "acs": "1.14\n1.38\n0.89",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "166\n197\n136",
+            "hs%": "71%\n79%\n64%",
+            "kdr": "4\n2\n2",
+            "kills": "208",
+            "name": "Teddy",
+            "team": "Project A"
+          },
+          {
+            "acs": "1.14\n1.57\n0.71",
+            "adr": "+5\n+8\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "21\n15\n6",
+            "fk": "119\n145\n93",
+            "hs%": "82%\n86%\n79%",
+            "kdr": "12\n6\n6",
+            "kills": "116",
+            "name": "fletcher",
+            "team": "Project A"
+          },
+          {
+            "acs": "0.89\n0.99\n0.80",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "143\n151\n135",
+            "hs%": "89%\n93%\n86%",
+            "kdr": "11\n7\n4",
+            "kills": "197",
+            "name": "Campion",
+            "team": "Project A"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.24\n1.33",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "182\n160\n204",
+            "hs%": "86%\n86%\n86%",
+            "kdr": "15\n7\n8",
+            "kills": "245",
+            "name": "Trick",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "0.93\n0.67\n1.18",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "146\n124\n169",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "4\n2\n2",
+            "kills": "249",
+            "name": "ZexRow",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "0.84\n1.39\n0.29",
+            "adr": "-6\n+4\n-10",
+            "agent": "",
+            "assists": "/\n\n22\n9\n13\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "106\n155\n56",
+            "hs%": "68%\n79%\n57%",
+            "kdr": "5\n0\n5",
+            "kills": "79",
+            "name": "Menace",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "0.84\n1.05\n0.62",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n23\n10\n13\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "118\n139\n98",
+            "hs%": "79%\n86%\n71%",
+            "kdr": "13\n6\n7",
+            "kills": "151",
+            "name": "Jangler",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "0.82\n0.72\n0.92",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "126\n97\n156",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "9\n4\n5",
+            "kills": "209",
+            "name": "geeza",
+            "team": "Bait Academy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "206",
+          "name": "JUST_IN",
+          "team": "Project A"
+        },
+        {
+          "kills": "262",
+          "name": "Campion",
+          "team": "Project A"
+        },
+        {
+          "kills": "218",
+          "name": "velis",
+          "team": "Project A"
+        },
+        {
+          "kills": "136",
+          "name": "Teddy",
+          "team": "Project A"
+        },
+        {
+          "kills": "121",
+          "name": "fletcher",
+          "team": "Project A"
+        },
+        {
+          "kills": "307",
+          "name": "geeza",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "246",
+          "name": "Menace",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "202",
+          "name": "ZexRow",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "157",
+          "name": "Trick",
+          "team": "Bait Academy"
+        },
+        {
+          "kills": "87",
+          "name": "Jangler",
+          "team": "Bait Academy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.17\n1.01\n1.33",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "134\n118\n151",
+            "hs%": "75%\n92%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "206",
+            "name": "JUST_IN",
+            "team": "Project A"
+          },
+          {
+            "acs": "1.15\n1.70\n0.61",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "22\n15\n7",
+            "fk": "168\n208\n128",
+            "hs%": "54%\n75%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "262",
+            "name": "Campion",
+            "team": "Project A"
+          },
+          {
+            "acs": "1.12\n1.29\n0.96",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "149\n138\n160",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "12\n9\n3",
+            "kills": "218",
+            "name": "velis",
+            "team": "Project A"
+          },
+          {
+            "acs": "0.71\n1.07\n0.34",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "95\n125\n66",
+            "hs%": "58%\n75%\n42%",
+            "kdr": "5\n5\n0",
+            "kills": "136",
+            "name": "Teddy",
+            "team": "Project A"
+          },
+          {
+            "acs": "0.64\n0.83\n0.45",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "90\n99\n81",
+            "hs%": "58%\n75%\n42%",
+            "kdr": "3\n0\n3",
+            "kills": "121",
+            "name": "fletcher",
+            "team": "Project A"
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.81\n1.26",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "209\n211\n207",
+            "hs%": "88%\n92%\n83%",
+            "kdr": "9\n6\n3",
+            "kills": "307",
+            "name": "geeza",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "1.19\n1.31\n1.07",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "151\n165\n136",
+            "hs%": "63%\n75%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "246",
+            "name": "Menace",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "1.00\n1.72\n0.27",
+            "adr": "+2\n+10\n-8",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "19\n15\n4",
+            "fk": "126\n169\n84",
+            "hs%": "58%\n75%\n42%",
+            "kdr": "4\n1\n3",
+            "kills": "202",
+            "name": "ZexRow",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "0.83\n0.90\n0.76",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "108\n111\n106",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "12\n9\n3",
+            "kills": "157",
+            "name": "Trick",
+            "team": "Bait Academy"
+          },
+          {
+            "acs": "0.73\n0.71\n0.76",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "65\n57\n74",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "9\n8\n1",
+            "kills": "87",
+            "name": "Jangler",
+            "team": "Bait Academy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 64769,
+  "teams": [
+    "Project A",
+    "Bait Academy"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 32"
+}

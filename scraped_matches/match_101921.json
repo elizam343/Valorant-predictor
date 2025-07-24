@@ -1,0 +1,788 @@
+{
+  "date": "2022-05-18 18:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "266",
+          "name": "kev",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "191",
+          "name": "ZeroData",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "221",
+          "name": "Bobovo",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "187",
+          "name": "tyti",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "116",
+          "name": "evaD",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "290",
+          "name": "Scrounge",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "225",
+          "name": "instinct",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "138",
+          "name": "Smoke",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "154",
+          "name": "Burton",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "189",
+          "name": "RetrQ",
+          "team": "The Swarm"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.29\n1.63\n0.88",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "169\n208\n122",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "3\n2\n1",
+            "kills": "266",
+            "name": "kev",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "1.09\n0.95\n1.27",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "106\n92\n123",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "3\n2\n1",
+            "kills": "191",
+            "name": "ZeroData",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "1.00\n1.29\n0.66",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "147\n190\n96",
+            "hs%": "77%\n92%\n60%",
+            "kdr": "10\n5\n5",
+            "kills": "221",
+            "name": "Bobovo",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "0.91\n0.59\n1.30",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "119\n84\n161",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "4\n2\n2",
+            "kills": "187",
+            "name": "tyti",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "0.70\n0.74\n0.66",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "73\n67\n80",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "9\n3\n6",
+            "kills": "116",
+            "name": "evaD",
+            "team": "Run it Down"
+          }
+        ],
+        [
+          {
+            "acs": "1.47\n1.76\n1.24",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "196\n243\n156",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "290",
+            "name": "Scrounge",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "1.12\n1.05\n1.18",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "141\n140\n142",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "225",
+            "name": "instinct",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "0.81\n1.01\n0.65",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "98\n138\n65",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "138",
+            "name": "Smoke",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "0.74\n0.59\n0.85",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "115\n94\n132",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "154",
+            "name": "Burton",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "0.70\n0.70\n0.70",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "114\n114\n115",
+            "hs%": "59%\n70%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "189",
+            "name": "RetrQ",
+            "team": "The Swarm"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "241",
+          "name": "kev",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "ZeroData",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "tyti",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "evaD",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "Bobovo",
+          "team": null
+        },
+        {
+          "kills": "284",
+          "name": "Scrounge",
+          "team": null
+        },
+        {
+          "kills": "264",
+          "name": "Smoke",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "instinct",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "RetrQ",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "Burton",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.19\n1.18",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n43\n20\n23\n\n/",
+            "deaths": "56\n26\n30",
+            "fk": "158\n162\n154",
+            "hs%": "66%\n61%\n71%",
+            "kdr": "7\n5\n2",
+            "kills": "241",
+            "name": "kev",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.35\n1.09",
+            "adr": "+11\n-2\n+13",
+            "agent": "",
+            "assists": "/\n\n40\n20\n20\n\n/",
+            "deaths": "51\n18\n33",
+            "fk": "130\n101\n157",
+            "hs%": "71%\n65%\n76%",
+            "kdr": "9\n3\n6",
+            "kills": "153",
+            "name": "ZeroData",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.06\n1.07",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n45\n21\n24\n\n/",
+            "deaths": "50\n23\n27",
+            "fk": "147\n143\n151",
+            "hs%": "63%\n58%\n68%",
+            "kdr": "8\n4\n4",
+            "kills": "225",
+            "name": "tyti",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.81\n0.90",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n43\n18\n25\n\n/",
+            "deaths": "36\n18\n18",
+            "fk": "99\n98\n99",
+            "hs%": "69%\n71%\n68%",
+            "kdr": "26\n7\n19",
+            "kills": "156",
+            "name": "evaD",
+            "team": null
+          },
+          {
+            "acs": "0.83\n0.94\n0.89",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n48\n23\n25\n\n/",
+            "deaths": "41\n20\n21",
+            "fk": "135\n127\n141",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "24\n8\n16",
+            "kills": "185",
+            "name": "Bobovo",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.15\n1.33",
+            "adr": "+16\n+11\n+5",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "63\n36\n27",
+            "fk": "182\n197\n165",
+            "hs%": "71%\n74%\n68%",
+            "kdr": "20\n9\n11",
+            "kills": "284",
+            "name": "Scrounge",
+            "team": null
+          },
+          {
+            "acs": "1.34\n1.07\n1.21",
+            "adr": "+12\n+12\n0",
+            "agent": "",
+            "assists": "/\n\n41\n21\n20\n\n/",
+            "deaths": "53\n33\n20",
+            "fk": "142\n165\n117",
+            "hs%": "74%\n76%\n71%",
+            "kdr": "5\n1\n4",
+            "kills": "264",
+            "name": "Smoke",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.84\n0.78",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n46\n26\n20\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "102\n103\n102",
+            "hs%": "65%\n65%\n65%",
+            "kdr": "15\n10\n5",
+            "kills": "158",
+            "name": "instinct",
+            "team": null
+          },
+          {
+            "acs": "0.46\n1.08\n0.76",
+            "adr": "-10\n-13\n+3",
+            "agent": "",
+            "assists": "/\n\n52\n31\n21\n\n/",
+            "deaths": "42\n18\n24",
+            "fk": "117\n100\n135",
+            "hs%": "60%\n59%\n61%",
+            "kdr": "5\n4\n1",
+            "kills": "150",
+            "name": "RetrQ",
+            "team": null
+          },
+          {
+            "acs": "0.62\n0.84\n0.73",
+            "adr": "-22\n-14\n-8",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "26\n12\n14",
+            "fk": "116\n97\n136",
+            "hs%": "62%\n56%\n68%",
+            "kdr": "21\n9\n12",
+            "kills": "129",
+            "name": "Burton",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "276",
+          "name": "ZeroData",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "178",
+          "name": "evaD",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "264",
+          "name": "kev",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "148",
+          "name": "tyti",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "244",
+          "name": "Bobovo",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "206",
+          "name": "Smoke",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "316",
+          "name": "Scrounge",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "237",
+          "name": "Burton",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "189",
+          "name": "RetrQ",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "160",
+          "name": "instinct",
+          "team": "The Swarm"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.02\n1.40",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "164\n144\n178",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "276",
+            "name": "ZeroData",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "1.06\n1.21\n0.94",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "119\n123\n117",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "10\n1\n9",
+            "kills": "178",
+            "name": "evaD",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "0.84\n0.20\n1.33",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "135\n79\n177",
+            "hs%": "52%\n33%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "264",
+            "name": "kev",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "0.75\n0.95\n0.61",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "122\n112\n130",
+            "hs%": "52%\n44%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "148",
+            "name": "tyti",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "0.66\n0.05\n1.13",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "117\n27\n184",
+            "hs%": "62%\n33%\n83%",
+            "kdr": "6\n0\n6",
+            "kills": "244",
+            "name": "Bobovo",
+            "team": "Run it Down"
+          }
+        ],
+        [
+          {
+            "acs": "1.72\n1.96\n1.40",
+            "adr": "+14\n+10\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "24\n17\n7",
+            "fk": "178\n227\n114",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "2\n1\n1",
+            "kills": "206",
+            "name": "Smoke",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "1.27\n1.32\n1.20",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "176\n172\n180",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "5\n3\n2",
+            "kills": "316",
+            "name": "Scrounge",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "0.92\n0.55\n1.42",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "158\n121\n208",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "11\n4\n7",
+            "kills": "237",
+            "name": "Burton",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "0.92\n0.53\n1.42",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "126\n124\n130",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "3\n2\n1",
+            "kills": "189",
+            "name": "RetrQ",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "0.73\n0.52\n1.01",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "105\n97\n117",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "8\n5\n3",
+            "kills": "160",
+            "name": "instinct",
+            "team": "The Swarm"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "331",
+          "name": "tyti",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "253",
+          "name": "kev",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "208",
+          "name": "Bobovo",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "179",
+          "name": "evaD",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "173",
+          "name": "ZeroData",
+          "team": "Run it Down"
+        },
+        {
+          "kills": "241",
+          "name": "Scrounge",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "240",
+          "name": "Smoke",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "171",
+          "name": "RetrQ",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "109",
+          "name": "Burton",
+          "team": "The Swarm"
+        },
+        {
+          "kills": "82",
+          "name": "instinct",
+          "team": "The Swarm"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.54\n1.81\n1.31",
+            "adr": "+13\n+7\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "199\n242\n164",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "331",
+            "name": "tyti",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "1.40\n1.51\n1.31",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "169\n181\n159",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "253",
+            "name": "kev",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "0.99\n0.99\n0.99",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "139\n142\n136",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "208",
+            "name": "Bobovo",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "0.96\n1.13\n0.82",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "104\n112\n98",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "179",
+            "name": "evaD",
+            "team": "Run it Down"
+          },
+          {
+            "acs": "0.93\n0.39\n1.38",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "123\n74\n164",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "173",
+            "name": "ZeroData",
+            "team": "Run it Down"
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n1.43\n0.99",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "174\n183\n162",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "10\n4\n6",
+            "kills": "241",
+            "name": "Scrounge",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "1.12\n1.00\n1.28",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "152\n127\n183",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "2\n0\n2",
+            "kills": "240",
+            "name": "Smoke",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "0.66\n0.19\n1.24",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "110\n65\n165",
+            "hs%": "41%\n33%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "171",
+            "name": "RetrQ",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "0.53\n0.71\n0.31",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "76\n76\n75",
+            "hs%": "41%\n33%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "109",
+            "name": "Burton",
+            "team": "The Swarm"
+          },
+          {
+            "acs": "0.48\n0.65\n0.28",
+            "adr": "-12\n-6\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "61\n78\n40",
+            "hs%": "50%\n67%\n30%",
+            "kdr": "3\n3\n0",
+            "kills": "82",
+            "name": "instinct",
+            "team": "The Swarm"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 101921,
+  "teams": [
+    "Run it Down",
+    "The Swarm"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tRound of 32"
+}

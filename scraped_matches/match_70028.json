@@ -1,0 +1,788 @@
+{
+  "date": "2022-02-16 10:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "261",
+          "name": "stimx",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "210",
+          "name": "soze",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "182",
+          "name": "pashapain666",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "179",
+          "name": "mate",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "199",
+          "name": "Art1st",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "247",
+          "name": "WorldEdit",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "231",
+          "name": "moner",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "216",
+          "name": "HEMMORJAY",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "180",
+          "name": "archiw0w",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "144",
+          "name": "zolters",
+          "team": "Dobeg"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.07\n1.20\n0.95",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "175\n181\n168",
+            "hs%": "72%\n88%\n56%",
+            "kdr": "12\n7\n5",
+            "kills": "261",
+            "name": "stimx",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "1.00\n1.12\n0.88",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "140\n161\n119",
+            "hs%": "69%\n75%\n63%",
+            "kdr": "7\n5\n2",
+            "kills": "210",
+            "name": "soze",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "0.95\n1.00\n0.91",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "119\n118\n120",
+            "hs%": "75%\n81%\n69%",
+            "kdr": "9\n4\n5",
+            "kills": "182",
+            "name": "pashapain666",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "0.95\n0.85\n1.04",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "119\n94\n144",
+            "hs%": "75%\n81%\n69%",
+            "kdr": "8\n4\n4",
+            "kills": "179",
+            "name": "mate",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "0.88\n1.37\n0.38",
+            "adr": "-5\n+3\n-8",
+            "agent": "",
+            "assists": "/\n\n25\n11\n14\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "136\n178\n94",
+            "hs%": "72%\n94%\n50%",
+            "kdr": "12\n8\n4",
+            "kills": "199",
+            "name": "Art1st",
+            "team": "EZ KATKA"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.69\n0.94",
+            "adr": "+9\n+11\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "29\n20\n9",
+            "fk": "162\n212\n111",
+            "hs%": "63%\n69%\n56%",
+            "kdr": "2\n2\n0",
+            "kills": "247",
+            "name": "WorldEdit",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "1.10\n1.13\n1.07",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n23\n10\n13\n\n/",
+            "deaths": "24\n16\n8",
+            "fk": "153\n172\n134",
+            "hs%": "69%\n88%\n50%",
+            "kdr": "9\n4\n5",
+            "kills": "231",
+            "name": "moner",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "0.92\n1.14\n0.71",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "151\n171\n131",
+            "hs%": "66%\n69%\n63%",
+            "kdr": "7\n3\n4",
+            "kills": "216",
+            "name": "HEMMORJAY",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "0.91\n0.76\n1.05",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "120\n80\n159",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "10\n2\n8",
+            "kills": "180",
+            "name": "archiw0w",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "0.80\n0.68\n0.91",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "100\n77\n124",
+            "hs%": "66%\n69%\n63%",
+            "kdr": "6\n4\n2",
+            "kills": "144",
+            "name": "zolters",
+            "team": "Dobeg"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "255",
+          "name": "stimx",
+          "team": null
+        },
+        {
+          "kills": "255",
+          "name": "soze",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "pashapain666",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "mate",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Art1st",
+          "team": null
+        },
+        {
+          "kills": "245",
+          "name": "moner",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "HEMMORJAY",
+          "team": null
+        },
+        {
+          "kills": "249",
+          "name": "WorldEdit",
+          "team": null
+        },
+        {
+          "kills": "126",
+          "name": "archiw0w",
+          "team": null
+        },
+        {
+          "kills": "132",
+          "name": "zolters",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.06\n1.09\n1.08",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n52\n30\n22\n\n/",
+            "deaths": "56\n32\n24",
+            "fk": "164\n163\n166",
+            "hs%": "78%\n85%\n70%",
+            "kdr": "24\n15\n9",
+            "kills": "255",
+            "name": "stimx",
+            "team": null
+          },
+          {
+            "acs": "1.20\n0.92\n1.07",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "57\n36\n21",
+            "fk": "140\n166\n109",
+            "hs%": "74%\n80%\n67%",
+            "kdr": "15\n10\n5",
+            "kills": "255",
+            "name": "soze",
+            "team": null
+          },
+          {
+            "acs": "0.94\n1.08\n1.00",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n49\n28\n21\n\n/",
+            "deaths": "53\n30\n23",
+            "fk": "141\n131\n154",
+            "hs%": "74%\n70%\n79%",
+            "kdr": "22\n11\n11",
+            "kills": "193",
+            "name": "pashapain666",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.06\n0.98",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "48\n22\n26",
+            "fk": "114\n100\n130",
+            "hs%": "74%\n80%\n67%",
+            "kdr": "14\n7\n7",
+            "kills": "148",
+            "name": "mate",
+            "team": null
+          },
+          {
+            "acs": "1.03\n0.83\n0.94",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n54\n28\n26\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "135\n139\n131",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "22\n15\n7",
+            "kills": "209",
+            "name": "Art1st",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.00\n1.12",
+            "adr": "+2\n+11\n-9",
+            "agent": "",
+            "assists": "/\n\n51\n21\n30\n\n/",
+            "deaths": "53\n32\n21",
+            "fk": "146\n162\n133",
+            "hs%": "74%\n85%\n65%",
+            "kdr": "22\n8\n14",
+            "kills": "245",
+            "name": "moner",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.11\n1.08",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n61\n27\n34\n\n/",
+            "deaths": "64\n26\n38",
+            "fk": "168\n159\n175",
+            "hs%": "66%\n67%\n65%",
+            "kdr": "17\n8\n9",
+            "kills": "248",
+            "name": "HEMMORJAY",
+            "team": null
+          },
+          {
+            "acs": "1.21\n0.95\n1.07",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n49\n23\n26\n\n/",
+            "deaths": "54\n30\n24",
+            "fk": "141\n168\n118",
+            "hs%": "60%\n67%\n55%",
+            "kdr": "12\n8\n4",
+            "kills": "249",
+            "name": "WorldEdit",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.21\n0.98",
+            "adr": "-4\n-11\n+7",
+            "agent": "",
+            "assists": "/\n\n52\n25\n27\n\n/",
+            "deaths": "48\n14\n34",
+            "fk": "127\n75\n170",
+            "hs%": "71%\n64%\n78%",
+            "kdr": "20\n8\n12",
+            "kills": "126",
+            "name": "archiw0w",
+            "team": null
+          },
+          {
+            "acs": "0.61\n0.65\n0.63",
+            "adr": "-24\n-9\n-15",
+            "agent": "",
+            "assists": "/\n\n52\n24\n28\n\n/",
+            "deaths": "28\n15\n13",
+            "fk": "86\n90\n82",
+            "hs%": "63%\n67%\n60%",
+            "kdr": "17\n10\n7",
+            "kills": "132",
+            "name": "zolters",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "284",
+          "name": "mate",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "234",
+          "name": "stimx",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "210",
+          "name": "soze",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "141",
+          "name": "pashapain666",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "246",
+          "name": "Art1st",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "189",
+          "name": "moner",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "305",
+          "name": "HEMMORJAY",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "267",
+          "name": "archiw0w",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "115",
+          "name": "WorldEdit",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "39",
+          "name": "zolters",
+          "team": "Dobeg"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.50\n1.49\n1.53",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n6\n3\n3\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "119\n114\n129",
+            "hs%": "89%\n100%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "284",
+            "name": "mate",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "1.38\n1.43\n1.28",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "197\n211\n167",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "7\n6\n1",
+            "kills": "234",
+            "name": "stimx",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "1.12\n0.86\n1.63",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "121\n113\n137",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "7\n5\n2",
+            "kills": "210",
+            "name": "soze",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "1.02\n0.94\n1.18",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "123\n123\n124",
+            "hs%": "67%\n58%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "141",
+            "name": "pashapain666",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "0.93\n0.83\n1.12",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "148\n138\n167",
+            "hs%": "83%\n75%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "246",
+            "name": "Art1st",
+            "team": "EZ KATKA"
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n1.38\n1.01",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "141\n135\n145",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "189",
+            "name": "moner",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "1.10\n0.70\n1.30",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "141\n77\n173",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "4\n0\n4",
+            "kills": "305",
+            "name": "HEMMORJAY",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "0.90\n0.36\n1.18",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "134\n63\n169",
+            "hs%": "61%\n33%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "267",
+            "name": "archiw0w",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "0.44\n0.33\n0.50",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "78\n67\n84",
+            "hs%": "44%\n67%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "115",
+            "name": "WorldEdit",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "0.28\n0.28\n0.27",
+            "adr": "-12\n-4\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "3\n2\n1",
+            "fk": "55\n107\n28",
+            "hs%": "56%\n67%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "39",
+            "name": "zolters",
+            "team": "Dobeg"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "236",
+          "name": "soze",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "269",
+          "name": "pashapain666",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "211",
+          "name": "Art1st",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "196",
+          "name": "stimx",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "151",
+          "name": "mate",
+          "team": "EZ KATKA"
+        },
+        {
+          "kills": "352",
+          "name": "HEMMORJAY",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "238",
+          "name": "WorldEdit",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "187",
+          "name": "archiw0w",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "193",
+          "name": "moner",
+          "team": "Dobeg"
+        },
+        {
+          "kills": "134",
+          "name": "zolters",
+          "team": "Dobeg"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.64\n0.58",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "156\n226\n79",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "1\n0\n1",
+            "kills": "236",
+            "name": "soze",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "1.06\n0.86\n1.28",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "187\n157\n220",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "9\n5\n4",
+            "kills": "269",
+            "name": "pashapain666",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "1.03\n0.78\n1.32",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "123\n86\n164",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "7\n5\n2",
+            "kills": "211",
+            "name": "Art1st",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "0.84\n0.51\n1.20",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "124\n89\n163",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "5\n2\n3",
+            "kills": "196",
+            "name": "stimx",
+            "team": "EZ KATKA"
+          },
+          {
+            "acs": "0.63\n0.45\n0.81",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "103\n95\n112",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "5\n2\n3",
+            "kills": "151",
+            "name": "mate",
+            "team": "EZ KATKA"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.11\n1.46",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "27\n10\n17",
+            "fk": "212\n185\n237",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "352",
+            "name": "HEMMORJAY",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "1.22\n0.99\n1.42",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "160\n158\n161",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "8\n4\n4",
+            "kills": "238",
+            "name": "WorldEdit",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "1.14\n0.81\n1.45",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "132\n75\n185",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "7\n5\n2",
+            "kills": "187",
+            "name": "archiw0w",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "1.14\n1.40\n0.91",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "141\n163\n120",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "193",
+            "name": "moner",
+            "team": "Dobeg"
+          },
+          {
+            "acs": "0.69\n0.68\n0.70",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "91\n101\n81",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "134",
+            "name": "zolters",
+            "team": "Dobeg"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 70028,
+  "teams": [
+    "Dobeg",
+    "EZ KATKA"
+  ],
+  "tournament": "Season: \n\t\t\t\t\t\tWeek 1"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2021-04-11 02:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "255",
+          "name": "xnfri",
+          "team": "Tiimu Sagashitemasu"
+        },
+        {
+          "kills": "153",
+          "name": "Killer",
+          "team": "Tiimu Sagashitemasu"
+        },
+        {
+          "kills": "187",
+          "name": "BlackWiz",
+          "team": "Tiimu Sagashitemasu"
+        },
+        {
+          "kills": "173",
+          "name": "kurozooted",
+          "team": "Tiimu Sagashitemasu"
+        },
+        {
+          "kills": "151",
+          "name": "hideonsmoke",
+          "team": "Tiimu Sagashitemasu"
+        },
+        {
+          "kills": "290",
+          "name": "neth",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "299",
+          "name": "Munchkin",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "281",
+          "name": "Medusa",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "227",
+          "name": "zepher",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "158",
+          "name": "rion",
+          "team": "Crazy Raccoon"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.15\n0.48\n1.49",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "152\n44\n206",
+            "hs%": "67%\n50%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "255",
+            "name": "xnfri",
+            "team": "Tiimu Sagashitemasu"
+          },
+          {
+            "acs": "0.78\n0.03\n1.20",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "10\n0\n10",
+            "fk": "90\n24\n123",
+            "hs%": "39%\n0%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "153",
+            "name": "Killer",
+            "team": "Tiimu Sagashitemasu"
+          },
+          {
+            "acs": "0.74\n0.19\n1.02",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "152\n86\n184",
+            "hs%": "67%\n50%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "187",
+            "name": "BlackWiz",
+            "team": "Tiimu Sagashitemasu"
+          },
+          {
+            "acs": "0.63\n1.04\n0.43",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "91\n128\n72",
+            "hs%": "78%\n100%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "173",
+            "name": "kurozooted",
+            "team": "Tiimu Sagashitemasu"
+          },
+          {
+            "acs": "0.49\n0.08\n0.69",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "106\n47\n135",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "151",
+            "name": "hideonsmoke",
+            "team": "Tiimu Sagashitemasu"
+          }
+        ],
+        [
+          {
+            "acs": "1.47\n1.00\n2.42",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "175\n137\n251",
+            "hs%": "78%\n67%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "290",
+            "name": "neth",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "1.45\n1.35\n1.65",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n10\n1\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "180\n229\n84",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "299",
+            "name": "Munchkin",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "1.42\n1.65\n0.95",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "169\n202\n104",
+            "hs%": "78%\n67%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "281",
+            "name": "Medusa",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "1.22\n1.04\n1.57",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "158\n150\n174",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "10\n7\n3",
+            "kills": "227",
+            "name": "zepher",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "0.68\n0.34\n1.38",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "103\n86\n137",
+            "hs%": "67%\n58%\n83%",
+            "kdr": "7\n1\n6",
+            "kills": "158",
+            "name": "rion",
+            "team": "Crazy Raccoon"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "179",
+          "name": "xnfri",
+          "team": null
+        },
+        {
+          "kills": "134",
+          "name": "BlackWiz",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "Killer",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "kurozooted",
+          "team": null
+        },
+        {
+          "kills": "134",
+          "name": "hideonsmoke",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "neth",
+          "team": null
+        },
+        {
+          "kills": "308",
+          "name": "Medusa",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "zepher",
+          "team": null
+        },
+        {
+          "kills": "353",
+          "name": "Munchkin",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "rion",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.54\n1.37\n0.92",
+            "adr": "-5\n-9\n+4",
+            "agent": "",
+            "assists": "/\n\n30\n18\n12\n\n/",
+            "deaths": "25\n9\n16",
+            "fk": "136\n96\n183",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "6\n3\n3",
+            "kills": "179",
+            "name": "xnfri",
+            "team": null
+          },
+          {
+            "acs": "0.56\n1.09\n0.80",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n30\n16\n14\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "124\n84\n171",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "8\n2\n6",
+            "kills": "134",
+            "name": "BlackWiz",
+            "team": null
+          },
+          {
+            "acs": "0.64\n1.02\n0.80",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n27\n16\n11\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "101\n98\n105",
+            "hs%": "52%\n39%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "152",
+            "name": "Killer",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.35\n0.55",
+            "adr": "-13\n-6\n-7",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "80\n93\n65",
+            "hs%": "70%\n72%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "163",
+            "name": "kurozooted",
+            "team": null
+          },
+          {
+            "acs": "0.33\n0.56\n0.43",
+            "adr": "-19\n-12\n-7",
+            "agent": "",
+            "assists": "/\n\n32\n19\n13\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "104\n92\n119",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "10\n3\n7",
+            "kills": "134",
+            "name": "hideonsmoke",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.95\n1.77\n1.40",
+            "adr": "+16\n0\n+16",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "37\n11\n26",
+            "fk": "171\n125\n209",
+            "hs%": "79%\n73%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "206",
+            "name": "neth",
+            "team": null
+          },
+          {
+            "acs": "1.46\n1.32\n1.38",
+            "adr": "+13\n+7\n+6",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "32\n17\n15",
+            "fk": "175\n177\n174",
+            "hs%": "82%\n73%\n89%",
+            "kdr": "11\n3\n8",
+            "kills": "308",
+            "name": "Medusa",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.59\n1.31",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "29\n10\n19",
+            "fk": "166\n136\n192",
+            "hs%": "91%\n80%\n100%",
+            "kdr": "17\n9\n8",
+            "kills": "191",
+            "name": "zepher",
+            "team": null
+          },
+          {
+            "acs": "1.56\n0.99\n1.25",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "29\n19\n10",
+            "fk": "135\n200\n81",
+            "hs%": "88%\n87%\n89%",
+            "kdr": "8\n4\n4",
+            "kills": "353",
+            "name": "Munchkin",
+            "team": null
+          },
+          {
+            "acs": "0.60\n1.42\n1.05",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "24\n8\n16",
+            "fk": "129\n95\n159",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "10\n2\n8",
+            "kills": "141",
+            "name": "rion",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "372",
+          "name": "BlackWiz",
+          "team": "Tiimu Sagashitemasu"
+        },
+        {
+          "kills": "82",
+          "name": "Killer",
+          "team": "Tiimu Sagashitemasu"
+        },
+        {
+          "kills": "306",
+          "name": "xnfri",
+          "team": "Tiimu Sagashitemasu"
+        },
+        {
+          "kills": "90",
+          "name": "kurozooted",
+          "team": "Tiimu Sagashitemasu"
+        },
+        {
+          "kills": "102",
+          "name": "hideonsmoke",
+          "team": "Tiimu Sagashitemasu"
+        },
+        {
+          "kills": "232",
+          "name": "rion",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "288",
+          "name": "zepher",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "259",
+          "name": "Medusa",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "363",
+          "name": "neth",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "110",
+          "name": "Munchkin",
+          "team": "Crazy Raccoon"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.87\n0.74\n1.37",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "91\n84\n118",
+            "hs%": "80%\n75%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "372",
+            "name": "BlackWiz",
+            "team": "Tiimu Sagashitemasu"
+          },
+          {
+            "acs": "0.82\n0.95\n0.29",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "115\n136\n35",
+            "hs%": "67%\n58%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "82",
+            "name": "Killer",
+            "team": "Tiimu Sagashitemasu"
+          },
+          {
+            "acs": "0.63\n0.57\n0.89",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "116\n122\n93",
+            "hs%": "80%\n75%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "306",
+            "name": "xnfri",
+            "team": "Tiimu Sagashitemasu"
+          },
+          {
+            "acs": "0.46\n0.56\n0.05",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "68\n76\n37",
+            "hs%": "60%\n58%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "90",
+            "name": "kurozooted",
+            "team": "Tiimu Sagashitemasu"
+          },
+          {
+            "acs": "0.37\n0.46\n0.03",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "102\n115\n53",
+            "hs%": "80%\n75%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "102",
+            "name": "hideonsmoke",
+            "team": "Tiimu Sagashitemasu"
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.67\n1.44",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "162\n131\n170",
+            "hs%": "80%\n67%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "232",
+            "name": "rion",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "1.42\n0.69\n1.60",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "177\n81\n201",
+            "hs%": "93%\n67%\n100%",
+            "kdr": "7\n2\n5",
+            "kills": "288",
+            "name": "zepher",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "1.34\n0.69\n1.50",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "183\n79\n209",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "259",
+            "name": "Medusa",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "1.31\n0.77\n1.45",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "18\n2\n16",
+            "fk": "167\n80\n188",
+            "hs%": "80%\n100%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "363",
+            "name": "neth",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "1.01\n2.42\n0.66",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "80\n83\n79",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "110",
+            "name": "Munchkin",
+            "team": "Crazy Raccoon"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 15839,
+  "teams": [
+    "Tiimu Sagashitemasu",
+    "Crazy Raccoon"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tGroup B"
+}

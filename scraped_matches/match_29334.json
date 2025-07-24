@@ -1,0 +1,594 @@
+{
+  "date": "2021-07-28 07:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "263",
+          "name": "spK",
+          "team": "Team Assassins"
+        },
+        {
+          "kills": "198",
+          "name": "Vaab",
+          "team": "Team Assassins"
+        },
+        {
+          "kills": "171",
+          "name": "theunholyone",
+          "team": "Team Assassins"
+        },
+        {
+          "kills": "201",
+          "name": "Evilizer",
+          "team": "Team Assassins"
+        },
+        {
+          "kills": "127",
+          "name": "BLU3B3RRIES",
+          "team": "Team Assassins"
+        },
+        {
+          "kills": "338",
+          "name": "Devious",
+          "team": "Zeusaberz Esports"
+        },
+        {
+          "kills": "227",
+          "name": "Tsar",
+          "team": "Zeusaberz Esports"
+        },
+        {
+          "kills": "213",
+          "name": "RoY",
+          "team": "Zeusaberz Esports"
+        },
+        {
+          "kills": "192",
+          "name": "DamN",
+          "team": "Zeusaberz Esports"
+        },
+        {
+          "kills": "151",
+          "name": "iceiceice",
+          "team": "Zeusaberz Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.10\n1.24\n0.95",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "29\n16\n13",
+            "fk": "169\n180\n159",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "4\n1\n3",
+            "kills": "263",
+            "name": "spK",
+            "team": "Team Assassins"
+          },
+          {
+            "acs": "1.00\n1.49\n0.52",
+            "adr": "-1\n+6\n-7",
+            "agent": "",
+            "assists": "/\n\n24\n8\n16\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "145\n158\n132",
+            "hs%": "72%\n81%\n63%",
+            "kdr": "8\n4\n4",
+            "kills": "198",
+            "name": "Vaab",
+            "team": "Team Assassins"
+          },
+          {
+            "acs": "0.93\n1.34\n0.52",
+            "adr": "-4\n+3\n-7",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "99\n151\n47",
+            "hs%": "72%\n88%\n56%",
+            "kdr": "7\n5\n2",
+            "kills": "171",
+            "name": "theunholyone",
+            "team": "Team Assassins"
+          },
+          {
+            "acs": "0.82\n0.73\n0.90",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n26\n14\n12\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "132\n148\n116",
+            "hs%": "69%\n88%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "201",
+            "name": "Evilizer",
+            "team": "Team Assassins"
+          },
+          {
+            "acs": "0.54\n0.70\n0.39",
+            "adr": "-13\n-3\n-10",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "95\n119\n71",
+            "hs%": "59%\n75%\n44%",
+            "kdr": "9\n5\n4",
+            "kills": "127",
+            "name": "BLU3B3RRIES",
+            "team": "Team Assassins"
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n1.82\n1.03",
+            "adr": "+10\n+13\n-3",
+            "agent": "",
+            "assists": "/\n\n25\n10\n15\n\n/",
+            "deaths": "35\n23\n12",
+            "fk": "208\n213\n202",
+            "hs%": "78%\n88%\n69%",
+            "kdr": "7\n2\n5",
+            "kills": "338",
+            "name": "Devious",
+            "team": "Zeusaberz Esports"
+          },
+          {
+            "acs": "1.14\n1.25\n1.04",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n7\n14\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "146\n149\n142",
+            "hs%": "72%\n81%\n63%",
+            "kdr": "10\n6\n4",
+            "kills": "227",
+            "name": "Tsar",
+            "team": "Zeusaberz Esports"
+          },
+          {
+            "acs": "1.12\n0.95\n1.29",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "144\n117\n171",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "213",
+            "name": "RoY",
+            "team": "Zeusaberz Esports"
+          },
+          {
+            "acs": "0.97\n1.19\n0.74",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "122\n117\n127",
+            "hs%": "72%\n75%\n69%",
+            "kdr": "5\n4\n1",
+            "kills": "192",
+            "name": "DamN",
+            "team": "Zeusaberz Esports"
+          },
+          {
+            "acs": "0.89\n1.31\n0.47",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "108\n131\n86",
+            "hs%": "81%\n88%\n75%",
+            "kdr": "8\n5\n3",
+            "kills": "151",
+            "name": "iceiceice",
+            "team": "Zeusaberz Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "238",
+          "name": "Vaab",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "theunholyone",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "spK",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Evilizer",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "BLU3B3RRIES",
+          "team": null
+        },
+        {
+          "kills": "362",
+          "name": "Devious",
+          "team": null
+        },
+        {
+          "kills": "238",
+          "name": "Tsar",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "RoY",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "iceiceice",
+          "team": null
+        },
+        {
+          "kills": "140",
+          "name": "DamN",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.40\n0.85\n1.11",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n40\n17\n23\n\n/",
+            "deaths": "44\n24\n20",
+            "fk": "152\n151\n153",
+            "hs%": "67%\n65%\n68%",
+            "kdr": "12\n5\n7",
+            "kills": "238",
+            "name": "Vaab",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.90\n1.03",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n37\n20\n17\n\n/",
+            "deaths": "35\n20\n15",
+            "fk": "120\n135\n107",
+            "hs%": "76%\n81%\n71%",
+            "kdr": "11\n6\n5",
+            "kills": "224",
+            "name": "theunholyone",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.09\n0.93",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n39\n21\n18\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "145\n126\n163",
+            "hs%": "70%\n62%\n79%",
+            "kdr": "8\n3\n5",
+            "kills": "200",
+            "name": "spK",
+            "team": null
+          },
+          {
+            "acs": "0.62\n0.90\n0.77",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n43\n24\n19\n\n/",
+            "deaths": "35\n16\n19",
+            "fk": "118\n118\n118",
+            "hs%": "70%\n81%\n61%",
+            "kdr": "11\n8\n3",
+            "kills": "173",
+            "name": "Evilizer",
+            "team": null
+          },
+          {
+            "acs": "0.55\n0.70\n0.63",
+            "adr": "-19\n-11\n-8",
+            "agent": "",
+            "assists": "/\n\n43\n22\n21\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "105\n104\n106",
+            "hs%": "61%\n62%\n61%",
+            "kdr": "15\n8\n7",
+            "kills": "152",
+            "name": "BLU3B3RRIES",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.68\n1.42\n1.55",
+            "adr": "+24\n+15\n+9",
+            "agent": "",
+            "assists": "/\n\n41\n21\n20\n\n/",
+            "deaths": "65\n36\n29",
+            "fk": "210\n212\n209",
+            "hs%": "74%\n71%\n77%",
+            "kdr": "12\n4\n8",
+            "kills": "362",
+            "name": "Devious",
+            "team": null
+          },
+          {
+            "acs": "1.26\n1.04\n1.15",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n33\n16\n17\n\n/",
+            "deaths": "39\n23\n16",
+            "fk": "146\n170\n120",
+            "hs%": "76%\n75%\n77%",
+            "kdr": "20\n12\n8",
+            "kills": "238",
+            "name": "Tsar",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.25\n1.03",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "39\n16\n23",
+            "fk": "135\n118\n152",
+            "hs%": "74%\n68%\n81%",
+            "kdr": "9\n5\n4",
+            "kills": "172",
+            "name": "RoY",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.91\n0.91",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n34\n17\n17\n\n/",
+            "deaths": "29\n11\n18",
+            "fk": "98\n97\n99",
+            "hs%": "70%\n61%\n81%",
+            "kdr": "11\n5\n6",
+            "kills": "133",
+            "name": "iceiceice",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.78\n0.80",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n36\n17\n19\n\n/",
+            "deaths": "30\n13\n17",
+            "fk": "105\n87\n123",
+            "hs%": "67%\n57%\n77%",
+            "kdr": "10\n4\n6",
+            "kills": "140",
+            "name": "DamN",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "276",
+          "name": "Vaab",
+          "team": "Team Assassins"
+        },
+        {
+          "kills": "236",
+          "name": "theunholyone",
+          "team": "Team Assassins"
+        },
+        {
+          "kills": "246",
+          "name": "BLU3B3RRIES",
+          "team": "Team Assassins"
+        },
+        {
+          "kills": "195",
+          "name": "Evilizer",
+          "team": "Team Assassins"
+        },
+        {
+          "kills": "228",
+          "name": "spK",
+          "team": "Team Assassins"
+        },
+        {
+          "kills": "437",
+          "name": "Devious",
+          "team": "Zeusaberz Esports"
+        },
+        {
+          "kills": "128",
+          "name": "Tsar",
+          "team": "Zeusaberz Esports"
+        },
+        {
+          "kills": "286",
+          "name": "iceiceice",
+          "team": "Zeusaberz Esports"
+        },
+        {
+          "kills": "218",
+          "name": "RoY",
+          "team": "Zeusaberz Esports"
+        },
+        {
+          "kills": "212",
+          "name": "DamN",
+          "team": "Zeusaberz Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.27\n1.28",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "162\n139\n181",
+            "hs%": "59%\n40%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "276",
+            "name": "Vaab",
+            "team": "Team Assassins"
+          },
+          {
+            "acs": "1.18\n0.89\n1.41",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "152\n110\n187",
+            "hs%": "82%\n70%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "236",
+            "name": "theunholyone",
+            "team": "Team Assassins"
+          },
+          {
+            "acs": "0.75\n0.33\n1.11",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "119\n79\n153",
+            "hs%": "64%\n40%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "246",
+            "name": "BLU3B3RRIES",
+            "team": "Team Assassins"
+          },
+          {
+            "acs": "0.69\n0.45\n0.89",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "97\n70\n120",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "8\n5\n3",
+            "kills": "195",
+            "name": "Evilizer",
+            "team": "Team Assassins"
+          },
+          {
+            "acs": "0.68\n0.03\n1.27",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "109\n39\n168",
+            "hs%": "73%\n50%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "228",
+            "name": "spK",
+            "team": "Team Assassins"
+          }
+        ],
+        [
+          {
+            "acs": "1.74\n1.49\n2.03",
+            "adr": "+14\n+2\n+12",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "30\n13\n17",
+            "fk": "215\n211\n219",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "5\n2\n3",
+            "kills": "437",
+            "name": "Devious",
+            "team": "Zeusaberz Esports"
+          },
+          {
+            "acs": "1.16\n1.27\n1.03",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "146\n198\n85",
+            "hs%": "82%\n67%\n100%",
+            "kdr": "10\n6\n4",
+            "kills": "128",
+            "name": "Tsar",
+            "team": "Zeusaberz Esports"
+          },
+          {
+            "acs": "0.95\n0.40\n1.61",
+            "adr": "+1\n-7\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "84\n53\n120",
+            "hs%": "55%\n25%\n90%",
+            "kdr": "3\n0\n3",
+            "kills": "286",
+            "name": "iceiceice",
+            "team": "Zeusaberz Esports"
+          },
+          {
+            "acs": "0.89\n0.65\n1.19",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "121\n120\n122",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "2\n1\n1",
+            "kills": "218",
+            "name": "RoY",
+            "team": "Zeusaberz Esports"
+          },
+          {
+            "acs": "0.56\n0.33\n0.84",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "80\n48\n118",
+            "hs%": "59%\n33%\n90%",
+            "kdr": "5\n0\n5",
+            "kills": "212",
+            "name": "DamN",
+            "team": "Zeusaberz Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 29334,
+  "teams": [
+    "Zeusaberz Esports",
+    "Team Assassins"
+  ],
+  "tournament": "Bangladesh Qualifier: \n\t\t\t\t\t\tQuarterfinals"
+}

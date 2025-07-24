@@ -1,0 +1,788 @@
+{
+  "date": "2022-02-23 11:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "295",
+          "name": "ALIVE",
+          "team": "Finest"
+        },
+        {
+          "kills": "297",
+          "name": "ponkt",
+          "team": "Finest"
+        },
+        {
+          "kills": "251",
+          "name": "mizuN",
+          "team": "Finest"
+        },
+        {
+          "kills": "187",
+          "name": "RECIDENT",
+          "team": "Finest"
+        },
+        {
+          "kills": "124",
+          "name": "synsi",
+          "team": "Finest"
+        },
+        {
+          "kills": "211",
+          "name": "grubinho",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "169",
+          "name": "YouBreak",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "149",
+          "name": "Katu",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "163",
+          "name": "saiko",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "106",
+          "name": "Stix",
+          "team": "AWARIA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.72\n1.31\n1.93",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "185\n178\n189",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "295",
+            "name": "ALIVE",
+            "team": "Finest"
+          },
+          {
+            "acs": "1.71\n1.88\n1.63",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "200\n224\n188",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "297",
+            "name": "ponkt",
+            "team": "Finest"
+          },
+          {
+            "acs": "1.17\n0.80\n1.35",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "174\n83\n219",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "3\n3\n0",
+            "kills": "251",
+            "name": "mizuN",
+            "team": "Finest"
+          },
+          {
+            "acs": "0.93\n1.15\n0.81",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "122\n93\n137",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "187",
+            "name": "RECIDENT",
+            "team": "Finest"
+          },
+          {
+            "acs": "0.77\n1.13\n0.59",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "74\n85\n68",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "13\n4\n9",
+            "kills": "124",
+            "name": "synsi",
+            "team": "Finest"
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n1.37\n0.40",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "131\n167\n60",
+            "hs%": "72%\n83%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "211",
+            "name": "grubinho",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.70\n0.65\n0.80",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "115\n105\n136",
+            "hs%": "56%\n50%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "169",
+            "name": "YouBreak",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.64\n0.67\n0.60",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "93\n88\n103",
+            "hs%": "67%\n58%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "149",
+            "name": "Katu",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.63\n0.44\n1.02",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "114\n98\n146",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "163",
+            "name": "saiko",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.47\n0.38\n0.66",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "58\n44\n84",
+            "hs%": "39%\n42%\n33%",
+            "kdr": "3\n2\n1",
+            "kills": "106",
+            "name": "Stix",
+            "team": "AWARIA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "281",
+          "name": "ponkt",
+          "team": null
+        },
+        {
+          "kills": "240",
+          "name": "ALIVE",
+          "team": null
+        },
+        {
+          "kills": "242",
+          "name": "mizuN",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "synsi",
+          "team": null
+        },
+        {
+          "kills": "113",
+          "name": "RECIDENT",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "grubinho",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "saiko",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "Katu",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "Stix",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "YouBreak",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.45\n1.45",
+            "adr": "+26\n+12\n+14",
+            "agent": "",
+            "assists": "/\n\n36\n16\n20\n\n/",
+            "deaths": "62\n28\n34",
+            "fk": "185\n178\n192",
+            "hs%": "79%\n80%\n79%",
+            "kdr": "17\n11\n6",
+            "kills": "281",
+            "name": "ponkt",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.50\n1.35",
+            "adr": "+21\n+7\n+14",
+            "agent": "",
+            "assists": "/\n\n38\n20\n18\n\n/",
+            "deaths": "59\n27\n32",
+            "fk": "158\n145\n170",
+            "hs%": "76%\n73%\n79%",
+            "kdr": "12\n6\n6",
+            "kills": "240",
+            "name": "ALIVE",
+            "team": null
+          },
+          {
+            "acs": "1.33\n1.14\n1.23",
+            "adr": "+15\n+11\n+4",
+            "agent": "",
+            "assists": "/\n\n42\n18\n24\n\n/",
+            "deaths": "57\n29\n28",
+            "fk": "162\n154\n170",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "19\n5\n14",
+            "kills": "242",
+            "name": "mizuN",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.96\n0.98",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n41\n19\n22\n\n/",
+            "deaths": "36\n15\n21",
+            "fk": "118\n111\n123",
+            "hs%": "78%\n77%\n79%",
+            "kdr": "38\n21\n17",
+            "kills": "161",
+            "name": "synsi",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.84\n0.80",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n41\n18\n23\n\n/",
+            "deaths": "31\n12\n19",
+            "fk": "98\n70\n122",
+            "hs%": "73%\n77%\n70%",
+            "kdr": "17\n9\n8",
+            "kills": "113",
+            "name": "RECIDENT",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.27\n0.97\n1.12",
+            "adr": "+7\n+9\n-2",
+            "agent": "",
+            "assists": "/\n\n40\n21\n19\n\n/",
+            "deaths": "47\n30\n17",
+            "fk": "133\n152\n112",
+            "hs%": "73%\n79%\n67%",
+            "kdr": "11\n5\n6",
+            "kills": "233",
+            "name": "grubinho",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.03\n0.89",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n55\n31\n24\n\n/",
+            "deaths": "47\n23\n24",
+            "fk": "157\n146\n168",
+            "hs%": "63%\n73%\n53%",
+            "kdr": "12\n8\n4",
+            "kills": "225",
+            "name": "saiko",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.66\n0.80",
+            "adr": "-12\n-5\n-7",
+            "agent": "",
+            "assists": "/\n\n52\n28\n24\n\n/",
+            "deaths": "40\n23\n17",
+            "fk": "103\n113\n93",
+            "hs%": "67%\n70%\n63%",
+            "kdr": "22\n16\n6",
+            "kills": "195",
+            "name": "Katu",
+            "team": null
+          },
+          {
+            "acs": "0.62\n0.85\n0.73",
+            "adr": "-17\n-12\n-5",
+            "agent": "",
+            "assists": "/\n\n49\n28\n21\n\n/",
+            "deaths": "32\n16\n16",
+            "fk": "105\n91\n121",
+            "hs%": "57%\n52%\n63%",
+            "kdr": "19\n10\n9",
+            "kills": "141",
+            "name": "Stix",
+            "team": null
+          },
+          {
+            "acs": "0.63\n0.79\n0.70",
+            "adr": "-17\n-11\n-6",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "32\n16\n16",
+            "fk": "109\n102\n117",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "12\n6\n6",
+            "kills": "144",
+            "name": "YouBreak",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "248",
+          "name": "mizuN",
+          "team": "Finest"
+        },
+        {
+          "kills": "239",
+          "name": "ALIVE",
+          "team": "Finest"
+        },
+        {
+          "kills": "262",
+          "name": "synsi",
+          "team": "Finest"
+        },
+        {
+          "kills": "181",
+          "name": "ponkt",
+          "team": "Finest"
+        },
+        {
+          "kills": "102",
+          "name": "RECIDENT",
+          "team": "Finest"
+        },
+        {
+          "kills": "172",
+          "name": "grubinho",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "218",
+          "name": "saiko",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "252",
+          "name": "Stix",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "180",
+          "name": "Katu",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "153",
+          "name": "YouBreak",
+          "team": "AWARIA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.55\n1.26",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "26\n16\n10",
+            "fk": "160\n179\n141",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "9\n2\n7",
+            "kills": "248",
+            "name": "mizuN",
+            "team": "Finest"
+          },
+          {
+            "acs": "1.15\n0.92\n1.39",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "142\n120\n163",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "239",
+            "name": "ALIVE",
+            "team": "Finest"
+          },
+          {
+            "acs": "1.02\n0.65\n1.39",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "139\n94\n185",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "13\n6\n7",
+            "kills": "262",
+            "name": "synsi",
+            "team": "Finest"
+          },
+          {
+            "acs": "0.90\n0.92\n0.88",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "139\n128\n150",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "181",
+            "name": "ponkt",
+            "team": "Finest"
+          },
+          {
+            "acs": "0.60\n0.78\n0.42",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "61\n61\n61",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "10\n8\n2",
+            "kills": "102",
+            "name": "RECIDENT",
+            "team": "Finest"
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n1.48\n1.23",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "138\n163\n114",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "172",
+            "name": "grubinho",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "1.10\n1.28\n0.92",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "172\n201\n142",
+            "hs%": "63%\n75%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "218",
+            "name": "saiko",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "1.00\n0.71\n1.29",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "140\n111\n168",
+            "hs%": "63%\n42%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "252",
+            "name": "Stix",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.80\n0.72\n0.88",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "104\n88\n120",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "7\n6\n1",
+            "kills": "180",
+            "name": "Katu",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.77\n0.58\n0.95",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "89\n64\n114",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "153",
+            "name": "YouBreak",
+            "team": "AWARIA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "368",
+          "name": "ponkt",
+          "team": "Finest"
+        },
+        {
+          "kills": "241",
+          "name": "ALIVE",
+          "team": "Finest"
+        },
+        {
+          "kills": "200",
+          "name": "synsi",
+          "team": "Finest"
+        },
+        {
+          "kills": "213",
+          "name": "mizuN",
+          "team": "Finest"
+        },
+        {
+          "kills": "161",
+          "name": "RECIDENT",
+          "team": "Finest"
+        },
+        {
+          "kills": "186",
+          "name": "Katu",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "191",
+          "name": "grubinho",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "250",
+          "name": "saiko",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "158",
+          "name": "Stix",
+          "team": "AWARIA"
+        },
+        {
+          "kills": "187",
+          "name": "YouBreak",
+          "team": "AWARIA"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.86\n1.79\n1.96",
+            "adr": "+15\n+8\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "29\n15\n14",
+            "fk": "226\n206\n253",
+            "hs%": "86%\n92%\n78%",
+            "kdr": "8\n6\n2",
+            "kills": "368",
+            "name": "ponkt",
+            "team": "Finest"
+          },
+          {
+            "acs": "1.25\n1.38\n1.07",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "153\n152\n155",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "11\n6\n5",
+            "kills": "241",
+            "name": "ALIVE",
+            "team": "Finest"
+          },
+          {
+            "acs": "1.11\n1.30\n0.87",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "130\n142\n114",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "12\n11\n1",
+            "kills": "200",
+            "name": "synsi",
+            "team": "Finest"
+          },
+          {
+            "acs": "1.08\n1.37\n0.69",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "156\n165\n142",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "7\n0\n7",
+            "kills": "213",
+            "name": "mizuN",
+            "team": "Finest"
+          },
+          {
+            "acs": "0.93\n0.54\n1.44",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "118\n68\n185",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "161",
+            "name": "RECIDENT",
+            "team": "Finest"
+          }
+        ],
+        [
+          {
+            "acs": "0.94\n1.57\n0.47",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "112\n179\n61",
+            "hs%": "71%\n89%\n58%",
+            "kdr": "9\n7\n2",
+            "kills": "186",
+            "name": "Katu",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.92\n0.83\n0.99",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "128\n117\n137",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "191",
+            "name": "grubinho",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.87\n0.52\n1.14",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "176\n137\n205",
+            "hs%": "71%\n89%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "250",
+            "name": "saiko",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.65\n0.82\n0.52",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "106\n126\n91",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "7\n5\n2",
+            "kills": "158",
+            "name": "Stix",
+            "team": "AWARIA"
+          },
+          {
+            "acs": "0.64\n0.66\n0.62",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "128\n150\n112",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "187",
+            "name": "YouBreak",
+            "team": "AWARIA"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 71021,
+  "teams": [
+    "Finest",
+    "AWARIA"
+  ],
+  "tournament": "Regular Season: \n\t\t\t\t\t\tWeek 2"
+}

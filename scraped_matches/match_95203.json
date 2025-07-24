@@ -1,0 +1,788 @@
+{
+  "date": "2022-04-30 00:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "236",
+          "name": "lanie",
+          "team": "Stellar"
+        },
+        {
+          "kills": "246",
+          "name": "Rosa",
+          "team": "Stellar"
+        },
+        {
+          "kills": "142",
+          "name": "bethany",
+          "team": "Stellar"
+        },
+        {
+          "kills": "152",
+          "name": "rai",
+          "team": "Stellar"
+        },
+        {
+          "kills": "183",
+          "name": "rainbowbunny",
+          "team": "Stellar"
+        },
+        {
+          "kills": "202",
+          "name": "Chrysania",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "192",
+          "name": "svndme",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "259",
+          "name": "Xerrith",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "256",
+          "name": "mirko",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "158",
+          "name": "Cherzinga",
+          "team": "Wildfire Sphinx"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.26\n1.33\n1.16",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "158\n177\n133",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "2\n2\n0",
+            "kills": "236",
+            "name": "lanie",
+            "team": "Stellar"
+          },
+          {
+            "acs": "1.15\n1.07\n1.25",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "170\n150\n198",
+            "hs%": "71%\n83%\n56%",
+            "kdr": "4\n4\n0",
+            "kills": "246",
+            "name": "Rosa",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.80\n0.59\n1.08",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "89\n78\n104",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "12\n10\n2",
+            "kills": "142",
+            "name": "bethany",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.66\n0.61\n0.73",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "91\n85\n98",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "6\n4\n2",
+            "kills": "152",
+            "name": "rai",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.55\n0.58\n0.52",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "126\n121\n133",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "9\n5\n4",
+            "kills": "183",
+            "name": "rainbowbunny",
+            "team": "Stellar"
+          }
+        ],
+        [
+          {
+            "acs": "1.28\n0.99\n1.50",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "126\n141\n115",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "202",
+            "name": "Chrysania",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "1.26\n1.46\n1.11",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "136\n161\n117",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "192",
+            "name": "svndme",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "1.25\n1.00\n1.44",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "176\n142\n202",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "259",
+            "name": "Xerrith",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "1.23\n1.39\n1.11",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "172\n182\n165",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "256",
+            "name": "mirko",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "0.68\n0.42\n0.87",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "96\n37\n140",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "11\n6\n5",
+            "kills": "158",
+            "name": "Cherzinga",
+            "team": "Wildfire Sphinx"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "267",
+          "name": "lanie",
+          "team": null
+        },
+        {
+          "kills": "258",
+          "name": "Rosa",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "rainbowbunny",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "rai",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "bethany",
+          "team": null
+        },
+        {
+          "kills": "312",
+          "name": "Xerrith",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "svndme",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Chrysania",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "mirko",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "Cherzinga",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.08\n1.23",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n43\n21\n22\n\n/",
+            "deaths": "54\n29\n25",
+            "fk": "145\n168\n124",
+            "hs%": "67%\n70%\n64%",
+            "kdr": "6\n5\n1",
+            "kills": "267",
+            "name": "lanie",
+            "team": null
+          },
+          {
+            "acs": "1.22\n1.13\n1.17",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n50\n24\n26\n\n/",
+            "deaths": "55\n26\n29",
+            "fk": "173\n169\n176",
+            "hs%": "78%\n80%\n76%",
+            "kdr": "11\n7\n4",
+            "kills": "258",
+            "name": "Rosa",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.93\n0.88",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n49\n23\n26\n\n/",
+            "deaths": "43\n18\n25",
+            "fk": "132\n118\n145",
+            "hs%": "67%\n63%\n70%",
+            "kdr": "18\n9\n9",
+            "kills": "174",
+            "name": "rainbowbunny",
+            "team": null
+          },
+          {
+            "acs": "0.66\n0.91\n0.79",
+            "adr": "-16\n-9\n-7",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "99\n76\n119",
+            "hs%": "78%\n77%\n79%",
+            "kdr": "23\n12\n11",
+            "kills": "129",
+            "name": "rai",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.72\n0.63",
+            "adr": "-23\n-12\n-11",
+            "agent": "",
+            "assists": "/\n\n50\n24\n26\n\n/",
+            "deaths": "27\n12\n15",
+            "fk": "84\n77\n90",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "30\n16\n14",
+            "kills": "130",
+            "name": "bethany",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n1.29\n1.36",
+            "adr": "+22\n+14\n+8",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "66\n36\n30",
+            "fk": "211\n216\n206",
+            "hs%": "84%\n82%\n87%",
+            "kdr": "19\n10\n9",
+            "kills": "312",
+            "name": "Xerrith",
+            "team": null
+          },
+          {
+            "acs": "1.12\n1.03\n1.07",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n37\n20\n17\n\n/",
+            "deaths": "45\n23\n22",
+            "fk": "120\n108\n133",
+            "hs%": "71%\n79%\n63%",
+            "kdr": "14\n8\n6",
+            "kills": "179",
+            "name": "svndme",
+            "team": null
+          },
+          {
+            "acs": "0.94\n1.03\n0.98",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n39\n23\n16\n\n/",
+            "deaths": "41\n24\n17",
+            "fk": "120\n151\n87",
+            "hs%": "71%\n67%\n77%",
+            "kdr": "19\n12\n7",
+            "kills": "209",
+            "name": "Chrysania",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.82\n0.96",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "45\n27\n18",
+            "fk": "126\n141\n110",
+            "hs%": "71%\n76%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "226",
+            "name": "mirko",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.19\n0.94",
+            "adr": "-5\n-10\n+5",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "42\n15\n27",
+            "fk": "121\n81\n166",
+            "hs%": "79%\n85%\n73%",
+            "kdr": "30\n18\n12",
+            "kills": "137",
+            "name": "Cherzinga",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "138",
+          "name": "lanie",
+          "team": "Stellar"
+        },
+        {
+          "kills": "227",
+          "name": "rainbowbunny",
+          "team": "Stellar"
+        },
+        {
+          "kills": "232",
+          "name": "Rosa",
+          "team": "Stellar"
+        },
+        {
+          "kills": "215",
+          "name": "rai",
+          "team": "Stellar"
+        },
+        {
+          "kills": "158",
+          "name": "bethany",
+          "team": "Stellar"
+        },
+        {
+          "kills": "364",
+          "name": "Xerrith",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "366",
+          "name": "Cherzinga",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "60",
+          "name": "mirko",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "157",
+          "name": "svndme",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "49",
+          "name": "Chrysania",
+          "team": "Wildfire Sphinx"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.44\n2.08\n0.79",
+            "adr": "+9\n+10\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "23\n16\n7",
+            "fk": "149\n212\n86",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "3\n3\n0",
+            "kills": "138",
+            "name": "lanie",
+            "team": "Stellar"
+          },
+          {
+            "acs": "1.25\n1.30\n1.20",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "155\n164\n146",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "227",
+            "name": "rainbowbunny",
+            "team": "Stellar"
+          },
+          {
+            "acs": "1.02\n1.04\n1.01",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "153\n167\n140",
+            "hs%": "88%\n83%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "232",
+            "name": "Rosa",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.85\n0.61\n1.10",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "102\n59\n146",
+            "hs%": "88%\n100%\n75%",
+            "kdr": "13\n6\n7",
+            "kills": "215",
+            "name": "rai",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.57\n0.48\n0.67",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "91\n86\n96",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "158",
+            "name": "bethany",
+            "team": "Stellar"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n1.55\n1.34",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "238\n239\n237",
+            "hs%": "88%\n83%\n92%",
+            "kdr": "5\n3\n2",
+            "kills": "364",
+            "name": "Xerrith",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "1.23\n0.86\n1.60",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "158\n100\n215",
+            "hs%": "92%\n100%\n83%",
+            "kdr": "13\n7\n6",
+            "kills": "366",
+            "name": "Cherzinga",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "0.84\n1.27\n0.41",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "89\n137\n41",
+            "hs%": "75%\n92%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "60",
+            "name": "mirko",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "0.79\n0.88\n0.70",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "87\n79\n95",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "157",
+            "name": "svndme",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "0.54\n0.68\n0.40",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "100\n163\n38",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "49",
+            "name": "Chrysania",
+            "team": "Wildfire Sphinx"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "306",
+          "name": "Rosa",
+          "team": "Stellar"
+        },
+        {
+          "kills": "191",
+          "name": "lanie",
+          "team": "Stellar"
+        },
+        {
+          "kills": "164",
+          "name": "rai",
+          "team": "Stellar"
+        },
+        {
+          "kills": "159",
+          "name": "rainbowbunny",
+          "team": "Stellar"
+        },
+        {
+          "kills": "113",
+          "name": "bethany",
+          "team": "Stellar"
+        },
+        {
+          "kills": "300",
+          "name": "Xerrith",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "262",
+          "name": "svndme",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "192",
+          "name": "Chrysania",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "158",
+          "name": "Cherzinga",
+          "team": "Wildfire Sphinx"
+        },
+        {
+          "kills": "193",
+          "name": "mirko",
+          "team": "Wildfire Sphinx"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.90\n1.17",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "201\n210\n196",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "306",
+            "name": "Rosa",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.91\n0.13\n1.31",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "124\n62\n155",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "191",
+            "name": "lanie",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.85\n0.85\n0.85",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "103\n95\n108",
+            "hs%": "72%\n50%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "164",
+            "name": "rai",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.76\n0.33\n0.97",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "109\n22\n152",
+            "hs%": "67%\n50%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "159",
+            "name": "rainbowbunny",
+            "team": "Stellar"
+          },
+          {
+            "acs": "0.51\n0.55\n0.49",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "68\n58\n74",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "10\n3\n7",
+            "kills": "113",
+            "name": "bethany",
+            "team": "Stellar"
+          }
+        ],
+        [
+          {
+            "acs": "1.36\n1.59\n0.89",
+            "adr": "+9\n+9\n0",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "20\n16\n4",
+            "fk": "216\n248\n153",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "8\n5\n3",
+            "kills": "300",
+            "name": "Xerrith",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "1.23\n1.09\n1.51",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "145\n97\n241",
+            "hs%": "72%\n75%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "262",
+            "name": "svndme",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "1.22\n1.17\n1.33",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "140\n147\n127",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "192",
+            "name": "Chrysania",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "0.88\n0.82\n0.99",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "103\n95\n118",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "158",
+            "name": "Cherzinga",
+            "team": "Wildfire Sphinx"
+          },
+          {
+            "acs": "0.80\n0.66\n1.07",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "122\n114\n138",
+            "hs%": "67%\n58%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "193",
+            "name": "mirko",
+            "team": "Wildfire Sphinx"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 95203,
+  "teams": [
+    "Wildfire Sphinx",
+    "Stellar"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup O"
+}

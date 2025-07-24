@@ -1,0 +1,788 @@
+{
+  "date": "2022-11-25 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "269",
+          "name": "shhhack",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "260",
+          "name": "B1SK",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "219",
+          "name": "kyrrz",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "192",
+          "name": "jonba",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "138",
+          "name": "Insider",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "207",
+          "name": "zeddy",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "216",
+          "name": "Moe40",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "196",
+          "name": "doma",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "195",
+          "name": "Foxie",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "200",
+          "name": "paTiTek",
+          "team": "BRATAN MIX"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.33\n1.01\n1.64",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "184\n166\n202",
+            "hs%": "68%\n64%\n71%",
+            "kdr": "8\n4\n4",
+            "kills": "269",
+            "name": "shhhack",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "1.14\n1.40\n0.87",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n23\n10\n13\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "159\n164\n155",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "2\n1\n1",
+            "kills": "260",
+            "name": "B1SK",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "1.02\n1.30\n0.74",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n9\n13\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "141\n146\n136",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "6\n2\n4",
+            "kills": "219",
+            "name": "kyrrz",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "0.97\n0.75\n1.19",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "126\n114\n137",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "10\n4\n6",
+            "kills": "192",
+            "name": "jonba",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "0.66\n0.53\n0.78",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "100\n89\n112",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "13\n6\n7",
+            "kills": "138",
+            "name": "Insider",
+            "team": "KPI Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n1.40\n0.92",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "147\n165\n130",
+            "hs%": "68%\n79%\n57%",
+            "kdr": "12\n6\n6",
+            "kills": "207",
+            "name": "zeddy",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "1.06\n0.79\n1.32",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "156\n124\n189",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "12\n5\n7",
+            "kills": "216",
+            "name": "Moe40",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "0.97\n1.34\n0.60",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "131\n187\n74",
+            "hs%": "71%\n86%\n57%",
+            "kdr": "5\n4\n1",
+            "kills": "196",
+            "name": "doma",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "0.92\n0.83\n1.01",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "144\n145\n143",
+            "hs%": "71%\n64%\n79%",
+            "kdr": "9\n6\n3",
+            "kills": "195",
+            "name": "Foxie",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "0.82\n0.56\n1.07",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "114\n103\n124",
+            "hs%": "68%\n64%\n71%",
+            "kdr": "3\n2\n1",
+            "kills": "200",
+            "name": "paTiTek",
+            "team": "BRATAN MIX"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "234",
+          "name": "shhhack",
+          "team": null
+        },
+        {
+          "kills": "255",
+          "name": "B1SK",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "kyrrz",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "jonba",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "Insider",
+          "team": null
+        },
+        {
+          "kills": "284",
+          "name": "doma",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Foxie",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "zeddy",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "paTiTek",
+          "team": null
+        },
+        {
+          "kills": "120",
+          "name": "Moe40",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.61\n1.42",
+            "adr": "+26\n+5\n+21",
+            "agent": "",
+            "assists": "/\n\n41\n23\n18\n\n/",
+            "deaths": "67\n28\n39",
+            "fk": "168\n161\n173",
+            "hs%": "74%\n72%\n76%",
+            "kdr": "20\n6\n14",
+            "kills": "234",
+            "name": "shhhack",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.03\n1.08",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "59\n28\n31",
+            "fk": "159\n165\n155",
+            "hs%": "71%\n63%\n78%",
+            "kdr": "14\n6\n8",
+            "kills": "255",
+            "name": "B1SK",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.07\n1.07",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n48\n21\n27\n\n/",
+            "deaths": "50\n21\n29",
+            "fk": "138\n131\n144",
+            "hs%": "78%\n75%\n81%",
+            "kdr": "22\n11\n11",
+            "kills": "192",
+            "name": "kyrrz",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.04\n0.96",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n49\n21\n28\n\n/",
+            "deaths": "47\n21\n26",
+            "fk": "133\n125\n139",
+            "hs%": "77%\n81%\n73%",
+            "kdr": "25\n7\n18",
+            "kills": "177",
+            "name": "jonba",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.13\n0.93",
+            "adr": "0\n-8\n+8",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "45\n16\n29",
+            "fk": "131\n106\n153",
+            "hs%": "78%\n75%\n81%",
+            "kdr": "28\n12\n16",
+            "kills": "156",
+            "name": "Insider",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n0.97\n1.18",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n51\n30\n21\n\n/",
+            "deaths": "59\n37\n22",
+            "fk": "163\n190\n131",
+            "hs%": "74%\n76%\n72%",
+            "kdr": "10\n6\n4",
+            "kills": "284",
+            "name": "doma",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.03\n0.91",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n51\n30\n21\n\n/",
+            "deaths": "44\n23\n21",
+            "fk": "126\n122\n131",
+            "hs%": "77%\n73%\n81%",
+            "kdr": "20\n12\n8",
+            "kills": "179",
+            "name": "Foxie",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.05\n0.89",
+            "adr": "-9\n-10\n+1",
+            "agent": "",
+            "assists": "/\n\n54\n32\n22\n\n/",
+            "deaths": "45\n22\n23",
+            "fk": "115\n97\n136",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "22\n9\n13",
+            "kills": "157",
+            "name": "zeddy",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.06\n0.89",
+            "adr": "-8\n-10\n+2",
+            "agent": "",
+            "assists": "/\n\n59\n34\n25\n\n/",
+            "deaths": "51\n24\n27",
+            "fk": "128\n116\n142",
+            "hs%": "72%\n70%\n75%",
+            "kdr": "14\n6\n8",
+            "kills": "188",
+            "name": "paTiTek",
+            "team": null
+          },
+          {
+            "acs": "0.52\n0.93\n0.71",
+            "adr": "-19\n-16\n-3",
+            "agent": "",
+            "assists": "/\n\n53\n31\n22\n\n/",
+            "deaths": "34\n15\n19",
+            "fk": "107\n90\n127",
+            "hs%": "61%\n57%\n66%",
+            "kdr": "21\n10\n11",
+            "kills": "120",
+            "name": "Moe40",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "shhhack",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "326",
+          "name": "Insider",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "288",
+          "name": "kyrrz",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "199",
+          "name": "jonba",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "194",
+          "name": "B1SK",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "271",
+          "name": "doma",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "312",
+          "name": "paTiTek",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "183",
+          "name": "Foxie",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "189",
+          "name": "zeddy",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "83",
+          "name": "Moe40",
+          "team": "BRATAN MIX"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.65\n1.35\n1.80",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n6\n3\n3\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "134\n93\n154",
+            "hs%": "72%\n50%\n83%",
+            "kdr": "9\n0\n9",
+            "kills": "245",
+            "name": "shhhack",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "1.50\n1.45\n1.52",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "211\n196\n219",
+            "hs%": "94%\n83%\n100%",
+            "kdr": "4\n1\n3",
+            "kills": "326",
+            "name": "Insider",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "1.18\n0.79\n1.37",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "166\n127\n185",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "13\n6\n7",
+            "kills": "288",
+            "name": "kyrrz",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "1.11\n1.00\n1.17",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "141\n156\n134",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "9\n2\n7",
+            "kills": "199",
+            "name": "jonba",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "0.95\n0.60\n1.12",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "120\n85\n137",
+            "hs%": "67%\n33%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "194",
+            "name": "B1SK",
+            "team": "KPI Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n1.01\n1.18",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "166\n154\n189",
+            "hs%": "67%\n58%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "271",
+            "name": "doma",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "0.99\n0.77\n1.43",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "140\n110\n200",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "312",
+            "name": "paTiTek",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "0.83\n0.60\n1.30",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "107\n88\n145",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "183",
+            "name": "Foxie",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "0.66\n0.61\n0.75",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "81\n67\n109",
+            "hs%": "61%\n50%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "189",
+            "name": "zeddy",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "0.34\n0.22\n0.58",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "70\n73\n64",
+            "hs%": "44%\n33%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "83",
+            "name": "Moe40",
+            "team": "BRATAN MIX"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "274",
+          "name": "shhhack",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "282",
+          "name": "B1SK",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "169",
+          "name": "kyrrz",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "185",
+          "name": "jonba",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "161",
+          "name": "Insider",
+          "team": "KPI Gaming"
+        },
+        {
+          "kills": "286",
+          "name": "doma",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "190",
+          "name": "Foxie",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "208",
+          "name": "paTiTek",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "186",
+          "name": "zeddy",
+          "team": "BRATAN MIX"
+        },
+        {
+          "kills": "118",
+          "name": "Moe40",
+          "team": "BRATAN MIX"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.37\n1.36\n1.37",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "174\n190\n158",
+            "hs%": "83%\n92%\n73%",
+            "kdr": "3\n2\n1",
+            "kills": "274",
+            "name": "shhhack",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "1.12\n1.11\n1.13",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "191\n207\n173",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "6\n3\n3",
+            "kills": "282",
+            "name": "B1SK",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "1.04\n0.92\n1.17",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "112\n115\n109",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "3\n3\n0",
+            "kills": "169",
+            "name": "kyrrz",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "0.84\n0.97\n0.70",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "135\n123\n148",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "6\n1\n5",
+            "kills": "185",
+            "name": "jonba",
+            "team": "KPI Gaming"
+          },
+          {
+            "acs": "0.81\n0.50\n1.16",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "107\n82\n134",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "11\n5\n6",
+            "kills": "161",
+            "name": "Insider",
+            "team": "KPI Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.54\n1.80\n1.30",
+            "adr": "+10\n+6\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "200\n234\n169",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "286",
+            "name": "doma",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "0.96\n1.02\n0.91",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "120\n131\n110",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "190",
+            "name": "Foxie",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "0.90\n0.96\n0.85",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "137\n139\n134",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "208",
+            "name": "paTiTek",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "0.74\n0.07\n1.35",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "103\n44\n157",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "186",
+            "name": "zeddy",
+            "team": "BRATAN MIX"
+          },
+          {
+            "acs": "0.58\n0.51\n0.63",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "76\n67\n85",
+            "hs%": "57%\n55%\n58%",
+            "kdr": "6\n5\n1",
+            "kills": "118",
+            "name": "Moe40",
+            "team": "BRATAN MIX"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 159023,
+  "teams": [
+    "KPI Gaming",
+    "BRATAN MIX"
+  ],
+  "tournament": "Grand Finals: \n\t\t\t\t\t\tRound of 16"
+}

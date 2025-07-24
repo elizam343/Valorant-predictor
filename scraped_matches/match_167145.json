@@ -1,0 +1,594 @@
+{
+  "date": "2023-01-17 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "220",
+          "name": "Rohlyn",
+          "team": "Medics"
+        },
+        {
+          "kills": "253",
+          "name": "Morbit",
+          "team": "Medics"
+        },
+        {
+          "kills": "229",
+          "name": "mean",
+          "team": "Medics"
+        },
+        {
+          "kills": "165",
+          "name": "Asetic",
+          "team": "Medics"
+        },
+        {
+          "kills": "115",
+          "name": "\u9774\u5c4b\u5148\u8f29",
+          "team": "Medics"
+        },
+        {
+          "kills": "287",
+          "name": "indra",
+          "team": "FinalFormHQ"
+        },
+        {
+          "kills": "273",
+          "name": "KoN",
+          "team": "FinalFormHQ"
+        },
+        {
+          "kills": "155",
+          "name": "Major",
+          "team": "FinalFormHQ"
+        },
+        {
+          "kills": "140",
+          "name": "Sparticus",
+          "team": "FinalFormHQ"
+        },
+        {
+          "kills": "149",
+          "name": "bemo",
+          "team": "FinalFormHQ"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.17\n1.22\n1.13",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "145\n148\n143",
+            "hs%": "65%\n77%\n54%",
+            "kdr": "12\n10\n2",
+            "kills": "220",
+            "name": "Rohlyn",
+            "team": "Medics"
+          },
+          {
+            "acs": "1.08\n1.24\n0.93",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "170\n158\n182",
+            "hs%": "73%\n85%\n62%",
+            "kdr": "14\n10\n4",
+            "kills": "253",
+            "name": "Morbit",
+            "team": "Medics"
+          },
+          {
+            "acs": "0.99\n1.38\n0.59",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "150\n181\n119",
+            "hs%": "58%\n77%\n38%",
+            "kdr": "3\n1\n2",
+            "kills": "229",
+            "name": "mean",
+            "team": "Medics"
+          },
+          {
+            "acs": "0.83\n0.96\n0.71",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "115\n124\n106",
+            "hs%": "62%\n69%\n54%",
+            "kdr": "9\n5\n4",
+            "kills": "165",
+            "name": "Asetic",
+            "team": "Medics"
+          },
+          {
+            "acs": "0.73\n0.59\n0.88",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "68\n42\n94",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "3\n1\n2",
+            "kills": "115",
+            "name": "\u9774\u5c4b\u5148\u8f29",
+            "team": "Medics"
+          }
+        ],
+        [
+          {
+            "acs": "1.64\n1.82\n1.46",
+            "adr": "+12\n+9\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "185\n189\n181",
+            "hs%": "81%\n92%\n69%",
+            "kdr": "8\n6\n2",
+            "kills": "287",
+            "name": "indra",
+            "team": "FinalFormHQ"
+          },
+          {
+            "acs": "1.24\n1.36\n1.11",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "27\n17\n10",
+            "fk": "169\n213\n124",
+            "hs%": "54%\n62%\n46%",
+            "kdr": "2\n2\n0",
+            "kills": "273",
+            "name": "KoN",
+            "team": "FinalFormHQ"
+          },
+          {
+            "acs": "0.95\n1.44\n0.47",
+            "adr": "0\n+6\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "125\n159\n90",
+            "hs%": "77%\n100%\n54%",
+            "kdr": "3\n2\n1",
+            "kills": "155",
+            "name": "Major",
+            "team": "FinalFormHQ"
+          },
+          {
+            "acs": "0.79\n0.87\n0.71",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "105\n102\n109",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "11\n5\n6",
+            "kills": "140",
+            "name": "Sparticus",
+            "team": "FinalFormHQ"
+          },
+          {
+            "acs": "0.76\n0.39\n1.14",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "95\n85\n104",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "15\n4\n11",
+            "kills": "149",
+            "name": "bemo",
+            "team": "FinalFormHQ"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "242",
+          "name": "Morbit",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "Rohlyn",
+          "team": null
+        },
+        {
+          "kills": "290",
+          "name": "mean",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "Asetic",
+          "team": null
+        },
+        {
+          "kills": "63",
+          "name": "\u9774\u5c4b\u5148\u8f29",
+          "team": null
+        },
+        {
+          "kills": "274",
+          "name": "indra",
+          "team": null
+        },
+        {
+          "kills": "322",
+          "name": "KoN",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "Major",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "bemo",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "Sparticus",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.06\n1.11",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n34\n10\n24\n\n/",
+            "deaths": "37\n15\n22",
+            "fk": "178\n157\n194",
+            "hs%": "72%\n78%\n68%",
+            "kdr": "18\n12\n6",
+            "kills": "242",
+            "name": "Morbit",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.96\n1.01",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n31\n11\n20\n\n/",
+            "deaths": "29\n12\n17",
+            "fk": "125\n124\n126",
+            "hs%": "67%\n72%\n64%",
+            "kdr": "15\n11\n4",
+            "kills": "202",
+            "name": "Rohlyn",
+            "team": null
+          },
+          {
+            "acs": "1.33\n0.62\n0.92",
+            "adr": "-1\n+7\n-8",
+            "agent": "",
+            "assists": "/\n\n34\n12\n22\n\n/",
+            "deaths": "33\n19\n14",
+            "fk": "136\n172\n110",
+            "hs%": "63%\n78%\n52%",
+            "kdr": "5\n1\n4",
+            "kills": "290",
+            "name": "mean",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.72\n0.78",
+            "adr": "-12\n-3\n-9",
+            "agent": "",
+            "assists": "/\n\n32\n12\n20\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "106\n119\n97",
+            "hs%": "60%\n67%\n56%",
+            "kdr": "14\n5\n9",
+            "kills": "160",
+            "name": "Asetic",
+            "team": null
+          },
+          {
+            "acs": "0.49\n0.66\n0.59",
+            "adr": "-15\n-6\n-9",
+            "agent": "",
+            "assists": "/\n\n30\n11\n19\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "63\n31\n86",
+            "hs%": "63%\n67%\n60%",
+            "kdr": "5\n1\n4",
+            "kills": "63",
+            "name": "\u9774\u5c4b\u5148\u8f29",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.64\n1.55\n1.60",
+            "adr": "+18\n+13\n+5",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "43\n26\n17",
+            "fk": "177\n173\n183",
+            "hs%": "79%\n84%\n72%",
+            "kdr": "21\n15\n6",
+            "kills": "274",
+            "name": "indra",
+            "team": null
+          },
+          {
+            "acs": "1.21\n1.38\n1.29",
+            "adr": "+18\n+10\n+8",
+            "agent": "",
+            "assists": "/\n\n28\n19\n9\n\n/",
+            "deaths": "46\n29\n17",
+            "fk": "181\n200\n155",
+            "hs%": "63%\n72%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "322",
+            "name": "KoN",
+            "team": null
+          },
+          {
+            "acs": "1.24\n0.66\n1.00",
+            "adr": "+1\n+9\n-8",
+            "agent": "",
+            "assists": "/\n\n23\n9\n14\n\n/",
+            "deaths": "24\n18\n6",
+            "fk": "112\n130\n87",
+            "hs%": "77%\n88%\n61%",
+            "kdr": "5\n3\n2",
+            "kills": "175",
+            "name": "Major",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.06\n0.94",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n32\n19\n13\n\n/",
+            "deaths": "26\n18\n8",
+            "fk": "112\n121\n100",
+            "hs%": "77%\n80%\n72%",
+            "kdr": "29\n13\n16",
+            "kills": "198",
+            "name": "bemo",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.63\n0.88",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "22\n16\n6",
+            "fk": "111\n128\n88",
+            "hs%": "77%\n80%\n72%",
+            "kdr": "16\n9\n7",
+            "kills": "186",
+            "name": "Sparticus",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "316",
+          "name": "Morbit",
+          "team": "Medics"
+        },
+        {
+          "kills": "154",
+          "name": "mean",
+          "team": "Medics"
+        },
+        {
+          "kills": "177",
+          "name": "Rohlyn",
+          "team": "Medics"
+        },
+        {
+          "kills": "140",
+          "name": "Asetic",
+          "team": "Medics"
+        },
+        {
+          "kills": "99",
+          "name": "\u9774\u5c4b\u5148\u8f29",
+          "team": "Medics"
+        },
+        {
+          "kills": "309",
+          "name": "indra",
+          "team": "FinalFormHQ"
+        },
+        {
+          "kills": "349",
+          "name": "KoN",
+          "team": "FinalFormHQ"
+        },
+        {
+          "kills": "154",
+          "name": "bemo",
+          "team": "FinalFormHQ"
+        },
+        {
+          "kills": "118",
+          "name": "Major",
+          "team": "FinalFormHQ"
+        },
+        {
+          "kills": "61",
+          "name": "Sparticus",
+          "team": "FinalFormHQ"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.04\n1.20",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "191\n153\n206",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "316",
+            "name": "Morbit",
+            "team": "Medics"
+          },
+          {
+            "acs": "0.81\n1.20\n0.65",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "114\n148\n100",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "154",
+            "name": "mean",
+            "team": "Medics"
+          },
+          {
+            "acs": "0.75\n0.68\n0.78",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "94\n62\n107",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "177",
+            "name": "Rohlyn",
+            "team": "Medics"
+          },
+          {
+            "acs": "0.70\n0.65\n0.72",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "94\n108\n87",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "5\n0\n5",
+            "kills": "140",
+            "name": "Asetic",
+            "team": "Medics"
+          },
+          {
+            "acs": "0.37\n0.25\n0.43",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "3\n0\n3",
+            "fk": "56\n3\n78",
+            "hs%": "53%\n40%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "99",
+            "name": "\u9774\u5c4b\u5148\u8f29",
+            "team": "Medics"
+          }
+        ],
+        [
+          {
+            "acs": "1.54\n1.45\n1.77",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "165\n155\n189",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "13\n9\n4",
+            "kills": "309",
+            "name": "indra",
+            "team": "FinalFormHQ"
+          },
+          {
+            "acs": "1.36\n1.06\n2.08",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "200\n186\n235",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "349",
+            "name": "KoN",
+            "team": "FinalFormHQ"
+          },
+          {
+            "acs": "1.22\n1.38\n0.85",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "14\n13\n1",
+            "fk": "139\n159\n89",
+            "hs%": "94%\n100%\n80%",
+            "kdr": "14\n9\n5",
+            "kills": "154",
+            "name": "bemo",
+            "team": "FinalFormHQ"
+          },
+          {
+            "acs": "1.06\n1.03\n1.15",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "93\n99\n80",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "118",
+            "name": "Major",
+            "team": "FinalFormHQ"
+          },
+          {
+            "acs": "1.01\n1.26\n0.41",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "12\n11\n1",
+            "fk": "120\n157\n32",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "5\n4\n1",
+            "kills": "61",
+            "name": "Sparticus",
+            "team": "FinalFormHQ"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 167145,
+  "teams": [
+    "Medics",
+    "FinalFormHQ"
+  ],
+  "tournament": "Last Chance Qualifier: \n\t\t\t\t\t\tRound of 256"
+}

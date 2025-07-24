@@ -1,0 +1,788 @@
+{
+  "date": "2021-11-13 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "273",
+          "name": "effys",
+          "team": "Version1"
+        },
+        {
+          "kills": "238",
+          "name": "penny",
+          "team": "Version1"
+        },
+        {
+          "kills": "219",
+          "name": "Zellsis",
+          "team": "Version1"
+        },
+        {
+          "kills": "211",
+          "name": "wippie",
+          "team": "Version1"
+        },
+        {
+          "kills": "186",
+          "name": "oderus",
+          "team": "Version1"
+        },
+        {
+          "kills": "291",
+          "name": "XXiF",
+          "team": "Knights"
+        },
+        {
+          "kills": "231",
+          "name": "Governor",
+          "team": "Knights"
+        },
+        {
+          "kills": "140",
+          "name": "ban",
+          "team": "Knights"
+        },
+        {
+          "kills": "111",
+          "name": "skuba",
+          "team": "Knights"
+        },
+        {
+          "kills": "96",
+          "name": "Frosty",
+          "team": "Knights"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.66\n1.61\n1.81",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "188\n176\n223",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "273",
+            "name": "effys",
+            "team": "Version1"
+          },
+          {
+            "acs": "1.27\n1.35\n1.05",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "154\n169\n111",
+            "hs%": "88%\n92%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "238",
+            "name": "penny",
+            "team": "Version1"
+          },
+          {
+            "acs": "1.14\n1.09\n1.31",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "133\n140\n109",
+            "hs%": "75%\n83%\n50%",
+            "kdr": "9\n9\n0",
+            "kills": "219",
+            "name": "Zellsis",
+            "team": "Version1"
+          },
+          {
+            "acs": "1.12\n1.07\n1.26",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "130\n123\n148",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "211",
+            "name": "wippie",
+            "team": "Version1"
+          },
+          {
+            "acs": "0.93\n1.09\n0.43",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "11\n10\n1",
+            "fk": "122\n139\n71",
+            "hs%": "81%\n92%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "186",
+            "name": "oderus",
+            "team": "Version1"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.38\n1.32",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "178\n186\n176",
+            "hs%": "69%\n50%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "291",
+            "name": "XXiF",
+            "team": "Knights"
+          },
+          {
+            "acs": "0.92\n0.65\n1.00",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "162\n78\n190",
+            "hs%": "56%\n75%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "231",
+            "name": "Governor",
+            "team": "Knights"
+          },
+          {
+            "acs": "0.58\n0.61\n0.56",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "93\n63\n103",
+            "hs%": "63%\n50%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "140",
+            "name": "ban",
+            "team": "Knights"
+          },
+          {
+            "acs": "0.47\n0.28\n0.53",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "5\n0\n5",
+            "fk": "87\n64\n94",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "111",
+            "name": "skuba",
+            "team": "Knights"
+          },
+          {
+            "acs": "0.40\n0.99\n0.21",
+            "adr": "-9\n0\n-9",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "61\n50\n65",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "5\n1\n4",
+            "kills": "96",
+            "name": "Frosty",
+            "team": "Knights"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "260",
+          "name": "effys",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "wippie",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "penny",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Zellsis",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "oderus",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "XXiF",
+          "team": null
+        },
+        {
+          "kills": "239",
+          "name": "skuba",
+          "team": null
+        },
+        {
+          "kills": "263",
+          "name": "ban",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "Frosty",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "Governor",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.15\n1.21",
+            "adr": "+5\n+8\n-3",
+            "agent": "",
+            "assists": "/\n\n38\n18\n20\n\n/",
+            "deaths": "43\n26\n17",
+            "fk": "158\n165\n151",
+            "hs%": "84%\n82%\n85%",
+            "kdr": "20\n5\n15",
+            "kills": "260",
+            "name": "effys",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.03\n1.05",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "42\n22\n20",
+            "fk": "134\n128\n140",
+            "hs%": "73%\n82%\n63%",
+            "kdr": "16\n6\n10",
+            "kills": "212",
+            "name": "wippie",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.88\n0.89",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n39\n21\n18\n\n/",
+            "deaths": "38\n21\n17",
+            "fk": "122\n132\n112",
+            "hs%": "60%\n68%\n52%",
+            "kdr": "8\n3\n5",
+            "kills": "216",
+            "name": "penny",
+            "team": null
+          },
+          {
+            "acs": "0.70\n1.06\n0.87",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n42\n21\n21\n\n/",
+            "deaths": "34\n14\n20",
+            "fk": "119\n106\n133",
+            "hs%": "65%\n71%\n59%",
+            "kdr": "26\n16\n10",
+            "kills": "157",
+            "name": "Zellsis",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.65\n0.64",
+            "adr": "-14\n-7\n-7",
+            "agent": "",
+            "assists": "/\n\n42\n21\n21\n\n/",
+            "deaths": "28\n14\n14",
+            "fk": "95\n96\n93",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "12\n8\n4",
+            "kills": "147",
+            "name": "oderus",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n1.54\n1.34",
+            "adr": "+14\n+3\n+11",
+            "agent": "",
+            "assists": "/\n\n33\n18\n15\n\n/",
+            "deaths": "47\n21\n26",
+            "fk": "156\n140\n171",
+            "hs%": "75%\n67%\n82%",
+            "kdr": "11\n6\n5",
+            "kills": "213",
+            "name": "XXiF",
+            "team": null
+          },
+          {
+            "acs": "1.20\n0.96\n1.08",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n38\n18\n20\n\n/",
+            "deaths": "43\n24\n19",
+            "fk": "143\n158\n127",
+            "hs%": "69%\n70%\n68%",
+            "kdr": "22\n14\n8",
+            "kills": "239",
+            "name": "skuba",
+            "team": null
+          },
+          {
+            "acs": "1.39\n0.73\n1.05",
+            "adr": "+4\n+10\n-6",
+            "agent": "",
+            "assists": "/\n\n38\n17\n21\n\n/",
+            "deaths": "42\n27\n15",
+            "fk": "132\n167\n99",
+            "hs%": "73%\n81%\n64%",
+            "kdr": "16\n6\n10",
+            "kills": "263",
+            "name": "ban",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.98\n0.99",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n35\n16\n19\n\n/",
+            "deaths": "37\n17\n20",
+            "fk": "124\n116\n132",
+            "hs%": "69%\n74%\n64%",
+            "kdr": "8\n4\n4",
+            "kills": "180",
+            "name": "Frosty",
+            "team": null
+          },
+          {
+            "acs": "0.67\n1.18\n0.93",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "33\n12\n21",
+            "fk": "143\n125\n160",
+            "hs%": "71%\n70%\n71%",
+            "kdr": "19\n7\n12",
+            "kills": "156",
+            "name": "Governor",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "203",
+          "name": "effys",
+          "team": "Version1"
+        },
+        {
+          "kills": "276",
+          "name": "Zellsis",
+          "team": "Version1"
+        },
+        {
+          "kills": "223",
+          "name": "penny",
+          "team": "Version1"
+        },
+        {
+          "kills": "161",
+          "name": "wippie",
+          "team": "Version1"
+        },
+        {
+          "kills": "195",
+          "name": "oderus",
+          "team": "Version1"
+        },
+        {
+          "kills": "280",
+          "name": "XXiF",
+          "team": "Knights"
+        },
+        {
+          "kills": "236",
+          "name": "skuba",
+          "team": "Knights"
+        },
+        {
+          "kills": "237",
+          "name": "Frosty",
+          "team": "Knights"
+        },
+        {
+          "kills": "124",
+          "name": "ban",
+          "team": "Knights"
+        },
+        {
+          "kills": "208",
+          "name": "Governor",
+          "team": "Knights"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.30\n1.05",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "171\n188\n151",
+            "hs%": "91%\n83%\n100%",
+            "kdr": "8\n1\n7",
+            "kills": "203",
+            "name": "effys",
+            "team": "Version1"
+          },
+          {
+            "acs": "1.03\n0.47\n1.64",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "128\n77\n184",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "11\n6\n5",
+            "kills": "276",
+            "name": "Zellsis",
+            "team": "Version1"
+          },
+          {
+            "acs": "0.99\n0.72\n1.29",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "127\n109\n146",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "6\n2\n4",
+            "kills": "223",
+            "name": "penny",
+            "team": "Version1"
+          },
+          {
+            "acs": "0.98\n1.16\n0.79",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "123\n144\n101",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "9\n4\n5",
+            "kills": "161",
+            "name": "wippie",
+            "team": "Version1"
+          },
+          {
+            "acs": "0.50\n0.15\n0.88",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "90\n50\n133",
+            "hs%": "70%\n50%\n91%",
+            "kdr": "5\n3\n2",
+            "kills": "195",
+            "name": "oderus",
+            "team": "Version1"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n0.95\n1.71",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "168\n146\n188",
+            "hs%": "74%\n55%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "280",
+            "name": "XXiF",
+            "team": "Knights"
+          },
+          {
+            "acs": "1.20\n0.98\n1.39",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "156\n141\n169",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "236",
+            "name": "skuba",
+            "team": "Knights"
+          },
+          {
+            "acs": "1.07\n0.88\n1.24",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "160\n151\n167",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "237",
+            "name": "Frosty",
+            "team": "Knights"
+          },
+          {
+            "acs": "1.06\n1.38\n0.76",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "130\n175\n88",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "6\n1\n5",
+            "kills": "124",
+            "name": "ban",
+            "team": "Knights"
+          },
+          {
+            "acs": "0.80\n0.42\n1.15",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "115\n113\n116",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "208",
+            "name": "Governor",
+            "team": "Knights"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "240",
+          "name": "wippie",
+          "team": "Version1"
+        },
+        {
+          "kills": "158",
+          "name": "effys",
+          "team": "Version1"
+        },
+        {
+          "kills": "117",
+          "name": "oderus",
+          "team": "Version1"
+        },
+        {
+          "kills": "142",
+          "name": "Zellsis",
+          "team": "Version1"
+        },
+        {
+          "kills": "124",
+          "name": "penny",
+          "team": "Version1"
+        },
+        {
+          "kills": "281",
+          "name": "ban",
+          "team": "Knights"
+        },
+        {
+          "kills": "278",
+          "name": "skuba",
+          "team": "Knights"
+        },
+        {
+          "kills": "227",
+          "name": "Frosty",
+          "team": "Knights"
+        },
+        {
+          "kills": "186",
+          "name": "XXiF",
+          "team": "Knights"
+        },
+        {
+          "kills": "211",
+          "name": "Governor",
+          "team": "Knights"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.08\n0.79\n1.17",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "153\n91\n174",
+            "hs%": "69%\n100%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "240",
+            "name": "wippie",
+            "team": "Version1"
+          },
+          {
+            "acs": "0.81\n0.20\n1.01",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "109\n60\n126",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "158",
+            "name": "effys",
+            "team": "Version1"
+          },
+          {
+            "acs": "0.57\n0.78\n0.50",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "76\n109\n65",
+            "hs%": "81%\n100%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "117",
+            "name": "oderus",
+            "team": "Version1"
+          },
+          {
+            "acs": "0.38\n0.18\n0.44",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "93\n89\n95",
+            "hs%": "56%\n75%\n50%",
+            "kdr": "6\n1\n5",
+            "kills": "142",
+            "name": "Zellsis",
+            "team": "Version1"
+          },
+          {
+            "acs": "0.36\n0.09\n0.45",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "83\n90\n81",
+            "hs%": "25%\n25%\n25%",
+            "kdr": "1\n0\n1",
+            "kills": "124",
+            "name": "penny",
+            "team": "Version1"
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.66\n1.14",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "175\n195\n117",
+            "hs%": "88%\n92%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "281",
+            "name": "ban",
+            "team": "Knights"
+          },
+          {
+            "acs": "1.52\n1.70\n0.96",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "179\n206\n100",
+            "hs%": "88%\n92%\n75%",
+            "kdr": "13\n10\n3",
+            "kills": "278",
+            "name": "skuba",
+            "team": "Knights"
+          },
+          {
+            "acs": "1.49\n1.13\n2.55",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "136\n106\n228",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "227",
+            "name": "Frosty",
+            "team": "Knights"
+          },
+          {
+            "acs": "1.34\n1.22\n1.70",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "116\n118\n108",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "186",
+            "name": "XXiF",
+            "team": "Knights"
+          },
+          {
+            "acs": "1.13\n0.91\n1.80",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "164\n152\n203",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "12\n6\n6",
+            "kills": "211",
+            "name": "Governor",
+            "team": "Knights"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 49457,
+  "teams": [
+    "Version1",
+    "Knights"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 32"
+}

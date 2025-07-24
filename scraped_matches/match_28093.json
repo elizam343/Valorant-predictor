@@ -1,0 +1,594 @@
+{
+  "date": "2021-07-20 15:00:19",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "257",
+          "name": "FakeAnanas",
+          "team": "Lasagna Beam"
+        },
+        {
+          "kills": "239",
+          "name": "Hadi",
+          "team": "Lasagna Beam"
+        },
+        {
+          "kills": "248",
+          "name": "Greyy",
+          "team": "Lasagna Beam"
+        },
+        {
+          "kills": "222",
+          "name": "Alyx",
+          "team": "Lasagna Beam"
+        },
+        {
+          "kills": "191",
+          "name": "Hafficool",
+          "team": "Lasagna Beam"
+        },
+        {
+          "kills": "220",
+          "name": "Stoneerko",
+          "team": "WoofWoof"
+        },
+        {
+          "kills": "173",
+          "name": "foku",
+          "team": "WoofWoof"
+        },
+        {
+          "kills": "128",
+          "name": "doxy",
+          "team": "WoofWoof"
+        },
+        {
+          "kills": "168",
+          "name": "Jugger",
+          "team": "WoofWoof"
+        },
+        {
+          "kills": "96",
+          "name": "Tuti",
+          "team": "WoofWoof"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.58\n1.12\n2.51",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "181\n156\n230",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "7\n7\n0",
+            "kills": "257",
+            "name": "FakeAnanas",
+            "team": "Lasagna Beam"
+          },
+          {
+            "acs": "1.38\n1.62\n0.91",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "140\n180\n61",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "9\n6\n3",
+            "kills": "239",
+            "name": "Hadi",
+            "team": "Lasagna Beam"
+          },
+          {
+            "acs": "1.36\n1.57\n0.94",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "144\n177\n79",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "6\n5\n1",
+            "kills": "248",
+            "name": "Greyy",
+            "team": "Lasagna Beam"
+          },
+          {
+            "acs": "1.20\n0.74\n2.10",
+            "adr": "+7\n-2\n+9",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "137\n111\n188",
+            "hs%": "78%\n67%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "222",
+            "name": "Alyx",
+            "team": "Lasagna Beam"
+          },
+          {
+            "acs": "0.98\n0.86\n1.22",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "105\n103\n109",
+            "hs%": "83%\n75%\n100%",
+            "kdr": "10\n4\n6",
+            "kills": "191",
+            "name": "Hafficool",
+            "team": "Lasagna Beam"
+          }
+        ],
+        [
+          {
+            "acs": "1.03\n0.56\n1.27",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "116\n58\n146",
+            "hs%": "72%\n50%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "220",
+            "name": "Stoneerko",
+            "team": "WoofWoof"
+          },
+          {
+            "acs": "0.77\n0.23\n1.04",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "112\n40\n148",
+            "hs%": "61%\n33%\n75%",
+            "kdr": "7\n1\n6",
+            "kills": "173",
+            "name": "foku",
+            "team": "WoofWoof"
+          },
+          {
+            "acs": "0.64\n0.32\n0.81",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "89\n40\n114",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "128",
+            "name": "doxy",
+            "team": "WoofWoof"
+          },
+          {
+            "acs": "0.58\n0.38\n0.68",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "124\n84\n144",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "168",
+            "name": "Jugger",
+            "team": "WoofWoof"
+          },
+          {
+            "acs": "0.39\n0.18\n0.49",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "65\n21\n86",
+            "hs%": "56%\n67%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "96",
+            "name": "Tuti",
+            "team": "WoofWoof"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "226",
+          "name": "FakeAnanas",
+          "team": null
+        },
+        {
+          "kills": "277",
+          "name": "Hadi",
+          "team": null
+        },
+        {
+          "kills": "246",
+          "name": "Alyx",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "Greyy",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "Hafficool",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "Stoneerko",
+          "team": null
+        },
+        {
+          "kills": "290",
+          "name": "Jugger",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "foku",
+          "team": null
+        },
+        {
+          "kills": "140",
+          "name": "Tuti",
+          "team": null
+        },
+        {
+          "kills": "95",
+          "name": "doxy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.34\n1.50\n1.41",
+            "adr": "+12\n+8\n+4",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "33\n20\n13",
+            "fk": "163\n173\n150",
+            "hs%": "88%\n88%\n88%",
+            "kdr": "16\n13\n3",
+            "kills": "226",
+            "name": "FakeAnanas",
+            "team": null
+          },
+          {
+            "acs": "1.60\n0.91\n1.32",
+            "adr": "+11\n+13\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "33\n26\n7",
+            "fk": "146\n174\n106",
+            "hs%": "85%\n88%\n82%",
+            "kdr": "14\n7\n7",
+            "kills": "277",
+            "name": "Hadi",
+            "team": null
+          },
+          {
+            "acs": "1.22\n1.15\n1.19",
+            "adr": "+13\n+7\n+6",
+            "agent": "",
+            "assists": "/\n\n27\n15\n12\n\n/",
+            "deaths": "40\n22\n18",
+            "fk": "151\n171\n123",
+            "hs%": "76%\n75%\n76%",
+            "kdr": "2\n0\n2",
+            "kills": "246",
+            "name": "Alyx",
+            "team": null
+          },
+          {
+            "acs": "1.15\n1.09\n1.12",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n27\n15\n12\n\n/",
+            "deaths": "32\n19\n13",
+            "fk": "139\n135\n144",
+            "hs%": "90%\n88%\n94%",
+            "kdr": "14\n6\n8",
+            "kills": "222",
+            "name": "Greyy",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.89\n0.99",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "29\n18\n11",
+            "fk": "119\n135\n97",
+            "hs%": "76%\n75%\n76%",
+            "kdr": "18\n7\n11",
+            "kills": "180",
+            "name": "Hafficool",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n0.85\n0.93",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n34\n13\n21\n\n/",
+            "deaths": "31\n13\n18",
+            "fk": "132\n127\n136",
+            "hs%": "66%\n71%\n63%",
+            "kdr": "9\n7\n2",
+            "kills": "211",
+            "name": "Stoneerko",
+            "team": null
+          },
+          {
+            "acs": "1.29\n0.55\n0.85",
+            "adr": "-4\n+7\n-11",
+            "agent": "",
+            "assists": "/\n\n34\n13\n21\n\n/",
+            "deaths": "30\n20\n10",
+            "fk": "136\n168\n113",
+            "hs%": "71%\n82%\n63%",
+            "kdr": "11\n4\n7",
+            "kills": "290",
+            "name": "Jugger",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.70\n0.83",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n31\n11\n20\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "109\n100\n115",
+            "hs%": "63%\n65%\n63%",
+            "kdr": "17\n8\n9",
+            "kills": "164",
+            "name": "foku",
+            "team": null
+          },
+          {
+            "acs": "0.59\n0.73\n0.67",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n34\n15\n19\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "105\n85\n119",
+            "hs%": "56%\n65%\n50%",
+            "kdr": "8\n8\n0",
+            "kills": "140",
+            "name": "Tuti",
+            "team": null
+          },
+          {
+            "acs": "0.30\n0.68\n0.52",
+            "adr": "-15\n-7\n-8",
+            "agent": "",
+            "assists": "/\n\n34\n14\n20\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "84\n43\n113",
+            "hs%": "56%\n53%\n58%",
+            "kdr": "7\n2\n5",
+            "kills": "95",
+            "name": "doxy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "170",
+          "name": "FakeAnanas",
+          "team": "Lasagna Beam"
+        },
+        {
+          "kills": "190",
+          "name": "Hadi",
+          "team": "Lasagna Beam"
+        },
+        {
+          "kills": "216",
+          "name": "Alyx",
+          "team": "Lasagna Beam"
+        },
+        {
+          "kills": "193",
+          "name": "Hafficool",
+          "team": "Lasagna Beam"
+        },
+        {
+          "kills": "263",
+          "name": "Greyy",
+          "team": "Lasagna Beam"
+        },
+        {
+          "kills": "134",
+          "name": "Jugger",
+          "team": "WoofWoof"
+        },
+        {
+          "kills": "237",
+          "name": "Tuti",
+          "team": "WoofWoof"
+        },
+        {
+          "kills": "104",
+          "name": "foku",
+          "team": "WoofWoof"
+        },
+        {
+          "kills": "163",
+          "name": "Stoneerko",
+          "team": "WoofWoof"
+        },
+        {
+          "kills": "147",
+          "name": "doxy",
+          "team": "WoofWoof"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.27\n1.57\n0.95",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "149\n189\n106",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "9\n6\n3",
+            "kills": "170",
+            "name": "FakeAnanas",
+            "team": "Lasagna Beam"
+          },
+          {
+            "acs": "1.26\n1.59\n0.91",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "150\n168\n130",
+            "hs%": "83%\n92%\n73%",
+            "kdr": "5\n1\n4",
+            "kills": "190",
+            "name": "Hadi",
+            "team": "Lasagna Beam"
+          },
+          {
+            "acs": "1.19\n1.70\n0.63",
+            "adr": "+6\n+9\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "24\n16\n8",
+            "fk": "163\n232\n88",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "2\n0\n2",
+            "kills": "216",
+            "name": "Alyx",
+            "team": "Lasagna Beam"
+          },
+          {
+            "acs": "1.00\n1.26\n0.71",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "130\n167\n90",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "8\n3\n5",
+            "kills": "193",
+            "name": "Hafficool",
+            "team": "Lasagna Beam"
+          },
+          {
+            "acs": "0.94\n0.73\n1.17",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "135\n93\n180",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "8\n1\n7",
+            "kills": "263",
+            "name": "Greyy",
+            "team": "Lasagna Beam"
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n1.78\n0.41",
+            "adr": "+4\n+11\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "22\n18\n4",
+            "fk": "145\n213\n83",
+            "hs%": "65%\n91%\n42%",
+            "kdr": "2\n1\n1",
+            "kills": "134",
+            "name": "Jugger",
+            "team": "WoofWoof"
+          },
+          {
+            "acs": "0.90\n0.82\n0.97",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "136\n120\n151",
+            "hs%": "57%\n64%\n50%",
+            "kdr": "5\n5\n0",
+            "kills": "237",
+            "name": "Tuti",
+            "team": "WoofWoof"
+          },
+          {
+            "acs": "0.88\n1.44\n0.36",
+            "adr": "-4\n+4\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "106\n133\n81",
+            "hs%": "65%\n82%\n50%",
+            "kdr": "10\n7\n3",
+            "kills": "104",
+            "name": "foku",
+            "team": "WoofWoof"
+          },
+          {
+            "acs": "0.86\n1.31\n0.44",
+            "adr": "-4\n+3\n-7",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "145\n165\n126",
+            "hs%": "61%\n82%\n42%",
+            "kdr": "8\n7\n1",
+            "kills": "163",
+            "name": "Stoneerko",
+            "team": "WoofWoof"
+          },
+          {
+            "acs": "0.43\n0.29\n0.55",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "80\n45\n112",
+            "hs%": "52%\n55%\n50%",
+            "kdr": "5\n2\n3",
+            "kills": "147",
+            "name": "doxy",
+            "team": "WoofWoof"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 28093,
+  "teams": [
+    "WoofWoof",
+    "Lasagna Beam"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 128"
+}

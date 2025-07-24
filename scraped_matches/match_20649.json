@@ -1,0 +1,982 @@
+{
+  "date": "2021-05-16 08:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "300",
+          "name": "SkRossi",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "263",
+          "name": "HellrangeR",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "208",
+          "name": "KappA",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "183",
+          "name": "skillZ",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "130",
+          "name": "Lightningfast",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "232",
+          "name": "hellff",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "210",
+          "name": "vibhoRR",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "141",
+          "name": "rite2ace",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "147",
+          "name": "Amaterasu",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "186",
+          "name": "Marzil",
+          "team": "Velocity Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.84\n0.95",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "187\n285\n121",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "300",
+            "name": "SkRossi",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.16\n0.80\n1.40",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "167\n85\n221",
+            "hs%": "85%\n75%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "263",
+            "name": "HellrangeR",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.07\n1.18\n0.99",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "123\n91\n145",
+            "hs%": "85%\n75%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "208",
+            "name": "KappA",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.83\n0.57\n1.01",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "100\n45\n136",
+            "hs%": "60%\n63%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "183",
+            "name": "skillZ",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.75\n0.90\n0.65",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "79\n81\n77",
+            "hs%": "60%\n75%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "130",
+            "name": "Lightningfast",
+            "team": "Global Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n1.45\n1.13",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "125\n144\n96",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "4\n3\n1",
+            "kills": "232",
+            "name": "hellff",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.98\n1.20\n0.63",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "160\n179\n132",
+            "hs%": "55%\n67%\n38%",
+            "kdr": "5\n3\n2",
+            "kills": "210",
+            "name": "vibhoRR",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.95\n1.08\n0.77",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "84\n107\n51",
+            "hs%": "70%\n58%\n88%",
+            "kdr": "4\n3\n1",
+            "kills": "141",
+            "name": "rite2ace",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.83\n0.98\n0.59",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "103\n107\n97",
+            "hs%": "60%\n67%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "147",
+            "name": "Amaterasu",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.48\n0.37\n0.64",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "109\n123\n89",
+            "hs%": "40%\n42%\n38%",
+            "kdr": "3\n3\n0",
+            "kills": "186",
+            "name": "Marzil",
+            "team": "Velocity Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "372",
+          "name": "SkRossi",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "HellrangeR",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "skillZ",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "Lightningfast",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "KappA",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "Amaterasu",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "rite2ace",
+          "team": null
+        },
+        {
+          "kills": "228",
+          "name": "hellff",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "vibhoRR",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Marzil",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.60\n1.27\n1.45",
+            "adr": "+39\n+29\n+10",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "92\n58\n34",
+            "fk": "183\n224\n132",
+            "hs%": "78%\n84%\n71%",
+            "kdr": "8\n3\n5",
+            "kills": "372",
+            "name": "SkRossi",
+            "team": null
+          },
+          {
+            "acs": "1.02\n1.25\n1.12",
+            "adr": "+22\n+9\n+13",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "66\n34\n32",
+            "fk": "130\n121\n141",
+            "hs%": "78%\n80%\n77%",
+            "kdr": "9\n6\n3",
+            "kills": "195",
+            "name": "HellrangeR",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.03\n1.06",
+            "adr": "+13\n+8\n+5",
+            "agent": "",
+            "assists": "/\n\n49\n26\n23\n\n/",
+            "deaths": "62\n34\n28",
+            "fk": "135\n138\n132",
+            "hs%": "76%\n80%\n71%",
+            "kdr": "17\n9\n8",
+            "kills": "216",
+            "name": "skillZ",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.81\n0.96",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "51\n32\n19",
+            "fk": "111\n123\n96",
+            "hs%": "71%\n77%\n63%",
+            "kdr": "24\n14\n10",
+            "kills": "200",
+            "name": "Lightningfast",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.87\n0.90",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "37\n20\n17",
+            "fk": "97\n90\n106",
+            "hs%": "80%\n82%\n77%",
+            "kdr": "33\n20\n13",
+            "kills": "143",
+            "name": "KappA",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.92\n1.02\n0.98",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n61\n27\n34\n\n/",
+            "deaths": "56\n24\n32",
+            "fk": "130\n116\n141",
+            "hs%": "65%\n63%\n66%",
+            "kdr": "18\n9\n9",
+            "kills": "185",
+            "name": "Amaterasu",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.00\n0.94",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n58\n26\n32\n\n/",
+            "deaths": "45\n17\n28",
+            "fk": "121\n106\n132",
+            "hs%": "70%\n66%\n73%",
+            "kdr": "28\n12\n16",
+            "kills": "152",
+            "name": "rite2ace",
+            "team": null
+          },
+          {
+            "acs": "1.24\n0.61\n0.89",
+            "adr": "-8\n+7\n-15",
+            "agent": "",
+            "assists": "/\n\n61\n23\n38\n\n/",
+            "deaths": "53\n30\n23",
+            "fk": "103\n130\n81",
+            "hs%": "67%\n86%\n52%",
+            "kdr": "13\n10\n3",
+            "kills": "228",
+            "name": "hellff",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.80\n0.84",
+            "adr": "-13\n-4\n-9",
+            "agent": "",
+            "assists": "/\n\n61\n26\n35\n\n/",
+            "deaths": "48\n22\n26",
+            "fk": "122\n124\n122",
+            "hs%": "53%\n60%\n48%",
+            "kdr": "9\n5\n4",
+            "kills": "194",
+            "name": "vibhoRR",
+            "team": null
+          },
+          {
+            "acs": "0.59\n0.54\n0.56",
+            "adr": "-29\n-12\n-17",
+            "agent": "",
+            "assists": "/\n\n67\n30\n37\n\n/",
+            "deaths": "38\n18\n20",
+            "fk": "91\n114\n73",
+            "hs%": "51%\n54%\n48%",
+            "kdr": "10\n4\n6",
+            "kills": "167",
+            "name": "Marzil",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "552",
+          "name": "SkRossi",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "186",
+          "name": "skillZ",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "197",
+          "name": "Lightningfast",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "45",
+          "name": "KappA",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "97",
+          "name": "HellrangeR",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "199",
+          "name": "Marzil",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "216",
+          "name": "Amaterasu",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "167",
+          "name": "vibhoRR",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "150",
+          "name": "hellff",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "137",
+          "name": "rite2ace",
+          "team": "Velocity Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.83\n1.58\n2.33",
+            "adr": "+16\n+8\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "28\n17\n11",
+            "fk": "223\n225\n221",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "552",
+            "name": "SkRossi",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.32\n1.38\n1.20",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "187\n215\n132",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "186",
+            "name": "skillZ",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.20\n1.14\n1.33",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "141\n150\n124",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "197",
+            "name": "Lightningfast",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.88\n1.09\n0.46",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "59\n72\n33",
+            "hs%": "78%\n92%\n50%",
+            "kdr": "12\n8\n4",
+            "kills": "45",
+            "name": "KappA",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.49\n0.61\n0.26",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "64\n71\n50",
+            "hs%": "61%\n67%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "97",
+            "name": "HellrangeR",
+            "team": "Global Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.01\n1.28\n0.87",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "126\n142\n118",
+            "hs%": "61%\n67%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "199",
+            "name": "Marzil",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.90\n0.61\n1.04",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "140\n96\n161",
+            "hs%": "67%\n50%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "216",
+            "name": "Amaterasu",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.81\n0.32\n1.05",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "105\n44\n136",
+            "hs%": "56%\n33%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "167",
+            "name": "vibhoRR",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.66\n0.74\n0.61",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "83\n79\n85",
+            "hs%": "50%\n67%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "150",
+            "name": "hellff",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.63\n0.70\n0.60",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "89\n72\n97",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "137",
+            "name": "rite2ace",
+            "team": "Velocity Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "240",
+          "name": "SkRossi",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "213",
+          "name": "HellrangeR",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "192",
+          "name": "KappA",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "192",
+          "name": "skillZ",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "187",
+          "name": "Lightningfast",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "258",
+          "name": "Amaterasu",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "212",
+          "name": "rite2ace",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "226",
+          "name": "hellff",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "202",
+          "name": "vibhoRR",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "87",
+          "name": "Marzil",
+          "team": "Velocity Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.12\n1.61\n0.60",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "132\n183\n76",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "1\n0\n1",
+            "kills": "240",
+            "name": "SkRossi",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.08\n0.94\n1.24",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "135\n131\n139",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "0\n0\n0",
+            "kills": "213",
+            "name": "HellrangeR",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.02\n0.86\n1.19",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "130\n119\n142",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "9\n4\n5",
+            "kills": "192",
+            "name": "KappA",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.94\n0.87\n1.00",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "121\n117\n125",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "9\n2\n7",
+            "kills": "192",
+            "name": "skillZ",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.79\n0.71\n0.89",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "99\n89\n111",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "187",
+            "name": "Lightningfast",
+            "team": "Global Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.09\n1.29",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "151\n148\n155",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "258",
+            "name": "Amaterasu",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "1.19\n0.78\n1.57",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "152\n94\n206",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "14\n7\n7",
+            "kills": "212",
+            "name": "rite2ace",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "1.04\n1.48\n0.63",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "125\n157\n96",
+            "hs%": "83%\n100%\n67%",
+            "kdr": "5\n5\n0",
+            "kills": "226",
+            "name": "hellff",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.92\n1.01\n0.84",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "125\n142\n109",
+            "hs%": "57%\n64%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "202",
+            "name": "vibhoRR",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.40\n0.56\n0.26",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "55\n95\n18",
+            "hs%": "57%\n73%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "87",
+            "name": "Marzil",
+            "team": "Velocity Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "307",
+          "name": "HellrangeR",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "386",
+          "name": "SkRossi",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "226",
+          "name": "skillZ",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "214",
+          "name": "Lightningfast",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "86",
+          "name": "KappA",
+          "team": "Global Esports"
+        },
+        {
+          "kills": "192",
+          "name": "Amaterasu",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "234",
+          "name": "rite2ace",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "164",
+          "name": "vibhoRR",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "114",
+          "name": "hellff",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "134",
+          "name": "Marzil",
+          "team": "Velocity Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.74\n1.64\n1.93",
+            "adr": "+15\n+8\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "148\n185\n76",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "307",
+            "name": "HellrangeR",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.65\n1.45\n2.06",
+            "adr": "+13\n+7\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "24\n15\n9",
+            "fk": "205\n224\n166",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "386",
+            "name": "SkRossi",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.23\n1.37\n0.94",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "141\n144\n136",
+            "hs%": "72%\n75%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "226",
+            "name": "skillZ",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "1.18\n1.53\n0.48",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "131\n158\n76",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "13\n8\n5",
+            "kills": "214",
+            "name": "Lightningfast",
+            "team": "Global Esports"
+          },
+          {
+            "acs": "0.57\n0.64\n0.43",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "64\n78\n35",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "8\n7\n1",
+            "kills": "86",
+            "name": "KappA",
+            "team": "Global Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.94\n0.80\n1.01",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "123\n97\n136",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "192",
+            "name": "Amaterasu",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.92\n0.78\n0.99",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "152\n161\n147",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "234",
+            "name": "rite2ace",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.60\n0.54\n0.63",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "95\n58\n114",
+            "hs%": "44%\n67%\n33%",
+            "kdr": "1\n0\n1",
+            "kills": "164",
+            "name": "vibhoRR",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.45\n0.88\n0.23",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "69\n102\n53",
+            "hs%": "56%\n83%\n42%",
+            "kdr": "3\n2\n1",
+            "kills": "114",
+            "name": "hellff",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.41\n0.38\n0.43",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "82\n105\n70",
+            "hs%": "44%\n33%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "134",
+            "name": "Marzil",
+            "team": "Velocity Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 20649,
+  "teams": [
+    "Global Esports",
+    "Velocity Gaming"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tGrand Final"
+}

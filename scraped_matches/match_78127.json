@@ -1,0 +1,788 @@
+{
+  "date": "2022-03-15 19:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "264",
+          "name": "BladeZ",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "244",
+          "name": "kato",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "195",
+          "name": "Champzera",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "189",
+          "name": "Dvyno",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "122",
+          "name": "pMdr1",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "239",
+          "name": "MrLeonan",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "172",
+          "name": "Ginilson",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "208",
+          "name": "dods",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "190",
+          "name": "Saint Cap",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "120",
+          "name": "Blessboy",
+          "team": "Agropesca Jacare"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.45\n1.40\n1.51",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "169\n159\n179",
+            "hs%": "96%\n100%\n91%",
+            "kdr": "6\n3\n3",
+            "kills": "264",
+            "name": "BladeZ",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "1.16\n1.48\n0.81",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "166\n174\n157",
+            "hs%": "78%\n92%\n64%",
+            "kdr": "8\n2\n6",
+            "kills": "244",
+            "name": "kato",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "1.14\n1.22\n1.05",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "122\n131\n113",
+            "hs%": "78%\n100%\n55%",
+            "kdr": "13\n9\n4",
+            "kills": "195",
+            "name": "Champzera",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "1.00\n0.86\n1.15",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "109\n116\n103",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "4\n4\n0",
+            "kills": "189",
+            "name": "Dvyno",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "0.71\n0.97\n0.42",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "76\n88\n63",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "8\n4\n4",
+            "kills": "122",
+            "name": "pMdr1",
+            "team": "LUSA White"
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n1.15\n1.19",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "154\n141\n166",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "0\n0\n0",
+            "kills": "239",
+            "name": "MrLeonan",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "1.03\n1.46\n0.65",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "102\n126\n80",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "9\n8\n1",
+            "kills": "172",
+            "name": "Ginilson",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "0.90\n1.05\n0.75",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "144\n154\n135",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "208",
+            "name": "dods",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "0.89\n0.86\n0.92",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "124\n126\n123",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "190",
+            "name": "Saint Cap",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "0.42\n0.61\n0.24",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "73\n76\n71",
+            "hs%": "52%\n45%\n58%",
+            "kdr": "9\n2\n7",
+            "kills": "120",
+            "name": "Blessboy",
+            "team": "Agropesca Jacare"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "203",
+          "name": "kato",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "BladeZ",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "Champzera",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "pMdr1",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "Dvyno",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "dods",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "Saint Cap",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "MrLeonan",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "Ginilson",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "Blessboy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.15\n1.01\n1.08",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "46\n26\n20",
+            "fk": "150\n139\n162",
+            "hs%": "72%\n68%\n77%",
+            "kdr": "15\n3\n12",
+            "kills": "203",
+            "name": "kato",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.24\n0.99",
+            "adr": "+1\n-8\n+9",
+            "agent": "",
+            "assists": "/\n\n46\n31\n15\n\n/",
+            "deaths": "47\n23\n24",
+            "fk": "128\n119\n138",
+            "hs%": "79%\n76%\n84%",
+            "kdr": "13\n8\n5",
+            "kills": "185",
+            "name": "BladeZ",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.03\n0.95",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n46\n30\n16\n\n/",
+            "deaths": "43\n22\n21",
+            "fk": "119\n121\n115",
+            "hs%": "72%\n76%\n68%",
+            "kdr": "20\n14\n6",
+            "kills": "189",
+            "name": "Champzera",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.18\n0.94",
+            "adr": "+1\n-7\n+8",
+            "agent": "",
+            "assists": "/\n\n47\n28\n19\n\n/",
+            "deaths": "48\n21\n27",
+            "fk": "122\n99\n150",
+            "hs%": "74%\n65%\n84%",
+            "kdr": "22\n12\n10",
+            "kills": "161",
+            "name": "pMdr1",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.08\n0.94",
+            "adr": "-4\n-10\n+6",
+            "agent": "",
+            "assists": "/\n\n46\n28\n18\n\n/",
+            "deaths": "42\n18\n24",
+            "fk": "115\n108\n123",
+            "hs%": "66%\n65%\n68%",
+            "kdr": "18\n10\n8",
+            "kills": "152",
+            "name": "Dvyno",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n1.22\n1.17",
+            "adr": "+12\n-1\n+13",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "58\n23\n35",
+            "fk": "156\n136\n173",
+            "hs%": "74%\n68%\n78%",
+            "kdr": "12\n7\n5",
+            "kills": "204",
+            "name": "dods",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.23\n1.13",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "47\n21\n26",
+            "fk": "139\n137\n140",
+            "hs%": "76%\n65%\n86%",
+            "kdr": "16\n6\n10",
+            "kills": "201",
+            "name": "Saint Cap",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.18\n1.02",
+            "adr": "+2\n-7\n+9",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "48\n17\n31",
+            "fk": "133\n114\n149",
+            "hs%": "68%\n61%\n73%",
+            "kdr": "12\n2\n10",
+            "kills": "169",
+            "name": "MrLeonan",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.13\n0.97",
+            "adr": "0\n-10\n+10",
+            "agent": "",
+            "assists": "/\n\n41\n22\n19\n\n/",
+            "deaths": "41\n12\n29",
+            "fk": "114\n85\n138",
+            "hs%": "72%\n61%\n81%",
+            "kdr": "20\n10\n10",
+            "kills": "133",
+            "name": "Ginilson",
+            "team": null
+          },
+          {
+            "acs": "0.59\n0.82\n0.72",
+            "adr": "-13\n-11\n-2",
+            "agent": "",
+            "assists": "/\n\n51\n29\n22\n\n/",
+            "deaths": "38\n18\n20",
+            "fk": "99\n80\n116",
+            "hs%": "65%\n58%\n70%",
+            "kdr": "26\n7\n19",
+            "kills": "158",
+            "name": "Blessboy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "198",
+          "name": "kato",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "168",
+          "name": "Dvyno",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "228",
+          "name": "Champzera",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "288",
+          "name": "pMdr1",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "211",
+          "name": "BladeZ",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "184",
+          "name": "Saint Cap",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "266",
+          "name": "MrLeonan",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "328",
+          "name": "dods",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "258",
+          "name": "Ginilson",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "219",
+          "name": "Blessboy",
+          "team": "Agropesca Jacare"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.15\n1.28\n1.02",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "145\n155\n136",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "2\n1\n1",
+            "kills": "198",
+            "name": "kato",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "0.99\n0.94\n1.04",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "116\n110\n122",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "7\n3\n4",
+            "kills": "168",
+            "name": "Dvyno",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "0.91\n0.63\n1.18",
+            "adr": "-1\n-7\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n13\n5\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "124\n120\n128",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "5\n3\n2",
+            "kills": "228",
+            "name": "Champzera",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "0.89\n0.27\n1.51",
+            "adr": "-1\n-9\n+8",
+            "agent": "",
+            "assists": "/\n\n19\n13\n6\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "131\n77\n184",
+            "hs%": "69%\n54%\n85%",
+            "kdr": "8\n5\n3",
+            "kills": "288",
+            "name": "pMdr1",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "0.82\n0.43\n1.21",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n13\n5\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "118\n112\n125",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "3\n3\n0",
+            "kills": "211",
+            "name": "BladeZ",
+            "team": "LUSA White"
+          }
+        ],
+        [
+          {
+            "acs": "1.27\n1.31\n1.23",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "157\n187\n127",
+            "hs%": "81%\n69%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "184",
+            "name": "Saint Cap",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "1.13\n0.68\n1.59",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "135\n92\n178",
+            "hs%": "73%\n54%\n92%",
+            "kdr": "7\n1\n6",
+            "kills": "266",
+            "name": "MrLeonan",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "1.11\n0.98\n1.25",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "152\n112\n192",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "5\n2\n3",
+            "kills": "328",
+            "name": "dods",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "0.87\n0.15\n1.60",
+            "adr": "-2\n-10\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "13\n0\n13",
+            "fk": "100\n19\n182",
+            "hs%": "62%\n31%\n92%",
+            "kdr": "8\n1\n7",
+            "kills": "258",
+            "name": "Ginilson",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "0.85\n0.57\n1.13",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "111\n79\n143",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "15\n5\n10",
+            "kills": "219",
+            "name": "Blessboy",
+            "team": "Agropesca Jacare"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "277",
+          "name": "pMdr1",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "172",
+          "name": "kato",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "155",
+          "name": "Dvyno",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "179",
+          "name": "Champzera",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "155",
+          "name": "BladeZ",
+          "team": "LUSA White"
+        },
+        {
+          "kills": "265",
+          "name": "dods",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "198",
+          "name": "Saint Cap",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "227",
+          "name": "Ginilson",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "200",
+          "name": "Blessboy",
+          "team": "Agropesca Jacare"
+        },
+        {
+          "kills": "148",
+          "name": "MrLeonan",
+          "team": "Agropesca Jacare"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.30\n1.03\n1.77",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "167\n135\n221",
+            "hs%": "79%\n67%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "277",
+            "name": "pMdr1",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "0.90\n0.67\n1.30",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "137\n88\n220",
+            "hs%": "58%\n42%\n86%",
+            "kdr": "5\n0\n5",
+            "kills": "172",
+            "name": "kato",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "0.80\n0.67\n1.02",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "121\n99\n159",
+            "hs%": "53%\n42%\n71%",
+            "kdr": "7\n3\n4",
+            "kills": "155",
+            "name": "Dvyno",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "0.77\n0.81\n0.72",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "107\n114\n96",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "2\n2\n0",
+            "kills": "179",
+            "name": "Champzera",
+            "team": "LUSA White"
+          },
+          {
+            "acs": "0.66\n0.53\n0.88",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "92\n88\n98",
+            "hs%": "84%\n75%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "155",
+            "name": "BladeZ",
+            "team": "LUSA White"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.42\n1.65",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "175\n151\n189",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "265",
+            "name": "dods",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "1.24\n0.70\n1.55",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "131\n62\n171",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "198",
+            "name": "Saint Cap",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "1.03\n0.92\n1.09",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "146\n142\n148",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "227",
+            "name": "Ginilson",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "0.90\n0.59\n1.07",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "115\n87\n132",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "200",
+            "name": "Blessboy",
+            "team": "Agropesca Jacare"
+          },
+          {
+            "acs": "0.69\n0.63\n0.73",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "104\n114\n99",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "148",
+            "name": "MrLeonan",
+            "team": "Agropesca Jacare"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 78127,
+  "teams": [
+    "LUSA White",
+    "Agropesca Jacare"
+  ],
+  "tournament": "Open Qualifier #2: \n\t\t\t\t\t\tRound of 64"
+}

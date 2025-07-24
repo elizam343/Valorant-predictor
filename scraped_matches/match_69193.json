@@ -1,0 +1,788 @@
+{
+  "date": "2022-02-05 03:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "pr0xy",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "268",
+          "name": "Ssun",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "200",
+          "name": "Den2",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "174",
+          "name": "Keria",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "190",
+          "name": "Seolho",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "201",
+          "name": "Harry",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "270",
+          "name": "Jinboong",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "220",
+          "name": "Hermes",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "170",
+          "name": "Felix",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "154",
+          "name": "10X",
+          "team": "HolyMolly"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.13\n0.98\n1.25",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "168\n144\n187",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "245",
+            "name": "pr0xy",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "1.08\n1.15\n1.03",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "170\n190\n154",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "268",
+            "name": "Ssun",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "1.07\n1.44\n0.77",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "134\n165\n109",
+            "hs%": "86%\n90%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "200",
+            "name": "Den2",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.86\n1.09\n0.67",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "125\n148\n106",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "174",
+            "name": "Keria",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.81\n0.41\n1.15",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "116\n56\n165",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "190",
+            "name": "Seolho",
+            "team": "SPEAR GAMING"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n1.45\n1.17",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "122\n124\n118",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "5\n2\n3",
+            "kills": "201",
+            "name": "Harry",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "1.20\n1.04\n1.40",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n13\n6\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "168\n182\n151",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "6\n4\n2",
+            "kills": "270",
+            "name": "Jinboong",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "1.14\n1.87\n0.26",
+            "adr": "+1\n+7\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "159\n228\n77",
+            "hs%": "68%\n92%\n40%",
+            "kdr": "7\n4\n3",
+            "kills": "220",
+            "name": "Hermes",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "0.83\n0.60\n1.11",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "120\n95\n151",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "6\n4\n2",
+            "kills": "170",
+            "name": "Felix",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "0.61\n0.30\n0.98",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "98\n69\n132",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "6\n2\n4",
+            "kills": "154",
+            "name": "10X",
+            "team": "HolyMolly"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "185",
+          "name": "pr0xy",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "Den2",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "Ssun",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "Seolho",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "Keria",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Harry",
+          "team": null
+        },
+        {
+          "kills": "289",
+          "name": "Hermes",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "Jinboong",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "Felix",
+          "team": null
+        },
+        {
+          "kills": "87",
+          "name": "10X",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.82\n1.25\n1.03",
+            "adr": "+3\n-6\n+9",
+            "agent": "",
+            "assists": "/\n\n46\n25\n21\n\n/",
+            "deaths": "49\n19\n30",
+            "fk": "162\n134\n192",
+            "hs%": "69%\n70%\n68%",
+            "kdr": "12\n8\n4",
+            "kills": "185",
+            "name": "pr0xy",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.03\n1.03",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "40\n20\n20",
+            "fk": "116\n119\n112",
+            "hs%": "77%\n76%\n77%",
+            "kdr": "21\n12\n9",
+            "kills": "175",
+            "name": "Den2",
+            "team": null
+          },
+          {
+            "acs": "0.83\n0.91\n0.87",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n53\n30\n23\n\n/",
+            "deaths": "47\n25\n22",
+            "fk": "145\n153\n135",
+            "hs%": "63%\n58%\n68%",
+            "kdr": "15\n7\n8",
+            "kills": "243",
+            "name": "Ssun",
+            "team": null
+          },
+          {
+            "acs": "0.61\n1.04\n0.82",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "41\n17\n24",
+            "fk": "100\n72\n130",
+            "hs%": "67%\n61%\n74%",
+            "kdr": "18\n8\n10",
+            "kills": "130",
+            "name": "Seolho",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.77\n0.77",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "107\n109\n105",
+            "hs%": "70%\n70%\n71%",
+            "kdr": "14\n7\n7",
+            "kills": "158",
+            "name": "Keria",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.41\n1.24",
+            "adr": "+16\n+1\n+15",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "51\n20\n31",
+            "fk": "134\n114\n152",
+            "hs%": "81%\n68%\n94%",
+            "kdr": "13\n4\n9",
+            "kills": "179",
+            "name": "Harry",
+            "team": null
+          },
+          {
+            "acs": "1.38\n0.98\n1.17",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n47\n24\n23\n\n/",
+            "deaths": "55\n31\n24",
+            "fk": "165\n201\n131",
+            "hs%": "77%\n87%\n67%",
+            "kdr": "17\n9\n8",
+            "kills": "289",
+            "name": "Hermes",
+            "team": null
+          },
+          {
+            "acs": "0.94\n1.39\n1.17",
+            "adr": "+7\n-4\n+11",
+            "agent": "",
+            "assists": "/\n\n45\n28\n17\n\n/",
+            "deaths": "52\n24\n28",
+            "fk": "150\n145\n154",
+            "hs%": "78%\n74%\n82%",
+            "kdr": "21\n8\n13",
+            "kills": "227",
+            "name": "Jinboong",
+            "team": null
+          },
+          {
+            "acs": "1.12\n1.09\n1.11",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n41\n22\n19\n\n/",
+            "deaths": "44\n22\n22",
+            "fk": "138\n155\n122",
+            "hs%": "77%\n68%\n85%",
+            "kdr": "24\n11\n13",
+            "kills": "220",
+            "name": "Felix",
+            "team": null
+          },
+          {
+            "acs": "0.53\n1.08\n0.81",
+            "adr": "-10\n-12\n+2",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "34\n9\n25",
+            "fk": "101\n57\n142",
+            "hs%": "67%\n58%\n76%",
+            "kdr": "14\n5\n9",
+            "kills": "87",
+            "name": "10X",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "311",
+          "name": "pr0xy",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "205",
+          "name": "Den2",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "184",
+          "name": "Seolho",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "260",
+          "name": "Ssun",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "151",
+          "name": "Keria",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "179",
+          "name": "Felix",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "292",
+          "name": "Harry",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "143",
+          "name": "Hermes",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "211",
+          "name": "Jinboong",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "236",
+          "name": "10X",
+          "team": "HolyMolly"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.15\n0.85\n1.42",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "174\n134\n211",
+            "hs%": "83%\n91%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "311",
+            "name": "pr0xy",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "1.13\n0.77\n1.46",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "110\n90\n128",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "10\n6\n4",
+            "kills": "205",
+            "name": "Den2",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "1.03\n1.05\n1.01",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "121\n123\n120",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "8\n3\n5",
+            "kills": "184",
+            "name": "Seolho",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "1.01\n0.94\n1.07",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "165\n167\n163",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "260",
+            "name": "Ssun",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.63\n0.65\n0.62",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "101\n117\n86",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "151",
+            "name": "Keria",
+            "team": "SPEAR GAMING"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n1.60\n1.15",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "160\n190\n128",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "9\n3\n6",
+            "kills": "179",
+            "name": "Felix",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "1.30\n0.82\n1.82",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "146\n127\n166",
+            "hs%": "78%\n58%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "292",
+            "name": "Harry",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "0.95\n1.09\n0.79",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "143\n173\n110",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "9\n5\n4",
+            "kills": "143",
+            "name": "Hermes",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "0.84\n0.41\n1.31",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "109\n75\n147",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "3\n1\n2",
+            "kills": "211",
+            "name": "Jinboong",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "0.67\n0.42\n0.94",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "96\n52\n144",
+            "hs%": "61%\n50%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "236",
+            "name": "10X",
+            "team": "HolyMolly"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "178",
+          "name": "Den2",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "153",
+          "name": "Keria",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "180",
+          "name": "pr0xy",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "88",
+          "name": "Seolho",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "145",
+          "name": "Ssun",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "275",
+          "name": "Jinboong",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "314",
+          "name": "Hermes",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "180",
+          "name": "10X",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "187",
+          "name": "Harry",
+          "team": "HolyMolly"
+        },
+        {
+          "kills": "186",
+          "name": "Felix",
+          "team": "HolyMolly"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "0.86\n0.94\n0.74",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "103\n109\n92",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "2\n1\n1",
+            "kills": "178",
+            "name": "Den2",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.84\n0.63\n1.20",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "94\n69\n137",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "3\n1\n2",
+            "kills": "153",
+            "name": "Keria",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.77\n0.67\n0.94",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "140\n125\n166",
+            "hs%": "42%\n42%\n43%",
+            "kdr": "1\n0\n1",
+            "kills": "180",
+            "name": "pr0xy",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.57\n0.36\n0.91",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "56\n38\n87",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "7\n3\n4",
+            "kills": "88",
+            "name": "Seolho",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.46\n0.47\n0.43",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "90\n111\n54",
+            "hs%": "42%\n42%\n43%",
+            "kdr": "6\n4\n2",
+            "kills": "145",
+            "name": "Ssun",
+            "team": "SPEAR GAMING"
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.65\n1.45",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "178\n202\n164",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "12\n3\n9",
+            "kills": "275",
+            "name": "Jinboong",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "1.49\n1.04\n1.75",
+            "adr": "+10\n+1\n+9",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "199\n203\n196",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "314",
+            "name": "Hermes",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "1.22\n1.09\n1.30",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "110\n44\n148",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "180",
+            "name": "10X",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "1.08\n0.79\n1.24",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "133\n73\n168",
+            "hs%": "79%\n57%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "187",
+            "name": "Harry",
+            "team": "HolyMolly"
+          },
+          {
+            "acs": "1.08\n1.19\n1.02",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "132\n199\n92",
+            "hs%": "89%\n86%\n92%",
+            "kdr": "9\n4\n5",
+            "kills": "186",
+            "name": "Felix",
+            "team": "HolyMolly"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 69193,
+  "teams": [
+    "HolyMolly",
+    "SPEAR GAMING"
+  ],
+  "tournament": "Open Qualifier: Round of 24: \n\t\t\t\t\t\tGroup Stage: Winner's (F)"
+}

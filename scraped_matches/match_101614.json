@@ -1,0 +1,788 @@
+{
+  "date": "2022-05-18 20:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "201",
+          "name": "zaninZS",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "220",
+          "name": "cortezia",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "230",
+          "name": "Faelzin",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "204",
+          "name": "Askia",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "175",
+          "name": "depppx",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "202",
+          "name": "Luskka",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "240",
+          "name": "Tak1",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "240",
+          "name": "PxS",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "187",
+          "name": "luqz",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "145",
+          "name": "guuih",
+          "team": "Rise Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.43\n1.14",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "117\n106\n127",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "201",
+            "name": "zaninZS",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "1.15\n1.14\n1.16",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "146\n157\n136",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "11\n6\n5",
+            "kills": "220",
+            "name": "cortezia",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "1.09\n1.20\n0.99",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "160\n175\n147",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "230",
+            "name": "Faelzin",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "0.83\n0.74\n0.92",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "135\n119\n149",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "204",
+            "name": "Askia",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "0.82\n1.08\n0.58",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "114\n151\n80",
+            "hs%": "70%\n91%\n50%",
+            "kdr": "10\n6\n4",
+            "kills": "175",
+            "name": "depppx",
+            "team": "Team Brave Soldiers"
+          }
+        ],
+        [
+          {
+            "acs": "1.15\n1.21\n1.09",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "135\n162\n106",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "10\n6\n4",
+            "kills": "202",
+            "name": "Luskka",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "1.14\n1.43\n0.83",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "166\n214\n113",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "7\n2\n5",
+            "kills": "240",
+            "name": "Tak1",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "1.09\n1.03\n1.15",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "161\n170\n150",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "5\n4\n1",
+            "kills": "240",
+            "name": "PxS",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "0.83\n0.99\n0.65",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "137\n143\n130",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "6\n1\n5",
+            "kills": "187",
+            "name": "luqz",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "0.63\n0.74\n0.51",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "104\n76\n133",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "4\n1\n3",
+            "kills": "145",
+            "name": "guuih",
+            "team": "Rise Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "225",
+          "name": "zaninZS",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "Faelzin",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "cortezia",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "Askia",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "depppx",
+          "team": null
+        },
+        {
+          "kills": "246",
+          "name": "PxS",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "Luskka",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "Tak1",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "guuih",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "luqz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.40\n0.93\n1.21",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n40\n22\n18\n\n/",
+            "deaths": "42\n29\n13",
+            "fk": "132\n149\n108",
+            "hs%": "73%\n71%\n76%",
+            "kdr": "15\n8\n7",
+            "kills": "225",
+            "name": "zaninZS",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.79\n0.84",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n48\n27\n21\n\n/",
+            "deaths": "37\n22\n15",
+            "fk": "128\n129\n126",
+            "hs%": "65%\n63%\n68%",
+            "kdr": "16\n9\n7",
+            "kills": "174",
+            "name": "Faelzin",
+            "team": null
+          },
+          {
+            "acs": "0.67\n0.93\n0.78",
+            "adr": "-15\n-12\n-3",
+            "agent": "",
+            "assists": "/\n\n50\n30\n20\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "123\n109\n143",
+            "hs%": "63%\n63%\n64%",
+            "kdr": "16\n10\n6",
+            "kills": "162",
+            "name": "cortezia",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.74\n0.71",
+            "adr": "-13\n-7\n-6",
+            "agent": "",
+            "assists": "/\n\n53\n31\n22\n\n/",
+            "deaths": "40\n24\n16",
+            "fk": "130\n137\n120",
+            "hs%": "57%\n54%\n60%",
+            "kdr": "9\n5\n4",
+            "kills": "191",
+            "name": "Askia",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.63\n0.69",
+            "adr": "-19\n-11\n-8",
+            "agent": "",
+            "assists": "/\n\n48\n30\n18\n\n/",
+            "deaths": "29\n19\n10",
+            "fk": "102\n116\n82",
+            "hs%": "65%\n71%\n56%",
+            "kdr": "25\n18\n7",
+            "kills": "185",
+            "name": "depppx",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n1.51\n1.35",
+            "adr": "+19\n+2\n+17",
+            "agent": "",
+            "assists": "/\n\n41\n19\n22\n\n/",
+            "deaths": "60\n21\n39",
+            "fk": "180\n164\n191",
+            "hs%": "80%\n80%\n80%",
+            "kdr": "12\n7\n5",
+            "kills": "246",
+            "name": "PxS",
+            "team": null
+          },
+          {
+            "acs": "1.26\n1.41\n1.35",
+            "adr": "+19\n+5\n+14",
+            "agent": "",
+            "assists": "/\n\n35\n17\n18\n\n/",
+            "deaths": "54\n22\n32",
+            "fk": "158\n146\n166",
+            "hs%": "80%\n76%\n83%",
+            "kdr": "26\n10\n16",
+            "kills": "227",
+            "name": "Luskka",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.99\n1.07",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n39\n16\n23\n\n/",
+            "deaths": "44\n21\n23",
+            "fk": "130\n155\n112",
+            "hs%": "80%\n84%\n77%",
+            "kdr": "20\n8\n12",
+            "kills": "235",
+            "name": "Tak1",
+            "team": null
+          },
+          {
+            "acs": "1.23\n0.89\n1.03",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n34\n13\n21\n\n/",
+            "deaths": "39\n14\n25",
+            "fk": "127\n121\n132",
+            "hs%": "78%\n80%\n77%",
+            "kdr": "22\n7\n15",
+            "kills": "166",
+            "name": "guuih",
+            "team": null
+          },
+          {
+            "acs": "1.30\n0.75\n0.98",
+            "adr": "+7\n+9\n-2",
+            "agent": "",
+            "assists": "/\n\n35\n12\n23\n\n/",
+            "deaths": "42\n21\n21",
+            "fk": "132\n143\n125",
+            "hs%": "75%\n80%\n71%",
+            "kdr": "11\n1\n10",
+            "kills": "211",
+            "name": "luqz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "253",
+          "name": "Faelzin",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "148",
+          "name": "zaninZS",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "5",
+          "name": "depppx",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "229",
+          "name": "cortezia",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "20",
+          "name": "Askia",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "341",
+          "name": "PxS",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "305",
+          "name": "Luskka",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "229",
+          "name": "guuih",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "200",
+          "name": "luqz",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "125",
+          "name": "Tak1",
+          "team": "Rise Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "0.90\n0.80\n1.16",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "146\n135\n173",
+            "hs%": "65%\n67%\n60%",
+            "kdr": "2\n1\n1",
+            "kills": "253",
+            "name": "Faelzin",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "0.80\n0.78\n0.85",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "92\n87\n105",
+            "hs%": "65%\n67%\n60%",
+            "kdr": "5\n4\n1",
+            "kills": "148",
+            "name": "zaninZS",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "0.62\n0.82\n0.15",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "8\n8\n0",
+            "fk": "82\n113\n5",
+            "hs%": "59%\n67%\n40%",
+            "kdr": "6\n6\n0",
+            "kills": "5",
+            "name": "depppx",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "0.60\n0.56\n0.70",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "121\n92\n191",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "229",
+            "name": "cortezia",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "0.40\n0.71\n0.01",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "9\n9\n0",
+            "fk": "104\n139\n20",
+            "hs%": "41%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "20",
+            "name": "Askia",
+            "team": "Team Brave Soldiers"
+          }
+        ],
+        [
+          {
+            "acs": "1.76\n1.54\n1.86",
+            "adr": "+12\n+1\n+11",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "21\n5\n16",
+            "fk": "224\n199\n234",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "341",
+            "name": "PxS",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "1.58\n1.51\n1.61",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "205\n177\n217",
+            "hs%": "88%\n60%\n100%",
+            "kdr": "2\n0\n2",
+            "kills": "305",
+            "name": "Luskka",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "1.30\n1.66\n1.15",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "146\n143\n148",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "229",
+            "name": "guuih",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "0.95\n1.42\n0.76",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n8\n0\n8\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "123\n98\n133",
+            "hs%": "76%\n100%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "200",
+            "name": "luqz",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "0.76\n1.02\n0.65",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "85\n97\n80",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "125",
+            "name": "Tak1",
+            "team": "Rise Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "263",
+          "name": "zaninZS",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "209",
+          "name": "Askia",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "140",
+          "name": "depppx",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "144",
+          "name": "cortezia",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "100",
+          "name": "Faelzin",
+          "team": "Team Brave Soldiers"
+        },
+        {
+          "kills": "242",
+          "name": "Luskka",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "269",
+          "name": "PxS",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "207",
+          "name": "guuih",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "226",
+          "name": "Tak1",
+          "team": "Rise Gaming"
+        },
+        {
+          "kills": "208",
+          "name": "luqz",
+          "team": "Rise Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.46\n2.00\n0.66",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "18\n16\n2",
+            "fk": "183\n250\n82",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "6\n3\n3",
+            "kills": "263",
+            "name": "zaninZS",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "0.83\n0.77\n0.93",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "148\n152\n141",
+            "hs%": "55%\n42%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "209",
+            "name": "Askia",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "0.60\n0.33\n1.00",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "106\n88\n132",
+            "hs%": "65%\n58%\n75%",
+            "kdr": "9\n6\n3",
+            "kills": "140",
+            "name": "depppx",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "0.50\n0.34\n0.74",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "99\n82\n124",
+            "hs%": "55%\n50%\n63%",
+            "kdr": "1\n1\n0",
+            "kills": "144",
+            "name": "cortezia",
+            "team": "Team Brave Soldiers"
+          },
+          {
+            "acs": "0.50\n0.65\n0.26",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "74\n81\n64",
+            "hs%": "45%\n42%\n50%",
+            "kdr": "6\n4\n2",
+            "kills": "100",
+            "name": "Faelzin",
+            "team": "Team Brave Soldiers"
+          }
+        ],
+        [
+          {
+            "acs": "1.38\n1.19\n1.51",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "144\n103\n171",
+            "hs%": "90%\n100%\n83%",
+            "kdr": "14\n4\n10",
+            "kills": "242",
+            "name": "Luskka",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "1.29\n1.00\n1.48",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "165\n134\n185",
+            "hs%": "90%\n88%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "269",
+            "name": "PxS",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "1.26\n1.68\n0.97",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "139\n173\n116",
+            "hs%": "90%\n100%\n83%",
+            "kdr": "16\n5\n11",
+            "kills": "207",
+            "name": "guuih",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "1.24\n0.91\n1.46",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "125\n102\n141",
+            "hs%": "90%\n88%\n92%",
+            "kdr": "10\n6\n4",
+            "kills": "226",
+            "name": "Tak1",
+            "team": "Rise Gaming"
+          },
+          {
+            "acs": "1.18\n1.70\n0.83",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "135\n172\n111",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "5\n0\n5",
+            "kills": "208",
+            "name": "luqz",
+            "team": "Rise Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 101614,
+  "teams": [
+    "Team Brave Soldiers",
+    "Rise Gaming"
+  ],
+  "tournament": "Closed Qualifier: \n\t\t\t\t\t\tGrand Final"
+}

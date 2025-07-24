@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-21 17:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "307",
+          "name": "Harmful",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "168",
+          "name": "payen",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "197",
+          "name": "Dcop",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "188",
+          "name": "Precision",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "147",
+          "name": "ZK",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "258",
+          "name": "NiSMO",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "191",
+          "name": "brawk",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "184",
+          "name": "koalanoob",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "161",
+          "name": "ryann",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "128",
+          "name": "johnqt",
+          "team": "Ghost Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.20\n1.56",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "191\n176\n210",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "3\n2\n1",
+            "kills": "307",
+            "name": "Harmful",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "1.14\n1.20\n1.07",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "124\n147\n96",
+            "hs%": "91%\n92%\n90%",
+            "kdr": "2\n2\n0",
+            "kills": "168",
+            "name": "payen",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "1.03\n0.73\n1.39",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "143\n141\n147",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "1\n0\n1",
+            "kills": "197",
+            "name": "Dcop",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.90\n0.57\n1.29",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "126\n83\n178",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "6\n3\n3",
+            "kills": "188",
+            "name": "Precision",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.85\n0.96\n0.72",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "109\n92\n129",
+            "hs%": "59%\n67%\n50%",
+            "kdr": "9\n5\n4",
+            "kills": "147",
+            "name": "ZK",
+            "team": "TSM Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n1.08\n1.12",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "168\n174\n163",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "5\n0\n5",
+            "kills": "258",
+            "name": "NiSMO",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "0.95\n0.60\n1.23",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "113\n76\n145",
+            "hs%": "77%\n60%\n92%",
+            "kdr": "9\n3\n6",
+            "kills": "191",
+            "name": "brawk",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "0.83\n0.54\n1.07",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "115\n89\n137",
+            "hs%": "50%\n40%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "184",
+            "name": "koalanoob",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "0.80\n0.89\n0.71",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "101\n158\n54",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "161",
+            "name": "ryann",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "0.73\n0.41\n0.99",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "76\n33\n112",
+            "hs%": "55%\n40%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "128",
+            "name": "johnqt",
+            "team": "Ghost Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "179",
+          "name": "payen",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "Harmful",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "ZK",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "Dcop",
+          "team": null
+        },
+        {
+          "kills": "119",
+          "name": "Precision",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "brawk",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "NiSMO",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "koalanoob",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "johnqt",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "ryann",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.00\n0.88\n0.93",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n40\n13\n27\n\n/",
+            "deaths": "33\n13\n20",
+            "fk": "130\n120\n135",
+            "hs%": "66%\n84%\n56%",
+            "kdr": "4\n3\n1",
+            "kills": "179",
+            "name": "payen",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.79\n0.85",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n43\n15\n28\n\n/",
+            "deaths": "34\n13\n21",
+            "fk": "128\n148\n117",
+            "hs%": "55%\n58%\n53%",
+            "kdr": "8\n4\n4",
+            "kills": "222",
+            "name": "Harmful",
+            "team": null
+          },
+          {
+            "acs": "1.10\n0.62\n0.78",
+            "adr": "-13\n+3\n-16",
+            "agent": "",
+            "assists": "/\n\n41\n11\n30\n\n/",
+            "deaths": "28\n14\n14",
+            "fk": "103\n110\n98",
+            "hs%": "64%\n68%\n62%",
+            "kdr": "18\n6\n12",
+            "kills": "172",
+            "name": "ZK",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.78\n0.77",
+            "adr": "-14\n-5\n-9",
+            "agent": "",
+            "assists": "/\n\n42\n16\n26\n\n/",
+            "deaths": "28\n11\n17",
+            "fk": "124\n117\n128",
+            "hs%": "62%\n74%\n56%",
+            "kdr": "9\n5\n4",
+            "kills": "176",
+            "name": "Dcop",
+            "team": null
+          },
+          {
+            "acs": "0.44\n0.84\n0.69",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n44\n16\n28\n\n/",
+            "deaths": "31\n7\n24",
+            "fk": "113\n84\n130",
+            "hs%": "68%\n74%\n65%",
+            "kdr": "9\n4\n5",
+            "kills": "119",
+            "name": "Precision",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.51\n1.39\n1.47",
+            "adr": "+22\n+18\n+4",
+            "agent": "",
+            "assists": "/\n\n25\n14\n11\n\n/",
+            "deaths": "47\n32\n15",
+            "fk": "148\n148\n147",
+            "hs%": "81%\n79%\n84%",
+            "kdr": "21\n11\n10",
+            "kills": "232",
+            "name": "brawk",
+            "team": null
+          },
+          {
+            "acs": "1.25\n1.33\n1.28",
+            "adr": "+19\n+12\n+7",
+            "agent": "",
+            "assists": "/\n\n32\n20\n12\n\n/",
+            "deaths": "51\n32\n19",
+            "fk": "165\n156\n180",
+            "hs%": "77%\n76%\n79%",
+            "kdr": "13\n7\n6",
+            "kills": "243",
+            "name": "NiSMO",
+            "team": null
+          },
+          {
+            "acs": "1.13\n1.10\n1.12",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n35\n21\n14\n\n/",
+            "deaths": "43\n28\n15",
+            "fk": "143\n139\n150",
+            "hs%": "74%\n74%\n74%",
+            "kdr": "9\n4\n5",
+            "kills": "222",
+            "name": "koalanoob",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.05\n1.06",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n29\n19\n10\n\n/",
+            "deaths": "40\n26\n14",
+            "fk": "130\n142\n109",
+            "hs%": "68%\n65%\n74%",
+            "kdr": "3\n3\n0",
+            "kills": "212",
+            "name": "johnqt",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.75\n0.86",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n33\n23\n10\n\n/",
+            "deaths": "29\n22\n7",
+            "fk": "106\n129\n66",
+            "hs%": "81%\n85%\n74%",
+            "kdr": "13\n10\n3",
+            "kills": "196",
+            "name": "ryann",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "170",
+          "name": "Harmful",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "190",
+          "name": "payen",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "146",
+          "name": "Dcop",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "103",
+          "name": "Precision",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "101",
+          "name": "ZK",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "430",
+          "name": "brawk",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "198",
+          "name": "koalanoob",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "140",
+          "name": "johnqt",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "165",
+          "name": "ryann",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "253",
+          "name": "NiSMO",
+          "team": "Ghost Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "0.67\n0.03\n0.79",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "100\n63\n106",
+            "hs%": "57%\n0%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "170",
+            "name": "Harmful",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.60\n0.46\n0.63",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "133\n80\n141",
+            "hs%": "57%\n50%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "190",
+            "name": "payen",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.54\n0.39\n0.56",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "113\n103\n115",
+            "hs%": "43%\n50%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "146",
+            "name": "Dcop",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.45\n0.69\n0.41",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "71\n113\n65",
+            "hs%": "57%\n100%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "103",
+            "name": "Precision",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.38\n0.01\n0.51",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "4\n0\n4",
+            "fk": "64\n0\n75",
+            "hs%": "64%\n0%\n75%",
+            "kdr": "5\n0\n5",
+            "kills": "101",
+            "name": "ZK",
+            "team": "TSM Academy"
+          }
+        ],
+        [
+          {
+            "acs": "2.26\n2.15\n2.92",
+            "adr": "+16\n+13\n+3",
+            "agent": "",
+            "assists": "/\n\n3\n3\n0\n\n/",
+            "deaths": "19\n16\n3",
+            "fk": "229\n229\n230",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "5\n3\n2",
+            "kills": "430",
+            "name": "brawk",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.66\n1.84\n0.55",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "16\n15\n1",
+            "fk": "203\n213\n145",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "198",
+            "name": "koalanoob",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.28\n1.20\n1.80",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n5\n5\n0\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "153\n160\n108",
+            "hs%": "71%\n67%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "140",
+            "name": "johnqt",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.04\n0.94\n1.67",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n7\n0\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "129\n135\n92",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "165",
+            "name": "ryann",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "0.88\n0.77\n1.55",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "77\n65\n146",
+            "hs%": "79%\n75%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "253",
+            "name": "NiSMO",
+            "team": "Ghost Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "206",
+          "name": "ZK",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "203",
+          "name": "payen",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "154",
+          "name": "Dcop",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "190",
+          "name": "Precision",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "104",
+          "name": "Harmful",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "341",
+          "name": "NiSMO",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "188",
+          "name": "brawk",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "265",
+          "name": "johnqt",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "230",
+          "name": "koalanoob",
+          "team": "Ghost Gaming"
+        },
+        {
+          "kills": "135",
+          "name": "ryann",
+          "team": "Ghost Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.00\n1.87\n0.64",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "126\n198\n96",
+            "hs%": "71%\n100%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "206",
+            "name": "ZK",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.91\n0.74\n0.99",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "136\n72\n162",
+            "hs%": "41%\n80%\n25%",
+            "kdr": "1\n1\n0",
+            "kills": "203",
+            "name": "payen",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.64\n1.00\n0.50",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "107\n65\n125",
+            "hs%": "65%\n100%\n50%",
+            "kdr": "7\n5\n2",
+            "kills": "154",
+            "name": "Dcop",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.62\n0.02\n0.90",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "11\n1\n10",
+            "fk": "132\n73\n156",
+            "hs%": "65%\n60%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "190",
+            "name": "Precision",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.32\n0.73\n0.16",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "71\n117\n51",
+            "hs%": "35%\n60%\n25%",
+            "kdr": "3\n2\n1",
+            "kills": "104",
+            "name": "Harmful",
+            "team": "TSM Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.84\n1.87\n1.76",
+            "adr": "+14\n+10\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "23\n16\n7",
+            "fk": "233\n233\n234",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "3\n3\n0",
+            "kills": "341",
+            "name": "NiSMO",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.49\n1.63\n1.16",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n6\n3\n3\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "125\n128\n118",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "7\n5\n2",
+            "kills": "188",
+            "name": "brawk",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.32\n1.49\n0.89",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "182\n214\n104",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "3\n3\n0",
+            "kills": "265",
+            "name": "johnqt",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "1.04\n0.91\n1.37",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "130\n108\n184",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "230",
+            "name": "koalanoob",
+            "team": "Ghost Gaming"
+          },
+          {
+            "acs": "0.79\n0.92\n0.47",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "95\n98\n87",
+            "hs%": "82%\n100%\n40%",
+            "kdr": "6\n5\n1",
+            "kills": "135",
+            "name": "ryann",
+            "team": "Ghost Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 63768,
+  "teams": [
+    "Ghost Gaming",
+    "TSM Academy"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 16"
+}

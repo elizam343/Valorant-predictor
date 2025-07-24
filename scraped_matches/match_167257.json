@@ -1,0 +1,806 @@
+{
+  "date": "2023-01-17 20:15:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "176",
+          "name": "treb",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "233",
+          "name": "Donats",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "186",
+          "name": "beny",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "112",
+          "name": "eroc",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "136",
+          "name": "Quaack",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "291",
+          "name": "Kip",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "214",
+          "name": "Town",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "193",
+          "name": "rate",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "178",
+          "name": "dre",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "193",
+          "name": "hairzoid",
+          "team": "Rizzard of Oz"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.17\n1.15",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "104\n130\n69",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "5\n3\n2",
+            "kills": "176",
+            "name": "treb",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "1.06\n1.05\n1.09",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "141\n167\n105",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "2\n2\n0",
+            "kills": "233",
+            "name": "Donats",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "0.84\n0.71\n1.01",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "128\n110\n152",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "186",
+            "name": "beny",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "0.57\n0.47\n0.70",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "74\n44\n115",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "112",
+            "name": "eroc",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "0.46\n0.30\n0.66",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "89\n65\n121",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "9\n2\n7",
+            "kills": "136",
+            "name": "Quaack",
+            "team": "Donoobs"
+          }
+        ],
+        [
+          {
+            "acs": "1.54\n1.36\n1.67",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "164\n139\n183",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "15\n6\n9",
+            "kills": "291",
+            "name": "Kip",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "1.28\n0.74\n1.68",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "159\n108\n197",
+            "hs%": "71%\n44%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "214",
+            "name": "Town",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "1.05\n1.12\n1.00",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "120\n112\n125",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "193",
+            "name": "rate",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "1.03\n1.20\n0.90",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "110\n132\n94",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "178",
+            "name": "dre",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "0.95\n0.84\n1.03",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "127\n116\n136",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "5\n0\n5",
+            "kills": "193",
+            "name": "hairzoid",
+            "team": "Rizzard of Oz"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "233",
+          "name": "Donats",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "eroc",
+          "team": null
+        },
+        {
+          "kills": "134",
+          "name": "beny",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "treb",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "beeb",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "Quaack",
+          "team": null
+        },
+        {
+          "kills": "249",
+          "name": "Town",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Kip",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "hairzoid",
+          "team": null
+        },
+        {
+          "kills": "125",
+          "name": "rate",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "dre",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.14\n1.08",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n47\n28\n19\n\n/",
+            "deaths": "56\n31\n25",
+            "fk": "155\n156\n154",
+            "hs%": "67%\n72%\n61%",
+            "kdr": "7\n4\n3",
+            "kills": "233",
+            "name": "Donats",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.04\n1.08",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "45\n25\n20",
+            "fk": "127\n126\n127",
+            "hs%": "67%\n67%\n68%",
+            "kdr": "23\n14\n9",
+            "kills": "193",
+            "name": "eroc",
+            "team": null
+          },
+          {
+            "acs": "0.52\n1.45\n0.94",
+            "adr": "-5\n-14\n+9",
+            "agent": "",
+            "assists": "/\n\n34\n23\n11\n\n/",
+            "deaths": "29\n9\n20",
+            "fk": "128\n93\n170",
+            "hs%": "70%\n58%\n85%",
+            "kdr": "5\n4\n1",
+            "kills": "134",
+            "name": "beny",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.81\n0.84",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n45\n27\n18\n\n/",
+            "deaths": "40\n25\n15",
+            "fk": "94\n113\n72",
+            "hs%": "72%\n78%\n65%",
+            "kdr": "17\n10\n7",
+            "kills": "191",
+            "name": "treb",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.49\n0.82",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "105\n124\n83",
+            "hs%": "61%\n75%\n45%",
+            "kdr": "5\n4\n1",
+            "kills": "201",
+            "name": "beeb",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.99\n0.78",
+            "adr": "-12\n-13\n+1",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "116\n92\n144",
+            "hs%": "64%\n64%\n65%",
+            "kdr": "26\n9\n17",
+            "kills": "141",
+            "name": "Quaack",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n1.46\n1.36",
+            "adr": "+23\n+5\n+18",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "65\n27\n38",
+            "fk": "174\n155\n189",
+            "hs%": "79%\n74%\n83%",
+            "kdr": "22\n15\n7",
+            "kills": "249",
+            "name": "Town",
+            "team": null
+          },
+          {
+            "acs": "1.28\n1.11\n1.19",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n42\n20\n22\n\n/",
+            "deaths": "51\n24\n27",
+            "fk": "137\n138\n137",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "30\n11\n19",
+            "kills": "217",
+            "name": "Kip",
+            "team": null
+          },
+          {
+            "acs": "1.15\n1.14\n1.15",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n46\n21\n25\n\n/",
+            "deaths": "50\n23\n27",
+            "fk": "141\n133\n147",
+            "hs%": "76%\n74%\n78%",
+            "kdr": "37\n15\n22",
+            "kills": "216",
+            "name": "hairzoid",
+            "team": null
+          },
+          {
+            "acs": "0.66\n1.14\n0.89",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "39\n13\n26",
+            "fk": "104\n73\n132",
+            "hs%": "64%\n58%\n69%",
+            "kdr": "14\n7\n7",
+            "kills": "125",
+            "name": "rate",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.94\n0.80",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n47\n24\n23\n\n/",
+            "deaths": "36\n14\n22",
+            "fk": "108\n104\n112",
+            "hs%": "60%\n52%\n67%",
+            "kdr": "21\n5\n16",
+            "kills": "152",
+            "name": "dre",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "358",
+          "name": "eroc",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "294",
+          "name": "Donats",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "311",
+          "name": "beny",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "143",
+          "name": "treb",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "215",
+          "name": "Quaack",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "345",
+          "name": "Town",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "167",
+          "name": "Kip",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "264",
+          "name": "hairzoid",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "226",
+          "name": "dre",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "226",
+          "name": "rate",
+          "team": "Rizzard of Oz"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.43\n0.85\n2.05",
+            "adr": "+7\n-3\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "166\n112\n226",
+            "hs%": "70%\n50%\n91%",
+            "kdr": "3\n0\n3",
+            "kills": "358",
+            "name": "eroc",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "1.08\n0.71\n1.48",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "153\n118\n191",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "4\n2\n2",
+            "kills": "294",
+            "name": "Donats",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "1.03\n0.32\n1.81",
+            "adr": "+1\n-9\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "128\n76\n185",
+            "hs%": "74%\n50%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "311",
+            "name": "beny",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "0.91\n0.91\n0.92",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "102\n116\n86",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "5\n3\n2",
+            "kills": "143",
+            "name": "treb",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "0.75\n0.44\n1.10",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "107\n91\n124",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "12\n4\n8",
+            "kills": "215",
+            "name": "Quaack",
+            "team": "Donoobs"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n1.21\n1.64",
+            "adr": "+9\n0\n+9",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "200\n182\n216",
+            "hs%": "87%\n82%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "345",
+            "name": "Town",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "0.92\n0.78\n1.05",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "100\n95\n104",
+            "hs%": "87%\n82%\n92%",
+            "kdr": "12\n4\n8",
+            "kills": "167",
+            "name": "Kip",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "0.86\n0.53\n1.17",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "123\n70\n172",
+            "hs%": "87%\n82%\n92%",
+            "kdr": "15\n7\n8",
+            "kills": "264",
+            "name": "hairzoid",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "0.76\n0.18\n1.29",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "100\n70\n128",
+            "hs%": "57%\n36%\n75%",
+            "kdr": "9\n2\n7",
+            "kills": "226",
+            "name": "dre",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "0.73\n0.02\n1.50",
+            "adr": "-4\n-10\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "91\n36\n141",
+            "hs%": "48%\n27%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "226",
+            "name": "rate",
+            "team": "Rizzard of Oz"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "195",
+          "name": "eroc",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "240",
+          "name": "Quaack",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "226",
+          "name": "Donats",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "161",
+          "name": "beeb",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "130",
+          "name": "treb",
+          "team": "Donoobs"
+        },
+        {
+          "kills": "276",
+          "name": "hairzoid",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "257",
+          "name": "Town",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "193",
+          "name": "Kip",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "173",
+          "name": "rate",
+          "team": "Rizzard of Oz"
+        },
+        {
+          "kills": "157",
+          "name": "dre",
+          "team": "Rizzard of Oz"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.19\n2.00\n0.31",
+            "adr": "0\n+8\n-8",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "14\n13\n1",
+            "fk": "134\n223\n38",
+            "hs%": "65%\n83%\n45%",
+            "kdr": "17\n11\n6",
+            "kills": "195",
+            "name": "eroc",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "1.11\n1.06\n1.16",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "150\n120\n183",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "5\n3\n2",
+            "kills": "240",
+            "name": "Quaack",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "1.09\n1.31\n0.85",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "172\n184\n158",
+            "hs%": "70%\n83%\n55%",
+            "kdr": "1\n0\n1",
+            "kills": "226",
+            "name": "Donats",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "0.82\n1.13\n0.49",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "105\n124\n83",
+            "hs%": "61%\n75%\n45%",
+            "kdr": "5\n4\n1",
+            "kills": "161",
+            "name": "beeb",
+            "team": "Donoobs"
+          },
+          {
+            "acs": "0.49\n0.53\n0.44",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "77\n92\n60",
+            "hs%": "74%\n92%\n55%",
+            "kdr": "7\n4\n3",
+            "kills": "130",
+            "name": "treb",
+            "team": "Donoobs"
+          }
+        ],
+        [
+          {
+            "acs": "1.61\n2.03\n1.23",
+            "adr": "+7\n+8\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "170\n211\n134",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "17\n8\n9",
+            "kills": "276",
+            "name": "hairzoid",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "1.35\n1.66\n1.06",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "161\n168\n155",
+            "hs%": "78%\n91%\n67%",
+            "kdr": "12\n10\n2",
+            "kills": "257",
+            "name": "Town",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "1.14\n1.72\n0.60",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "150\n180\n123",
+            "hs%": "61%\n82%\n42%",
+            "kdr": "3\n1\n2",
+            "kills": "193",
+            "name": "Kip",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "0.91\n0.92\n0.91",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "104\n77\n129",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "9\n4\n5",
+            "kills": "173",
+            "name": "rate",
+            "team": "Rizzard of Oz"
+          },
+          {
+            "acs": "0.64\n0.65\n0.62",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "114\n116\n113",
+            "hs%": "57%\n64%\n50%",
+            "kdr": "4\n1\n3",
+            "kills": "157",
+            "name": "dre",
+            "team": "Rizzard of Oz"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 167257,
+  "teams": [
+    "Donoobs",
+    "Rizzard of Oz"
+  ],
+  "tournament": "Last Chance Qualifier: \n\t\t\t\t\t\tRound of 128"
+}

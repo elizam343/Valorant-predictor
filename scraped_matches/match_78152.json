@@ -1,0 +1,594 @@
+{
+  "date": "2022-03-15 19:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "324",
+          "name": "Skuder",
+          "team": "Skyline Rebaixado"
+        },
+        {
+          "kills": "262",
+          "name": "Mariosi",
+          "team": "Skyline Rebaixado"
+        },
+        {
+          "kills": "264",
+          "name": "RCSoldier",
+          "team": "Skyline Rebaixado"
+        },
+        {
+          "kills": "202",
+          "name": "ShutAsY",
+          "team": "Skyline Rebaixado"
+        },
+        {
+          "kills": "110",
+          "name": "luck",
+          "team": "Skyline Rebaixado"
+        },
+        {
+          "kills": "238",
+          "name": "rnsx",
+          "team": "IRLV.GG"
+        },
+        {
+          "kills": "203",
+          "name": "vinizin",
+          "team": "IRLV.GG"
+        },
+        {
+          "kills": "159",
+          "name": "saske",
+          "team": "IRLV.GG"
+        },
+        {
+          "kills": "161",
+          "name": "Mig",
+          "team": "IRLV.GG"
+        },
+        {
+          "kills": "71",
+          "name": "nicksz",
+          "team": "IRLV.GG"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "2.06\n2.22\n1.99",
+            "adr": "+17\n+6\n+11",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "23\n7\n16",
+            "fk": "221\n217\n222",
+            "hs%": "94%\n83%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "324",
+            "name": "Skuder",
+            "team": "Skyline Rebaixado"
+          },
+          {
+            "acs": "1.42\n0.85\n1.70",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "169\n103\n203",
+            "hs%": "83%\n67%\n92%",
+            "kdr": "13\n2\n11",
+            "kills": "262",
+            "name": "Mariosi",
+            "team": "Skyline Rebaixado"
+          },
+          {
+            "acs": "1.13\n1.28\n1.05",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "162\n182\n152",
+            "hs%": "78%\n100%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "264",
+            "name": "RCSoldier",
+            "team": "Skyline Rebaixado"
+          },
+          {
+            "acs": "1.02\n0.96\n1.04",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "144\n147\n142",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "202",
+            "name": "ShutAsY",
+            "team": "Skyline Rebaixado"
+          },
+          {
+            "acs": "0.66\n0.91\n0.53",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "69\n89\n59",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "110",
+            "name": "luck",
+            "team": "Skyline Rebaixado"
+          }
+        ],
+        [
+          {
+            "acs": "0.95\n1.16\n0.53",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "132\n172\n52",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "238",
+            "name": "rnsx",
+            "team": "IRLV.GG"
+          },
+          {
+            "acs": "0.77\n0.50\n1.30",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "117\n101\n149",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "203",
+            "name": "vinizin",
+            "team": "IRLV.GG"
+          },
+          {
+            "acs": "0.74\n0.76\n0.71",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "99\n99\n100",
+            "hs%": "61%\n67%\n50%",
+            "kdr": "8\n6\n2",
+            "kills": "159",
+            "name": "saske",
+            "team": "IRLV.GG"
+          },
+          {
+            "acs": "0.61\n0.63\n0.57",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "112\n121\n95",
+            "hs%": "44%\n58%\n17%",
+            "kdr": "3\n2\n1",
+            "kills": "161",
+            "name": "Mig",
+            "team": "IRLV.GG"
+          },
+          {
+            "acs": "0.51\n0.56\n0.42",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "52\n46\n64",
+            "hs%": "44%\n33%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "71",
+            "name": "nicksz",
+            "team": "IRLV.GG"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "189",
+          "name": "Skuder",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "Mariosi",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "ShutAsY",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "RCSoldier",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "luck",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "vinizin",
+          "team": null
+        },
+        {
+          "kills": "284",
+          "name": "rnsx",
+          "team": null
+        },
+        {
+          "kills": "154",
+          "name": "nicksz",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "saske",
+          "team": null
+        },
+        {
+          "kills": "119",
+          "name": "Mig",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.33\n1.35\n1.34",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "33\n12\n21",
+            "fk": "151\n145\n156",
+            "hs%": "74%\n61%\n83%",
+            "kdr": "14\n5\n9",
+            "kills": "189",
+            "name": "Skuder",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.64\n1.30",
+            "adr": "+10\n-1\n+11",
+            "agent": "",
+            "assists": "/\n\n26\n12\n14\n\n/",
+            "deaths": "36\n11\n25",
+            "fk": "165\n121\n198",
+            "hs%": "83%\n78%\n88%",
+            "kdr": "20\n6\n14",
+            "kills": "181",
+            "name": "Mariosi",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.13\n1.11",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n25\n11\n14\n\n/",
+            "deaths": "33\n15\n18",
+            "fk": "141\n134\n146",
+            "hs%": "76%\n72%\n79%",
+            "kdr": "4\n3\n1",
+            "kills": "230",
+            "name": "ShutAsY",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.06\n1.04",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n30\n14\n16\n\n/",
+            "deaths": "35\n14\n21",
+            "fk": "153\n157\n150",
+            "hs%": "74%\n83%\n67%",
+            "kdr": "7\n5\n2",
+            "kills": "227",
+            "name": "RCSoldier",
+            "team": null
+          },
+          {
+            "acs": "1.32\n0.82\n1.03",
+            "adr": "0\n+6\n-6",
+            "agent": "",
+            "assists": "/\n\n25\n7\n18\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "112\n104\n118",
+            "hs%": "83%\n89%\n79%",
+            "kdr": "17\n6\n11",
+            "kills": "184",
+            "name": "luck",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.93\n1.14\n1.02",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n32\n20\n12\n\n/",
+            "deaths": "34\n19\n15",
+            "fk": "129\n131\n126",
+            "hs%": "60%\n63%\n56%",
+            "kdr": "4\n3\n1",
+            "kills": "212",
+            "name": "vinizin",
+            "team": null
+          },
+          {
+            "acs": "1.25\n0.70\n1.02",
+            "adr": "+2\n+6\n-4",
+            "agent": "",
+            "assists": "/\n\n32\n18\n14\n\n/",
+            "deaths": "34\n24\n10",
+            "fk": "134\n171\n85",
+            "hs%": "62%\n63%\n61%",
+            "kdr": "5\n2\n3",
+            "kills": "284",
+            "name": "rnsx",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.90\n0.82",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n32\n19\n13\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "106\n98\n117",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "13\n5\n8",
+            "kills": "154",
+            "name": "nicksz",
+            "team": null
+          },
+          {
+            "acs": "0.65\n0.99\n0.79",
+            "adr": "-13\n-11\n-2",
+            "agent": "",
+            "assists": "/\n\n33\n21\n12\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "105\n97\n115",
+            "hs%": "62%\n63%\n61%",
+            "kdr": "17\n11\n6",
+            "kills": "144",
+            "name": "saske",
+            "team": null
+          },
+          {
+            "acs": "0.47\n0.56\n0.51",
+            "adr": "-17\n-11\n-6",
+            "agent": "",
+            "assists": "/\n\n33\n19\n14\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "86\n95\n74",
+            "hs%": "60%\n63%\n56%",
+            "kdr": "9\n5\n4",
+            "kills": "119",
+            "name": "Mig",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "273",
+          "name": "luck",
+          "team": "Skyline Rebaixado"
+        },
+        {
+          "kills": "314",
+          "name": "Mariosi",
+          "team": "Skyline Rebaixado"
+        },
+        {
+          "kills": "180",
+          "name": "ShutAsY",
+          "team": "Skyline Rebaixado"
+        },
+        {
+          "kills": "222",
+          "name": "RCSoldier",
+          "team": "Skyline Rebaixado"
+        },
+        {
+          "kills": "136",
+          "name": "Skuder",
+          "team": "Skyline Rebaixado"
+        },
+        {
+          "kills": "203",
+          "name": "vinizin",
+          "team": "IRLV.GG"
+        },
+        {
+          "kills": "169",
+          "name": "rnsx",
+          "team": "IRLV.GG"
+        },
+        {
+          "kills": "236",
+          "name": "nicksz",
+          "team": "IRLV.GG"
+        },
+        {
+          "kills": "185",
+          "name": "saske",
+          "team": "IRLV.GG"
+        },
+        {
+          "kills": "112",
+          "name": "Mig",
+          "team": "IRLV.GG"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.52\n1.11",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "144\n111\n177",
+            "hs%": "96%\n100%\n92%",
+            "kdr": "13\n4\n9",
+            "kills": "273",
+            "name": "luck",
+            "team": "Skyline Rebaixado"
+          },
+          {
+            "acs": "1.22\n0.86\n1.58",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "162\n131\n193",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "314",
+            "name": "Mariosi",
+            "team": "Skyline Rebaixado"
+          },
+          {
+            "acs": "1.18\n1.13\n1.22",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "139\n128\n151",
+            "hs%": "88%\n83%\n92%",
+            "kdr": "4\n3\n1",
+            "kills": "180",
+            "name": "ShutAsY",
+            "team": "Skyline Rebaixado"
+          },
+          {
+            "acs": "0.98\n0.88\n1.07",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "147\n145\n149",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "222",
+            "name": "RCSoldier",
+            "team": "Skyline Rebaixado"
+          },
+          {
+            "acs": "0.80\n0.89\n0.71",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "99\n110\n89",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "9\n3\n6",
+            "kills": "136",
+            "name": "Skuder",
+            "team": "Skyline Rebaixado"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.37\n1.06",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "137\n161\n114",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "203",
+            "name": "vinizin",
+            "team": "IRLV.GG"
+          },
+          {
+            "acs": "1.07\n1.35\n0.79",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "136\n170\n101",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "169",
+            "name": "rnsx",
+            "team": "IRLV.GG"
+          },
+          {
+            "acs": "1.05\n0.95\n1.14",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "147\n151\n143",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "236",
+            "name": "nicksz",
+            "team": "IRLV.GG"
+          },
+          {
+            "acs": "0.83\n0.54\n1.13",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "109\n95\n123",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "9\n5\n4",
+            "kills": "185",
+            "name": "saske",
+            "team": "IRLV.GG"
+          },
+          {
+            "acs": "0.43\n0.32\n0.55",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "66\n68\n63",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "112",
+            "name": "Mig",
+            "team": "IRLV.GG"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 78152,
+  "teams": [
+    "IRLV.GG",
+    "Skyline Rebaixado"
+  ],
+  "tournament": "Open Qualifier #2: \n\t\t\t\t\t\tRound of 64"
+}

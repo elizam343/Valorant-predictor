@@ -1,0 +1,594 @@
+{
+  "date": "2021-04-22 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "275",
+          "name": "mada",
+          "team": "Andbox"
+        },
+        {
+          "kills": "221",
+          "name": "yay",
+          "team": "Andbox"
+        },
+        {
+          "kills": "205",
+          "name": "seb",
+          "team": "Andbox"
+        },
+        {
+          "kills": "154",
+          "name": "vice",
+          "team": "Andbox"
+        },
+        {
+          "kills": "155",
+          "name": "b0i",
+          "team": "Andbox"
+        },
+        {
+          "kills": "342",
+          "name": "TenZ",
+          "team": "Sentinels"
+        },
+        {
+          "kills": "220",
+          "name": "ShahZaM",
+          "team": "Sentinels"
+        },
+        {
+          "kills": "182",
+          "name": "dapr",
+          "team": "Sentinels"
+        },
+        {
+          "kills": "185",
+          "name": "SicK",
+          "team": "Sentinels"
+        },
+        {
+          "kills": "108",
+          "name": "zombs",
+          "team": "Sentinels"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.21\n1.35",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "170\n168\n171",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "3\n3\n0",
+            "kills": "275",
+            "name": "mada",
+            "team": "Andbox"
+          },
+          {
+            "acs": "1.13\n0.71\n1.54",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "124\n94\n154",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "4\n1\n3",
+            "kills": "221",
+            "name": "yay",
+            "team": "Andbox"
+          },
+          {
+            "acs": "1.00\n1.17\n0.84",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "122\n130\n114",
+            "hs%": "64%\n64%\n64%",
+            "kdr": "7\n3\n4",
+            "kills": "205",
+            "name": "seb",
+            "team": "Andbox"
+          },
+          {
+            "acs": "0.96\n1.13\n0.80",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "123\n148\n97",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "12\n8\n4",
+            "kills": "154",
+            "name": "vice",
+            "team": "Andbox"
+          },
+          {
+            "acs": "0.59\n0.56\n0.62",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "94\n64\n124",
+            "hs%": "61%\n50%\n71%",
+            "kdr": "9\n6\n3",
+            "kills": "155",
+            "name": "b0i",
+            "team": "Andbox"
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.58\n1.48",
+            "adr": "+12\n+5\n+7",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "32\n16\n16",
+            "fk": "199\n208\n190",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "8\n4\n4",
+            "kills": "342",
+            "name": "TenZ",
+            "team": "Sentinels"
+          },
+          {
+            "acs": "1.21\n1.24\n1.18",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "138\n152\n124",
+            "hs%": "82%\n86%\n79%",
+            "kdr": "9\n6\n3",
+            "kills": "220",
+            "name": "ShahZaM",
+            "team": "Sentinels"
+          },
+          {
+            "acs": "0.92\n0.78\n1.06",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "120\n130\n111",
+            "hs%": "68%\n57%\n79%",
+            "kdr": "8\n1\n7",
+            "kills": "182",
+            "name": "dapr",
+            "team": "Sentinels"
+          },
+          {
+            "acs": "0.87\n0.69\n1.05",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "142\n123\n161",
+            "hs%": "71%\n57%\n86%",
+            "kdr": "6\n4\n2",
+            "kills": "185",
+            "name": "SicK",
+            "team": "Sentinels"
+          },
+          {
+            "acs": "0.52\n0.64\n0.40",
+            "adr": "-12\n-6\n-6",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "71\n75\n67",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "9\n6\n3",
+            "kills": "108",
+            "name": "zombs",
+            "team": "Sentinels"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "224",
+          "name": "yay",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "mada",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "seb",
+          "team": null
+        },
+        {
+          "kills": "140",
+          "name": "vice",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "b0i",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "SicK",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "TenZ",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "ShahZaM",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "dapr",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "zombs",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.88\n1.75\n1.31",
+            "adr": "+20\n-2\n+22",
+            "agent": "",
+            "assists": "/\n\n32\n22\n10\n\n/",
+            "deaths": "52\n20\n32",
+            "fk": "175\n142\n208",
+            "hs%": "75%\n69%\n81%",
+            "kdr": "11\n3\n8",
+            "kills": "224",
+            "name": "yay",
+            "team": null
+          },
+          {
+            "acs": "1.04\n1.38\n1.21",
+            "adr": "+11\n0\n+11",
+            "agent": "",
+            "assists": "/\n\n37\n19\n18\n\n/",
+            "deaths": "48\n19\n29",
+            "fk": "171\n155\n187",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "11\n6\n5",
+            "kills": "229",
+            "name": "mada",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.93\n0.95",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n35\n20\n15\n\n/",
+            "deaths": "37\n18\n19",
+            "fk": "112\n123\n101",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "11\n6\n5",
+            "kills": "199",
+            "name": "seb",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.00\n0.88",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n31\n19\n12\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "110\n105\n115",
+            "hs%": "73%\n65%\n81%",
+            "kdr": "16\n11\n5",
+            "kills": "140",
+            "name": "vice",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.84\n0.80",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n39\n21\n18\n\n/",
+            "deaths": "28\n14\n14",
+            "fk": "92\n85\n99",
+            "hs%": "71%\n62%\n81%",
+            "kdr": "17\n8\n9",
+            "kills": "161",
+            "name": "b0i",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.98\n1.32\n1.15",
+            "adr": "+4\n-5\n+9",
+            "agent": "",
+            "assists": "/\n\n38\n22\n16\n\n/",
+            "deaths": "42\n17\n25",
+            "fk": "160\n139\n180",
+            "hs%": "73%\n58%\n88%",
+            "kdr": "9\n5\n4",
+            "kills": "197",
+            "name": "SicK",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.36\n1.10",
+            "adr": "+4\n-5\n+9",
+            "agent": "",
+            "assists": "/\n\n41\n23\n18\n\n/",
+            "deaths": "45\n18\n27",
+            "fk": "167\n139\n195",
+            "hs%": "63%\n54%\n73%",
+            "kdr": "13\n6\n7",
+            "kills": "229",
+            "name": "TenZ",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.11\n0.99",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n35\n20\n15\n\n/",
+            "deaths": "34\n16\n18",
+            "fk": "119\n118\n120",
+            "hs%": "71%\n65%\n77%",
+            "kdr": "11\n7\n4",
+            "kills": "175",
+            "name": "ShahZaM",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.03\n0.92",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n38\n21\n17\n\n/",
+            "deaths": "32\n14\n18",
+            "fk": "121\n125\n117",
+            "hs%": "67%\n54%\n81%",
+            "kdr": "16\n5\n11",
+            "kills": "175",
+            "name": "dapr",
+            "team": null
+          },
+          {
+            "acs": "0.59\n0.73\n0.66",
+            "adr": "-17\n-13\n-4",
+            "agent": "",
+            "assists": "/\n\n38\n21\n17\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "90\n88\n93",
+            "hs%": "62%\n50%\n73%",
+            "kdr": "13\n7\n6",
+            "kills": "121",
+            "name": "zombs",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "433",
+          "name": "yay",
+          "team": "Andbox"
+        },
+        {
+          "kills": "362",
+          "name": "mada",
+          "team": "Andbox"
+        },
+        {
+          "kills": "142",
+          "name": "b0i",
+          "team": "Andbox"
+        },
+        {
+          "kills": "172",
+          "name": "seb",
+          "team": "Andbox"
+        },
+        {
+          "kills": "192",
+          "name": "vice",
+          "team": "Andbox"
+        },
+        {
+          "kills": "321",
+          "name": "SicK",
+          "team": "Sentinels"
+        },
+        {
+          "kills": "199",
+          "name": "dapr",
+          "team": "Sentinels"
+        },
+        {
+          "kills": "190",
+          "name": "zombs",
+          "team": "Sentinels"
+        },
+        {
+          "kills": "156",
+          "name": "ShahZaM",
+          "team": "Sentinels"
+        },
+        {
+          "kills": "283",
+          "name": "TenZ",
+          "team": "Sentinels"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.53\n1.08\n1.98",
+            "adr": "+15\n0\n+15",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "29\n10\n19",
+            "fk": "235\n199\n271",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "433",
+            "name": "yay",
+            "team": "Andbox"
+          },
+          {
+            "acs": "1.13\n0.84\n1.41",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "173\n141\n205",
+            "hs%": "75%\n50%\n100%",
+            "kdr": "8\n3\n5",
+            "kills": "362",
+            "name": "mada",
+            "team": "Andbox"
+          },
+          {
+            "acs": "1.04\n0.99\n1.10",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "89\n109\n69",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "8\n2\n6",
+            "kills": "142",
+            "name": "b0i",
+            "team": "Andbox"
+          },
+          {
+            "acs": "0.89\n0.74\n1.03",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "100\n114\n86",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "4\n3\n1",
+            "kills": "172",
+            "name": "seb",
+            "team": "Andbox"
+          },
+          {
+            "acs": "0.79\n0.35\n1.23",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "95\n54\n137",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "4\n3\n1",
+            "kills": "192",
+            "name": "vice",
+            "team": "Andbox"
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.33\n1.64",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "180\n157\n203",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "321",
+            "name": "SicK",
+            "team": "Sentinels"
+          },
+          {
+            "acs": "0.91\n0.83\n0.99",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "122\n119\n125",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "199",
+            "name": "dapr",
+            "team": "Sentinels"
+          },
+          {
+            "acs": "0.83\n0.53\n1.12",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "112\n102\n123",
+            "hs%": "50%\n25%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "190",
+            "name": "zombs",
+            "team": "Sentinels"
+          },
+          {
+            "acs": "0.74\n0.45\n1.03",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "97\n78\n116",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "156",
+            "name": "ShahZaM",
+            "team": "Sentinels"
+          },
+          {
+            "acs": "0.61\n0.03\n1.23",
+            "adr": "-8\n-10\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "130\n58\n201",
+            "hs%": "58%\n33%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "283",
+            "name": "TenZ",
+            "team": "Sentinels"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 16985,
+  "teams": [
+    "Sentinels",
+    "Andbox"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tUpper Bracket Quarterfinals"
+}

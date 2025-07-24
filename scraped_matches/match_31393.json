@@ -1,0 +1,612 @@
+{
+  "date": "2021-08-19 13:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "169",
+          "name": "Andy",
+          "team": "FlamexSerenity"
+        },
+        {
+          "kills": "242",
+          "name": "SomuLaal",
+          "team": "FlamexSerenity"
+        },
+        {
+          "kills": "159",
+          "name": "FalconIsher",
+          "team": "FlamexSerenity"
+        },
+        {
+          "kills": "124",
+          "name": "EleMenT",
+          "team": "FlamexSerenity"
+        },
+        {
+          "kills": "133",
+          "name": "wateR",
+          "team": "FlamexSerenity"
+        },
+        {
+          "kills": "340",
+          "name": "JN",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "312",
+          "name": "BondF",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "194",
+          "name": "JuveNN",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "164",
+          "name": "tryst",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "144",
+          "name": "PanzeR",
+          "team": "Reckoning Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "0.79\n0.41\n0.98",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "108\n78\n123",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "169",
+            "name": "Andy",
+            "team": "FlamexSerenity"
+          },
+          {
+            "acs": "0.74\n0.90\n0.67",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "123\n111\n129",
+            "hs%": "67%\n83%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "242",
+            "name": "SomuLaal",
+            "team": "FlamexSerenity"
+          },
+          {
+            "acs": "0.58\n0.35\n0.70",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "106\n58\n131",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "159",
+            "name": "FalconIsher",
+            "team": "FlamexSerenity"
+          },
+          {
+            "acs": "0.54\n0.56\n0.52",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "81\n70\n86",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "124",
+            "name": "EleMenT",
+            "team": "FlamexSerenity"
+          },
+          {
+            "acs": "0.48\n0.67\n0.39",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "95\n129\n78",
+            "hs%": "44%\n50%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "133",
+            "name": "wateR",
+            "team": "FlamexSerenity"
+          }
+        ],
+        [
+          {
+            "acs": "1.79\n1.88\n1.59",
+            "adr": "+14\n+11\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "23\n17\n6",
+            "fk": "199\n216\n165",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "340",
+            "name": "JN",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "1.59\n1.34\n2.10",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "169\n160\n188",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "312",
+            "name": "BondF",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "1.32\n1.41\n1.14",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "135\n154\n97",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "8\n6\n2",
+            "kills": "194",
+            "name": "JuveNN",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.94\n1.30\n0.24",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "107\n139\n43",
+            "hs%": "61%\n75%\n33%",
+            "kdr": "3\n3\n0",
+            "kills": "164",
+            "name": "tryst",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.89\n0.93\n0.82",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "87\n83\n95",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "11\n9\n2",
+            "kills": "144",
+            "name": "PanzeR",
+            "team": "Reckoning Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "160",
+          "name": "Reaper",
+          "team": null
+        },
+        {
+          "kills": "285",
+          "name": "wateR",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "FalconIsher",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "Andy",
+          "team": null
+        },
+        {
+          "kills": "323",
+          "name": "SomuLaal",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "EleMenT",
+          "team": null
+        },
+        {
+          "kills": "264",
+          "name": "BondF",
+          "team": null
+        },
+        {
+          "kills": "292",
+          "name": "JN",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "tryst",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "JuveNN",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "PanzeR",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.86\n1.05\n0.95",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "138\n122\n155",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "4\n3\n1",
+            "kills": "160",
+            "name": "Reaper",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.54\n0.82",
+            "adr": "-7\n+3\n-10",
+            "agent": "",
+            "assists": "/\n\n35\n15\n20\n\n/",
+            "deaths": "28\n18\n10",
+            "fk": "133\n166\n107",
+            "hs%": "54%\n61%\n48%",
+            "kdr": "6\n2\n4",
+            "kills": "285",
+            "name": "wateR",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.85\n0.80",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n31\n12\n19\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "111\n90\n127",
+            "hs%": "63%\n61%\n65%",
+            "kdr": "4\n2\n2",
+            "kills": "147",
+            "name": "FalconIsher",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.81\n0.78",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n31\n13\n18\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "106\n91\n119",
+            "hs%": "56%\n56%\n57%",
+            "kdr": "6\n2\n4",
+            "kills": "148",
+            "name": "Andy",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.67\n0.74",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "123\n111\n129",
+            "hs%": "67%\n83%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "323",
+            "name": "SomuLaal",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.62\n0.60",
+            "adr": "-17\n-8\n-9",
+            "agent": "",
+            "assists": "/\n\n34\n15\n19\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "83\n88\n79",
+            "hs%": "63%\n72%\n57%",
+            "kdr": "12\n6\n6",
+            "kills": "129",
+            "name": "EleMenT",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.81\n1.52",
+            "adr": "+23\n+7\n+16",
+            "agent": "",
+            "assists": "/\n\n22\n15\n7\n\n/",
+            "deaths": "45\n22\n23",
+            "fk": "176\n154\n203",
+            "hs%": "83%\n91%\n72%",
+            "kdr": "11\n6\n5",
+            "kills": "264",
+            "name": "BondF",
+            "team": null
+          },
+          {
+            "acs": "1.57\n0.78\n1.23",
+            "adr": "+9\n+12\n-3",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "35\n25\n10",
+            "fk": "152\n185\n111",
+            "hs%": "71%\n78%\n61%",
+            "kdr": "8\n5\n3",
+            "kills": "292",
+            "name": "JN",
+            "team": null
+          },
+          {
+            "acs": "1.34\n0.85\n1.13",
+            "adr": "+9\n+10\n-1",
+            "agent": "",
+            "assists": "/\n\n23\n11\n12\n\n/",
+            "deaths": "32\n21\n11",
+            "fk": "115\n126\n100",
+            "hs%": "68%\n78%\n56%",
+            "kdr": "12\n6\n6",
+            "kills": "221",
+            "name": "tryst",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.07\n1.07",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "130\n135\n125",
+            "hs%": "76%\n78%\n72%",
+            "kdr": "13\n9\n4",
+            "kills": "186",
+            "name": "JuveNN",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.94\n0.94",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n29\n16\n13\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "118\n99\n144",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "16\n10\n6",
+            "kills": "175",
+            "name": "PanzeR",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "215",
+          "name": "wateR",
+          "team": "FlamexSerenity"
+        },
+        {
+          "kills": "231",
+          "name": "FalconIsher",
+          "team": "FlamexSerenity"
+        },
+        {
+          "kills": "273",
+          "name": "Reaper",
+          "team": "FlamexSerenity"
+        },
+        {
+          "kills": "145",
+          "name": "Andy",
+          "team": "FlamexSerenity"
+        },
+        {
+          "kills": "110",
+          "name": "EleMenT",
+          "team": "FlamexSerenity"
+        },
+        {
+          "kills": "312",
+          "name": "BondF",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "197",
+          "name": "tryst",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "235",
+          "name": "PanzeR",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "214",
+          "name": "JuveNN",
+          "team": "Reckoning Esports"
+        },
+        {
+          "kills": "134",
+          "name": "JN",
+          "team": "Reckoning Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.42\n0.71",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "163\n185\n139",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "4\n2\n2",
+            "kills": "215",
+            "name": "wateR",
+            "team": "FlamexSerenity"
+          },
+          {
+            "acs": "0.97\n0.94\n1.01",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "114\n106\n122",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "3\n2\n1",
+            "kills": "231",
+            "name": "FalconIsher",
+            "team": "FlamexSerenity"
+          },
+          {
+            "acs": "0.95\n0.86\n1.05",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "138\n122\n155",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "4\n3\n1",
+            "kills": "273",
+            "name": "Reaper",
+            "team": "FlamexSerenity"
+          },
+          {
+            "acs": "0.78\n0.92\n0.63",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "105\n98\n114",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "3\n1\n2",
+            "kills": "145",
+            "name": "Andy",
+            "team": "FlamexSerenity"
+          },
+          {
+            "acs": "0.66\n0.59\n0.72",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "84\n97\n70",
+            "hs%": "70%\n83%\n55%",
+            "kdr": "7\n4\n3",
+            "kills": "110",
+            "name": "EleMenT",
+            "team": "FlamexSerenity"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n1.23\n1.66",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "180\n148\n210",
+            "hs%": "78%\n91%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "312",
+            "name": "BondF",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "1.27\n1.38\n1.16",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "121\n112\n129",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "9\n3\n6",
+            "kills": "197",
+            "name": "tryst",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.98\n0.95\n1.01",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "143\n116\n168",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "235",
+            "name": "PanzeR",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.88\n0.71\n1.04",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "127\n114\n138",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "214",
+            "name": "JuveNN",
+            "team": "Reckoning Esports"
+          },
+          {
+            "acs": "0.79\n1.24\n0.38",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "115\n150\n84",
+            "hs%": "61%\n73%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "134",
+            "name": "JN",
+            "team": "Reckoning Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 31393,
+  "teams": [
+    "Reckoning Esports",
+    "FlamexSerenity"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup A"
+}

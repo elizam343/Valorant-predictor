@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-21 02:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "256",
+          "name": "Levci",
+          "team": "BabyBeast"
+        },
+        {
+          "kills": "204",
+          "name": "Hunter",
+          "team": "BabyBeast"
+        },
+        {
+          "kills": "138",
+          "name": "iamRinoh",
+          "team": "BabyBeast"
+        },
+        {
+          "kills": "105",
+          "name": "tovaa",
+          "team": "BabyBeast"
+        },
+        {
+          "kills": "103",
+          "name": "Shinon",
+          "team": "BabyBeast"
+        },
+        {
+          "kills": "389",
+          "name": "Mexious",
+          "team": "Bob the Builder"
+        },
+        {
+          "kills": "334",
+          "name": "Arixa",
+          "team": "Bob the Builder"
+        },
+        {
+          "kills": "229",
+          "name": "Shenzy",
+          "team": "Bob the Builder"
+        },
+        {
+          "kills": "132",
+          "name": "MBakuhantam",
+          "team": "Bob the Builder"
+        },
+        {
+          "kills": "114",
+          "name": "FLoki",
+          "team": "Bob the Builder"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "0.95\n0.99\n0.86",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "147\n148\n144",
+            "hs%": "47%\n33%\n80%",
+            "kdr": "1\n0\n1",
+            "kills": "256",
+            "name": "Levci",
+            "team": "BabyBeast"
+          },
+          {
+            "acs": "0.71\n0.46\n1.31",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "132\n104\n199",
+            "hs%": "53%\n42%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "204",
+            "name": "Hunter",
+            "team": "BabyBeast"
+          },
+          {
+            "acs": "0.58\n0.71\n0.29",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "90\n93\n84",
+            "hs%": "41%\n33%\n60%",
+            "kdr": "1\n0\n1",
+            "kills": "138",
+            "name": "iamRinoh",
+            "team": "BabyBeast"
+          },
+          {
+            "acs": "0.52\n0.78\n0.02",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "74\n96\n22",
+            "hs%": "47%\n58%\n20%",
+            "kdr": "1\n0\n1",
+            "kills": "105",
+            "name": "tovaa",
+            "team": "BabyBeast"
+          },
+          {
+            "acs": "0.41\n0.65\n0.02",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "79\n97\n35",
+            "hs%": "59%\n67%\n40%",
+            "kdr": "4\n3\n1",
+            "kills": "103",
+            "name": "Shinon",
+            "team": "BabyBeast"
+          }
+        ],
+        [
+          {
+            "acs": "1.87\n3.86\n1.04",
+            "adr": "+13\n+12\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "24\n15\n9",
+            "fk": "237\n434\n155",
+            "hs%": "76%\n100%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "389",
+            "name": "Mexious",
+            "team": "Bob the Builder"
+          },
+          {
+            "acs": "1.56\n1.41\n1.62",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "21\n5\n16",
+            "fk": "200\n159\n217",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "334",
+            "name": "Arixa",
+            "team": "Bob the Builder"
+          },
+          {
+            "acs": "1.17\n0.60\n1.41",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "157\n90\n185",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "229",
+            "name": "Shenzy",
+            "team": "Bob the Builder"
+          },
+          {
+            "acs": "1.05\n0.93\n1.10",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "91\n77\n96",
+            "hs%": "76%\n100%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "132",
+            "name": "MBakuhantam",
+            "team": "Bob the Builder"
+          },
+          {
+            "acs": "0.93\n0.87\n0.95",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "78\n24\n101",
+            "hs%": "76%\n100%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "114",
+            "name": "FLoki",
+            "team": "Bob the Builder"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "190",
+          "name": "Hunter",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "iamRinoh",
+          "team": null
+        },
+        {
+          "kills": "140",
+          "name": "tovaa",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "Levci",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "Shinon",
+          "team": null
+        },
+        {
+          "kills": "602",
+          "name": "Mexious",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "Arixa",
+          "team": null
+        },
+        {
+          "kills": "96",
+          "name": "MBakuhantam",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Shenzy",
+          "team": null
+        },
+        {
+          "kills": "101",
+          "name": "FLoki",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.84\n0.99\n0.91",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n29\n16\n13\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "133\n129\n137",
+            "hs%": "65%\n65%\n65%",
+            "kdr": "8\n4\n4",
+            "kills": "190",
+            "name": "Hunter",
+            "team": null
+          },
+          {
+            "acs": "1.19\n0.50\n0.88",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "27\n17\n10",
+            "fk": "109\n130\n85",
+            "hs%": "54%\n55%\n53%",
+            "kdr": "3\n2\n1",
+            "kills": "235",
+            "name": "iamRinoh",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.94\n0.83",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "102\n90\n117",
+            "hs%": "57%\n65%\n47%",
+            "kdr": "5\n3\n2",
+            "kills": "140",
+            "name": "tovaa",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.59\n0.62",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n35\n18\n17\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "124\n117\n133",
+            "hs%": "57%\n45%\n71%",
+            "kdr": "4\n2\n2",
+            "kills": "203",
+            "name": "Levci",
+            "team": null
+          },
+          {
+            "acs": "0.65\n0.52\n0.57",
+            "adr": "-16\n-7\n-9",
+            "agent": "",
+            "assists": "/\n\n31\n17\n14\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "105\n126\n81",
+            "hs%": "65%\n75%\n53%",
+            "kdr": "12\n6\n6",
+            "kills": "164",
+            "name": "Shinon",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "2.83\n0.78\n1.72",
+            "adr": "+23\n+26\n-3",
+            "agent": "",
+            "assists": "/\n\n27\n11\n16\n\n/",
+            "deaths": "50\n37\n13",
+            "fk": "260\n392\n149",
+            "hs%": "81%\n100%\n65%",
+            "kdr": "7\n1\n6",
+            "kills": "602",
+            "name": "Mexious",
+            "team": null
+          },
+          {
+            "acs": "1.19\n1.41\n1.31",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n25\n10\n15\n\n/",
+            "deaths": "37\n13\n24",
+            "fk": "165\n142\n185",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "9\n7\n2",
+            "kills": "212",
+            "name": "Arixa",
+            "team": null
+          },
+          {
+            "acs": "0.67\n1.52\n1.13",
+            "adr": "+4\n-5\n+9",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "23\n5\n18",
+            "fk": "115\n73\n150",
+            "hs%": "76%\n76%\n75%",
+            "kdr": "5\n4\n1",
+            "kills": "96",
+            "name": "MBakuhantam",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.10\n1.00",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n26\n12\n14\n\n/",
+            "deaths": "27\n12\n15",
+            "fk": "143\n118\n164",
+            "hs%": "65%\n65%\n65%",
+            "kdr": "14\n7\n7",
+            "kills": "171",
+            "name": "Shenzy",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.90\n0.92",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "81\n68\n93",
+            "hs%": "70%\n82%\n60%",
+            "kdr": "14\n9\n5",
+            "kills": "101",
+            "name": "FLoki",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "167",
+          "name": "iamRinoh",
+          "team": "BabyBeast"
+        },
+        {
+          "kills": "273",
+          "name": "tovaa",
+          "team": "BabyBeast"
+        },
+        {
+          "kills": "154",
+          "name": "Hunter",
+          "team": "BabyBeast"
+        },
+        {
+          "kills": "151",
+          "name": "Shinon",
+          "team": "BabyBeast"
+        },
+        {
+          "kills": "194",
+          "name": "Levci",
+          "team": "BabyBeast"
+        },
+        {
+          "kills": "191",
+          "name": "Mexious",
+          "team": "Bob the Builder"
+        },
+        {
+          "kills": "353",
+          "name": "MBakuhantam",
+          "team": "Bob the Builder"
+        },
+        {
+          "kills": "248",
+          "name": "Arixa",
+          "team": "Bob the Builder"
+        },
+        {
+          "kills": "100",
+          "name": "FLoki",
+          "team": "Bob the Builder"
+        },
+        {
+          "kills": "180",
+          "name": "Shenzy",
+          "team": "Bob the Builder"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.12\n1.92\n0.59",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "126\n186\n85",
+            "hs%": "65%\n88%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "167",
+            "name": "iamRinoh",
+            "team": "BabyBeast"
+          },
+          {
+            "acs": "1.10\n0.78\n1.32",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "126\n81\n156",
+            "hs%": "65%\n75%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "273",
+            "name": "tovaa",
+            "team": "BabyBeast"
+          },
+          {
+            "acs": "1.08\n1.41\n0.86",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "134\n166\n112",
+            "hs%": "75%\n100%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "154",
+            "name": "Hunter",
+            "team": "BabyBeast"
+          },
+          {
+            "acs": "0.70\n0.66\n0.73",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "128\n170\n100",
+            "hs%": "70%\n88%\n58%",
+            "kdr": "8\n3\n5",
+            "kills": "151",
+            "name": "Shinon",
+            "team": "BabyBeast"
+          },
+          {
+            "acs": "0.33\n0.11\n0.48",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "105\n72\n128",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "194",
+            "name": "Levci",
+            "team": "BabyBeast"
+          }
+        ],
+        [
+          {
+            "acs": "1.60\n2.40\n0.38",
+            "adr": "+10\n+14\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "26\n22\n4",
+            "fk": "280\n374\n140",
+            "hs%": "85%\n100%\n63%",
+            "kdr": "4\n1\n3",
+            "kills": "191",
+            "name": "Mexious",
+            "team": "Bob the Builder"
+          },
+          {
+            "acs": "1.20\n0.56\n2.15",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "135\n71\n232",
+            "hs%": "75%\n67%\n88%",
+            "kdr": "1\n1\n0",
+            "kills": "353",
+            "name": "MBakuhantam",
+            "team": "Bob the Builder"
+          },
+          {
+            "acs": "1.10\n1.09\n1.11",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "136\n135\n138",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "6\n6\n0",
+            "kills": "248",
+            "name": "Arixa",
+            "team": "Bob the Builder"
+          },
+          {
+            "acs": "0.91\n0.98\n0.82",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "84\n86\n80",
+            "hs%": "65%\n75%\n50%",
+            "kdr": "8\n7\n1",
+            "kills": "100",
+            "name": "FLoki",
+            "team": "Bob the Builder"
+          },
+          {
+            "acs": "0.86\n1.00\n0.64",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "131\n130\n133",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "8\n4\n4",
+            "kills": "180",
+            "name": "Shenzy",
+            "team": "Bob the Builder"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 65433,
+  "teams": [
+    "BabyBeast",
+    "Bob the Builder"
+  ],
+  "tournament": "Open Qualifier #2: \n\t\t\t\t\t\tRound 1"
+}

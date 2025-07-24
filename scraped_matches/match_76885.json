@@ -1,0 +1,594 @@
+{
+  "date": "2022-03-09 21:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "354",
+          "name": "Ivy",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "288",
+          "name": "Buffala",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "192",
+          "name": "Andrehs",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "193",
+          "name": "Rage",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "143",
+          "name": "Veritoxm",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "263",
+          "name": "Km3",
+          "team": "LeaveNoWitness"
+        },
+        {
+          "kills": "215",
+          "name": "Zaki",
+          "team": "LeaveNoWitness"
+        },
+        {
+          "kills": "176",
+          "name": "ZoeLiL",
+          "team": "LeaveNoWitness"
+        },
+        {
+          "kills": "87",
+          "name": "AnLuu",
+          "team": "LeaveNoWitness"
+        },
+        {
+          "kills": "108",
+          "name": "Teff",
+          "team": "LeaveNoWitness"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.74\n1.93\n1.46",
+            "adr": "+12\n+9\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "25\n17\n8",
+            "fk": "235\n268\n185",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "4\n2\n2",
+            "kills": "354",
+            "name": "Ivy",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "1.59\n1.16\n2.24",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "211\n190\n242",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "2\n0\n2",
+            "kills": "288",
+            "name": "Buffala",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "1.20\n1.38\n0.92",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "123\n144\n92",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "7\n5\n2",
+            "kills": "192",
+            "name": "Andrehs",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "1.14\n1.47\n0.65",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "119\n167\n48",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "9\n4\n5",
+            "kills": "193",
+            "name": "Rage",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "0.86\n0.44\n1.49",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "99\n52\n169",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "12\n5\n7",
+            "kills": "143",
+            "name": "Veritoxm",
+            "team": "Skull Cracker Quartz"
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n0.93\n1.25",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "169\n157\n177",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "263",
+            "name": "Km3",
+            "team": "LeaveNoWitness"
+          },
+          {
+            "acs": "1.10\n1.20\n1.03",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "162\n156\n166",
+            "hs%": "65%\n75%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "215",
+            "name": "Zaki",
+            "team": "LeaveNoWitness"
+          },
+          {
+            "acs": "0.67\n0.48\n0.79",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "129\n101\n148",
+            "hs%": "50%\n38%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "176",
+            "name": "ZoeLiL",
+            "team": "LeaveNoWitness"
+          },
+          {
+            "acs": "0.40\n0.24\n0.50",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "67\n60\n72",
+            "hs%": "40%\n25%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "87",
+            "name": "AnLuu",
+            "team": "LeaveNoWitness"
+          },
+          {
+            "acs": "0.37\n0.66\n0.18",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "68\n63\n71",
+            "hs%": "45%\n63%\n33%",
+            "kdr": "1\n0\n1",
+            "kills": "108",
+            "name": "Teff",
+            "team": "LeaveNoWitness"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "429",
+          "name": "Ivy",
+          "team": null
+        },
+        {
+          "kills": "258",
+          "name": "Buffala",
+          "team": null
+        },
+        {
+          "kills": "244",
+          "name": "Andrehs",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "Rage",
+          "team": null
+        },
+        {
+          "kills": "68",
+          "name": "Veritoxm",
+          "team": null
+        },
+        {
+          "kills": "267",
+          "name": "Km3",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "Zaki",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "ZoeLiL",
+          "team": null
+        },
+        {
+          "kills": "105",
+          "name": "Teff",
+          "team": null
+        },
+        {
+          "kills": "107",
+          "name": "AnLuu",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "2.18\n1.28\n1.70",
+            "adr": "+23\n+18\n+5",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "43\n26\n17",
+            "fk": "225\n282\n176",
+            "hs%": "81%\n88%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "429",
+            "name": "Ivy",
+            "team": null
+          },
+          {
+            "acs": "1.40\n1.58\n1.50",
+            "adr": "+18\n+8\n+10",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "38\n17\n21",
+            "fk": "190\n197\n184",
+            "hs%": "81%\n88%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "258",
+            "name": "Buffala",
+            "team": null
+          },
+          {
+            "acs": "1.54\n1.11\n1.31",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "28\n14\n14",
+            "fk": "154\n154\n153",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "16\n7\n9",
+            "kills": "244",
+            "name": "Andrehs",
+            "team": null
+          },
+          {
+            "acs": "1.46\n0.89\n1.15",
+            "adr": "+6\n+9\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n6\n13\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "117\n140\n98",
+            "hs%": "78%\n88%\n70%",
+            "kdr": "13\n5\n8",
+            "kills": "225",
+            "name": "Rage",
+            "team": null
+          },
+          {
+            "acs": "0.58\n1.42\n1.04",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "20\n4\n16",
+            "fk": "111\n44\n169",
+            "hs%": "81%\n76%\n85%",
+            "kdr": "22\n9\n13",
+            "kills": "68",
+            "name": "Veritoxm",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n0.94\n1.11",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "32\n20\n12",
+            "fk": "147\n150\n143",
+            "hs%": "59%\n65%\n53%",
+            "kdr": "11\n9\n2",
+            "kills": "267",
+            "name": "Km3",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.78\n1.04",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n29\n14\n15\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "149\n160\n137",
+            "hs%": "62%\n75%\n47%",
+            "kdr": "12\n9\n3",
+            "kills": "233",
+            "name": "Zaki",
+            "team": null
+          },
+          {
+            "acs": "0.59\n0.57\n0.57",
+            "adr": "-12\n-5\n-7",
+            "agent": "",
+            "assists": "/\n\n31\n17\n14\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "114\n110\n119",
+            "hs%": "49%\n50%\n47%",
+            "kdr": "4\n2\n2",
+            "kills": "163",
+            "name": "ZoeLiL",
+            "team": null
+          },
+          {
+            "acs": "0.54\n0.24\n0.40",
+            "adr": "-19\n-8\n-11",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "77\n77\n77",
+            "hs%": "43%\n55%\n29%",
+            "kdr": "5\n4\n1",
+            "kills": "105",
+            "name": "Teff",
+            "team": null
+          },
+          {
+            "acs": "0.40\n0.37\n0.39",
+            "adr": "-21\n-11\n-10",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "71\n79\n62",
+            "hs%": "43%\n45%\n41%",
+            "kdr": "8\n5\n3",
+            "kills": "107",
+            "name": "AnLuu",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "217",
+          "name": "Ivy",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "251",
+          "name": "Andrehs",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "227",
+          "name": "Buffala",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "237",
+          "name": "Veritoxm",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "221",
+          "name": "Rage",
+          "team": "Skull Cracker Quartz"
+        },
+        {
+          "kills": "86",
+          "name": "Km3",
+          "team": "LeaveNoWitness"
+        },
+        {
+          "kills": "77",
+          "name": "Zaki",
+          "team": "LeaveNoWitness"
+        },
+        {
+          "kills": "49",
+          "name": "ZoeLiL",
+          "team": "LeaveNoWitness"
+        },
+        {
+          "kills": "120",
+          "name": "Teff",
+          "team": "LeaveNoWitness"
+        },
+        {
+          "kills": "68",
+          "name": "AnLuu",
+          "team": "LeaveNoWitness"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.65\n2.79\n1.17",
+            "adr": "+11\n+9\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n0\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "213\n317\n170",
+            "hs%": "76%\n100%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "217",
+            "name": "Ivy",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "1.44\n1.93\n1.23",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "189\n178\n194",
+            "hs%": "76%\n100%\n67%",
+            "kdr": "9\n2\n7",
+            "kills": "251",
+            "name": "Andrehs",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "1.39\n1.99\n1.14",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "165\n213\n146",
+            "hs%": "76%\n100%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "227",
+            "name": "Buffala",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "1.24\n0.91\n1.38",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "126\n25\n168",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "10\n4\n6",
+            "kills": "237",
+            "name": "Veritoxm",
+            "team": "Skull Cracker Quartz"
+          },
+          {
+            "acs": "1.16\n1.44\n1.04",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n8\n0\n8\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "115\n77\n130",
+            "hs%": "82%\n100%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "221",
+            "name": "Rage",
+            "team": "Skull Cracker Quartz"
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n1.48\n0.19",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "14\n13\n1",
+            "fk": "121\n145\n64",
+            "hs%": "53%\n67%\n20%",
+            "kdr": "7\n7\n0",
+            "kills": "86",
+            "name": "Km3",
+            "team": "LeaveNoWitness"
+          },
+          {
+            "acs": "0.97\n1.29\n0.19",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "135\n162\n68",
+            "hs%": "59%\n75%\n20%",
+            "kdr": "6\n6\n0",
+            "kills": "77",
+            "name": "Zaki",
+            "team": "LeaveNoWitness"
+          },
+          {
+            "acs": "0.46\n0.67\n0.03",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "8\n8\n0",
+            "fk": "97\n117\n50",
+            "hs%": "47%\n58%\n20%",
+            "kdr": "2\n1\n1",
+            "kills": "49",
+            "name": "ZoeLiL",
+            "team": "LeaveNoWitness"
+          },
+          {
+            "acs": "0.44\n0.46\n0.40",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "88\n86\n92",
+            "hs%": "41%\n50%\n20%",
+            "kdr": "4\n4\n0",
+            "kills": "120",
+            "name": "Teff",
+            "team": "LeaveNoWitness"
+          },
+          {
+            "acs": "0.38\n0.51\n0.05",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "76\n91\n39",
+            "hs%": "47%\n58%\n20%",
+            "kdr": "2\n2\n0",
+            "kills": "68",
+            "name": "AnLuu",
+            "team": "LeaveNoWitness"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 76885,
+  "teams": [
+    "Skull Cracker Quartz",
+    "LeaveNoWitness"
+  ],
+  "tournament": "Latin America: North: \n\t\t\t\t\t\tUpper Semifinals"
+}

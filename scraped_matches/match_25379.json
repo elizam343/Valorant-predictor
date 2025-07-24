@@ -1,0 +1,982 @@
+{
+  "date": "2021-07-15 05:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "253",
+          "name": "BerLIN",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "233",
+          "name": "Ra1ny",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "149",
+          "name": "W1nner",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "191",
+          "name": "Yuicaw",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "188",
+          "name": "Iyo",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "230",
+          "name": "SiuFatBB",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "240",
+          "name": "Ace",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "167",
+          "name": "yTao",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "142",
+          "name": "Hukz",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "149",
+          "name": "Fung3",
+          "team": "Griffin E-Sports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.32\n1.56",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "163\n156\n173",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "253",
+            "name": "BerLIN",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "1.30\n1.15\n1.52",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "149\n171\n118",
+            "hs%": "75%\n67%\n88%",
+            "kdr": "2\n2\n0",
+            "kills": "233",
+            "name": "Ra1ny",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.89\n0.61\n1.30",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "99\n96\n104",
+            "hs%": "75%\n58%\n100%",
+            "kdr": "7\n1\n6",
+            "kills": "149",
+            "name": "W1nner",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.88\n0.21\n1.88",
+            "adr": "+1\n-8\n+9",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "112\n64\n184",
+            "hs%": "60%\n33%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "191",
+            "name": "Yuicaw",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.85\n0.60\n1.23",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "104\n98\n112",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "4\n4\n0",
+            "kills": "188",
+            "name": "Iyo",
+            "team": "CBT Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n0.49\n1.69",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "134\n80\n170",
+            "hs%": "75%\n38%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "230",
+            "name": "SiuFatBB",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "1.07\n0.33\n1.57",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n3\n15",
+            "fk": "156\n83\n205",
+            "hs%": "60%\n38%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "240",
+            "name": "Ace",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.77\n0.53\n0.94",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "99\n68\n119",
+            "hs%": "60%\n63%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "167",
+            "name": "yTao",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.61\n0.36\n0.78",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "92\n65\n110",
+            "hs%": "50%\n38%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "142",
+            "name": "Hukz",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.60\n0.08\n0.95",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "106\n58\n138",
+            "hs%": "55%\n25%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "149",
+            "name": "Fung3",
+            "team": "Griffin E-Sports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "188",
+          "name": "BerLIN",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "Yuicaw",
+          "team": null
+        },
+        {
+          "kills": "135",
+          "name": "Iyo",
+          "team": null
+        },
+        {
+          "kills": "140",
+          "name": "Ra1ny",
+          "team": null
+        },
+        {
+          "kills": "122",
+          "name": "W1nner",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "SiuFatBB",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "Ace",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "yTao",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Hukz",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "Fung3",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.40\n1.20",
+            "adr": "+14\n+2\n+12",
+            "agent": "",
+            "assists": "/\n\n56\n26\n30\n\n/",
+            "deaths": "70\n28\n42",
+            "fk": "144\n106\n186",
+            "hs%": "75%\n74%\n75%",
+            "kdr": "19\n8\n11",
+            "kills": "188",
+            "name": "BerLIN",
+            "team": null
+          },
+          {
+            "acs": "0.93\n1.33\n1.12",
+            "adr": "+16\n-3\n+19",
+            "agent": "",
+            "assists": "/\n\n54\n26\n28\n\n/",
+            "deaths": "70\n23\n47",
+            "fk": "120\n101\n141",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "15\n8\n7",
+            "kills": "161",
+            "name": "Yuicaw",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.02\n0.90",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n57\n25\n32\n\n/",
+            "deaths": "47\n20\n27",
+            "fk": "113\n96\n132",
+            "hs%": "75%\n79%\n70%",
+            "kdr": "21\n10\n11",
+            "kills": "135",
+            "name": "Iyo",
+            "team": null
+          },
+          {
+            "acs": "0.83\n0.89\n0.85",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n53\n26\n27\n\n/",
+            "deaths": "44\n21\n23",
+            "fk": "90\n97\n83",
+            "hs%": "67%\n70%\n65%",
+            "kdr": "11\n4\n7",
+            "kills": "140",
+            "name": "Ra1ny",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.74\n0.74",
+            "adr": "-17\n-7\n-10",
+            "agent": "",
+            "assists": "/\n\n58\n27\n31\n\n/",
+            "deaths": "41\n20\n21",
+            "fk": "78\n78\n78",
+            "hs%": "67%\n67%\n68%",
+            "kdr": "22\n5\n17",
+            "kills": "122",
+            "name": "W1nner",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.98\n1.27\n1.13",
+            "adr": "+20\n+1\n+19",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "68\n26\n42",
+            "fk": "113\n104\n122",
+            "hs%": "73%\n63%\n84%",
+            "kdr": "10\n4\n6",
+            "kills": "191",
+            "name": "SiuFatBB",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.25\n1.01",
+            "adr": "+5\n-9\n+14",
+            "agent": "",
+            "assists": "/\n\n59\n34\n25\n\n/",
+            "deaths": "64\n25\n39",
+            "fk": "137\n115\n157",
+            "hs%": "66%\n53%\n79%",
+            "kdr": "15\n6\n9",
+            "kills": "186",
+            "name": "Ace",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.12\n1.00",
+            "adr": "+12\n-6\n+18",
+            "agent": "",
+            "assists": "/\n\n51\n31\n20\n\n/",
+            "deaths": "63\n25\n38",
+            "fk": "113\n110\n115",
+            "hs%": "69%\n68%\n70%",
+            "kdr": "21\n9\n12",
+            "kills": "187",
+            "name": "yTao",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.73\n0.79",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n56\n27\n29\n\n/",
+            "deaths": "47\n24\n23",
+            "fk": "86\n100\n73",
+            "hs%": "69%\n70%\n67%",
+            "kdr": "8\n2\n6",
+            "kills": "163",
+            "name": "Hukz",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.75\n0.73",
+            "adr": "-22\n-13\n-9",
+            "agent": "",
+            "assists": "/\n\n58\n31\n27\n\n/",
+            "deaths": "36\n18\n18",
+            "fk": "98\n95\n101",
+            "hs%": "73%\n70%\n77%",
+            "kdr": "27\n9\n18",
+            "kills": "143",
+            "name": "Fung3",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "277",
+          "name": "BerLIN",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "206",
+          "name": "Yuicaw",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "195",
+          "name": "Iyo",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "122",
+          "name": "Ra1ny",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "132",
+          "name": "W1nner",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "198",
+          "name": "SiuFatBB",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "216",
+          "name": "yTao",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "150",
+          "name": "Hukz",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "153",
+          "name": "Fung3",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "204",
+          "name": "Ace",
+          "team": "Griffin E-Sports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.17\n1.25",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "26\n12\n14",
+            "fk": "156\n143\n168",
+            "hs%": "63%\n60%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "277",
+            "name": "BerLIN",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "1.05\n1.10\n1.00",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "130\n146\n115",
+            "hs%": "77%\n73%\n80%",
+            "kdr": "8\n3\n5",
+            "kills": "206",
+            "name": "Yuicaw",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.84\n0.70\n0.98",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "119\n101\n137",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "7\n5\n2",
+            "kills": "195",
+            "name": "Iyo",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.76\n0.74\n0.79",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "77\n77\n78",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "122",
+            "name": "Ra1ny",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.74\n0.80\n0.67",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "100\n110\n89",
+            "hs%": "57%\n60%\n53%",
+            "kdr": "8\n2\n6",
+            "kills": "132",
+            "name": "W1nner",
+            "team": "CBT Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.50\n1.11",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "129\n135\n123",
+            "hs%": "73%\n87%\n60%",
+            "kdr": "4\n2\n2",
+            "kills": "198",
+            "name": "SiuFatBB",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "1.10\n0.79\n1.40",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "131\n136\n125",
+            "hs%": "67%\n80%\n53%",
+            "kdr": "8\n6\n2",
+            "kills": "216",
+            "name": "yTao",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.96\n1.10\n0.82",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "105\n106\n103",
+            "hs%": "70%\n80%\n60%",
+            "kdr": "3\n0\n3",
+            "kills": "150",
+            "name": "Hukz",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.90\n1.07\n0.74",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "116\n121\n112",
+            "hs%": "77%\n73%\n80%",
+            "kdr": "10\n3\n7",
+            "kills": "153",
+            "name": "Fung3",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.88\n0.71\n1.06",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n22\n14\n8\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "147\n130\n165",
+            "hs%": "63%\n53%\n73%",
+            "kdr": "9\n4\n5",
+            "kills": "204",
+            "name": "Ace",
+            "team": "Griffin E-Sports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "300",
+          "name": "Yuicaw",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "327",
+          "name": "BerLIN",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "235",
+          "name": "Iyo",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "136",
+          "name": "W1nner",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "88",
+          "name": "Ra1ny",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "207",
+          "name": "yTao",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "173",
+          "name": "SiuFatBB",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "171",
+          "name": "Ace",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "131",
+          "name": "Hukz",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "124",
+          "name": "Fung3",
+          "team": "Griffin E-Sports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.79\n2.70\n1.48",
+            "adr": "+14\n+6\n+8",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "159\n211\n141",
+            "hs%": "81%\n100%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "300",
+            "name": "Yuicaw",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "1.67\n0.85\n1.95",
+            "adr": "+9\n0\n+9",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "188\n65\n229",
+            "hs%": "81%\n75%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "327",
+            "name": "BerLIN",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "1.20\n0.76\n1.34",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "153\n69\n182",
+            "hs%": "81%\n75%\n83%",
+            "kdr": "6\n0\n6",
+            "kills": "235",
+            "name": "Iyo",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.81\n1.46\n0.59",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "69\n83\n65",
+            "hs%": "69%\n75%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "136",
+            "name": "W1nner",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.62\n0.17\n0.77",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "5\n0\n5",
+            "fk": "55\n18\n68",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "88",
+            "name": "Ra1ny",
+            "team": "CBT Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.09\n0.99",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "117\n118\n113",
+            "hs%": "63%\n58%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "207",
+            "name": "yTao",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.76\n0.40\n1.85",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "105\n71\n206",
+            "hs%": "50%\n33%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "173",
+            "name": "SiuFatBB",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.68\n0.73\n0.53",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "103\n114\n72",
+            "hs%": "56%\n50%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "171",
+            "name": "Ace",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.49\n0.68\n0.02",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "72\n96",
+            "hs%": "56%\n67%\n25%",
+            "kdr": "1\n1\n0",
+            "kills": "131",
+            "name": "Hukz",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.46\n0.62\n0.03",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "104\n105\n99",
+            "hs%": "69%\n83%\n25%",
+            "kdr": "5\n3\n2",
+            "kills": "124",
+            "name": "Fung3",
+            "team": "Griffin E-Sports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "124",
+          "name": "Yuicaw",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "114",
+          "name": "Iyo",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "105",
+          "name": "Ra1ny",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "48",
+          "name": "W1nner",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "82",
+          "name": "BerLIN",
+          "team": "CBT Gaming"
+        },
+        {
+          "kills": "246",
+          "name": "Ace",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "166",
+          "name": "yTao",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "129",
+          "name": "SiuFatBB",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "110",
+          "name": "Hukz",
+          "team": "Griffin E-Sports"
+        },
+        {
+          "kills": "67",
+          "name": "Fung3",
+          "team": "Griffin E-Sports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.91\n0.85\n1.06",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "77\n46\n150",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "1\n1\n0",
+            "kills": "124",
+            "name": "Yuicaw",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.78\n1.11\n0.03",
+            "adr": "-9\n+1\n-10",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "78\n96\n35",
+            "hs%": "71%\n92%\n20%",
+            "kdr": "4\n1\n3",
+            "kills": "114",
+            "name": "Iyo",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.72\n0.83\n0.44",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "77\n74\n83",
+            "hs%": "65%\n75%\n40%",
+            "kdr": "2\n0\n2",
+            "kills": "105",
+            "name": "Ra1ny",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.50\n0.56\n0.38",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "22\n18\n33",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "6\n2\n4",
+            "kills": "48",
+            "name": "W1nner",
+            "team": "CBT Gaming"
+          },
+          {
+            "acs": "0.50\n0.57\n0.33",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "63\n24\n157",
+            "hs%": "71%\n83%\n40%",
+            "kdr": "5\n2\n3",
+            "kills": "82",
+            "name": "BerLIN",
+            "team": "CBT Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.54\n1.41",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "127\n122\n129",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "246",
+            "name": "Ace",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "1.07\n1.21\n1.01",
+            "adr": "+14\n+3\n+11",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "21\n5\n16",
+            "fk": "94\n80\n100",
+            "hs%": "88%\n60%\n100%",
+            "kdr": "6\n1\n5",
+            "kills": "166",
+            "name": "yTao",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "1.06\n1.60\n0.84",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "68\n127\n43",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "129",
+            "name": "SiuFatBB",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.99\n1.42\n0.81",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "59\n146\n23",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "2\n0\n2",
+            "kills": "110",
+            "name": "Hukz",
+            "team": "Griffin E-Sports"
+          },
+          {
+            "acs": "0.82\n0.86\n0.79",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "51\n54\n50",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "8\n3\n5",
+            "kills": "67",
+            "name": "Fung3",
+            "team": "Griffin E-Sports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 25379,
+  "teams": [
+    "CBT Gaming",
+    "Griffin E-Sports"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tGrand Finals"
+}

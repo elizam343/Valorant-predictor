@@ -1,0 +1,806 @@
+{
+  "date": "2022-01-22 02:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "255",
+          "name": "Pain",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "353",
+          "name": "gin",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "283",
+          "name": "Layla",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "201",
+          "name": "Zamasu",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "89",
+          "name": "Piano",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "273",
+          "name": "ting2k5",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "162",
+          "name": "XBK",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "236",
+          "name": "JackNo1",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "142",
+          "name": "gH2k4",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "102",
+          "name": "16Ch0ps",
+          "team": "Team Capalot"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.64\n1.60\n1.67",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "187\n197\n182",
+            "hs%": "89%\n100%\n83%",
+            "kdr": "10\n4\n6",
+            "kills": "255",
+            "name": "Pain",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "1.57\n0.49\n2.10",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "22\n3\n19",
+            "fk": "225\n123\n276",
+            "hs%": "83%\n100%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "353",
+            "name": "gin",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "1.27\n1.76\n1.02",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "168\n247\n129",
+            "hs%": "67%\n83%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "283",
+            "name": "Layla",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "0.93\n1.81\n0.49",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "145\n196\n119",
+            "hs%": "78%\n100%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "201",
+            "name": "Zamasu",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "0.93\n0.88\n0.96",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "71\n60\n77",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "11\n3\n8",
+            "kills": "89",
+            "name": "Piano",
+            "team": "Brave Wolves"
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n1.08\n1.57",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "182\n181\n183",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "273",
+            "name": "ting2k5",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "0.92\n1.31\n0.15",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n10\n1",
+            "fk": "126\n162\n56",
+            "hs%": "61%\n75%\n33%",
+            "kdr": "3\n1\n2",
+            "kills": "162",
+            "name": "XBK",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "0.84\n0.92\n0.70",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "163\n183\n123",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "236",
+            "name": "JackNo1",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "0.54\n0.49\n0.64",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "106\n97\n124",
+            "hs%": "61%\n58%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "142",
+            "name": "gH2k4",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "0.27\n0.10\n0.60",
+            "adr": "-12\n-10\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "68\n64\n76",
+            "hs%": "28%\n17%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "102",
+            "name": "16Ch0ps",
+            "team": "Team Capalot"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "284",
+          "name": "gin",
+          "team": null
+        },
+        {
+          "kills": "214",
+          "name": "Pain",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "Layla",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "Piano",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "Zamasu",
+          "team": null
+        },
+        {
+          "kills": "94",
+          "name": "shouta",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "ting2k5",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "XBK",
+          "team": null
+        },
+        {
+          "kills": "279",
+          "name": "JackNo1",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "gH2k4",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "16Ch0ps",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.48\n1.33",
+            "adr": "+19\n+5\n+14",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "66\n28\n38",
+            "fk": "202\n197\n206",
+            "hs%": "76%\n83%\n69%",
+            "kdr": "16\n9\n7",
+            "kills": "284",
+            "name": "gin",
+            "team": null
+          },
+          {
+            "acs": "1.19\n1.34\n1.27",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "52\n25\n27",
+            "fk": "150\n143\n156",
+            "hs%": "79%\n77%\n81%",
+            "kdr": "25\n11\n14",
+            "kills": "214",
+            "name": "Pain",
+            "team": null
+          },
+          {
+            "acs": "1.04\n0.99\n1.02",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n50\n25\n25\n\n/",
+            "deaths": "49\n24\n25",
+            "fk": "152\n154\n150",
+            "hs%": "69%\n70%\n69%",
+            "kdr": "13\n7\n6",
+            "kills": "232",
+            "name": "Layla",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.71\n0.89",
+            "adr": "-7\n+4\n-11",
+            "agent": "",
+            "assists": "/\n\n39\n17\n22\n\n/",
+            "deaths": "32\n21\n11",
+            "fk": "107\n127\n89",
+            "hs%": "74%\n83%\n66%",
+            "kdr": "25\n10\n15",
+            "kills": "177",
+            "name": "Piano",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.56\n0.76",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n30\n12\n18\n\n/",
+            "deaths": "29\n16\n13",
+            "fk": "121\n136\n109",
+            "hs%": "66%\n72%\n61%",
+            "kdr": "8\n4\n4",
+            "kills": "196",
+            "name": "Zamasu",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.83\n0.69",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "98\n89\n110",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "9\n6\n3",
+            "kills": "94",
+            "name": "shouta",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.89\n1.53\n1.20",
+            "adr": "+8\n-3\n+11",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "55\n23\n32",
+            "fk": "165\n141\n190",
+            "hs%": "65%\n56%\n73%",
+            "kdr": "8\n6\n2",
+            "kills": "215",
+            "name": "ting2k5",
+            "team": null
+          },
+          {
+            "acs": "1.33\n1.02\n1.18",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "46\n25\n21",
+            "fk": "155\n152\n158",
+            "hs%": "73%\n78%\n67%",
+            "kdr": "26\n15\n11",
+            "kills": "215",
+            "name": "XBK",
+            "team": null
+          },
+          {
+            "acs": "1.22\n0.64\n0.94",
+            "adr": "-6\n+6\n-12",
+            "agent": "",
+            "assists": "/\n\n53\n25\n28\n\n/",
+            "deaths": "47\n31\n16",
+            "fk": "153\n187\n118",
+            "hs%": "61%\n63%\n60%",
+            "kdr": "18\n7\n11",
+            "kills": "279",
+            "name": "JackNo1",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.97\n0.85",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "35\n15\n20",
+            "fk": "111\n97\n127",
+            "hs%": "63%\n59%\n67%",
+            "kdr": "16\n9\n7",
+            "kills": "139",
+            "name": "gH2k4",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.55\n0.69",
+            "adr": "-15\n-4\n-11",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "36\n22\n14",
+            "fk": "101\n120\n81",
+            "hs%": "52%\n44%\n60%",
+            "kdr": "8\n2\n6",
+            "kills": "198",
+            "name": "16Ch0ps",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "344",
+          "name": "gin",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "137",
+          "name": "Pain",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "86",
+          "name": "Piano",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "171",
+          "name": "Layla",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "137",
+          "name": "Zamasu",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "293",
+          "name": "XBK",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "164",
+          "name": "gH2k4",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "334",
+          "name": "ting2k5",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "173",
+          "name": "JackNo1",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "99",
+          "name": "16Ch0ps",
+          "team": "Team Capalot"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.37\n1.56",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "27\n12\n15",
+            "fk": "217\n221\n212",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "4\n3\n1",
+            "kills": "344",
+            "name": "gin",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "0.85\n0.94\n0.74",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "120\n148\n90",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "6\n3\n3",
+            "kills": "137",
+            "name": "Pain",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "0.76\n1.12\n0.35",
+            "adr": "-7\n+1\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "91\n97\n85",
+            "hs%": "65%\n83%\n45%",
+            "kdr": "8\n3\n5",
+            "kills": "86",
+            "name": "Piano",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "0.69\n0.63\n0.75",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "109\n108\n110",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "2\n0\n2",
+            "kills": "171",
+            "name": "Layla",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "0.62\n0.62\n0.62",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "102\n106\n99",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "5\n2\n3",
+            "kills": "137",
+            "name": "Zamasu",
+            "team": "Brave Wolves"
+          }
+        ],
+        [
+          {
+            "acs": "1.43\n1.41\n1.44",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "181\n159\n201",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "16\n10\n6",
+            "kills": "293",
+            "name": "XBK",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "1.32\n1.58\n1.09",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "127\n142\n112",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "164",
+            "name": "gH2k4",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "1.22\n0.80\n1.60",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "164\n105\n219",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "334",
+            "name": "ting2k5",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "0.99\n1.09\n0.89",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "140\n157\n125",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "173",
+            "name": "JackNo1",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "0.73\n1.22\n0.27",
+            "adr": "-4\n+3\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "118\n163\n76",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "99",
+            "name": "16Ch0ps",
+            "team": "Team Capalot"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "239",
+          "name": "Pain",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "261",
+          "name": "Layla",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "209",
+          "name": "Piano",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "254",
+          "name": "gin",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "129",
+          "name": "shouta",
+          "team": "Brave Wolves"
+        },
+        {
+          "kills": "241",
+          "name": "ting2k5",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "215",
+          "name": "XBK",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "216",
+          "name": "16Ch0ps",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "245",
+          "name": "JackNo1",
+          "team": "Team Capalot"
+        },
+        {
+          "kills": "139",
+          "name": "gH2k4",
+          "team": "Team Capalot"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.23\n1.62",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "151\n112\n203",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "9\n4\n5",
+            "kills": "239",
+            "name": "Pain",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "1.16\n1.10\n1.24",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "186\n155\n229",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "7\n5\n2",
+            "kills": "261",
+            "name": "Layla",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "0.99\n1.11\n0.82",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "156\n190\n109",
+            "hs%": "76%\n83%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "209",
+            "name": "Piano",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "0.99\n1.33\n0.54",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "165\n210\n105",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "7\n3\n4",
+            "kills": "254",
+            "name": "gin",
+            "team": "Brave Wolves"
+          },
+          {
+            "acs": "0.69\n0.58\n0.83",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "98\n89\n110",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "9\n6\n3",
+            "kills": "129",
+            "name": "shouta",
+            "team": "Brave Wolves"
+          }
+        ],
+        [
+          {
+            "acs": "1.15\n0.75\n1.45",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "151\n131\n166",
+            "hs%": "71%\n56%\n83%",
+            "kdr": "1\n1\n0",
+            "kills": "241",
+            "name": "ting2k5",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "1.14\n1.26\n1.04",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "151\n131\n166",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "215",
+            "name": "XBK",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "1.01\n1.29\n0.79",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "112\n144\n89",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "216",
+            "name": "16Ch0ps",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "0.97\n1.77\n0.37",
+            "adr": "-2\n+6\n-8",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "160\n228\n109",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "9\n3\n6",
+            "kills": "245",
+            "name": "JackNo1",
+            "team": "Team Capalot"
+          },
+          {
+            "acs": "0.58\n0.03\n1.02",
+            "adr": "-7\n-9\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "99\n40\n144",
+            "hs%": "48%\n33%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "139",
+            "name": "gH2k4",
+            "team": "Team Capalot"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 65599,
+  "teams": [
+    "Team Capalot",
+    "Brave Wolves"
+  ],
+  "tournament": "Round 4: \n\t\t\t\t\t\tRound of 16"
+}

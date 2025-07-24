@@ -1,0 +1,806 @@
+{
+  "date": "2022-11-14 19:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "321",
+          "name": "Kenji",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "204",
+          "name": "Tim",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "199",
+          "name": "Huji",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "176",
+          "name": "Sable",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "140",
+          "name": "Ethan",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "223",
+          "name": "Rayano",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "315",
+          "name": "9er",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "208",
+          "name": "Sushie",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "241",
+          "name": "ozz",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "122",
+          "name": "rubski",
+          "team": "Carleton Ravens"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.49\n1.21\n1.77",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "221\n190\n253",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "6\n3\n3",
+            "kills": "321",
+            "name": "Kenji",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "0.96\n0.75\n1.17",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "143\n125\n161",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "6\n1\n5",
+            "kills": "204",
+            "name": "Tim",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "0.89\n1.04\n0.74",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "126\n130\n123",
+            "hs%": "77%\n92%\n62%",
+            "kdr": "11\n8\n3",
+            "kills": "199",
+            "name": "Huji",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "0.86\n1.01\n0.72",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "107\n122\n92",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "15\n7\n8",
+            "kills": "176",
+            "name": "Sable",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "0.61\n0.29\n0.93",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "93\n75\n111",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "13\n9\n4",
+            "kills": "140",
+            "name": "Ethan",
+            "team": "Stony Brook Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.64\n1.18",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "141\n143\n138",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "18\n6\n12",
+            "kills": "223",
+            "name": "Rayano",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "1.35\n1.36\n1.35",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "29\n15\n14",
+            "fk": "186\n171\n200",
+            "hs%": "88%\n85%\n92%",
+            "kdr": "12\n3\n9",
+            "kills": "315",
+            "name": "9er",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "1.11\n1.32\n0.91",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "124\n151\n97",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "10\n4\n6",
+            "kills": "208",
+            "name": "Sushie",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "1.00\n0.50\n1.50",
+            "adr": "+4\n-6\n+10",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "150\n107\n192",
+            "hs%": "62%\n46%\n77%",
+            "kdr": "2\n2\n0",
+            "kills": "241",
+            "name": "ozz",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "0.67\n0.21\n1.12",
+            "adr": "-8\n-10\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "89\n62\n116",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "10\n8\n2",
+            "kills": "122",
+            "name": "rubski",
+            "team": "Carleton Ravens"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "359",
+          "name": "Tim",
+          "team": null
+        },
+        {
+          "kills": "265",
+          "name": "Kenji",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "Huji",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "Sable",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "Ethan",
+          "team": null
+        },
+        {
+          "kills": "254",
+          "name": "Rayano",
+          "team": null
+        },
+        {
+          "kills": "287",
+          "name": "9er",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "ozz",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "Sushie",
+          "team": null
+        },
+        {
+          "kills": "109",
+          "name": "rubski",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "rivszn",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.84\n1.79\n1.81",
+            "adr": "+40\n+21\n+19",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "74\n39\n35",
+            "fk": "217\n233\n199",
+            "hs%": "80%\n77%\n82%",
+            "kdr": "14\n5\n9",
+            "kills": "359",
+            "name": "Tim",
+            "team": null
+          },
+          {
+            "acs": "1.16\n1.42\n1.28",
+            "adr": "+20\n+10\n+10",
+            "agent": "",
+            "assists": "/\n\n39\n20\n19\n\n/",
+            "deaths": "59\n30\n29",
+            "fk": "188\n174\n203",
+            "hs%": "71%\n68%\n75%",
+            "kdr": "10\n6\n4",
+            "kills": "265",
+            "name": "Kenji",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.06\n1.09",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n38\n19\n19\n\n/",
+            "deaths": "40\n21\n19",
+            "fk": "131\n122\n140",
+            "hs%": "86%\n90%\n82%",
+            "kdr": "38\n21\n17",
+            "kills": "200",
+            "name": "Huji",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.90\n1.02",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n36\n16\n20\n\n/",
+            "deaths": "39\n22\n17",
+            "fk": "106\n90\n124",
+            "hs%": "76%\n77%\n75%",
+            "kdr": "25\n13\n12",
+            "kills": "169",
+            "name": "Sable",
+            "team": null
+          },
+          {
+            "acs": "0.59\n0.67\n0.63",
+            "adr": "-19\n-13\n-6",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "92\n86\n99",
+            "hs%": "83%\n81%\n86%",
+            "kdr": "26\n19\n7",
+            "kills": "121",
+            "name": "Ethan",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.64\n1.18\n1.41",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "141\n143\n138",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "18\n6\n12",
+            "kills": "254",
+            "name": "Rayano",
+            "team": null
+          },
+          {
+            "acs": "1.23\n0.88\n1.05",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n48\n23\n25\n\n/",
+            "deaths": "46\n27\n19",
+            "fk": "153\n182\n126",
+            "hs%": "68%\n68%\n68%",
+            "kdr": "19\n6\n13",
+            "kills": "287",
+            "name": "9er",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.15\n1.03",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n49\n26\n23\n\n/",
+            "deaths": "54\n24\n30",
+            "fk": "155\n149\n161",
+            "hs%": "68%\n64%\n71%",
+            "kdr": "5\n3\n2",
+            "kills": "222",
+            "name": "ozz",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.73\n0.82",
+            "adr": "-13\n-2\n-11",
+            "agent": "",
+            "assists": "/\n\n46\n20\n26\n\n/",
+            "deaths": "33\n18\n15",
+            "fk": "106\n119\n93",
+            "hs%": "69%\n75%\n65%",
+            "kdr": "19\n9\n10",
+            "kills": "190",
+            "name": "Sushie",
+            "team": null
+          },
+          {
+            "acs": "0.37\n0.81\n0.60",
+            "adr": "-26\n-17\n-9",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "94\n80\n107",
+            "hs%": "63%\n68%\n58%",
+            "kdr": "20\n12\n8",
+            "kills": "109",
+            "name": "rubski",
+            "team": null
+          },
+          {
+            "acs": "0.35\n0.49\n0.41",
+            "adr": "-16\n-10\n-6",
+            "agent": "",
+            "assists": "/\n\n31\n15\n16\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "83\n85\n82",
+            "hs%": "55%\n67%\n44%",
+            "kdr": "7\n5\n2",
+            "kills": "124",
+            "name": "rivszn",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "363",
+          "name": "Tim",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "288",
+          "name": "Kenji",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "269",
+          "name": "Huji",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "183",
+          "name": "Sable",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "136",
+          "name": "Ethan",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "116",
+          "name": "ozz",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "114",
+          "name": "9er",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "263",
+          "name": "rubski",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "22",
+          "name": "Sushie",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "138",
+          "name": "rivszn",
+          "team": "Carleton Ravens"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "2.19\n2.50\n2.03",
+            "adr": "+19\n+6\n+13",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "26\n9\n17",
+            "fk": "229\n280\n204",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "363",
+            "name": "Tim",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "1.42\n1.86\n1.20",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "194\n209\n187",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "288",
+            "name": "Kenji",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "1.26\n0.72\n1.53",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "141\n69\n177",
+            "hs%": "94%\n83%\n100%",
+            "kdr": "18\n5\n13",
+            "kills": "269",
+            "name": "Huji",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "0.85\n1.09\n0.73",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "86\n31\n114",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "183",
+            "name": "Sable",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "0.59\n0.71\n0.53",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "104\n105\n103",
+            "hs%": "83%\n67%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "136",
+            "name": "Ethan",
+            "team": "Stony Brook Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n1.42\n0.53",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n15\n2",
+            "fk": "156\n197\n73",
+            "hs%": "72%\n83%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "116",
+            "name": "ozz",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "0.94\n1.18\n0.46",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "159\n201\n77",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "114",
+            "name": "9er",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "0.71\n0.36\n1.42",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "113\n84\n171",
+            "hs%": "61%\n67%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "263",
+            "name": "rubski",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "0.55\n0.70\n0.25",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "77\n106\n18",
+            "hs%": "67%\n83%\n33%",
+            "kdr": "7\n5\n2",
+            "kills": "22",
+            "name": "Sushie",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "0.38\n0.44\n0.25",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "97\n97\n95",
+            "hs%": "56%\n67%\n33%",
+            "kdr": "5\n4\n1",
+            "kills": "138",
+            "name": "rivszn",
+            "team": "Carleton Ravens"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "554",
+          "name": "Tim",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "224",
+          "name": "Sable",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "193",
+          "name": "Huji",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "174",
+          "name": "Kenji",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "117",
+          "name": "Ethan",
+          "team": "Stony Brook Esports"
+        },
+        {
+          "kills": "252",
+          "name": "ozz",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "168",
+          "name": "Sushie",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "106",
+          "name": "9er",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "115",
+          "name": "rivszn",
+          "team": "Carleton Ravens"
+        },
+        {
+          "kills": "113",
+          "name": "rubski",
+          "team": "Carleton Ravens"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "2.85\n2.70\n3.46",
+            "adr": "+24\n+18\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "31\n23\n8",
+            "fk": "329\n327\n339",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "554",
+            "name": "Tim",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "1.50\n1.28\n2.41",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n5\n4\n1\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "128\n85\n301",
+            "hs%": "87%\n83%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "224",
+            "name": "Sable",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "1.21\n1.37\n0.54",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "11\n10\n1",
+            "fk": "126\n141\n67",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "9\n8\n1",
+            "kills": "193",
+            "name": "Huji",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "0.76\n0.76\n0.76",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "121\n138\n53",
+            "hs%": "73%\n75%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "174",
+            "name": "Kenji",
+            "team": "Stony Brook Esports"
+          },
+          {
+            "acs": "0.71\n0.85\n0.14",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "77\n88\n35",
+            "hs%": "87%\n92%\n67%",
+            "kdr": "10\n9\n1",
+            "kills": "117",
+            "name": "Ethan",
+            "team": "Stony Brook Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.96\n0.43\n1.09",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "164\n134\n172",
+            "hs%": "73%\n67%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "252",
+            "name": "ozz",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "0.64\n0.14\n0.77",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "108\n35\n126",
+            "hs%": "67%\n33%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "168",
+            "name": "Sushie",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "0.64\n0.86\n0.59",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "87\n157\n70",
+            "hs%": "47%\n33%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "106",
+            "name": "9er",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "0.44\n0.01\n0.60",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "67\n36\n75",
+            "hs%": "53%\n67%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "115",
+            "name": "rivszn",
+            "team": "Carleton Ravens"
+          },
+          {
+            "acs": "0.37\n1.10\n0.19",
+            "adr": "-11\n0\n-11",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "82\n145\n66",
+            "hs%": "53%\n67%\n50%",
+            "kdr": "6\n0\n6",
+            "kills": "113",
+            "name": "rubski",
+            "team": "Carleton Ravens"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 158922,
+  "teams": [
+    "Carleton Ravens",
+    "Stony Brook Esports"
+  ],
+  "tournament": "Northeast: \n\t\t\t\t\t\tQuarterfinals"
+}

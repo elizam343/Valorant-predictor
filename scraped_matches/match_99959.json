@@ -1,0 +1,612 @@
+{
+  "date": "2022-05-11 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "331",
+          "name": "Abram",
+          "team": "Team Artisan"
+        },
+        {
+          "kills": "212",
+          "name": "Curry",
+          "team": "Team Artisan"
+        },
+        {
+          "kills": "227",
+          "name": "Demon1",
+          "team": "Team Artisan"
+        },
+        {
+          "kills": "175",
+          "name": "evy",
+          "team": "Team Artisan"
+        },
+        {
+          "kills": "135",
+          "name": "HOON",
+          "team": "Team Artisan"
+        },
+        {
+          "kills": "343",
+          "name": "ImBlue",
+          "team": "Desire Rising"
+        },
+        {
+          "kills": "282",
+          "name": "Yape",
+          "team": "Desire Rising"
+        },
+        {
+          "kills": "270",
+          "name": "pablo",
+          "team": "Desire Rising"
+        },
+        {
+          "kills": "192",
+          "name": "RETRAC",
+          "team": "Desire Rising"
+        },
+        {
+          "kills": "66",
+          "name": "pretty",
+          "team": "Desire Rising"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.33\n1.56\n1.05",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "208\n223\n190",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "4\n1\n3",
+            "kills": "331",
+            "name": "Abram",
+            "team": "Team Artisan"
+          },
+          {
+            "acs": "0.99\n0.77\n1.26",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "160\n139\n187",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "7\n2\n5",
+            "kills": "212",
+            "name": "Curry",
+            "team": "Team Artisan"
+          },
+          {
+            "acs": "0.76\n0.51\n1.07",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "152\n142\n165",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "6\n4\n2",
+            "kills": "227",
+            "name": "Demon1",
+            "team": "Team Artisan"
+          },
+          {
+            "acs": "0.76\n0.97\n0.51",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "108\n109\n107",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "5\n3\n2",
+            "kills": "175",
+            "name": "evy",
+            "team": "Team Artisan"
+          },
+          {
+            "acs": "0.49\n0.31\n0.71",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "90\n70\n113",
+            "hs%": "77%\n58%\n100%",
+            "kdr": "9\n2\n7",
+            "kills": "135",
+            "name": "HOON",
+            "team": "Team Artisan"
+          }
+        ],
+        [
+          {
+            "acs": "1.79\n1.71\n1.86",
+            "adr": "+14\n+4\n+10",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "28\n10\n18",
+            "fk": "220\n180\n254",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "343",
+            "name": "ImBlue",
+            "team": "Desire Rising"
+          },
+          {
+            "acs": "1.27\n1.72\n0.90",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "181\n240\n132",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "282",
+            "name": "Yape",
+            "team": "Desire Rising"
+          },
+          {
+            "acs": "1.24\n1.57\n0.96",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "180\n218\n149",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "11\n5\n6",
+            "kills": "270",
+            "name": "pablo",
+            "team": "Desire Rising"
+          },
+          {
+            "acs": "1.07\n0.66\n1.41",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "157\n122\n186",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "192",
+            "name": "RETRAC",
+            "team": "Desire Rising"
+          },
+          {
+            "acs": "0.39\n0.23\n0.52",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "51\n46\n55",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "7\n5\n2",
+            "kills": "66",
+            "name": "pretty",
+            "team": "Desire Rising"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "206",
+          "name": "evy",
+          "team": null
+        },
+        {
+          "kills": "283",
+          "name": "Abram",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "Demon1",
+          "team": null
+        },
+        {
+          "kills": "128",
+          "name": "Curry",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "HOON",
+          "team": null
+        },
+        {
+          "kills": "257",
+          "name": "ImBlue",
+          "team": null
+        },
+        {
+          "kills": "239",
+          "name": "Yape",
+          "team": null
+        },
+        {
+          "kills": "240",
+          "name": "thai",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "RETRAC",
+          "team": null
+        },
+        {
+          "kills": "266",
+          "name": "pablo",
+          "team": null
+        },
+        {
+          "kills": "114",
+          "name": "pretty",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.00\n1.19\n1.10",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "35\n17\n18",
+            "fk": "147\n123\n170",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "10\n4\n6",
+            "kills": "206",
+            "name": "evy",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.12\n1.04",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n36\n20\n16\n\n/",
+            "deaths": "39\n20\n19",
+            "fk": "185\n186\n185",
+            "hs%": "65%\n57%\n73%",
+            "kdr": "8\n2\n6",
+            "kills": "283",
+            "name": "Abram",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.07\n0.85",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n36\n19\n17\n\n/",
+            "deaths": "30\n12\n18",
+            "fk": "148\n132\n164",
+            "hs%": "65%\n57%\n73%",
+            "kdr": "9\n6\n3",
+            "kills": "182",
+            "name": "Demon1",
+            "team": null
+          },
+          {
+            "acs": "0.45\n0.91\n0.67",
+            "adr": "-15\n-10\n-5",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "112\n99\n125",
+            "hs%": "63%\n48%\n77%",
+            "kdr": "15\n3\n12",
+            "kills": "128",
+            "name": "Curry",
+            "team": null
+          },
+          {
+            "acs": "0.43\n0.85\n0.64",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "101\n89\n112",
+            "hs%": "74%\n62%\n86%",
+            "kdr": "11\n3\n8",
+            "kills": "124",
+            "name": "HOON",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.71\n1.86\n1.79",
+            "adr": "+14\n+4\n+10",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "28\n10\n18",
+            "fk": "220\n180\n254",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "257",
+            "name": "ImBlue",
+            "team": null
+          },
+          {
+            "acs": "1.23\n1.26\n1.24",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n28\n16\n12\n\n/",
+            "deaths": "39\n20\n19",
+            "fk": "156\n155\n157",
+            "hs%": "77%\n77%\n76%",
+            "kdr": "16\n7\n9",
+            "kills": "239",
+            "name": "Yape",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.55\n1.23",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "153\n140\n170",
+            "hs%": "81%\n67%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "240",
+            "name": "thai",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.33\n1.07",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n31\n19\n12\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "151\n142\n160",
+            "hs%": "81%\n73%\n90%",
+            "kdr": "17\n8\n9",
+            "kills": "196",
+            "name": "RETRAC",
+            "team": null
+          },
+          {
+            "acs": "1.29\n0.80\n1.05",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "29\n19\n10",
+            "fk": "149\n174\n123",
+            "hs%": "81%\n86%\n76%",
+            "kdr": "17\n8\n9",
+            "kills": "266",
+            "name": "pablo",
+            "team": null
+          },
+          {
+            "acs": "0.53\n1.34\n0.92",
+            "adr": "-2\n-10\n+8",
+            "agent": "",
+            "assists": "/\n\n29\n17\n12\n\n/",
+            "deaths": "27\n7\n20",
+            "fk": "115\n82\n150",
+            "hs%": "67%\n64%\n71%",
+            "kdr": "11\n7\n4",
+            "kills": "114",
+            "name": "pretty",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "308",
+          "name": "evy",
+          "team": "Team Artisan"
+        },
+        {
+          "kills": "213",
+          "name": "Demon1",
+          "team": "Team Artisan"
+        },
+        {
+          "kills": "169",
+          "name": "HOON",
+          "team": "Team Artisan"
+        },
+        {
+          "kills": "257",
+          "name": "Abram",
+          "team": "Team Artisan"
+        },
+        {
+          "kills": "107",
+          "name": "Curry",
+          "team": "Team Artisan"
+        },
+        {
+          "kills": "474",
+          "name": "pretty",
+          "team": "Desire Rising"
+        },
+        {
+          "kills": "215",
+          "name": "thai",
+          "team": "Desire Rising"
+        },
+        {
+          "kills": "284",
+          "name": "Yape",
+          "team": "Desire Rising"
+        },
+        {
+          "kills": "225",
+          "name": "RETRAC",
+          "team": "Desire Rising"
+        },
+        {
+          "kills": "144",
+          "name": "pablo",
+          "team": "Desire Rising"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.04\n1.76",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "188\n142\n222",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "308",
+            "name": "evy",
+            "team": "Team Artisan"
+          },
+          {
+            "acs": "0.95\n0.78\n1.07",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "144\n119\n163",
+            "hs%": "57%\n56%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "213",
+            "name": "Demon1",
+            "team": "Team Artisan"
+          },
+          {
+            "acs": "0.80\n0.58\n0.97",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "113\n115\n112",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "169",
+            "name": "HOON",
+            "team": "Team Artisan"
+          },
+          {
+            "acs": "0.75\n0.18\n1.17",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "161\n135\n181",
+            "hs%": "57%\n44%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "257",
+            "name": "Abram",
+            "team": "Team Artisan"
+          },
+          {
+            "acs": "0.34\n0.03\n0.62",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "62\n47\n73",
+            "hs%": "52%\n33%\n67%",
+            "kdr": "8\n1\n7",
+            "kills": "107",
+            "name": "Curry",
+            "team": "Team Artisan"
+          }
+        ],
+        [
+          {
+            "acs": "1.48\n0.77\n2.43",
+            "adr": "+10\n-3\n+13",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "23\n6\n17",
+            "fk": "182\n111\n276",
+            "hs%": "71%\n58%\n89%",
+            "kdr": "4\n2\n2",
+            "kills": "474",
+            "name": "pretty",
+            "team": "Desire Rising"
+          },
+          {
+            "acs": "1.23\n1.00\n1.55",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "153\n140\n170",
+            "hs%": "81%\n67%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "215",
+            "name": "thai",
+            "team": "Desire Rising"
+          },
+          {
+            "acs": "1.21\n0.81\n1.74",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "130\n84\n191",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "12\n5\n7",
+            "kills": "284",
+            "name": "Yape",
+            "team": "Desire Rising"
+          },
+          {
+            "acs": "1.08\n0.96\n1.23",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "145\n159\n127",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "11\n5\n6",
+            "kills": "225",
+            "name": "RETRAC",
+            "team": "Desire Rising"
+          },
+          {
+            "acs": "0.86\n1.06\n0.58",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "117\n138\n90",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "6\n3\n3",
+            "kills": "144",
+            "name": "pablo",
+            "team": "Desire Rising"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 99959,
+  "teams": [
+    "Team Artisan",
+    "Desire Rising"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tRound of 64"
+}

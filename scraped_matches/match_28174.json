@@ -1,0 +1,788 @@
+{
+  "date": "2021-07-21 14:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "264",
+          "name": "maniek",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "192",
+          "name": "adm1k",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "187",
+          "name": "UNFAKE",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "191",
+          "name": "xuss",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "123",
+          "name": "krytyq",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "209",
+          "name": "M4CHINA",
+          "team": "Yendez"
+        },
+        {
+          "kills": "261",
+          "name": "MateliaN",
+          "team": "Yendez"
+        },
+        {
+          "kills": "208",
+          "name": "blitzeN",
+          "team": "Yendez"
+        },
+        {
+          "kills": "220",
+          "name": "memset",
+          "team": "Yendez"
+        },
+        {
+          "kills": "171",
+          "name": "VlaD\u00e9D\u00e9",
+          "team": "Yendez"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.15\n1.01",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "155\n158\n151",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "3\n2\n1",
+            "kills": "264",
+            "name": "maniek",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "0.94\n1.14\n0.73",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "120\n127\n112",
+            "hs%": "70%\n83%\n55%",
+            "kdr": "8\n4\n4",
+            "kills": "192",
+            "name": "adm1k",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "0.86\n1.08\n0.62",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "117\n110\n124",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "4\n4\n0",
+            "kills": "187",
+            "name": "UNFAKE",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "0.81\n0.58\n1.07",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "129\n116\n143",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "2\n1\n1",
+            "kills": "191",
+            "name": "xuss",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "0.73\n0.74\n0.71",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "80\n74\n86",
+            "hs%": "57%\n67%\n45%",
+            "kdr": "7\n5\n2",
+            "kills": "123",
+            "name": "krytyq",
+            "team": "Team Queso"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.50\n1.03",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "137\n166\n110",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "209",
+            "name": "M4CHINA",
+            "team": "Yendez"
+          },
+          {
+            "acs": "1.21\n1.37\n1.07",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "170\n141\n196",
+            "hs%": "91%\n91%\n92%",
+            "kdr": "12\n4\n8",
+            "kills": "261",
+            "name": "MateliaN",
+            "team": "Yendez"
+          },
+          {
+            "acs": "1.11\n1.19\n1.03",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "112\n133\n92",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "5\n5\n0",
+            "kills": "208",
+            "name": "blitzeN",
+            "team": "Yendez"
+          },
+          {
+            "acs": "1.08\n0.90\n1.25",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "138\n110\n164",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "220",
+            "name": "memset",
+            "team": "Yendez"
+          },
+          {
+            "acs": "0.70\n0.58\n0.80",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "117\n104\n129",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "171",
+            "name": "VlaD\u00e9D\u00e9",
+            "team": "Yendez"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "207",
+          "name": "UNFAKE",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "krytyq",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "xuss",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "adm1k",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "maniek",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "memset",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "MateliaN",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "blitzeN",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "M4CHINA",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "VlaD\u00e9D\u00e9",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.95\n1.36\n1.15",
+            "adr": "+12\n0\n+12",
+            "agent": "",
+            "assists": "/\n\n59\n30\n29\n\n/",
+            "deaths": "71\n30\n41",
+            "fk": "158\n129\n188",
+            "hs%": "72%\n71%\n73%",
+            "kdr": "14\n9\n5",
+            "kills": "207",
+            "name": "UNFAKE",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.04\n1.00",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n56\n30\n26\n\n/",
+            "deaths": "50\n24\n26",
+            "fk": "119\n111\n128",
+            "hs%": "69%\n73%\n65%",
+            "kdr": "25\n14\n11",
+            "kills": "170",
+            "name": "krytyq",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.08\n0.92",
+            "adr": "+1\n-8\n+9",
+            "agent": "",
+            "assists": "/\n\n63\n36\n27\n\n/",
+            "deaths": "64\n28\n36",
+            "fk": "133\n128\n139",
+            "hs%": "68%\n63%\n73%",
+            "kdr": "10\n6\n4",
+            "kills": "205",
+            "name": "xuss",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.85\n0.92",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n54\n26\n28\n\n/",
+            "deaths": "48\n25\n23",
+            "fk": "118\n115\n121",
+            "hs%": "70%\n68%\n73%",
+            "kdr": "29\n14\n15",
+            "kills": "169",
+            "name": "adm1k",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.01\n0.92",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n59\n31\n28\n\n/",
+            "deaths": "56\n25\n31",
+            "fk": "137\n127\n147",
+            "hs%": "74%\n66%\n83%",
+            "kdr": "17\n7\n10",
+            "kills": "187",
+            "name": "maniek",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.14\n1.63\n1.39",
+            "adr": "+26\n+3\n+23",
+            "agent": "",
+            "assists": "/\n\n50\n29\n21\n\n/",
+            "deaths": "76\n32\n44",
+            "fk": "189\n157\n220",
+            "hs%": "78%\n80%\n76%",
+            "kdr": "15\n3\n12",
+            "kills": "222",
+            "name": "memset",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.11\n1.05",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n60\n30\n30\n\n/",
+            "deaths": "64\n30\n34",
+            "fk": "140\n126\n154",
+            "hs%": "77%\n73%\n80%",
+            "kdr": "28\n11\n17",
+            "kills": "199",
+            "name": "MateliaN",
+            "team": null
+          },
+          {
+            "acs": "1.10\n0.81\n0.95",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n56\n32\n24\n\n/",
+            "deaths": "53\n31\n22",
+            "fk": "111\n137\n85",
+            "hs%": "73%\n78%\n68%",
+            "kdr": "14\n12\n2",
+            "kills": "230",
+            "name": "blitzeN",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.97\n0.92",
+            "adr": "-6\n-9\n+3",
+            "agent": "",
+            "assists": "/\n\n59\n32\n27\n\n/",
+            "deaths": "53\n23\n30",
+            "fk": "128\n131\n125",
+            "hs%": "68%\n65%\n71%",
+            "kdr": "24\n16\n8",
+            "kills": "192",
+            "name": "M4CHINA",
+            "team": null
+          },
+          {
+            "acs": "0.54\n0.87\n0.71",
+            "adr": "-19\n-17\n-2",
+            "agent": "",
+            "assists": "/\n\n64\n39\n25\n\n/",
+            "deaths": "45\n22\n23",
+            "fk": "104\n90\n118",
+            "hs%": "68%\n63%\n73%",
+            "kdr": "28\n8\n20",
+            "kills": "161",
+            "name": "VlaD\u00e9D\u00e9",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "399",
+          "name": "UNFAKE",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "226",
+          "name": "krytyq",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "189",
+          "name": "xuss",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "227",
+          "name": "maniek",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "125",
+          "name": "adm1k",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "280",
+          "name": "memset",
+          "team": "Yendez"
+        },
+        {
+          "kills": "196",
+          "name": "MateliaN",
+          "team": "Yendez"
+        },
+        {
+          "kills": "200",
+          "name": "VlaD\u00e9D\u00e9",
+          "team": "Yendez"
+        },
+        {
+          "kills": "191",
+          "name": "blitzeN",
+          "team": "Yendez"
+        },
+        {
+          "kills": "210",
+          "name": "M4CHINA",
+          "team": "Yendez"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.49\n1.06\n1.93",
+            "adr": "+13\n0\n+13",
+            "agent": "",
+            "assists": "/\n\n23\n14\n9\n\n/",
+            "deaths": "36\n14\n22",
+            "fk": "223\n167\n279",
+            "hs%": "77%\n80%\n73%",
+            "kdr": "6\n4\n2",
+            "kills": "399",
+            "name": "UNFAKE",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.19\n1.25\n1.12",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "134\n120\n148",
+            "hs%": "77%\n80%\n73%",
+            "kdr": "9\n5\n4",
+            "kills": "226",
+            "name": "krytyq",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "0.85\n0.74\n0.97",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n23\n14\n9\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "122\n138\n105",
+            "hs%": "63%\n60%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "189",
+            "name": "xuss",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "0.82\n0.60\n1.05",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "126\n92\n161",
+            "hs%": "73%\n60%\n87%",
+            "kdr": "1\n0\n1",
+            "kills": "227",
+            "name": "maniek",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "0.79\n0.96\n0.62",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "83\n81\n84",
+            "hs%": "63%\n60%\n67%",
+            "kdr": "8\n7\n1",
+            "kills": "125",
+            "name": "adm1k",
+            "team": "Team Queso"
+          }
+        ],
+        [
+          {
+            "acs": "1.40\n1.23\n1.57",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "168\n156\n181",
+            "hs%": "83%\n80%\n87%",
+            "kdr": "4\n1\n3",
+            "kills": "280",
+            "name": "memset",
+            "team": "Yendez"
+          },
+          {
+            "acs": "1.12\n1.26\n0.99",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "128\n140\n116",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "11\n4\n7",
+            "kills": "196",
+            "name": "MateliaN",
+            "team": "Yendez"
+          },
+          {
+            "acs": "0.89\n0.69\n1.10",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "117\n102\n132",
+            "hs%": "67%\n53%\n80%",
+            "kdr": "11\n2\n9",
+            "kills": "200",
+            "name": "VlaD\u00e9D\u00e9",
+            "team": "Yendez"
+          },
+          {
+            "acs": "0.75\n0.61\n0.90",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "103\n89\n117",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "4\n2\n2",
+            "kills": "191",
+            "name": "blitzeN",
+            "team": "Yendez"
+          },
+          {
+            "acs": "0.60\n0.44\n0.75",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n25\n14\n11\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "108\n100\n116",
+            "hs%": "60%\n47%\n73%",
+            "kdr": "12\n8\n4",
+            "kills": "210",
+            "name": "M4CHINA",
+            "team": "Yendez"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "267",
+          "name": "xuss",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "198",
+          "name": "adm1k",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "206",
+          "name": "UNFAKE",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "209",
+          "name": "krytyq",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "181",
+          "name": "maniek",
+          "team": "Team Queso"
+        },
+        {
+          "kills": "347",
+          "name": "memset",
+          "team": "Yendez"
+        },
+        {
+          "kills": "178",
+          "name": "blitzeN",
+          "team": "Yendez"
+        },
+        {
+          "kills": "219",
+          "name": "M4CHINA",
+          "team": "Yendez"
+        },
+        {
+          "kills": "206",
+          "name": "MateliaN",
+          "team": "Yendez"
+        },
+        {
+          "kills": "135",
+          "name": "VlaD\u00e9D\u00e9",
+          "team": "Yendez"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.07\n0.94\n1.20",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "28\n12\n16",
+            "fk": "148\n126\n170",
+            "hs%": "71%\n64%\n79%",
+            "kdr": "3\n1\n2",
+            "kills": "267",
+            "name": "xuss",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.05\n0.92\n1.18",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "155\n142\n169",
+            "hs%": "79%\n64%\n93%",
+            "kdr": "13\n3\n10",
+            "kills": "198",
+            "name": "adm1k",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.03\n0.73\n1.33",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "122\n105\n140",
+            "hs%": "64%\n50%\n79%",
+            "kdr": "4\n1\n3",
+            "kills": "206",
+            "name": "UNFAKE",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "1.03\n0.84\n1.22",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "136\n132\n139",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "9\n4\n5",
+            "kills": "209",
+            "name": "krytyq",
+            "team": "Team Queso"
+          },
+          {
+            "acs": "0.89\n0.83\n0.96",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "134\n139\n129",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "13\n5\n8",
+            "kills": "181",
+            "name": "maniek",
+            "team": "Team Queso"
+          }
+        ],
+        [
+          {
+            "acs": "1.63\n1.23\n2.03",
+            "adr": "+14\n+3\n+11",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "33\n15\n18",
+            "fk": "254\n197\n311",
+            "hs%": "79%\n86%\n71%",
+            "kdr": "5\n1\n4",
+            "kills": "347",
+            "name": "memset",
+            "team": "Yendez"
+          },
+          {
+            "acs": "1.04\n1.54\n0.55",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "118\n190\n45",
+            "hs%": "75%\n93%\n57%",
+            "kdr": "5\n5\n0",
+            "kills": "178",
+            "name": "blitzeN",
+            "team": "Yendez"
+          },
+          {
+            "acs": "0.98\n0.80\n1.16",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "142\n136\n148",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "7\n4\n3",
+            "kills": "219",
+            "name": "M4CHINA",
+            "team": "Yendez"
+          },
+          {
+            "acs": "0.83\n0.39\n1.27",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "130\n100\n159",
+            "hs%": "68%\n64%\n71%",
+            "kdr": "5\n3\n2",
+            "kills": "206",
+            "name": "MateliaN",
+            "team": "Yendez"
+          },
+          {
+            "acs": "0.52\n0.35\n0.70",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n24\n14\n10\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "80\n65\n94",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "10\n4\n6",
+            "kills": "135",
+            "name": "VlaD\u00e9D\u00e9",
+            "team": "Yendez"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 28174,
+  "teams": [
+    "Team Queso",
+    "Yendez"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 32"
+}

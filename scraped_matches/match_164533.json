@@ -1,0 +1,806 @@
+{
+  "date": "2023-01-07 03:45:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "273",
+          "name": "Riza",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "212",
+          "name": "kimmy",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "185",
+          "name": "grumble",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "109",
+          "name": "Flaring",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "166",
+          "name": "DxN",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "223",
+          "name": "benaf",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "245",
+          "name": "Brxndon",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "274",
+          "name": "dzii",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "276",
+          "name": "Retla",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "163",
+          "name": "Moosey",
+          "team": "Hey! Yakiniku"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.45\n1.48",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "182\n188\n170",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "2\n2\n0",
+            "kills": "273",
+            "name": "Riza",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.96\n1.06\n0.80",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "128\n112\n156",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "4\n2\n2",
+            "kills": "212",
+            "name": "kimmy",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.78\n0.85\n0.67",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "136\n158\n98",
+            "hs%": "89%\n92%\n86%",
+            "kdr": "7\n4\n3",
+            "kills": "185",
+            "name": "grumble",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.66\n0.52\n0.89",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "60\n53\n73",
+            "hs%": "79%\n83%\n71%",
+            "kdr": "10\n8\n2",
+            "kills": "109",
+            "name": "Flaring",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.52\n0.33\n0.84",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "112\n88\n153",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "7\n6\n1",
+            "kills": "166",
+            "name": "DxN",
+            "team": "Kizuna Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n1.59\n1.32",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "162\n162\n162",
+            "hs%": "89%\n71%\n100%",
+            "kdr": "10\n5\n5",
+            "kills": "223",
+            "name": "benaf",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "1.30\n1.02\n1.46",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "152\n135\n163",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "7\n0\n7",
+            "kills": "245",
+            "name": "Brxndon",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "1.16\n1.33\n1.06",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "172\n177\n170",
+            "hs%": "89%\n100%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "274",
+            "name": "dzii",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "1.03\n1.05\n1.02",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "167\n177\n161",
+            "hs%": "68%\n86%\n58%",
+            "kdr": "3\n3\n0",
+            "kills": "276",
+            "name": "Retla",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "0.92\n0.33\n1.26",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "107\n39\n147",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "10\n4\n6",
+            "kills": "163",
+            "name": "Moosey",
+            "team": "Hey! Yakiniku"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "200",
+          "name": "Shun",
+          "team": null
+        },
+        {
+          "kills": "252",
+          "name": "kimmy",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "Flaring",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "grumble",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "DxN",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "Riza",
+          "team": null
+        },
+        {
+          "kills": "259",
+          "name": "dzii",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "Retla",
+          "team": null
+        },
+        {
+          "kills": "131",
+          "name": "Moosey",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "benaf",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "Brxndon",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.92\n1.48\n1.20",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "174\n141\n207",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "200",
+            "name": "Shun",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.15\n1.17",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n45\n25\n20\n\n/",
+            "deaths": "58\n31\n27",
+            "fk": "160\n155\n166",
+            "hs%": "76%\n71%\n81%",
+            "kdr": "8\n3\n5",
+            "kills": "252",
+            "name": "kimmy",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.21\n0.99",
+            "adr": "-4\n-10\n+6",
+            "agent": "",
+            "assists": "/\n\n42\n25\n17\n\n/",
+            "deaths": "38\n15\n23",
+            "fk": "118\n104\n132",
+            "hs%": "77%\n74%\n81%",
+            "kdr": "27\n16\n11",
+            "kills": "149",
+            "name": "Flaring",
+            "team": null
+          },
+          {
+            "acs": "0.56\n1.31\n0.94",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n29\n19\n10\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "138\n119\n156",
+            "hs%": "82%\n68%\n95%",
+            "kdr": "15\n5\n10",
+            "kills": "159",
+            "name": "grumble",
+            "team": null
+          },
+          {
+            "acs": "0.67\n1.16\n0.91",
+            "adr": "-3\n-11\n+8",
+            "agent": "",
+            "assists": "/\n\n50\n27\n23\n\n/",
+            "deaths": "47\n16\n31",
+            "fk": "135\n108\n161",
+            "hs%": "69%\n71%\n68%",
+            "kdr": "23\n14\n9",
+            "kills": "167",
+            "name": "DxN",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.83\n0.90",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n40\n22\n18\n\n/",
+            "deaths": "35\n19\n16",
+            "fk": "114\n129\n100",
+            "hs%": "73%\n68%\n77%",
+            "kdr": "4\n2\n2",
+            "kills": "177",
+            "name": "Riza",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.09\n1.19\n1.14",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n48\n27\n21\n\n/",
+            "deaths": "55\n26\n29",
+            "fk": "167\n160\n174",
+            "hs%": "73%\n68%\n77%",
+            "kdr": "18\n9\n9",
+            "kills": "259",
+            "name": "dzii",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.14\n1.11",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "46\n21\n25",
+            "fk": "145\n142\n148",
+            "hs%": "69%\n68%\n71%",
+            "kdr": "10\n5\n5",
+            "kills": "186",
+            "name": "Retla",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.44\n1.06",
+            "adr": "0\n-9\n+9",
+            "agent": "",
+            "assists": "/\n\n43\n24\n19\n\n/",
+            "deaths": "43\n15\n28",
+            "fk": "120\n79\n161",
+            "hs%": "73%\n55%\n90%",
+            "kdr": "21\n8\n13",
+            "kills": "131",
+            "name": "Moosey",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.93\n0.95",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "126\n135\n117",
+            "hs%": "77%\n68%\n87%",
+            "kdr": "26\n13\n13",
+            "kills": "202",
+            "name": "benaf",
+            "team": null
+          },
+          {
+            "acs": "0.56\n1.19\n0.87",
+            "adr": "-6\n-13\n+7",
+            "agent": "",
+            "assists": "/\n\n44\n26\n18\n\n/",
+            "deaths": "38\n13\n25",
+            "fk": "119\n95\n143",
+            "hs%": "69%\n58%\n81%",
+            "kdr": "26\n12\n14",
+            "kills": "138",
+            "name": "Brxndon",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "387",
+          "name": "DxN",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "239",
+          "name": "kimmy",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "281",
+          "name": "Flaring",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "282",
+          "name": "grumble",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "119",
+          "name": "Riza",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "334",
+          "name": "dzii",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "236",
+          "name": "benaf",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "165",
+          "name": "Retla",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "240",
+          "name": "Moosey",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "222",
+          "name": "Brxndon",
+          "team": "Hey! Yakiniku"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.48\n0.97\n1.79",
+            "adr": "+9\n-1\n+10",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "22\n5\n17",
+            "fk": "166\n103\n202",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "387",
+            "name": "DxN",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "1.42\n1.48\n1.38",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "161\n183\n148",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "0\n0\n0",
+            "kills": "239",
+            "name": "kimmy",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "1.37\n0.53\n1.86",
+            "adr": "+4\n-5\n+9",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "144\n92\n174",
+            "hs%": "84%\n57%\n100%",
+            "kdr": "11\n4\n7",
+            "kills": "281",
+            "name": "Flaring",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "1.09\n0.08\n1.68",
+            "adr": "+2\n-6\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "139\n53\n190",
+            "hs%": "74%\n29%\n100%",
+            "kdr": "8\n1\n7",
+            "kills": "282",
+            "name": "grumble",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.80\n0.56\n0.95",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "68\n69\n68",
+            "hs%": "79%\n57%\n92%",
+            "kdr": "0\n0\n0",
+            "kills": "119",
+            "name": "Riza",
+            "team": "Kizuna Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.04\n1.51",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "180\n150\n230",
+            "hs%": "53%\n33%\n86%",
+            "kdr": "1\n0\n1",
+            "kills": "334",
+            "name": "dzii",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "0.90\n0.69\n1.26",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "146\n131\n172",
+            "hs%": "74%\n58%\n100%",
+            "kdr": "7\n2\n5",
+            "kills": "236",
+            "name": "benaf",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "0.63\n0.31\n1.18",
+            "adr": "-7\n-9\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "75\n60\n100",
+            "hs%": "53%\n33%\n86%",
+            "kdr": "1\n1\n0",
+            "kills": "165",
+            "name": "Retla",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "0.62\n0.20\n1.34",
+            "adr": "-7\n-10\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "97\n57\n164",
+            "hs%": "53%\n25%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "240",
+            "name": "Moosey",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "0.39\n0.03\n1.07",
+            "adr": "-10\n-11\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "81\n48\n137",
+            "hs%": "53%\n42%\n71%",
+            "kdr": "8\n5\n3",
+            "kills": "222",
+            "name": "Brxndon",
+            "team": "Hey! Yakiniku"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "232",
+          "name": "Shun",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "276",
+          "name": "kimmy",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "212",
+          "name": "Flaring",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "193",
+          "name": "DxN",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "103",
+          "name": "Riza",
+          "team": "Kizuna Esports"
+        },
+        {
+          "kills": "236",
+          "name": "Retla",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "249",
+          "name": "Moosey",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "234",
+          "name": "dzii",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "184",
+          "name": "Brxndon",
+          "team": "Hey! Yakiniku"
+        },
+        {
+          "kills": "139",
+          "name": "benaf",
+          "team": "Hey! Yakiniku"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.20\n0.92\n1.48",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "174\n141\n207",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "232",
+            "name": "Shun",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "1.13\n1.14\n1.13",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "185\n182\n188",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "276",
+            "name": "kimmy",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.95\n1.16\n0.74",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "143\n162\n124",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "212",
+            "name": "Flaring",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.78\n0.84\n0.72",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "128\n131\n125",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "8\n5\n3",
+            "kills": "193",
+            "name": "DxN",
+            "team": "Kizuna Esports"
+          },
+          {
+            "acs": "0.52\n0.71\n0.33",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "98\n105\n91",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "103",
+            "name": "Riza",
+            "team": "Kizuna Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.89\n1.24",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "184\n203\n164",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "236",
+            "name": "Retla",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "1.52\n1.37\n1.67",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "149\n125\n173",
+            "hs%": "88%\n83%\n92%",
+            "kdr": "9\n3\n6",
+            "kills": "249",
+            "name": "Moosey",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "1.06\n0.99\n1.12",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "152\n161\n144",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "12\n7\n5",
+            "kills": "234",
+            "name": "dzii",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "0.91\n0.81\n1.00",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "123\n118\n128",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "11\n7\n4",
+            "kills": "184",
+            "name": "Brxndon",
+            "team": "Hey! Yakiniku"
+          },
+          {
+            "acs": "0.62\n0.90\n0.34",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "82\n123\n40",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "9\n6\n3",
+            "kills": "139",
+            "name": "benaf",
+            "team": "Hey! Yakiniku"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 164533,
+  "teams": [
+    "Hey! Yakiniku",
+    "Kizuna Esports"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tUpper Semifinals (B)"
+}

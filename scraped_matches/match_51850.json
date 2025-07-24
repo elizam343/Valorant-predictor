@@ -1,0 +1,788 @@
+{
+  "date": "2021-11-29 13:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "243",
+          "name": "Aspire",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "213",
+          "name": "Upsiii",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "191",
+          "name": "Kyubi",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "214",
+          "name": "C\u00e0sper",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "136",
+          "name": "akuoS",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "293",
+          "name": "L9a9er",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "201",
+          "name": "BaSSanD\u00e8",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "194",
+          "name": "Mount",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "209",
+          "name": "Smoxx",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "102",
+          "name": "9ondoss",
+          "team": "Twareg Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.12\n1.34\n0.90",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "160\n165\n155",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "8\n2\n6",
+            "kills": "243",
+            "name": "Aspire",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "1.02\n0.62\n1.41",
+            "adr": "-1\n-7\n+6",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "146\n95\n197",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "5\n3\n2",
+            "kills": "213",
+            "name": "Upsiii",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "0.98\n0.61\n1.35",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "130\n116\n145",
+            "hs%": "81%\n69%\n92%",
+            "kdr": "13\n3\n10",
+            "kills": "191",
+            "name": "Kyubi",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "0.94\n0.51\n1.36",
+            "adr": "-1\n-7\n+6",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "146\n109\n182",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "7\n5\n2",
+            "kills": "214",
+            "name": "C\u00e0sper",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "0.79\n0.51\n1.07",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "86\n76\n96",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "10\n5\n5",
+            "kills": "136",
+            "name": "akuoS",
+            "team": "Oni Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.30\n1.20\n1.40",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n19\n13\n6\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "173\n199\n146",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "3\n1\n2",
+            "kills": "293",
+            "name": "L9a9er",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "1.19\n0.66\n1.72",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "141\n87\n194",
+            "hs%": "81%\n62%\n100%",
+            "kdr": "11\n3\n8",
+            "kills": "201",
+            "name": "BaSSanD\u00e8",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "1.11\n1.35\n0.87",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "126\n144\n109",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "194",
+            "name": "Mount",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "1.10\n0.65\n1.54",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "128\n91\n165",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "209",
+            "name": "Smoxx",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "0.53\n0.06\n0.99",
+            "adr": "-12\n-12\n0",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "72\n42\n103",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "14\n6\n8",
+            "kills": "102",
+            "name": "9ondoss",
+            "team": "Twareg Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "194",
+          "name": "Aspire",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "Kyubi",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "Upsiii",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "akuoS",
+          "team": null
+        },
+        {
+          "kills": "103",
+          "name": "C\u00e0sper",
+          "team": null
+        },
+        {
+          "kills": "297",
+          "name": "L9a9er",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "Smoxx",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "Mount",
+          "team": null
+        },
+        {
+          "kills": "126",
+          "name": "9ondoss",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "BaSSanD\u00e8",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.08\n0.84\n0.96",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n54\n28\n26\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "133\n127\n141",
+            "hs%": "66%\n68%\n63%",
+            "kdr": "17\n6\n11",
+            "kills": "194",
+            "name": "Aspire",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.15\n0.94",
+            "adr": "-2\n-8\n+6",
+            "agent": "",
+            "assists": "/\n\n50\n29\n21\n\n/",
+            "deaths": "48\n21\n27",
+            "fk": "125\n109\n145",
+            "hs%": "75%\n65%\n87%",
+            "kdr": "21\n5\n16",
+            "kills": "180",
+            "name": "Kyubi",
+            "team": null
+          },
+          {
+            "acs": "0.59\n1.22\n0.87",
+            "adr": "-2\n-15\n+13",
+            "agent": "",
+            "assists": "/\n\n54\n29\n25\n\n/",
+            "deaths": "52\n14\n38",
+            "fk": "130\n91\n178",
+            "hs%": "72%\n62%\n83%",
+            "kdr": "19\n9\n10",
+            "kills": "129",
+            "name": "Upsiii",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.02\n0.85",
+            "adr": "-8\n-10\n+2",
+            "agent": "",
+            "assists": "/\n\n49\n29\n20\n\n/",
+            "deaths": "41\n19\n22",
+            "fk": "99\n99\n98",
+            "hs%": "73%\n73%\n73%",
+            "kdr": "26\n11\n15",
+            "kills": "149",
+            "name": "akuoS",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.06\n0.79",
+            "adr": "-15\n-18\n+3",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "37\n11\n26",
+            "fk": "111\n76\n155",
+            "hs%": "67%\n62%\n73%",
+            "kdr": "28\n16\n12",
+            "kills": "103",
+            "name": "C\u00e0sper",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.45\n1.28",
+            "adr": "+22\n+4\n+18",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "71\n31\n40",
+            "fk": "175\n175\n175",
+            "hs%": "78%\n73%\n81%",
+            "kdr": "11\n4\n7",
+            "kills": "297",
+            "name": "L9a9er",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.41\n1.16",
+            "adr": "+7\n-7\n+14",
+            "agent": "",
+            "assists": "/\n\n40\n24\n16\n\n/",
+            "deaths": "47\n17\n30",
+            "fk": "133\n122\n142",
+            "hs%": "82%\n70%\n92%",
+            "kdr": "13\n5\n8",
+            "kills": "174",
+            "name": "Smoxx",
+            "team": null
+          },
+          {
+            "acs": "1.27\n0.98\n1.11",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n43\n19\n24\n\n/",
+            "deaths": "44\n23\n21",
+            "fk": "113\n127\n102",
+            "hs%": "81%\n67%\n92%",
+            "kdr": "29\n7\n22",
+            "kills": "200",
+            "name": "Mount",
+            "team": null
+          },
+          {
+            "acs": "0.64\n1.39\n1.05",
+            "adr": "+2\n-13\n+15",
+            "agent": "",
+            "assists": "/\n\n44\n26\n18\n\n/",
+            "deaths": "46\n13\n33",
+            "fk": "120\n97\n139",
+            "hs%": "76%\n67%\n84%",
+            "kdr": "28\n13\n15",
+            "kills": "126",
+            "name": "9ondoss",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.07\n0.96",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n53\n27\n26\n\n/",
+            "deaths": "51\n22\n29",
+            "fk": "137\n138\n136",
+            "hs%": "81%\n73%\n86%",
+            "kdr": "29\n6\n23",
+            "kills": "195",
+            "name": "BaSSanD\u00e8",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "285",
+          "name": "Kyubi",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "130",
+          "name": "akuoS",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "265",
+          "name": "Aspire",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "266",
+          "name": "Upsiii",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "148",
+          "name": "C\u00e0sper",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "331",
+          "name": "9ondoss",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "202",
+          "name": "Mount",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "292",
+          "name": "L9a9er",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "191",
+          "name": "Smoxx",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "128",
+          "name": "BaSSanD\u00e8",
+          "team": "Twareg Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.11\n1.30",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "158\n155\n160",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "285",
+            "name": "Kyubi",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "0.98\n0.90\n1.07",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "106\n131\n81",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "12\n4\n8",
+            "kills": "130",
+            "name": "akuoS",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "0.96\n0.81\n1.11",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "144\n117\n171",
+            "hs%": "54%\n50%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "265",
+            "name": "Aspire",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "0.94\n0.83\n1.06",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "148\n127\n169",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "266",
+            "name": "Upsiii",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "0.59\n0.57\n0.61",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "77\n44\n110",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "15\n10\n5",
+            "kills": "148",
+            "name": "C\u00e0sper",
+            "team": "Oni Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.20\n1.95",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "26\n10\n16",
+            "fk": "179\n159\n200",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "11\n5\n6",
+            "kills": "331",
+            "name": "9ondoss",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "1.21\n1.31\n1.11",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "129\n122\n137",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "12\n3\n9",
+            "kills": "202",
+            "name": "Mount",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "1.10\n0.76\n1.45",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "166\n131\n200",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "292",
+            "name": "L9a9er",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "0.99\n0.74\n1.24",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "141\n132\n149",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "191",
+            "name": "Smoxx",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "0.79\n1.02\n0.56",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "149\n190\n108",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "14\n2\n12",
+            "kills": "128",
+            "name": "BaSSanD\u00e8",
+            "team": "Twareg Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "162",
+          "name": "C\u00e0sper",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "176",
+          "name": "akuoS",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "130",
+          "name": "Aspire",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "130",
+          "name": "Upsiii",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "108",
+          "name": "Kyubi",
+          "team": "Oni Esports"
+        },
+        {
+          "kills": "317",
+          "name": "L9a9er",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "183",
+          "name": "Smoxx",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "170",
+          "name": "9ondoss",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "113",
+          "name": "Mount",
+          "team": "Twareg Esports"
+        },
+        {
+          "kills": "186",
+          "name": "BaSSanD\u00e8",
+          "team": "Twareg Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "0.84\n0.62\n1.37",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "108\n72\n194",
+            "hs%": "71%\n67%\n80%",
+            "kdr": "6\n1\n5",
+            "kills": "162",
+            "name": "C\u00e0sper",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "0.76\n0.74\n0.78",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "107\n92\n144",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "176",
+            "name": "akuoS",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "0.72\n1.06\n0.02",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "78\n97\n35",
+            "hs%": "59%\n75%\n20%",
+            "kdr": "2\n1\n1",
+            "kills": "130",
+            "name": "Aspire",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "0.55\n0.32\n1.12",
+            "adr": "-1\n-7\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "81\n52\n149",
+            "hs%": "71%\n67%\n80%",
+            "kdr": "6\n4\n2",
+            "kills": "130",
+            "name": "Upsiii",
+            "team": "Oni Esports"
+          },
+          {
+            "acs": "0.51\n0.61\n0.26",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "71\n55\n110",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "2\n0\n2",
+            "kills": "108",
+            "name": "Kyubi",
+            "team": "Oni Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.44\n1.52",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "192\n219\n181",
+            "hs%": "76%\n60%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "317",
+            "name": "L9a9er",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "1.49\n1.64\n1.43",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "129\n177\n110",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "183",
+            "name": "Smoxx",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "1.12\n0.79\n1.25",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "109\n89\n117",
+            "hs%": "76%\n60%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "170",
+            "name": "9ondoss",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "0.97\n0.97\n0.97",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "70\n98\n59",
+            "hs%": "88%\n60%\n100%",
+            "kdr": "10\n2\n8",
+            "kills": "113",
+            "name": "Mount",
+            "team": "Twareg Esports"
+          },
+          {
+            "acs": "0.85\n0.80\n0.87",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "113\n143\n101",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "186",
+            "name": "BaSSanD\u00e8",
+            "team": "Twareg Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 51850,
+  "teams": [
+    "Twareg Esports",
+    "Oni Esports"
+  ],
+  "tournament": "North Africa Qualifier: \n\t\t\t\t\t\tGrand Final"
+}

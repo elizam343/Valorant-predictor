@@ -1,0 +1,594 @@
+{
+  "date": "2021-09-14 14:15:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "260",
+          "name": "neth",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "217",
+          "name": "Medusa",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "206",
+          "name": "ade",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "207",
+          "name": "Munchkin",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "128",
+          "name": "Fisker",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "224",
+          "name": "liazzi",
+          "team": "Liberty"
+        },
+        {
+          "kills": "267",
+          "name": "krain",
+          "team": "Liberty"
+        },
+        {
+          "kills": "188",
+          "name": "pleets",
+          "team": "Liberty"
+        },
+        {
+          "kills": "151",
+          "name": "Myssen",
+          "team": "Liberty"
+        },
+        {
+          "kills": "156",
+          "name": "shion",
+          "team": "Liberty"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.40\n1.40",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "171\n189\n155",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "260",
+            "name": "neth",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "1.17\n0.96\n1.35",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "126\n83\n163",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "217",
+            "name": "Medusa",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "1.12\n0.96\n1.24",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "139\n149\n130",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "206",
+            "name": "ade",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "0.88\n1.40\n0.44",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "130\n193\n78",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "207",
+            "name": "Munchkin",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "0.63\n0.61\n0.64",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "91\n61\n116",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "7\n4\n3",
+            "kills": "128",
+            "name": "Fisker",
+            "team": "Crazy Raccoon"
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n1.35\n1.10",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "149\n176\n116",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "1\n1\n0",
+            "kills": "224",
+            "name": "liazzi",
+            "team": "Liberty"
+          },
+          {
+            "acs": "1.21\n1.13\n1.31",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "182\n164\n204",
+            "hs%": "86%\n92%\n80%",
+            "kdr": "10\n5\n5",
+            "kills": "267",
+            "name": "krain",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.89\n1.04\n0.70",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "132\n135\n128",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "6\n4\n2",
+            "kills": "188",
+            "name": "pleets",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.77\n1.13\n0.34",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "11\n10\n1",
+            "fk": "115\n172\n46",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "3\n1\n2",
+            "kills": "151",
+            "name": "Myssen",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.55\n0.22\n0.96",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "97\n54\n149",
+            "hs%": "64%\n50%\n80%",
+            "kdr": "1\n1\n0",
+            "kills": "156",
+            "name": "shion",
+            "team": "Liberty"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "228",
+          "name": "neth",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "ade",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "Fisker",
+          "team": null
+        },
+        {
+          "kills": "245",
+          "name": "Medusa",
+          "team": null
+        },
+        {
+          "kills": "234",
+          "name": "Munchkin",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "liazzi",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "shion",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "Myssen",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "krain",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "pleets",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.33\n1.32",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "35\n19\n16",
+            "fk": "146\n148\n143",
+            "hs%": "79%\n86%\n71%",
+            "kdr": "9\n6\n3",
+            "kills": "228",
+            "name": "neth",
+            "team": null
+          },
+          {
+            "acs": "1.12\n1.21\n1.17",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "33\n19\n14",
+            "fk": "139\n133\n146",
+            "hs%": "81%\n91%\n71%",
+            "kdr": "17\n10\n7",
+            "kills": "202",
+            "name": "ade",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.93\n1.04",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n28\n12\n16\n\n/",
+            "deaths": "31\n15\n16",
+            "fk": "131\n120\n142",
+            "hs%": "70%\n77%\n62%",
+            "kdr": "19\n15\n4",
+            "kills": "181",
+            "name": "Fisker",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.82\n0.93",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "33\n20\n13",
+            "fk": "124\n140\n108",
+            "hs%": "67%\n73%\n62%",
+            "kdr": "5\n0\n5",
+            "kills": "245",
+            "name": "Medusa",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.85\n0.92",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n33\n15\n18\n\n/",
+            "deaths": "36\n18\n18",
+            "fk": "145\n157\n133",
+            "hs%": "74%\n73%\n76%",
+            "kdr": "5\n4\n1",
+            "kills": "234",
+            "name": "Munchkin",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n0.90\n0.98",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n32\n15\n17\n\n/",
+            "deaths": "29\n16\n13",
+            "fk": "141\n148\n134",
+            "hs%": "70%\n71%\n68%",
+            "kdr": "5\n2\n3",
+            "kills": "216",
+            "name": "liazzi",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.32\n0.98",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n37\n18\n19\n\n/",
+            "deaths": "36\n13\n23",
+            "fk": "154\n120\n186",
+            "hs%": "67%\n67%\n68%",
+            "kdr": "4\n3\n1",
+            "kills": "180",
+            "name": "shion",
+            "team": null
+          },
+          {
+            "acs": "1.28\n0.50\n0.88",
+            "adr": "-6\n+5\n-11",
+            "agent": "",
+            "assists": "/\n\n30\n13\n17\n\n/",
+            "deaths": "24\n18\n6",
+            "fk": "113\n167\n62",
+            "hs%": "65%\n71%\n59%",
+            "kdr": "8\n4\n4",
+            "kills": "235",
+            "name": "Myssen",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.99\n0.86",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n35\n17\n18\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "132\n117\n146",
+            "hs%": "72%\n76%\n68%",
+            "kdr": "12\n6\n6",
+            "kills": "167",
+            "name": "krain",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.60\n0.82",
+            "adr": "-7\n+2\n-9",
+            "agent": "",
+            "assists": "/\n\n34\n15\n19\n\n/",
+            "deaths": "27\n17\n10",
+            "fk": "129\n151\n108",
+            "hs%": "72%\n76%\n68%",
+            "kdr": "12\n5\n7",
+            "kills": "226",
+            "name": "pleets",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "278",
+          "name": "Fisker",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "215",
+          "name": "neth",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "199",
+          "name": "ade",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "370",
+          "name": "Munchkin",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "51",
+          "name": "Medusa",
+          "team": "Crazy Raccoon"
+        },
+        {
+          "kills": "350",
+          "name": "shion",
+          "team": "Liberty"
+        },
+        {
+          "kills": "109",
+          "name": "Myssen",
+          "team": "Liberty"
+        },
+        {
+          "kills": "149",
+          "name": "pleets",
+          "team": "Liberty"
+        },
+        {
+          "kills": "190",
+          "name": "liazzi",
+          "team": "Liberty"
+        },
+        {
+          "kills": "149",
+          "name": "krain",
+          "team": "Liberty"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.57\n1.32",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "172\n169\n175",
+            "hs%": "76%\n83%\n67%",
+            "kdr": "12\n11\n1",
+            "kills": "278",
+            "name": "Fisker",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "1.23\n1.23\n1.23",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "119\n114\n127",
+            "hs%": "90%\n92%\n89%",
+            "kdr": "7\n4\n3",
+            "kills": "215",
+            "name": "neth",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "1.22\n1.26\n1.17",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "140\n120\n166",
+            "hs%": "81%\n92%\n67%",
+            "kdr": "9\n7\n2",
+            "kills": "199",
+            "name": "ade",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "0.97\n0.66\n1.39",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "161\n127\n207",
+            "hs%": "81%\n67%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "370",
+            "name": "Munchkin",
+            "team": "Crazy Raccoon"
+          },
+          {
+            "acs": "0.69\n1.12\n0.11",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n14\n1",
+            "fk": "122\n187\n35",
+            "hs%": "62%\n75%\n44%",
+            "kdr": "1\n0\n1",
+            "kills": "51",
+            "name": "Medusa",
+            "team": "Crazy Raccoon"
+          }
+        ],
+        [
+          {
+            "acs": "1.43\n1.18\n1.62",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "213\n208\n217",
+            "hs%": "71%\n89%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "350",
+            "name": "shion",
+            "team": "Liberty"
+          },
+          {
+            "acs": "1.00\n1.48\n0.64",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "112\n161\n74",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "109",
+            "name": "Myssen",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.76\n1.08\n0.52",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "126\n171\n91",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "149",
+            "name": "pleets",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.71\n0.67\n0.74",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "132\n110\n149",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "190",
+            "name": "liazzi",
+            "team": "Liberty"
+          },
+          {
+            "acs": "0.50\n0.19\n0.73",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "79\n55\n98",
+            "hs%": "57%\n56%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "149",
+            "name": "krain",
+            "team": "Liberty"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 34965,
+  "teams": [
+    "Liberty",
+    "Crazy Raccoon"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tElimination (C)"
+}

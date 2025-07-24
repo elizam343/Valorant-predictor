@@ -1,0 +1,612 @@
+{
+  "date": "2022-11-05 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "217",
+          "name": "ROY",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "263",
+          "name": "duck",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "225",
+          "name": "Soto",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "162",
+          "name": "Precision",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "128",
+          "name": "Cohburg",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "228",
+          "name": "Jangler",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "275",
+          "name": "Lin",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "242",
+          "name": "kev",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "168",
+          "name": "royal",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "113",
+          "name": "ohai",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.15\n1.27",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "153\n153\n153",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "9\n6\n3",
+            "kills": "217",
+            "name": "ROY",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "1.18\n0.96\n1.40",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n23\n12\n11\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "178\n149\n206",
+            "hs%": "68%\n79%\n57%",
+            "kdr": "4\n1\n3",
+            "kills": "263",
+            "name": "duck",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "1.10\n1.49\n0.71",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "25\n17\n8",
+            "fk": "139\n185\n94",
+            "hs%": "75%\n86%\n64%",
+            "kdr": "1\n1\n0",
+            "kills": "225",
+            "name": "Soto",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "0.83\n0.84\n0.81",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "105\n106\n105",
+            "hs%": "71%\n79%\n64%",
+            "kdr": "9\n6\n3",
+            "kills": "162",
+            "name": "Precision",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "0.59\n0.27\n0.92",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "91\n58\n125",
+            "hs%": "71%\n50%\n93%",
+            "kdr": "13\n4\n9",
+            "kills": "128",
+            "name": "Cohburg",
+            "team": "Kitten Shelter"
+          }
+        ],
+        [
+          {
+            "acs": "1.28\n1.24\n1.32",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "143\n123\n163",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "5\n2\n3",
+            "kills": "228",
+            "name": "Jangler",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.27\n1.60\n0.95",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "26\n15\n11",
+            "fk": "169\n202\n136",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "4\n1\n3",
+            "kills": "275",
+            "name": "Lin",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.93\n1.14\n0.72",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n23\n11\n12\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "163\n170\n156",
+            "hs%": "79%\n86%\n71%",
+            "kdr": "4\n1\n3",
+            "kills": "242",
+            "name": "kev",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.87\n0.44\n1.31",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "108\n76\n140",
+            "hs%": "68%\n50%\n86%",
+            "kdr": "10\n5\n5",
+            "kills": "168",
+            "name": "royal",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.65\n0.45\n0.85",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "75\n48\n103",
+            "hs%": "86%\n86%\n86%",
+            "kdr": "9\n5\n4",
+            "kills": "113",
+            "name": "ohai",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "264",
+          "name": "Soto",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "Dark3st",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "ROY",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "Cohburg",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "Precision",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "duck",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "Jangler",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "Lin",
+          "team": null
+        },
+        {
+          "kills": "122",
+          "name": "ohai",
+          "team": null
+        },
+        {
+          "kills": "94",
+          "name": "royal",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "kev",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.26\n1.25",
+            "adr": "+16\n+4\n+12",
+            "agent": "",
+            "assists": "/\n\n34\n22\n12\n\n/",
+            "deaths": "50\n26\n24",
+            "fk": "152\n156\n148",
+            "hs%": "78%\n81%\n76%",
+            "kdr": "2\n1\n1",
+            "kills": "264",
+            "name": "Soto",
+            "team": null
+          },
+          {
+            "acs": "1.02\n1.46\n1.23",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "147\n114\n182",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "15\n6\n9",
+            "kills": "198",
+            "name": "Dark3st",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.29\n1.12",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n30\n19\n11\n\n/",
+            "deaths": "34\n15\n19",
+            "fk": "127\n123\n131",
+            "hs%": "78%\n69%\n88%",
+            "kdr": "18\n13\n5",
+            "kills": "163",
+            "name": "ROY",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.21\n0.99",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n34\n22\n12\n\n/",
+            "deaths": "32\n15\n17",
+            "fk": "138\n125\n150",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "21\n7\n14",
+            "kills": "189",
+            "name": "Cohburg",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.81\n0.83",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "105\n106\n105",
+            "hs%": "71%\n79%\n64%",
+            "kdr": "9\n6\n3",
+            "kills": "165",
+            "name": "Precision",
+            "team": null
+          },
+          {
+            "acs": "0.52\n1.19\n0.79",
+            "adr": "-7\n-11\n+4",
+            "agent": "",
+            "assists": "/\n\n41\n24\n17\n\n/",
+            "deaths": "34\n13\n21",
+            "fk": "129\n96\n163",
+            "hs%": "63%\n58%\n68%",
+            "kdr": "5\n2\n3",
+            "kills": "148",
+            "name": "duck",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.01\n1.23\n1.12",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n31\n18\n13\n\n/",
+            "deaths": "35\n14\n21",
+            "fk": "132\n117\n146",
+            "hs%": "73%\n60%\n85%",
+            "kdr": "10\n3\n7",
+            "kills": "175",
+            "name": "Jangler",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.21\n1.06",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n37\n20\n17\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "146\n130\n162",
+            "hs%": "69%\n56%\n81%",
+            "kdr": "8\n3\n5",
+            "kills": "204",
+            "name": "Lin",
+            "team": null
+          },
+          {
+            "acs": "0.65\n1.15\n0.90",
+            "adr": "-4\n-11\n+7",
+            "agent": "",
+            "assists": "/\n\n37\n22\n15\n\n/",
+            "deaths": "33\n11\n22",
+            "fk": "117\n73\n159",
+            "hs%": "82%\n76%\n88%",
+            "kdr": "11\n7\n4",
+            "kills": "122",
+            "name": "ohai",
+            "team": null
+          },
+          {
+            "acs": "0.40\n1.28\n0.85",
+            "adr": "-10\n-14\n+4",
+            "agent": "",
+            "assists": "/\n\n39\n21\n18\n\n/",
+            "deaths": "29\n7\n22",
+            "fk": "107\n67\n147",
+            "hs%": "73%\n56%\n88%",
+            "kdr": "20\n8\n12",
+            "kills": "94",
+            "name": "royal",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.77\n0.83",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n40\n20\n20\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "138\n130\n146",
+            "hs%": "71%\n60%\n81%",
+            "kdr": "9\n2\n7",
+            "kills": "202",
+            "name": "kev",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "280",
+          "name": "Cohburg",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "341",
+          "name": "Soto",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "261",
+          "name": "Dark3st",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "164",
+          "name": "ROY",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "195",
+          "name": "duck",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "332",
+          "name": "ohai",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "177",
+          "name": "Jangler",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "204",
+          "name": "royal",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "286",
+          "name": "Lin",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "200",
+          "name": "kev",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.48\n1.37\n1.59",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "194\n204\n183",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "8\n3\n5",
+            "kills": "280",
+            "name": "Cohburg",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "1.43\n0.95\n1.96",
+            "adr": "+11\n-2\n+13",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "25\n9\n16",
+            "fk": "169\n123\n218",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "1\n0\n1",
+            "kills": "341",
+            "name": "Soto",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "1.23\n1.02\n1.46",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "147\n114\n182",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "15\n6\n9",
+            "kills": "261",
+            "name": "Dark3st",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "1.01\n0.73\n1.32",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "95\n88\n103",
+            "hs%": "78%\n58%\n100%",
+            "kdr": "9\n7\n2",
+            "kills": "164",
+            "name": "ROY",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "0.33\n0.01\n0.92",
+            "adr": "-9\n-11\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "69\n34\n107",
+            "hs%": "57%\n33%\n82%",
+            "kdr": "1\n1\n0",
+            "kills": "195",
+            "name": "duck",
+            "team": "Kitten Shelter"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n0.90\n1.51",
+            "adr": "+6\n-4\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "167\n104\n225",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "2\n2\n0",
+            "kills": "332",
+            "name": "ohai",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.93\n0.73\n1.11",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "118\n109\n127",
+            "hs%": "70%\n45%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "177",
+            "name": "Jangler",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.82\n0.36\n1.25",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "107\n56\n155",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "10\n3\n7",
+            "kills": "204",
+            "name": "royal",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.81\n0.05\n1.51",
+            "adr": "-3\n-10\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "14\n1\n13",
+            "fk": "119\n38\n194",
+            "hs%": "57%\n27%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "286",
+            "name": "Lin",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.71\n0.58\n0.83",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "109\n80\n135",
+            "hs%": "61%\n27%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "200",
+            "name": "kev",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 155560,
+  "teams": [
+    "Kitten Shelter",
+    "BASILISK"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 16"
+}

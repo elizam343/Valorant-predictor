@@ -1,0 +1,788 @@
+{
+  "date": "2022-04-04 18:15:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "250",
+          "name": "payen",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "158",
+          "name": "Precision",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "223",
+          "name": "Harmful",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "145",
+          "name": "venture",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "136",
+          "name": "ZK",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "268",
+          "name": "bite",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "246",
+          "name": "carlos",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "199",
+          "name": "Nader",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "224",
+          "name": "tyfoon",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "151",
+          "name": "ryann",
+          "team": "Gorilla Gang"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.23\n1.88\n0.74",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "158\n210\n119",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "0\n0\n0",
+            "kills": "250",
+            "name": "payen",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.98\n0.88\n1.06",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "110\n107\n112",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "11\n7\n4",
+            "kills": "158",
+            "name": "Precision",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.83\n0.79\n0.86",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "126\n122\n129",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "223",
+            "name": "Harmful",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.72\n0.44\n0.93",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "108\n83\n126",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "145",
+            "name": "venture",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.38\n0.67\n0.17",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "91\n127\n63",
+            "hs%": "48%\n56%\n42%",
+            "kdr": "6\n5\n1",
+            "kills": "136",
+            "name": "ZK",
+            "team": "TSM Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.40\n1.44\n1.35",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "164\n189\n130",
+            "hs%": "90%\n92%\n89%",
+            "kdr": "2\n2\n0",
+            "kills": "268",
+            "name": "bite",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "1.36\n1.34\n1.39",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "165\n141\n198",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "5\n2\n3",
+            "kills": "246",
+            "name": "carlos",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "1.20\n1.48\n0.83",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "136\n147\n122",
+            "hs%": "90%\n100%\n78%",
+            "kdr": "9\n5\n4",
+            "kills": "199",
+            "name": "Nader",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "1.16\n1.16\n1.17",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "160\n144\n182",
+            "hs%": "86%\n92%\n78%",
+            "kdr": "6\n3\n3",
+            "kills": "224",
+            "name": "tyfoon",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "0.73\n0.52\n1.02",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "91\n86\n98",
+            "hs%": "62%\n42%\n89%",
+            "kdr": "10\n4\n6",
+            "kills": "151",
+            "name": "ryann",
+            "team": "Gorilla Gang"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "220",
+          "name": "Harmful",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "Precision",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "venture",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "payen",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "ZK",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "tyfoon",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Nader",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "bite",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "carlos",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "ryann",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.90\n1.78\n1.33",
+            "adr": "+21\n-3\n+24",
+            "agent": "",
+            "assists": "/\n\n45\n27\n18\n\n/",
+            "deaths": "66\n24\n42",
+            "fk": "182\n148\n219",
+            "hs%": "69%\n61%\n77%",
+            "kdr": "8\n6\n2",
+            "kills": "220",
+            "name": "Harmful",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.33\n1.00",
+            "adr": "-5\n-12\n+7",
+            "agent": "",
+            "assists": "/\n\n46\n27\n19\n\n/",
+            "deaths": "41\n15\n26",
+            "fk": "139\n110\n169",
+            "hs%": "73%\n67%\n81%",
+            "kdr": "32\n18\n14",
+            "kills": "159",
+            "name": "Precision",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.17\n1.00",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n41\n25\n16\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "118\n124\n111",
+            "hs%": "75%\n73%\n77%",
+            "kdr": "16\n6\n10",
+            "kills": "187",
+            "name": "venture",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.80\n0.88",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "44\n24\n20",
+            "fk": "125\n121\n130",
+            "hs%": "66%\n61%\n71%",
+            "kdr": "9\n3\n6",
+            "kills": "191",
+            "name": "payen",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.97\n0.88",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n43\n26\n17\n\n/",
+            "deaths": "38\n18\n20",
+            "fk": "105\n104\n107",
+            "hs%": "64%\n55%\n74%",
+            "kdr": "24\n17\n7",
+            "kills": "163",
+            "name": "ZK",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.80\n1.59\n1.21",
+            "adr": "+10\n-4\n+14",
+            "agent": "",
+            "assists": "/\n\n45\n27\n18\n\n/",
+            "deaths": "55\n23\n32",
+            "fk": "164\n124\n202",
+            "hs%": "81%\n74%\n88%",
+            "kdr": "16\n5\n11",
+            "kills": "189",
+            "name": "tyfoon",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.34\n1.13",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n40\n23\n17\n\n/",
+            "deaths": "43\n19\n24",
+            "fk": "122\n107\n136",
+            "hs%": "78%\n74%\n82%",
+            "kdr": "27\n7\n20",
+            "kills": "171",
+            "name": "Nader",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.01\n0.94",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "127\n143\n112",
+            "hs%": "72%\n65%\n79%",
+            "kdr": "10\n6\n4",
+            "kills": "218",
+            "name": "bite",
+            "team": null
+          },
+          {
+            "acs": "0.60\n1.11\n0.86",
+            "adr": "-5\n-9\n+4",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "39\n15\n24",
+            "fk": "115\n89\n139",
+            "hs%": "67%\n48%\n85%",
+            "kdr": "16\n5\n11",
+            "kills": "133",
+            "name": "carlos",
+            "team": null
+          },
+          {
+            "acs": "0.62\n1.07\n0.85",
+            "adr": "-11\n-11\n0",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "40\n15\n25",
+            "fk": "117\n96\n137",
+            "hs%": "64%\n48%\n79%",
+            "kdr": "30\n10\n20",
+            "kills": "153",
+            "name": "ryann",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "406",
+          "name": "Harmful",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "130",
+          "name": "venture",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "249",
+          "name": "ZK",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "281",
+          "name": "Precision",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "209",
+          "name": "payen",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "372",
+          "name": "tyfoon",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "244",
+          "name": "ryann",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "185",
+          "name": "Nader",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "188",
+          "name": "bite",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "187",
+          "name": "carlos",
+          "team": "Gorilla Gang"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.78\n1.34\n2.25",
+            "adr": "+16\n+2\n+14",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "28\n11\n17",
+            "fk": "213\n184\n244",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "3\n2\n1",
+            "kills": "406",
+            "name": "Harmful",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "1.17\n1.06\n1.30",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "137\n169\n103",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "5\n1\n4",
+            "kills": "130",
+            "name": "venture",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "1.09\n0.54\n1.68",
+            "adr": "+2\n-6\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "111\n65\n161",
+            "hs%": "74%\n58%\n91%",
+            "kdr": "9\n5\n4",
+            "kills": "249",
+            "name": "ZK",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.77\n0.36\n1.20",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "137\n105\n173",
+            "hs%": "70%\n50%\n91%",
+            "kdr": "7\n4\n3",
+            "kills": "281",
+            "name": "Precision",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.74\n0.64\n0.85",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "100\n72\n132",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "6\n3\n3",
+            "kills": "209",
+            "name": "payen",
+            "team": "TSM Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n0.38\n1.86",
+            "adr": "+2\n-7\n+9",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "162\n86\n231",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "372",
+            "name": "tyfoon",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "0.95\n0.72\n1.16",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "120\n91\n147",
+            "hs%": "57%\n45%\n67%",
+            "kdr": "11\n2\n9",
+            "kills": "244",
+            "name": "ryann",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "0.94\n0.65\n1.21",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "100\n90\n108",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "9\n1\n8",
+            "kills": "185",
+            "name": "Nader",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "0.88\n0.70\n1.04",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "119\n128\n110",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "188",
+            "name": "bite",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "0.54\n0.04\n1.03",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "97\n56\n135",
+            "hs%": "52%\n27%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "187",
+            "name": "carlos",
+            "team": "Gorilla Gang"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "286",
+          "name": "Harmful",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "262",
+          "name": "Precision",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "174",
+          "name": "ZK",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "174",
+          "name": "venture",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "157",
+          "name": "payen",
+          "team": "TSM Academy"
+        },
+        {
+          "kills": "278",
+          "name": "tyfoon",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "218",
+          "name": "Nader",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "200",
+          "name": "ryann",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "119",
+          "name": "carlos",
+          "team": "Gorilla Gang"
+        },
+        {
+          "kills": "146",
+          "name": "bite",
+          "team": "Gorilla Gang"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.33\n0.54\n2.52",
+            "adr": "+7\n-4\n+11",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "206\n131\n319",
+            "hs%": "65%\n50%\n88%",
+            "kdr": "3\n2\n1",
+            "kills": "286",
+            "name": "Harmful",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "1.28\n0.86\n1.90",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "170\n118\n248",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "14\n7\n7",
+            "kills": "262",
+            "name": "Precision",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "1.16\n1.12\n1.20",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "113\n124\n97",
+            "hs%": "70%\n50%\n100%",
+            "kdr": "9\n7\n2",
+            "kills": "174",
+            "name": "ZK",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "1.08\n0.90\n1.36",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "106\n111\n98",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "5\n2\n3",
+            "kills": "174",
+            "name": "venture",
+            "team": "TSM Academy"
+          },
+          {
+            "acs": "0.68\n0.60\n0.81",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "120\n104\n144",
+            "hs%": "65%\n58%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "157",
+            "name": "payen",
+            "team": "TSM Academy"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n0.84\n1.64",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "171\n146\n188",
+            "hs%": "80%\n63%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "278",
+            "name": "tyfoon",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "1.28\n0.42\n1.86",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "132\n71\n174",
+            "hs%": "75%\n50%\n92%",
+            "kdr": "9\n1\n8",
+            "kills": "218",
+            "name": "Nader",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "0.86\n0.62\n1.01",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "141\n119\n156",
+            "hs%": "75%\n63%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "200",
+            "name": "ryann",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "0.69\n0.25\n0.98",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "82\n54\n101",
+            "hs%": "70%\n38%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "119",
+            "name": "carlos",
+            "team": "Gorilla Gang"
+          },
+          {
+            "acs": "0.53\n0.26\n0.71",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "98\n94\n100",
+            "hs%": "55%\n38%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "146",
+            "name": "bite",
+            "team": "Gorilla Gang"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 84704,
+  "teams": [
+    "Gorilla Gang",
+    "TSM Academy"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tRound of 32"
+}

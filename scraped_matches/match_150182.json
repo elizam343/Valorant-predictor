@@ -1,0 +1,788 @@
+{
+  "date": "2022-10-08 17:50:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "339",
+          "name": "marceline",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "211",
+          "name": "panday",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "196",
+          "name": "m1yu",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "180",
+          "name": "Australis",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "188",
+          "name": "kr1sP",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "261",
+          "name": "mili",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "265",
+          "name": "TeddyIsFluffy",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "250",
+          "name": "Akame",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "163",
+          "name": "Gigi",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "122",
+          "name": "Qlutch",
+          "team": "NMG Celeste"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.56\n1.18",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "24\n16\n8",
+            "fk": "215\n244\n176",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "339",
+            "name": "marceline",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "1.20\n1.25\n1.14",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "122\n116\n131",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "5\n4\n1",
+            "kills": "211",
+            "name": "panday",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "0.97\n1.14\n0.75",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "127\n143\n106",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "8\n4\n4",
+            "kills": "196",
+            "name": "m1yu",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "0.90\n0.69\n1.19",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "132\n106\n168",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "5\n1\n4",
+            "kills": "180",
+            "name": "Australis",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "0.77\n1.00\n0.47",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "116\n157\n61",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "188",
+            "name": "kr1sP",
+            "team": "Ariana Grande Perfume"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n1.14\n1.28",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "163\n152\n171",
+            "hs%": "81%\n100%\n67%",
+            "kdr": "7\n7\n0",
+            "kills": "261",
+            "name": "mili",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "1.12\n1.49\n0.84",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "167\n213\n133",
+            "hs%": "62%\n78%\n50%",
+            "kdr": "8\n5\n3",
+            "kills": "265",
+            "name": "TeddyIsFluffy",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "1.00\n1.22\n0.84",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "162\n185\n145",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "250",
+            "name": "Akame",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "0.92\n1.12\n0.77",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "110\n97\n119",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "15\n11\n4",
+            "kills": "163",
+            "name": "Gigi",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "0.54\n0.74\n0.39",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "77\n115\n48",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "5\n0\n5",
+            "kills": "122",
+            "name": "Qlutch",
+            "team": "NMG Celeste"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "251",
+          "name": "Australis",
+          "team": null
+        },
+        {
+          "kills": "369",
+          "name": "marceline",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "panday",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "kr1sP",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "m1yu",
+          "team": null
+        },
+        {
+          "kills": "263",
+          "name": "mili",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "TeddyIsFluffy",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "Akame",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "Gigi",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Qlutch",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.38\n1.37",
+            "adr": "+19\n+8\n+11",
+            "agent": "",
+            "assists": "/\n\n39\n15\n24\n\n/",
+            "deaths": "58\n23\n35",
+            "fk": "183\n174\n190",
+            "hs%": "83%\n84%\n82%",
+            "kdr": "22\n8\n14",
+            "kills": "251",
+            "name": "Australis",
+            "team": null
+          },
+          {
+            "acs": "1.65\n1.15\n1.36",
+            "adr": "+21\n+16\n+5",
+            "agent": "",
+            "assists": "/\n\n42\n17\n25\n\n/",
+            "deaths": "63\n33\n30",
+            "fk": "194\n225\n171",
+            "hs%": "72%\n80%\n67%",
+            "kdr": "12\n5\n7",
+            "kills": "369",
+            "name": "marceline",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.18\n1.08",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n35\n15\n20\n\n/",
+            "deaths": "41\n15\n26",
+            "fk": "127\n101\n147",
+            "hs%": "81%\n76%\n85%",
+            "kdr": "18\n10\n8",
+            "kills": "155",
+            "name": "panday",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.80\n0.86",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n43\n17\n26\n\n/",
+            "deaths": "45\n21\n24",
+            "fk": "118\n126\n112",
+            "hs%": "66%\n68%\n64%",
+            "kdr": "5\n1\n4",
+            "kills": "218",
+            "name": "kr1sP",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.70\n0.72",
+            "adr": "-12\n-4\n-8",
+            "agent": "",
+            "assists": "/\n\n41\n16\n25\n\n/",
+            "deaths": "29\n12\n17",
+            "fk": "96\n90\n101",
+            "hs%": "67%\n64%\n70%",
+            "kdr": "23\n12\n11",
+            "kills": "141",
+            "name": "m1yu",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n1.19\n1.21",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n46\n27\n19\n\n/",
+            "deaths": "50\n30\n20",
+            "fk": "167\n158\n179",
+            "hs%": "83%\n91%\n72%",
+            "kdr": "16\n12\n4",
+            "kills": "263",
+            "name": "mili",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.89\n1.00",
+            "adr": "-6\n+2\n-8",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "40\n26\n14",
+            "fk": "146\n154\n134",
+            "hs%": "64%\n70%\n56%",
+            "kdr": "27\n19\n8",
+            "kills": "230",
+            "name": "TeddyIsFluffy",
+            "team": null
+          },
+          {
+            "acs": "0.80\n0.94\n0.86",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "42\n22\n20",
+            "fk": "140\n134\n147",
+            "hs%": "71%\n73%\n68%",
+            "kdr": "9\n5\n4",
+            "kills": "197",
+            "name": "Akame",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.79\n0.86",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n43\n26\n17\n\n/",
+            "deaths": "30\n18\n12",
+            "fk": "107\n110\n103",
+            "hs%": "74%\n76%\n72%",
+            "kdr": "28\n21\n7",
+            "kills": "178",
+            "name": "Gigi",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.54\n0.74",
+            "adr": "-13\n-3\n-10",
+            "agent": "",
+            "assists": "/\n\n51\n28\n23\n\n/",
+            "deaths": "38\n25\n13",
+            "fk": "113\n131\n88",
+            "hs%": "74%\n82%\n64%",
+            "kdr": "14\n7\n7",
+            "kills": "209",
+            "name": "Qlutch",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "385",
+          "name": "marceline",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "223",
+          "name": "Australis",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "230",
+          "name": "panday",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "179",
+          "name": "kr1sP",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "61",
+          "name": "m1yu",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "269",
+          "name": "mili",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "244",
+          "name": "TeddyIsFluffy",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "238",
+          "name": "Qlutch",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "263",
+          "name": "Akame",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "126",
+          "name": "Gigi",
+          "team": "NMG Celeste"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.67\n1.47\n1.84",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "29\n13\n16",
+            "fk": "226\n207\n243",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "385",
+            "name": "marceline",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "1.30\n1.77\n0.90",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "181\n231\n139",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "10\n5\n5",
+            "kills": "223",
+            "name": "Australis",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "0.94\n0.53\n1.28",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "135\n88\n174",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "230",
+            "name": "panday",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "0.57\n0.83\n0.34",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "96\n87\n103",
+            "hs%": "45%\n50%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "179",
+            "name": "kr1sP",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "0.15\n0.24\n0.07",
+            "adr": "-17\n-8\n-9",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "43\n39\n47",
+            "hs%": "41%\n40%\n42%",
+            "kdr": "11\n7\n4",
+            "kills": "61",
+            "name": "m1yu",
+            "team": "Ariana Grande Perfume"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n1.11\n1.35",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "175\n141\n216",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "8\n5\n3",
+            "kills": "269",
+            "name": "mili",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "1.21\n1.25\n1.15",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "160\n158\n161",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "15\n11\n4",
+            "kills": "244",
+            "name": "TeddyIsFluffy",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "1.16\n1.41\n0.87",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "160\n167\n152",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "6\n4\n2",
+            "kills": "238",
+            "name": "Qlutch",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "1.10\n0.96\n1.26",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "157\n144\n174",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "3\n1\n2",
+            "kills": "263",
+            "name": "Akame",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "1.01\n1.21\n0.77",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "117\n141\n89",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "11\n8\n3",
+            "kills": "126",
+            "name": "Gigi",
+            "team": "NMG Celeste"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "417",
+          "name": "Australis",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "271",
+          "name": "kr1sP",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "201",
+          "name": "m1yu",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "177",
+          "name": "panday",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "186",
+          "name": "marceline",
+          "team": "Ariana Grande Perfume"
+        },
+        {
+          "kills": "252",
+          "name": "mili",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "152",
+          "name": "Gigi",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "131",
+          "name": "TeddyIsFluffy",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "144",
+          "name": "Qlutch",
+          "team": "NMG Celeste"
+        },
+        {
+          "kills": "112",
+          "name": "Akame",
+          "team": "NMG Celeste"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "2.12\n2.61\n2.00",
+            "adr": "+17\n+5\n+12",
+            "agent": "",
+            "assists": "/\n\n7\n0\n7\n\n/",
+            "deaths": "24\n5\n19",
+            "fk": "257\n255\n258",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "417",
+            "name": "Australis",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "1.41\n1.02\n1.50",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "153\n132\n159",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "271",
+            "name": "kr1sP",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "1.21\n0.84\n1.31",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "11\n1\n10",
+            "fk": "131\n53\n150",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "201",
+            "name": "m1yu",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "1.11\n1.12\n1.11",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "123\n89\n131",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "177",
+            "name": "panday",
+            "team": "Ariana Grande Perfume"
+          },
+          {
+            "acs": "0.87\n2.64\n0.42",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n9\n0\n9\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "118\n212\n95",
+            "hs%": "67%\n100%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "186",
+            "name": "marceline",
+            "team": "Ariana Grande Perfume"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.43\n0.27",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "14\n14\n0",
+            "fk": "160\n178\n88",
+            "hs%": "80%\n92%\n33%",
+            "kdr": "1\n0\n1",
+            "kills": "252",
+            "name": "mili",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "0.56\n0.47\n0.93",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "89\n90\n87",
+            "hs%": "47%\n50%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "152",
+            "name": "Gigi",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "0.55\n0.62\n0.27",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "5\n6\n-1",
+            "fk": "95\n105\n53",
+            "hs%": "47%\n50%\n33%",
+            "kdr": "4\n3\n1",
+            "kills": "131",
+            "name": "TeddyIsFluffy",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "0.40\n0.51\n0.03",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "93\n107\n37",
+            "hs%": "73%\n83%\n33%",
+            "kdr": "3\n3\n0",
+            "kills": "144",
+            "name": "Qlutch",
+            "team": "NMG Celeste"
+          },
+          {
+            "acs": "0.32\n0.33\n0.30",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "83\n87\n65",
+            "hs%": "60%\n67%\n33%",
+            "kdr": "3\n2\n1",
+            "kills": "112",
+            "name": "Akame",
+            "team": "NMG Celeste"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 150182,
+  "teams": [
+    "Ariana Grande Perfume",
+    "NMG Celeste"
+  ],
+  "tournament": "Closed Qualifier: \n\t\t\t\t\t\tLower Round 1"
+}

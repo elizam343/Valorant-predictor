@@ -1,0 +1,594 @@
+{
+  "date": "2022-04-03 04:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "207",
+          "name": "lykann",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "239",
+          "name": "Dolph",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "188",
+          "name": "cuppycake",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "155",
+          "name": "casey",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "164",
+          "name": "mimii",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "294",
+          "name": "1001",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "239",
+          "name": "Pichy",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "208",
+          "name": "pannyx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "234",
+          "name": "Linysx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "147",
+          "name": "Mauvaiz",
+          "team": "GamDaeng"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.27\n1.08",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "139\n125\n148",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "5\n0\n5",
+            "kills": "207",
+            "name": "lykann",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.85\n0.11\n1.35",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "162\n95\n206",
+            "hs%": "55%\n38%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "239",
+            "name": "Dolph",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.78\n0.74\n0.81",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "115\n102\n125",
+            "hs%": "55%\n63%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "188",
+            "name": "cuppycake",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.70\n0.73\n0.67",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "110\n128\n97",
+            "hs%": "60%\n50%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "155",
+            "name": "casey",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.67\n0.44\n0.82",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "111\n94\n123",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "164",
+            "name": "mimii",
+            "team": "Quintuplet"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.16\n1.77",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "186\n174\n204",
+            "hs%": "85%\n75%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "294",
+            "name": "1001",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.26\n1.03\n1.60",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "146\n137\n159",
+            "hs%": "75%\n58%\n100%",
+            "kdr": "5\n0\n5",
+            "kills": "239",
+            "name": "Pichy",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.19\n1.03\n1.42",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "130\n128\n132",
+            "hs%": "75%\n58%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "208",
+            "name": "pannyx",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.91\n0.79\n1.07",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "148\n142\n158",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "234",
+            "name": "Linysx",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.88\n0.91\n0.83",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "110\n137\n69",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "9\n6\n3",
+            "kills": "147",
+            "name": "Mauvaiz",
+            "team": "GamDaeng"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "224",
+          "name": "cuppycake",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "lykann",
+          "team": null
+        },
+        {
+          "kills": "263",
+          "name": "Dolph",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "casey",
+          "team": null
+        },
+        {
+          "kills": "94",
+          "name": "mimii",
+          "team": null
+        },
+        {
+          "kills": "228",
+          "name": "1001",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "Pichy",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "pannyx",
+          "team": null
+        },
+        {
+          "kills": "261",
+          "name": "Linysx",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "Mauvaiz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.12\n0.95\n1.03",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n35\n15\n20\n\n/",
+            "deaths": "34\n16\n18",
+            "fk": "137\n134\n140",
+            "hs%": "67%\n80%\n57%",
+            "kdr": "17\n13\n4",
+            "kills": "224",
+            "name": "cuppycake",
+            "team": null
+          },
+          {
+            "acs": "1.04\n0.99\n1.02",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n31\n15\n16\n\n/",
+            "deaths": "28\n15\n13",
+            "fk": "127\n125\n129",
+            "hs%": "77%\n85%\n70%",
+            "kdr": "11\n2\n9",
+            "kills": "209",
+            "name": "lykann",
+            "team": null
+          },
+          {
+            "acs": "1.20\n0.85\n1.01",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n36\n15\n21\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "165\n187\n147",
+            "hs%": "65%\n65%\n65%",
+            "kdr": "12\n6\n6",
+            "kills": "263",
+            "name": "Dolph",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.65\n0.76",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n34\n15\n19\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "113\n128\n99",
+            "hs%": "60%\n55%\n65%",
+            "kdr": "5\n2\n3",
+            "kills": "183",
+            "name": "casey",
+            "team": null
+          },
+          {
+            "acs": "0.36\n0.81\n0.60",
+            "adr": "-13\n-12\n-1",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "89\n59\n116",
+            "hs%": "65%\n60%\n70%",
+            "kdr": "7\n5\n2",
+            "kills": "94",
+            "name": "mimii",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.49\n1.38",
+            "adr": "+13\n+7\n+6",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "42\n20\n22",
+            "fk": "184\n170\n200",
+            "hs%": "81%\n74%\n90%",
+            "kdr": "16\n8\n8",
+            "kills": "228",
+            "name": "1001",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.23\n1.15",
+            "adr": "+12\n+7\n+5",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "37\n20\n17",
+            "fk": "147\n133\n164",
+            "hs%": "72%\n65%\n80%",
+            "kdr": "11\n4\n7",
+            "kills": "211",
+            "name": "Pichy",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.07\n1.07",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n28\n16\n12\n\n/",
+            "deaths": "31\n19\n12",
+            "fk": "129\n135\n123",
+            "hs%": "74%\n65%\n85%",
+            "kdr": "9\n3\n6",
+            "kills": "229",
+            "name": "pannyx",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.91\n1.05",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n31\n16\n15\n\n/",
+            "deaths": "36\n21\n15",
+            "fk": "156\n160\n151",
+            "hs%": "72%\n78%\n65%",
+            "kdr": "7\n5\n2",
+            "kills": "261",
+            "name": "Linysx",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.75\n0.87",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n30\n17\n13\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "105\n132\n74",
+            "hs%": "91%\n96%\n85%",
+            "kdr": "14\n10\n4",
+            "kills": "193",
+            "name": "Mauvaiz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "272",
+          "name": "cuppycake",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "112",
+          "name": "Dolph",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "162",
+          "name": "lykann",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "172",
+          "name": "casey",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "179",
+          "name": "mimii",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "276",
+          "name": "1001",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "210",
+          "name": "Linysx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "231",
+          "name": "Pichy",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "167",
+          "name": "pannyx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "140",
+          "name": "Mauvaiz",
+          "team": "GamDaeng"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.37\n1.11",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "156\n155\n156",
+            "hs%": "78%\n92%\n64%",
+            "kdr": "12\n10\n2",
+            "kills": "272",
+            "name": "cuppycake",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.15\n1.93\n0.31",
+            "adr": "+1\n+8\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "169\n248\n82",
+            "hs%": "74%\n83%\n64%",
+            "kdr": "9\n6\n3",
+            "kills": "112",
+            "name": "Dolph",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.89\n0.89\n0.90",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "116\n124\n108",
+            "hs%": "83%\n100%\n64%",
+            "kdr": "6\n2\n4",
+            "kills": "162",
+            "name": "lykann",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.81\n0.99\n0.62",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "115\n128\n102",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "2\n1\n1",
+            "kills": "172",
+            "name": "casey",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.54\n0.30\n0.79",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "70\n35\n108",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "4\n2\n2",
+            "kills": "179",
+            "name": "mimii",
+            "team": "Quintuplet"
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.44\n1.30",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "183\n167\n197",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "11\n6\n5",
+            "kills": "276",
+            "name": "1001",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.17\n1.58\n0.80",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "163\n181\n146",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "6\n4\n2",
+            "kills": "210",
+            "name": "Linysx",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.06\n1.13\n0.99",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "149\n129\n167",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "231",
+            "name": "Pichy",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.97\n1.11\n0.83",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "129\n142\n117",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "167",
+            "name": "pannyx",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.86\n1.03\n0.70",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "100\n126\n77",
+            "hs%": "87%\n100%\n75%",
+            "kdr": "5\n4\n1",
+            "kills": "140",
+            "name": "Mauvaiz",
+            "team": "GamDaeng"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 84450,
+  "teams": [
+    "GamDaeng",
+    "Quintuplet"
+  ],
+  "tournament": "Knockouts: \n\t\t\t\t\t\tDecider"
+}

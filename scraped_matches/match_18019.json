@@ -1,0 +1,594 @@
+{
+  "date": "2021-05-03 20:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "253",
+          "name": "d1msumboi",
+          "team": "Kooky Koalas"
+        },
+        {
+          "kills": "213",
+          "name": "Harmon",
+          "team": "Kooky Koalas"
+        },
+        {
+          "kills": "224",
+          "name": "SkrubbleBubble",
+          "team": "Kooky Koalas"
+        },
+        {
+          "kills": "116",
+          "name": "Ange",
+          "team": "Kooky Koalas"
+        },
+        {
+          "kills": "160",
+          "name": "ScrewFace",
+          "team": "Kooky Koalas"
+        },
+        {
+          "kills": "296",
+          "name": "GMAN",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "217",
+          "name": "Berghy",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "214",
+          "name": "Nanners",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "218",
+          "name": "riku",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "56",
+          "name": "wiLLzki",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.17\n1.36\n0.99",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "178\n188\n168",
+            "hs%": "63%\n83%\n42%",
+            "kdr": "6\n2\n4",
+            "kills": "253",
+            "name": "d1msumboi",
+            "team": "Kooky Koalas"
+          },
+          {
+            "acs": "1.13\n1.45\n0.81",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "152\n160\n144",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "213",
+            "name": "Harmon",
+            "team": "Kooky Koalas"
+          },
+          {
+            "acs": "1.08\n0.80\n1.36",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "133\n92\n174",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "224",
+            "name": "SkrubbleBubble",
+            "team": "Kooky Koalas"
+          },
+          {
+            "acs": "0.75\n0.96\n0.53",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "82\n88\n75",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "116",
+            "name": "Ange",
+            "team": "Kooky Koalas"
+          },
+          {
+            "acs": "0.70\n0.88\n0.51",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "97\n117\n77",
+            "hs%": "63%\n83%\n42%",
+            "kdr": "6\n2\n4",
+            "kills": "160",
+            "name": "ScrewFace",
+            "team": "Kooky Koalas"
+          }
+        ],
+        [
+          {
+            "acs": "1.65\n2.09\n1.20",
+            "adr": "+14\n+12\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "26\n17\n9",
+            "fk": "185\n248\n123",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "296",
+            "name": "GMAN",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.03\n0.97\n1.09",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "107\n94\n120",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "3\n3\n0",
+            "kills": "217",
+            "name": "Berghy",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.00\n1.34\n0.65",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "147\n195\n98",
+            "hs%": "75%\n92%\n58%",
+            "kdr": "11\n8\n3",
+            "kills": "214",
+            "name": "Nanners",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.90\n1.12\n0.69",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "135\n129\n141",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n6\n1",
+            "kills": "218",
+            "name": "riku",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.45\n0.58\n0.32",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "35\n36\n33",
+            "hs%": "63%\n75%\n50%",
+            "kdr": "7\n4\n3",
+            "kills": "56",
+            "name": "wiLLzki",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "185",
+          "name": "d1msumboi",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "Harmon",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "SkrubbleBubble",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Ange",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "ScrewFace",
+          "team": null
+        },
+        {
+          "kills": "349",
+          "name": "GMAN",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "riku",
+          "team": null
+        },
+        {
+          "kills": "244",
+          "name": "Nanners",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "Berghy",
+          "team": null
+        },
+        {
+          "kills": "88",
+          "name": "wiLLzki",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.86\n1.12\n0.99",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n33\n17\n16\n\n/",
+            "deaths": "34\n14\n20",
+            "fk": "132\n126\n138",
+            "hs%": "60%\n67%\n52%",
+            "kdr": "7\n3\n4",
+            "kills": "185",
+            "name": "d1msumboi",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.90\n0.98",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n35\n18\n17\n\n/",
+            "deaths": "28\n16\n12",
+            "fk": "132\n136\n128",
+            "hs%": "77%\n75%\n78%",
+            "kdr": "22\n10\n12",
+            "kills": "196",
+            "name": "Harmon",
+            "team": null
+          },
+          {
+            "acs": "0.70\n1.25\n0.97",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n36\n19\n17\n\n/",
+            "deaths": "34\n12\n22",
+            "fk": "133\n103\n164",
+            "hs%": "66%\n71%\n61%",
+            "kdr": "11\n7\n4",
+            "kills": "159",
+            "name": "SkrubbleBubble",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.77\n0.84",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n32\n16\n16\n\n/",
+            "deaths": "28\n17\n11",
+            "fk": "106\n123\n88",
+            "hs%": "70%\n79%\n61%",
+            "kdr": "11\n3\n8",
+            "kills": "179",
+            "name": "Ange",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.73\n0.80",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "30\n19\n11",
+            "fk": "112\n122\n102",
+            "hs%": "57%\n67%\n48%",
+            "kdr": "7\n3\n4",
+            "kills": "225",
+            "name": "ScrewFace",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.92\n1.17\n1.53",
+            "adr": "+19\n+17\n+2",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "44\n29\n15",
+            "fk": "170\n222\n121",
+            "hs%": "77%\n78%\n75%",
+            "kdr": "11\n3\n8",
+            "kills": "349",
+            "name": "GMAN",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.05\n1.01",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n31\n16\n15\n\n/",
+            "deaths": "35\n14\n21",
+            "fk": "137\n117\n156",
+            "hs%": "68%\n61%\n75%",
+            "kdr": "12\n8\n4",
+            "kills": "191",
+            "name": "riku",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.92\n0.99",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n34\n17\n17\n\n/",
+            "deaths": "35\n19\n16",
+            "fk": "136\n146\n127",
+            "hs%": "72%\n78%\n67%",
+            "kdr": "17\n11\n6",
+            "kills": "244",
+            "name": "Nanners",
+            "team": null
+          },
+          {
+            "acs": "0.68\n1.14\n0.91",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n34\n17\n17\n\n/",
+            "deaths": "34\n14\n20",
+            "fk": "101\n72\n130",
+            "hs%": "70%\n61%\n79%",
+            "kdr": "10\n3\n7",
+            "kills": "149",
+            "name": "Berghy",
+            "team": null
+          },
+          {
+            "acs": "0.54\n1.14\n0.85",
+            "adr": "-7\n-10\n+3",
+            "agent": "",
+            "assists": "/\n\n30\n16\n14\n\n/",
+            "deaths": "23\n6\n17",
+            "fk": "100\n59\n138",
+            "hs%": "68%\n61%\n75%",
+            "kdr": "12\n7\n5",
+            "kills": "88",
+            "name": "wiLLzki",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "146",
+          "name": "Ange",
+          "team": "Kooky Koalas"
+        },
+        {
+          "kills": "228",
+          "name": "ScrewFace",
+          "team": "Kooky Koalas"
+        },
+        {
+          "kills": "256",
+          "name": "SkrubbleBubble",
+          "team": "Kooky Koalas"
+        },
+        {
+          "kills": "206",
+          "name": "Harmon",
+          "team": "Kooky Koalas"
+        },
+        {
+          "kills": "271",
+          "name": "d1msumboi",
+          "team": "Kooky Koalas"
+        },
+        {
+          "kills": "179",
+          "name": "GMAN",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "324",
+          "name": "wiLLzki",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "269",
+          "name": "riku",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "257",
+          "name": "Nanners",
+          "team": "BASILISK"
+        },
+        {
+          "kills": "201",
+          "name": "Berghy",
+          "team": "BASILISK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.93\n0.84\n1.03",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "131\n157\n102",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "5\n0\n5",
+            "kills": "146",
+            "name": "Ange",
+            "team": "Kooky Koalas"
+          },
+          {
+            "acs": "0.91\n0.85\n0.97",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "128\n127\n128",
+            "hs%": "52%\n50%\n55%",
+            "kdr": "1\n1\n0",
+            "kills": "228",
+            "name": "ScrewFace",
+            "team": "Kooky Koalas"
+          },
+          {
+            "acs": "0.86\n0.60\n1.14",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "133\n114\n154",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "5\n4\n1",
+            "kills": "256",
+            "name": "SkrubbleBubble",
+            "team": "Kooky Koalas"
+          },
+          {
+            "acs": "0.83\n0.69\n0.98",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "111\n112\n110",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "16\n6\n10",
+            "kills": "206",
+            "name": "Harmon",
+            "team": "Kooky Koalas"
+          },
+          {
+            "acs": "0.79\n0.36\n1.26",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "84\n64\n106",
+            "hs%": "57%\n50%\n64%",
+            "kdr": "1\n1\n0",
+            "kills": "271",
+            "name": "d1msumboi",
+            "team": "Kooky Koalas"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.72\n1.13",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "155\n193\n119",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "9\n1\n8",
+            "kills": "179",
+            "name": "GMAN",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.27\n0.50\n1.97",
+            "adr": "+4\n-5\n+9",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "167\n85\n243",
+            "hs%": "74%\n45%\n100%",
+            "kdr": "5\n3\n2",
+            "kills": "324",
+            "name": "wiLLzki",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "1.12\n0.80\n1.41",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "139\n103\n171",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "269",
+            "name": "riku",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.99\n0.78\n1.19",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "126\n93\n156",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "257",
+            "name": "Nanners",
+            "team": "BASILISK"
+          },
+          {
+            "acs": "0.79\n0.35\n1.20",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "96\n49\n139",
+            "hs%": "74%\n45%\n100%",
+            "kdr": "7\n0\n7",
+            "kills": "201",
+            "name": "Berghy",
+            "team": "BASILISK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 18019,
+  "teams": [
+    "Kooky Koalas",
+    "BASILISK"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 16"
+}

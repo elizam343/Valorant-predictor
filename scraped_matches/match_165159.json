@@ -1,0 +1,788 @@
+{
+  "date": "2023-01-13 20:20:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "214",
+          "name": "brax",
+          "team": "The Nation"
+        },
+        {
+          "kills": "247",
+          "name": "Rossy",
+          "team": "The Nation"
+        },
+        {
+          "kills": "203",
+          "name": "TiGG",
+          "team": "The Nation"
+        },
+        {
+          "kills": "201",
+          "name": "Stewie2k",
+          "team": "The Nation"
+        },
+        {
+          "kills": "153",
+          "name": "WARDELL",
+          "team": "The Nation"
+        },
+        {
+          "kills": "322",
+          "name": "ZexRow",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "308",
+          "name": "Will",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "163",
+          "name": "Ange",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "171",
+          "name": "Trick",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "161",
+          "name": "Drone",
+          "team": "Dark Ratio"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.16\n0.86\n1.46",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "156\n152\n160",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "5\n3\n2",
+            "kills": "214",
+            "name": "brax",
+            "team": "The Nation"
+          },
+          {
+            "acs": "1.06\n0.68\n1.45",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "158\n116\n200",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "13\n5\n8",
+            "kills": "247",
+            "name": "Rossy",
+            "team": "The Nation"
+          },
+          {
+            "acs": "0.80\n0.73\n0.87",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "133\n123\n143",
+            "hs%": "73%\n54%\n92%",
+            "kdr": "10\n3\n7",
+            "kills": "203",
+            "name": "TiGG",
+            "team": "The Nation"
+          },
+          {
+            "acs": "0.69\n0.69\n0.69",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n24\n14\n10\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "141\n146\n136",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "5\n4\n1",
+            "kills": "201",
+            "name": "Stewie2k",
+            "team": "The Nation"
+          },
+          {
+            "acs": "0.66\n0.14\n1.17",
+            "adr": "-6\n-10\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "112\n44\n181",
+            "hs%": "69%\n46%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "153",
+            "name": "WARDELL",
+            "team": "The Nation"
+          }
+        ],
+        [
+          {
+            "acs": "1.62\n0.99\n2.25",
+            "adr": "+13\n-1\n+14",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "30\n8\n22",
+            "fk": "201\n105\n296",
+            "hs%": "73%\n62%\n85%",
+            "kdr": "5\n0\n5",
+            "kills": "322",
+            "name": "ZexRow",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "1.45\n1.15\n1.76",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "28\n12\n16",
+            "fk": "190\n152\n227",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "10\n4\n6",
+            "kills": "308",
+            "name": "Will",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "0.99\n1.09\n0.90",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "113\n142\n84",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "15\n9\n6",
+            "kills": "163",
+            "name": "Ange",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "0.86\n0.88\n0.85",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "111\n139\n82",
+            "hs%": "69%\n62%\n77%",
+            "kdr": "6\n4\n2",
+            "kills": "171",
+            "name": "Trick",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "0.81\n0.21\n1.40",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n19\n13\n6\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "103\n61\n145",
+            "hs%": "73%\n46%\n100%",
+            "kdr": "12\n3\n9",
+            "kills": "161",
+            "name": "Drone",
+            "team": "Dark Ratio"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "211",
+          "name": "brax",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "TiGG",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "Rossy",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "WARDELL",
+          "team": null
+        },
+        {
+          "kills": "236",
+          "name": "Stewie2k",
+          "team": null
+        },
+        {
+          "kills": "245",
+          "name": "Will",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "ZexRow",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "Ange",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "Trick",
+          "team": null
+        },
+        {
+          "kills": "122",
+          "name": "Drone",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.12\n1.10",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n48\n28\n20\n\n/",
+            "deaths": "54\n27\n27",
+            "fk": "139\n145\n134",
+            "hs%": "75%\n70%\n81%",
+            "kdr": "12\n7\n5",
+            "kills": "211",
+            "name": "brax",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.16\n1.08",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "55\n27\n28",
+            "fk": "146\n127\n165",
+            "hs%": "79%\n68%\n92%",
+            "kdr": "24\n13\n11",
+            "kills": "205",
+            "name": "TiGG",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.19\n1.03",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "50\n23\n27",
+            "fk": "131\n117\n145",
+            "hs%": "75%\n68%\n83%",
+            "kdr": "39\n14\n25",
+            "kills": "176",
+            "name": "Rossy",
+            "team": null
+          },
+          {
+            "acs": "0.68\n1.20\n0.94",
+            "adr": "-5\n-13\n+8",
+            "agent": "",
+            "assists": "/\n\n54\n31\n23\n\n/",
+            "deaths": "49\n18\n31",
+            "fk": "146\n113\n180",
+            "hs%": "74%\n68%\n81%",
+            "kdr": "23\n12\n11",
+            "kills": "162",
+            "name": "WARDELL",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.67\n0.85",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n57\n33\n24\n\n/",
+            "deaths": "48\n27\n21",
+            "fk": "144\n166\n122",
+            "hs%": "68%\n76%\n61%",
+            "kdr": "25\n16\n9",
+            "kills": "236",
+            "name": "Stewie2k",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n1.50\n1.31",
+            "adr": "+17\n+1\n+16",
+            "agent": "",
+            "assists": "/\n\n52\n28\n24\n\n/",
+            "deaths": "69\n29\n40",
+            "fk": "179\n155\n201",
+            "hs%": "78%\n72%\n84%",
+            "kdr": "20\n8\n12",
+            "kills": "245",
+            "name": "Will",
+            "team": null
+          },
+          {
+            "acs": "1.25\n1.37\n1.31",
+            "adr": "+19\n+7\n+12",
+            "agent": "",
+            "assists": "/\n\n52\n25\n27\n\n/",
+            "deaths": "71\n32\n39",
+            "fk": "168\n148\n187",
+            "hs%": "78%\n75%\n81%",
+            "kdr": "23\n9\n14",
+            "kills": "235",
+            "name": "ZexRow",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.05\n1.07",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n46\n25\n21\n\n/",
+            "deaths": "49\n25\n24",
+            "fk": "131\n134\n128",
+            "hs%": "74%\n81%\n68%",
+            "kdr": "29\n18\n11",
+            "kills": "205",
+            "name": "Ange",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.77\n0.80",
+            "adr": "-15\n-6\n-9",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "36\n20\n16",
+            "fk": "103\n108\n98",
+            "hs%": "68%\n69%\n68%",
+            "kdr": "26\n14\n12",
+            "kills": "162",
+            "name": "Trick",
+            "team": null
+          },
+          {
+            "acs": "0.49\n1.00\n0.75",
+            "adr": "-17\n-16\n-1",
+            "agent": "",
+            "assists": "/\n\n55\n31\n24\n\n/",
+            "deaths": "38\n15\n23",
+            "fk": "99\n82\n115",
+            "hs%": "70%\n56%\n84%",
+            "kdr": "34\n16\n18",
+            "kills": "122",
+            "name": "Drone",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "176",
+          "name": "brax",
+          "team": "The Nation"
+        },
+        {
+          "kills": "280",
+          "name": "WARDELL",
+          "team": "The Nation"
+        },
+        {
+          "kills": "214",
+          "name": "Stewie2k",
+          "team": "The Nation"
+        },
+        {
+          "kills": "269",
+          "name": "TiGG",
+          "team": "The Nation"
+        },
+        {
+          "kills": "177",
+          "name": "Rossy",
+          "team": "The Nation"
+        },
+        {
+          "kills": "372",
+          "name": "Will",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "200",
+          "name": "Ange",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "215",
+          "name": "ZexRow",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "101",
+          "name": "Drone",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "138",
+          "name": "Trick",
+          "team": "Dark Ratio"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.23\n1.48\n0.99",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "148\n176\n120",
+            "hs%": "88%\n83%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "176",
+            "name": "brax",
+            "team": "The Nation"
+          },
+          {
+            "acs": "1.21\n0.96\n1.46",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "178\n166\n191",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "7\n6\n1",
+            "kills": "280",
+            "name": "WARDELL",
+            "team": "The Nation"
+          },
+          {
+            "acs": "1.11\n1.09\n1.14",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "141\n137\n145",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "10\n6\n4",
+            "kills": "214",
+            "name": "Stewie2k",
+            "team": "The Nation"
+          },
+          {
+            "acs": "1.07\n0.62\n1.52",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "144\n94\n194",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "7\n5\n2",
+            "kills": "269",
+            "name": "TiGG",
+            "team": "The Nation"
+          },
+          {
+            "acs": "0.97\n0.82\n1.12",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "101\n93\n109",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "10\n1\n9",
+            "kills": "177",
+            "name": "Rossy",
+            "team": "The Nation"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n0.94\n1.85",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "199\n154\n245",
+            "hs%": "79%\n58%\n100%",
+            "kdr": "8\n3\n5",
+            "kills": "372",
+            "name": "Will",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "1.03\n0.87\n1.19",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "120\n120\n120",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "3\n3\n0",
+            "kills": "200",
+            "name": "Ange",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "0.87\n0.81\n0.94",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "112\n99\n126",
+            "hs%": "88%\n83%\n92%",
+            "kdr": "12\n7\n5",
+            "kills": "215",
+            "name": "ZexRow",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "0.72\n0.76\n0.67",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "90\n108\n72",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "9\n5\n4",
+            "kills": "101",
+            "name": "Drone",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "0.69\n0.67\n0.72",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "91\n67\n115",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "10\n3\n7",
+            "kills": "138",
+            "name": "Trick",
+            "team": "Dark Ratio"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "260",
+          "name": "TiGG",
+          "team": "The Nation"
+        },
+        {
+          "kills": "185",
+          "name": "Rossy",
+          "team": "The Nation"
+        },
+        {
+          "kills": "227",
+          "name": "WARDELL",
+          "team": "The Nation"
+        },
+        {
+          "kills": "177",
+          "name": "brax",
+          "team": "The Nation"
+        },
+        {
+          "kills": "217",
+          "name": "Stewie2k",
+          "team": "The Nation"
+        },
+        {
+          "kills": "303",
+          "name": "ZexRow",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "233",
+          "name": "Ange",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "237",
+          "name": "Will",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "162",
+          "name": "Trick",
+          "team": "Dark Ratio"
+        },
+        {
+          "kills": "148",
+          "name": "Drone",
+          "team": "Dark Ratio"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.69\n1.10",
+            "adr": "+7\n+8\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "162\n164\n159",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "7\n5\n2",
+            "kills": "260",
+            "name": "TiGG",
+            "team": "The Nation"
+          },
+          {
+            "acs": "1.05\n1.13\n0.97",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "131\n143\n119",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "16\n8\n8",
+            "kills": "185",
+            "name": "Rossy",
+            "team": "The Nation"
+          },
+          {
+            "acs": "0.97\n0.98\n0.96",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "151\n135\n169",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "11\n4\n7",
+            "kills": "227",
+            "name": "WARDELL",
+            "team": "The Nation"
+          },
+          {
+            "acs": "0.89\n0.91\n0.86",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "112\n107\n117",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "1\n1\n0",
+            "kills": "177",
+            "name": "brax",
+            "team": "The Nation"
+          },
+          {
+            "acs": "0.75\n1.31\n0.14",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "151\n217\n79",
+            "hs%": "57%\n75%\n36%",
+            "kdr": "10\n6\n4",
+            "kills": "217",
+            "name": "Stewie2k",
+            "team": "The Nation"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n2.03\n0.84",
+            "adr": "+9\n+11\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "26\n18\n8",
+            "fk": "189\n253\n130",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "303",
+            "name": "ZexRow",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "1.20\n1.34\n1.07",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "163\n139\n184",
+            "hs%": "74%\n91%\n58%",
+            "kdr": "11\n6\n5",
+            "kills": "233",
+            "name": "Ange",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "1.06\n1.27\n0.87",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "145\n162\n130",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "237",
+            "name": "Will",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "0.85\n0.99\n0.73",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "107\n115\n99",
+            "hs%": "74%\n91%\n58%",
+            "kdr": "10\n7\n3",
+            "kills": "162",
+            "name": "Trick",
+            "team": "Dark Ratio"
+          },
+          {
+            "acs": "0.72\n0.52\n0.91",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "102\n77\n125",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "13\n8\n5",
+            "kills": "148",
+            "name": "Drone",
+            "team": "Dark Ratio"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 165159,
+  "teams": [
+    "The Nation",
+    "Dark Ratio"
+  ],
+  "tournament": "Open Qualifier: Top 32: \n\t\t\t\t\t\tLower Round 6"
+}

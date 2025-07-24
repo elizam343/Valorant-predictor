@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-11 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "240",
+          "name": "azury",
+          "team": "frog munchers"
+        },
+        {
+          "kills": "219",
+          "name": "Eclipsq",
+          "team": "frog munchers"
+        },
+        {
+          "kills": "226",
+          "name": "Tendox",
+          "team": "frog munchers"
+        },
+        {
+          "kills": "150",
+          "name": "Snebbet",
+          "team": "frog munchers"
+        },
+        {
+          "kills": "175",
+          "name": "michey",
+          "team": "frog munchers"
+        },
+        {
+          "kills": "290",
+          "name": "Nille",
+          "team": "YONK"
+        },
+        {
+          "kills": "257",
+          "name": "Yacine",
+          "team": "YONK"
+        },
+        {
+          "kills": "246",
+          "name": "krea6on",
+          "team": "YONK"
+        },
+        {
+          "kills": "160",
+          "name": "bonkar",
+          "team": "YONK"
+        },
+        {
+          "kills": "173",
+          "name": "M4CHINA",
+          "team": "YONK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.34\n1.33\n1.35",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "156\n173\n135",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "240",
+            "name": "azury",
+            "team": "frog munchers"
+          },
+          {
+            "acs": "1.00\n0.94\n1.08",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "158\n163\n151",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "11\n4\n7",
+            "kills": "219",
+            "name": "Eclipsq",
+            "team": "frog munchers"
+          },
+          {
+            "acs": "0.94\n1.03\n0.81",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "147\n145\n149",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "226",
+            "name": "Tendox",
+            "team": "frog munchers"
+          },
+          {
+            "acs": "0.73\n0.46\n1.09",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "101\n73\n138",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "9\n2\n7",
+            "kills": "150",
+            "name": "Snebbet",
+            "team": "frog munchers"
+          },
+          {
+            "acs": "0.72\n0.65\n0.80",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "120\n133\n103",
+            "hs%": "57%\n58%\n56%",
+            "kdr": "2\n1\n1",
+            "kills": "175",
+            "name": "michey",
+            "team": "frog munchers"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n0.63\n2.08",
+            "adr": "+8\n-4\n+12",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "203\n134\n255",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "290",
+            "name": "Nille",
+            "team": "YONK"
+          },
+          {
+            "acs": "1.22\n0.99\n1.39",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "195\n178\n208",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "257",
+            "name": "Yacine",
+            "team": "YONK"
+          },
+          {
+            "acs": "1.08\n0.97\n1.16",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "162\n150\n172",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "246",
+            "name": "krea6on",
+            "team": "YONK"
+          },
+          {
+            "acs": "0.98\n1.45\n0.63",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "99\n132\n75",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "17\n7\n10",
+            "kills": "160",
+            "name": "bonkar",
+            "team": "YONK"
+          },
+          {
+            "acs": "0.84\n1.18\n0.58",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "115\n130\n104",
+            "hs%": "67%\n89%\n50%",
+            "kdr": "8\n7\n1",
+            "kills": "173",
+            "name": "M4CHINA",
+            "team": "YONK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "180",
+          "name": "azury",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "Eclipsq",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "Tendox",
+          "team": null
+        },
+        {
+          "kills": "136",
+          "name": "Snebbet",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "michey",
+          "team": null
+        },
+        {
+          "kills": "287",
+          "name": "Nille",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "Yacine",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "bonkar",
+          "team": null
+        },
+        {
+          "kills": "233",
+          "name": "krea6on",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "M4CHINA",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.95\n1.12\n1.01",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n29\n19\n10\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "129\n130\n129",
+            "hs%": "56%\n54%\n58%",
+            "kdr": "6\n4\n2",
+            "kills": "180",
+            "name": "azury",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.85\n0.84",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n31\n22\n9\n\n/",
+            "deaths": "19\n15\n4",
+            "fk": "130\n133\n125",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "13\n6\n7",
+            "kills": "208",
+            "name": "Eclipsq",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.61\n0.67",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n31\n21\n10\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "114\n110\n123",
+            "hs%": "53%\n54%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "163",
+            "name": "Tendox",
+            "team": null
+          },
+          {
+            "acs": "0.52\n0.82\n0.61",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n29\n21\n8\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "92\n85\n107",
+            "hs%": "53%\n50%\n58%",
+            "kdr": "10\n3\n7",
+            "kills": "136",
+            "name": "Snebbet",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.67\n0.60",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n31\n21\n10\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "104\n105\n102",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "155",
+            "name": "michey",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n1.79\n1.59",
+            "adr": "+20\n+2\n+18",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "36\n11\n25",
+            "fk": "189\n171\n198",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "287",
+            "name": "Nille",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.53\n1.38",
+            "adr": "+13\n+3\n+10",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "34\n11\n23",
+            "fk": "184\n167\n192",
+            "hs%": "81%\n83%\n79%",
+            "kdr": "8\n1\n7",
+            "kills": "243",
+            "name": "Yacine",
+            "team": null
+          },
+          {
+            "acs": "1.56\n1.10\n1.25",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "120\n145\n108",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "23\n9\n14",
+            "kills": "204",
+            "name": "bonkar",
+            "team": null
+          },
+          {
+            "acs": "1.24\n1.04\n1.10",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n23\n7\n16\n\n/",
+            "deaths": "33\n11\n22",
+            "fk": "154\n147\n157",
+            "hs%": "69%\n83%\n63%",
+            "kdr": "12\n7\n5",
+            "kills": "233",
+            "name": "krea6on",
+            "team": null
+          },
+          {
+            "acs": "1.19\n0.94\n1.02",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n22\n6\n16\n\n/",
+            "deaths": "26\n7\n19",
+            "fk": "135\n104\n151",
+            "hs%": "78%\n92%\n71%",
+            "kdr": "12\n9\n3",
+            "kills": "159",
+            "name": "M4CHINA",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "46",
+          "name": "Eclipsq",
+          "team": "frog munchers"
+        },
+        {
+          "kills": "151",
+          "name": "azury",
+          "team": "frog munchers"
+        },
+        {
+          "kills": "135",
+          "name": "michey",
+          "team": "frog munchers"
+        },
+        {
+          "kills": "14",
+          "name": "Snebbet",
+          "team": "frog munchers"
+        },
+        {
+          "kills": "42",
+          "name": "Tendox",
+          "team": "frog munchers"
+        },
+        {
+          "kills": "210",
+          "name": "Nille",
+          "team": "YONK"
+        },
+        {
+          "kills": "201",
+          "name": "bonkar",
+          "team": "YONK"
+        },
+        {
+          "kills": "279",
+          "name": "Yacine",
+          "team": "YONK"
+        },
+        {
+          "kills": "311",
+          "name": "M4CHINA",
+          "team": "YONK"
+        },
+        {
+          "kills": "194",
+          "name": "krea6on",
+          "team": "YONK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "0.62\n0.73\n0.15",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "91\n102\n46",
+            "hs%": "47%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "46",
+            "name": "Eclipsq",
+            "team": "frog munchers"
+          },
+          {
+            "acs": "0.54\n0.57\n0.42",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "92\n87\n111",
+            "hs%": "47%\n50%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "151",
+            "name": "azury",
+            "team": "frog munchers"
+          },
+          {
+            "acs": "0.44\n0.48\n0.28",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "81\n77\n98",
+            "hs%": "40%\n42%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "135",
+            "name": "michey",
+            "team": "frog munchers"
+          },
+          {
+            "acs": "0.44\n0.59\n0.02",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "80\n96\n15",
+            "hs%": "40%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "14",
+            "name": "Snebbet",
+            "team": "frog munchers"
+          },
+          {
+            "acs": "0.30\n0.41\n0.02",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "68\n75\n42",
+            "hs%": "40%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "42",
+            "name": "Tendox",
+            "team": "frog munchers"
+          }
+        ],
+        [
+          {
+            "acs": "1.78\n2.89\n1.50",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n4\n0\n4\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "169\n284\n140",
+            "hs%": "80%\n100%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "210",
+            "name": "Nille",
+            "team": "YONK"
+          },
+          {
+            "acs": "1.63\n1.86\n1.57",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n2\n0\n2\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "150\n185\n141",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "201",
+            "name": "bonkar",
+            "team": "YONK"
+          },
+          {
+            "acs": "1.59\n1.32\n1.66",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "168\n136\n176",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "279",
+            "name": "Yacine",
+            "team": "YONK"
+          },
+          {
+            "acs": "1.28\n1.24\n1.29",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "14\n1\n13",
+            "fk": "163\n26\n198",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "311",
+            "name": "M4CHINA",
+            "team": "YONK"
+          },
+          {
+            "acs": "1.14\n2.04\n0.91",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n0\n8\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "141\n138\n142",
+            "hs%": "73%\n100%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "194",
+            "name": "krea6on",
+            "team": "YONK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 62798,
+  "teams": [
+    "frog munchers",
+    "YONK"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 64"
+}

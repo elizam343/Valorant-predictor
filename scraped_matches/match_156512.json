@@ -1,0 +1,788 @@
+{
+  "date": "2022-11-11 20:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "291",
+          "name": "Yuwn",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "161",
+          "name": "Johnson",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "145",
+          "name": "lilac",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "165",
+          "name": "Ashkon",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "152",
+          "name": "Diamond",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "285",
+          "name": "infin8",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "277",
+          "name": "cook",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "237",
+          "name": "bblaro",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "230",
+          "name": "PotatonBacon",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "191",
+          "name": "ayr",
+          "team": "UNLV Scarlet"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.37\n0.89",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "195\n216\n152",
+            "hs%": "72%\n75%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "291",
+            "name": "Yuwn",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "0.77\n0.69\n0.91",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "114\n113\n117",
+            "hs%": "67%\n50%\n100%",
+            "kdr": "2\n0\n2",
+            "kills": "161",
+            "name": "Johnson",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "0.71\n1.12\n0.02",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "90\n120\n29",
+            "hs%": "50%\n67%\n17%",
+            "kdr": "3\n3\n0",
+            "kills": "145",
+            "name": "lilac",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "0.66\n0.93\n0.10",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "117\n143\n64",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "11\n8\n3",
+            "kills": "165",
+            "name": "Ashkon",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "0.54\n0.16\n1.32",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "80\n36\n169",
+            "hs%": "61%\n50%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "152",
+            "name": "Diamond",
+            "team": "CSUN Red"
+          }
+        ],
+        [
+          {
+            "acs": "1.63\n1.90\n1.49",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "167\n180\n160",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "14\n5\n9",
+            "kills": "285",
+            "name": "infin8",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "1.52\n2.39\n1.08",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "181\n273\n136",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "1\n1\n0",
+            "kills": "277",
+            "name": "cook",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "1.28\n0.83\n1.50",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "149\n58\n195",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "8\n2\n6",
+            "kills": "237",
+            "name": "bblaro",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "1.14\n1.35\n1.03",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "158\n181\n146",
+            "hs%": "83%\n100%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "230",
+            "name": "PotatonBacon",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "0.80\n0.64\n0.88",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "122\n130\n119",
+            "hs%": "83%\n67%\n92%",
+            "kdr": "12\n4\n8",
+            "kills": "191",
+            "name": "ayr",
+            "team": "UNLV Scarlet"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "209",
+          "name": "Johnson",
+          "team": null
+        },
+        {
+          "kills": "297",
+          "name": "lilac",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "Ashkon",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "Yuwn",
+          "team": null
+        },
+        {
+          "kills": "112",
+          "name": "Diamond",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "infin8",
+          "team": null
+        },
+        {
+          "kills": "257",
+          "name": "cook",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "ayr",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "bblaro",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "PotatonBacon",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.71\n1.45",
+            "adr": "+24\n+6\n+18",
+            "agent": "",
+            "assists": "/\n\n42\n20\n22\n\n/",
+            "deaths": "66\n26\n40",
+            "fk": "183\n146\n219",
+            "hs%": "81%\n71%\n91%",
+            "kdr": "9\n2\n7",
+            "kills": "209",
+            "name": "Johnson",
+            "team": null
+          },
+          {
+            "acs": "1.63\n0.98\n1.29",
+            "adr": "+14\n+14\n0",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "53\n33\n20",
+            "fk": "156\n186\n127",
+            "hs%": "71%\n74%\n69%",
+            "kdr": "19\n14\n5",
+            "kills": "297",
+            "name": "lilac",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.08\n0.99",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "46\n17\n29",
+            "fk": "139\n121\n157",
+            "hs%": "84%\n84%\n84%",
+            "kdr": "29\n17\n12",
+            "kills": "182",
+            "name": "Ashkon",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.86\n0.87",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "42\n20\n22",
+            "fk": "140\n136\n145",
+            "hs%": "67%\n71%\n63%",
+            "kdr": "15\n8\n7",
+            "kills": "202",
+            "name": "Yuwn",
+            "team": null
+          },
+          {
+            "acs": "0.55\n0.81\n0.68",
+            "adr": "-17\n-9\n-8",
+            "agent": "",
+            "assists": "/\n\n45\n21\n24\n\n/",
+            "deaths": "28\n12\n16",
+            "fk": "85\n68\n101",
+            "hs%": "71%\n65%\n78%",
+            "kdr": "24\n8\n16",
+            "kills": "112",
+            "name": "Diamond",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n1.28\n1.21",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n46\n26\n20\n\n/",
+            "deaths": "53\n25\n28",
+            "fk": "153\n161\n146",
+            "hs%": "71%\n72%\n71%",
+            "kdr": "25\n14\n11",
+            "kills": "243",
+            "name": "infin8",
+            "team": null
+          },
+          {
+            "acs": "1.34\n0.95\n1.15",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "51\n29\n22",
+            "fk": "153\n174\n131",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "18\n14\n4",
+            "kills": "257",
+            "name": "cook",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.84\n0.96",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "47\n28\n19",
+            "fk": "124\n126\n122",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "29\n15\n14",
+            "kills": "217",
+            "name": "ayr",
+            "team": null
+          },
+          {
+            "acs": "0.73\n1.14\n0.93",
+            "adr": "-1\n-8\n+7",
+            "agent": "",
+            "assists": "/\n\n43\n24\n19\n\n/",
+            "deaths": "42\n16\n26",
+            "fk": "117\n95\n139",
+            "hs%": "70%\n63%\n77%",
+            "kdr": "19\n10\n9",
+            "kills": "155",
+            "name": "bblaro",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.73\n0.65",
+            "adr": "-16\n-11\n-5",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "34\n17\n17",
+            "fk": "116\n112\n120",
+            "hs%": "68%\n69%\n68%",
+            "kdr": "16\n9\n7",
+            "kills": "164",
+            "name": "PotatonBacon",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "404",
+          "name": "Johnson",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "208",
+          "name": "lilac",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "265",
+          "name": "Ashkon",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "172",
+          "name": "Yuwn",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "78",
+          "name": "Diamond",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "217",
+          "name": "ayr",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "219",
+          "name": "cook",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "228",
+          "name": "infin8",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "155",
+          "name": "bblaro",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "148",
+          "name": "PotatonBacon",
+          "team": "UNLV Scarlet"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.68\n1.39\n1.96",
+            "adr": "+17\n+6\n+11",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "34\n13\n21",
+            "fk": "201\n160\n242",
+            "hs%": "86%\n79%\n93%",
+            "kdr": "4\n0\n4",
+            "kills": "404",
+            "name": "Johnson",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "1.49\n1.93\n1.06",
+            "adr": "+11\n+10\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "27\n18\n9",
+            "fk": "198\n256\n141",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "8\n7\n1",
+            "kills": "208",
+            "name": "lilac",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "1.04\n1.02\n1.07",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "127\n107\n147",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "8\n5\n3",
+            "kills": "265",
+            "name": "Ashkon",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "0.59\n0.49\n0.69",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "102\n79\n125",
+            "hs%": "61%\n64%\n57%",
+            "kdr": "9\n4\n5",
+            "kills": "172",
+            "name": "Yuwn",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "0.43\n0.62\n0.24",
+            "adr": "-13\n-2\n-11",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "66\n73\n59",
+            "hs%": "71%\n79%\n64%",
+            "kdr": "13\n5\n8",
+            "kills": "78",
+            "name": "Diamond",
+            "team": "CSUN Red"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.47\n0.93",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "125\n116\n134",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "12\n7\n5",
+            "kills": "217",
+            "name": "ayr",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "1.17\n1.30\n1.04",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "153\n160\n146",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "12\n9\n3",
+            "kills": "219",
+            "name": "cook",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "1.14\n1.26\n1.02",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "164\n186\n141",
+            "hs%": "64%\n71%\n57%",
+            "kdr": "9\n7\n2",
+            "kills": "228",
+            "name": "infin8",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "0.91\n0.98\n0.84",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "113\n126\n100",
+            "hs%": "64%\n64%\n64%",
+            "kdr": "7\n6\n1",
+            "kills": "155",
+            "name": "bblaro",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "0.48\n0.30\n0.65",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "98\n77\n119",
+            "hs%": "61%\n50%\n71%",
+            "kdr": "6\n3\n3",
+            "kills": "148",
+            "name": "PotatonBacon",
+            "team": "UNLV Scarlet"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "321",
+          "name": "Johnson",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "255",
+          "name": "lilac",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "266",
+          "name": "Ashkon",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "172",
+          "name": "Diamond",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "219",
+          "name": "Yuwn",
+          "team": "CSUN Red"
+        },
+        {
+          "kills": "183",
+          "name": "infin8",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "176",
+          "name": "cook",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "193",
+          "name": "ayr",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "152",
+          "name": "bblaro",
+          "team": "UNLV Scarlet"
+        },
+        {
+          "kills": "154",
+          "name": "PotatonBacon",
+          "team": "UNLV Scarlet"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.80\n1.76\n1.81",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "21\n5\n16",
+            "fk": "228\n190\n243",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "321",
+            "name": "Johnson",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "1.55\n1.99\n1.37",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "157\n148\n162",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "255",
+            "name": "lilac",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "1.25\n0.43\n1.59",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "15\n1\n14",
+            "fk": "183\n106\n215",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "10\n4\n6",
+            "kills": "266",
+            "name": "Ashkon",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "1.24\n1.30\n1.21",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "120\n130\n116",
+            "hs%": "82%\n60%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "172",
+            "name": "Diamond",
+            "team": "CSUN Red"
+          },
+          {
+            "acs": "0.97\n0.81\n1.04",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "146\n100\n165",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "219",
+            "name": "Yuwn",
+            "team": "CSUN Red"
+          }
+        ],
+        [
+          {
+            "acs": "0.87\n0.60\n1.52",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "122\n121\n127",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "2\n2\n0",
+            "kills": "183",
+            "name": "infin8",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "0.73\n0.88\n0.37",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "122\n140\n79",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "5\n4\n1",
+            "kills": "176",
+            "name": "cook",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "0.72\n0.81\n0.50",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "124\n135\n99",
+            "hs%": "59%\n58%\n60%",
+            "kdr": "5\n4\n1",
+            "kills": "193",
+            "name": "ayr",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "0.60\n0.39\n1.08",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "88\n77\n112",
+            "hs%": "59%\n50%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "152",
+            "name": "bblaro",
+            "team": "UNLV Scarlet"
+          },
+          {
+            "acs": "0.42\n0.52\n0.19",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "102\n118\n62",
+            "hs%": "65%\n75%\n40%",
+            "kdr": "4\n4\n0",
+            "kills": "154",
+            "name": "PotatonBacon",
+            "team": "UNLV Scarlet"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 156512,
+  "teams": [
+    "UNLV Scarlet",
+    "CSUN Red"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 32"
+}

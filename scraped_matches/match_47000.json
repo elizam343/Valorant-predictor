@@ -1,0 +1,982 @@
+{
+  "date": "2021-10-22 07:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "242",
+          "name": "Rexy",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "209",
+          "name": "rawfiul",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "172",
+          "name": "RvK",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "155",
+          "name": "hikkA",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "123",
+          "name": "Antidote",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "275",
+          "name": "rite2ace",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "234",
+          "name": "DEATHMAKER",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "189",
+          "name": "hellff",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "190",
+          "name": "Marzil",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "148",
+          "name": "Amaterasu",
+          "team": "Velocity Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.27\n1.12\n1.40",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "157\n116\n191",
+            "hs%": "82%\n100%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "242",
+            "name": "Rexy",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.93\n1.51\n0.44",
+            "adr": "-1\n+5\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "140\n193\n95",
+            "hs%": "59%\n70%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "209",
+            "name": "rawfiul",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.93\n0.80\n1.04",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "141\n99\n177",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "172",
+            "name": "RvK",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.85\n1.05\n0.68",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "110\n140\n85",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "155",
+            "name": "hikkA",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.54\n0.80\n0.32",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "95\n145\n53",
+            "hs%": "59%\n80%\n42%",
+            "kdr": "7\n4\n3",
+            "kills": "123",
+            "name": "Antidote",
+            "team": "Enigma Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.40\n1.28\n1.55",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "186\n185\n186",
+            "hs%": "91%\n92%\n90%",
+            "kdr": "10\n7\n3",
+            "kills": "275",
+            "name": "rite2ace",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "1.18\n1.64\n0.63",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "141\n167\n109",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "1\n0\n1",
+            "kills": "234",
+            "name": "DEATHMAKER",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "1.05\n1.17\n0.90",
+            "adr": "+2\n+6\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "133\n136\n129",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "8\n3\n5",
+            "kills": "189",
+            "name": "hellff",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.99\n1.04\n0.92",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "141\n152\n128",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "6\n5\n1",
+            "kills": "190",
+            "name": "Marzil",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.98\n1.03\n0.93",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "101\n94\n109",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "7\n6\n1",
+            "kills": "148",
+            "name": "Amaterasu",
+            "team": "Velocity Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "264",
+          "name": "rawfiul",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "Rexy",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "RvK",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "Antidote",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "hikkA",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "rite2ace",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "Marzil",
+          "team": null
+        },
+        {
+          "kills": "298",
+          "name": "DEATHMAKER",
+          "team": null
+        },
+        {
+          "kills": "218",
+          "name": "hellff",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "Amaterasu",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.00\n1.08",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n64\n38\n26\n\n/",
+            "deaths": "68\n41\n27",
+            "fk": "160\n164\n155",
+            "hs%": "68%\n65%\n73%",
+            "kdr": "9\n7\n2",
+            "kills": "264",
+            "name": "rawfiul",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.89\n0.88",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n55\n31\n24\n\n/",
+            "deaths": "48\n28\n20",
+            "fk": "128\n112\n152",
+            "hs%": "67%\n74%\n57%",
+            "kdr": "21\n11\n10",
+            "kills": "166",
+            "name": "Rexy",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.75\n0.87",
+            "adr": "-13\n-4\n-9",
+            "agent": "",
+            "assists": "/\n\n55\n32\n23\n\n/",
+            "deaths": "42\n28\n14",
+            "fk": "108\n109\n105",
+            "hs%": "67%\n72%\n60%",
+            "kdr": "15\n10\n5",
+            "kills": "167",
+            "name": "RvK",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.60\n0.86",
+            "adr": "-13\n0\n-13",
+            "agent": "",
+            "assists": "/\n\n53\n33\n20\n\n/",
+            "deaths": "40\n33\n7",
+            "fk": "119\n156\n63",
+            "hs%": "67%\n72%\n60%",
+            "kdr": "20\n13\n7",
+            "kills": "218",
+            "name": "Antidote",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.90\n0.79",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n59\n34\n25\n\n/",
+            "deaths": "46\n24\n22",
+            "fk": "115\n112\n118",
+            "hs%": "63%\n57%\n73%",
+            "kdr": "18\n11\n7",
+            "kills": "150",
+            "name": "hikkA",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.85\n1.56\n1.28",
+            "adr": "+22\n-4\n+26",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "66\n17\n49",
+            "fk": "154\n115\n180",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "23\n14\n9",
+            "kills": "161",
+            "name": "rite2ace",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.25\n1.19",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n49\n19\n30\n\n/",
+            "deaths": "62\n24\n38",
+            "fk": "161\n152\n166",
+            "hs%": "72%\n73%\n72%",
+            "kdr": "17\n9\n8",
+            "kills": "225",
+            "name": "Marzil",
+            "team": null
+          },
+          {
+            "acs": "1.47\n0.88\n1.11",
+            "adr": "+15\n+18\n-3",
+            "agent": "",
+            "assists": "/\n\n53\n18\n35\n\n/",
+            "deaths": "68\n36\n32",
+            "fk": "145\n182\n121",
+            "hs%": "68%\n73%\n65%",
+            "kdr": "8\n2\n6",
+            "kills": "298",
+            "name": "DEATHMAKER",
+            "team": null
+          },
+          {
+            "acs": "1.21\n0.81\n0.97",
+            "adr": "+4\n+13\n-9",
+            "agent": "",
+            "assists": "/\n\n46\n16\n30\n\n/",
+            "deaths": "50\n29\n21",
+            "fk": "119\n128\n113",
+            "hs%": "72%\n77%\n70%",
+            "kdr": "22\n5\n17",
+            "kills": "218",
+            "name": "hellff",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.73\n0.82",
+            "adr": "-12\n-2\n-10",
+            "agent": "",
+            "assists": "/\n\n52\n18\n34\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "108\n104\n111",
+            "hs%": "68%\n73%\n65%",
+            "kdr": "22\n10\n12",
+            "kills": "145",
+            "name": "Amaterasu",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "426",
+          "name": "rawfiul",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "236",
+          "name": "Rexy",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "147",
+          "name": "RvK",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "13",
+          "name": "Antidote",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "367",
+          "name": "hikkA",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "418",
+          "name": "Marzil",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "198",
+          "name": "rite2ace",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "135",
+          "name": "hellff",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "124",
+          "name": "Amaterasu",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "78",
+          "name": "DEATHMAKER",
+          "team": "Velocity Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.38\n1.00\n2.02",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "204\n175\n254",
+            "hs%": "74%\n58%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "426",
+            "name": "rawfiul",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "1.18\n1.22\n1.10",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "166\n163\n172",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "6\n1\n5",
+            "kills": "236",
+            "name": "Rexy",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "1.16\n1.18\n1.14",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "120\n136\n92",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "2\n1\n1",
+            "kills": "147",
+            "name": "RvK",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "1.15\n1.16\n1.14",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n9\n0\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "120\n189\n3",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "10\n7\n3",
+            "kills": "13",
+            "name": "Antidote",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "1.14\n0.82\n1.68",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "151\n121\n202",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "7\n4\n3",
+            "kills": "367",
+            "name": "hikkA",
+            "team": "Enigma Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n0.50\n2.01",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "20\n4\n16",
+            "fk": "213\n105\n276",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "418",
+            "name": "Marzil",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.90\n0.16\n1.33",
+            "adr": "-1\n-7\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "96\n37\n131",
+            "hs%": "58%\n43%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "198",
+            "name": "rite2ace",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.57\n0.45\n0.64",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "85\n58\n100",
+            "hs%": "47%\n29%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "135",
+            "name": "hellff",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.39\n0.40\n0.38",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "105\n116\n98",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "124",
+            "name": "Amaterasu",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.34\n0.41\n0.29",
+            "adr": "-10\n-2\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "71\n100\n54",
+            "hs%": "47%\n57%\n42%",
+            "kdr": "2\n1\n1",
+            "kills": "78",
+            "name": "DEATHMAKER",
+            "team": "Velocity Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "261",
+          "name": "Antidote",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "287",
+          "name": "rawfiul",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "165",
+          "name": "RvK",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "82",
+          "name": "Rexy",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "90",
+          "name": "hikkA",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "362",
+          "name": "rite2ace",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "256",
+          "name": "Amaterasu",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "220",
+          "name": "hellff",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "166",
+          "name": "Marzil",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "198",
+          "name": "DEATHMAKER",
+          "team": "Velocity Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.35\n0.66",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "181\n178\n192",
+            "hs%": "63%\n67%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "261",
+            "name": "Antidote",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "1.15\n1.07\n1.38",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "156\n143\n198",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "287",
+            "name": "rawfiul",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.59\n0.73\n0.18",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "89\n101\n54",
+            "hs%": "63%\n75%\n25%",
+            "kdr": "1\n1\n0",
+            "kills": "165",
+            "name": "RvK",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.29\n0.47\n0.01",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "70\n79\n40",
+            "hs%": "50%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "82",
+            "name": "Rexy",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.29\n0.33\n0.18",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "51\n55\n40",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "90",
+            "name": "hikkA",
+            "team": "Enigma Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.96\n1.32\n2.17",
+            "adr": "+14\n+1\n+13",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "22\n3\n19",
+            "fk": "235\n132\n269",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "362",
+            "name": "rite2ace",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "1.43\n1.90\n1.27",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n1\n9\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "180\n155\n188",
+            "hs%": "81%\n100%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "256",
+            "name": "Amaterasu",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "1.09\n2.42\n0.65",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "146\n259\n109",
+            "hs%": "81%\n100%\n75%",
+            "kdr": "10\n1\n9",
+            "kills": "220",
+            "name": "hellff",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "1.09\n1.15\n1.07",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "126\n138\n122",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "166",
+            "name": "Marzil",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.90\n0.80\n0.93",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "126\n124\n126",
+            "hs%": "50%\n25%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "198",
+            "name": "DEATHMAKER",
+            "team": "Velocity Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "227",
+          "name": "rawfiul",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "197",
+          "name": "hikkA",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "116",
+          "name": "RvK",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "134",
+          "name": "Antidote",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "154",
+          "name": "Rexy",
+          "team": "Enigma Gaming"
+        },
+        {
+          "kills": "417",
+          "name": "DEATHMAKER",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "257",
+          "name": "Marzil",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "190",
+          "name": "hellff",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "146",
+          "name": "rite2ace",
+          "team": "Velocity Gaming"
+        },
+        {
+          "kills": "74",
+          "name": "Amaterasu",
+          "team": "Velocity Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "0.91\n1.01\n0.73",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "143\n148\n135",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "2\n2\n0",
+            "kills": "227",
+            "name": "rawfiul",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.79\n0.71\n0.93",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "138\n139\n136",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "1\n1\n0",
+            "kills": "197",
+            "name": "hikkA",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.73\n1.05\n0.18",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "72\n99\n26",
+            "hs%": "53%\n58%\n43%",
+            "kdr": "5\n4\n1",
+            "kills": "116",
+            "name": "RvK",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.65\n0.74\n0.51",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "94\n110\n66",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "1\n0\n1",
+            "kills": "134",
+            "name": "Antidote",
+            "team": "Enigma Gaming"
+          },
+          {
+            "acs": "0.61\n0.80\n0.29",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "106\n92\n131",
+            "hs%": "63%\n75%\n43%",
+            "kdr": "4\n3\n1",
+            "kills": "154",
+            "name": "Rexy",
+            "team": "Enigma Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "2.00\n2.63\n1.63",
+            "adr": "+19\n+11\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "29\n14\n15",
+            "fk": "241\n323\n193",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "417",
+            "name": "DEATHMAKER",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "1.24\n1.74\n0.95",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "161\n209\n133",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "257",
+            "name": "Marzil",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "1.18\n1.35\n1.08",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "114\n110\n116",
+            "hs%": "79%\n100%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "190",
+            "name": "hellff",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.96\n0.56\n1.20",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "109\n63\n136",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "146",
+            "name": "rite2ace",
+            "team": "Velocity Gaming"
+          },
+          {
+            "acs": "0.54\n0.80\n0.38",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "61\n79\n50",
+            "hs%": "58%\n71%\n50%",
+            "kdr": "5\n1\n4",
+            "kills": "74",
+            "name": "Amaterasu",
+            "team": "Velocity Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 47000,
+  "teams": [
+    "Enigma Gaming",
+    "Velocity Gaming"
+  ],
+  "tournament": "Grand Final: \n\t\t\t\t\t\tGrand Final"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2021-12-20 21:20:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "381",
+          "name": "cheatcode",
+          "team": "Radiance"
+        },
+        {
+          "kills": "259",
+          "name": "venture",
+          "team": "Radiance"
+        },
+        {
+          "kills": "302",
+          "name": "FIEND",
+          "team": "Radiance"
+        },
+        {
+          "kills": "218",
+          "name": "sSef",
+          "team": "Radiance"
+        },
+        {
+          "kills": "168",
+          "name": "Rebo",
+          "team": "Radiance"
+        },
+        {
+          "kills": "243",
+          "name": "83Y0nd1357",
+          "team": "303 Esports"
+        },
+        {
+          "kills": "138",
+          "name": "NukeProphet",
+          "team": "303 Esports"
+        },
+        {
+          "kills": "124",
+          "name": "Hawk",
+          "team": "303 Esports"
+        },
+        {
+          "kills": "51",
+          "name": "JSauls",
+          "team": "303 Esports"
+        },
+        {
+          "kills": "38",
+          "name": "Lou",
+          "team": "303 Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "2.04\n2.52\n1.92",
+            "adr": "+13\n+4\n+9",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "233\n300\n217",
+            "hs%": "80%\n67%\n83%",
+            "kdr": "9\n0\n9",
+            "kills": "381",
+            "name": "cheatcode",
+            "team": "Radiance"
+          },
+          {
+            "acs": "1.68\n1.16\n1.81",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n4\n2\n2\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "161\n126\n170",
+            "hs%": "87%\n67%\n92%",
+            "kdr": "4\n0\n4",
+            "kills": "259",
+            "name": "venture",
+            "team": "Radiance"
+          },
+          {
+            "acs": "1.62\n0.96\n1.79",
+            "adr": "+10\n-1\n+11",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "16\n1\n15",
+            "fk": "195\n145\n207",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "302",
+            "name": "FIEND",
+            "team": "Radiance"
+          },
+          {
+            "acs": "1.51\n2.05\n1.37",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "143\n188\n132",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "218",
+            "name": "sSef",
+            "team": "Radiance"
+          },
+          {
+            "acs": "0.93\n0.42\n1.06",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "114\n66\n126",
+            "hs%": "87%\n67%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "168",
+            "name": "Rebo",
+            "team": "Radiance"
+          }
+        ],
+        [
+          {
+            "acs": "1.02\n0.96\n1.22",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "178\n174\n196",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "243",
+            "name": "83Y0nd1357",
+            "team": "303 Esports"
+          },
+          {
+            "acs": "0.55\n0.59\n0.37",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "87\n88\n82",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "138",
+            "name": "NukeProphet",
+            "team": "303 Esports"
+          },
+          {
+            "acs": "0.46\n0.36\n0.85",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "85\n58\n194",
+            "hs%": "47%\n42%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "124",
+            "name": "Hawk",
+            "team": "303 Esports"
+          },
+          {
+            "acs": "0.12\n0.03\n0.58",
+            "adr": "-12\n-11\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "2\n1\n1",
+            "fk": "41\n45\n28",
+            "hs%": "20%\n17%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "51",
+            "name": "JSauls",
+            "team": "303 Esports"
+          },
+          {
+            "acs": "0.03\n0.10\n0.01",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "2\n2\n0",
+            "fk": "22\n27",
+            "hs%": "33%\n42%",
+            "kdr": "2\n2\n0",
+            "kills": "38",
+            "name": "Lou",
+            "team": "303 Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "176",
+          "name": "venture",
+          "team": null
+        },
+        {
+          "kills": "438",
+          "name": "cheatcode",
+          "team": null
+        },
+        {
+          "kills": "348",
+          "name": "sSef",
+          "team": null
+        },
+        {
+          "kills": "250",
+          "name": "FIEND",
+          "team": null
+        },
+        {
+          "kills": "77",
+          "name": "Rebo",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "83Y0nd1357",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "NukeProphet",
+          "team": null
+        },
+        {
+          "kills": "132",
+          "name": "Hawk",
+          "team": null
+        },
+        {
+          "kills": "89",
+          "name": "Lou",
+          "team": null
+        },
+        {
+          "kills": "80",
+          "name": "JSauls",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.33\n2.07\n1.94",
+            "adr": "+24\n+2\n+22",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "32\n4\n28",
+            "fk": "196\n115\n213",
+            "hs%": "93%\n80%\n96%",
+            "kdr": "16\n1\n15",
+            "kills": "176",
+            "name": "venture",
+            "team": null
+          },
+          {
+            "acs": "2.16\n1.53\n1.64",
+            "adr": "+18\n+5\n+13",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "32\n8\n24",
+            "fk": "186\n235\n176",
+            "hs%": "86%\n80%\n88%",
+            "kdr": "11\n1\n10",
+            "kills": "438",
+            "name": "cheatcode",
+            "team": null
+          },
+          {
+            "acs": "2.41\n1.27\n1.47",
+            "adr": "+15\n+6\n+9",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "23\n7\n16",
+            "fk": "148\n212\n134",
+            "hs%": "83%\n100%\n79%",
+            "kdr": "9\n3\n6",
+            "kills": "348",
+            "name": "sSef",
+            "team": null
+          },
+          {
+            "acs": "1.34\n1.29\n1.30",
+            "adr": "+11\n0\n+11",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "25\n3\n22",
+            "fk": "163\n177\n160",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "12\n4\n8",
+            "kills": "250",
+            "name": "FIEND",
+            "team": null
+          },
+          {
+            "acs": "0.49\n1.37\n1.22",
+            "adr": "+11\n-1\n+12",
+            "agent": "",
+            "assists": "/\n\n16\n3\n13\n\n/",
+            "deaths": "27\n2\n25",
+            "fk": "141\n60\n157",
+            "hs%": "90%\n60%\n96%",
+            "kdr": "9\n1\n8",
+            "kills": "77",
+            "name": "Rebo",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.76\n0.75\n0.76",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n28\n23\n5\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "126\n125\n132",
+            "hs%": "45%\n46%\n40%",
+            "kdr": "4\n4\n0",
+            "kills": "178",
+            "name": "83Y0nd1357",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.56\n0.67",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n27\n22\n5\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "109\n109\n109",
+            "hs%": "52%\n46%\n80%",
+            "kdr": "3\n3\n0",
+            "kills": "173",
+            "name": "NukeProphet",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.51\n0.55",
+            "adr": "-15\n-13\n-2",
+            "agent": "",
+            "assists": "/\n\n27\n22\n5\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "93\n87\n122",
+            "hs%": "41%\n42%\n40%",
+            "kdr": "4\n3\n1",
+            "kills": "132",
+            "name": "Hawk",
+            "team": null
+          },
+          {
+            "acs": "0.31\n0.01\n0.21",
+            "adr": "-22\n-17\n-5",
+            "agent": "",
+            "assists": "/\n\n29\n24\n5\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "44\n53",
+            "hs%": "31%\n38%",
+            "kdr": "2\n2\n0",
+            "kills": "89",
+            "name": "Lou",
+            "team": null
+          },
+          {
+            "acs": "0.10\n0.59\n0.17",
+            "adr": "-21\n-19\n-2",
+            "agent": "",
+            "assists": "/\n\n28\n24\n4\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "61\n59\n70",
+            "hs%": "28%\n25%\n40%",
+            "kdr": "1\n1\n0",
+            "kills": "80",
+            "name": "JSauls",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "402",
+          "name": "venture",
+          "team": "Radiance"
+        },
+        {
+          "kills": "310",
+          "name": "Rebo",
+          "team": "Radiance"
+        },
+        {
+          "kills": "172",
+          "name": "sSef",
+          "team": "Radiance"
+        },
+        {
+          "kills": "185",
+          "name": "cheatcode",
+          "team": "Radiance"
+        },
+        {
+          "kills": "184",
+          "name": "FIEND",
+          "team": "Radiance"
+        },
+        {
+          "kills": "272",
+          "name": "NukeProphet",
+          "team": "303 Esports"
+        },
+        {
+          "kills": "15",
+          "name": "Hawk",
+          "team": "303 Esports"
+        },
+        {
+          "kills": "38",
+          "name": "83Y0nd1357",
+          "team": "303 Esports"
+        },
+        {
+          "kills": "111",
+          "name": "Lou",
+          "team": "303 Esports"
+        },
+        {
+          "kills": "169",
+          "name": "JSauls",
+          "team": "303 Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "2.23\n1.58\n2.33",
+            "adr": "+13\n+1\n+12",
+            "agent": "",
+            "assists": "/\n\n4\n0\n4\n\n/",
+            "deaths": "17\n1\n16",
+            "fk": "233\n98\n255",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "12\n1\n11",
+            "kills": "402",
+            "name": "venture",
+            "team": "Radiance"
+          },
+          {
+            "acs": "1.52\n0.59\n1.68",
+            "adr": "+9\n0\n+9",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "17\n1\n16",
+            "fk": "169\n51\n189",
+            "hs%": "93%\n50%\n100%",
+            "kdr": "6\n1\n5",
+            "kills": "310",
+            "name": "Rebo",
+            "team": "Radiance"
+          },
+          {
+            "acs": "1.42\n2.95\n1.17",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n4\n0\n4\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "152\n250\n136",
+            "hs%": "79%\n100%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "172",
+            "name": "sSef",
+            "team": "Radiance"
+          },
+          {
+            "acs": "1.21\n1.61\n1.15",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "136\n138\n136",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "185",
+            "name": "cheatcode",
+            "team": "Radiance"
+          },
+          {
+            "acs": "0.95\n1.91\n0.79",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "129\n225\n113",
+            "hs%": "71%\n100%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "184",
+            "name": "FIEND",
+            "team": "Radiance"
+          }
+        ],
+        [
+          {
+            "acs": "0.81\n0.81\n0.84",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "132\n130\n148",
+            "hs%": "50%\n42%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "272",
+            "name": "NukeProphet",
+            "team": "303 Esports"
+          },
+          {
+            "acs": "0.65\n0.81\n0.01",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "101\n116\n15",
+            "hs%": "36%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "15",
+            "name": "Hawk",
+            "team": "303 Esports"
+          },
+          {
+            "acs": "0.48\n0.56\n0.05",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "70\n75\n38",
+            "hs%": "36%\n42%",
+            "kdr": "3\n3\n0",
+            "kills": "38",
+            "name": "83Y0nd1357",
+            "team": "303 Esports"
+          },
+          {
+            "acs": "0.41\n0.51\n0.01",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "68\n79",
+            "hs%": "29%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "111",
+            "name": "Lou",
+            "team": "303 Esports"
+          },
+          {
+            "acs": "0.22\n0.16\n0.59",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "81\n73\n132",
+            "hs%": "36%\n33%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "169",
+            "name": "JSauls",
+            "team": "303 Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 60651,
+  "teams": [
+    "303 Esports",
+    "Radiance"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 16"
+}

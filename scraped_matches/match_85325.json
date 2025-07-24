@@ -1,0 +1,612 @@
+{
+  "date": "2022-04-10 05:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "224",
+          "name": "BumS",
+          "team": "Peeky Blinders"
+        },
+        {
+          "kills": "203",
+          "name": "Vito Scaletta",
+          "team": "Peeky Blinders"
+        },
+        {
+          "kills": "201",
+          "name": "pEnguin",
+          "team": "Peeky Blinders"
+        },
+        {
+          "kills": "112",
+          "name": "M1ru",
+          "team": "Peeky Blinders"
+        },
+        {
+          "kills": "83",
+          "name": "T2Le",
+          "team": "Peeky Blinders"
+        },
+        {
+          "kills": "332",
+          "name": "Loco",
+          "team": "VICTORY"
+        },
+        {
+          "kills": "230",
+          "name": "TRIPCIEW",
+          "team": "VICTORY"
+        },
+        {
+          "kills": "268",
+          "name": "Nh0zKon",
+          "team": "VICTORY"
+        },
+        {
+          "kills": "251",
+          "name": "Somethai",
+          "team": "VICTORY"
+        },
+        {
+          "kills": "131",
+          "name": "Louboutin",
+          "team": "VICTORY"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "0.91\n0.92\n0.90",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "144\n151\n141",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "224",
+            "name": "BumS",
+            "team": "Peeky Blinders"
+          },
+          {
+            "acs": "0.88\n1.25\n0.72",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "125\n112\n130",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "203",
+            "name": "Vito Scaletta",
+            "team": "Peeky Blinders"
+          },
+          {
+            "acs": "0.65\n0.66\n0.64",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n3\n13\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "119\n68\n141",
+            "hs%": "53%\n40%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "201",
+            "name": "pEnguin",
+            "team": "Peeky Blinders"
+          },
+          {
+            "acs": "0.41\n0.34\n0.45",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "75\n5\n105",
+            "hs%": "41%\n40%\n42%",
+            "kdr": "3\n2\n1",
+            "kills": "112",
+            "name": "M1ru",
+            "team": "Peeky Blinders"
+          },
+          {
+            "acs": "0.24\n0.35\n0.19",
+            "adr": "-12\n-4\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "4\n0\n4",
+            "fk": "55\n62\n52",
+            "hs%": "41%\n60%\n33%",
+            "kdr": "4\n2\n2",
+            "kills": "83",
+            "name": "T2Le",
+            "team": "Peeky Blinders"
+          }
+        ],
+        [
+          {
+            "acs": "1.59\n1.81\n1.05",
+            "adr": "+11\n+10\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "21\n16\n5",
+            "fk": "221\n232\n192",
+            "hs%": "88%\n92%\n80%",
+            "kdr": "2\n2\n0",
+            "kills": "332",
+            "name": "Loco",
+            "team": "VICTORY"
+          },
+          {
+            "acs": "1.55\n1.70\n1.19",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "164\n186\n109",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "2\n0\n2",
+            "kills": "230",
+            "name": "TRIPCIEW",
+            "team": "VICTORY"
+          },
+          {
+            "acs": "1.41\n1.20\n1.90",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "172\n144\n237",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "0\n0\n0",
+            "kills": "268",
+            "name": "Nh0zKon",
+            "team": "VICTORY"
+          },
+          {
+            "acs": "1.25\n1.45\n0.78",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "15\n14\n1",
+            "fk": "177\n229\n53",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "2\n2\n0",
+            "kills": "251",
+            "name": "Somethai",
+            "team": "VICTORY"
+          },
+          {
+            "acs": "0.77\n0.68\n0.99",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "77\n74\n82",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "131",
+            "name": "Louboutin",
+            "team": "VICTORY"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "197",
+          "name": "BumS",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "Vito Scaletta",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "pEnguin",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "M1ru",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "T2Le",
+          "team": null
+        },
+        {
+          "kills": "338",
+          "name": "Loco",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "TRIPCIEW",
+          "team": null
+        },
+        {
+          "kills": "257",
+          "name": "Nh0zKon",
+          "team": null
+        },
+        {
+          "kills": "327",
+          "name": "Somethai",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "1ccug",
+          "team": null
+        },
+        {
+          "kills": "154",
+          "name": "Louboutin",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.74\n1.12\n0.94",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n30\n14\n16\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "137\n126\n147",
+            "hs%": "64%\n59%\n68%",
+            "kdr": "7\n3\n4",
+            "kills": "197",
+            "name": "BumS",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.70\n0.81",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n30\n13\n17\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "121\n120\n121",
+            "hs%": "56%\n53%\n58%",
+            "kdr": "8\n2\n6",
+            "kills": "188",
+            "name": "Vito Scaletta",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.51\n0.62",
+            "adr": "-12\n-2\n-10",
+            "agent": "",
+            "assists": "/\n\n33\n13\n20\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "123\n118\n127",
+            "hs%": "50%\n47%\n53%",
+            "kdr": "6\n2\n4",
+            "kills": "187",
+            "name": "pEnguin",
+            "team": null
+          },
+          {
+            "acs": "0.62\n0.58\n0.60",
+            "adr": "-16\n-7\n-9",
+            "agent": "",
+            "assists": "/\n\n33\n15\n18\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "104\n97\n110",
+            "hs%": "50%\n53%\n47%",
+            "kdr": "5\n4\n1",
+            "kills": "151",
+            "name": "M1ru",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.37\n0.56",
+            "adr": "-17\n-6\n-11",
+            "agent": "",
+            "assists": "/\n\n32\n14\n18\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "98\n112\n85",
+            "hs%": "53%\n59%\n47%",
+            "kdr": "10\n5\n5",
+            "kills": "145",
+            "name": "T2Le",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.72\n1.13\n1.44",
+            "adr": "+14\n+13\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "36\n23\n13",
+            "fk": "194\n223\n162",
+            "hs%": "81%\n79%\n82%",
+            "kdr": "12\n3\n9",
+            "kills": "338",
+            "name": "Loco",
+            "team": null
+          },
+          {
+            "acs": "1.48\n1.36\n1.43",
+            "adr": "+13\n+9\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "27\n16\n11",
+            "fk": "132\n141\n122",
+            "hs%": "81%\n84%\n76%",
+            "kdr": "8\n1\n7",
+            "kills": "212",
+            "name": "TRIPCIEW",
+            "team": null
+          },
+          {
+            "acs": "1.23\n1.51\n1.36",
+            "adr": "+17\n+7\n+10",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "39\n19\n20",
+            "fk": "182\n168\n198",
+            "hs%": "81%\n79%\n82%",
+            "kdr": "6\n3\n3",
+            "kills": "257",
+            "name": "Nh0zKon",
+            "team": null
+          },
+          {
+            "acs": "1.45\n0.78\n1.25",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "15\n14\n1",
+            "fk": "177\n229\n53",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "2\n2\n0",
+            "kills": "327",
+            "name": "Somethai",
+            "team": null
+          },
+          {
+            "acs": "1.35\n1.20\n1.25",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "143\n113\n161",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "203",
+            "name": "1ccug",
+            "team": null
+          },
+          {
+            "acs": "0.71\n1.02\n0.86",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "109\n102\n117",
+            "hs%": "69%\n68%\n71%",
+            "kdr": "4\n2\n2",
+            "kills": "154",
+            "name": "Louboutin",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "238",
+          "name": "BumS",
+          "team": "Peeky Blinders"
+        },
+        {
+          "kills": "178",
+          "name": "T2Le",
+          "team": "Peeky Blinders"
+        },
+        {
+          "kills": "189",
+          "name": "M1ru",
+          "team": "Peeky Blinders"
+        },
+        {
+          "kills": "167",
+          "name": "Vito Scaletta",
+          "team": "Peeky Blinders"
+        },
+        {
+          "kills": "138",
+          "name": "pEnguin",
+          "team": "Peeky Blinders"
+        },
+        {
+          "kills": "207",
+          "name": "TRIPCIEW",
+          "team": "VICTORY"
+        },
+        {
+          "kills": "285",
+          "name": "Nh0zKon",
+          "team": "VICTORY"
+        },
+        {
+          "kills": "219",
+          "name": "Loco",
+          "team": "VICTORY"
+        },
+        {
+          "kills": "291",
+          "name": "1ccug",
+          "team": "VICTORY"
+        },
+        {
+          "kills": "162",
+          "name": "Louboutin",
+          "team": "VICTORY"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.97\n0.66\n1.49",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "130\n115\n157",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "5\n3\n2",
+            "kills": "238",
+            "name": "BumS",
+            "team": "Peeky Blinders"
+          },
+          {
+            "acs": "0.85\n0.95\n0.69",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "136\n133\n141",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "6\n3\n3",
+            "kills": "178",
+            "name": "T2Le",
+            "team": "Peeky Blinders"
+          },
+          {
+            "acs": "0.76\n0.74\n0.81",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "129\n135\n119",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "2\n2\n0",
+            "kills": "189",
+            "name": "M1ru",
+            "team": "Peeky Blinders"
+          },
+          {
+            "acs": "0.75\n0.79\n0.66",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "117\n123\n106",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "5\n2\n3",
+            "kills": "167",
+            "name": "Vito Scaletta",
+            "team": "Peeky Blinders"
+          },
+          {
+            "acs": "0.59\n0.77\n0.29",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "126\n139\n105",
+            "hs%": "47%\n50%\n43%",
+            "kdr": "3\n2\n1",
+            "kills": "138",
+            "name": "pEnguin",
+            "team": "Peeky Blinders"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n1.12\n1.44",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "103\n63\n127",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "207",
+            "name": "TRIPCIEW",
+            "team": "VICTORY"
+          },
+          {
+            "acs": "1.31\n1.26\n1.34",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "192\n209\n181",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "285",
+            "name": "Nh0zKon",
+            "team": "VICTORY"
+          },
+          {
+            "acs": "1.31\n1.57\n1.16",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "171\n206\n150",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "10\n1\n9",
+            "kills": "219",
+            "name": "Loco",
+            "team": "VICTORY"
+          },
+          {
+            "acs": "1.25\n1.35\n1.20",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "143\n113\n161",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "291",
+            "name": "1ccug",
+            "team": "VICTORY"
+          },
+          {
+            "acs": "0.94\n0.77\n1.04",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "138\n149\n132",
+            "hs%": "63%\n57%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "162",
+            "name": "Louboutin",
+            "team": "VICTORY"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 85325,
+  "teams": [
+    "Peeky Blinders",
+    "VICTORY"
+  ],
+  "tournament": "Round 1: \n\t\t\t\t\t\tDecider Match"
+}

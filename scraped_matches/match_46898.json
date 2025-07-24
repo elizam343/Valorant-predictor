@@ -1,0 +1,806 @@
+{
+  "date": "2021-10-19 01:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "428",
+          "name": "kawaa",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "191",
+          "name": "nolaken",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "212",
+          "name": "Kentrax",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "190",
+          "name": "SharaZee",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "172",
+          "name": "looM",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "288",
+          "name": "Lando",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "248",
+          "name": "grigio",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "190",
+          "name": "PataJones",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "150",
+          "name": "Limp",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "119",
+          "name": "nekoJ",
+          "team": "Macko Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.96\n2.08\n1.67",
+            "adr": "+15\n+13\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "27\n21\n6",
+            "fk": "268\n278\n244",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "3\n2\n1",
+            "kills": "428",
+            "name": "kawaa",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "1.19\n1.21\n1.13",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "134\n127\n151",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "4\n2\n2",
+            "kills": "191",
+            "name": "nolaken",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "1.12\n0.79\n1.91",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "144\n117\n209",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "6\n6\n0",
+            "kills": "212",
+            "name": "Kentrax",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "0.92\n0.83\n1.16",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "125\n134\n104",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "5\n5\n0",
+            "kills": "190",
+            "name": "SharaZee",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "0.72\n0.87\n0.35",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "130\n135\n117",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "8\n6\n2",
+            "kills": "172",
+            "name": "looM",
+            "team": "HMBLE"
+          }
+        ],
+        [
+          {
+            "acs": "1.30\n1.63\n1.17",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "191\n237\n173",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "288",
+            "name": "Lando",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "0.94\n1.11\n0.87",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "147\n166\n139",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "248",
+            "name": "grigio",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "0.83\n0.84\n0.83",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "125\n121\n127",
+            "hs%": "53%\n60%\n50%",
+            "kdr": "4\n1\n3",
+            "kills": "190",
+            "name": "PataJones",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "0.52\n0.03\n0.74",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "94\n37\n117",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "150",
+            "name": "Limp",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "0.41\n0.02\n0.62",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "86\n37\n107",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "119",
+            "name": "nekoJ",
+            "team": "Macko Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "246",
+          "name": "kawaa",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "looM",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "nolaken",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "Kentrax",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "SharaZee",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "Zoom",
+          "team": null
+        },
+        {
+          "kills": "342",
+          "name": "Lando",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "grigio",
+          "team": null
+        },
+        {
+          "kills": "109",
+          "name": "nekoJ",
+          "team": null
+        },
+        {
+          "kills": "256",
+          "name": "PataJones",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "Limp",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.93\n0.95\n0.93",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n47\n32\n15\n\n/",
+            "deaths": "44\n30\n14",
+            "fk": "156\n159\n150",
+            "hs%": "57%\n56%\n61%",
+            "kdr": "8\n6\n2",
+            "kills": "246",
+            "name": "kawaa",
+            "team": null
+          },
+          {
+            "acs": "1.11\n0.54\n0.92",
+            "adr": "-5\n+4\n-9",
+            "agent": "",
+            "assists": "/\n\n45\n29\n16\n\n/",
+            "deaths": "40\n33\n7",
+            "fk": "133\n152\n96",
+            "hs%": "76%\n83%\n61%",
+            "kdr": "17\n13\n4",
+            "kills": "248",
+            "name": "looM",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.14\n0.87",
+            "adr": "-12\n-10\n-2",
+            "agent": "",
+            "assists": "/\n\n47\n31\n16\n\n/",
+            "deaths": "35\n21\n14",
+            "fk": "133\n118\n162",
+            "hs%": "69%\n67%\n72%",
+            "kdr": "9\n4\n5",
+            "kills": "172",
+            "name": "nolaken",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.85\n0.87",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n43\n27\n16\n\n/",
+            "deaths": "35\n24\n11",
+            "fk": "127\n130\n120",
+            "hs%": "57%\n61%\n50%",
+            "kdr": "13\n11\n2",
+            "kills": "191",
+            "name": "Kentrax",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.70\n0.75",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n24\n16\n8\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "96\n102\n83",
+            "hs%": "60%\n67%\n45%",
+            "kdr": "11\n9\n2",
+            "kills": "152",
+            "name": "SharaZee",
+            "team": null
+          },
+          {
+            "acs": "0.62\n0.65\n0.63",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "95\n98\n89",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "2\n2\n0",
+            "kills": "156",
+            "name": "Zoom",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.73\n1.70\n1.71",
+            "adr": "+33\n+12\n+21",
+            "agent": "",
+            "assists": "/\n\n34\n12\n22\n\n/",
+            "deaths": "67\n24\n43",
+            "fk": "213\n202\n219",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "18\n8\n10",
+            "kills": "342",
+            "name": "Lando",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.16\n1.09",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n38\n12\n26\n\n/",
+            "deaths": "50\n15\n35",
+            "fk": "140\n129\n145",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "213",
+            "name": "grigio",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.09\n0.99",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n36\n11\n25\n\n/",
+            "deaths": "34\n7\n27",
+            "fk": "129\n90\n149",
+            "hs%": "85%\n89%\n83%",
+            "kdr": "30\n10\n20",
+            "kills": "109",
+            "name": "nekoJ",
+            "team": null
+          },
+          {
+            "acs": "1.30\n0.77\n0.94",
+            "adr": "0\n+8\n-8",
+            "agent": "",
+            "assists": "/\n\n36\n10\n26\n\n/",
+            "deaths": "36\n18\n18",
+            "fk": "120\n160\n100",
+            "hs%": "69%\n72%\n67%",
+            "kdr": "16\n2\n14",
+            "kills": "256",
+            "name": "PataJones",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.87\n0.90",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n38\n12\n26\n\n/",
+            "deaths": "37\n14\n23",
+            "fk": "132\n138\n129",
+            "hs%": "81%\n83%\n81%",
+            "kdr": "16\n6\n10",
+            "kills": "207",
+            "name": "Limp",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "81",
+          "name": "Kentrax",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "276",
+          "name": "nolaken",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "136",
+          "name": "looM",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "160",
+          "name": "Zoom",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "211",
+          "name": "kawaa",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "382",
+          "name": "Lando",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "282",
+          "name": "nekoJ",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "225",
+          "name": "Limp",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "285",
+          "name": "grigio",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "65",
+          "name": "PataJones",
+          "team": "Macko Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.88\n1.14\n0.45",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "12\n11\n1",
+            "fk": "134\n174\n66",
+            "hs%": "47%\n50%\n43%",
+            "kdr": "4\n2\n2",
+            "kills": "81",
+            "name": "Kentrax",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "0.81\n0.53\n1.30",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "142\n108\n199",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "4\n1\n3",
+            "kills": "276",
+            "name": "nolaken",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "0.77\n0.86\n0.63",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "123\n148\n79",
+            "hs%": "89%\n100%\n71%",
+            "kdr": "7\n5\n2",
+            "kills": "136",
+            "name": "looM",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "0.63\n0.62\n0.65",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "95\n98\n89",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "2\n2\n0",
+            "kills": "160",
+            "name": "Zoom",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "0.51\n0.32\n0.84",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "109\n99\n125",
+            "hs%": "42%\n33%\n57%",
+            "kdr": "2\n1\n1",
+            "kills": "211",
+            "name": "kawaa",
+            "team": "HMBLE"
+          }
+        ],
+        [
+          {
+            "acs": "1.65\n1.28\n1.86",
+            "adr": "+12\n+1\n+11",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "216\n168\n245",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "4\n3\n1",
+            "kills": "382",
+            "name": "Lando",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "1.39\n1.26\n1.46",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "164\n137\n180",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "16\n6\n10",
+            "kills": "282",
+            "name": "nekoJ",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "1.27\n1.55\n1.11",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "186\n226\n162",
+            "hs%": "89%\n100%\n83%",
+            "kdr": "12\n4\n8",
+            "kills": "225",
+            "name": "Limp",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "1.02\n0.29\n1.45",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "115\n47\n154",
+            "hs%": "63%\n43%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "285",
+            "name": "grigio",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "1.02\n1.94\n0.48",
+            "adr": "+3\n+7\n-4",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "119\n233\n53",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "65",
+            "name": "PataJones",
+            "team": "Macko Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "looM",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "192",
+          "name": "nolaken",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "164",
+          "name": "Kentrax",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "95",
+          "name": "SharaZee",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "146",
+          "name": "kawaa",
+          "team": "HMBLE"
+        },
+        {
+          "kills": "384",
+          "name": "Lando",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "256",
+          "name": "grigio",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "184",
+          "name": "nekoJ",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "188",
+          "name": "PataJones",
+          "team": "Macko Esports"
+        },
+        {
+          "kills": "150",
+          "name": "Limp",
+          "team": "Macko Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.27\n1.60\n0.59",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "147\n172\n97",
+            "hs%": "67%\n75%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "245",
+            "name": "looM",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "0.64\n0.47\n0.97",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n13\n5\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "122\n118\n129",
+            "hs%": "61%\n58%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "192",
+            "name": "nolaken",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "0.61\n0.68\n0.45",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "103\n100\n110",
+            "hs%": "44%\n50%\n33%",
+            "kdr": "3\n3\n0",
+            "kills": "164",
+            "name": "Kentrax",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "0.59\n0.72\n0.32",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "69\n71\n66",
+            "hs%": "44%\n50%\n33%",
+            "kdr": "6\n4\n2",
+            "kills": "95",
+            "name": "SharaZee",
+            "team": "HMBLE"
+          },
+          {
+            "acs": "0.42\n0.39\n0.47",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "101\n101\n101",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "146",
+            "name": "kawaa",
+            "team": "HMBLE"
+          }
+        ],
+        [
+          {
+            "acs": "2.17\n2.35\n2.08",
+            "adr": "+18\n+8\n+10",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "26\n10\n16",
+            "fk": "230\n212\n239",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "9\n3\n6",
+            "kills": "384",
+            "name": "Lando",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "1.32\n1.60\n1.18",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "159\n194\n142",
+            "hs%": "67%\n83%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "256",
+            "name": "grigio",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "1.13\n0.99\n1.20",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "132\n78\n159",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "9\n3\n6",
+            "kills": "184",
+            "name": "nekoJ",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "0.97\n0.94\n0.99",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "117\n108\n122",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "8\n0\n8",
+            "kills": "188",
+            "name": "PataJones",
+            "team": "Macko Esports"
+          },
+          {
+            "acs": "0.86\n1.06\n0.76",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "111\n118\n108",
+            "hs%": "83%\n67%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "150",
+            "name": "Limp",
+            "team": "Macko Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 46898,
+  "teams": [
+    "Macko Esports",
+    "HMBLE"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tOpening (B)"
+}

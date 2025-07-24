@@ -1,0 +1,594 @@
+{
+  "date": "2022-05-20 04:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "293",
+          "name": "WRONSKI",
+          "team": "ORDER"
+        },
+        {
+          "kills": "249",
+          "name": "rDeeW",
+          "team": "ORDER"
+        },
+        {
+          "kills": "221",
+          "name": "Texta",
+          "team": "ORDER"
+        },
+        {
+          "kills": "197",
+          "name": "disk0",
+          "team": "ORDER"
+        },
+        {
+          "kills": "186",
+          "name": "Maple",
+          "team": "ORDER"
+        },
+        {
+          "kills": "275",
+          "name": "signed",
+          "team": "BOBO"
+        },
+        {
+          "kills": "239",
+          "name": "Dragon",
+          "team": "BOBO"
+        },
+        {
+          "kills": "195",
+          "name": "skrawl",
+          "team": "BOBO"
+        },
+        {
+          "kills": "154",
+          "name": "tixx",
+          "team": "BOBO"
+        },
+        {
+          "kills": "123",
+          "name": "Nozz",
+          "team": "BOBO"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.45\n1.22",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "186\n199\n168",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "293",
+            "name": "WRONSKI",
+            "team": "ORDER"
+          },
+          {
+            "acs": "1.24\n0.75\n1.91",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "149\n115\n194",
+            "hs%": "71%\n58%\n89%",
+            "kdr": "5\n2\n3",
+            "kills": "249",
+            "name": "rDeeW",
+            "team": "ORDER"
+          },
+          {
+            "acs": "1.23\n1.04\n1.47",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "136\n114\n165",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "15\n7\n8",
+            "kills": "221",
+            "name": "Texta",
+            "team": "ORDER"
+          },
+          {
+            "acs": "1.05\n1.21\n0.84",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "121\n139\n97",
+            "hs%": "86%\n100%\n67%",
+            "kdr": "10\n6\n4",
+            "kills": "197",
+            "name": "disk0",
+            "team": "ORDER"
+          },
+          {
+            "acs": "0.97\n0.69\n1.34",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "133\n136\n129",
+            "hs%": "71%\n58%\n89%",
+            "kdr": "10\n6\n4",
+            "kills": "186",
+            "name": "Maple",
+            "team": "ORDER"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n0.96\n1.41",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "187\n170\n200",
+            "hs%": "81%\n67%\n92%",
+            "kdr": "9\n1\n8",
+            "kills": "275",
+            "name": "signed",
+            "team": "BOBO"
+          },
+          {
+            "acs": "0.95\n0.38\n1.38",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "141\n93\n178",
+            "hs%": "62%\n44%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "239",
+            "name": "Dragon",
+            "team": "BOBO"
+          },
+          {
+            "acs": "0.84\n1.26\n0.53",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "122\n163\n91",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "195",
+            "name": "skrawl",
+            "team": "BOBO"
+          },
+          {
+            "acs": "0.76\n0.25\n1.14",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "101\n43\n144",
+            "hs%": "48%\n56%\n42%",
+            "kdr": "10\n7\n3",
+            "kills": "154",
+            "name": "tixx",
+            "team": "BOBO"
+          },
+          {
+            "acs": "0.54\n0.47\n0.60",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "88\n87\n88",
+            "hs%": "67%\n44%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "123",
+            "name": "Nozz",
+            "team": "BOBO"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "347",
+          "name": "WRONSKI",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "rDeeW",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Texta",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "disk0",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "Maple",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "signed",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "tixx",
+          "team": null
+        },
+        {
+          "kills": "259",
+          "name": "Dragon",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "skrawl",
+          "team": null
+        },
+        {
+          "kills": "128",
+          "name": "Nozz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.61\n0.93\n1.29",
+            "adr": "+15\n+16\n-1",
+            "agent": "",
+            "assists": "/\n\n36\n18\n18\n\n/",
+            "deaths": "51\n34\n17",
+            "fk": "189\n229\n144",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "347",
+            "name": "WRONSKI",
+            "team": null
+          },
+          {
+            "acs": "1.13\n1.29\n1.20",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n30\n16\n14\n\n/",
+            "deaths": "42\n22\n20",
+            "fk": "133\n127\n139",
+            "hs%": "73%\n74%\n71%",
+            "kdr": "9\n3\n6",
+            "kills": "208",
+            "name": "rDeeW",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.07\n1.03",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n34\n17\n17\n\n/",
+            "deaths": "35\n16\n19",
+            "fk": "122\n109\n137",
+            "hs%": "73%\n74%\n71%",
+            "kdr": "27\n15\n12",
+            "kills": "173",
+            "name": "Texta",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.89\n1.00",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n35\n17\n18\n\n/",
+            "deaths": "34\n20\n14",
+            "fk": "114\n124\n104",
+            "hs%": "71%\n78%\n63%",
+            "kdr": "18\n12\n6",
+            "kills": "200",
+            "name": "disk0",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.04\n1.00",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n35\n18\n17\n\n/",
+            "deaths": "33\n16\n17",
+            "fk": "139\n142\n134",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "15\n9\n6",
+            "kills": "191",
+            "name": "Maple",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n1.06\n1.06",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n39\n18\n21\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "142\n139\n145",
+            "hs%": "76%\n79%\n74%",
+            "kdr": "12\n2\n10",
+            "kills": "227",
+            "name": "signed",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.23\n1.05",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n38\n16\n22\n\n/",
+            "deaths": "37\n13\n24",
+            "fk": "136\n94\n174",
+            "hs%": "63%\n75%\n52%",
+            "kdr": "18\n13\n5",
+            "kills": "150",
+            "name": "tixx",
+            "team": null
+          },
+          {
+            "acs": "1.10\n0.85\n0.97",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n42\n19\n23\n\n/",
+            "deaths": "41\n20\n21",
+            "fk": "156\n175\n139",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "8\n7\n1",
+            "kills": "259",
+            "name": "Dragon",
+            "team": null
+          },
+          {
+            "acs": "1.15\n0.69\n0.91",
+            "adr": "-3\n+4\n-7",
+            "agent": "",
+            "assists": "/\n\n37\n16\n21\n\n/",
+            "deaths": "34\n20\n14",
+            "fk": "120\n138\n104",
+            "hs%": "63%\n67%\n59%",
+            "kdr": "6\n4\n2",
+            "kills": "221",
+            "name": "skrawl",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.43\n0.50",
+            "adr": "-20\n-8\n-12",
+            "agent": "",
+            "assists": "/\n\n39\n18\n21\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "85\n92\n79",
+            "hs%": "61%\n58%\n63%",
+            "kdr": "9\n3\n6",
+            "kills": "128",
+            "name": "Nozz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "176",
+          "name": "WRONSKI",
+          "team": "ORDER"
+        },
+        {
+          "kills": "158",
+          "name": "rDeeW",
+          "team": "ORDER"
+        },
+        {
+          "kills": "206",
+          "name": "Maple",
+          "team": "ORDER"
+        },
+        {
+          "kills": "171",
+          "name": "disk0",
+          "team": "ORDER"
+        },
+        {
+          "kills": "193",
+          "name": "Texta",
+          "team": "ORDER"
+        },
+        {
+          "kills": "290",
+          "name": "tixx",
+          "team": "BOBO"
+        },
+        {
+          "kills": "148",
+          "name": "Dragon",
+          "team": "BOBO"
+        },
+        {
+          "kills": "166",
+          "name": "signed",
+          "team": "BOBO"
+        },
+        {
+          "kills": "176",
+          "name": "skrawl",
+          "team": "BOBO"
+        },
+        {
+          "kills": "103",
+          "name": "Nozz",
+          "team": "BOBO"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.74\n0.76",
+            "adr": "+7\n+10\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "28\n19\n9",
+            "fk": "192\n254\n130",
+            "hs%": "70%\n80%\n60%",
+            "kdr": "5\n2\n3",
+            "kills": "176",
+            "name": "WRONSKI",
+            "team": "ORDER"
+          },
+          {
+            "acs": "1.18\n1.44\n0.91",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "121\n137\n105",
+            "hs%": "73%\n87%\n60%",
+            "kdr": "4\n1\n3",
+            "kills": "158",
+            "name": "rDeeW",
+            "team": "ORDER"
+          },
+          {
+            "acs": "1.02\n1.17\n0.86",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n9\n13\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "143\n147\n138",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "206",
+            "name": "Maple",
+            "team": "ORDER"
+          },
+          {
+            "acs": "0.96\n0.99\n0.93",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "110\n112\n108",
+            "hs%": "60%\n60%\n60%",
+            "kdr": "8\n6\n2",
+            "kills": "171",
+            "name": "disk0",
+            "team": "ORDER"
+          },
+          {
+            "acs": "0.89\n0.95\n0.83",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "113\n106\n120",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "12\n8\n4",
+            "kills": "193",
+            "name": "Texta",
+            "team": "ORDER"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.20\n1.31",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "27\n12\n15",
+            "fk": "161\n125\n197",
+            "hs%": "73%\n87%\n60%",
+            "kdr": "8\n6\n2",
+            "kills": "290",
+            "name": "tixx",
+            "team": "BOBO"
+          },
+          {
+            "acs": "0.98\n1.53\n0.42",
+            "adr": "-1\n+6\n-7",
+            "agent": "",
+            "assists": "/\n\n24\n10\n14\n\n/",
+            "deaths": "23\n16\n7",
+            "fk": "166\n224\n108",
+            "hs%": "67%\n80%\n53%",
+            "kdr": "8\n7\n1",
+            "kills": "148",
+            "name": "Dragon",
+            "team": "BOBO"
+          },
+          {
+            "acs": "0.96\n1.13\n0.78",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "110\n120\n101",
+            "hs%": "73%\n87%\n60%",
+            "kdr": "3\n1\n2",
+            "kills": "166",
+            "name": "signed",
+            "team": "BOBO"
+          },
+          {
+            "acs": "0.95\n1.09\n0.81",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "119\n123\n115",
+            "hs%": "63%\n67%\n60%",
+            "kdr": "3\n3\n0",
+            "kills": "176",
+            "name": "skrawl",
+            "team": "BOBO"
+          },
+          {
+            "acs": "0.46\n0.63\n0.29",
+            "adr": "-13\n-4\n-9",
+            "agent": "",
+            "assists": "/\n\n23\n10\n13\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "84\n96\n72",
+            "hs%": "57%\n67%\n47%",
+            "kdr": "6\n3\n3",
+            "kills": "103",
+            "name": "Nozz",
+            "team": "BOBO"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 99476,
+  "teams": [
+    "ORDER",
+    "BOBO"
+  ],
+  "tournament": "Regional Playoffs: \n\t\t\t\t\t\tUpper Bracket Final"
+}

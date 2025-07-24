@@ -1,0 +1,788 @@
+{
+  "date": "2022-12-20 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "263",
+          "name": "khanartist",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "229",
+          "name": "monSi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "163",
+          "name": "d1msumboi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "140",
+          "name": "fletcher",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "138",
+          "name": "BlackHeart",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "281",
+          "name": "miniature",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "244",
+          "name": "Winsum",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "215",
+          "name": "x0tek",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "192",
+          "name": "Potatoe",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "190",
+          "name": "Ksiaze",
+          "team": "Mad Science"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.49\n0.74",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "148\n185\n117",
+            "hs%": "59%\n70%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "263",
+            "name": "khanartist",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "1.00\n0.85\n1.12",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "146\n98\n185",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "12\n7\n5",
+            "kills": "229",
+            "name": "monSi",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.87\n0.81\n0.92",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "117\n111\n122",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "163",
+            "name": "d1msumboi",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.72\n0.99\n0.49",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "83\n101\n69",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "11\n5\n6",
+            "kills": "140",
+            "name": "fletcher",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.64\n0.71\n0.58",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "101\n110\n93",
+            "hs%": "73%\n90%\n58%",
+            "kdr": "7\n6\n1",
+            "kills": "138",
+            "name": "BlackHeart",
+            "team": "The Silk Road"
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.99\n0.90",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "186\n242\n118",
+            "hs%": "86%\n92%\n80%",
+            "kdr": "10\n10\n0",
+            "kills": "281",
+            "name": "miniature",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "1.36\n1.49\n1.21",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "144\n158\n126",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "2\n1\n1",
+            "kills": "244",
+            "name": "Winsum",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "1.01\n1.29\n0.67",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "143\n131\n157",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "13\n6\n7",
+            "kills": "215",
+            "name": "x0tek",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "0.97\n0.74\n1.25",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "118\n90\n152",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "11\n7\n4",
+            "kills": "192",
+            "name": "Potatoe",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "0.88\n0.65\n1.14",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "130\n85\n183",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "2\n1\n1",
+            "kills": "190",
+            "name": "Ksiaze",
+            "team": "Mad Science"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "228",
+          "name": "BlackHeart",
+          "team": null
+        },
+        {
+          "kills": "237",
+          "name": "khanartist",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "fletcher",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "d1msumboi",
+          "team": null
+        },
+        {
+          "kills": "136",
+          "name": "monSi",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "miniature",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "Winsum",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "Ksiaze",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "Potatoe",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "x0tek",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.13\n1.17",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n41\n15\n26\n\n/",
+            "deaths": "47\n17\n30",
+            "fk": "157\n154\n160",
+            "hs%": "78%\n86%\n72%",
+            "kdr": "16\n11\n5",
+            "kills": "228",
+            "name": "BlackHeart",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.14\n1.12",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n41\n17\n24\n\n/",
+            "deaths": "49\n20\n29",
+            "fk": "142\n143\n141",
+            "hs%": "69%\n68%\n69%",
+            "kdr": "10\n4\n6",
+            "kills": "237",
+            "name": "khanartist",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.84\n0.95",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n42\n16\n26\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "124\n131\n120",
+            "hs%": "72%\n73%\n72%",
+            "kdr": "26\n13\n13",
+            "kills": "223",
+            "name": "fletcher",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.82\n0.91",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n41\n14\n27\n\n/",
+            "deaths": "35\n14\n21",
+            "fk": "114\n123\n109",
+            "hs%": "67%\n68%\n67%",
+            "kdr": "12\n6\n6",
+            "kills": "183",
+            "name": "d1msumboi",
+            "team": null
+          },
+          {
+            "acs": "0.73\n1.00\n0.90",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n42\n16\n26\n\n/",
+            "deaths": "34\n10\n24",
+            "fk": "116\n74\n142",
+            "hs%": "72%\n73%\n72%",
+            "kdr": "33\n15\n18",
+            "kills": "136",
+            "name": "monSi",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n0.90\n1.09",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n45\n28\n17\n\n/",
+            "deaths": "45\n28\n17",
+            "fk": "160\n176\n134",
+            "hs%": "78%\n78%\n77%",
+            "kdr": "16\n15\n1",
+            "kills": "262",
+            "name": "miniature",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.20\n1.06",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n39\n26\n13\n\n/",
+            "deaths": "42\n26\n16",
+            "fk": "125\n114\n142",
+            "hs%": "71%\n72%\n68%",
+            "kdr": "15\n13\n2",
+            "kills": "187",
+            "name": "Winsum",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.17\n1.05",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n40\n23\n17\n\n/",
+            "deaths": "45\n24\n21",
+            "fk": "143\n124\n172",
+            "hs%": "66%\n67%\n64%",
+            "kdr": "6\n4\n2",
+            "kills": "187",
+            "name": "Ksiaze",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.99\n1.01",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n38\n24\n14\n\n/",
+            "deaths": "42\n28\n14",
+            "fk": "119\n110\n135",
+            "hs%": "79%\n81%\n77%",
+            "kdr": "24\n16\n8",
+            "kills": "194",
+            "name": "Potatoe",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.60\n0.82",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n42\n25\n17\n\n/",
+            "deaths": "33\n24\n9",
+            "fk": "125\n128\n120",
+            "hs%": "62%\n64%\n59%",
+            "kdr": "21\n13\n8",
+            "kills": "187",
+            "name": "x0tek",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "338",
+          "name": "BlackHeart",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "259",
+          "name": "khanartist",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "254",
+          "name": "fletcher",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "133",
+          "name": "d1msumboi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "190",
+          "name": "monSi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "282",
+          "name": "miniature",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "151",
+          "name": "Potatoe",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "110",
+          "name": "Ksiaze",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "72",
+          "name": "Winsum",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "122",
+          "name": "x0tek",
+          "team": "Mad Science"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.98\n2.45\n1.74",
+            "adr": "+16\n+8\n+8",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "240\n247\n237",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "338",
+            "name": "BlackHeart",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "1.61\n1.56\n1.64",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "163\n182\n153",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "4\n3\n1",
+            "kills": "259",
+            "name": "khanartist",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "1.36\n1.39\n1.34",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "146\n129\n155",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "13\n8\n5",
+            "kills": "254",
+            "name": "fletcher",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "1.08\n1.70\n0.76",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "104\n132\n90",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "133",
+            "name": "d1msumboi",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "1.00\n0.67\n1.16",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "102\n40\n132",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "16\n6\n10",
+            "kills": "190",
+            "name": "monSi",
+            "team": "The Silk Road"
+          }
+        ],
+        [
+          {
+            "acs": "1.02\n0.94\n1.18",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "164\n162\n169",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "3\n3\n0",
+            "kills": "282",
+            "name": "miniature",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "0.99\n1.18\n0.61",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "107\n99\n124",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "151",
+            "name": "Potatoe",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "0.63\n0.67\n0.53",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "81\n79\n83",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "110",
+            "name": "Ksiaze",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "0.37\n0.42\n0.25",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "72\n73\n69",
+            "hs%": "39%\n42%\n33%",
+            "kdr": "3\n3\n0",
+            "kills": "72",
+            "name": "Winsum",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "0.25\n0.25\n0.25",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "75\n54\n117",
+            "hs%": "28%\n25%\n33%",
+            "kdr": "4\n3\n1",
+            "kills": "122",
+            "name": "x0tek",
+            "team": "Mad Science"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "242",
+          "name": "BlackHeart",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "224",
+          "name": "fletcher",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "199",
+          "name": "d1msumboi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "153",
+          "name": "khanartist",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "151",
+          "name": "monSi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "334",
+          "name": "Ksiaze",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "223",
+          "name": "Winsum",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "209",
+          "name": "x0tek",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "231",
+          "name": "Potatoe",
+          "team": "Mad Science"
+        },
+        {
+          "kills": "188",
+          "name": "miniature",
+          "team": "Mad Science"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.02\n0.91\n1.07",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "144\n135\n149",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "242",
+            "name": "BlackHeart",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.83\n1.08\n0.70",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "152\n185\n135",
+            "hs%": "50%\n33%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "224",
+            "name": "fletcher",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.80\n0.86\n0.77",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "121\n132\n116",
+            "hs%": "61%\n67%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "199",
+            "name": "d1msumboi",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.68\n0.03\n1.05",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "113\n35\n152",
+            "hs%": "67%\n50%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "153",
+            "name": "khanartist",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.68\n0.60\n0.72",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "95\n68\n109",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "151",
+            "name": "monSi",
+            "team": "The Silk Road"
+          }
+        ],
+        [
+          {
+            "acs": "1.70\n1.62\n1.84",
+            "adr": "+13\n+8\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "220\n208\n245",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "334",
+            "name": "Ksiaze",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "1.37\n0.99\n2.13",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "154\n110\n243",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "10\n9\n1",
+            "kills": "223",
+            "name": "Winsum",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "1.16\n1.31\n0.84",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "153\n199\n61",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "209",
+            "name": "x0tek",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "1.09\n1.15\n0.96",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "132\n139\n118",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "231",
+            "name": "Potatoe",
+            "team": "Mad Science"
+          },
+          {
+            "acs": "0.68\n0.71\n0.61",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "125\n124\n126",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "188",
+            "name": "miniature",
+            "team": "Mad Science"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 163339,
+  "teams": [
+    "The Silk Road",
+    "Mad Science"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 16"
+}

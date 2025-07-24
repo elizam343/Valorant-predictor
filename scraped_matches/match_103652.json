@@ -1,0 +1,594 @@
+{
+  "date": "2022-05-28 03:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "227",
+          "name": "Revy",
+          "team": "MAJOHA"
+        },
+        {
+          "kills": "356",
+          "name": "Mai",
+          "team": "MAJOHA"
+        },
+        {
+          "kills": "190",
+          "name": "IvorieY",
+          "team": "MAJOHA"
+        },
+        {
+          "kills": "243",
+          "name": "Yuki",
+          "team": "MAJOHA"
+        },
+        {
+          "kills": "224",
+          "name": "Arra",
+          "team": "MAJOHA"
+        },
+        {
+          "kills": "181",
+          "name": "Parcval",
+          "team": "POGGIRLS"
+        },
+        {
+          "kills": "239",
+          "name": "Jenuine",
+          "team": "POGGIRLS"
+        },
+        {
+          "kills": "153",
+          "name": "ATRO",
+          "team": "POGGIRLS"
+        },
+        {
+          "kills": "163",
+          "name": "AIKA",
+          "team": "POGGIRLS"
+        },
+        {
+          "kills": "188",
+          "name": "Lumpia",
+          "team": "POGGIRLS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.65\n1.74\n1.39",
+            "adr": "+11\n+9\n+2",
+            "agent": "",
+            "assists": "/\n\n6\n4\n2\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "143\n156\n105",
+            "hs%": "94%\n100%\n75%",
+            "kdr": "5\n5\n0",
+            "kills": "227",
+            "name": "Revy",
+            "team": "MAJOHA"
+          },
+          {
+            "acs": "1.51\n1.28\n2.22",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "218\n209\n243",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "356",
+            "name": "Mai",
+            "team": "MAJOHA"
+          },
+          {
+            "acs": "1.32\n1.31\n1.34",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "116\n124\n90",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "190",
+            "name": "IvorieY",
+            "team": "MAJOHA"
+          },
+          {
+            "acs": "1.21\n1.11\n1.50",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "163\n153\n191",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "243",
+            "name": "Yuki",
+            "team": "MAJOHA"
+          },
+          {
+            "acs": "0.97\n1.08\n0.62",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "148\n171\n76",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "11\n9\n2",
+            "kills": "224",
+            "name": "Arra",
+            "team": "MAJOHA"
+          }
+        ],
+        [
+          {
+            "acs": "0.88\n0.32\n1.07",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "117\n99\n123",
+            "hs%": "88%\n50%\n100%",
+            "kdr": "6\n1\n5",
+            "kills": "181",
+            "name": "Parcval",
+            "team": "POGGIRLS"
+          },
+          {
+            "acs": "0.75\n0.21\n0.92",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "163\n79\n191",
+            "hs%": "63%\n50%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "239",
+            "name": "Jenuine",
+            "team": "POGGIRLS"
+          },
+          {
+            "acs": "0.69\n1.21\n0.52",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "106\n140\n95",
+            "hs%": "63%\n75%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "153",
+            "name": "ATRO",
+            "team": "POGGIRLS"
+          },
+          {
+            "acs": "0.59\n0.06\n0.77",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "105\n61\n120",
+            "hs%": "44%\n25%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "163",
+            "name": "AIKA",
+            "team": "POGGIRLS"
+          },
+          {
+            "acs": "0.57\n0.96\n0.44",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "125\n164\n113",
+            "hs%": "69%\n50%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "188",
+            "name": "Lumpia",
+            "team": "POGGIRLS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "233",
+          "name": "Revy",
+          "team": null
+        },
+        {
+          "kills": "254",
+          "name": "Mai",
+          "team": null
+        },
+        {
+          "kills": "241",
+          "name": "IvorieY",
+          "team": null
+        },
+        {
+          "kills": "277",
+          "name": "Yuki",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "Arra",
+          "team": null
+        },
+        {
+          "kills": "298",
+          "name": "Jenuine",
+          "team": null
+        },
+        {
+          "kills": "258",
+          "name": "Parcval",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "ATRO",
+          "team": null
+        },
+        {
+          "kills": "91",
+          "name": "AIKA",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "Lumpia",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.61\n0.79\n1.27",
+            "adr": "+15\n+16\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "34\n24\n10",
+            "fk": "122\n138\n98",
+            "hs%": "79%\n91%\n63%",
+            "kdr": "10\n8\n2",
+            "kills": "233",
+            "name": "Revy",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.55\n1.27",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n28\n17\n11\n\n/",
+            "deaths": "38\n20\n18",
+            "fk": "167\n160\n177",
+            "hs%": "69%\n74%\n63%",
+            "kdr": "11\n7\n4",
+            "kills": "254",
+            "name": "Mai",
+            "team": null
+          },
+          {
+            "acs": "1.38\n1.05\n1.24",
+            "adr": "+7\n+9\n-2",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "31\n22\n9",
+            "fk": "146\n140\n155",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "14\n7\n7",
+            "kills": "241",
+            "name": "IvorieY",
+            "team": null
+          },
+          {
+            "acs": "1.24\n1.02\n1.15",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n30\n16\n14\n\n/",
+            "deaths": "34\n20\n14",
+            "fk": "187\n193\n178",
+            "hs%": "87%\n91%\n81%",
+            "kdr": "12\n8\n4",
+            "kills": "277",
+            "name": "Yuki",
+            "team": null
+          },
+          {
+            "acs": "1.06\n1.00\n1.03",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n25\n15\n10\n\n/",
+            "deaths": "27\n17\n10",
+            "fk": "119\n135\n96",
+            "hs%": "87%\n91%\n81%",
+            "kdr": "17\n10\n7",
+            "kills": "213",
+            "name": "Arra",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.30\n1.38",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n29\n11\n18\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "196\n185\n204",
+            "hs%": "77%\n75%\n78%",
+            "kdr": "10\n4\n6",
+            "kills": "298",
+            "name": "Jenuine",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.67\n0.83",
+            "adr": "-7\n+3\n-10",
+            "agent": "",
+            "assists": "/\n\n34\n13\n21\n\n/",
+            "deaths": "27\n16\n11",
+            "fk": "124\n152\n105",
+            "hs%": "79%\n81%\n78%",
+            "kdr": "12\n5\n7",
+            "kills": "258",
+            "name": "Parcval",
+            "team": null
+          },
+          {
+            "acs": "0.80\n0.75\n0.77",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n33\n13\n20\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "129\n125\n133",
+            "hs%": "72%\n81%\n65%",
+            "kdr": "14\n8\n6",
+            "kills": "175",
+            "name": "ATRO",
+            "team": null
+          },
+          {
+            "acs": "0.54\n0.64\n0.60",
+            "adr": "-18\n-8\n-10",
+            "agent": "",
+            "assists": "/\n\n33\n12\n21\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "88\n58\n108",
+            "hs%": "59%\n63%\n57%",
+            "kdr": "14\n8\n6",
+            "kills": "91",
+            "name": "AIKA",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.46\n0.59",
+            "adr": "-13\n-2\n-11",
+            "agent": "",
+            "assists": "/\n\n35\n13\n22\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "123\n138\n113",
+            "hs%": "62%\n56%\n65%",
+            "kdr": "7\n3\n4",
+            "kills": "211",
+            "name": "Lumpia",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "226",
+          "name": "IvorieY",
+          "team": "MAJOHA"
+        },
+        {
+          "kills": "265",
+          "name": "Yuki",
+          "team": "MAJOHA"
+        },
+        {
+          "kills": "271",
+          "name": "Mai",
+          "team": "MAJOHA"
+        },
+        {
+          "kills": "183",
+          "name": "Arra",
+          "team": "MAJOHA"
+        },
+        {
+          "kills": "136",
+          "name": "Revy",
+          "team": "MAJOHA"
+        },
+        {
+          "kills": "310",
+          "name": "Jenuine",
+          "team": "POGGIRLS"
+        },
+        {
+          "kills": "211",
+          "name": "ATRO",
+          "team": "POGGIRLS"
+        },
+        {
+          "kills": "104",
+          "name": "Parcval",
+          "team": "POGGIRLS"
+        },
+        {
+          "kills": "160",
+          "name": "Lumpia",
+          "team": "POGGIRLS"
+        },
+        {
+          "kills": "142",
+          "name": "AIKA",
+          "team": "POGGIRLS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.19\n1.45\n0.96",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "167\n156\n177",
+            "hs%": "83%\n91%\n75%",
+            "kdr": "12\n5\n7",
+            "kills": "226",
+            "name": "IvorieY",
+            "team": "MAJOHA"
+          },
+          {
+            "acs": "1.11\n1.38\n0.85",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "204\n237\n174",
+            "hs%": "87%\n100%\n75%",
+            "kdr": "8\n5\n3",
+            "kills": "265",
+            "name": "Yuki",
+            "team": "MAJOHA"
+          },
+          {
+            "acs": "1.10\n0.87\n1.32",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "132\n107\n155",
+            "hs%": "61%\n73%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "271",
+            "name": "Mai",
+            "team": "MAJOHA"
+          },
+          {
+            "acs": "1.08\n1.03\n1.12",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "99\n94\n102",
+            "hs%": "83%\n91%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "183",
+            "name": "Arra",
+            "team": "MAJOHA"
+          },
+          {
+            "acs": "1.01\n1.48\n0.59",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "107\n119\n96",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "136",
+            "name": "Revy",
+            "team": "MAJOHA"
+          }
+        ],
+        [
+          {
+            "acs": "1.81\n1.91\n1.70",
+            "adr": "+13\n+10\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "27\n16\n11",
+            "fk": "220\n220\n219",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "7\n4\n3",
+            "kills": "310",
+            "name": "Jenuine",
+            "team": "POGGIRLS"
+          },
+          {
+            "acs": "0.83\n0.67\n1.00",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "146\n120\n174",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "8\n5\n3",
+            "kills": "211",
+            "name": "ATRO",
+            "team": "POGGIRLS"
+          },
+          {
+            "acs": "0.80\n1.31\n0.25",
+            "adr": "-3\n+5\n-8",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "129\n169\n86",
+            "hs%": "74%\n92%\n55%",
+            "kdr": "6\n4\n2",
+            "kills": "104",
+            "name": "Parcval",
+            "team": "POGGIRLS"
+          },
+          {
+            "acs": "0.61\n0.72\n0.49",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "122\n130\n113",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "2\n2\n0",
+            "kills": "160",
+            "name": "Lumpia",
+            "team": "POGGIRLS"
+          },
+          {
+            "acs": "0.60\n0.70\n0.50",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "76\n57\n96",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "12\n8\n4",
+            "kills": "142",
+            "name": "AIKA",
+            "team": "POGGIRLS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 103652,
+  "teams": [
+    "POGGIRLS",
+    "MAJOHA"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup J"
+}

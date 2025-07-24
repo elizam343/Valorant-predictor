@@ -1,0 +1,626 @@
+{% extends "base.html" %}
+
+{% block title %}Performance Predictions{% endblock %}
+
+<style>
+.dropdown-menu {
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    margin-top: 2px;
+}
+
+.dropdown-item {
+    padding: 8px 16px;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background-color 0.2s;
+}
+
+.dropdown-item:hover, .dropdown-item.active {
+    background-color: #f8f9fa;
+}
+
+.dropdown-item:last-child {
+    border-bottom: none;
+}
+
+.position-relative {
+    z-index: 1000;
+}
+
+#playerSearch, #teamSearch, #mapSearch {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    transition: border-color 0.2s;
+}
+
+#playerSearch:focus, #teamSearch:focus, #mapSearch:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+</style>
+
+{% block content %}
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="text-center mb-4">
+                <i class="fas fa-chart-line text-primary"></i>
+                Valorant Performance Predictions
+            </h1>
+            <p class="text-center text-muted mb-4">
+                Predict player performance based on our AI model trained on 2000+ scenarios
+            </p>
+        </div>
+    </div>
+
+    <!-- Prediction Form -->
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">
+                        <i class="fas fa-dice"></i>
+                        Make a Prediction
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <form id="predictionForm">
+                        <div class="row">
+                            <!-- Player Selection -->
+                            <div class="col-md-6 mb-3">
+                                <label for="playerSelect" class="form-label">
+                                    <i class="fas fa-user"></i> Player
+                                </label>
+                                <div class="position-relative">
+                                    <input type="text" class="form-control" id="playerSearch" 
+                                           placeholder="Search players..." autocomplete="off">
+                                    <select class="form-select" id="playerSelect" required style="display: none;">
+                                        <option value="">Select a player...</option>
+                                        {% for player in players %}
+                                        <option value="{{ player.name }}" 
+                                                data-team="{{ player.team }}"
+                                                data-rating="{{ player.rating }}"
+                                                data-kills="{{ player.kills_per_round }}"
+                                                data-acs="{{ player.average_combat_score }}">
+                                            {{ player.name }} ({{ player.team }}) - Rating: {{ "%.2f"|format(player.rating) }}
+                                        </option>
+                                        {% endfor %}
+                                    </select>
+                                    <div id="playerDropdown" class="dropdown-menu w-100" style="max-height: 200px; overflow-y: auto; display: none;">
+                                        <!-- Player options will be populated here -->
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Opponent Team -->
+                            <div class="col-md-6 mb-3">
+                                <label for="opponentSelect" class="form-label">
+                                    <i class="fas fa-users"></i> Opponent Team
+                                </label>
+                                <div class="position-relative">
+                                    <input type="text" class="form-control" id="teamSearch" 
+                                           placeholder="Search teams..." autocomplete="off">
+                                    <select class="form-select" id="opponentSelect" required style="display: none;">
+                                        <option value="">Select opponent team...</option>
+                                        {% for team in teams %}
+                                        <option value="{{ team }}">{{ team }}</option>
+                                        {% endfor %}
+                                    </select>
+                                    <div id="teamDropdown" class="dropdown-menu w-100" style="max-height: 200px; overflow-y: auto; display: none;">
+                                        <!-- Team options will be populated here -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <!-- Map Selection -->
+                            <div class="col-md-4 mb-3">
+                                <label for="mapSelect" class="form-label">
+                                    <i class="fas fa-map"></i> Map
+                                </label>
+                                <div class="position-relative">
+                                    <input type="text" class="form-control" id="mapSearch" 
+                                           placeholder="Search maps..." autocomplete="off">
+                                    <select class="form-select" id="mapSelect" required style="display: none;">
+                                        <option value="">Select map...</option>
+                                        {% for map in maps %}
+                                        <option value="{{ map }}">{{ map }}</option>
+                                        {% endfor %}
+                                    </select>
+                                    <div id="mapDropdown" class="dropdown-menu w-100" style="max-height: 200px; overflow-y: auto; display: none;">
+                                        <!-- Map options will be populated here -->
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Series Type -->
+                            <div class="col-md-4 mb-3">
+                                <label for="seriesSelect" class="form-label">
+                                    <i class="fas fa-trophy"></i> Series Type
+                                </label>
+                                <select class="form-select" id="seriesSelect" required>
+                                    <option value="">Select series type...</option>
+                                    {% for series in series_types %}
+                                    <option value="{{ series }}">{{ series }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+
+                            <!-- Bet Amount (for fun) -->
+                            <div class="col-md-4 mb-3">
+                                <label for="betAmount" class="form-label">
+                                    <i class="fas fa-coins"></i> Virtual Bet Amount
+                                </label>
+                                <input type="number" class="form-control" id="betAmount" 
+                                       placeholder="100" min="10" max="1000" value="100">
+                                <small class="form-text text-muted">Virtual currency for fun</small>
+                            </div>
+                        </div>
+
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary btn-lg">
+                                <i class="fas fa-magic"></i>
+                                Make Prediction
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Player Stats Preview -->
+    <div class="row mt-4" id="playerStatsPreview" style="display: none;">
+        <div class="col-lg-8 mx-auto">
+            <div class="card">
+                <div class="card-header bg-info text-white">
+                    <h6 class="mb-0">
+                        <i class="fas fa-chart-bar"></i>
+                        Player Statistics
+                    </h6>
+                </div>
+                <div class="card-body">
+                    <div class="row" id="playerStatsContent">
+                        <!-- Stats will be populated here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Prediction Results -->
+    <div class="row mt-4" id="predictionResults" style="display: none;">
+        <div class="col-lg-8 mx-auto">
+            <div class="card border-success">
+                <div class="card-header bg-success text-white">
+                    <h5 class="mb-0">
+                        <i class="fas fa-bullseye"></i>
+                        Prediction Results
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h6 class="text-muted">Prediction</h6>
+                            <h3 id="predictionLabel" class="text-success"></h3>
+                            <p class="text-muted">Confidence: <span id="confidenceLevel"></span></p>
+                        </div>
+                        <div class="col-md-6">
+                            <h6 class="text-muted">Probability Distribution</h6>
+                            <div id="probabilityBars">
+                                <!-- Probability bars will be populated here -->
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <hr>
+                    
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h6 class="text-muted">Scenario Details</h6>
+                            <ul class="list-unstyled">
+                                <li><strong>Expected Kills:</strong> <span id="expectedKills"></span></li>
+                                <li><strong>Performance Consistency:</strong> <span id="performanceConsistency"></span></li>
+                                <li><strong>Map Factor:</strong> <span id="mapFactor"></span></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <h6 class="text-muted">Virtual Bet Outcome</h6>
+                            <div id="betOutcome">
+                                <!-- Bet outcome will be calculated here -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Performance Insights -->
+    <div class="row mt-4" id="performanceInsights" style="display: none;">
+        <div class="col-lg-8 mx-auto">
+            <div class="card">
+                <div class="card-header bg-warning text-dark">
+                    <h6 class="mb-0">
+                        <i class="fas fa-lightbulb"></i>
+                        Performance Insights
+                    </h6>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <h6 class="text-success">Strengths</h6>
+                            <ul id="strengthsList" class="list-unstyled">
+                                <!-- Strengths will be populated here -->
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <h6 class="text-danger">Weaknesses</h6>
+                            <ul id="weaknessesList" class="list-unstyled">
+                                <!-- Weaknesses will be populated here -->
+                            </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <h6 class="text-info">Recommendations</h6>
+                            <ul id="recommendationsList" class="list-unstyled">
+                                <!-- Recommendations will be populated here -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const playerSelect = document.getElementById('playerSelect');
+    const predictionForm = document.getElementById('predictionForm');
+    const playerStatsPreview = document.getElementById('playerStatsPreview');
+    const predictionResults = document.getElementById('predictionResults');
+    const performanceInsights = document.getElementById('performanceInsights');
+
+    // Initialize searchable dropdowns
+    initializeSearchableDropdowns();
+
+    function initializeSearchableDropdowns() {
+        // Player search
+        const playerSearch = document.getElementById('playerSearch');
+        const playerDropdown = document.getElementById('playerDropdown');
+        const playerOptions = Array.from(playerSelect.options).slice(1); // Skip first empty option
+
+        playerSearch.addEventListener('input', function() {
+            const searchTerm = this.value.toLowerCase();
+            const filteredOptions = playerOptions.filter(option => 
+                option.text.toLowerCase().includes(searchTerm)
+            );
+            
+            displayDropdownOptions(playerDropdown, filteredOptions, playerSearch, playerSelect, 'player');
+        });
+
+        playerSearch.addEventListener('focus', function() {
+            displayDropdownOptions(playerDropdown, playerOptions, playerSearch, playerSelect, 'player');
+        });
+
+        // Team search
+        const teamSearch = document.getElementById('teamSearch');
+        const teamDropdown = document.getElementById('teamDropdown');
+        const teamSelect = document.getElementById('opponentSelect');
+        const teamOptions = Array.from(teamSelect.options).slice(1);
+
+        teamSearch.addEventListener('input', function() {
+            const searchTerm = this.value.toLowerCase();
+            const filteredOptions = teamOptions.filter(option => 
+                option.text.toLowerCase().includes(searchTerm)
+            );
+            
+            displayDropdownOptions(teamDropdown, filteredOptions, teamSearch, teamSelect, 'team');
+        });
+
+        teamSearch.addEventListener('focus', function() {
+            displayDropdownOptions(teamDropdown, teamOptions, teamSearch, teamSelect, 'team');
+        });
+
+        // Map search
+        const mapSearch = document.getElementById('mapSearch');
+        const mapDropdown = document.getElementById('mapDropdown');
+        const mapSelect = document.getElementById('mapSelect');
+        const mapOptions = Array.from(mapSelect.options).slice(1);
+
+        mapSearch.addEventListener('input', function() {
+            const searchTerm = this.value.toLowerCase();
+            const filteredOptions = mapOptions.filter(option => 
+                option.text.toLowerCase().includes(searchTerm)
+            );
+            
+            displayDropdownOptions(mapDropdown, filteredOptions, mapSearch, mapSelect, 'map');
+        });
+
+        mapSearch.addEventListener('focus', function() {
+            displayDropdownOptions(mapDropdown, mapOptions, mapSearch, mapSelect, 'map');
+        });
+
+        // Close dropdowns when clicking outside
+        document.addEventListener('click', function(e) {
+            if (!e.target.closest('.position-relative')) {
+                playerDropdown.style.display = 'none';
+                teamDropdown.style.display = 'none';
+                mapDropdown.style.display = 'none';
+            }
+        });
+
+        // Keyboard navigation
+        [playerSearch, teamSearch, mapSearch].forEach(input => {
+            input.addEventListener('keydown', function(e) {
+                const dropdown = this.id === 'playerSearch' ? playerDropdown : 
+                               this.id === 'teamSearch' ? teamDropdown : mapDropdown;
+                const items = dropdown.querySelectorAll('.dropdown-item');
+                const currentIndex = Array.from(items).findIndex(item => item.classList.contains('active'));
+                
+                if (e.key === 'ArrowDown') {
+                    e.preventDefault();
+                    const nextIndex = currentIndex < items.length - 1 ? currentIndex + 1 : 0;
+                    items.forEach(item => item.classList.remove('active'));
+                    if (items[nextIndex]) {
+                        items[nextIndex].classList.add('active');
+                        items[nextIndex].scrollIntoView({ block: 'nearest' });
+                    }
+                } else if (e.key === 'ArrowUp') {
+                    e.preventDefault();
+                    const prevIndex = currentIndex > 0 ? currentIndex - 1 : items.length - 1;
+                    items.forEach(item => item.classList.remove('active'));
+                    if (items[prevIndex]) {
+                        items[prevIndex].classList.add('active');
+                        items[prevIndex].scrollIntoView({ block: 'nearest' });
+                    }
+                } else if (e.key === 'Enter') {
+                    e.preventDefault();
+                    const activeItem = dropdown.querySelector('.dropdown-item.active');
+                    if (activeItem) {
+                        activeItem.click();
+                    }
+                } else if (e.key === 'Escape') {
+                    dropdown.style.display = 'none';
+                }
+            });
+        });
+    }
+
+    function displayDropdownOptions(dropdown, options, searchInput, selectElement, type) {
+        dropdown.innerHTML = '';
+        
+        if (options.length === 0) {
+            dropdown.innerHTML = '<div class="dropdown-item text-muted">No matches found</div>';
+        } else {
+            options.forEach((option, index) => {
+                const item = document.createElement('div');
+                item.className = 'dropdown-item';
+                item.textContent = option.text;
+                item.style.cursor = 'pointer';
+                
+                // Highlight first item by default
+                if (index === 0) {
+                    item.classList.add('active');
+                }
+                
+                item.addEventListener('click', function() {
+                    searchInput.value = option.text;
+                    selectElement.value = option.value;
+                    dropdown.style.display = 'none';
+                    
+                    // Trigger change event for player selection
+                    if (type === 'player') {
+                        const event = new Event('change');
+                        selectElement.dispatchEvent(event);
+                    }
+                });
+                
+                item.addEventListener('mouseenter', function() {
+                    dropdown.querySelectorAll('.dropdown-item').forEach(i => i.classList.remove('active'));
+                    this.classList.add('active');
+                });
+                
+                dropdown.appendChild(item);
+            });
+        }
+        
+        dropdown.style.display = 'block';
+    }
+
+    // Show player stats when player is selected
+    playerSelect.addEventListener('change', function() {
+        const selectedOption = this.options[this.selectedIndex];
+        if (selectedOption.value) {
+            showPlayerStats(selectedOption);
+            loadPlayerInsights(selectedOption.value, selectedOption.dataset.team);
+        } else {
+            playerStatsPreview.style.display = 'none';
+            performanceInsights.style.display = 'none';
+        }
+    });
+
+    // Handle form submission
+    predictionForm.addEventListener('submit', function(e) {
+        e.preventDefault();
+        makePrediction();
+    });
+
+    function showPlayerStats(option) {
+        const statsContent = document.getElementById('playerStatsContent');
+        statsContent.innerHTML = `
+            <div class="col-md-3 text-center">
+                <h6 class="text-muted">Rating</h6>
+                <h4 class="text-primary">${parseFloat(option.dataset.rating).toFixed(2)}</h4>
+            </div>
+            <div class="col-md-3 text-center">
+                <h6 class="text-muted">Kills/Round</h6>
+                <h4 class="text-success">${parseFloat(option.dataset.kills).toFixed(2)}</h4>
+            </div>
+            <div class="col-md-3 text-center">
+                <h6 class="text-muted">ACS</h6>
+                <h4 class="text-info">${parseFloat(option.dataset.acs).toFixed(0)}</h4>
+            </div>
+            <div class="col-md-3 text-center">
+                <h6 class="text-muted">Team</h6>
+                <h4 class="text-warning">${option.dataset.team}</h4>
+            </div>
+        `;
+        playerStatsPreview.style.display = 'block';
+    }
+
+    function loadPlayerInsights(playerName, teamName) {
+        fetch(`/api/player-insights/${encodeURIComponent(playerName)}/${encodeURIComponent(teamName)}`)
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    showInsights(data.insights);
+                }
+            })
+            .catch(error => console.error('Error loading insights:', error));
+    }
+
+    function showInsights(insights) {
+        const strengthsList = document.getElementById('strengthsList');
+        const weaknessesList = document.getElementById('weaknessesList');
+        const recommendationsList = document.getElementById('recommendationsList');
+
+        strengthsList.innerHTML = insights.strengths.map(strength => 
+            `<li><i class="fas fa-check text-success"></i> ${strength}</li>`
+        ).join('');
+
+        weaknessesList.innerHTML = insights.weaknesses.map(weakness => 
+            `<li><i class="fas fa-times text-danger"></i> ${weakness}</li>`
+        ).join('');
+
+        recommendationsList.innerHTML = insights.recommendations.map(rec => 
+            `<li><i class="fas fa-lightbulb text-info"></i> ${rec}</li>`
+        ).join('');
+
+        performanceInsights.style.display = 'block';
+    }
+
+    function makePrediction() {
+        const formData = {
+            player_name: document.getElementById('playerSelect').value,
+            player_team: document.getElementById('playerSelect').options[document.getElementById('playerSelect').selectedIndex].dataset.team,
+            opponent_team: document.getElementById('opponentSelect').value,
+            map_name: document.getElementById('mapSelect').value,
+            series_type: document.getElementById('seriesSelect').value
+        };
+
+        // Show loading state
+        const submitBtn = predictionForm.querySelector('button[type="submit"]');
+        const originalText = submitBtn.innerHTML;
+        submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Predicting...';
+        submitBtn.disabled = true;
+
+        fetch('/api/predict', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(formData)
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                showPredictionResults(data.prediction);
+            } else {
+                alert('Error: ' + data.error);
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('Error making prediction');
+        })
+        .finally(() => {
+            submitBtn.innerHTML = originalText;
+            submitBtn.disabled = false;
+        });
+    }
+
+    function showPredictionResults(prediction) {
+        // Update prediction label
+        document.getElementById('predictionLabel').textContent = prediction.prediction_label;
+        
+        // Update confidence
+        const confidencePercent = (prediction.confidence * 100).toFixed(1);
+        document.getElementById('confidenceLevel').textContent = confidencePercent + '%';
+
+        // Update probability bars
+        const probBars = document.getElementById('probabilityBars');
+        probBars.innerHTML = `
+            <div class="mb-2">
+                <div class="d-flex justify-content-between">
+                    <span>Under-perform</span>
+                    <span>${(prediction.probability_distribution.under_perform * 100).toFixed(1)}%</span>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar bg-danger" style="width: ${prediction.probability_distribution.under_perform * 100}%"></div>
+                </div>
+            </div>
+            <div class="mb-2">
+                <div class="d-flex justify-content-between">
+                    <span>Meet expectations</span>
+                    <span>${(prediction.probability_distribution.meet_expectations * 100).toFixed(1)}%</span>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar bg-warning" style="width: ${prediction.probability_distribution.meet_expectations * 100}%"></div>
+                </div>
+            </div>
+            <div class="mb-2">
+                <div class="d-flex justify-content-between">
+                    <span>Over-perform</span>
+                    <span>${(prediction.probability_distribution.over_perform * 100).toFixed(1)}%</span>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar bg-success" style="width: ${prediction.probability_distribution.over_perform * 100}%"></div>
+                </div>
+            </div>
+        `;
+
+        // Update scenario details
+        document.getElementById('expectedKills').textContent = prediction.scenario.expected_kills.toFixed(1);
+        document.getElementById('performanceConsistency').textContent = (prediction.scenario.performance_consistency * 100).toFixed(1) + '%';
+        
+        // Calculate map factor
+        const mapFactors = {
+            'Ascent': 1.0, 'Haven': 1.05, 'Split': 0.95, 'Bind': 0.9,
+            'Icebox': 1.1, 'Breeze': 1.0, 'Fracture': 0.95, 'Pearl': 1.0,
+            'Lotus': 1.05, 'Sunset': 1.0
+        };
+        const mapFactor = mapFactors[prediction.scenario.map] || 1.0;
+        document.getElementById('mapFactor').textContent = (mapFactor * 100).toFixed(0) + '%';
+
+        // Calculate virtual bet outcome
+        const betAmount = parseInt(document.getElementById('betAmount').value) || 100;
+        let multiplier = 1.0;
+        let outcome = '';
+
+        if (prediction.prediction === 1) { // Over-perform
+            multiplier = 2.0;
+            outcome = `Win ${(betAmount * multiplier).toFixed(0)} virtual coins!`;
+        } else if (prediction.prediction === 0) { // Under-perform
+            multiplier = 0.0;
+            outcome = `Lose ${betAmount} virtual coins`;
+        } else { // Meet expectations
+            multiplier = 1.5;
+            outcome = `Win ${(betAmount * multiplier).toFixed(0)} virtual coins!`;
+        }
+
+        document.getElementById('betOutcome').innerHTML = `
+            <h5 class="text-${prediction.prediction === 1 ? 'success' : prediction.prediction === 0 ? 'danger' : 'warning'}">
+                ${outcome}
+            </h5>
+            <small class="text-muted">Based on ${confidencePercent}% confidence</small>
+        `;
+
+        predictionResults.style.display = 'block';
+        predictionResults.scrollIntoView({ behavior: 'smooth' });
+    }
+});
+</script>
+{% endblock %} 

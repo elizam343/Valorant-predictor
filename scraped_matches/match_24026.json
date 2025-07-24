@@ -1,0 +1,594 @@
+{
+  "date": "2021-07-04 17:05:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "220",
+          "name": "mitch",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "214",
+          "name": "leaf",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "185",
+          "name": "floppy",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "177",
+          "name": "Xeppaa",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "151",
+          "name": "xeta",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "285",
+          "name": "supamen",
+          "team": "Rise"
+        },
+        {
+          "kills": "232",
+          "name": "Derrek",
+          "team": "Rise"
+        },
+        {
+          "kills": "191",
+          "name": "POISED",
+          "team": "Rise"
+        },
+        {
+          "kills": "233",
+          "name": "neptune",
+          "team": "Rise"
+        },
+        {
+          "kills": "246",
+          "name": "Shanks",
+          "team": "Rise"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.03\n0.96\n1.12",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "144\n162\n117",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "220",
+            "name": "mitch",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.92\n1.21\n0.50",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "134\n152\n106",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "7\n4\n3",
+            "kills": "214",
+            "name": "leaf",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.78\n0.88\n0.64",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "106\n119\n86",
+            "hs%": "60%\n58%\n63%",
+            "kdr": "9\n7\n2",
+            "kills": "185",
+            "name": "floppy",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.60\n0.59\n0.61",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "91\n104\n71",
+            "hs%": "75%\n67%\n88%",
+            "kdr": "4\n2\n2",
+            "kills": "177",
+            "name": "Xeppaa",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.60\n0.88\n0.17",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "98\n131\n48",
+            "hs%": "60%\n75%\n38%",
+            "kdr": "4\n3\n1",
+            "kills": "151",
+            "name": "xeta",
+            "team": "Cloud9"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.74\n1.46",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "164\n148\n174",
+            "hs%": "85%\n88%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "285",
+            "name": "supamen",
+            "team": "Rise"
+          },
+          {
+            "acs": "1.22\n2.10\n0.64",
+            "adr": "+5\n+8\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "134\n202\n89",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "232",
+            "name": "Derrek",
+            "team": "Rise"
+          },
+          {
+            "acs": "1.18\n1.44\n1.01",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "125\n145\n111",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "191",
+            "name": "POISED",
+            "team": "Rise"
+          },
+          {
+            "acs": "1.05\n1.17\n0.96",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "164\n127\n189",
+            "hs%": "85%\n100%\n75%",
+            "kdr": "8\n6\n2",
+            "kills": "233",
+            "name": "neptune",
+            "team": "Rise"
+          },
+          {
+            "acs": "0.95\n0.34\n1.37",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "158\n81\n209",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "246",
+            "name": "Shanks",
+            "team": "Rise"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "225",
+          "name": "mitch",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "leaf",
+          "team": null
+        },
+        {
+          "kills": "246",
+          "name": "xeta",
+          "team": null
+        },
+        {
+          "kills": "98",
+          "name": "floppy",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "Xeppaa",
+          "team": null
+        },
+        {
+          "kills": "279",
+          "name": "supamen",
+          "team": null
+        },
+        {
+          "kills": "259",
+          "name": "Derrek",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "POISED",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "Shanks",
+          "team": null
+        },
+        {
+          "kills": "135",
+          "name": "neptune",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.94\n1.04\n0.99",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n32\n20\n12\n\n/",
+            "deaths": "28\n17\n11",
+            "fk": "123\n132\n112",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "10\n2\n8",
+            "kills": "225",
+            "name": "mitch",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.33\n0.95",
+            "adr": "-4\n-10\n+6",
+            "agent": "",
+            "assists": "/\n\n37\n21\n16\n\n/",
+            "deaths": "33\n11\n22",
+            "fk": "150\n107\n200",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "13\n6\n7",
+            "kills": "162",
+            "name": "leaf",
+            "team": null
+          },
+          {
+            "acs": "1.14\n0.58\n0.89",
+            "adr": "-6\n+2\n-8",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "28\n21\n7",
+            "fk": "111\n136\n81",
+            "hs%": "70%\n71%\n70%",
+            "kdr": "14\n6\n8",
+            "kills": "246",
+            "name": "xeta",
+            "team": null
+          },
+          {
+            "acs": "0.46\n1.23\n0.81",
+            "adr": "-10\n-13\n+3",
+            "agent": "",
+            "assists": "/\n\n36\n20\n16\n\n/",
+            "deaths": "26\n7\n19",
+            "fk": "112\n75\n156",
+            "hs%": "64%\n46%\n85%",
+            "kdr": "19\n7\n12",
+            "kills": "98",
+            "name": "floppy",
+            "team": null
+          },
+          {
+            "acs": "0.42\n1.00\n0.69",
+            "adr": "-8\n-10\n+2",
+            "agent": "",
+            "assists": "/\n\n37\n23\n14\n\n/",
+            "deaths": "29\n13\n16",
+            "fk": "103\n85\n124",
+            "hs%": "59%\n50%\n70%",
+            "kdr": "8\n3\n5",
+            "kills": "144",
+            "name": "Xeppaa",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.58\n1.41\n1.49",
+            "adr": "+17\n+8\n+9",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "44\n21\n23",
+            "fk": "164\n165\n164",
+            "hs%": "80%\n80%\n79%",
+            "kdr": "18\n8\n10",
+            "kills": "279",
+            "name": "supamen",
+            "team": null
+          },
+          {
+            "acs": "1.34\n1.29\n1.31",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "141\n153\n131",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "259",
+            "name": "Derrek",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.09\n1.01",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "32\n15\n17",
+            "fk": "125\n131\n121",
+            "hs%": "84%\n80%\n88%",
+            "kdr": "10\n3\n7",
+            "kills": "195",
+            "name": "POISED",
+            "team": null
+          },
+          {
+            "acs": "0.52\n1.38\n0.99",
+            "adr": "+2\n-8\n+10",
+            "agent": "",
+            "assists": "/\n\n35\n20\n15\n\n/",
+            "deaths": "37\n12\n25",
+            "fk": "147\n105\n182",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "10\n6\n4",
+            "kills": "174",
+            "name": "Shanks",
+            "team": null
+          },
+          {
+            "acs": "0.63\n0.94\n0.80",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n28\n16\n12\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "126\n98\n148",
+            "hs%": "80%\n80%\n79%",
+            "kdr": "13\n9\n4",
+            "kills": "135",
+            "name": "neptune",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "152",
+          "name": "xeta",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "407",
+          "name": "leaf",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "152",
+          "name": "mitch",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "297",
+          "name": "floppy",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "241",
+          "name": "Xeppaa",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "241",
+          "name": "supamen",
+          "team": "Rise"
+        },
+        {
+          "kills": "324",
+          "name": "Derrek",
+          "team": "Rise"
+        },
+        {
+          "kills": "272",
+          "name": "Shanks",
+          "team": "Rise"
+        },
+        {
+          "kills": "242",
+          "name": "POISED",
+          "team": "Rise"
+        },
+        {
+          "kills": "161",
+          "name": "neptune",
+          "team": "Rise"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.41\n0.86",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "122\n142\n103",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "10\n3\n7",
+            "kills": "152",
+            "name": "xeta",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.97\n0.06\n1.88",
+            "adr": "0\n-10\n+10",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "20\n2\n18",
+            "fk": "163\n62\n263",
+            "hs%": "54%\n33%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "407",
+            "name": "leaf",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.95\n0.92\n0.98",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "105\n102\n109",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "5\n0\n5",
+            "kills": "152",
+            "name": "mitch",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.83\n0.04\n1.63",
+            "adr": "-5\n-10\n+5",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "14\n1\n13",
+            "fk": "116\n31\n202",
+            "hs%": "67%\n33%\n100%",
+            "kdr": "10\n0\n10",
+            "kills": "297",
+            "name": "floppy",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.76\n0.25\n1.27",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "113\n67\n159",
+            "hs%": "46%\n33%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "241",
+            "name": "Xeppaa",
+            "team": "Cloud9"
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n1.47\n1.36",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "165\n176\n154",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "12\n4\n8",
+            "kills": "241",
+            "name": "supamen",
+            "team": "Rise"
+          },
+          {
+            "acs": "1.39\n0.83\n1.95",
+            "adr": "+8\n-3\n+11",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "147\n121\n174",
+            "hs%": "79%\n58%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "324",
+            "name": "Derrek",
+            "team": "Rise"
+          },
+          {
+            "acs": "1.01\n0.63\n1.39",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "138\n121\n155",
+            "hs%": "92%\n83%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "272",
+            "name": "Shanks",
+            "team": "Rise"
+          },
+          {
+            "acs": "0.88\n0.58\n1.18",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "126\n121\n131",
+            "hs%": "88%\n75%\n100%",
+            "kdr": "6\n2\n4",
+            "kills": "242",
+            "name": "POISED",
+            "team": "Rise"
+          },
+          {
+            "acs": "0.59\n0.27\n0.92",
+            "adr": "-5\n-9\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "93\n79\n108",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "161",
+            "name": "neptune",
+            "team": "Rise"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 24026,
+  "teams": [
+    "Cloud9",
+    "Rise"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 16"
+}

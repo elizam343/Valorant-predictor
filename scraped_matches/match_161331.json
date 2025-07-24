@@ -1,0 +1,594 @@
+{
+  "date": "2022-12-09 03:15:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "288",
+          "name": "Kafka",
+          "team": "Fear Eater Esports"
+        },
+        {
+          "kills": "239",
+          "name": "Nythan",
+          "team": "Fear Eater Esports"
+        },
+        {
+          "kills": "262",
+          "name": "Saivon",
+          "team": "Fear Eater Esports"
+        },
+        {
+          "kills": "187",
+          "name": "AmerNone",
+          "team": "Fear Eater Esports"
+        },
+        {
+          "kills": "178",
+          "name": "da1zzie",
+          "team": "Fear Eater Esports"
+        },
+        {
+          "kills": "264",
+          "name": "CHIMEI",
+          "team": "Oblivion Force"
+        },
+        {
+          "kills": "230",
+          "name": "coconut",
+          "team": "Oblivion Force"
+        },
+        {
+          "kills": "201",
+          "name": "Kiuuuu",
+          "team": "Oblivion Force"
+        },
+        {
+          "kills": "140",
+          "name": "GGHuiii",
+          "team": "Oblivion Force"
+        },
+        {
+          "kills": "172",
+          "name": "hypathor",
+          "team": "Oblivion Force"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.43\n1.16\n1.70",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "28\n12\n16",
+            "fk": "188\n166\n210",
+            "hs%": "92%\n92%\n92%",
+            "kdr": "9\n4\n5",
+            "kills": "288",
+            "name": "Kafka",
+            "team": "Fear Eater Esports"
+          },
+          {
+            "acs": "1.25\n1.81\n0.69",
+            "adr": "+5\n+8\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "174\n210\n137",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "13\n7\n6",
+            "kills": "239",
+            "name": "Nythan",
+            "team": "Fear Eater Esports"
+          },
+          {
+            "acs": "1.24\n1.35\n1.12",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "168\n192\n144",
+            "hs%": "73%\n92%\n54%",
+            "kdr": "4\n4\n0",
+            "kills": "262",
+            "name": "Saivon",
+            "team": "Fear Eater Esports"
+          },
+          {
+            "acs": "1.04\n1.13\n0.95",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "130\n124\n137",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "4\n0\n4",
+            "kills": "187",
+            "name": "AmerNone",
+            "team": "Fear Eater Esports"
+          },
+          {
+            "acs": "0.84\n0.78\n0.90",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "133\n124\n142",
+            "hs%": "73%\n85%\n62%",
+            "kdr": "8\n4\n4",
+            "kills": "178",
+            "name": "da1zzie",
+            "team": "Fear Eater Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.78\n0.73",
+            "adr": "+4\n+9\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "24\n17\n7",
+            "fk": "166\n202\n129",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "17\n8\n9",
+            "kills": "264",
+            "name": "CHIMEI",
+            "team": "Oblivion Force"
+          },
+          {
+            "acs": "1.04\n0.67\n1.41",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "137\n96\n178",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "7\n4\n3",
+            "kills": "230",
+            "name": "coconut",
+            "team": "Oblivion Force"
+          },
+          {
+            "acs": "0.88\n1.09\n0.67",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "134\n162\n105",
+            "hs%": "62%\n69%\n54%",
+            "kdr": "6\n5\n1",
+            "kills": "201",
+            "name": "Kiuuuu",
+            "team": "Oblivion Force"
+          },
+          {
+            "acs": "0.67\n0.97\n0.36",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "99\n137\n62",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "6\n4\n2",
+            "kills": "140",
+            "name": "GGHuiii",
+            "team": "Oblivion Force"
+          },
+          {
+            "acs": "0.63\n0.34\n0.92",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "124\n96\n153",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "12\n4\n8",
+            "kills": "172",
+            "name": "hypathor",
+            "team": "Oblivion Force"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "262",
+          "name": "Kafka",
+          "team": null
+        },
+        {
+          "kills": "237",
+          "name": "Nythan",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "AmerNone",
+          "team": null
+        },
+        {
+          "kills": "260",
+          "name": "Saivon",
+          "team": null
+        },
+        {
+          "kills": "132",
+          "name": "da1zzie",
+          "team": null
+        },
+        {
+          "kills": "304",
+          "name": "CHIMEI",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "coconut",
+          "team": null
+        },
+        {
+          "kills": "140",
+          "name": "hypathor",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "Kiuuuu",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "GGHuiii",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.12\n1.86\n1.49",
+            "adr": "+22\n+3\n+19",
+            "agent": "",
+            "assists": "/\n\n34\n20\n14\n\n/",
+            "deaths": "56\n23\n33",
+            "fk": "196\n172\n220",
+            "hs%": "88%\n80%\n96%",
+            "kdr": "15\n6\n9",
+            "kills": "262",
+            "name": "Kafka",
+            "team": null
+          },
+          {
+            "acs": "1.36\n1.02\n1.19",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n36\n17\n19\n\n/",
+            "deaths": "44\n23\n21",
+            "fk": "170\n172\n167",
+            "hs%": "74%\n72%\n76%",
+            "kdr": "15\n9\n6",
+            "kills": "237",
+            "name": "Nythan",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.18\n1.05",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "37\n17\n20",
+            "fk": "142\n123\n161",
+            "hs%": "72%\n64%\n80%",
+            "kdr": "8\n2\n6",
+            "kills": "177",
+            "name": "AmerNone",
+            "team": null
+          },
+          {
+            "acs": "1.21\n0.84\n1.02",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "36\n22\n14",
+            "fk": "136\n164\n107",
+            "hs%": "72%\n80%\n64%",
+            "kdr": "14\n6\n8",
+            "kills": "260",
+            "name": "Saivon",
+            "team": null
+          },
+          {
+            "acs": "0.53\n1.14\n0.84",
+            "adr": "-8\n-11\n+3",
+            "agent": "",
+            "assists": "/\n\n36\n21\n15\n\n/",
+            "deaths": "28\n10\n18",
+            "fk": "118\n94\n141",
+            "hs%": "68%\n64%\n72%",
+            "kdr": "10\n6\n4",
+            "kills": "132",
+            "name": "da1zzie",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.48\n1.20\n1.34",
+            "adr": "+11\n+9\n+2",
+            "agent": "",
+            "assists": "/\n\n37\n19\n18\n\n/",
+            "deaths": "48\n28\n20",
+            "fk": "173\n182\n163",
+            "hs%": "76%\n80%\n72%",
+            "kdr": "29\n12\n17",
+            "kills": "304",
+            "name": "CHIMEI",
+            "team": null
+          },
+          {
+            "acs": "0.59\n1.32\n0.95",
+            "adr": "-3\n-9\n+6",
+            "agent": "",
+            "assists": "/\n\n42\n23\n19\n\n/",
+            "deaths": "39\n14\n25",
+            "fk": "140\n98\n182",
+            "hs%": "66%\n56%\n76%",
+            "kdr": "13\n5\n8",
+            "kills": "164",
+            "name": "coconut",
+            "team": null
+          },
+          {
+            "acs": "0.61\n0.95\n0.78",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n37\n21\n16\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "110\n95\n126",
+            "hs%": "60%\n56%\n64%",
+            "kdr": "14\n5\n9",
+            "kills": "140",
+            "name": "hypathor",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.84\n0.76",
+            "adr": "-14\n-10\n-4",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "30\n12\n18",
+            "fk": "120\n116\n124",
+            "hs%": "66%\n64%\n68%",
+            "kdr": "21\n14\n7",
+            "kills": "170",
+            "name": "Kiuuuu",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.75\n0.74",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n41\n21\n20\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "116\n123\n109",
+            "hs%": "56%\n44%\n68%",
+            "kdr": "9\n4\n5",
+            "kills": "174",
+            "name": "GGHuiii",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "417",
+          "name": "Kafka",
+          "team": "Fear Eater Esports"
+        },
+        {
+          "kills": "270",
+          "name": "Nythan",
+          "team": "Fear Eater Esports"
+        },
+        {
+          "kills": "295",
+          "name": "AmerNone",
+          "team": "Fear Eater Esports"
+        },
+        {
+          "kills": "210",
+          "name": "da1zzie",
+          "team": "Fear Eater Esports"
+        },
+        {
+          "kills": "85",
+          "name": "Saivon",
+          "team": "Fear Eater Esports"
+        },
+        {
+          "kills": "273",
+          "name": "CHIMEI",
+          "team": "Oblivion Force"
+        },
+        {
+          "kills": "148",
+          "name": "hypathor",
+          "team": "Oblivion Force"
+        },
+        {
+          "kills": "282",
+          "name": "coconut",
+          "team": "Oblivion Force"
+        },
+        {
+          "kills": "285",
+          "name": "GGHuiii",
+          "team": "Oblivion Force"
+        },
+        {
+          "kills": "254",
+          "name": "Kiuuuu",
+          "team": "Oblivion Force"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.56\n1.08\n2.04",
+            "adr": "+13\n+1\n+12",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "28\n11\n17",
+            "fk": "206\n179\n232",
+            "hs%": "83%\n67%\n100%",
+            "kdr": "6\n2\n4",
+            "kills": "417",
+            "name": "Kafka",
+            "team": "Fear Eater Esports"
+          },
+          {
+            "acs": "1.12\n0.88\n1.37",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "165\n130\n200",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "270",
+            "name": "Nythan",
+            "team": "Fear Eater Esports"
+          },
+          {
+            "acs": "1.06\n0.67\n1.44",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "155\n122\n188",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "295",
+            "name": "AmerNone",
+            "team": "Fear Eater Esports"
+          },
+          {
+            "acs": "0.84\n0.26\n1.41",
+            "adr": "-2\n-8\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "101\n62\n141",
+            "hs%": "63%\n42%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "210",
+            "name": "da1zzie",
+            "team": "Fear Eater Esports"
+          },
+          {
+            "acs": "0.79\n1.05\n0.53",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "100\n134\n67",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "10\n2\n8",
+            "kills": "85",
+            "name": "Saivon",
+            "team": "Fear Eater Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.43\n1.15\n1.71",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "180\n162\n199",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "12\n4\n8",
+            "kills": "273",
+            "name": "CHIMEI",
+            "team": "Oblivion Force"
+          },
+          {
+            "acs": "0.95\n0.91\n0.99",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "95\n93\n97",
+            "hs%": "54%\n42%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "148",
+            "name": "hypathor",
+            "team": "Oblivion Force"
+          },
+          {
+            "acs": "0.86\n0.50\n1.22",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "144\n101\n187",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "282",
+            "name": "coconut",
+            "team": "Oblivion Force"
+          },
+          {
+            "acs": "0.81\n0.44\n1.18",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "135\n109\n161",
+            "hs%": "46%\n25%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "285",
+            "name": "GGHuiii",
+            "team": "Oblivion Force"
+          },
+          {
+            "acs": "0.63\n0.25\n1.02",
+            "adr": "-11\n-11\n0",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "11\n1\n10",
+            "fk": "105\n65\n144",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "15\n9\n6",
+            "kills": "254",
+            "name": "Kiuuuu",
+            "team": "Oblivion Force"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 161331,
+  "teams": [
+    "Oblivion Force",
+    "Fear Eater Esports"
+  ],
+  "tournament": "Showdown: \n\t\t\t\t\t\tLower Round 1"
+}

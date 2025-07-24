@@ -1,0 +1,594 @@
+{
+  "date": "2022-04-02 00:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "378",
+          "name": "mimii",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "272",
+          "name": "Dolph",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "263",
+          "name": "lykann",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "220",
+          "name": "casey",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "184",
+          "name": "cuppycake",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "175",
+          "name": "Saiki",
+          "team": "Dauntless Gamma"
+        },
+        {
+          "kills": "115",
+          "name": "cheezu",
+          "team": "Dauntless Gamma"
+        },
+        {
+          "kills": "116",
+          "name": "Selene",
+          "team": "Dauntless Gamma"
+        },
+        {
+          "kills": "116",
+          "name": "Zemoure",
+          "team": "Dauntless Gamma"
+        },
+        {
+          "kills": "117",
+          "name": "KLOW",
+          "team": "Dauntless Gamma"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.83\n2.00\n1.80",
+            "adr": "+14\n+2\n+12",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "21\n3\n18",
+            "fk": "246\n242\n247",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "378",
+            "name": "mimii",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.78\n0.88\n1.93",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "14\n1\n13",
+            "fk": "171\n76\n187",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "272",
+            "name": "Dolph",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.66\n1.96\n1.61",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "171\n187\n168",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "263",
+            "name": "lykann",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.26\n0.55\n1.38",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "136\n106\n141",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "11\n2\n9",
+            "kills": "220",
+            "name": "casey",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.19\n1.62\n1.12",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "117\n143\n113",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "184",
+            "name": "cuppycake",
+            "team": "Quintuplet"
+          }
+        ],
+        [
+          {
+            "acs": "0.66\n0.82\n0.01",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "120\n130\n62",
+            "hs%": "50%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "175",
+            "name": "Saiki",
+            "team": "Dauntless Gamma"
+          },
+          {
+            "acs": "0.44\n0.56\n0.01",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "86\n95\n28",
+            "hs%": "43%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "115",
+            "name": "cheezu",
+            "team": "Dauntless Gamma"
+          },
+          {
+            "acs": "0.38\n0.34\n0.63",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "82\n69\n163",
+            "hs%": "57%\n50%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "116",
+            "name": "Selene",
+            "team": "Dauntless Gamma"
+          },
+          {
+            "acs": "0.34\n0.37\n0.15",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "70\n68\n80",
+            "hs%": "36%\n33%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "116",
+            "name": "Zemoure",
+            "team": "Dauntless Gamma"
+          },
+          {
+            "acs": "0.32\n0.02\n2.65",
+            "adr": "-11\n-13\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n14\n2\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "81\n45\n294",
+            "hs%": "50%\n42%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "117",
+            "name": "KLOW",
+            "team": "Dauntless Gamma"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "349",
+          "name": "mimii",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "Dolph",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "lykann",
+          "team": null
+        },
+        {
+          "kills": "238",
+          "name": "cuppycake",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "casey",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "Saiki",
+          "team": null
+        },
+        {
+          "kills": "80",
+          "name": "KLOW",
+          "team": null
+        },
+        {
+          "kills": "76",
+          "name": "Selene",
+          "team": null
+        },
+        {
+          "kills": "110",
+          "name": "cheezu",
+          "team": null
+        },
+        {
+          "kills": "115",
+          "name": "Zemoure",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.78\n1.81\n1.79",
+            "adr": "+28\n+11\n+17",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "42\n17\n25",
+            "fk": "242\n249\n237",
+            "hs%": "84%\n79%\n88%",
+            "kdr": "7\n5\n2",
+            "kills": "349",
+            "name": "mimii",
+            "team": null
+          },
+          {
+            "acs": "1.24\n2.24\n1.79",
+            "adr": "+23\n+3\n+20",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "35\n11\n24",
+            "fk": "206\n181\n226",
+            "hs%": "84%\n86%\n82%",
+            "kdr": "5\n4\n1",
+            "kills": "248",
+            "name": "Dolph",
+            "team": null
+          },
+          {
+            "acs": "1.52\n1.31\n1.41",
+            "adr": "+16\n+9\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "131\n137\n125",
+            "hs%": "94%\n100%\n88%",
+            "kdr": "7\n2\n5",
+            "kills": "222",
+            "name": "lykann",
+            "team": null
+          },
+          {
+            "acs": "1.48\n1.08\n1.26",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "119\n148\n94",
+            "hs%": "94%\n100%\n88%",
+            "kdr": "7\n4\n3",
+            "kills": "238",
+            "name": "cuppycake",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.26\n1.06",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "114\n97\n128",
+            "hs%": "77%\n64%\n88%",
+            "kdr": "14\n4\n10",
+            "kills": "178",
+            "name": "casey",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.71\n0.77\n0.71",
+            "adr": "-12\n-6\n-6",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "132\n114\n154",
+            "hs%": "55%\n47%\n64%",
+            "kdr": "4\n2\n2",
+            "kills": "172",
+            "name": "Saiki",
+            "team": null
+          },
+          {
+            "acs": "0.27\n0.97\n0.55",
+            "adr": "-17\n-14\n-3",
+            "agent": "",
+            "assists": "/\n\n31\n18\n13\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "92\n55\n137",
+            "hs%": "42%\n41%\n43%",
+            "kdr": "8\n5\n3",
+            "kills": "80",
+            "name": "KLOW",
+            "team": null
+          },
+          {
+            "acs": "0.25\n0.88\n0.50",
+            "adr": "-16\n-13\n-3",
+            "agent": "",
+            "assists": "/\n\n28\n16\n12\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "84\n53\n121",
+            "hs%": "45%\n41%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "76",
+            "name": "Selene",
+            "team": null
+          },
+          {
+            "acs": "0.44\n0.34\n0.38",
+            "adr": "-20\n-12\n-8",
+            "agent": "",
+            "assists": "/\n\n29\n18\n11\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "83\n80\n87",
+            "hs%": "45%\n47%\n43%",
+            "kdr": "3\n0\n3",
+            "kills": "110",
+            "name": "cheezu",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.27\n0.36",
+            "adr": "-18\n-9\n-9",
+            "agent": "",
+            "assists": "/\n\n29\n16\n13\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "66\n68\n63",
+            "hs%": "32%\n29%\n36%",
+            "kdr": "2\n0\n2",
+            "kills": "115",
+            "name": "Zemoure",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "564",
+          "name": "Dolph",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "378",
+          "name": "mimii",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "92",
+          "name": "cuppycake",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "22",
+          "name": "lykann",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "160",
+          "name": "casey",
+          "team": "Quintuplet"
+        },
+        {
+          "kills": "239",
+          "name": "Saiki",
+          "team": "Dauntless Gamma"
+        },
+        {
+          "kills": "174",
+          "name": "KLOW",
+          "team": "Dauntless Gamma"
+        },
+        {
+          "kills": "200",
+          "name": "Selene",
+          "team": "Dauntless Gamma"
+        },
+        {
+          "kills": "87",
+          "name": "Zemoure",
+          "team": "Dauntless Gamma"
+        },
+        {
+          "kills": "103",
+          "name": "cheezu",
+          "team": "Dauntless Gamma"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.80\n1.30\n2.98",
+            "adr": "+13\n+3\n+10",
+            "agent": "",
+            "assists": "/\n\n8\n7\n1\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "234\n199\n319",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "4\n4\n0",
+            "kills": "564",
+            "name": "Dolph",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.77\n1.75\n1.81",
+            "adr": "+14\n+9\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "239\n250\n214",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "5\n5\n0",
+            "kills": "378",
+            "name": "mimii",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.32\n1.45\n0.99",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n6\n5\n1\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "120\n149\n51",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n3\n2",
+            "kills": "92",
+            "name": "cuppycake",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "1.20\n1.45\n0.59",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n6\n4\n2\n\n/",
+            "deaths": "11\n11\n0",
+            "fk": "97\n129\n22",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "22",
+            "name": "lykann",
+            "team": "Quintuplet"
+          },
+          {
+            "acs": "0.89\n0.85\n0.99",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "96\n96\n97",
+            "hs%": "65%\n58%\n80%",
+            "kdr": "3\n2\n1",
+            "kills": "160",
+            "name": "casey",
+            "team": "Quintuplet"
+          }
+        ],
+        [
+          {
+            "acs": "0.76\n0.44\n0.89",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "142\n77\n169",
+            "hs%": "59%\n20%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "239",
+            "name": "Saiki",
+            "team": "Dauntless Gamma"
+          },
+          {
+            "acs": "0.74\n0.87\n0.68",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "102\n80\n111",
+            "hs%": "35%\n40%\n33%",
+            "kdr": "4\n1\n3",
+            "kills": "174",
+            "name": "KLOW",
+            "team": "Dauntless Gamma"
+          },
+          {
+            "acs": "0.60\n0.02\n0.92",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "86\n16\n115",
+            "hs%": "35%\n20%\n42%",
+            "kdr": "2\n1\n1",
+            "kills": "200",
+            "name": "Selene",
+            "team": "Dauntless Gamma"
+          },
+          {
+            "acs": "0.37\n0.55\n0.30",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "62\n67\n61",
+            "hs%": "29%\n20%\n33%",
+            "kdr": "2\n0\n2",
+            "kills": "87",
+            "name": "Zemoure",
+            "team": "Dauntless Gamma"
+          },
+          {
+            "acs": "0.33\n0.15\n0.40",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "81\n42\n97",
+            "hs%": "47%\n40%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "103",
+            "name": "cheezu",
+            "team": "Dauntless Gamma"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 84193,
+  "teams": [
+    "Dauntless Gamma",
+    "Quintuplet"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup G"
+}

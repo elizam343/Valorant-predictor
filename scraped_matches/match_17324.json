@@ -1,0 +1,788 @@
+{
+  "date": "2021-04-24 04:20:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "299",
+          "name": "crazyguy",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "209",
+          "name": "d0rf",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "258",
+          "name": "Redneval",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "170",
+          "name": "nTK",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "126",
+          "name": "P1nA",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "247",
+          "name": "n1zzy",
+          "team": "EGO"
+        },
+        {
+          "kills": "233",
+          "name": "Real8",
+          "team": "EGO"
+        },
+        {
+          "kills": "229",
+          "name": "Ko0",
+          "team": "EGO"
+        },
+        {
+          "kills": "131",
+          "name": "ducT",
+          "team": "EGO"
+        },
+        {
+          "kills": "184",
+          "name": "Mowff",
+          "team": "EGO"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.38\n0.89\n1.96",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "23\n7\n16",
+            "fk": "176\n119\n244",
+            "hs%": "50%\n33%\n70%",
+            "kdr": "1\n1\n0",
+            "kills": "299",
+            "name": "crazyguy",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "1.29\n0.53\n2.21",
+            "adr": "+6\n-6\n+12",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "108\n73\n150",
+            "hs%": "77%\n67%\n90%",
+            "kdr": "9\n6\n3",
+            "kills": "209",
+            "name": "d0rf",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "1.22\n1.54\n0.83",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "163\n212\n105",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "7\n4\n3",
+            "kills": "258",
+            "name": "Redneval",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "1.02\n0.89\n1.17",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "107\n86\n131",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "5\n1\n4",
+            "kills": "170",
+            "name": "nTK",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "0.51\n0.47\n0.56",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "75\n64\n89",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "16\n7\n9",
+            "kills": "126",
+            "name": "P1nA",
+            "team": "Steal Your Glory"
+          }
+        ],
+        [
+          {
+            "acs": "1.09\n0.96\n1.20",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "146\n95\n189",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "247",
+            "name": "n1zzy",
+            "team": "EGO"
+          },
+          {
+            "acs": "1.07\n0.92\n1.19",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "151\n154\n147",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "233",
+            "name": "Real8",
+            "team": "EGO"
+          },
+          {
+            "acs": "0.97\n0.17\n1.63",
+            "adr": "0\n-8\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "138\n70\n195",
+            "hs%": "59%\n40%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "229",
+            "name": "Ko0",
+            "team": "EGO"
+          },
+          {
+            "acs": "0.72\n0.84\n0.63",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "84\n121\n53",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "8\n4\n4",
+            "kills": "131",
+            "name": "ducT",
+            "team": "EGO"
+          },
+          {
+            "acs": "0.69\n0.37\n0.96",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "128\n85\n165",
+            "hs%": "64%\n40%\n83%",
+            "kdr": "10\n4\n6",
+            "kills": "184",
+            "name": "Mowff",
+            "team": "EGO"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "220",
+          "name": "crazyguy",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "d0rf",
+          "team": null
+        },
+        {
+          "kills": "289",
+          "name": "Redneval",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "nTK",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "P1nA",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "n1zzy",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "Ko0",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "Mowff",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "ducT",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "Real8",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.09\n1.31\n1.20",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "57\n24\n33",
+            "fk": "158\n147\n167",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "18\n10\n8",
+            "kills": "220",
+            "name": "crazyguy",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.42\n1.17",
+            "adr": "+12\n-2\n+14",
+            "agent": "",
+            "assists": "/\n\n43\n24\n19\n\n/",
+            "deaths": "55\n22\n33",
+            "fk": "136\n116\n156",
+            "hs%": "71%\n70%\n71%",
+            "kdr": "15\n7\n8",
+            "kills": "182",
+            "name": "d0rf",
+            "team": null
+          },
+          {
+            "acs": "1.23\n1.01\n1.11",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "56\n34\n22",
+            "fk": "150\n175\n126",
+            "hs%": "71%\n73%\n69%",
+            "kdr": "21\n10\n11",
+            "kills": "289",
+            "name": "Redneval",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.00\n0.92",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n43\n21\n22\n\n/",
+            "deaths": "38\n16\n22",
+            "fk": "94\n83\n105",
+            "hs%": "72%\n70%\n74%",
+            "kdr": "13\n4\n9",
+            "kills": "137",
+            "name": "nTK",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.70\n0.71",
+            "adr": "-17\n-7\n-10",
+            "agent": "",
+            "assists": "/\n\n57\n26\n31\n\n/",
+            "deaths": "40\n19\n21",
+            "fk": "98\n96\n99",
+            "hs%": "69%\n67%\n71%",
+            "kdr": "37\n18\n19",
+            "kills": "163",
+            "name": "P1nA",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.18\n1.12",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "56\n27\n29",
+            "fk": "151\n132\n170",
+            "hs%": "72%\n69%\n76%",
+            "kdr": "11\n5\n6",
+            "kills": "227",
+            "name": "n1zzy",
+            "team": null
+          },
+          {
+            "acs": "0.70\n1.50\n1.09",
+            "adr": "+5\n-10\n+15",
+            "agent": "",
+            "assists": "/\n\n49\n29\n20\n\n/",
+            "deaths": "54\n19\n35",
+            "fk": "144\n107\n183",
+            "hs%": "71%\n71%\n70%",
+            "kdr": "12\n7\n5",
+            "kills": "181",
+            "name": "Ko0",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.89\n0.99",
+            "adr": "0\n+5\n-5",
+            "agent": "",
+            "assists": "/\n\n46\n22\n24\n\n/",
+            "deaths": "46\n27\n19",
+            "fk": "128\n121\n137",
+            "hs%": "69%\n66%\n73%",
+            "kdr": "20\n7\n13",
+            "kills": "211",
+            "name": "Mowff",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.78\n0.78",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n50\n29\n21\n\n/",
+            "deaths": "38\n22\n16",
+            "fk": "102\n121\n81",
+            "hs%": "62%\n63%\n61%",
+            "kdr": "17\n8\n9",
+            "kills": "196",
+            "name": "ducT",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.82\n0.78",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n54\n29\n25\n\n/",
+            "deaths": "44\n24\n20",
+            "fk": "119\n124\n113",
+            "hs%": "66%\n66%\n67%",
+            "kdr": "13\n5\n8",
+            "kills": "193",
+            "name": "Real8",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "232",
+          "name": "Redneval",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "229",
+          "name": "d0rf",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "151",
+          "name": "nTK",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "146",
+          "name": "P1nA",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "145",
+          "name": "crazyguy",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "398",
+          "name": "Ko0",
+          "team": "EGO"
+        },
+        {
+          "kills": "267",
+          "name": "ducT",
+          "team": "EGO"
+        },
+        {
+          "kills": "156",
+          "name": "Mowff",
+          "team": "EGO"
+        },
+        {
+          "kills": "132",
+          "name": "n1zzy",
+          "team": "EGO"
+        },
+        {
+          "kills": "108",
+          "name": "Real8",
+          "team": "EGO"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.15\n1.29\n1.06",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "155\n162\n150",
+            "hs%": "70%\n88%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "232",
+            "name": "Redneval",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "0.91\n0.29\n1.31",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "118\n56\n159",
+            "hs%": "60%\n50%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "229",
+            "name": "d0rf",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "0.70\n0.64\n0.74",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "84\n71\n93",
+            "hs%": "60%\n63%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "151",
+            "name": "nTK",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "0.70\n1.03\n0.48",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "99\n128\n80",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "5\n2\n3",
+            "kills": "146",
+            "name": "P1nA",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "0.68\n0.60\n0.73",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "92\n82\n98",
+            "hs%": "60%\n75%\n50%",
+            "kdr": "8\n4\n4",
+            "kills": "145",
+            "name": "crazyguy",
+            "team": "Steal Your Glory"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.06\n2.34",
+            "adr": "+10\n+1\n+9",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "164\n137\n204",
+            "hs%": "85%\n92%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "398",
+            "name": "Ko0",
+            "team": "EGO"
+          },
+          {
+            "acs": "1.30\n1.13\n1.55",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "163\n179\n139",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "267",
+            "name": "ducT",
+            "team": "EGO"
+          },
+          {
+            "acs": "1.21\n1.46\n0.84",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "113\n141\n72",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "9\n3\n6",
+            "kills": "156",
+            "name": "Mowff",
+            "team": "EGO"
+          },
+          {
+            "acs": "1.06\n1.22\n0.81",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "129\n150\n98",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "132",
+            "name": "n1zzy",
+            "team": "EGO"
+          },
+          {
+            "acs": "0.46\n0.58\n0.27",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "79\n93\n58",
+            "hs%": "50%\n58%\n38%",
+            "kdr": "4\n2\n2",
+            "kills": "108",
+            "name": "Real8",
+            "team": "EGO"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "302",
+          "name": "crazyguy",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "271",
+          "name": "d0rf",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "169",
+          "name": "nTK",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "218",
+          "name": "Redneval",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "197",
+          "name": "P1nA",
+          "team": "Steal Your Glory"
+        },
+        {
+          "kills": "274",
+          "name": "n1zzy",
+          "team": "EGO"
+        },
+        {
+          "kills": "222",
+          "name": "Mowff",
+          "team": "EGO"
+        },
+        {
+          "kills": "219",
+          "name": "Ko0",
+          "team": "EGO"
+        },
+        {
+          "kills": "188",
+          "name": "Real8",
+          "team": "EGO"
+        },
+        {
+          "kills": "108",
+          "name": "ducT",
+          "team": "EGO"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.45\n1.57\n1.33",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "193\n214\n172",
+            "hs%": "81%\n92%\n69%",
+            "kdr": "9\n5\n4",
+            "kills": "302",
+            "name": "crazyguy",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "1.28\n1.64\n0.91",
+            "adr": "+7\n+8\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "24\n15\n9",
+            "fk": "175\n192\n158",
+            "hs%": "73%\n85%\n62%",
+            "kdr": "5\n1\n4",
+            "kills": "271",
+            "name": "d0rf",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "1.02\n0.92\n1.11",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "92\n88\n95",
+            "hs%": "85%\n92%\n77%",
+            "kdr": "5\n3\n2",
+            "kills": "169",
+            "name": "nTK",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "1.00\n0.90\n1.09",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "134\n150\n119",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "7\n3\n4",
+            "kills": "218",
+            "name": "Redneval",
+            "team": "Steal Your Glory"
+          },
+          {
+            "acs": "0.89\n0.76\n1.02",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "115\n107\n124",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "16\n9\n7",
+            "kills": "197",
+            "name": "P1nA",
+            "team": "Steal Your Glory"
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n0.98\n1.40",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "171\n144\n198",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "4\n1\n3",
+            "kills": "274",
+            "name": "n1zzy",
+            "team": "EGO"
+          },
+          {
+            "acs": "1.07\n1.29\n0.86",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "140\n129\n151",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "1\n0\n1",
+            "kills": "222",
+            "name": "Mowff",
+            "team": "EGO"
+          },
+          {
+            "acs": "0.81\n0.77\n0.85",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "134\n108\n160",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "6\n3\n3",
+            "kills": "219",
+            "name": "Ko0",
+            "team": "EGO"
+          },
+          {
+            "acs": "0.78\n0.74\n0.82",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "123\n130\n116",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "7\n2\n5",
+            "kills": "188",
+            "name": "Real8",
+            "team": "EGO"
+          },
+          {
+            "acs": "0.43\n0.41\n0.45",
+            "adr": "-13\n-7\n-6",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "70\n68\n72",
+            "hs%": "46%\n54%\n38%",
+            "kdr": "5\n3\n2",
+            "kills": "108",
+            "name": "ducT",
+            "team": "EGO"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 17324,
+  "teams": [
+    "Steal Your Glory",
+    "EGO"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tLower Bracket Round 4"
+}

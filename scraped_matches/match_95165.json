@@ -1,0 +1,594 @@
+{
+  "date": "2022-04-30 03:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "199",
+          "name": "Blah",
+          "team": "Blitz Azira Esports"
+        },
+        {
+          "kills": "170",
+          "name": "Lizchaaan",
+          "team": "Blitz Azira Esports"
+        },
+        {
+          "kills": "146",
+          "name": "Chele",
+          "team": "Blitz Azira Esports"
+        },
+        {
+          "kills": "103",
+          "name": "Hyphae",
+          "team": "Blitz Azira Esports"
+        },
+        {
+          "kills": "179",
+          "name": "pocket",
+          "team": "Blitz Azira Esports"
+        },
+        {
+          "kills": "348",
+          "name": "Pichy",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "320",
+          "name": "1001",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "237",
+          "name": "Linysx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "101",
+          "name": "Mauvaiz",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "166",
+          "name": "pannyx",
+          "team": "GamDaeng"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "0.94\n0.70\n1.36",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "138\n129\n154",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "5\n3\n2",
+            "kills": "199",
+            "name": "Blah",
+            "team": "Blitz Azira Esports"
+          },
+          {
+            "acs": "0.82\n0.85\n0.78",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "107\n112\n97",
+            "hs%": "53%\n58%\n43%",
+            "kdr": "7\n6\n1",
+            "kills": "170",
+            "name": "Lizchaaan",
+            "team": "Blitz Azira Esports"
+          },
+          {
+            "acs": "0.71\n0.97\n0.27",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "88\n122\n31",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "5\n4\n1",
+            "kills": "146",
+            "name": "Chele",
+            "team": "Blitz Azira Esports"
+          },
+          {
+            "acs": "0.62\n0.48\n0.86",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "64\n43\n99",
+            "hs%": "47%\n50%\n43%",
+            "kdr": "1\n0\n1",
+            "kills": "103",
+            "name": "Hyphae",
+            "team": "Blitz Azira Esports"
+          },
+          {
+            "acs": "0.61\n0.69\n0.49",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "117\n145\n70",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "1\n0\n1",
+            "kills": "179",
+            "name": "pocket",
+            "team": "Blitz Azira Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.84\n2.38\n1.52",
+            "adr": "+16\n+9\n+7",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "25\n11\n14",
+            "fk": "222\n252\n205",
+            "hs%": "95%\n86%\n100%",
+            "kdr": "9\n2\n7",
+            "kills": "348",
+            "name": "Pichy",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.58\n1.20\n1.80",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "217\n177\n241",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "11\n3\n8",
+            "kills": "320",
+            "name": "1001",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.19\n1.01\n1.29",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "145\n119\n160",
+            "hs%": "63%\n71%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "237",
+            "name": "Linysx",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.92\n0.24\n1.31",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "5\n0\n5",
+            "fk": "67\n11\n99",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "15\n2\n13",
+            "kills": "101",
+            "name": "Mauvaiz",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.87\n1.23\n0.66",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "117\n152\n97",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "166",
+            "name": "pannyx",
+            "team": "GamDaeng"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "169",
+          "name": "Blah",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "Chele",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "Lizchaaan",
+          "team": null
+        },
+        {
+          "kills": "88",
+          "name": "Hyphae",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "pocket",
+          "team": null
+        },
+        {
+          "kills": "356",
+          "name": "Pichy",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "1001",
+          "team": null
+        },
+        {
+          "kills": "250",
+          "name": "pannyx",
+          "team": null
+        },
+        {
+          "kills": "280",
+          "name": "Linysx",
+          "team": null
+        },
+        {
+          "kills": "44",
+          "name": "Mauvaiz",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.84\n1.22\n0.98",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n28\n16\n12\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "142\n127\n168",
+            "hs%": "66%\n67%\n64%",
+            "kdr": "8\n6\n2",
+            "kills": "169",
+            "name": "Blah",
+            "team": null
+          },
+          {
+            "acs": "1.06\n0.63\n0.90",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n28\n17\n11\n\n/",
+            "deaths": "23\n16\n7",
+            "fk": "112\n122\n94",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "10\n8\n2",
+            "kills": "201",
+            "name": "Chele",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.51\n0.80",
+            "adr": "-12\n-5\n-7",
+            "agent": "",
+            "assists": "/\n\n31\n18\n13\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "101\n108\n88",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "19\n16\n3",
+            "kills": "184",
+            "name": "Lizchaaan",
+            "team": null
+          },
+          {
+            "acs": "0.51\n0.87\n0.64",
+            "adr": "-15\n-11\n-4",
+            "agent": "",
+            "assists": "/\n\n30\n18\n12\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "77\n56\n113",
+            "hs%": "58%\n54%\n64%",
+            "kdr": "8\n3\n5",
+            "kills": "88",
+            "name": "Hyphae",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.31\n0.61",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n33\n21\n12\n\n/",
+            "deaths": "25\n19\n6",
+            "fk": "116\n147\n63",
+            "hs%": "58%\n54%\n64%",
+            "kdr": "2\n1\n1",
+            "kills": "226",
+            "name": "pocket",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "2.10\n1.42\n1.67",
+            "adr": "+21\n+13\n+8",
+            "agent": "",
+            "assists": "/\n\n21\n7\n14\n\n/",
+            "deaths": "42\n20\n22",
+            "fk": "183\n212\n166",
+            "hs%": "87%\n93%\n83%",
+            "kdr": "25\n8\n17",
+            "kills": "356",
+            "name": "Pichy",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.52\n1.40",
+            "adr": "+14\n+2\n+12",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "36\n13\n23",
+            "fk": "183\n169\n192",
+            "hs%": "82%\n79%\n83%",
+            "kdr": "21\n6\n15",
+            "kills": "248",
+            "name": "1001",
+            "team": null
+          },
+          {
+            "acs": "1.40\n1.14\n1.23",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n21\n7\n14\n\n/",
+            "deaths": "30\n12\n18",
+            "fk": "155\n160\n152",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "11\n4\n7",
+            "kills": "250",
+            "name": "pannyx",
+            "team": null
+          },
+          {
+            "acs": "1.51\n1.07\n1.23",
+            "adr": "+12\n+7\n+5",
+            "agent": "",
+            "assists": "/\n\n22\n7\n15\n\n/",
+            "deaths": "34\n14\n20",
+            "fk": "146\n193\n119",
+            "hs%": "63%\n71%\n58%",
+            "kdr": "8\n3\n5",
+            "kills": "280",
+            "name": "Linysx",
+            "team": null
+          },
+          {
+            "acs": "0.28\n1.01\n0.74",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "70\n38\n88",
+            "hs%": "76%\n71%\n79%",
+            "kdr": "23\n5\n18",
+            "kills": "44",
+            "name": "Mauvaiz",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "Chele",
+          "team": "Blitz Azira Esports"
+        },
+        {
+          "kills": "286",
+          "name": "Blah",
+          "team": "Blitz Azira Esports"
+        },
+        {
+          "kills": "118",
+          "name": "Lizchaaan",
+          "team": "Blitz Azira Esports"
+        },
+        {
+          "kills": "192",
+          "name": "Hyphae",
+          "team": "Blitz Azira Esports"
+        },
+        {
+          "kills": "94",
+          "name": "pocket",
+          "team": "Blitz Azira Esports"
+        },
+        {
+          "kills": "313",
+          "name": "pannyx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "198",
+          "name": "Pichy",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "152",
+          "name": "Linysx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "213",
+          "name": "1001",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "96",
+          "name": "Mauvaiz",
+          "team": "GamDaeng"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.10\n1.16\n0.99",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "135\n122\n157",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "5\n4\n1",
+            "kills": "245",
+            "name": "Chele",
+            "team": "Blitz Azira Esports"
+          },
+          {
+            "acs": "1.01\n0.97\n1.08",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "145\n124\n182",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "3\n3\n0",
+            "kills": "286",
+            "name": "Blah",
+            "team": "Blitz Azira Esports"
+          },
+          {
+            "acs": "0.78\n1.10\n0.23",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "94\n103\n80",
+            "hs%": "58%\n58%\n57%",
+            "kdr": "12\n10\n2",
+            "kills": "118",
+            "name": "Lizchaaan",
+            "team": "Blitz Azira Esports"
+          },
+          {
+            "acs": "0.66\n0.53\n0.88",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "91\n70\n127",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "7\n3\n4",
+            "kills": "192",
+            "name": "Hyphae",
+            "team": "Blitz Azira Esports"
+          },
+          {
+            "acs": "0.60\n0.86\n0.14",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "114\n148\n56",
+            "hs%": "42%\n42%\n43%",
+            "kdr": "1\n1\n0",
+            "kills": "94",
+            "name": "pocket",
+            "team": "Blitz Azira Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.60\n1.57\n1.61",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "192\n169\n206",
+            "hs%": "79%\n100%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "313",
+            "name": "pannyx",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.50\n1.82\n1.32",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "143\n172\n126",
+            "hs%": "79%\n100%\n67%",
+            "kdr": "16\n6\n10",
+            "kills": "198",
+            "name": "Pichy",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.27\n2.00\n0.85",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "148\n267\n79",
+            "hs%": "63%\n71%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "152",
+            "name": "Linysx",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.21\n1.17\n1.24",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "149\n160\n142",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "10\n3\n7",
+            "kills": "213",
+            "name": "1001",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.56\n0.31\n0.71",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "72\n64\n77",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "96",
+            "name": "Mauvaiz",
+            "team": "GamDaeng"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 95165,
+  "teams": [
+    "GamDaeng",
+    "Blitz Azira Esports"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup G"
+}

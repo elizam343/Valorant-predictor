@@ -1,0 +1,806 @@
+{
+  "date": "2022-05-06 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "203",
+          "name": "JSUNG",
+          "team": "NYFU"
+        },
+        {
+          "kills": "249",
+          "name": "ShoT_UP",
+          "team": "NYFU"
+        },
+        {
+          "kills": "214",
+          "name": "neptune",
+          "team": "NYFU"
+        },
+        {
+          "kills": "244",
+          "name": "YaBoiDre",
+          "team": "NYFU"
+        },
+        {
+          "kills": "223",
+          "name": "oderus",
+          "team": "NYFU"
+        },
+        {
+          "kills": "219",
+          "name": "RunnerPS",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "224",
+          "name": "Harmon",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "215",
+          "name": "bearkun",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "159",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "176",
+          "name": "svL",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.82\n0.96",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "138\n180\n102",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "12\n5\n7",
+            "kills": "203",
+            "name": "JSUNG",
+            "team": "NYFU"
+          },
+          {
+            "acs": "1.33\n1.53\n1.16",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "159\n179\n143",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "249",
+            "name": "ShoT_UP",
+            "team": "NYFU"
+          },
+          {
+            "acs": "1.26\n1.65\n0.94",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "136\n159\n117",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "8\n7\n1",
+            "kills": "214",
+            "name": "neptune",
+            "team": "NYFU"
+          },
+          {
+            "acs": "1.10\n0.69\n1.44",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "162\n128\n189",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "244",
+            "name": "YaBoiDre",
+            "team": "NYFU"
+          },
+          {
+            "acs": "0.94\n0.98\n0.91",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "144\n137\n150",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "223",
+            "name": "oderus",
+            "team": "NYFU"
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n1.33\n0.85",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "151\n187\n108",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "3\n3\n0",
+            "kills": "219",
+            "name": "RunnerPS",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.99\n0.90\n1.09",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "156\n144\n169",
+            "hs%": "82%\n92%\n70%",
+            "kdr": "7\n2\n5",
+            "kills": "224",
+            "name": "Harmon",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.89\n0.75\n1.06",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "153\n135\n174",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "12\n6\n6",
+            "kills": "215",
+            "name": "bearkun",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.64\n1.05\n0.15",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "97\n103\n91",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "5\n2\n3",
+            "kills": "159",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.63\n0.65\n0.61",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "122\n125\n118",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "10\n5\n5",
+            "kills": "176",
+            "name": "svL",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "218",
+          "name": "YaBoiDre",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "neptune",
+          "team": null
+        },
+        {
+          "kills": "277",
+          "name": "ShoT_UP",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "JSUNG",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "oderus",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "RunnerPS",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "bearkun",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "Harmon",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "svL",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "dip",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "MOCKING",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.00\n1.52\n1.27",
+            "adr": "+17\n+1\n+16",
+            "agent": "",
+            "assists": "/\n\n51\n28\n23\n\n/",
+            "deaths": "68\n29\n39",
+            "fk": "163\n137\n188",
+            "hs%": "79%\n69%\n89%",
+            "kdr": "17\n5\n12",
+            "kills": "218",
+            "name": "YaBoiDre",
+            "team": null
+          },
+          {
+            "acs": "1.15\n1.26\n1.21",
+            "adr": "+10\n+1\n+9",
+            "agent": "",
+            "assists": "/\n\n43\n21\n22\n\n/",
+            "deaths": "53\n22\n31",
+            "fk": "151\n140\n161",
+            "hs%": "82%\n86%\n78%",
+            "kdr": "27\n14\n13",
+            "kills": "200",
+            "name": "neptune",
+            "team": null
+          },
+          {
+            "acs": "1.27\n1.09\n1.18",
+            "adr": "+12\n+10\n+2",
+            "agent": "",
+            "assists": "/\n\n55\n27\n28\n\n/",
+            "deaths": "67\n37\n30",
+            "fk": "173\n191\n156",
+            "hs%": "75%\n74%\n76%",
+            "kdr": "15\n6\n9",
+            "kills": "277",
+            "name": "ShoT_UP",
+            "team": null
+          },
+          {
+            "acs": "1.06\n1.08\n1.07",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "47\n23\n24",
+            "fk": "122\n125\n119",
+            "hs%": "81%\n86%\n76%",
+            "kdr": "38\n20\n18",
+            "kills": "195",
+            "name": "JSUNG",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.13\n1.02",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n46\n25\n21\n\n/",
+            "deaths": "47\n23\n24",
+            "fk": "120\n106\n133",
+            "hs%": "69%\n69%\n70%",
+            "kdr": "21\n11\n10",
+            "kills": "176",
+            "name": "oderus",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.08\n1.07",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n37\n20\n17\n\n/",
+            "deaths": "44\n21\n23",
+            "fk": "152\n141\n165",
+            "hs%": "75%\n68%\n83%",
+            "kdr": "8\n5\n3",
+            "kills": "224",
+            "name": "RunnerPS",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.16\n1.01",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n54\n31\n23\n\n/",
+            "deaths": "52\n25\n27",
+            "fk": "138\n129\n149",
+            "hs%": "71%\n65%\n77%",
+            "kdr": "19\n8\n11",
+            "kills": "206",
+            "name": "bearkun",
+            "team": null
+          },
+          {
+            "acs": "0.70\n1.24\n0.97",
+            "adr": "-8\n-11\n+3",
+            "agent": "",
+            "assists": "/\n\n56\n31\n25\n\n/",
+            "deaths": "48\n20\n28",
+            "fk": "139\n106\n174",
+            "hs%": "68%\n59%\n77%",
+            "kdr": "20\n6\n14",
+            "kills": "158",
+            "name": "Harmon",
+            "team": null
+          },
+          {
+            "acs": "0.83\n0.74\n0.79",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n56\n30\n26\n\n/",
+            "deaths": "45\n27\n18",
+            "fk": "114\n115\n113",
+            "hs%": "72%\n68%\n77%",
+            "kdr": "26\n12\n14",
+            "kills": "193",
+            "name": "svL",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.84\n0.74",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "131\n123\n139",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "11\n6\n5",
+            "kills": "185",
+            "name": "dip",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.65\n0.69",
+            "adr": "-21\n-11\n-10",
+            "agent": "",
+            "assists": "/\n\n58\n28\n30\n\n/",
+            "deaths": "37\n17\n20",
+            "fk": "110\n101\n120",
+            "hs%": "57%\n54%\n60%",
+            "kdr": "17\n9\n8",
+            "kills": "150",
+            "name": "MOCKING",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "251",
+          "name": "YaBoiDre",
+          "team": "NYFU"
+        },
+        {
+          "kills": "248",
+          "name": "neptune",
+          "team": "NYFU"
+        },
+        {
+          "kills": "287",
+          "name": "ShoT_UP",
+          "team": "NYFU"
+        },
+        {
+          "kills": "161",
+          "name": "oderus",
+          "team": "NYFU"
+        },
+        {
+          "kills": "186",
+          "name": "JSUNG",
+          "team": "NYFU"
+        },
+        {
+          "kills": "304",
+          "name": "RunnerPS",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "270",
+          "name": "Harmon",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "220",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "114",
+          "name": "svL",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "161",
+          "name": "bearkun",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.26\n1.23\n1.29",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "136\n131\n142",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "8\n2\n6",
+            "kills": "251",
+            "name": "YaBoiDre",
+            "team": "NYFU"
+          },
+          {
+            "acs": "1.21\n0.95\n1.47",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "139\n111\n167",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "11\n6\n5",
+            "kills": "248",
+            "name": "neptune",
+            "team": "NYFU"
+          },
+          {
+            "acs": "0.95\n0.96\n0.95",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "187\n187\n187",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "4\n1\n3",
+            "kills": "287",
+            "name": "ShoT_UP",
+            "team": "NYFU"
+          },
+          {
+            "acs": "0.89\n0.89\n0.89",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "99\n101\n96",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "10\n5\n5",
+            "kills": "161",
+            "name": "oderus",
+            "team": "NYFU"
+          },
+          {
+            "acs": "0.89\n0.64\n1.14",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "115\n104\n126",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "12\n6\n6",
+            "kills": "186",
+            "name": "JSUNG",
+            "team": "NYFU"
+          }
+        ],
+        [
+          {
+            "acs": "1.02\n0.80\n1.25",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "153\n98\n209",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "304",
+            "name": "RunnerPS",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.99\n0.55\n1.43",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "124\n61\n187",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "7\n2\n5",
+            "kills": "270",
+            "name": "Harmon",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.98\n1.12\n0.85",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "132\n129\n134",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "8\n6\n2",
+            "kills": "220",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.92\n1.07\n0.78",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "99\n114\n84",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "11\n6\n5",
+            "kills": "114",
+            "name": "svL",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.91\n0.78\n1.05",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "117\n127\n107",
+            "hs%": "69%\n54%\n85%",
+            "kdr": "3\n2\n1",
+            "kills": "161",
+            "name": "bearkun",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "310",
+          "name": "YaBoiDre",
+          "team": "NYFU"
+        },
+        {
+          "kills": "236",
+          "name": "ShoT_UP",
+          "team": "NYFU"
+        },
+        {
+          "kills": "198",
+          "name": "oderus",
+          "team": "NYFU"
+        },
+        {
+          "kills": "207",
+          "name": "neptune",
+          "team": "NYFU"
+        },
+        {
+          "kills": "179",
+          "name": "JSUNG",
+          "team": "NYFU"
+        },
+        {
+          "kills": "221",
+          "name": "bearkun",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "201",
+          "name": "Harmon",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "182",
+          "name": "svL",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "195",
+          "name": "dip",
+          "team": "Lenny Time"
+        },
+        {
+          "kills": "132",
+          "name": "MOCKING",
+          "team": "Lenny Time"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.44\n1.02\n1.86",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "194\n151\n238",
+            "hs%": "79%\n58%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "310",
+            "name": "YaBoiDre",
+            "team": "NYFU"
+          },
+          {
+            "acs": "1.28\n1.38\n1.18",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "171\n206\n136",
+            "hs%": "88%\n75%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "236",
+            "name": "ShoT_UP",
+            "team": "NYFU"
+          },
+          {
+            "acs": "1.24\n0.87\n1.60",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "121\n84\n157",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "198",
+            "name": "oderus",
+            "team": "NYFU"
+          },
+          {
+            "acs": "1.16\n0.96\n1.36",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "178\n156\n199",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "8\n1\n7",
+            "kills": "207",
+            "name": "neptune",
+            "team": "NYFU"
+          },
+          {
+            "acs": "1.00\n0.88\n1.12",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "115\n102\n128",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "14\n9\n5",
+            "kills": "179",
+            "name": "JSUNG",
+            "team": "NYFU"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n1.06\n1.38",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "149\n125\n172",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "221",
+            "name": "bearkun",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.92\n0.67\n1.16",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "141\n118\n165",
+            "hs%": "63%\n33%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "201",
+            "name": "Harmon",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.79\n0.75\n0.83",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "123\n107\n139",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "182",
+            "name": "svL",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.74\n0.64\n0.84",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "131\n123\n139",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "11\n6\n5",
+            "kills": "195",
+            "name": "dip",
+            "team": "Lenny Time"
+          },
+          {
+            "acs": "0.41\n0.03\n0.84",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "98\n69\n128",
+            "hs%": "38%\n17%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "132",
+            "name": "MOCKING",
+            "team": "Lenny Time"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 97178,
+  "teams": [
+    "Lenny Time",
+    "NYFU"
+  ],
+  "tournament": "Open Qualifier #2: \n\t\t\t\t\t\tUpper Round of 32"
+}

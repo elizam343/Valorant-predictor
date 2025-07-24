@@ -1,0 +1,788 @@
+{
+  "date": "2021-05-16 17:50:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "321",
+          "name": "Bob",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "398",
+          "name": "dizzyLife",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "290",
+          "name": "pl1xx",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "230",
+          "name": "Crunchy",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "66",
+          "name": "iyen",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "224",
+          "name": "POISED",
+          "team": "Rise"
+        },
+        {
+          "kills": "148",
+          "name": "Shanks",
+          "team": "Rise"
+        },
+        {
+          "kills": "155",
+          "name": "c4Lypso",
+          "team": "Rise"
+        },
+        {
+          "kills": "96",
+          "name": "Derrek",
+          "team": "Rise"
+        },
+        {
+          "kills": "131",
+          "name": "neptune",
+          "team": "Rise"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.82\n0.62\n2.02",
+            "adr": "+13\n+1\n+12",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "19\n2\n17",
+            "fk": "208\n52\n234",
+            "hs%": "93%\n50%\n100%",
+            "kdr": "5\n0\n5",
+            "kills": "321",
+            "name": "Bob",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "1.70\n2.03\n1.64",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "19\n3\n16",
+            "fk": "207\n121\n221",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "7\n3\n4",
+            "kills": "398",
+            "name": "dizzyLife",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "1.46\n1.44\n1.46",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "158\n91\n169",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "290",
+            "name": "pl1xx",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "1.44\n1.80\n1.38",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "138\n0\n161",
+            "hs%": "79%\n100%\n75%",
+            "kdr": "8\n0\n8",
+            "kills": "230",
+            "name": "Crunchy",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.48\n0.62\n0.46",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "31\n38\n30",
+            "hs%": "71%\n100%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "66",
+            "name": "iyen",
+            "team": "Soniqs"
+          }
+        ],
+        [
+          {
+            "acs": "0.86\n0.86\n0.84",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "111\n115\n91",
+            "hs%": "64%\n58%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "224",
+            "name": "POISED",
+            "team": "Rise"
+          },
+          {
+            "acs": "0.63\n0.62\n0.67",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "71\n80\n15",
+            "hs%": "64%\n67%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "148",
+            "name": "Shanks",
+            "team": "Rise"
+          },
+          {
+            "acs": "0.59\n0.69\n0.02",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "106\n122\n13",
+            "hs%": "57%\n58%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "155",
+            "name": "c4Lypso",
+            "team": "Rise"
+          },
+          {
+            "acs": "0.42\n0.46\n0.20",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "4\n4\n0",
+            "fk": "67\n78\n6",
+            "hs%": "71%\n75%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "96",
+            "name": "Derrek",
+            "team": "Rise"
+          },
+          {
+            "acs": "0.29\n0.29\n0.23",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "76\n80\n55",
+            "hs%": "57%\n58%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "131",
+            "name": "neptune",
+            "team": "Rise"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "290",
+          "name": "dizzyLife",
+          "team": null
+        },
+        {
+          "kills": "117",
+          "name": "pl1xx",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "Crunchy",
+          "team": null
+        },
+        {
+          "kills": "134",
+          "name": "Bob",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "iyen",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "c4Lypso",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "POISED",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Derrek",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "Shanks",
+          "team": null
+        },
+        {
+          "kills": "118",
+          "name": "neptune",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.23\n1.48\n1.36",
+            "adr": "+16\n-1\n+17",
+            "agent": "",
+            "assists": "/\n\n45\n25\n20\n\n/",
+            "deaths": "61\n24\n37",
+            "fk": "181\n176\n186",
+            "hs%": "79%\n69%\n87%",
+            "kdr": "21\n12\n9",
+            "kills": "290",
+            "name": "dizzyLife",
+            "team": null
+          },
+          {
+            "acs": "0.38\n1.55\n1.02",
+            "adr": "+1\n-17\n+18",
+            "agent": "",
+            "assists": "/\n\n41\n25\n16\n\n/",
+            "deaths": "42\n8\n34",
+            "fk": "129\n76\n174",
+            "hs%": "72%\n62%\n81%",
+            "kdr": "14\n8\n6",
+            "kills": "117",
+            "name": "pl1xx",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.18\n0.99",
+            "adr": "+1\n-6\n+7",
+            "agent": "",
+            "assists": "/\n\n38\n22\n16\n\n/",
+            "deaths": "39\n16\n23",
+            "fk": "122\n112\n130",
+            "hs%": "63%\n58%\n68%",
+            "kdr": "17\n6\n11",
+            "kills": "177",
+            "name": "Crunchy",
+            "team": null
+          },
+          {
+            "acs": "0.26\n1.30\n0.83",
+            "adr": "-10\n-17\n+7",
+            "agent": "",
+            "assists": "/\n\n44\n27\n17\n\n/",
+            "deaths": "34\n10\n24",
+            "fk": "124\n94\n148",
+            "hs%": "63%\n42%\n81%",
+            "kdr": "24\n4\n20",
+            "kills": "134",
+            "name": "Bob",
+            "team": null
+          },
+          {
+            "acs": "0.51\n0.84\n0.68",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n39\n23\n16\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "82\n72\n90",
+            "hs%": "67%\n50%\n81%",
+            "kdr": "11\n2\n9",
+            "kills": "133",
+            "name": "iyen",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.95\n1.60\n1.24",
+            "adr": "+13\n-2\n+15",
+            "agent": "",
+            "assists": "/\n\n37\n25\n12\n\n/",
+            "deaths": "50\n23\n27",
+            "fk": "144\n116\n178",
+            "hs%": "75%\n61%\n92%",
+            "kdr": "16\n5\n11",
+            "kills": "210",
+            "name": "c4Lypso",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.48\n1.10",
+            "adr": "+7\n-6\n+13",
+            "agent": "",
+            "assists": "/\n\n43\n27\n16\n\n/",
+            "deaths": "50\n21\n29",
+            "fk": "142\n103\n190",
+            "hs%": "79%\n68%\n92%",
+            "kdr": "16\n7\n9",
+            "kills": "183",
+            "name": "POISED",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.33\n1.02",
+            "adr": "-6\n-11\n+5",
+            "agent": "",
+            "assists": "/\n\n42\n26\n16\n\n/",
+            "deaths": "36\n15\n21",
+            "fk": "133\n92\n181",
+            "hs%": "77%\n71%\n85%",
+            "kdr": "30\n14\n16",
+            "kills": "157",
+            "name": "Derrek",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.18\n0.91",
+            "adr": "-4\n-12\n+8",
+            "agent": "",
+            "assists": "/\n\n43\n27\n16\n\n/",
+            "deaths": "39\n15\n24",
+            "fk": "112\n89\n140",
+            "hs%": "79%\n71%\n88%",
+            "kdr": "11\n6\n5",
+            "kills": "148",
+            "name": "Shanks",
+            "team": null
+          },
+          {
+            "acs": "0.38\n1.35\n0.82",
+            "adr": "-7\n-18\n+11",
+            "agent": "",
+            "assists": "/\n\n39\n29\n10\n\n/",
+            "deaths": "32\n11\n21",
+            "fk": "105\n79\n136",
+            "hs%": "74%\n61%\n88%",
+            "kdr": "17\n8\n9",
+            "kills": "118",
+            "name": "neptune",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "351",
+          "name": "dizzyLife",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "121",
+          "name": "iyen",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "236",
+          "name": "pl1xx",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "233",
+          "name": "Crunchy",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "186",
+          "name": "Bob",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "311",
+          "name": "Shanks",
+          "team": "Rise"
+        },
+        {
+          "kills": "247",
+          "name": "c4Lypso",
+          "team": "Rise"
+        },
+        {
+          "kills": "370",
+          "name": "Derrek",
+          "team": "Rise"
+        },
+        {
+          "kills": "263",
+          "name": "POISED",
+          "team": "Rise"
+        },
+        {
+          "kills": "162",
+          "name": "neptune",
+          "team": "Rise"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.16\n1.42",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "174\n183\n165",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "12\n7\n5",
+            "kills": "351",
+            "name": "dizzyLife",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.89\n0.97\n0.81",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "91\n100\n80",
+            "hs%": "74%\n58%\n91%",
+            "kdr": "3\n0\n3",
+            "kills": "121",
+            "name": "iyen",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.82\n0.13\n1.57",
+            "adr": "-6\n-11\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "11\n1\n10",
+            "fk": "94\n46\n148",
+            "hs%": "70%\n58%\n82%",
+            "kdr": "6\n3\n3",
+            "kills": "236",
+            "name": "pl1xx",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.78\n0.74\n0.83",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "108\n103\n114",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "5\n5\n0",
+            "kills": "233",
+            "name": "Crunchy",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.66\n0.14\n1.23",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n14\n7\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "115\n96\n135",
+            "hs%": "61%\n50%\n73%",
+            "kdr": "16\n2\n14",
+            "kills": "186",
+            "name": "Bob",
+            "team": "Soniqs"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n0.94\n1.61",
+            "adr": "+6\n-3\n+9",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "156\n117\n192",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "6\n4\n2",
+            "kills": "311",
+            "name": "Shanks",
+            "team": "Rise"
+          },
+          {
+            "acs": "1.28\n1.24\n1.31",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "153\n140\n166",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "8\n2\n6",
+            "kills": "247",
+            "name": "c4Lypso",
+            "team": "Rise"
+          },
+          {
+            "acs": "1.24\n0.85\n1.59",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "182\n108\n250",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "16\n8\n8",
+            "kills": "370",
+            "name": "Derrek",
+            "team": "Rise"
+          },
+          {
+            "acs": "1.19\n0.67\n1.67",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "138\n87\n185",
+            "hs%": "87%\n73%\n100%",
+            "kdr": "8\n2\n6",
+            "kills": "263",
+            "name": "POISED",
+            "team": "Rise"
+          },
+          {
+            "acs": "0.85\n0.61\n1.07",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "100\n84\n116",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "10\n4\n6",
+            "kills": "162",
+            "name": "neptune",
+            "team": "Rise"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "270",
+          "name": "dizzyLife",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "221",
+          "name": "pl1xx",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "183",
+          "name": "Crunchy",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "160",
+          "name": "iyen",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "97",
+          "name": "Bob",
+          "team": "Soniqs"
+        },
+        {
+          "kills": "279",
+          "name": "c4Lypso",
+          "team": "Rise"
+        },
+        {
+          "kills": "206",
+          "name": "Derrek",
+          "team": "Rise"
+        },
+        {
+          "kills": "274",
+          "name": "POISED",
+          "team": "Rise"
+        },
+        {
+          "kills": "193",
+          "name": "neptune",
+          "team": "Rise"
+        },
+        {
+          "kills": "152",
+          "name": "Shanks",
+          "team": "Rise"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.22\n1.16\n1.32",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "171\n178\n162",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "270",
+            "name": "dizzyLife",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.93\n0.45\n1.66",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "150\n104\n219",
+            "hs%": "65%\n58%\n75%",
+            "kdr": "5\n4\n1",
+            "kills": "221",
+            "name": "pl1xx",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.92\n0.63\n1.34",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "126\n140\n106",
+            "hs%": "60%\n50%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "183",
+            "name": "Crunchy",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.59\n0.03\n1.48",
+            "adr": "-7\n-10\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "107\n49\n194",
+            "hs%": "55%\n33%\n88%",
+            "kdr": "4\n1\n3",
+            "kills": "160",
+            "name": "iyen",
+            "team": "Soniqs"
+          },
+          {
+            "acs": "0.32\n0.31\n0.33",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "75\n99\n38",
+            "hs%": "45%\n33%\n63%",
+            "kdr": "3\n2\n1",
+            "kills": "97",
+            "name": "Bob",
+            "team": "Soniqs"
+          }
+        ],
+        [
+          {
+            "acs": "1.67\n0.92\n2.16",
+            "adr": "+14\n0\n+14",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "23\n6\n17",
+            "fk": "160\n74\n218",
+            "hs%": "85%\n63%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "279",
+            "name": "c4Lypso",
+            "team": "Rise"
+          },
+          {
+            "acs": "1.19\n1.09\n1.25",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "122\n91\n142",
+            "hs%": "85%\n75%\n92%",
+            "kdr": "9\n2\n7",
+            "kills": "206",
+            "name": "Derrek",
+            "team": "Rise"
+          },
+          {
+            "acs": "1.17\n0.81\n1.40",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "20\n4\n16",
+            "fk": "169\n107\n211",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "274",
+            "name": "POISED",
+            "team": "Rise"
+          },
+          {
+            "acs": "1.16\n0.18\n1.81",
+            "adr": "+3\n-6\n+9",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "130\n72\n169",
+            "hs%": "75%\n50%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "193",
+            "name": "neptune",
+            "team": "Rise"
+          },
+          {
+            "acs": "0.68\n0.46\n0.83",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "92\n65\n109",
+            "hs%": "90%\n88%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "152",
+            "name": "Shanks",
+            "team": "Rise"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 18235,
+  "teams": [
+    "Rise",
+    "Soniqs"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tSemifinals"
+}

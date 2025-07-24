@@ -1,0 +1,630 @@
+{
+  "date": "2023-01-25 20:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "211",
+          "name": "Misery",
+          "team": "Azzy White"
+        },
+        {
+          "kills": "150",
+          "name": "Lele",
+          "team": "Azzy White"
+        },
+        {
+          "kills": "164",
+          "name": "Sheeyla",
+          "team": "Azzy White"
+        },
+        {
+          "kills": "171",
+          "name": "Kira",
+          "team": "Azzy White"
+        },
+        {
+          "kills": "156",
+          "name": "Lunita",
+          "team": "Azzy White"
+        },
+        {
+          "kills": "299",
+          "name": "Hakari",
+          "team": "B\u00e1axal Esports"
+        },
+        {
+          "kills": "235",
+          "name": "Nube",
+          "team": "B\u00e1axal Esports"
+        },
+        {
+          "kills": "225",
+          "name": "AnLuu",
+          "team": "B\u00e1axal Esports"
+        },
+        {
+          "kills": "157",
+          "name": "Pokyu",
+          "team": "B\u00e1axal Esports"
+        },
+        {
+          "kills": "218",
+          "name": "Miffy",
+          "team": "B\u00e1axal Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.08\n1.00\n1.11",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "152\n76\n184",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "8\n0\n8",
+            "kills": "211",
+            "name": "Misery",
+            "team": "Azzy White"
+          },
+          {
+            "acs": "0.90\n0.63\n1.01",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "119\n53\n147",
+            "hs%": "65%\n60%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "150",
+            "name": "Lele",
+            "team": "Azzy White"
+          },
+          {
+            "acs": "0.83\n1.23\n0.67",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "107\n124\n100",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "164",
+            "name": "Sheeyla",
+            "team": "Azzy White"
+          },
+          {
+            "acs": "0.60\n0.25\n0.75",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "95\n58\n110",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "171",
+            "name": "Kira",
+            "team": "Azzy White"
+          },
+          {
+            "acs": "0.51\n0.69\n0.43",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "106\n110\n104",
+            "hs%": "47%\n40%\n50%",
+            "kdr": "7\n2\n5",
+            "kills": "156",
+            "name": "Lunita",
+            "team": "Azzy White"
+          }
+        ],
+        [
+          {
+            "acs": "1.55\n1.35\n2.05",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "188\n176\n218",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "299",
+            "name": "Hakari",
+            "team": "B\u00e1axal Esports"
+          },
+          {
+            "acs": "1.48\n1.85\n0.61",
+            "adr": "+8\n+10\n-2",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "16\n16\n0",
+            "fk": "152\n201\n33",
+            "hs%": "82%\n92%\n60%",
+            "kdr": "7\n5\n2",
+            "kills": "235",
+            "name": "Nube",
+            "team": "B\u00e1axal Esports"
+          },
+          {
+            "acs": "1.34\n1.39\n1.21",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "161\n173\n134",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "5\n4\n1",
+            "kills": "225",
+            "name": "AnLuu",
+            "team": "B\u00e1axal Esports"
+          },
+          {
+            "acs": "0.98\n0.78\n1.44",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "88\n90\n83",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "14\n7\n7",
+            "kills": "157",
+            "name": "Pokyu",
+            "team": "B\u00e1axal Esports"
+          },
+          {
+            "acs": "0.93\n0.92\n0.97",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "134\n111\n188",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "218",
+            "name": "Miffy",
+            "team": "B\u00e1axal Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "124",
+          "name": "Misery",
+          "team": null
+        },
+        {
+          "kills": "93",
+          "name": "Lele",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "Sheeyla",
+          "team": null
+        },
+        {
+          "kills": "69",
+          "name": "Kira",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "Lunita",
+          "team": null
+        },
+        {
+          "kills": "",
+          "name": "Yazz",
+          "team": null
+        },
+        {
+          "kills": "279",
+          "name": "Hakari",
+          "team": null
+        },
+        {
+          "kills": "320",
+          "name": "Nube",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "AnLuu",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "Pokyu",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "Miffy",
+          "team": null
+        },
+        {
+          "kills": "",
+          "name": "LariJokeis",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.00\n1.11\n1.08",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "152\n76\n184",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "8\n0\n8",
+            "kills": "124",
+            "name": "Misery",
+            "team": null
+          },
+          {
+            "acs": "0.63\n1.01\n0.90",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "119\n53\n147",
+            "hs%": "65%\n60%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "93",
+            "name": "Lele",
+            "team": null
+          },
+          {
+            "acs": "1.23\n0.67\n0.83",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "107\n124\n100",
+            "hs%": "71%\n80%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "197",
+            "name": "Sheeyla",
+            "team": null
+          },
+          {
+            "acs": "0.25\n0.75\n0.60",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "95\n58\n110",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "69",
+            "name": "Kira",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.43\n0.51",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "106\n110\n104",
+            "hs%": "47%\n40%\n50%",
+            "kdr": "7\n2\n5",
+            "kills": "191",
+            "name": "Lunita",
+            "team": null
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Yazz",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n2.05\n1.55",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "188\n176\n218",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "279",
+            "name": "Hakari",
+            "team": null
+          },
+          {
+            "acs": "1.85\n0.61\n1.48",
+            "adr": "+8\n+10\n-2",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "16\n16\n0",
+            "fk": "152\n201\n33",
+            "hs%": "82%\n92%\n60%",
+            "kdr": "7\n5\n2",
+            "kills": "320",
+            "name": "Nube",
+            "team": null
+          },
+          {
+            "acs": "1.39\n1.21\n1.34",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "161\n173\n134",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "5\n4\n1",
+            "kills": "248",
+            "name": "AnLuu",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.44\n0.98",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "88\n90\n83",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "14\n7\n7",
+            "kills": "145",
+            "name": "Pokyu",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.97\n0.93",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "134\n111\n188",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "195",
+            "name": "Miffy",
+            "team": null
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "LariJokeis",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "",
+          "name": "Lunita",
+          "team": "Azzy White"
+        },
+        {
+          "kills": "",
+          "name": "Misery",
+          "team": "Azzy White"
+        },
+        {
+          "kills": "",
+          "name": "Yazz",
+          "team": "Azzy White"
+        },
+        {
+          "kills": "",
+          "name": "Kira",
+          "team": "Azzy White"
+        },
+        {
+          "kills": "",
+          "name": "Sheeyla",
+          "team": "Azzy White"
+        },
+        {
+          "kills": "",
+          "name": "Hakari",
+          "team": "B\u00e1axal Esports"
+        },
+        {
+          "kills": "",
+          "name": "AnLuu",
+          "team": "B\u00e1axal Esports"
+        },
+        {
+          "kills": "",
+          "name": "Pokyu",
+          "team": "B\u00e1axal Esports"
+        },
+        {
+          "kills": "",
+          "name": "LariJokeis",
+          "team": "B\u00e1axal Esports"
+        },
+        {
+          "kills": "",
+          "name": "Miffy",
+          "team": "B\u00e1axal Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "TBD",
+      "players": [
+        [
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Lunita",
+            "team": "Azzy White"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Misery",
+            "team": "Azzy White"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Yazz",
+            "team": "Azzy White"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Kira",
+            "team": "Azzy White"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Sheeyla",
+            "team": "Azzy White"
+          }
+        ],
+        [
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Hakari",
+            "team": "B\u00e1axal Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "AnLuu",
+            "team": "B\u00e1axal Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Pokyu",
+            "team": "B\u00e1axal Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "LariJokeis",
+            "team": "B\u00e1axal Esports"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Miffy",
+            "team": "B\u00e1axal Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 168798,
+  "teams": [
+    "Azzy White",
+    "B\u00e1axal Esports"
+  ],
+  "tournament": "LATAM North - Open Qualifier: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

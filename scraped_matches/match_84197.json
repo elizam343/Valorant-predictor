@@ -1,0 +1,806 @@
+{
+  "date": "2022-04-02 00:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "314",
+          "name": "1001",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "245",
+          "name": "Wisdom",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "221",
+          "name": "pannyx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "243",
+          "name": "Pichy",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "98",
+          "name": "Mauvaiz",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "399",
+          "name": "h a n a",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "237",
+          "name": "kxtharsis",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "211",
+          "name": "HadiA",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "211",
+          "name": "Asa",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "111",
+          "name": "Fluff",
+          "team": "DUELIST"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.65\n1.29\n1.99",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "26\n10\n16",
+            "fk": "213\n196\n228",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "314",
+            "name": "1001",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.08\n0.95\n1.20",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "168\n158\n177",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "245",
+            "name": "Wisdom",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.98\n0.75\n1.19",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "132\n119\n145",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "221",
+            "name": "pannyx",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.95\n0.55\n1.32",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "156\n110\n198",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "243",
+            "name": "Pichy",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.35\n0.12\n0.56",
+            "adr": "-15\n-11\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "70\n66\n73",
+            "hs%": "65%\n45%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "98",
+            "name": "Mauvaiz",
+            "team": "GamDaeng"
+          }
+        ],
+        [
+          {
+            "acs": "1.91\n2.00\n1.81",
+            "adr": "+20\n+9\n+11",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "35\n19\n16",
+            "fk": "231\n258\n201",
+            "hs%": "87%\n92%\n82%",
+            "kdr": "3\n1\n2",
+            "kills": "399",
+            "name": "h a n a",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "1.10\n0.56\n1.69",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "158\n100\n221",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "8\n1\n7",
+            "kills": "237",
+            "name": "kxtharsis",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "1.02\n0.59\n1.49",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "137\n119\n158",
+            "hs%": "83%\n67%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "211",
+            "name": "HadiA",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "0.96\n0.28\n1.70",
+            "adr": "-2\n-8\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "145\n71\n226",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "13\n6\n7",
+            "kills": "211",
+            "name": "Asa",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "0.23\n0.45\n0.03",
+            "adr": "-13\n-6\n-7",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "76\n82\n70",
+            "hs%": "52%\n58%\n45%",
+            "kdr": "4\n2\n2",
+            "kills": "111",
+            "name": "Fluff",
+            "team": "DUELIST"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "250",
+          "name": "1001",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "Linysx",
+          "team": null
+        },
+        {
+          "kills": "263",
+          "name": "Wisdom",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "Pichy",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "pannyx",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "Mauvaiz",
+          "team": null
+        },
+        {
+          "kills": "283",
+          "name": "h a n a",
+          "team": null
+        },
+        {
+          "kills": "267",
+          "name": "kxtharsis",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "HadiA",
+          "team": null
+        },
+        {
+          "kills": "120",
+          "name": "Asa",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "Fluff",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.20\n1.55\n1.38",
+            "adr": "+23\n+7\n+16",
+            "agent": "",
+            "assists": "/\n\n54\n28\n26\n\n/",
+            "deaths": "77\n35\n42",
+            "fk": "182\n159\n203",
+            "hs%": "69%\n63%\n74%",
+            "kdr": "22\n13\n9",
+            "kills": "250",
+            "name": "1001",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.41\n1.20",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n38\n20\n18\n\n/",
+            "deaths": "48\n20\n28",
+            "fk": "167\n139\n195",
+            "hs%": "74%\n70%\n78%",
+            "kdr": "11\n5\n6",
+            "kills": "227",
+            "name": "Linysx",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.20\n1.08",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "168\n158\n177",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "263",
+            "name": "Wisdom",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.21\n1.04",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n58\n30\n28\n\n/",
+            "deaths": "54\n21\n33",
+            "fk": "138\n108\n166",
+            "hs%": "73%\n66%\n79%",
+            "kdr": "46\n24\n22",
+            "kills": "169",
+            "name": "Pichy",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.08\n1.01",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n53\n28\n25\n\n/",
+            "deaths": "51\n22\n29",
+            "fk": "126\n125\n126",
+            "hs%": "77%\n74%\n79%",
+            "kdr": "25\n14\n11",
+            "kills": "181",
+            "name": "pannyx",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.55\n0.67",
+            "adr": "-29\n-13\n-16",
+            "agent": "",
+            "assists": "/\n\n59\n31\n28\n\n/",
+            "deaths": "30\n18\n12",
+            "fk": "97\n118\n77",
+            "hs%": "64%\n63%\n64%",
+            "kdr": "24\n14\n10",
+            "kills": "169",
+            "name": "Mauvaiz",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.38\n1.33",
+            "adr": "+28\n+8\n+20",
+            "agent": "",
+            "assists": "/\n\n52\n32\n20\n\n/",
+            "deaths": "80\n40\n40",
+            "fk": "174\n179\n168",
+            "hs%": "73%\n72%\n74%",
+            "kdr": "10\n4\n6",
+            "kills": "283",
+            "name": "h a n a",
+            "team": null
+          },
+          {
+            "acs": "1.32\n0.84\n1.08",
+            "adr": "+2\n+9\n-7",
+            "agent": "",
+            "assists": "/\n\n52\n26\n26\n\n/",
+            "deaths": "54\n35\n19",
+            "fk": "148\n170\n124",
+            "hs%": "70%\n72%\n68%",
+            "kdr": "24\n9\n15",
+            "kills": "267",
+            "name": "kxtharsis",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.36\n1.05",
+            "adr": "+6\n-8\n+14",
+            "agent": "",
+            "assists": "/\n\n56\n32\n24\n\n/",
+            "deaths": "62\n24\n38",
+            "fk": "145\n123\n168",
+            "hs%": "71%\n59%\n84%",
+            "kdr": "17\n7\n10",
+            "kills": "183",
+            "name": "HadiA",
+            "team": null
+          },
+          {
+            "acs": "0.54\n0.90\n0.72",
+            "adr": "-19\n-16\n-3",
+            "agent": "",
+            "assists": "/\n\n59\n32\n27\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "96\n73\n120",
+            "hs%": "73%\n72%\n74%",
+            "kdr": "26\n14\n12",
+            "kills": "120",
+            "name": "Asa",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.93\n0.72",
+            "adr": "-14\n-15\n+1",
+            "agent": "",
+            "assists": "/\n\n58\n32\n26\n\n/",
+            "deaths": "44\n17\n27",
+            "fk": "116\n99\n134",
+            "hs%": "64%\n64%\n63%",
+            "kdr": "17\n11\n6",
+            "kills": "143",
+            "name": "Fluff",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "320",
+          "name": "1001",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "225",
+          "name": "Pichy",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "369",
+          "name": "Linysx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "120",
+          "name": "Mauvaiz",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "173",
+          "name": "pannyx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "311",
+          "name": "HadiA",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "337",
+          "name": "h a n a",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "335",
+          "name": "Fluff",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "117",
+          "name": "kxtharsis",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "97",
+          "name": "Asa",
+          "team": "DUELIST"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.22\n0.87\n1.56",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "164\n117\n212",
+            "hs%": "71%\n57%\n86%",
+            "kdr": "7\n5\n2",
+            "kills": "320",
+            "name": "1001",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.09\n0.93\n1.25",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "136\n123\n148",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "24\n11\n13",
+            "kills": "225",
+            "name": "Pichy",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.05\n0.44\n1.67",
+            "adr": "+3\n-7\n+10",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "24\n6\n18",
+            "fk": "157\n89\n226",
+            "hs%": "79%\n57%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "369",
+            "name": "Linysx",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.02\n1.11\n0.92",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "120\n156\n84",
+            "hs%": "64%\n57%\n71%",
+            "kdr": "6\n4\n2",
+            "kills": "120",
+            "name": "Mauvaiz",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.92\n0.67\n1.18",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "109\n101\n116",
+            "hs%": "82%\n71%\n93%",
+            "kdr": "17\n9\n8",
+            "kills": "173",
+            "name": "pannyx",
+            "team": "GamDaeng"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.05\n1.45",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "26\n9\n17",
+            "fk": "176\n152\n201",
+            "hs%": "79%\n64%\n93%",
+            "kdr": "10\n5\n5",
+            "kills": "311",
+            "name": "HadiA",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "1.24\n0.64\n1.85",
+            "adr": "+9\n-7\n+16",
+            "agent": "",
+            "assists": "/\n\n17\n14\n3\n\n/",
+            "deaths": "26\n7\n19",
+            "fk": "149\n100\n199",
+            "hs%": "75%\n57%\n93%",
+            "kdr": "4\n3\n1",
+            "kills": "337",
+            "name": "h a n a",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "1.07\n0.35\n1.79",
+            "adr": "+2\n-8\n+10",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "22\n5\n17",
+            "fk": "153\n97\n209",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "8\n5\n3",
+            "kills": "335",
+            "name": "Fluff",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "0.77\n1.09\n0.45",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "100\n120\n81",
+            "hs%": "57%\n50%\n64%",
+            "kdr": "9\n4\n5",
+            "kills": "117",
+            "name": "kxtharsis",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "0.51\n0.52\n0.50",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "63\n60\n66",
+            "hs%": "71%\n64%\n79%",
+            "kdr": "3\n0\n3",
+            "kills": "97",
+            "name": "Asa",
+            "team": "DUELIST"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "279",
+          "name": "Linysx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "270",
+          "name": "1001",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "212",
+          "name": "pannyx",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "188",
+          "name": "Pichy",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "125",
+          "name": "Mauvaiz",
+          "team": "GamDaeng"
+        },
+        {
+          "kills": "282",
+          "name": "kxtharsis",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "202",
+          "name": "h a n a",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "195",
+          "name": "HadiA",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "156",
+          "name": "Fluff",
+          "team": "DUELIST"
+        },
+        {
+          "kills": "151",
+          "name": "Asa",
+          "team": "DUELIST"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.58\n1.14",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "177\n192\n162",
+            "hs%": "69%\n85%\n54%",
+            "kdr": "4\n2\n2",
+            "kills": "279",
+            "name": "Linysx",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.31\n1.49\n1.13",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "173\n174\n172",
+            "hs%": "62%\n69%\n54%",
+            "kdr": "9\n6\n3",
+            "kills": "270",
+            "name": "1001",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.14\n1.42\n0.86",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "138\n157\n118",
+            "hs%": "81%\n92%\n69%",
+            "kdr": "3\n3\n0",
+            "kills": "212",
+            "name": "pannyx",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "1.05\n1.04\n1.07",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "124\n91\n157",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "14\n11\n3",
+            "kills": "188",
+            "name": "Pichy",
+            "team": "GamDaeng"
+          },
+          {
+            "acs": "0.57\n0.99\n0.15",
+            "adr": "-12\n0\n-12",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "97\n119\n74",
+            "hs%": "62%\n85%\n38%",
+            "kdr": "9\n5\n4",
+            "kills": "125",
+            "name": "Mauvaiz",
+            "team": "GamDaeng"
+          }
+        ],
+        [
+          {
+            "acs": "1.40\n2.28\n0.53",
+            "adr": "+7\n+14\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "23\n20\n3",
+            "fk": "189\n291\n88",
+            "hs%": "69%\n85%\n54%",
+            "kdr": "7\n4\n3",
+            "kills": "282",
+            "name": "kxtharsis",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "0.92\n1.33\n0.50",
+            "adr": "-1\n+6\n-7",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "149\n192\n107",
+            "hs%": "58%\n69%\n46%",
+            "kdr": "3\n0\n3",
+            "kills": "202",
+            "name": "h a n a",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "0.86\n0.58\n1.14",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "119\n95\n143",
+            "hs%": "54%\n46%\n62%",
+            "kdr": "2\n0\n2",
+            "kills": "195",
+            "name": "HadiA",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "0.78\n0.78\n0.78",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "113\n118\n107",
+            "hs%": "62%\n69%\n54%",
+            "kdr": "5\n4\n1",
+            "kills": "156",
+            "name": "Fluff",
+            "team": "DUELIST"
+          },
+          {
+            "acs": "0.72\n0.80\n0.64",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "89\n88\n90",
+            "hs%": "69%\n85%\n54%",
+            "kdr": "10\n8\n2",
+            "kills": "151",
+            "name": "Asa",
+            "team": "DUELIST"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 84197,
+  "teams": [
+    "DUELIST",
+    "GamDaeng"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup J"
+}

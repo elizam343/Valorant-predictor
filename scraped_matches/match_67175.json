@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-27 10:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "341",
+          "name": "Baransel",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "225",
+          "name": "BARBAROSSA",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "151",
+          "name": "MerSa",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "160",
+          "name": "hybrid",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "158",
+          "name": "Leu",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "260",
+          "name": "ThePrimerio",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "193",
+          "name": "YANKAS",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "187",
+          "name": "Gaijin",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "133",
+          "name": "Nirenu",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "84",
+          "name": "GiuseppeJesus",
+          "team": "Zero Zone"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.74\n1.83\n1.57",
+            "adr": "+14\n+10\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "24\n16\n8",
+            "fk": "216\n207\n235",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "341",
+            "name": "Baransel",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "1.58\n1.76\n1.22",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "155\n174\n117",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "8\n7\n1",
+            "kills": "225",
+            "name": "BARBAROSSA",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "1.05\n0.76\n1.62",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "113\n104\n132",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "151",
+            "name": "MerSa",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "1.04\n1.07\n0.97",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "102\n118\n70",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "160",
+            "name": "hybrid",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "0.58\n0.05\n1.65",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "108\n58\n209",
+            "hs%": "67%\n58%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "158",
+            "name": "Leu",
+            "team": "Be\u015fikta\u015f Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.99\n0.45\n1.27",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "157\n79\n196",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "260",
+            "name": "ThePrimerio",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "0.94\n1.14\n0.83",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "129\n161\n113",
+            "hs%": "56%\n67%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "193",
+            "name": "YANKAS",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "0.90\n1.01\n0.85",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "123\n130\n120",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "187",
+            "name": "Gaijin",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "0.57\n0.05\n0.82",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "92\n55\n110",
+            "hs%": "61%\n33%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "133",
+            "name": "Nirenu",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "0.27\n0.13\n0.34",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "65\n40\n78",
+            "hs%": "44%\n50%\n42%",
+            "kdr": "4\n3\n1",
+            "kills": "84",
+            "name": "GiuseppeJesus",
+            "team": "Zero Zone"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "195",
+          "name": "MerSa",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "Baransel",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "BARBAROSSA",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "hybrid",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "Leu",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "ThePrimerio",
+          "team": null
+        },
+        {
+          "kills": "270",
+          "name": "YANKAS",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "Gaijin",
+          "team": null
+        },
+        {
+          "kills": "128",
+          "name": "Nirenu",
+          "team": null
+        },
+        {
+          "kills": "107",
+          "name": "GiuseppeJesus",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.12\n1.48\n1.31",
+            "adr": "+14\n+1\n+13",
+            "agent": "",
+            "assists": "/\n\n30\n17\n13\n\n/",
+            "deaths": "44\n18\n26",
+            "fk": "140\n139\n141",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "15\n5\n10",
+            "kills": "195",
+            "name": "MerSa",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.25\n1.11",
+            "adr": "+12\n+1\n+11",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "53\n21\n32",
+            "fk": "170\n135\n202",
+            "hs%": "74%\n63%\n83%",
+            "kdr": "11\n6\n5",
+            "kills": "206",
+            "name": "Baransel",
+            "team": null
+          },
+          {
+            "acs": "1.33\n0.69\n0.99",
+            "adr": "-2\n+6\n-8",
+            "agent": "",
+            "assists": "/\n\n36\n17\n19\n\n/",
+            "deaths": "34\n23\n11",
+            "fk": "117\n145\n91",
+            "hs%": "75%\n70%\n80%",
+            "kdr": "19\n9\n10",
+            "kills": "222",
+            "name": "BARBAROSSA",
+            "team": null
+          },
+          {
+            "acs": "0.98\n0.93\n0.95",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n39\n20\n19\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "106\n113\n99",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "9\n2\n7",
+            "kills": "193",
+            "name": "hybrid",
+            "team": null
+          },
+          {
+            "acs": "0.31\n1.47\n0.92",
+            "adr": "0\n-16\n+16",
+            "agent": "",
+            "assists": "/\n\n44\n27\n17\n\n/",
+            "deaths": "44\n11\n33",
+            "fk": "125\n76\n170",
+            "hs%": "75%\n74%\n77%",
+            "kdr": "11\n4\n7",
+            "kills": "129",
+            "name": "Leu",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.90\n1.22\n1.05",
+            "adr": "+4\n-5\n+9",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "49\n21\n28",
+            "fk": "159\n135\n185",
+            "hs%": "65%\n57%\n74%",
+            "kdr": "14\n5\n9",
+            "kills": "202",
+            "name": "ThePrimerio",
+            "team": null
+          },
+          {
+            "acs": "1.20\n0.85\n1.03",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "45\n27\n18",
+            "fk": "150\n182\n114",
+            "hs%": "63%\n67%\n59%",
+            "kdr": "12\n9\n3",
+            "kills": "270",
+            "name": "YANKAS",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.05\n0.95",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n42\n24\n18\n\n/",
+            "deaths": "37\n18\n19",
+            "fk": "134\n119\n151",
+            "hs%": "67%\n63%\n70%",
+            "kdr": "17\n6\n11",
+            "kills": "176",
+            "name": "Gaijin",
+            "team": null
+          },
+          {
+            "acs": "0.56\n1.14\n0.84",
+            "adr": "-9\n-11\n+2",
+            "agent": "",
+            "assists": "/\n\n41\n24\n17\n\n/",
+            "deaths": "32\n13\n19",
+            "fk": "111\n91\n133",
+            "hs%": "72%\n60%\n85%",
+            "kdr": "11\n5\n6",
+            "kills": "128",
+            "name": "Nirenu",
+            "team": null
+          },
+          {
+            "acs": "0.65\n0.84\n0.74",
+            "adr": "-15\n-13\n-2",
+            "agent": "",
+            "assists": "/\n\n42\n23\n19\n\n/",
+            "deaths": "27\n10\n17",
+            "fk": "94\n80\n109",
+            "hs%": "61%\n60%\n63%",
+            "kdr": "16\n9\n7",
+            "kills": "107",
+            "name": "GiuseppeJesus",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "119",
+          "name": "MerSa",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "372",
+          "name": "Baransel",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "185",
+          "name": "hybrid",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "199",
+          "name": "Leu",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "109",
+          "name": "BARBAROSSA",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "329",
+          "name": "ThePrimerio",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "248",
+          "name": "YANKAS",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "265",
+          "name": "GiuseppeJesus",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "198",
+          "name": "Nirenu",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "218",
+          "name": "Gaijin",
+          "team": "Zero Zone"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "0.98\n1.20\n0.80",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "138\n184\n100",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "7\n1\n6",
+            "kills": "119",
+            "name": "MerSa",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "0.98\n0.33\n1.52",
+            "adr": "0\n-7\n+7",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "18\n3\n15",
+            "fk": "173\n86\n246",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "7\n5\n2",
+            "kills": "372",
+            "name": "Baransel",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "0.83\n0.73\n0.91",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "109\n106\n112",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "185",
+            "name": "hybrid",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "0.79\n0.37\n1.15",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "98\n76\n116",
+            "hs%": "82%\n90%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "199",
+            "name": "Leu",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "0.51\n0.41\n0.60",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "76\n82\n70",
+            "hs%": "55%\n40%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "109",
+            "name": "BARBAROSSA",
+            "team": "Be\u015fikta\u015f Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n1.46\n1.37",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "200\n191\n211",
+            "hs%": "77%\n58%\n100%",
+            "kdr": "12\n3\n9",
+            "kills": "329",
+            "name": "ThePrimerio",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "1.31\n1.33\n1.29",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "170\n187\n151",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "4\n3\n1",
+            "kills": "248",
+            "name": "YANKAS",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "1.21\n0.90\n1.59",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "129\n97\n167",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "9\n4\n5",
+            "kills": "265",
+            "name": "GiuseppeJesus",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "1.11\n0.72\n1.58",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "104\n78\n136",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "198",
+            "name": "Nirenu",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "0.93\n0.60\n1.33",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "117\n80\n160",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "7\n2\n5",
+            "kills": "218",
+            "name": "Gaijin",
+            "team": "Zero Zone"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "283",
+          "name": "MerSa",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "318",
+          "name": "Leu",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "185",
+          "name": "hybrid",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "172",
+          "name": "BARBAROSSA",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "192",
+          "name": "Baransel",
+          "team": "Be\u015fikta\u015f Esports"
+        },
+        {
+          "kills": "227",
+          "name": "Gaijin",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "195",
+          "name": "Nirenu",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "211",
+          "name": "YANKAS",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "179",
+          "name": "ThePrimerio",
+          "team": "Zero Zone"
+        },
+        {
+          "kills": "113",
+          "name": "GiuseppeJesus",
+          "team": "Zero Zone"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "2.01\n1.81\n2.09",
+            "adr": "+16\n+3\n+13",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "21\n4\n17",
+            "fk": "171\n131\n188",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "1\n1\n0",
+            "kills": "283",
+            "name": "MerSa",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "1.45\n0.84\n1.71",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "20\n4\n16",
+            "fk": "179\n118\n205",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "318",
+            "name": "Leu",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "1.02\n1.26\n0.92",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "105\n117\n100",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "185",
+            "name": "hybrid",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "1.00\n2.16\n0.51",
+            "adr": "-2\n+5\n-7",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "129\n203\n99",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "9\n1\n8",
+            "kills": "172",
+            "name": "BARBAROSSA",
+            "team": "Be\u015fikta\u015f Esports"
+          },
+          {
+            "acs": "0.62\n0.18\n0.81",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "119\n62\n142",
+            "hs%": "59%\n20%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "192",
+            "name": "Baransel",
+            "team": "Be\u015fikta\u015f Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.01\n1.02\n1.01",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "169\n153\n207",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "6\n3\n3",
+            "kills": "227",
+            "name": "Gaijin",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "0.77\n0.66\n1.03",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "139\n122\n180",
+            "hs%": "65%\n58%\n80%",
+            "kdr": "2\n2\n0",
+            "kills": "195",
+            "name": "Nirenu",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "0.75\n1.11\n0.02",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "12\n11\n1",
+            "fk": "146\n189\n43",
+            "hs%": "59%\n67%\n40%",
+            "kdr": "4\n4\n0",
+            "kills": "211",
+            "name": "YANKAS",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "0.64\n0.56\n0.81",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "107\n106\n109",
+            "hs%": "53%\n58%\n40%",
+            "kdr": "2\n2\n0",
+            "kills": "179",
+            "name": "ThePrimerio",
+            "team": "Zero Zone"
+          },
+          {
+            "acs": "0.62\n0.66\n0.54",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "79\n83\n69",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "3\n2\n1",
+            "kills": "113",
+            "name": "GiuseppeJesus",
+            "team": "Zero Zone"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 67175,
+  "teams": [
+    "Be\u015fikta\u015f Esports",
+    "Zero Zone"
+  ],
+  "tournament": "Closed Qualifier: \n\t\t\t\t\t\tOpening (B)"
+}

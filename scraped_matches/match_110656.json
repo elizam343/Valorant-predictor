@@ -1,0 +1,594 @@
+{
+  "date": "2022-06-23 20:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "259",
+          "name": "Vengeance",
+          "team": "DELIRA"
+        },
+        {
+          "kills": "252",
+          "name": "sw",
+          "team": "DELIRA"
+        },
+        {
+          "kills": "165",
+          "name": "duhT",
+          "team": "DELIRA"
+        },
+        {
+          "kills": "213",
+          "name": "Zanatsu",
+          "team": "DELIRA"
+        },
+        {
+          "kills": "115",
+          "name": "MATTyx",
+          "team": "DELIRA"
+        },
+        {
+          "kills": "245",
+          "name": "v1nny",
+          "team": "Laboratorio do Leozin"
+        },
+        {
+          "kills": "249",
+          "name": "Leozin",
+          "team": "Laboratorio do Leozin"
+        },
+        {
+          "kills": "206",
+          "name": "prozin",
+          "team": "Laboratorio do Leozin"
+        },
+        {
+          "kills": "191",
+          "name": "fra",
+          "team": "Laboratorio do Leozin"
+        },
+        {
+          "kills": "142",
+          "name": "panique",
+          "team": "Laboratorio do Leozin"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.37\n1.16\n1.58",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "170\n157\n184",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "13\n1\n12",
+            "kills": "259",
+            "name": "Vengeance",
+            "team": "DELIRA"
+          },
+          {
+            "acs": "1.23\n1.03\n1.42",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "157\n136\n178",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "252",
+            "name": "sw",
+            "team": "DELIRA"
+          },
+          {
+            "acs": "0.99\n0.98\n1.00",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "109\n106\n112",
+            "hs%": "54%\n50%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "165",
+            "name": "duhT",
+            "team": "DELIRA"
+          },
+          {
+            "acs": "0.88\n0.90\n0.85",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "140\n168\n111",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "213",
+            "name": "Zanatsu",
+            "team": "DELIRA"
+          },
+          {
+            "acs": "0.59\n0.50\n0.67",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "83\n78\n88",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "10\n7\n3",
+            "kills": "115",
+            "name": "MATTyx",
+            "team": "DELIRA"
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n1.09\n1.57",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "147\n95\n200",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "13\n10\n3",
+            "kills": "245",
+            "name": "v1nny",
+            "team": "Laboratorio do Leozin"
+          },
+          {
+            "acs": "1.02\n1.32\n0.71",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "149\n172\n127",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "249",
+            "name": "Leozin",
+            "team": "Laboratorio do Leozin"
+          },
+          {
+            "acs": "0.95\n1.18\n0.72",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "138\n153\n124",
+            "hs%": "79%\n100%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "206",
+            "name": "prozin",
+            "team": "Laboratorio do Leozin"
+          },
+          {
+            "acs": "0.89\n0.38\n1.40",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "106\n49\n164",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "191",
+            "name": "fra",
+            "team": "Laboratorio do Leozin"
+          },
+          {
+            "acs": "0.80\n0.52\n1.07",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "96\n77\n115",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "142",
+            "name": "panique",
+            "team": "Laboratorio do Leozin"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "160",
+          "name": "duhT",
+          "team": null
+        },
+        {
+          "kills": "261",
+          "name": "Vengeance",
+          "team": null
+        },
+        {
+          "kills": "281",
+          "name": "Zanatsu",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "sw",
+          "team": null
+        },
+        {
+          "kills": "101",
+          "name": "MATTyx",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "v1nny",
+          "team": null
+        },
+        {
+          "kills": "254",
+          "name": "prozin",
+          "team": null
+        },
+        {
+          "kills": "99",
+          "name": "fra",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "Leozin",
+          "team": null
+        },
+        {
+          "kills": "122",
+          "name": "panique",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.04\n1.61\n1.40",
+            "adr": "+13\n-1\n+14",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "31\n8\n23",
+            "fk": "145\n101\n171",
+            "hs%": "71%\n57%\n79%",
+            "kdr": "12\n2\n10",
+            "kills": "160",
+            "name": "duhT",
+            "team": null
+          },
+          {
+            "acs": "1.31\n1.38\n1.36",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "30\n13\n17",
+            "fk": "154\n168\n146",
+            "hs%": "79%\n64%\n88%",
+            "kdr": "18\n1\n17",
+            "kills": "261",
+            "name": "Vengeance",
+            "team": null
+          },
+          {
+            "acs": "1.27\n1.25\n1.26",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n28\n9\n19\n\n/",
+            "deaths": "40\n13\n27",
+            "fk": "182\n194\n175",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "281",
+            "name": "Zanatsu",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.35\n1.23",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n26\n12\n14\n\n/",
+            "deaths": "30\n9\n21",
+            "fk": "139\n117\n152",
+            "hs%": "82%\n64%\n92%",
+            "kdr": "19\n5\n14",
+            "kills": "189",
+            "name": "sw",
+            "team": null
+          },
+          {
+            "acs": "0.60\n1.05\n0.89",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "17\n2\n15",
+            "fk": "100\n73\n115",
+            "hs%": "71%\n57%\n79%",
+            "kdr": "17\n9\n8",
+            "kills": "101",
+            "name": "MATTyx",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.72\n1.44\n0.98",
+            "adr": "-1\n-8\n+7",
+            "agent": "",
+            "assists": "/\n\n28\n21\n7\n\n/",
+            "deaths": "27\n13\n14",
+            "fk": "130\n90\n199",
+            "hs%": "74%\n63%\n93%",
+            "kdr": "15\n11\n4",
+            "kills": "166",
+            "name": "v1nny",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.63\n0.87",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n30\n21\n9\n\n/",
+            "deaths": "26\n19\n7",
+            "fk": "143\n154\n123",
+            "hs%": "71%\n79%\n57%",
+            "kdr": "2\n1\n1",
+            "kills": "254",
+            "name": "prozin",
+            "team": null
+          },
+          {
+            "acs": "0.38\n1.27\n0.71",
+            "adr": "-8\n-13\n+5",
+            "agent": "",
+            "assists": "/\n\n30\n21\n9\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "99\n71\n146",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "5\n3\n2",
+            "kills": "99",
+            "name": "fra",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.61\n0.71",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n31\n20\n11\n\n/",
+            "deaths": "26\n17\n9",
+            "fk": "125\n135\n109",
+            "hs%": "53%\n46%\n64%",
+            "kdr": "3\n0\n3",
+            "kills": "211",
+            "name": "Leozin",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.94\n0.68",
+            "adr": "-14\n-12\n-2",
+            "agent": "",
+            "assists": "/\n\n29\n21\n8\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "92\n87\n100",
+            "hs%": "61%\n50%\n79%",
+            "kdr": "11\n6\n5",
+            "kills": "122",
+            "name": "panique",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "342",
+          "name": "duhT",
+          "team": "DELIRA"
+        },
+        {
+          "kills": "390",
+          "name": "Zanatsu",
+          "team": "DELIRA"
+        },
+        {
+          "kills": "227",
+          "name": "MATTyx",
+          "team": "DELIRA"
+        },
+        {
+          "kills": "171",
+          "name": "Vengeance",
+          "team": "DELIRA"
+        },
+        {
+          "kills": "200",
+          "name": "sw",
+          "team": "DELIRA"
+        },
+        {
+          "kills": "114",
+          "name": "prozin",
+          "team": "Laboratorio do Leozin"
+        },
+        {
+          "kills": "13",
+          "name": "panique",
+          "team": "Laboratorio do Leozin"
+        },
+        {
+          "kills": "105",
+          "name": "fra",
+          "team": "Laboratorio do Leozin"
+        },
+        {
+          "kills": "268",
+          "name": "v1nny",
+          "team": "Laboratorio do Leozin"
+        },
+        {
+          "kills": "114",
+          "name": "Leozin",
+          "team": "Laboratorio do Leozin"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "2.10\n1.39\n2.22",
+            "adr": "+14\n+1\n+13",
+            "agent": "",
+            "assists": "/\n\n3\n0\n3\n\n/",
+            "deaths": "17\n1\n16",
+            "fk": "206\n70\n229",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "8\n0\n8",
+            "kills": "342",
+            "name": "duhT",
+            "team": "DELIRA"
+          },
+          {
+            "acs": "1.92\n3.50\n1.65",
+            "adr": "+14\n+6\n+8",
+            "agent": "",
+            "assists": "/\n\n9\n0\n9\n\n/",
+            "deaths": "23\n6\n17",
+            "fk": "255\n352\n239",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "4\n0\n4",
+            "kills": "390",
+            "name": "Zanatsu",
+            "team": "DELIRA"
+          },
+          {
+            "acs": "1.40\n1.22\n1.44",
+            "adr": "+6\n\u00a0\n+6",
+            "agent": "",
+            "assists": "/\n\n4\n0\n4\n\n/",
+            "deaths": "10\n0\n10",
+            "fk": "128\n45\n142",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "227",
+            "name": "MATTyx",
+            "team": "DELIRA"
+          },
+          {
+            "acs": "1.33\n2.24\n1.18",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "127\n239\n108",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "5\n0\n5",
+            "kills": "171",
+            "name": "Vengeance",
+            "team": "DELIRA"
+          },
+          {
+            "acs": "1.23\n0.91\n1.28",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "108\n0\n126",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "13\n4\n9",
+            "kills": "200",
+            "name": "sw",
+            "team": "DELIRA"
+          }
+        ],
+        [
+          {
+            "acs": "0.73\n0.85\n0.03",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "9\n9\n0",
+            "fk": "150\n156\n114",
+            "hs%": "57%\n58%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "114",
+            "name": "prozin",
+            "team": "Laboratorio do Leozin"
+          },
+          {
+            "acs": "0.49\n0.55\n0.11",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "85\n97\n13",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "13",
+            "name": "panique",
+            "team": "Laboratorio do Leozin"
+          },
+          {
+            "acs": "0.39\n0.38\n0.50",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "86\n94\n41",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "105",
+            "name": "fra",
+            "team": "Laboratorio do Leozin"
+          },
+          {
+            "acs": "0.39\n0.35\n0.61",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "101\n85\n195",
+            "hs%": "64%\n58%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "268",
+            "name": "v1nny",
+            "team": "Laboratorio do Leozin"
+          },
+          {
+            "acs": "0.19\n0.29\n0.01",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "84\n98",
+            "hs%": "29%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "114",
+            "name": "Leozin",
+            "team": "Laboratorio do Leozin"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 110656,
+  "teams": [
+    "Laboratorio do Leozin",
+    "DELIRA"
+  ],
+  "tournament": "Qualifier: \n\t\t\t\t\t\tRound of 16"
+}

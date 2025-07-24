@@ -1,0 +1,788 @@
+{
+  "date": "2023-01-14 07:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "285",
+          "name": "A1R",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "225",
+          "name": "Rem",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "189",
+          "name": "YuuMac",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "124",
+          "name": "Suke",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "144",
+          "name": "Gb0x",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "257",
+          "name": "zerurun",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "269",
+          "name": "Absol",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "186",
+          "name": "Sota",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "190",
+          "name": "Learica",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "164",
+          "name": "hidry",
+          "team": "DetoNator Academy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.26\n1.20\n1.34",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "179\n155\n213",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "5\n4\n1",
+            "kills": "285",
+            "name": "A1R",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "1.04\n1.38\n0.53",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "142\n174\n95",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "225",
+            "name": "Rem",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "0.91\n1.02\n0.74",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "131\n153\n99",
+            "hs%": "70%\n58%\n88%",
+            "kdr": "9\n4\n5",
+            "kills": "189",
+            "name": "YuuMac",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "0.88\n0.92\n0.80",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "85\n80\n93",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "124",
+            "name": "Suke",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "0.73\n0.88\n0.50",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "107\n100\n118",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "9\n5\n4",
+            "kills": "144",
+            "name": "Gb0x",
+            "team": "SYSTEM e-Sports"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n1.69\n1.31",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "149\n151\n148",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "15\n9\n6",
+            "kills": "257",
+            "name": "zerurun",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "1.22\n2.25\n0.54",
+            "adr": "+5\n+9\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "140\n214\n90",
+            "hs%": "60%\n75%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "269",
+            "name": "Absol",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "1.14\n1.52\n0.88",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "134\n174\n108",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "12\n4\n8",
+            "kills": "186",
+            "name": "Sota",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "0.96\n0.55\n1.24",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "145\n126\n157",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "9\n6\n3",
+            "kills": "190",
+            "name": "Learica",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "0.68\n0.65\n0.70",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "89\n89\n89",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "9\n4\n5",
+            "kills": "164",
+            "name": "hidry",
+            "team": "DetoNator Academy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "195",
+          "name": "Gb0x",
+          "team": null
+        },
+        {
+          "kills": "289",
+          "name": "Rem",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "Suke",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "YuuMac",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "A1R",
+          "team": null
+        },
+        {
+          "kills": "340",
+          "name": "Absol",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "Sota",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "zerurun",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "Learica",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "hidry",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.17\n1.15",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "53\n28\n25",
+            "fk": "148\n135\n163",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "27\n15\n12",
+            "kills": "195",
+            "name": "Gb0x",
+            "team": null
+          },
+          {
+            "acs": "1.23\n1.04\n1.15",
+            "adr": "+11\n+9\n+2",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "58\n35\n23",
+            "fk": "159\n178\n136",
+            "hs%": "74%\n69%\n80%",
+            "kdr": "12\n6\n6",
+            "kills": "289",
+            "name": "Rem",
+            "team": null
+          },
+          {
+            "acs": "1.14\n0.82\n1.00",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "39\n24\n15",
+            "fk": "119\n126\n111",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "31\n18\n13",
+            "kills": "182",
+            "name": "Suke",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.84\n0.96",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n49\n25\n24\n\n/",
+            "deaths": "42\n24\n18",
+            "fk": "122\n120\n125",
+            "hs%": "79%\n78%\n80%",
+            "kdr": "26\n13\n13",
+            "kills": "191",
+            "name": "YuuMac",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.06\n0.90",
+            "adr": "-4\n-8\n+4",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "49\n21\n28",
+            "fk": "136\n128\n146",
+            "hs%": "70%\n69%\n70%",
+            "kdr": "20\n15\n5",
+            "kills": "186",
+            "name": "A1R",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.58\n0.80\n1.16",
+            "adr": "+8\n+15\n-7",
+            "agent": "",
+            "assists": "/\n\n51\n22\n29\n\n/",
+            "deaths": "59\n37\n22",
+            "fk": "154\n194\n121",
+            "hs%": "67%\n73%\n61%",
+            "kdr": "16\n6\n10",
+            "kills": "340",
+            "name": "Absol",
+            "team": null
+          },
+          {
+            "acs": "1.00\n1.16\n1.09",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n48\n21\n27\n\n/",
+            "deaths": "49\n20\n29",
+            "fk": "137\n122\n149",
+            "hs%": "80%\n70%\n89%",
+            "kdr": "42\n22\n20",
+            "kills": "193",
+            "name": "Sota",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.08\n1.08",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n44\n20\n24\n\n/",
+            "deaths": "44\n16\n28",
+            "fk": "120\n116\n124",
+            "hs%": "82%\n77%\n86%",
+            "kdr": "38\n26\n12",
+            "kills": "173",
+            "name": "zerurun",
+            "team": null
+          },
+          {
+            "acs": "1.02\n1.08\n1.05",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "45\n21\n24",
+            "fk": "142\n147\n137",
+            "hs%": "76%\n80%\n72%",
+            "kdr": "19\n10\n9",
+            "kills": "204",
+            "name": "Learica",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.74\n0.78",
+            "adr": "-12\n-6\n-6",
+            "agent": "",
+            "assists": "/\n\n53\n25\n28\n\n/",
+            "deaths": "41\n19\n22",
+            "fk": "108\n111\n105",
+            "hs%": "67%\n70%\n64%",
+            "kdr": "26\n13\n13",
+            "kills": "185",
+            "name": "hidry",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "402",
+          "name": "Gb0x",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "171",
+          "name": "Rem",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "121",
+          "name": "Suke",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "240",
+          "name": "A1R",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "222",
+          "name": "YuuMac",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "191",
+          "name": "Learica",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "202",
+          "name": "zerurun",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "189",
+          "name": "Absol",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "262",
+          "name": "Sota",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "163",
+          "name": "hidry",
+          "team": "DetoNator Academy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.52\n1.02\n2.12",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "171\n112\n241",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "11\n6\n5",
+            "kills": "402",
+            "name": "Gb0x",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "1.31\n1.46\n1.13",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "22\n15\n7",
+            "fk": "177\n194\n156",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "171",
+            "name": "Rem",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "0.95\n1.12\n0.75",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "112\n133\n87",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "17\n12\n5",
+            "kills": "121",
+            "name": "Suke",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "0.92\n0.50\n1.43",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "121\n104\n142",
+            "hs%": "77%\n58%\n100%",
+            "kdr": "5\n3\n2",
+            "kills": "240",
+            "name": "A1R",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "0.91\n0.84\n1.00",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "114\n84\n150",
+            "hs%": "82%\n92%\n70%",
+            "kdr": "9\n3\n6",
+            "kills": "222",
+            "name": "YuuMac",
+            "team": "SYSTEM e-Sports"
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n1.04\n1.31",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "149\n177\n125",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "191",
+            "name": "Learica",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "0.97\n0.53\n1.34",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "111\n78\n138",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "6\n5\n1",
+            "kills": "202",
+            "name": "zerurun",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "0.93\n1.14\n0.76",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "148\n173\n128",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "189",
+            "name": "Absol",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "0.87\n0.61\n1.09",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "131\n94\n162",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "262",
+            "name": "Sota",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "0.65\n0.63\n0.66",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "92\n78\n103",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "163",
+            "name": "hidry",
+            "team": "DetoNator Academy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "246",
+          "name": "Gb0x",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "220",
+          "name": "Suke",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "241",
+          "name": "Rem",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "188",
+          "name": "YuuMac",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "166",
+          "name": "A1R",
+          "team": "SYSTEM e-Sports"
+        },
+        {
+          "kills": "276",
+          "name": "Absol",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "234",
+          "name": "Sota",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "201",
+          "name": "Learica",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "221",
+          "name": "hidry",
+          "team": "DetoNator Academy"
+        },
+        {
+          "kills": "161",
+          "name": "zerurun",
+          "team": "DetoNator Academy"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.50\n0.82",
+            "adr": "+5\n+8\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "160\n192\n128",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "246",
+            "name": "Gb0x",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "1.15\n1.39\n0.91",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "154\n166\n142",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "9\n5\n4",
+            "kills": "220",
+            "name": "Suke",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "1.08\n0.86\n1.31",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "157\n166\n147",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "241",
+            "name": "Rem",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "1.06\n1.34\n0.78",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "121\n122\n121",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "8\n6\n2",
+            "kills": "188",
+            "name": "YuuMac",
+            "team": "SYSTEM e-Sports"
+          },
+          {
+            "acs": "0.58\n0.61\n0.56",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "115\n126\n103",
+            "hs%": "58%\n67%\n50%",
+            "kdr": "10\n8\n2",
+            "kills": "166",
+            "name": "A1R",
+            "team": "SYSTEM e-Sports"
+          }
+        ],
+        [
+          {
+            "acs": "1.30\n1.50\n1.10",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "172\n199\n145",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "9\n4\n5",
+            "kills": "276",
+            "name": "Absol",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "1.24\n0.98\n1.50",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "145\n111\n179",
+            "hs%": "88%\n75%\n100%",
+            "kdr": "22\n14\n8",
+            "kills": "234",
+            "name": "Sota",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "1.01\n1.32\n0.70",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "132\n138\n127",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "201",
+            "name": "Learica",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "0.98\n1.09\n0.86",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "138\n153\n123",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "11\n4\n7",
+            "kills": "221",
+            "name": "hidry",
+            "team": "DetoNator Academy"
+          },
+          {
+            "acs": "0.86\n1.13\n0.60",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "104\n123\n85",
+            "hs%": "92%\n92%\n92%",
+            "kdr": "17\n12\n5",
+            "kills": "161",
+            "name": "zerurun",
+            "team": "DetoNator Academy"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 166295,
+  "teams": [
+    "DetoNator Academy",
+    "SYSTEM e-Sports"
+  ],
+  "tournament": "Open Qualifier - Group E: \n\t\t\t\t\t\tLower Round 3"
+}

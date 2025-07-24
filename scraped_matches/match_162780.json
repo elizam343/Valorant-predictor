@@ -1,0 +1,594 @@
+{
+  "date": "2022-12-16 02:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "204",
+          "name": "Ludille",
+          "team": "DVC KECE"
+        },
+        {
+          "kills": "174",
+          "name": "Tomy",
+          "team": "DVC KECE"
+        },
+        {
+          "kills": "128",
+          "name": "MrBigChubbs",
+          "team": "DVC KECE"
+        },
+        {
+          "kills": "146",
+          "name": "Aiden",
+          "team": "DVC KECE"
+        },
+        {
+          "kills": "57",
+          "name": "deadly cheetah",
+          "team": "DVC KECE"
+        },
+        {
+          "kills": "242",
+          "name": "toyo",
+          "team": "Spikerush Esports"
+        },
+        {
+          "kills": "265",
+          "name": "Fragmaz",
+          "team": "Spikerush Esports"
+        },
+        {
+          "kills": "259",
+          "name": "YUSUF",
+          "team": "Spikerush Esports"
+        },
+        {
+          "kills": "300",
+          "name": "ASTRO",
+          "team": "Spikerush Esports"
+        },
+        {
+          "kills": "143",
+          "name": "ZOOM",
+          "team": "Spikerush Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "0.89\n0.74\n1.23",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "141\n120\n191",
+            "hs%": "59%\n50%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "204",
+            "name": "Ludille",
+            "team": "DVC KECE"
+          },
+          {
+            "acs": "0.78\n0.98\n0.29",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "116\n134\n73",
+            "hs%": "53%\n58%\n40%",
+            "kdr": "5\n3\n2",
+            "kills": "174",
+            "name": "Tomy",
+            "team": "DVC KECE"
+          },
+          {
+            "acs": "0.69\n0.82\n0.40",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "92\n111\n47",
+            "hs%": "35%\n42%\n20%",
+            "kdr": "5\n5\n0",
+            "kills": "128",
+            "name": "MrBigChubbs",
+            "team": "DVC KECE"
+          },
+          {
+            "acs": "0.40\n0.28\n0.69",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "89\n91\n85",
+            "hs%": "41%\n33%\n60%",
+            "kdr": "3\n2\n1",
+            "kills": "146",
+            "name": "Aiden",
+            "team": "DVC KECE"
+          },
+          {
+            "acs": "0.20\n0.20\n0.18",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "3\n2\n1",
+            "fk": "41\n39\n47",
+            "hs%": "35%\n33%\n40%",
+            "kdr": "2\n1\n1",
+            "kills": "57",
+            "name": "deadly cheetah",
+            "team": "DVC KECE"
+          }
+        ],
+        [
+          {
+            "acs": "1.52\n1.58\n1.50",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "159\n147\n164",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "242",
+            "name": "toyo",
+            "team": "Spikerush Esports"
+          },
+          {
+            "acs": "1.51\n1.72\n1.42",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "173\n216\n155",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "265",
+            "name": "Fragmaz",
+            "team": "Spikerush Esports"
+          },
+          {
+            "acs": "1.48\n2.04\n1.24",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "187\n245\n162",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "259",
+            "name": "YUSUF",
+            "team": "Spikerush Esports"
+          },
+          {
+            "acs": "1.47\n0.79\n1.76",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "18\n2\n16",
+            "fk": "191\n76\n239",
+            "hs%": "88%\n60%\n100%",
+            "kdr": "6\n2\n4",
+            "kills": "300",
+            "name": "ASTRO",
+            "team": "Spikerush Esports"
+          },
+          {
+            "acs": "1.02\n0.99\n1.04",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "103\n105\n102",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "143",
+            "name": "ZOOM",
+            "team": "Spikerush Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "198",
+          "name": "Tomy",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "Ludille",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "MrBigChubbs",
+          "team": null
+        },
+        {
+          "kills": "132",
+          "name": "Aiden",
+          "team": null
+        },
+        {
+          "kills": "41",
+          "name": "deadly cheetah",
+          "team": null
+        },
+        {
+          "kills": "261",
+          "name": "toyo",
+          "team": null
+        },
+        {
+          "kills": "357",
+          "name": "YUSUF",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "ASTRO",
+          "team": null
+        },
+        {
+          "kills": "263",
+          "name": "Fragmaz",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "ZOOM",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.92\n1.20\n0.99",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n29\n23\n6\n\n/",
+            "deaths": "24\n17\n7",
+            "fk": "130\n122\n155",
+            "hs%": "63%\n63%\n63%",
+            "kdr": "6\n3\n3",
+            "kills": "198",
+            "name": "Tomy",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.78\n0.72",
+            "adr": "-12\n-10\n-2",
+            "agent": "",
+            "assists": "/\n\n28\n21\n7\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "111\n102\n136",
+            "hs%": "56%\n50%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "147",
+            "name": "Ludille",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.37\n0.54",
+            "adr": "-15\n-12\n-3",
+            "agent": "",
+            "assists": "/\n\n29\n22\n7\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "94\n105\n60",
+            "hs%": "44%\n50%\n25%",
+            "kdr": "8\n8\n0",
+            "kills": "152",
+            "name": "MrBigChubbs",
+            "team": null
+          },
+          {
+            "acs": "0.33\n0.61\n0.40",
+            "adr": "-19\n-16\n-3",
+            "agent": "",
+            "assists": "/\n\n31\n23\n8\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "104\n99\n116",
+            "hs%": "47%\n42%\n63%",
+            "kdr": "7\n6\n1",
+            "kills": "132",
+            "name": "Aiden",
+            "team": null
+          },
+          {
+            "acs": "0.11\n0.12\n0.11",
+            "adr": "-27\n-20\n-7",
+            "agent": "",
+            "assists": "/\n\n31\n23\n8\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "32\n30\n36",
+            "hs%": "34%\n29%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "41",
+            "name": "deadly cheetah",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.71\n1.78\n1.76",
+            "adr": "+22\n+4\n+18",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "36\n8\n28",
+            "fk": "185\n166\n192",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "13\n3\n10",
+            "kills": "261",
+            "name": "toyo",
+            "team": null
+          },
+          {
+            "acs": "2.18\n1.27\n1.50",
+            "adr": "+17\n+9\n+8",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "29\n11\n18",
+            "fk": "184\n253\n161",
+            "hs%": "91%\n100%\n88%",
+            "kdr": "7\n1\n6",
+            "kills": "357",
+            "name": "YUSUF",
+            "team": null
+          },
+          {
+            "acs": "0.56\n1.74\n1.44",
+            "adr": "+18\n-3\n+21",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "35\n4\n31",
+            "fk": "187\n88\n220",
+            "hs%": "84%\n63%\n92%",
+            "kdr": "9\n3\n6",
+            "kills": "149",
+            "name": "ASTRO",
+            "team": null
+          },
+          {
+            "acs": "1.38\n1.46\n1.44",
+            "adr": "+14\n+2\n+12",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "29\n7\n22",
+            "fk": "163\n165\n162",
+            "hs%": "88%\n88%\n88%",
+            "kdr": "17\n4\n13",
+            "kills": "263",
+            "name": "Fragmaz",
+            "team": null
+          },
+          {
+            "acs": "1.10\n1.29\n1.24",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "128\n119\n131",
+            "hs%": "81%\n63%\n88%",
+            "kdr": "12\n2\n10",
+            "kills": "184",
+            "name": "ZOOM",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "499",
+          "name": "Tomy",
+          "team": "DVC KECE"
+        },
+        {
+          "kills": "44",
+          "name": "Ludille",
+          "team": "DVC KECE"
+        },
+        {
+          "kills": "199",
+          "name": "Aiden",
+          "team": "DVC KECE"
+        },
+        {
+          "kills": "169",
+          "name": "MrBigChubbs",
+          "team": "DVC KECE"
+        },
+        {
+          "kills": "18",
+          "name": "deadly cheetah",
+          "team": "DVC KECE"
+        },
+        {
+          "kills": "369",
+          "name": "toyo",
+          "team": "Spikerush Esports"
+        },
+        {
+          "kills": "214",
+          "name": "YUSUF",
+          "team": "Spikerush Esports"
+        },
+        {
+          "kills": "213",
+          "name": "ZOOM",
+          "team": "Spikerush Esports"
+        },
+        {
+          "kills": "324",
+          "name": "ASTRO",
+          "team": "Spikerush Esports"
+        },
+        {
+          "kills": "278",
+          "name": "Fragmaz",
+          "team": "Spikerush Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.23\n0.85\n2.73",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "146\n109\n291",
+            "hs%": "73%\n67%\n100%",
+            "kdr": "1\n0\n1",
+            "kills": "499",
+            "name": "Tomy",
+            "team": "DVC KECE"
+          },
+          {
+            "acs": "0.53\n0.71\n0.02",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "76\n84\n44",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "44",
+            "name": "Ludille",
+            "team": "DVC KECE"
+          },
+          {
+            "acs": "0.40\n0.38\n0.48",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "120\n108\n169",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "199",
+            "name": "Aiden",
+            "team": "DVC KECE"
+          },
+          {
+            "acs": "0.36\n0.38\n0.31",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "96\n99\n81",
+            "hs%": "53%\n58%\n33%",
+            "kdr": "3\n3\n0",
+            "kills": "169",
+            "name": "MrBigChubbs",
+            "team": "DVC KECE"
+          },
+          {
+            "acs": "0.02\n0.02\n0.02",
+            "adr": "-14\n-11\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "1\n1\n0",
+            "fk": "21\n22\n18",
+            "hs%": "33%\n25%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "18",
+            "name": "deadly cheetah",
+            "team": "DVC KECE"
+          }
+        ],
+        [
+          {
+            "acs": "2.03\n1.92\n2.06",
+            "adr": "+13\n+2\n+11",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "20\n4\n16",
+            "fk": "216\n199\n220",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "8\n1\n7",
+            "kills": "369",
+            "name": "toyo",
+            "team": "Spikerush Esports"
+          },
+          {
+            "acs": "1.53\n2.43\n1.30",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "180\n267\n159",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "214",
+            "name": "YUSUF",
+            "team": "Spikerush Esports"
+          },
+          {
+            "acs": "1.49\n1.28\n1.54",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n4\n2\n2\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "157\n142\n161",
+            "hs%": "93%\n67%\n100%",
+            "kdr": "7\n0\n7",
+            "kills": "213",
+            "name": "ZOOM",
+            "team": "Spikerush Esports"
+          },
+          {
+            "acs": "1.41\n0.19\n1.72",
+            "adr": "+9\n-1\n+10",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "17\n2\n15",
+            "fk": "182\n108\n201",
+            "hs%": "80%\n67%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "324",
+            "name": "ASTRO",
+            "team": "Spikerush Esports"
+          },
+          {
+            "acs": "1.36\n0.81\n1.50",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "151\n79\n169",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "10\n2\n8",
+            "kills": "278",
+            "name": "Fragmaz",
+            "team": "Spikerush Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 162780,
+  "teams": [
+    "Spikerush Esports",
+    "DVC KECE"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 32"
+}

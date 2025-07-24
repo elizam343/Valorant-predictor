@@ -1,0 +1,788 @@
+{
+  "date": "2022-05-20 06:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "215",
+          "name": "Asteriskk",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "197",
+          "name": "Eeyore",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "209",
+          "name": "xccurate",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "173",
+          "name": "Famouz",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "136",
+          "name": "Flynch",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "270",
+          "name": "FrizzNatsz",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "186",
+          "name": "madel",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "206",
+          "name": "klipp",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "191",
+          "name": "Dragy",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "104",
+          "name": "Sylvette",
+          "team": "Dewa United Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.22\n1.42\n1.02",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "132\n156\n108",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "215",
+            "name": "Asteriskk",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "1.02\n1.56\n0.48",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "132\n206\n58",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "8\n6\n2",
+            "kills": "197",
+            "name": "Eeyore",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "0.97\n0.46\n1.48",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "144\n96\n192",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "3\n3\n0",
+            "kills": "209",
+            "name": "xccurate",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "0.88\n0.26\n1.51",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "122\n78\n166",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "173",
+            "name": "Famouz",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "0.57\n0.50\n0.65",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "89\n102\n76",
+            "hs%": "42%\n33%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "136",
+            "name": "Flynch",
+            "team": "Persija Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.16\n1.74",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "181\n136\n225",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "14\n5\n9",
+            "kills": "270",
+            "name": "FrizzNatsz",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "1.04\n1.08\n1.01",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "111\n121\n100",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "186",
+            "name": "madel",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "1.03\n1.25\n0.81",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "139\n145\n133",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "206",
+            "name": "klipp",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.96\n0.27\n1.66",
+            "adr": "0\n-6\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "122\n52\n191",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "191",
+            "name": "Dragy",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.79\n0.82\n0.75",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "71\n54\n88",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "104",
+            "name": "Sylvette",
+            "team": "Dewa United Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "204",
+          "name": "xccurate",
+          "team": null
+        },
+        {
+          "kills": "232",
+          "name": "Asteriskk",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "Famouz",
+          "team": null
+        },
+        {
+          "kills": "238",
+          "name": "Eeyore",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "Flynch",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "klipp",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "FrizzNatsz",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Sylvette",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "Dragy",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "madel",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.96\n1.37\n1.13",
+            "adr": "+13\n+2\n+11",
+            "agent": "",
+            "assists": "/\n\n41\n25\n16\n\n/",
+            "deaths": "54\n27\n27",
+            "fk": "142\n132\n156",
+            "hs%": "68%\n64%\n74%",
+            "kdr": "7\n6\n1",
+            "kills": "204",
+            "name": "xccurate",
+            "team": null
+          },
+          {
+            "acs": "1.16\n0.76\n0.99",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n45\n27\n18\n\n/",
+            "deaths": "41\n29\n12",
+            "fk": "120\n138\n97",
+            "hs%": "76%\n83%\n67%",
+            "kdr": "23\n16\n7",
+            "kills": "232",
+            "name": "Asteriskk",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.32\n0.99",
+            "adr": "-3\n-10\n+7",
+            "agent": "",
+            "assists": "/\n\n45\n28\n17\n\n/",
+            "deaths": "42\n18\n24",
+            "fk": "142\n117\n176",
+            "hs%": "71%\n64%\n81%",
+            "kdr": "20\n12\n8",
+            "kills": "161",
+            "name": "Famouz",
+            "team": null
+          },
+          {
+            "acs": "1.24\n0.49\n0.92",
+            "adr": "-8\n+3\n-11",
+            "agent": "",
+            "assists": "/\n\n45\n25\n20\n\n/",
+            "deaths": "37\n28\n9",
+            "fk": "129\n162\n85",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "23\n16\n7",
+            "kills": "238",
+            "name": "Eeyore",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.70\n0.84",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n47\n28\n19\n\n/",
+            "deaths": "41\n28\n13",
+            "fk": "117\n134\n95",
+            "hs%": "59%\n58%\n59%",
+            "kdr": "7\n3\n4",
+            "kills": "210",
+            "name": "Flynch",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.13\n1.20",
+            "adr": "+12\n+7\n+5",
+            "agent": "",
+            "assists": "/\n\n41\n16\n25\n\n/",
+            "deaths": "53\n23\n30",
+            "fk": "153\n154\n153",
+            "hs%": "75%\n78%\n72%",
+            "kdr": "16\n7\n9",
+            "kills": "243",
+            "name": "klipp",
+            "team": null
+          },
+          {
+            "acs": "1.27\n1.14\n1.20",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n45\n16\n29\n\n/",
+            "deaths": "51\n19\n32",
+            "fk": "174\n158\n185",
+            "hs%": "70%\n67%\n72%",
+            "kdr": "23\n8\n15",
+            "kills": "220",
+            "name": "FrizzNatsz",
+            "team": null
+          },
+          {
+            "acs": "1.10\n0.83\n0.94",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n37\n14\n23\n\n/",
+            "deaths": "37\n18\n19",
+            "fk": "111\n113\n109",
+            "hs%": "83%\n81%\n83%",
+            "kdr": "8\n0\n8",
+            "kills": "171",
+            "name": "Sylvette",
+            "team": null
+          },
+          {
+            "acs": "0.62\n1.11\n0.90",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n46\n20\n26\n\n/",
+            "deaths": "42\n13\n29",
+            "fk": "116\n86\n138",
+            "hs%": "70%\n59%\n78%",
+            "kdr": "13\n3\n10",
+            "kills": "138",
+            "name": "Dragy",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.84\n0.85",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n46\n20\n26\n\n/",
+            "deaths": "40\n17\n23",
+            "fk": "114\n111\n116",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "11\n3\n8",
+            "kills": "180",
+            "name": "madel",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "294",
+          "name": "xccurate",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "364",
+          "name": "Famouz",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "263",
+          "name": "Flynch",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "178",
+          "name": "Eeyore",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "96",
+          "name": "Asteriskk",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "245",
+          "name": "FrizzNatsz",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "237",
+          "name": "klipp",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "232",
+          "name": "Sylvette",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "134",
+          "name": "Dragy",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "173",
+          "name": "madel",
+          "team": "Dewa United Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.77\n1.78\n1.75",
+            "adr": "+18\n+11\n+7",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "28\n17\n11",
+            "fk": "179\n197\n155",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "1\n0\n1",
+            "kills": "294",
+            "name": "xccurate",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "1.35\n1.02\n1.78",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "195\n150\n254",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "364",
+            "name": "Famouz",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "1.03\n0.94\n1.15",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "141\n137\n146",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "2\n1\n1",
+            "kills": "263",
+            "name": "Flynch",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "0.89\n1.04\n0.70",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "138\n146\n126",
+            "hs%": "81%\n92%\n67%",
+            "kdr": "11\n8\n3",
+            "kills": "178",
+            "name": "Eeyore",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "0.71\n0.83\n0.55",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "90\n99\n77",
+            "hs%": "76%\n83%\n67%",
+            "kdr": "12\n8\n4",
+            "kills": "96",
+            "name": "Asteriskk",
+            "team": "Persija Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.28\n0.90",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "184\n185\n183",
+            "hs%": "57%\n56%\n58%",
+            "kdr": "6\n2\n4",
+            "kills": "245",
+            "name": "FrizzNatsz",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.92\n0.67\n1.11",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "144\n124\n158",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "237",
+            "name": "klipp",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.88\n0.71\n1.00",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "126\n89\n154",
+            "hs%": "81%\n67%\n92%",
+            "kdr": "4\n0\n4",
+            "kills": "232",
+            "name": "Sylvette",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.76\n0.82\n0.71",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "106\n134\n86",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "134",
+            "name": "Dragy",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.74\n0.64\n0.81",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "132\n136\n128",
+            "hs%": "57%\n56%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "173",
+            "name": "madel",
+            "team": "Dewa United Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "217",
+          "name": "Asteriskk",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "188",
+          "name": "Flynch",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "170",
+          "name": "Eeyore",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "167",
+          "name": "Famouz",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "153",
+          "name": "xccurate",
+          "team": "Persija Esports"
+        },
+        {
+          "kills": "295",
+          "name": "klipp",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "222",
+          "name": "Sylvette",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "229",
+          "name": "FrizzNatsz",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "193",
+          "name": "Dragy",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "154",
+          "name": "madel",
+          "team": "Dewa United Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.24\n0.58",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "141\n160\n103",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "217",
+            "name": "Asteriskk",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "0.97\n1.40\n0.10",
+            "adr": "-3\n+3\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "12\n12\n0",
+            "fk": "127\n163\n55",
+            "hs%": "67%\n75%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "188",
+            "name": "Flynch",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "0.82\n1.12\n0.20",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "114\n132\n79",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "170",
+            "name": "Eeyore",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "0.72\n0.94\n0.27",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "109\n123\n79",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "6\n6\n0",
+            "kills": "167",
+            "name": "Famouz",
+            "team": "Persija Esports"
+          },
+          {
+            "acs": "0.61\n0.63\n0.58",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "96\n102\n85",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "153",
+            "name": "xccurate",
+            "team": "Persija Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.75\n2.30\n1.47",
+            "adr": "+12\n+7\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "184\n216\n168",
+            "hs%": "78%\n100%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "295",
+            "name": "klipp",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "1.23\n2.24\n0.72",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "146\n266\n85",
+            "hs%": "83%\n100%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "222",
+            "name": "Sylvette",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "1.01\n1.45\n0.79",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "153\n163\n148",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "229",
+            "name": "FrizzNatsz",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.98\n1.04\n0.95",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "120\n84\n138",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "193",
+            "name": "Dragy",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.72\n0.76\n0.70",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "97\n53\n120",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "154",
+            "name": "madel",
+            "team": "Dewa United Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 98860,
+  "teams": [
+    "Dewa United Esports",
+    "Persija Esports"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tRound 5"
+}

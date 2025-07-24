@@ -1,0 +1,788 @@
+{
+  "date": "2021-10-30 19:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "252",
+          "name": "JULIA",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "233",
+          "name": "Starryy",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "200",
+          "name": "joona",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "184",
+          "name": "Bellexion",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "134",
+          "name": "jolene",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "235",
+          "name": "fawn",
+          "team": "Roulette"
+        },
+        {
+          "kills": "213",
+          "name": "fad",
+          "team": "Roulette"
+        },
+        {
+          "kills": "204",
+          "name": "Avenger",
+          "team": "Roulette"
+        },
+        {
+          "kills": "178",
+          "name": "Buhms",
+          "team": "Roulette"
+        },
+        {
+          "kills": "156",
+          "name": "grimoire",
+          "team": "Roulette"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.48\n1.15\n1.83",
+            "adr": "+7\n-1\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "164\n161\n169",
+            "hs%": "83%\n67%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "252",
+            "name": "JULIA",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "1.41\n0.51\n2.40",
+            "adr": "+8\n-6\n+14",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "21\n3\n18",
+            "fk": "155\n61\n257",
+            "hs%": "83%\n67%\n100%",
+            "kdr": "6\n1\n5",
+            "kills": "233",
+            "name": "Starryy",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "1.06\n0.62\n1.54",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "139\n99\n182",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "5\n0\n5",
+            "kills": "200",
+            "name": "joona",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "0.90\n0.89\n0.91",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "128\n118\n140",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "6\n4\n2",
+            "kills": "184",
+            "name": "Bellexion",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "0.53\n0.42\n0.65",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "89\n92\n87",
+            "hs%": "70%\n50%\n91%",
+            "kdr": "9\n4\n5",
+            "kills": "134",
+            "name": "jolene",
+            "team": "Vengeance"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n0.60\n1.92",
+            "adr": "+5\n-5\n+10",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "144\n80\n202",
+            "hs%": "70%\n36%\n100%",
+            "kdr": "8\n3\n5",
+            "kills": "235",
+            "name": "fawn",
+            "team": "Roulette"
+          },
+          {
+            "acs": "1.08\n1.01\n1.13",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "151\n166\n137",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "8\n1\n7",
+            "kills": "213",
+            "name": "fad",
+            "team": "Roulette"
+          },
+          {
+            "acs": "0.94\n0.53\n1.32",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "133\n123\n141",
+            "hs%": "74%\n55%\n92%",
+            "kdr": "9\n1\n8",
+            "kills": "204",
+            "name": "Avenger",
+            "team": "Roulette"
+          },
+          {
+            "acs": "0.70\n0.05\n1.30",
+            "adr": "-2\n-9\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "123\n47\n194",
+            "hs%": "52%\n27%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "178",
+            "name": "Buhms",
+            "team": "Roulette"
+          },
+          {
+            "acs": "0.68\n0.44\n0.91",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "104\n72\n134",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "156",
+            "name": "grimoire",
+            "team": "Roulette"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "220",
+          "name": "joona",
+          "team": null
+        },
+        {
+          "kills": "120",
+          "name": "Starryy",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "JULIA",
+          "team": null
+        },
+        {
+          "kills": "160",
+          "name": "jolene",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "Bellexion",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "fad",
+          "team": null
+        },
+        {
+          "kills": "125",
+          "name": "fawn",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "Avenger",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "Buhms",
+          "team": null
+        },
+        {
+          "kills": "95",
+          "name": "grimoire",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.99\n1.66\n1.37",
+            "adr": "+23\n-1\n+24",
+            "agent": "",
+            "assists": "/\n\n40\n22\n18\n\n/",
+            "deaths": "63\n21\n42",
+            "fk": "181\n126\n222",
+            "hs%": "76%\n59%\n89%",
+            "kdr": "18\n3\n15",
+            "kills": "220",
+            "name": "joona",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.49\n1.17",
+            "adr": "+8\n-9\n+17",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "43\n10\n33",
+            "fk": "132\n92\n162",
+            "hs%": "83%\n70%\n92%",
+            "kdr": "15\n6\n9",
+            "kills": "120",
+            "name": "Starryy",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.40\n1.16",
+            "adr": "+11\n-5\n+16",
+            "agent": "",
+            "assists": "/\n\n38\n23\n15\n\n/",
+            "deaths": "49\n18\n31",
+            "fk": "140\n134\n144",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "10\n9\n1",
+            "kills": "197",
+            "name": "JULIA",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.20\n1.01",
+            "adr": "+3\n-7\n+10",
+            "agent": "",
+            "assists": "/\n\n37\n21\n16\n\n/",
+            "deaths": "40\n14\n26",
+            "fk": "118\n106\n127",
+            "hs%": "83%\n67%\n94%",
+            "kdr": "19\n7\n12",
+            "kills": "160",
+            "name": "jolene",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.10\n0.99",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n41\n21\n20\n\n/",
+            "deaths": "45\n17\n28",
+            "fk": "130\n109\n146",
+            "hs%": "83%\n74%\n89%",
+            "kdr": "15\n5\n10",
+            "kills": "165",
+            "name": "Bellexion",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.03\n1.20\n1.10",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n49\n32\n17\n\n/",
+            "deaths": "48\n28\n20",
+            "fk": "157\n152\n164",
+            "hs%": "71%\n61%\n85%",
+            "kdr": "22\n5\n17",
+            "kills": "227",
+            "name": "fad",
+            "team": null
+          },
+          {
+            "acs": "0.54\n1.71\n1.04",
+            "adr": "-1\n-18\n+17",
+            "agent": "",
+            "assists": "/\n\n43\n31\n12\n\n/",
+            "deaths": "42\n13\n29",
+            "fk": "133\n87\n194",
+            "hs%": "62%\n44%\n85%",
+            "kdr": "15\n8\n7",
+            "kills": "125",
+            "name": "fawn",
+            "team": null
+          },
+          {
+            "acs": "0.55\n1.12\n0.80",
+            "adr": "-15\n-17\n+2",
+            "agent": "",
+            "assists": "/\n\n48\n33\n15\n\n/",
+            "deaths": "33\n16\n17",
+            "fk": "120\n108\n135",
+            "hs%": "65%\n50%\n85%",
+            "kdr": "14\n4\n10",
+            "kills": "158",
+            "name": "Avenger",
+            "team": null
+          },
+          {
+            "acs": "0.47\n0.99\n0.70",
+            "adr": "-12\n-17\n+5",
+            "agent": "",
+            "assists": "/\n\n50\n34\n16\n\n/",
+            "deaths": "38\n17\n21",
+            "fk": "112\n83\n150",
+            "hs%": "59%\n50%\n70%",
+            "kdr": "10\n1\n9",
+            "kills": "137",
+            "name": "Buhms",
+            "team": null
+          },
+          {
+            "acs": "0.41\n1.00\n0.66",
+            "adr": "-20\n-20\n0",
+            "agent": "",
+            "assists": "/\n\n50\n31\n19\n\n/",
+            "deaths": "30\n11\n19",
+            "fk": "98\n68\n139",
+            "hs%": "60%\n44%\n81%",
+            "kdr": "9\n3\n6",
+            "kills": "95",
+            "name": "grimoire",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "255",
+          "name": "jolene",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "315",
+          "name": "joona",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "153",
+          "name": "Starryy",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "203",
+          "name": "Bellexion",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "204",
+          "name": "JULIA",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "254",
+          "name": "fad",
+          "team": "Roulette"
+        },
+        {
+          "kills": "265",
+          "name": "fawn",
+          "team": "Roulette"
+        },
+        {
+          "kills": "171",
+          "name": "Avenger",
+          "team": "Roulette"
+        },
+        {
+          "kills": "217",
+          "name": "grimoire",
+          "team": "Roulette"
+        },
+        {
+          "kills": "179",
+          "name": "Buhms",
+          "team": "Roulette"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.23\n1.06\n1.39",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "144\n127\n162",
+            "hs%": "85%\n77%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "255",
+            "name": "jolene",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "1.08\n0.75\n1.42",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "164\n111\n218",
+            "hs%": "77%\n62%\n92%",
+            "kdr": "10\n3\n7",
+            "kills": "315",
+            "name": "joona",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "0.95\n0.96\n0.94",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "120\n125\n115",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "8\n5\n3",
+            "kills": "153",
+            "name": "Starryy",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "0.95\n0.83\n1.06",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "131\n116\n146",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "3\n1\n2",
+            "kills": "203",
+            "name": "Bellexion",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "0.84\n0.55\n1.13",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "114\n102\n127",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "3\n3\n0",
+            "kills": "204",
+            "name": "JULIA",
+            "team": "Vengeance"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n1.47\n1.44",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "187\n169\n205",
+            "hs%": "77%\n69%\n85%",
+            "kdr": "11\n2\n9",
+            "kills": "254",
+            "name": "fad",
+            "team": "Roulette"
+          },
+          {
+            "acs": "1.23\n0.76\n1.70",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "153\n110\n196",
+            "hs%": "65%\n54%\n77%",
+            "kdr": "5\n3\n2",
+            "kills": "265",
+            "name": "fawn",
+            "team": "Roulette"
+          },
+          {
+            "acs": "0.90\n0.76\n1.05",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "119\n113\n125",
+            "hs%": "69%\n54%\n85%",
+            "kdr": "3\n1\n2",
+            "kills": "171",
+            "name": "Avenger",
+            "team": "Roulette"
+          },
+          {
+            "acs": "0.70\n0.37\n1.04",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "104\n71\n137",
+            "hs%": "62%\n46%\n77%",
+            "kdr": "5\n2\n3",
+            "kills": "217",
+            "name": "grimoire",
+            "team": "Roulette"
+          },
+          {
+            "acs": "0.68\n0.54\n0.83",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "108\n92\n124",
+            "hs%": "62%\n54%\n69%",
+            "kdr": "5\n0\n5",
+            "kills": "179",
+            "name": "Buhms",
+            "team": "Roulette"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "469",
+          "name": "joona",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "176",
+          "name": "jolene",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "235",
+          "name": "JULIA",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "206",
+          "name": "Bellexion",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "170",
+          "name": "Starryy",
+          "team": "Vengeance"
+        },
+        {
+          "kills": "182",
+          "name": "Buhms",
+          "team": "Roulette"
+        },
+        {
+          "kills": "102",
+          "name": "grimoire",
+          "team": "Roulette"
+        },
+        {
+          "kills": "146",
+          "name": "fad",
+          "team": "Roulette"
+        },
+        {
+          "kills": "139",
+          "name": "Avenger",
+          "team": "Roulette"
+        },
+        {
+          "kills": "102",
+          "name": "fawn",
+          "team": "Roulette"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "2.41\n4.75\n2.03",
+            "adr": "+20\n+7\n+13",
+            "agent": "",
+            "assists": "/\n\n4\n0\n4\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "282\n392\n264",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "469",
+            "name": "joona",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "1.39\n0.67\n1.50",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "116\n52\n127",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "176",
+            "name": "jolene",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "1.23\n0.73\n1.31",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "147\n187\n140",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "235",
+            "name": "JULIA",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "1.20\n0.49\n1.31",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "133\n13\n153",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "6\n0\n6",
+            "kills": "206",
+            "name": "Bellexion",
+            "team": "Vengeance"
+          },
+          {
+            "acs": "1.18\n0.69\n1.26",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "118\n66\n127",
+            "hs%": "86%\n50%\n92%",
+            "kdr": "1\n0\n1",
+            "kills": "170",
+            "name": "Starryy",
+            "team": "Vengeance"
+          }
+        ],
+        [
+          {
+            "acs": "0.71\n0.80\n0.21",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "99\n107\n52",
+            "hs%": "64%\n67%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "182",
+            "name": "Buhms",
+            "team": "Roulette"
+          },
+          {
+            "acs": "0.54\n0.42\n1.29",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "79\n60\n194",
+            "hs%": "36%\n25%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "102",
+            "name": "grimoire",
+            "team": "Roulette"
+          },
+          {
+            "acs": "0.49\n0.56\n0.04",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "113\n121\n63",
+            "hs%": "43%\n42%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "146",
+            "name": "fad",
+            "team": "Roulette"
+          },
+          {
+            "acs": "0.35\n0.35\n0.38",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "100\n90\n157",
+            "hs%": "43%\n42%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "139",
+            "name": "Avenger",
+            "team": "Roulette"
+          },
+          {
+            "acs": "0.28\n0.25\n0.49",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "3\n2\n1",
+            "fk": "78\n67\n139",
+            "hs%": "43%\n42%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "102",
+            "name": "fawn",
+            "team": "Roulette"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 48867,
+  "teams": [
+    "Roulette",
+    "Vengeance"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tSemifinals"
+}

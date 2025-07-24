@@ -1,0 +1,788 @@
+{
+  "date": "2023-01-05 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "379",
+          "name": "Polvi",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "281",
+          "name": "Meddo",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "240",
+          "name": "ec1s",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "162",
+          "name": "Kryptix",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "92",
+          "name": "luckeRRR",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "277",
+          "name": "Nille",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "229",
+          "name": "Vorwenn",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "243",
+          "name": "Klusia",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "93",
+          "name": "Zik",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "99",
+          "name": "sunshine",
+          "team": "VAMONOS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.57\n2.21\n1.09",
+            "adr": "+11\n+11\n0",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "27\n17\n10",
+            "fk": "239\n318\n181",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "379",
+            "name": "Polvi",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "1.56\n1.32\n1.74",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "206\n160\n241",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "281",
+            "name": "Meddo",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "1.16\n1.08\n1.21",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "145\n117\n166",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "16\n5\n11",
+            "kills": "240",
+            "name": "ec1s",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "0.94\n0.75\n1.07",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "91\n114\n75",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "162",
+            "name": "Kryptix",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "0.38\n0.55\n0.25",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "56\n54\n59",
+            "hs%": "62%\n78%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "92",
+            "name": "luckeRRR",
+            "team": "The Barbers"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n1.32\n1.32",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "167\n153\n187",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "277",
+            "name": "Nille",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "1.21\n1.56\n0.73",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "168\n192\n137",
+            "hs%": "76%\n92%\n56%",
+            "kdr": "4\n1\n3",
+            "kills": "229",
+            "name": "Vorwenn",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "0.90\n0.98\n0.80",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "141\n166\n108",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "4\n3\n1",
+            "kills": "243",
+            "name": "Klusia",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "0.57\n0.54\n0.62",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "62\n69\n53",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "8\n2\n6",
+            "kills": "93",
+            "name": "Zik",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "0.44\n0.46\n0.40",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "81\n73\n92",
+            "hs%": "57%\n58%\n56%",
+            "kdr": "4\n2\n2",
+            "kills": "99",
+            "name": "sunshine",
+            "team": "VAMONOS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "378",
+          "name": "Polvi",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "Meddo",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "ec1s",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Kryptix",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "luckeRRR",
+          "team": null
+        },
+        {
+          "kills": "268",
+          "name": "Nille",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "Vorwenn",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "sunshine",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "Zik",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "Klusia",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.58\n0.96\n1.27",
+            "adr": "+15\n+17\n-2",
+            "agent": "",
+            "assists": "/\n\n54\n25\n29\n\n/",
+            "deaths": "69\n42\n27",
+            "fk": "197\n242\n154",
+            "hs%": "74%\n79%\n69%",
+            "kdr": "17\n10\n7",
+            "kills": "378",
+            "name": "Polvi",
+            "team": null
+          },
+          {
+            "acs": "0.98\n1.47\n1.23",
+            "adr": "+14\n+4\n+10",
+            "agent": "",
+            "assists": "/\n\n40\n16\n24\n\n/",
+            "deaths": "54\n20\n34",
+            "fk": "154\n100\n207",
+            "hs%": "74%\n79%\n69%",
+            "kdr": "14\n7\n7",
+            "kills": "144",
+            "name": "Meddo",
+            "team": null
+          },
+          {
+            "acs": "1.25\n0.88\n1.06",
+            "adr": "+3\n+9\n-6",
+            "agent": "",
+            "assists": "/\n\n46\n19\n27\n\n/",
+            "deaths": "49\n28\n21",
+            "fk": "126\n137\n115",
+            "hs%": "78%\n88%\n69%",
+            "kdr": "39\n16\n23",
+            "kills": "225",
+            "name": "ec1s",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.79\n0.84",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n44\n19\n25\n\n/",
+            "deaths": "38\n20\n18",
+            "fk": "94\n94\n93",
+            "hs%": "78%\n85%\n71%",
+            "kdr": "21\n13\n8",
+            "kills": "157",
+            "name": "Kryptix",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.42\n0.75",
+            "adr": "-15\n+2\n-17",
+            "agent": "",
+            "assists": "/\n\n48\n19\n29\n\n/",
+            "deaths": "33\n21\n12",
+            "fk": "91\n112\n69",
+            "hs%": "70%\n82%\n57%",
+            "kdr": "32\n21\n11",
+            "kills": "183",
+            "name": "luckeRRR",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n0.89\n1.24",
+            "adr": "+13\n+18\n-5",
+            "agent": "",
+            "assists": "/\n\n44\n18\n26\n\n/",
+            "deaths": "57\n36\n21",
+            "fk": "156\n168\n142",
+            "hs%": "71%\n83%\n59%",
+            "kdr": "18\n9\n9",
+            "kills": "268",
+            "name": "Nille",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.79\n0.96",
+            "adr": "-7\n+3\n-10",
+            "agent": "",
+            "assists": "/\n\n49\n20\n29\n\n/",
+            "deaths": "42\n23\n19",
+            "fk": "111\n128\n95",
+            "hs%": "71%\n83%\n59%",
+            "kdr": "20\n8\n12",
+            "kills": "186",
+            "name": "Vorwenn",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.90\n0.93",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n48\n27\n21\n\n/",
+            "deaths": "43\n26\n17",
+            "fk": "121\n139\n102",
+            "hs%": "75%\n80%\n71%",
+            "kdr": "22\n10\n12",
+            "kills": "201",
+            "name": "sunshine",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.90\n0.92",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n50\n25\n25\n\n/",
+            "deaths": "43\n22\n21",
+            "fk": "114\n111\n117",
+            "hs%": "77%\n77%\n76%",
+            "kdr": "24\n12\n12",
+            "kills": "175",
+            "name": "Zik",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.80\n0.91",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n52\n26\n26\n\n/",
+            "deaths": "47\n27\n20",
+            "fk": "126\n138\n113",
+            "hs%": "67%\n71%\n62%",
+            "kdr": "17\n12\n5",
+            "kills": "224",
+            "name": "Klusia",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "129",
+          "name": "luckeRRR",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "202",
+          "name": "Polvi",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "192",
+          "name": "Meddo",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "187",
+          "name": "ec1s",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "140",
+          "name": "Kryptix",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "223",
+          "name": "Nille",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "141",
+          "name": "Zik",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "213",
+          "name": "Klusia",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "91",
+          "name": "Vorwenn",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "132",
+          "name": "sunshine",
+          "team": "VAMONOS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.11\n1.62\n0.59",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "125\n167\n82",
+            "hs%": "69%\n85%\n54%",
+            "kdr": "17\n14\n3",
+            "kills": "129",
+            "name": "luckeRRR",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "1.06\n1.31\n0.81",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "159\n200\n117",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "5\n3\n2",
+            "kills": "202",
+            "name": "Polvi",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "0.96\n0.92\n1.00",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "99\n54\n145",
+            "hs%": "58%\n77%\n38%",
+            "kdr": "3\n3\n0",
+            "kills": "192",
+            "name": "Meddo",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "0.89\n1.05\n0.73",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "107\n102\n113",
+            "hs%": "65%\n77%\n54%",
+            "kdr": "9\n8\n1",
+            "kills": "187",
+            "name": "ec1s",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "0.68\n0.82\n0.54",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "82\n61\n103",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "6\n3\n3",
+            "kills": "140",
+            "name": "Kryptix",
+            "team": "The Barbers"
+          }
+        ],
+        [
+          {
+            "acs": "1.37\n1.68\n1.06",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "168\n180\n155",
+            "hs%": "73%\n85%\n62%",
+            "kdr": "7\n4\n3",
+            "kills": "223",
+            "name": "Nille",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "1.16\n1.59\n0.72",
+            "adr": "+2\n+6\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "136\n174\n97",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "10\n5\n5",
+            "kills": "141",
+            "name": "Zik",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "0.92\n0.80\n1.04",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "115\n104\n127",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "5\n4\n1",
+            "kills": "213",
+            "name": "Klusia",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "0.90\n1.22\n0.57",
+            "adr": "-3\n+3\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "79\n102\n56",
+            "hs%": "69%\n85%\n54%",
+            "kdr": "7\n3\n4",
+            "kills": "91",
+            "name": "Vorwenn",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "0.89\n0.87\n0.91",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "127\n167\n87",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "6\n2\n4",
+            "kills": "132",
+            "name": "sunshine",
+            "team": "VAMONOS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "264",
+          "name": "Meddo",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "310",
+          "name": "Polvi",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "211",
+          "name": "ec1s",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "167",
+          "name": "Kryptix",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "127",
+          "name": "luckeRRR",
+          "team": "The Barbers"
+        },
+        {
+          "kills": "243",
+          "name": "sunshine",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "195",
+          "name": "Nille",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "237",
+          "name": "Zik",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "171",
+          "name": "Klusia",
+          "team": "VAMONOS"
+        },
+        {
+          "kills": "164",
+          "name": "Vorwenn",
+          "team": "VAMONOS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.23\n0.79\n1.76",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "171\n105\n249",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "7\n2\n5",
+            "kills": "264",
+            "name": "Meddo",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "1.22\n1.40\n1.01",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "203\n229\n172",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "6\n5\n1",
+            "kills": "310",
+            "name": "Polvi",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "1.17\n1.59\n0.67",
+            "adr": "+3\n+8\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "130\n191\n57",
+            "hs%": "91%\n100%\n80%",
+            "kdr": "14\n3\n11",
+            "kills": "211",
+            "name": "ec1s",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "0.95\n1.09\n0.79",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "110\n115\n103",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "11\n9\n2",
+            "kills": "167",
+            "name": "Kryptix",
+            "team": "The Barbers"
+          },
+          {
+            "acs": "0.68\n0.89\n0.42",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "83\n97\n66",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "9\n4\n5",
+            "kills": "127",
+            "name": "luckeRRR",
+            "team": "The Barbers"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n1.70\n1.25",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "151\n183\n124",
+            "hs%": "91%\n100%\n83%",
+            "kdr": "12\n6\n6",
+            "kills": "243",
+            "name": "sunshine",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "0.99\n1.74\n0.37",
+            "adr": "+1\n+9\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "130\n172\n95",
+            "hs%": "73%\n100%\n50%",
+            "kdr": "5\n1\n4",
+            "kills": "195",
+            "name": "Nille",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "0.97\n0.56\n1.31",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "138\n80\n187",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "237",
+            "name": "Zik",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "0.89\n1.32\n0.53",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "125\n150\n103",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "8\n5\n3",
+            "kills": "171",
+            "name": "Klusia",
+            "team": "VAMONOS"
+          },
+          {
+            "acs": "0.80\n0.48\n1.07",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "95\n84\n105",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "9\n4\n5",
+            "kills": "164",
+            "name": "Vorwenn",
+            "team": "VAMONOS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 163418,
+  "teams": [
+    "VAMONOS",
+    "The Barbers"
+  ],
+  "tournament": "Division 1: \n\t\t\t\t\t\tUpper Semifinals"
+}

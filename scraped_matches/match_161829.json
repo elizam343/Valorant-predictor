@@ -1,0 +1,788 @@
+{
+  "date": "2022-12-10 20:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "Ltomlee",
+          "team": "YFP White"
+        },
+        {
+          "kills": "203",
+          "name": "Kazler",
+          "team": "YFP White"
+        },
+        {
+          "kills": "213",
+          "name": "fawn",
+          "team": "YFP White"
+        },
+        {
+          "kills": "164",
+          "name": "chip",
+          "team": "YFP White"
+        },
+        {
+          "kills": "148",
+          "name": "Kamiunist",
+          "team": "YFP White"
+        },
+        {
+          "kills": "288",
+          "name": "marceline",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "238",
+          "name": "m1yu",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "158",
+          "name": "Australis",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "153",
+          "name": "Ptero",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "129",
+          "name": "ARIANARCHIST",
+          "team": "WinterBlessed"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.48\n1.38\n1.55",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "169\n165\n173",
+            "hs%": "82%\n70%\n92%",
+            "kdr": "11\n6\n5",
+            "kills": "265",
+            "name": "Ltomlee",
+            "team": "YFP White"
+          },
+          {
+            "acs": "1.19\n1.35\n1.05",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "130\n149\n114",
+            "hs%": "59%\n70%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "203",
+            "name": "Kazler",
+            "team": "YFP White"
+          },
+          {
+            "acs": "1.15\n1.36\n0.97",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "116\n134\n101",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "13\n6\n7",
+            "kills": "213",
+            "name": "fawn",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.77\n0.82\n0.73",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "104\n98\n109",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "164",
+            "name": "chip",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.57\n0.92\n0.27",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "88\n120\n60",
+            "hs%": "59%\n70%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "148",
+            "name": "Kamiunist",
+            "team": "YFP White"
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n1.03\n1.48",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "24\n13\n11",
+            "fk": "169\n188\n147",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "2\n2\n0",
+            "kills": "288",
+            "name": "marceline",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "1.24\n1.60\n0.81",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "161\n209\n103",
+            "hs%": "64%\n75%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "238",
+            "name": "m1yu",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "0.88\n1.08\n0.64",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "105\n131\n73",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "10\n6\n4",
+            "kills": "158",
+            "name": "Australis",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "0.87\n0.81\n0.93",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "107\n69\n153",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "2\n0\n2",
+            "kills": "153",
+            "name": "Ptero",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "0.61\n0.94\n0.22",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "84\n127\n32",
+            "hs%": "64%\n75%\n50%",
+            "kdr": "9\n6\n3",
+            "kills": "129",
+            "name": "ARIANARCHIST",
+            "team": "WinterBlessed"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "188",
+          "name": "Ltomlee",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Kazler",
+          "team": null
+        },
+        {
+          "kills": "305",
+          "name": "Kamiunist",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "fawn",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "chip",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "m1yu",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "Australis",
+          "team": null
+        },
+        {
+          "kills": "275",
+          "name": "marceline",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "ARIANARCHIST",
+          "team": null
+        },
+        {
+          "kills": "93",
+          "name": "Ptero",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.07\n1.52\n1.29",
+            "adr": "+15\n0\n+15",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "59\n24\n35",
+            "fk": "152\n129\n175",
+            "hs%": "76%\n68%\n85%",
+            "kdr": "30\n16\n14",
+            "kills": "188",
+            "name": "Ltomlee",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.32\n1.10",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "50\n20\n30",
+            "fk": "140\n121\n160",
+            "hs%": "66%\n59%\n73%",
+            "kdr": "9\n4\n5",
+            "kills": "173",
+            "name": "Kazler",
+            "team": null
+          },
+          {
+            "acs": "1.35\n0.67\n1.01",
+            "adr": "0\n+8\n-8",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "52\n35\n17",
+            "fk": "137\n179\n92",
+            "hs%": "69%\n74%\n64%",
+            "kdr": "20\n10\n10",
+            "kills": "305",
+            "name": "Kamiunist",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.16\n1.00",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "112\n104\n120",
+            "hs%": "72%\n65%\n79%",
+            "kdr": "36\n14\n22",
+            "kills": "166",
+            "name": "fawn",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.88\n0.83",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "123\n128\n118",
+            "hs%": "69%\n65%\n73%",
+            "kdr": "25\n9\n16",
+            "kills": "181",
+            "name": "chip",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n1.17\n1.19",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n47\n22\n25\n\n/",
+            "deaths": "55\n25\n30",
+            "fk": "146\n138\n153",
+            "hs%": "69%\n64%\n74%",
+            "kdr": "27\n15\n12",
+            "kills": "220",
+            "name": "m1yu",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.25\n1.06",
+            "adr": "+2\n-6\n+8",
+            "agent": "",
+            "assists": "/\n\n46\n25\n21\n\n/",
+            "deaths": "48\n19\n29",
+            "fk": "131\n116\n146",
+            "hs%": "72%\n64%\n79%",
+            "kdr": "25\n13\n12",
+            "kills": "178",
+            "name": "Australis",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.95\n0.97",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n55\n29\n26\n\n/",
+            "deaths": "58\n32\n26",
+            "fk": "154\n171\n139",
+            "hs%": "70%\n79%\n62%",
+            "kdr": "7\n5\n2",
+            "kills": "275",
+            "name": "marceline",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.78\n0.85",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "37\n19\n18",
+            "fk": "109\n115\n103",
+            "hs%": "72%\n70%\n74%",
+            "kdr": "28\n14\n14",
+            "kills": "169",
+            "name": "ARIANARCHIST",
+            "team": null
+          },
+          {
+            "acs": "0.64\n1.00\n0.82",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n46\n22\n24\n\n/",
+            "deaths": "37\n13\n24",
+            "fk": "101\n60\n141",
+            "hs%": "66%\n58%\n74%",
+            "kdr": "6\n1\n5",
+            "kills": "93",
+            "name": "Ptero",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "342",
+          "name": "fawn",
+          "team": "YFP White"
+        },
+        {
+          "kills": "213",
+          "name": "Kamiunist",
+          "team": "YFP White"
+        },
+        {
+          "kills": "282",
+          "name": "Ltomlee",
+          "team": "YFP White"
+        },
+        {
+          "kills": "244",
+          "name": "Kazler",
+          "team": "YFP White"
+        },
+        {
+          "kills": "185",
+          "name": "chip",
+          "team": "YFP White"
+        },
+        {
+          "kills": "349",
+          "name": "Australis",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "264",
+          "name": "m1yu",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "139",
+          "name": "Ptero",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "178",
+          "name": "ARIANARCHIST",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "212",
+          "name": "marceline",
+          "team": "WinterBlessed"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.54\n1.10\n2.07",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "161\n128\n200",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "16\n6\n10",
+            "kills": "342",
+            "name": "fawn",
+            "team": "YFP White"
+          },
+          {
+            "acs": "1.42\n1.55\n1.26",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "24\n16\n8",
+            "fk": "172\n208\n128",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "8\n3\n5",
+            "kills": "213",
+            "name": "Kamiunist",
+            "team": "YFP White"
+          },
+          {
+            "acs": "1.27\n0.86\n1.75",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "139\n118\n164",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "9\n5\n4",
+            "kills": "282",
+            "name": "Ltomlee",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.93\n0.62\n1.29",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "126\n105\n151",
+            "hs%": "77%\n67%\n90%",
+            "kdr": "3\n1\n2",
+            "kills": "244",
+            "name": "Kazler",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.92\n0.71\n1.17",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "144\n143\n145",
+            "hs%": "77%\n67%\n90%",
+            "kdr": "10\n5\n5",
+            "kills": "185",
+            "name": "chip",
+            "team": "YFP White"
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n0.42\n1.55",
+            "adr": "+2\n-6\n+8",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "20\n4\n16",
+            "fk": "154\n101\n199",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "349",
+            "name": "Australis",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "0.99\n0.70\n1.23",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "125\n66\n174",
+            "hs%": "55%\n40%\n67%",
+            "kdr": "10\n6\n4",
+            "kills": "264",
+            "name": "m1yu",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "0.76\n0.61\n0.88",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "80\n56\n99",
+            "hs%": "55%\n40%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "139",
+            "name": "Ptero",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "0.73\n0.56\n0.87",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "102\n78\n122",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "10\n6\n4",
+            "kills": "178",
+            "name": "ARIANARCHIST",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "0.65\n0.40\n0.85",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "122\n100\n140",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "212",
+            "name": "marceline",
+            "team": "WinterBlessed"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "253",
+          "name": "Kazler",
+          "team": "YFP White"
+        },
+        {
+          "kills": "238",
+          "name": "Ltomlee",
+          "team": "YFP White"
+        },
+        {
+          "kills": "243",
+          "name": "Kamiunist",
+          "team": "YFP White"
+        },
+        {
+          "kills": "185",
+          "name": "chip",
+          "team": "YFP White"
+        },
+        {
+          "kills": "75",
+          "name": "fawn",
+          "team": "YFP White"
+        },
+        {
+          "kills": "269",
+          "name": "m1yu",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "207",
+          "name": "Australis",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "204",
+          "name": "ARIANARCHIST",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "251",
+          "name": "marceline",
+          "team": "WinterBlessed"
+        },
+        {
+          "kills": "186",
+          "name": "Ptero",
+          "team": "WinterBlessed"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.20\n0.79\n1.64",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "21\n7\n14",
+            "fk": "164\n114\n219",
+            "hs%": "61%\n42%\n82%",
+            "kdr": "2\n1\n1",
+            "kills": "253",
+            "name": "Kazler",
+            "team": "YFP White"
+          },
+          {
+            "acs": "1.14\n1.02\n1.27",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "148\n111\n188",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "10\n5\n5",
+            "kills": "238",
+            "name": "Ltomlee",
+            "team": "YFP White"
+          },
+          {
+            "acs": "1.05\n1.50\n0.56",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "18\n13\n5",
+            "fk": "150\n200\n96",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "8\n4\n4",
+            "kills": "243",
+            "name": "Kamiunist",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.80\n0.82\n0.78",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "122\n138\n104",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "11\n3\n8",
+            "kills": "185",
+            "name": "chip",
+            "team": "YFP White"
+          },
+          {
+            "acs": "0.34\n0.16\n0.54",
+            "adr": "-15\n-10\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "62\n56\n68",
+            "hs%": "57%\n42%\n73%",
+            "kdr": "7\n2\n5",
+            "kills": "75",
+            "name": "fawn",
+            "team": "YFP White"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.27\n1.41",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "151\n126\n174",
+            "hs%": "87%\n73%\n100%",
+            "kdr": "12\n6\n6",
+            "kills": "269",
+            "name": "m1yu",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "1.24\n1.01\n1.46",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "135\n114\n154",
+            "hs%": "87%\n73%\n100%",
+            "kdr": "9\n5\n4",
+            "kills": "207",
+            "name": "Australis",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "1.19\n1.22\n1.15",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "140\n135\n144",
+            "hs%": "87%\n82%\n92%",
+            "kdr": "9\n2\n7",
+            "kills": "204",
+            "name": "ARIANARCHIST",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "1.03\n1.47\n0.62",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "171\n216\n130",
+            "hs%": "78%\n91%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "251",
+            "name": "marceline",
+            "team": "WinterBlessed"
+          },
+          {
+            "acs": "0.84\n0.48\n1.17",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "116\n54\n173",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "186",
+            "name": "Ptero",
+            "team": "WinterBlessed"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 161829,
+  "teams": [
+    "WinterBlessed",
+    "YFP White"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 16"
+}

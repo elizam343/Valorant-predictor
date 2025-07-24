@@ -1,0 +1,788 @@
+{
+  "date": "2021-07-26 17:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "288",
+          "name": "RaM",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "239",
+          "name": "Envys",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "187",
+          "name": "Dogo",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "271",
+          "name": "Yoshii",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "111",
+          "name": "chanse",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "299",
+          "name": "DBK",
+          "team": "UYU"
+        },
+        {
+          "kills": "172",
+          "name": "Velocity",
+          "team": "UYU"
+        },
+        {
+          "kills": "208",
+          "name": "Soop",
+          "team": "UYU"
+        },
+        {
+          "kills": "189",
+          "name": "cky",
+          "team": "UYU"
+        },
+        {
+          "kills": "106",
+          "name": "Missing",
+          "team": "UYU"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.43\n1.41\n1.45",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "179\n190\n161",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "3\n0\n3",
+            "kills": "288",
+            "name": "RaM",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "1.27\n1.16\n1.43",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "175\n135\n234",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "7\n3\n4",
+            "kills": "239",
+            "name": "Envys",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "1.17\n0.95\n1.51",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "103\n86\n128",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "187",
+            "name": "Dogo",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "1.13\n1.11\n1.14",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "147\n186\n88",
+            "hs%": "60%\n58%\n63%",
+            "kdr": "3\n3\n0",
+            "kills": "271",
+            "name": "Yoshii",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "0.43\n0.36\n0.53",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "61\n63\n58",
+            "hs%": "65%\n58%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "111",
+            "name": "chanse",
+            "team": "Kowareta"
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n0.94\n1.37",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "157\n142\n168",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "299",
+            "name": "DBK",
+            "team": "UYU"
+          },
+          {
+            "acs": "1.01\n0.48\n1.37",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "116\n70\n147",
+            "hs%": "80%\n50%\n100%",
+            "kdr": "7\n1\n6",
+            "kills": "172",
+            "name": "Velocity",
+            "team": "UYU"
+          },
+          {
+            "acs": "0.93\n0.73\n1.06",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "135\n102\n156",
+            "hs%": "70%\n50%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "208",
+            "name": "Soop",
+            "team": "UYU"
+          },
+          {
+            "acs": "0.80\n1.15\n0.57",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "122\n203\n68",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "189",
+            "name": "cky",
+            "team": "UYU"
+          },
+          {
+            "acs": "0.31\n0.06\n0.47",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "78\n45\n99",
+            "hs%": "50%\n38%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "106",
+            "name": "Missing",
+            "team": "UYU"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "229",
+          "name": "RaM",
+          "team": null
+        },
+        {
+          "kills": "214",
+          "name": "Dogo",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Envys",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "Yoshii",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "chanse",
+          "team": null
+        },
+        {
+          "kills": "379",
+          "name": "DBK",
+          "team": null
+        },
+        {
+          "kills": "235",
+          "name": "Soop",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "cky",
+          "team": null
+        },
+        {
+          "kills": "90",
+          "name": "Velocity",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "Missing",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.07\n1.15\n1.11",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n53\n27\n26\n\n/",
+            "deaths": "61\n32\n29",
+            "fk": "149\n150\n149",
+            "hs%": "67%\n66%\n69%",
+            "kdr": "9\n3\n6",
+            "kills": "229",
+            "name": "RaM",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.98\n1.09",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "50\n29\n21",
+            "fk": "122\n135\n107",
+            "hs%": "77%\n76%\n78%",
+            "kdr": "15\n4\n11",
+            "kills": "214",
+            "name": "Dogo",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.07\n1.02",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "51\n25\n26",
+            "fk": "139\n116\n166",
+            "hs%": "71%\n74%\n69%",
+            "kdr": "16\n9\n7",
+            "kills": "179",
+            "name": "Envys",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.02\n1.02",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n56\n31\n25\n\n/",
+            "deaths": "58\n32\n26",
+            "fk": "145\n163\n123",
+            "hs%": "63%\n58%\n69%",
+            "kdr": "10\n6\n4",
+            "kills": "262",
+            "name": "Yoshii",
+            "team": null
+          },
+          {
+            "acs": "0.75\n0.68\n0.71",
+            "adr": "-13\n-6\n-7",
+            "agent": "",
+            "assists": "/\n\n50\n27\n23\n\n/",
+            "deaths": "37\n21\n16",
+            "fk": "102\n124\n75",
+            "hs%": "59%\n61%\n56%",
+            "kdr": "11\n5\n6",
+            "kills": "174",
+            "name": "chanse",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.58\n1.18\n1.36",
+            "adr": "+23\n+15\n+8",
+            "agent": "",
+            "assists": "/\n\n53\n26\n27\n\n/",
+            "deaths": "76\n41\n35",
+            "fk": "187\n232\n149",
+            "hs%": "77%\n78%\n76%",
+            "kdr": "11\n8\n3",
+            "kills": "379",
+            "name": "DBK",
+            "team": null
+          },
+          {
+            "acs": "1.09\n1.17\n1.13",
+            "adr": "+14\n+7\n+7",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "59\n29\n30",
+            "fk": "142\n147\n138",
+            "hs%": "76%\n75%\n76%",
+            "kdr": "10\n3\n7",
+            "kills": "235",
+            "name": "Soop",
+            "team": null
+          },
+          {
+            "acs": "0.79\n0.86\n0.83",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n55\n25\n30\n\n/",
+            "deaths": "44\n19\n25",
+            "fk": "113\n115\n111",
+            "hs%": "64%\n66%\n63%",
+            "kdr": "16\n9\n7",
+            "kills": "171",
+            "name": "cky",
+            "team": null
+          },
+          {
+            "acs": "0.47\n0.99\n0.75",
+            "adr": "-19\n-14\n-5",
+            "agent": "",
+            "assists": "/\n\n50\n22\n28\n\n/",
+            "deaths": "31\n8\n23",
+            "fk": "104\n63\n138",
+            "hs%": "69%\n59%\n76%",
+            "kdr": "20\n7\n13",
+            "kills": "90",
+            "name": "Velocity",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.58\n0.74",
+            "adr": "-12\n-1\n-11",
+            "agent": "",
+            "assists": "/\n\n54\n23\n31\n\n/",
+            "deaths": "42\n22\n20",
+            "fk": "121\n134\n110",
+            "hs%": "59%\n56%\n61%",
+            "kdr": "10\n5\n5",
+            "kills": "198",
+            "name": "Missing",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "183",
+          "name": "Dogo",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "270",
+          "name": "RaM",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "153",
+          "name": "chanse",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "162",
+          "name": "Yoshii",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "191",
+          "name": "Envys",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "243",
+          "name": "Soop",
+          "team": "UYU"
+        },
+        {
+          "kills": "227",
+          "name": "DBK",
+          "team": "UYU"
+        },
+        {
+          "kills": "200",
+          "name": "Missing",
+          "team": "UYU"
+        },
+        {
+          "kills": "154",
+          "name": "cky",
+          "team": "UYU"
+        },
+        {
+          "kills": "211",
+          "name": "Velocity",
+          "team": "UYU"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.14\n1.51\n0.77",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "143\n173\n113",
+            "hs%": "75%\n71%\n79%",
+            "kdr": "6\n1\n5",
+            "kills": "183",
+            "name": "Dogo",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "0.98\n0.72\n1.25",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "147\n116\n179",
+            "hs%": "57%\n50%\n64%",
+            "kdr": "3\n2\n1",
+            "kills": "270",
+            "name": "RaM",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "0.82\n0.70\n0.95",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "109\n118\n101",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "6\n2\n4",
+            "kills": "153",
+            "name": "chanse",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "0.81\n0.98\n0.64",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "131\n159\n103",
+            "hs%": "64%\n64%\n64%",
+            "kdr": "5\n3\n2",
+            "kills": "162",
+            "name": "Yoshii",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "0.73\n0.90\n0.55",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n21\n8\n13\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "110\n86\n134",
+            "hs%": "68%\n79%\n57%",
+            "kdr": "7\n5\n2",
+            "kills": "191",
+            "name": "Envys",
+            "team": "Kowareta"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n1.24\n1.54",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "29\n14\n15",
+            "fk": "155\n148\n161",
+            "hs%": "79%\n86%\n71%",
+            "kdr": "2\n2\n0",
+            "kills": "243",
+            "name": "Soop",
+            "team": "UYU"
+          },
+          {
+            "acs": "1.34\n1.70\n0.99",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "30\n19\n11",
+            "fk": "184\n256\n113",
+            "hs%": "82%\n86%\n79%",
+            "kdr": "7\n6\n1",
+            "kills": "227",
+            "name": "DBK",
+            "team": "UYU"
+          },
+          {
+            "acs": "1.18\n1.58\n0.78",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "24\n15\n9",
+            "fk": "163\n198\n129",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "0\n0\n0",
+            "kills": "200",
+            "name": "Missing",
+            "team": "UYU"
+          },
+          {
+            "acs": "0.77\n0.86\n0.68",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "98\n100\n95",
+            "hs%": "71%\n79%\n64%",
+            "kdr": "12\n7\n5",
+            "kills": "154",
+            "name": "cky",
+            "team": "UYU"
+          },
+          {
+            "acs": "0.73\n0.45\n1.00",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "98\n43\n153",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "10\n4\n6",
+            "kills": "211",
+            "name": "Velocity",
+            "team": "UYU"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "278",
+          "name": "Yoshii",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "247",
+          "name": "Envys",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "217",
+          "name": "RaM",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "180",
+          "name": "Dogo",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "193",
+          "name": "chanse",
+          "team": "Kowareta"
+        },
+        {
+          "kills": "314",
+          "name": "DBK",
+          "team": "UYU"
+        },
+        {
+          "kills": "208",
+          "name": "Soop",
+          "team": "UYU"
+        },
+        {
+          "kills": "200",
+          "name": "cky",
+          "team": "UYU"
+        },
+        {
+          "kills": "161",
+          "name": "Missing",
+          "team": "UYU"
+        },
+        {
+          "kills": "140",
+          "name": "Velocity",
+          "team": "UYU"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.18\n0.96\n1.45",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "161\n146\n178",
+            "hs%": "64%\n50%\n80%",
+            "kdr": "2\n0\n2",
+            "kills": "278",
+            "name": "Yoshii",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "1.16\n0.87\n1.51",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "143\n130\n157",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "2\n1\n1",
+            "kills": "247",
+            "name": "Envys",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "0.97\n1.14\n0.77",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "126\n150\n97",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "3\n1\n2",
+            "kills": "217",
+            "name": "RaM",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "0.96\n1.05\n0.86",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "112\n138\n81",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "5\n1\n4",
+            "kills": "180",
+            "name": "Dogo",
+            "team": "Kowareta"
+          },
+          {
+            "acs": "0.83\n1.19\n0.41",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "130\n193\n54",
+            "hs%": "64%\n75%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "193",
+            "name": "chanse",
+            "team": "Kowareta"
+          }
+        ],
+        [
+          {
+            "acs": "1.54\n1.91\n1.23",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "217\n270\n172",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "314",
+            "name": "DBK",
+            "team": "UYU"
+          },
+          {
+            "acs": "0.99\n1.15\n0.85",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "132\n180\n93",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "208",
+            "name": "Soop",
+            "team": "UYU"
+          },
+          {
+            "acs": "0.92\n0.39\n1.36",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "125\n66\n174",
+            "hs%": "64%\n60%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "200",
+            "name": "cky",
+            "team": "UYU"
+          },
+          {
+            "acs": "0.57\n0.72\n0.44",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "107\n118\n98",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "161",
+            "name": "Missing",
+            "team": "UYU"
+          },
+          {
+            "acs": "0.54\n0.48\n0.59",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "100\n84\n113",
+            "hs%": "50%\n60%\n42%",
+            "kdr": "3\n2\n1",
+            "kills": "140",
+            "name": "Velocity",
+            "team": "UYU"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 29465,
+  "teams": [
+    "UYU",
+    "Kowareta"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tElimination (A)"
+}

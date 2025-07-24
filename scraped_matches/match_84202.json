@@ -1,0 +1,788 @@
+{
+  "date": "2022-04-02 00:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "201",
+          "name": "micah",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "215",
+          "name": "aryel",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "286",
+          "name": "Belle",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "190",
+          "name": "Diane\u30ef",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "147",
+          "name": "Ivankov",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "271",
+          "name": "Supernova",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "252",
+          "name": "khaos",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "255",
+          "name": "bomie",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "163",
+          "name": "BananaBun",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "166",
+          "name": "Izniccole",
+          "team": "UND Hera"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.73\n0.62",
+            "adr": "+4\n+8\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "130\n192\n68",
+            "hs%": "67%\n92%\n42%",
+            "kdr": "5\n5\n0",
+            "kills": "201",
+            "name": "micah",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "1.10\n1.41\n0.78",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "142\n143\n142",
+            "hs%": "79%\n100%\n58%",
+            "kdr": "13\n9\n4",
+            "kills": "215",
+            "name": "aryel",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "1.07\n1.23\n0.92",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "178\n215\n141",
+            "hs%": "63%\n75%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "286",
+            "name": "Belle",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "0.92\n0.93\n0.90",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "122\n127\n117",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "190",
+            "name": "Diane\u30ef",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "0.75\n0.89\n0.60",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "95\n98\n92",
+            "hs%": "71%\n100%\n42%",
+            "kdr": "5\n3\n2",
+            "kills": "147",
+            "name": "Ivankov",
+            "team": "Vengeance Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.67\n0.83",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "182\n224\n140",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "10\n5\n5",
+            "kills": "271",
+            "name": "Supernova",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "1.12\n1.39\n0.85",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "142\n167\n117",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "252",
+            "name": "khaos",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "1.10\n0.89\n1.31",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "154\n166\n141",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "255",
+            "name": "bomie",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "0.98\n1.14\n0.82",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "119\n94\n145",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "9\n3\n6",
+            "kills": "163",
+            "name": "BananaBun",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "0.67\n1.03\n0.32",
+            "adr": "-7\n+1\n-8",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "120\n136\n104",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "11\n4\n7",
+            "kills": "166",
+            "name": "Izniccole",
+            "team": "UND Hera"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "337",
+          "name": "aryel",
+          "team": null
+        },
+        {
+          "kills": "276",
+          "name": "micah",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "Diane\u30ef",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "Belle",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "Ivankov",
+          "team": null
+        },
+        {
+          "kills": "289",
+          "name": "Supernova",
+          "team": null
+        },
+        {
+          "kills": "270",
+          "name": "khaos",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "BananaBun",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "bomie",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "Izniccole",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.71\n0.92\n1.37",
+            "adr": "+17\n+23\n-6",
+            "agent": "",
+            "assists": "/\n\n45\n21\n24\n\n/",
+            "deaths": "62\n44\n18",
+            "fk": "173\n205\n133",
+            "hs%": "83%\n94%\n68%",
+            "kdr": "30\n19\n11",
+            "kills": "337",
+            "name": "aryel",
+            "team": null
+          },
+          {
+            "acs": "1.46\n0.68\n1.12",
+            "adr": "+8\n+15\n-7",
+            "agent": "",
+            "assists": "/\n\n43\n19\n24\n\n/",
+            "deaths": "51\n34\n17",
+            "fk": "143\n179\n98",
+            "hs%": "73%\n86%\n57%",
+            "kdr": "18\n16\n2",
+            "kills": "276",
+            "name": "micah",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.02\n0.91",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "42\n23\n19",
+            "fk": "126\n115\n139",
+            "hs%": "72%\n64%\n82%",
+            "kdr": "15\n5\n10",
+            "kills": "178",
+            "name": "Diane\u30ef",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.90\n0.82",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "47\n25\n22",
+            "fk": "140\n138\n142",
+            "hs%": "61%\n64%\n57%",
+            "kdr": "12\n7\n5",
+            "kills": "212",
+            "name": "Belle",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.64\n0.77",
+            "adr": "-10\n+1\n-11",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "36\n24\n12",
+            "fk": "101\n111\n89",
+            "hs%": "73%\n86%\n57%",
+            "kdr": "17\n10\n7",
+            "kills": "172",
+            "name": "Ivankov",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.51\n1.09\n1.28",
+            "adr": "+8\n+12\n-4",
+            "agent": "",
+            "assists": "/\n\n50\n17\n33\n\n/",
+            "deaths": "58\n29\n29",
+            "fk": "169\n189\n153",
+            "hs%": "78%\n89%\n69%",
+            "kdr": "25\n9\n16",
+            "kills": "289",
+            "name": "Supernova",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.97\n1.02",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n52\n21\n31\n\n/",
+            "deaths": "57\n27\n30",
+            "fk": "136\n163\n115",
+            "hs%": "73%\n82%\n67%",
+            "kdr": "11\n7\n4",
+            "kills": "270",
+            "name": "khaos",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.92\n1.01",
+            "adr": "-5\n+4\n-9",
+            "agent": "",
+            "assists": "/\n\n43\n15\n28\n\n/",
+            "deaths": "38\n19\n19",
+            "fk": "120\n102\n133",
+            "hs%": "75%\n89%\n64%",
+            "kdr": "23\n8\n15",
+            "kills": "171",
+            "name": "BananaBun",
+            "team": null
+          },
+          {
+            "acs": "0.93\n1.03\n0.98",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n48\n20\n28\n\n/",
+            "deaths": "49\n23\n26",
+            "fk": "148\n150\n147",
+            "hs%": "67%\n64%\n69%",
+            "kdr": "13\n4\n9",
+            "kills": "243",
+            "name": "bomie",
+            "team": null
+          },
+          {
+            "acs": "1.11\n0.59\n0.82",
+            "adr": "-12\n+5\n-17",
+            "agent": "",
+            "assists": "/\n\n45\n15\n30\n\n/",
+            "deaths": "33\n20\n13",
+            "fk": "108\n118\n100",
+            "hs%": "70%\n79%\n64%",
+            "kdr": "25\n10\n15",
+            "kills": "185",
+            "name": "Izniccole",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "195",
+          "name": "aryel",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "138",
+          "name": "micah",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "170",
+          "name": "Ivankov",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "232",
+          "name": "Diane\u30ef",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "145",
+          "name": "Belle",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "291",
+          "name": "Supernova",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "227",
+          "name": "BananaBun",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "160",
+          "name": "Izniccole",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "226",
+          "name": "khaos",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "156",
+          "name": "bomie",
+          "team": "UND Hera"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.56\n2.17\n0.66",
+            "adr": "+9\n+12\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "23\n18\n5",
+            "fk": "205\n259\n124",
+            "hs%": "85%\n100%\n63%",
+            "kdr": "6\n4\n2",
+            "kills": "195",
+            "name": "aryel",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "0.96\n1.36\n0.36",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "151\n182\n104",
+            "hs%": "75%\n92%\n50%",
+            "kdr": "10\n9\n1",
+            "kills": "138",
+            "name": "micah",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "0.80\n0.89\n0.67",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "103\n109\n94",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "9\n5\n4",
+            "kills": "170",
+            "name": "Ivankov",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "0.65\n0.34\n1.12",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "106\n83\n141",
+            "hs%": "65%\n50%\n88%",
+            "kdr": "3\n2\n1",
+            "kills": "232",
+            "name": "Diane\u30ef",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "0.44\n0.52\n0.31",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "98\n107\n85",
+            "hs%": "60%\n67%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "145",
+            "name": "Belle",
+            "team": "Vengeance Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.48\n1.60\n1.40",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "170\n152\n182",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "7\n1\n6",
+            "kills": "291",
+            "name": "Supernova",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "1.26\n1.29\n1.24",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "131\n113\n144",
+            "hs%": "85%\n100%\n75%",
+            "kdr": "9\n4\n5",
+            "kills": "227",
+            "name": "BananaBun",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "1.19\n1.46\n1.01",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "120\n140\n107",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "10\n5\n5",
+            "kills": "160",
+            "name": "Izniccole",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "1.02\n1.05\n1.00",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "153\n191\n127",
+            "hs%": "80%\n100%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "226",
+            "name": "khaos",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "0.81\n1.41\n0.42",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "146\n181\n123",
+            "hs%": "70%\n88%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "156",
+            "name": "bomie",
+            "team": "UND Hera"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "304",
+          "name": "aryel",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "249",
+          "name": "micah",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "228",
+          "name": "Diane\u30ef",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "190",
+          "name": "Belle",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "148",
+          "name": "Ivankov",
+          "team": "Vengeance Esports"
+        },
+        {
+          "kills": "245",
+          "name": "Supernova",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "224",
+          "name": "bomie",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "196",
+          "name": "khaos",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "156",
+          "name": "BananaBun",
+          "team": "UND Hera"
+        },
+        {
+          "kills": "120",
+          "name": "Izniccole",
+          "team": "UND Hera"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.49\n1.55\n1.41",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "22\n15\n7",
+            "fk": "179\n214\n128",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "11\n6\n5",
+            "kills": "304",
+            "name": "aryel",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "1.20\n1.28\n1.08",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "153\n162\n138",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "3\n2\n1",
+            "kills": "249",
+            "name": "micah",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "1.16\n1.21\n1.10",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "150\n136\n170",
+            "hs%": "80%\n67%\n100%",
+            "kdr": "6\n2\n4",
+            "kills": "228",
+            "name": "Diane\u30ef",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "0.90\n0.53\n1.46",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "136\n92\n201",
+            "hs%": "60%\n50%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "190",
+            "name": "Belle",
+            "team": "Vengeance Esports"
+          },
+          {
+            "acs": "0.77\n0.84\n0.66",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "107\n126\n79",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "148",
+            "name": "Ivankov",
+            "team": "Vengeance Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n1.18\n1.05",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "152\n175\n137",
+            "hs%": "80%\n100%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "245",
+            "name": "Supernova",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "1.01\n0.49\n1.36",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "145\n96\n177",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "224",
+            "name": "bomie",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "0.90\n0.67\n1.06",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "112\n129\n101",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "196",
+            "name": "khaos",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "0.80\n0.97\n0.69",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "109\n104\n112",
+            "hs%": "70%\n88%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "156",
+            "name": "BananaBun",
+            "team": "UND Hera"
+          },
+          {
+            "acs": "0.63\n0.90\n0.45",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "81\n69\n89",
+            "hs%": "60%\n75%\n50%",
+            "kdr": "4\n1\n3",
+            "kills": "120",
+            "name": "Izniccole",
+            "team": "UND Hera"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 84202,
+  "teams": [
+    "Vengeance Esports",
+    "UND Hera"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup L"
+}

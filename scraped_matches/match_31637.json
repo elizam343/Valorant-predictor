@@ -1,0 +1,594 @@
+{
+  "date": "2021-08-14 15:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "240",
+          "name": "stiVe",
+          "team": "Team Lightning"
+        },
+        {
+          "kills": "160",
+          "name": "MOhelele",
+          "team": "Team Lightning"
+        },
+        {
+          "kills": "168",
+          "name": "Hokage",
+          "team": "Team Lightning"
+        },
+        {
+          "kills": "150",
+          "name": "Marco",
+          "team": "Team Lightning"
+        },
+        {
+          "kills": "80",
+          "name": "BahAEE",
+          "team": "Team Lightning"
+        },
+        {
+          "kills": "296",
+          "name": "Seanny",
+          "team": "Stoicism"
+        },
+        {
+          "kills": "211",
+          "name": "TyPaNN",
+          "team": "Stoicism"
+        },
+        {
+          "kills": "265",
+          "name": "rey",
+          "team": "Stoicism"
+        },
+        {
+          "kills": "189",
+          "name": "EliteC",
+          "team": "Stoicism"
+        },
+        {
+          "kills": "136",
+          "name": "tirexa",
+          "team": "Stoicism"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.04\n0.94\n1.10",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "148\n122\n163",
+            "hs%": "74%\n100%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "240",
+            "name": "stiVe",
+            "team": "Team Lightning"
+          },
+          {
+            "acs": "0.81\n1.06\n0.66",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "95\n123\n79",
+            "hs%": "58%\n57%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "160",
+            "name": "MOhelele",
+            "team": "Team Lightning"
+          },
+          {
+            "acs": "0.77\n0.24\n1.07",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "104\n55\n132",
+            "hs%": "42%\n43%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "168",
+            "name": "Hokage",
+            "team": "Team Lightning"
+          },
+          {
+            "acs": "0.68\n0.68\n0.68",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "100\n92\n105",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "150",
+            "name": "Marco",
+            "team": "Team Lightning"
+          },
+          {
+            "acs": "0.19\n0.49\n0.04",
+            "adr": "-12\n-2\n-10",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "48\n74\n34",
+            "hs%": "42%\n57%\n33%",
+            "kdr": "3\n1\n2",
+            "kills": "80",
+            "name": "BahAEE",
+            "team": "Team Lightning"
+          }
+        ],
+        [
+          {
+            "acs": "1.51\n1.66\n1.25",
+            "adr": "+11\n+11\n0",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "21\n17\n4",
+            "fk": "192\n235\n120",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "5\n3\n2",
+            "kills": "296",
+            "name": "Seanny",
+            "team": "Stoicism"
+          },
+          {
+            "acs": "1.37\n1.58\n1.01",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "133\n145\n114",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "211",
+            "name": "TyPaNN",
+            "team": "Stoicism"
+          },
+          {
+            "acs": "1.36\n1.21\n1.61",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "153\n141\n174",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "6\n4\n2",
+            "kills": "265",
+            "name": "rey",
+            "team": "Stoicism"
+          },
+          {
+            "acs": "1.17\n0.92\n1.60",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "112\n117\n103",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "5\n3\n2",
+            "kills": "189",
+            "name": "EliteC",
+            "team": "Stoicism"
+          },
+          {
+            "acs": "0.77\n0.84\n0.64",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "91\n100\n76",
+            "hs%": "74%\n67%\n86%",
+            "kdr": "3\n1\n2",
+            "kills": "136",
+            "name": "tirexa",
+            "team": "Stoicism"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "140",
+          "name": "stiVe",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "Hokage",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "MOhelele",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "Marco",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "BahAEE",
+          "team": null
+        },
+        {
+          "kills": "298",
+          "name": "Seanny",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "rey",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "EliteC",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "TyPaNN",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "tirexa",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.57\n1.16\n0.87",
+            "adr": "-4\n-8\n+4",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "28\n9\n19",
+            "fk": "130\n83\n175",
+            "hs%": "62%\n53%\n70%",
+            "kdr": "4\n3\n1",
+            "kills": "140",
+            "name": "stiVe",
+            "team": null
+          },
+          {
+            "acs": "0.65\n1.01\n0.83",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "108\n104\n112",
+            "hs%": "56%\n58%\n55%",
+            "kdr": "7\n3\n4",
+            "kills": "155",
+            "name": "Hokage",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.79\n0.81",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n29\n16\n13\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "101\n127\n77",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "5\n1\n4",
+            "kills": "191",
+            "name": "MOhelele",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.75\n0.72",
+            "adr": "-14\n-8\n-6",
+            "agent": "",
+            "assists": "/\n\n33\n16\n17\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "116\n115\n116",
+            "hs%": "62%\n58%\n65%",
+            "kdr": "12\n4\n8",
+            "kills": "144",
+            "name": "Marco",
+            "team": null
+          },
+          {
+            "acs": "0.46\n0.54\n0.49",
+            "adr": "-18\n-10\n-8",
+            "agent": "",
+            "assists": "/\n\n35\n18\n17\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "93\n96\n89",
+            "hs%": "54%\n53%\n55%",
+            "kdr": "13\n5\n8",
+            "kills": "153",
+            "name": "BahAEE",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.47\n1.37",
+            "adr": "+15\n+9\n+6",
+            "agent": "",
+            "assists": "/\n\n23\n14\n9\n\n/",
+            "deaths": "38\n23\n15",
+            "fk": "173\n187\n158",
+            "hs%": "79%\n75%\n84%",
+            "kdr": "9\n5\n4",
+            "kills": "298",
+            "name": "Seanny",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.62\n1.25",
+            "adr": "+12\n-1\n+13",
+            "agent": "",
+            "assists": "/\n\n21\n13\n8\n\n/",
+            "deaths": "33\n12\n21",
+            "fk": "142\n104\n182",
+            "hs%": "79%\n70%\n89%",
+            "kdr": "9\n5\n4",
+            "kills": "167",
+            "name": "rey",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.45\n1.16",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n25\n15\n10\n\n/",
+            "deaths": "28\n11\n17",
+            "fk": "122\n111\n134",
+            "hs%": "74%\n65%\n84%",
+            "kdr": "11\n5\n6",
+            "kills": "166",
+            "name": "EliteC",
+            "team": null
+          },
+          {
+            "acs": "1.30\n0.95\n1.13",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "120\n119\n122",
+            "hs%": "79%\n80%\n79%",
+            "kdr": "13\n8\n5",
+            "kills": "213",
+            "name": "TyPaNN",
+            "team": null
+          },
+          {
+            "acs": "1.16\n1.11\n1.13",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "139\n136\n141",
+            "hs%": "79%\n70%\n89%",
+            "kdr": "6\n1\n5",
+            "kills": "209",
+            "name": "tirexa",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "124",
+          "name": "Hokage",
+          "team": "Team Lightning"
+        },
+        {
+          "kills": "128",
+          "name": "MOhelele",
+          "team": "Team Lightning"
+        },
+        {
+          "kills": "310",
+          "name": "BahAEE",
+          "team": "Team Lightning"
+        },
+        {
+          "kills": "178",
+          "name": "Marco",
+          "team": "Team Lightning"
+        },
+        {
+          "kills": "355",
+          "name": "stiVe",
+          "team": "Team Lightning"
+        },
+        {
+          "kills": "259",
+          "name": "tirexa",
+          "team": "Stoicism"
+        },
+        {
+          "kills": "257",
+          "name": "Seanny",
+          "team": "Stoicism"
+        },
+        {
+          "kills": "222",
+          "name": "EliteC",
+          "team": "Stoicism"
+        },
+        {
+          "kills": "311",
+          "name": "rey",
+          "team": "Stoicism"
+        },
+        {
+          "kills": "164",
+          "name": "TyPaNN",
+          "team": "Stoicism"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "0.90\n0.88\n0.92",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "112\n133\n80",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "124",
+            "name": "Hokage",
+            "team": "Team Lightning"
+          },
+          {
+            "acs": "0.82\n0.71\n0.99",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "107\n129\n75",
+            "hs%": "70%\n58%\n88%",
+            "kdr": "3\n1\n2",
+            "kills": "128",
+            "name": "MOhelele",
+            "team": "Team Lightning"
+          },
+          {
+            "acs": "0.79\n0.44\n1.31",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "135\n110\n173",
+            "hs%": "65%\n50%\n88%",
+            "kdr": "10\n4\n6",
+            "kills": "310",
+            "name": "BahAEE",
+            "team": "Team Lightning"
+          },
+          {
+            "acs": "0.76\n0.69\n0.86",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "131\n129\n134",
+            "hs%": "55%\n50%\n63%",
+            "kdr": "5\n1\n4",
+            "kills": "178",
+            "name": "Marco",
+            "team": "Team Lightning"
+          },
+          {
+            "acs": "0.71\n0.36\n1.25",
+            "adr": "-4\n-8\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "113\n60\n192",
+            "hs%": "50%\n25%\n88%",
+            "kdr": "1\n1\n0",
+            "kills": "355",
+            "name": "stiVe",
+            "team": "Team Lightning"
+          }
+        ],
+        [
+          {
+            "acs": "1.48\n1.63\n1.38",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "184\n191\n179",
+            "hs%": "85%\n75%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "259",
+            "name": "tirexa",
+            "team": "Stoicism"
+          },
+          {
+            "acs": "1.25\n0.73\n1.59",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "155\n116\n180",
+            "hs%": "85%\n75%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "257",
+            "name": "Seanny",
+            "team": "Stoicism"
+          },
+          {
+            "acs": "1.15\n0.82\n1.36",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "132\n102\n151",
+            "hs%": "75%\n63%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "222",
+            "name": "EliteC",
+            "team": "Stoicism"
+          },
+          {
+            "acs": "1.14\n0.41\n1.63",
+            "adr": "+5\n-4\n+9",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "131\n49\n187",
+            "hs%": "85%\n75%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "311",
+            "name": "rey",
+            "team": "Stoicism"
+          },
+          {
+            "acs": "0.90\n0.88\n0.92",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "108\n81\n126",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "164",
+            "name": "TyPaNN",
+            "team": "Stoicism"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 31637,
+  "teams": [
+    "Stoicism",
+    "Team Lightning"
+  ],
+  "tournament": "Levant and North Africa: \n\t\t\t\t\t\tRound 2"
+}

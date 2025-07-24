@@ -1,0 +1,788 @@
+{
+  "date": "2021-07-04 02:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "365",
+          "name": "MungHoon",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "194",
+          "name": "Sketch",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "245",
+          "name": "Blebee",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "158",
+          "name": "Pay",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "138",
+          "name": "WOW",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "257",
+          "name": "Wenty",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "212",
+          "name": "ParkJJong",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "193",
+          "name": "Vow",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "164",
+          "name": "Moves",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "122",
+          "name": "Hyperreal99",
+          "team": "Gehenna Sweepers"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.69\n1.75\n1.60",
+            "adr": "+13\n+7\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "26\n16\n10",
+            "fk": "212\n256\n147",
+            "hs%": "90%\n83%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "365",
+            "name": "MungHoon",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "1.29\n0.75\n2.08",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "111\n82\n156",
+            "hs%": "75%\n58%\n100%",
+            "kdr": "14\n3\n11",
+            "kills": "194",
+            "name": "Sketch",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "1.18\n0.95\n1.52",
+            "adr": "+4\n-2\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "169\n163\n179",
+            "hs%": "60%\n42%\n88%",
+            "kdr": "3\n1\n2",
+            "kills": "245",
+            "name": "Blebee",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "0.88\n0.81\n0.99",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "103\n110\n93",
+            "hs%": "65%\n50%\n88%",
+            "kdr": "5\n2\n3",
+            "kills": "158",
+            "name": "Pay",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "0.73\n0.51\n1.06",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "73\n62\n88",
+            "hs%": "70%\n50%\n100%",
+            "kdr": "8\n5\n3",
+            "kills": "138",
+            "name": "WOW",
+            "team": "Mujig 100su"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n0.63\n1.51",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "146\n93\n181",
+            "hs%": "55%\n38%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "257",
+            "name": "Wenty",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "0.88\n0.36\n1.23",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "139\n70\n186",
+            "hs%": "65%\n50%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "212",
+            "name": "ParkJJong",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "0.86\n0.46\n1.13",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "140\n89\n174",
+            "hs%": "60%\n25%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "193",
+            "name": "Vow",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "0.82\n0.96\n0.73",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "112\n119\n108",
+            "hs%": "85%\n75%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "164",
+            "name": "Moves",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "0.57\n0.27\n0.77",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "86\n69\n98",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "10\n5\n5",
+            "kills": "122",
+            "name": "Hyperreal99",
+            "team": "Gehenna Sweepers"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "301",
+          "name": "MungHoon",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "Blebee",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Sketch",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "Pay",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "WOW",
+          "team": null
+        },
+        {
+          "kills": "285",
+          "name": "Wenty",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "ParkJJong",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "Vow",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "Moves",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "Hyperreal99",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.03\n1.15",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n41\n19\n22\n\n/",
+            "deaths": "51\n26\n25",
+            "fk": "154\n190\n121",
+            "hs%": "81%\n81%\n80%",
+            "kdr": "10\n6\n4",
+            "kills": "301",
+            "name": "MungHoon",
+            "team": null
+          },
+          {
+            "acs": "1.31\n0.83\n1.06",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n38\n16\n22\n\n/",
+            "deaths": "41\n22\n19",
+            "fk": "142\n149\n136",
+            "hs%": "61%\n63%\n60%",
+            "kdr": "11\n3\n8",
+            "kills": "230",
+            "name": "Blebee",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.07\n0.97",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n38\n19\n19\n\n/",
+            "deaths": "34\n17\n17",
+            "fk": "116\n102\n128",
+            "hs%": "72%\n70%\n73%",
+            "kdr": "24\n10\n14",
+            "kills": "173",
+            "name": "Sketch",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.00\n0.88",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "37\n14\n23",
+            "fk": "106\n106\n105",
+            "hs%": "65%\n59%\n70%",
+            "kdr": "7\n3\n4",
+            "kills": "161",
+            "name": "Pay",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.75\n0.80",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "37\n19\n18",
+            "fk": "99\n102\n96",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "19\n10\n9",
+            "kills": "176",
+            "name": "WOW",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n1.27\n1.21",
+            "adr": "+16\n+10\n+6",
+            "agent": "",
+            "assists": "/\n\n41\n22\n19\n\n/",
+            "deaths": "57\n32\n25",
+            "fk": "163\n165\n161",
+            "hs%": "60%\n60%\n59%",
+            "kdr": "9\n4\n5",
+            "kills": "285",
+            "name": "Wenty",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.23\n1.15",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n37\n18\n19\n\n/",
+            "deaths": "45\n23\n22",
+            "fk": "131\n112\n153",
+            "hs%": "74%\n73%\n74%",
+            "kdr": "17\n11\n6",
+            "kills": "184",
+            "name": "ParkJJong",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.22\n1.13",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n36\n18\n18\n\n/",
+            "deaths": "40\n19\n21",
+            "fk": "165\n148\n183",
+            "hs%": "63%\n53%\n74%",
+            "kdr": "11\n5\n6",
+            "kills": "204",
+            "name": "Vow",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.67\n0.89",
+            "adr": "-10\n-2\n-8",
+            "agent": "",
+            "assists": "/\n\n43\n21\n22\n\n/",
+            "deaths": "33\n19\n14",
+            "fk": "117\n136\n97",
+            "hs%": "81%\n87%\n74%",
+            "kdr": "22\n14\n8",
+            "kills": "182",
+            "name": "Moves",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.59\n0.71",
+            "adr": "-18\n-8\n-10",
+            "agent": "",
+            "assists": "/\n\n43\n23\n20\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "88\n97\n77",
+            "hs%": "68%\n73%\n63%",
+            "kdr": "27\n14\n13",
+            "kills": "143",
+            "name": "Hyperreal99",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "179",
+          "name": "WOW",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "181",
+          "name": "MungHoon",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "170",
+          "name": "Sketch",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "121",
+          "name": "Blebee",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "147",
+          "name": "Pay",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "264",
+          "name": "ParkJJong",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "268",
+          "name": "Wenty",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "92",
+          "name": "Vow",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "335",
+          "name": "Moves",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "17",
+          "name": "Hyperreal99",
+          "team": "Gehenna Sweepers"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.84\n1.88\n0.57",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "118\n172\n104",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "179",
+            "name": "WOW",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "0.69\n0.84\n0.65",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "124\n104\n130",
+            "hs%": "80%\n67%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "181",
+            "name": "MungHoon",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "0.47\n0.32\n0.51",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "5\n0\n5",
+            "fk": "101\n9\n125",
+            "hs%": "53%\n67%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "170",
+            "name": "Sketch",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "0.46\n1.71\n0.15",
+            "adr": "-7\n+2\n-9",
+            "agent": "",
+            "assists": "/\n\n13\n1\n12\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "95\n99\n94",
+            "hs%": "40%\n67%\n33%",
+            "kdr": "3\n0\n3",
+            "kills": "121",
+            "name": "Blebee",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "0.31\n0.01\n0.53",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "6\n0\n6",
+            "fk": "68\n12\n83",
+            "hs%": "33%\n0%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "147",
+            "name": "Pay",
+            "team": "Mujig 100su"
+          }
+        ],
+        [
+          {
+            "acs": "1.96\n2.04\n1.61",
+            "adr": "+12\n+11\n+1",
+            "agent": "",
+            "assists": "/\n\n5\n3\n2\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "156\n173\n87",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "10\n8\n2",
+            "kills": "264",
+            "name": "ParkJJong",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "1.69\n1.79\n1.29",
+            "adr": "+13\n+13\n0",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "22\n20\n2",
+            "fk": "222\n244\n135",
+            "hs%": "87%\n83%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "268",
+            "name": "Wenty",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "1.18\n1.40\n0.31",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n6\n4\n2\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "140\n167\n32",
+            "hs%": "60%\n67%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "92",
+            "name": "Vow",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "1.16\n1.18\n1.07",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "132\n147\n69",
+            "hs%": "93%\n100%\n67%",
+            "kdr": "12\n11\n1",
+            "kills": "335",
+            "name": "Moves",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "1.15\n1.31\n0.50",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "10\n10\n0",
+            "fk": "109\n132\n17",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "17",
+            "name": "Hyperreal99",
+            "team": "Gehenna Sweepers"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "243",
+          "name": "Blebee",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "244",
+          "name": "Pay",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "205",
+          "name": "Sketch",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "200",
+          "name": "MungHoon",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "184",
+          "name": "WOW",
+          "team": "Mujig 100su"
+        },
+        {
+          "kills": "278",
+          "name": "Vow",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "209",
+          "name": "Wenty",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "169",
+          "name": "ParkJJong",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "162",
+          "name": "Moves",
+          "team": "Gehenna Sweepers"
+        },
+        {
+          "kills": "108",
+          "name": "Hyperreal99",
+          "team": "Gehenna Sweepers"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.56\n1.10",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "150\n148\n152",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "5\n2\n3",
+            "kills": "243",
+            "name": "Blebee",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "1.28\n1.02\n1.59",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "133\n127\n142",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "1\n1\n0",
+            "kills": "244",
+            "name": "Pay",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "1.03\n1.10\n0.94",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "130\n147\n111",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "7\n6\n1",
+            "kills": "205",
+            "name": "Sketch",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "0.97\n0.92\n1.03",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "121\n146\n91",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "200",
+            "name": "MungHoon",
+            "team": "Mujig 100su"
+          },
+          {
+            "acs": "0.85\n0.96\n0.72",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "110\n124\n94",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "8\n4\n4",
+            "kills": "184",
+            "name": "WOW",
+            "team": "Mujig 100su"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.10\n1.54",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "204\n174\n230",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "278",
+            "name": "Vow",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "0.93\n0.83\n1.02",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "140\n129\n149",
+            "hs%": "45%\n50%\n42%",
+            "kdr": "4\n2\n2",
+            "kills": "209",
+            "name": "Wenty",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "0.84\n0.49\n1.13",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "107\n71\n137",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "169",
+            "name": "ParkJJong",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "0.76\n1.08\n0.50",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "112\n136\n93",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "162",
+            "name": "Moves",
+            "team": "Gehenna Sweepers"
+          },
+          {
+            "acs": "0.53\n0.67\n0.42",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "75\n78\n72",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "10\n4\n6",
+            "kills": "108",
+            "name": "Hyperreal99",
+            "team": "Gehenna Sweepers"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 24449,
+  "teams": [
+    "Gehenna Sweepers",
+    "Mujig 100su"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tGroup H"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2022-12-07 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "253",
+          "name": "LeviathanAG",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "294",
+          "name": "acrian",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "185",
+          "name": "Precision",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "208",
+          "name": "c4Lypso",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "139",
+          "name": "jmoh",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "252",
+          "name": "Flonson",
+          "team": "Crownless"
+        },
+        {
+          "kills": "229",
+          "name": "Tempt",
+          "team": "Crownless"
+        },
+        {
+          "kills": "160",
+          "name": "Kouf",
+          "team": "Crownless"
+        },
+        {
+          "kills": "182",
+          "name": "cuz",
+          "team": "Crownless"
+        },
+        {
+          "kills": "100",
+          "name": "MEDC",
+          "team": "Crownless"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.51\n1.65\n1.36",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "173\n184\n161",
+            "hs%": "91%\n92%\n90%",
+            "kdr": "12\n6\n6",
+            "kills": "253",
+            "name": "LeviathanAG",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.31\n0.81\n1.91",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "193\n156\n237",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "6\n4\n2",
+            "kills": "294",
+            "name": "acrian",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.17\n1.36\n0.93",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "120\n118\n123",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "13\n7\n6",
+            "kills": "185",
+            "name": "Precision",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.04\n1.11\n0.97",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "141\n127\n158",
+            "hs%": "86%\n83%\n90%",
+            "kdr": "15\n6\n9",
+            "kills": "208",
+            "name": "c4Lypso",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.67\n0.61\n0.75",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "91\n96\n85",
+            "hs%": "77%\n67%\n90%",
+            "kdr": "3\n1\n2",
+            "kills": "139",
+            "name": "jmoh",
+            "team": "Nearest Airport"
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n0.93\n1.83",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "166\n130\n197",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "8\n5\n3",
+            "kills": "252",
+            "name": "Flonson",
+            "team": "Crownless"
+          },
+          {
+            "acs": "1.17\n1.25\n1.10",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "156\n207\n114",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "10\n6\n4",
+            "kills": "229",
+            "name": "Tempt",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.83\n0.98\n0.70",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "120\n122\n118",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "160",
+            "name": "Kouf",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.70\n0.45\n0.91",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "124\n97\n146",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "182",
+            "name": "cuz",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.32\n0.44\n0.23",
+            "adr": "-11\n-1\n-10",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "58\n55\n61",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "7\n3\n4",
+            "kills": "100",
+            "name": "MEDC",
+            "team": "Crownless"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "241",
+          "name": "Precision",
+          "team": null
+        },
+        {
+          "kills": "258",
+          "name": "LeviathanAG",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "acrian",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "c4Lypso",
+          "team": null
+        },
+        {
+          "kills": "214",
+          "name": "jmoh",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "Flonson",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "Tempt",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Kouf",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "cuz",
+          "team": null
+        },
+        {
+          "kills": "154",
+          "name": "MEDC",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.33\n1.19\n1.26",
+            "adr": "+13\n+7\n+6",
+            "agent": "",
+            "assists": "/\n\n25\n14\n11\n\n/",
+            "deaths": "38\n21\n17",
+            "fk": "151\n156\n146",
+            "hs%": "84%\n81%\n86%",
+            "kdr": "23\n13\n10",
+            "kills": "241",
+            "name": "Precision",
+            "team": null
+          },
+          {
+            "acs": "1.54\n0.99\n1.26",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "31\n19\n12",
+            "fk": "148\n169\n127",
+            "hs%": "81%\n86%\n77%",
+            "kdr": "21\n13\n8",
+            "kills": "258",
+            "name": "LeviathanAG",
+            "team": null
+          },
+          {
+            "acs": "0.93\n1.19\n1.06",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n28\n14\n14\n\n/",
+            "deaths": "35\n16\n19",
+            "fk": "159\n144\n173",
+            "hs%": "79%\n81%\n77%",
+            "kdr": "11\n5\n6",
+            "kills": "206",
+            "name": "acrian",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.25\n1.04",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n30\n13\n17\n\n/",
+            "deaths": "32\n13\n19",
+            "fk": "144\n105\n181",
+            "hs%": "79%\n76%\n82%",
+            "kdr": "19\n7\n12",
+            "kills": "167",
+            "name": "c4Lypso",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.84\n0.92",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n33\n15\n18\n\n/",
+            "deaths": "30\n16\n14",
+            "fk": "129\n150\n110",
+            "hs%": "72%\n76%\n68%",
+            "kdr": "10\n5\n5",
+            "kills": "214",
+            "name": "jmoh",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.84\n1.50\n1.16",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n30\n17\n13\n\n/",
+            "deaths": "37\n17\n20",
+            "fk": "138\n120\n157",
+            "hs%": "79%\n77%\n81%",
+            "kdr": "15\n8\n7",
+            "kills": "191",
+            "name": "Flonson",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.81\n1.00",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n33\n18\n15\n\n/",
+            "deaths": "28\n18\n10",
+            "fk": "138\n168\n107",
+            "hs%": "72%\n73%\n71%",
+            "kdr": "19\n11\n8",
+            "kills": "262",
+            "name": "Tempt",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.90\n0.96",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n29\n14\n15\n\n/",
+            "deaths": "27\n18\n9",
+            "fk": "142\n148\n136",
+            "hs%": "77%\n77%\n76%",
+            "kdr": "6\n3\n3",
+            "kills": "217",
+            "name": "Kouf",
+            "team": null
+          },
+          {
+            "acs": "0.55\n0.99\n0.76",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n37\n21\n16\n\n/",
+            "deaths": "26\n12\n14",
+            "fk": "117\n96\n139",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "11\n5\n6",
+            "kills": "163",
+            "name": "cuz",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.20\n0.46",
+            "adr": "-18\n-2\n-16",
+            "agent": "",
+            "assists": "/\n\n37\n16\n21\n\n/",
+            "deaths": "19\n14\n5",
+            "fk": "86\n99\n72",
+            "hs%": "53%\n59%\n48%",
+            "kdr": "15\n10\n5",
+            "kills": "154",
+            "name": "MEDC",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "Precision",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "199",
+          "name": "jmoh",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "314",
+          "name": "c4Lypso",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "162",
+          "name": "LeviathanAG",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "178",
+          "name": "acrian",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "223",
+          "name": "Kouf",
+          "team": "Crownless"
+        },
+        {
+          "kills": "182",
+          "name": "Flonson",
+          "team": "Crownless"
+        },
+        {
+          "kills": "231",
+          "name": "cuz",
+          "team": "Crownless"
+        },
+        {
+          "kills": "137",
+          "name": "Tempt",
+          "team": "Crownless"
+        },
+        {
+          "kills": "129",
+          "name": "MEDC",
+          "team": "Crownless"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.29\n1.40",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "182\n206\n165",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "10\n6\n4",
+            "kills": "245",
+            "name": "Precision",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.18\n1.53\n0.91",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "170\n223\n131",
+            "hs%": "67%\n89%\n50%",
+            "kdr": "7\n4\n3",
+            "kills": "199",
+            "name": "jmoh",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.04\n0.46\n1.48",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "147\n76\n200",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "314",
+            "name": "c4Lypso",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.99\n1.39\n0.68",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "121\n150\n100",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "9\n7\n2",
+            "kills": "162",
+            "name": "LeviathanAG",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.80\n1.08\n0.59",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "123\n128\n120",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "178",
+            "name": "acrian",
+            "team": "Nearest Airport"
+          }
+        ],
+        [
+          {
+            "acs": "1.09\n1.05\n1.15",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "165\n169\n160",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "3\n2\n1",
+            "kills": "223",
+            "name": "Kouf",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.89\n0.76\n1.07",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "108\n112\n103",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "182",
+            "name": "Flonson",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.83\n0.63\n1.10",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "110\n95\n129",
+            "hs%": "57%\n50%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "231",
+            "name": "cuz",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.82\n1.13\n0.42",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "120\n136\n99",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "9\n5\n4",
+            "kills": "137",
+            "name": "Tempt",
+            "team": "Crownless"
+          },
+          {
+            "acs": "0.61\n0.94\n0.17",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "115\n136\n86",
+            "hs%": "57%\n67%\n44%",
+            "kdr": "8\n7\n1",
+            "kills": "129",
+            "name": "MEDC",
+            "team": "Crownless"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 161000,
+  "teams": [
+    "Nearest Airport",
+    "Crownless"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tSemifinals"
+}

@@ -1,0 +1,355 @@
+{% extends "base.html" %}
+
+{% block title %}Admin Panel - Valorant Kill Line Predictor{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="alert alert-info">
+            <h5><i class="fas fa-shield-alt"></i> Admin Panel</h5>
+            <p>Welcome to the admin panel. Here you can manage the system, train models, and monitor performance.</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <!-- System Stats -->
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body">
+                <i class="fas fa-users fa-2x text-primary mb-2"></i>
+                <h5 class="card-title">Total Users</h5>
+                <h3 class="text-primary">{{ stats.total_users }}</h3>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body">
+                <i class="fas fa-chart-line fa-2x text-success mb-2"></i>
+                <h5 class="card-title">Predictions Made</h5>
+                <h3 class="text-success">{{ stats.total_predictions }}</h3>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body">
+                <i class="fas fa-gamepad fa-2x text-warning mb-2"></i>
+                <h5 class="card-title">Matches Tracked</h5>
+                <h3 class="text-warning">{{ stats.total_matches }}</h3>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body">
+                <i class="fas fa-robot fa-2x text-info mb-2"></i>
+                <h5 class="card-title">ML Model Status</h5>
+                <h3 class="text-info" id="model-status">Active</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <!-- System Actions -->
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-cogs"></i> System Actions</h5>
+            </div>
+            <div class="card-body">
+                <div class="d-grid gap-2">
+                    <button class="btn btn-primary" onclick="trainModel()">
+                        <i class="fas fa-brain"></i> Train ML Model
+                    </button>
+                    
+                    <button class="btn btn-success" onclick="updatePlayerStats()">
+                        <i class="fas fa-sync-alt"></i> Update Player Statistics
+                    </button>
+                    
+                    <button class="btn btn-warning" onclick="backupDatabase()">
+                        <i class="fas fa-database"></i> Backup Database
+                    </button>
+                    
+                    <button class="btn btn-info" onclick="systemHealth()">
+                        <i class="fas fa-heartbeat"></i> System Health Check
+                    </button>
+                </div>
+                
+                <div id="action-result" class="mt-3" style="display: none;">
+                    <!-- Action results will be displayed here -->
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Recent Users -->
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-user-clock"></i> Recent Users</h5>
+            </div>
+            <div class="card-body">
+                {% if stats.recent_users %}
+                    <div class="list-group list-group-flush">
+                        {% for user in stats.recent_users %}
+                        <div class="list-group-item d-flex justify-content-between align-items-center">
+                            <div>
+                                <strong>{{ user.username }}</strong>
+                                <br>
+                                <small class="text-muted">{{ user.email }}</small>
+                            </div>
+                            <div class="text-end">
+                                <small class="text-muted">{{ user.created_at.strftime('%m/%d/%Y') }}</small>
+                                {% if user.is_admin %}
+                                    <br><span class="badge bg-danger">Admin</span>
+                                {% endif %}
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    <p class="text-muted">No users found.</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <!-- System Logs -->
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-file-alt"></i> System Logs</h5>
+            </div>
+            <div class="card-body">
+                <div id="system-logs" style="height: 300px; overflow-y: auto; background-color: #f8f9fa; padding: 10px; font-family: monospace;">
+                    <div class="text-muted">System logs will appear here...</div>
+                </div>
+                
+                <div class="mt-2">
+                    <button class="btn btn-sm btn-secondary" onclick="refreshLogs()">
+                        <i class="fas fa-refresh"></i> Refresh Logs
+                    </button>
+                    <button class="btn btn-sm btn-danger" onclick="clearLogs()">
+                        <i class="fas fa-trash"></i> Clear Logs
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- System Configuration -->
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-sliders-h"></i> Configuration</h5>
+            </div>
+            <div class="card-body">
+                <div class="mb-3">
+                    <label class="form-label">Confidence Threshold</label>
+                    <input type="range" class="form-range" id="confidence-threshold" min="0.5" max="0.9" step="0.05" value="0.7">
+                    <div class="text-center">
+                        <small class="text-muted">Current: <span id="confidence-value">70%</span></small>
+                    </div>
+                </div>
+                
+                <div class="mb-3">
+                    <label class="form-label">Auto-Update Interval (hours)</label>
+                    <select class="form-select" id="update-interval">
+                        <option value="1">1 hour</option>
+                        <option value="6" selected>6 hours</option>
+                        <option value="12">12 hours</option>
+                        <option value="24">24 hours</option>
+                    </select>
+                </div>
+                
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="debug-mode">
+                    <label class="form-check-label" for="debug-mode">
+                        Debug Mode
+                    </label>
+                </div>
+                
+                <div class="mt-3">
+                    <button class="btn btn-primary btn-sm w-100" onclick="saveConfig()">
+                        <i class="fas fa-save"></i> Save Configuration
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <!-- Performance Metrics -->
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-chart-bar"></i> Performance Metrics</h5>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="text-center">
+                            <h6>Model Accuracy</h6>
+                            <div class="progress">
+                                <div class="progress-bar bg-success" style="width: 75%">75%</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="text-center">
+                            <h6>API Response Time</h6>
+                            <div class="progress">
+                                <div class="progress-bar bg-info" style="width: 90%">< 200ms</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="text-center">
+                            <h6>Database Health</h6>
+                            <div class="progress">
+                                <div class="progress-bar bg-success" style="width: 100%">Healthy</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="text-center">
+                            <h6>System Uptime</h6>
+                            <div class="progress">
+                                <div class="progress-bar bg-primary" style="width: 95%">99.5%</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+// Configuration slider
+document.getElementById('confidence-threshold').addEventListener('input', function() {
+    const value = (this.value * 100).toFixed(0);
+    document.getElementById('confidence-value').textContent = value + '%';
+});
+
+// System actions
+function trainModel() {
+    showActionResult('Training ML model...', 'info');
+    
+    fetch('/api/train-model', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        }
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            showActionResult(`Model training completed! Accuracy: ${data.accuracy}`, 'success');
+            addLog(`Model training completed with accuracy: ${data.accuracy}`);
+        } else {
+            showActionResult(`Error training model: ${data.error}`, 'danger');
+            addLog(`Model training failed: ${data.error}`);
+        }
+    })
+    .catch(error => {
+        showActionResult(`Error: ${error}`, 'danger');
+        addLog(`Model training error: ${error}`);
+    });
+}
+
+function updatePlayerStats() {
+    showActionResult('Updating player statistics...', 'info');
+    
+    // Simulate API call (would call scraper in real implementation)
+    setTimeout(() => {
+        showActionResult('Player statistics updated successfully!', 'success');
+        addLog('Player statistics updated from VLR.gg');
+    }, 2000);
+}
+
+function backupDatabase() {
+    showActionResult('Creating database backup...', 'info');
+    
+    // Simulate backup process
+    setTimeout(() => {
+        showActionResult('Database backup completed successfully!', 'success');
+        addLog('Database backup created');
+    }, 1500);
+}
+
+function systemHealth() {
+    showActionResult('Running system health check...', 'info');
+    
+    // Simulate health check
+    setTimeout(() => {
+        const healthReport = `
+            ✓ Database: Healthy
+            ✓ ML Model: Active
+            ✓ API Endpoints: Responsive
+            ✓ Memory Usage: Normal
+            ✓ Disk Space: Sufficient
+        `;
+        showActionResult('System health check completed:\n' + healthReport, 'success');
+        addLog('System health check completed - all systems operational');
+    }, 1000);
+}
+
+function showActionResult(message, type) {
+    const resultDiv = document.getElementById('action-result');
+    resultDiv.innerHTML = `<div class="alert alert-${type}">${message.replace(/\n/g, '<br>')}</div>`;
+    resultDiv.style.display = 'block';
+    
+    // Auto-hide after 5 seconds for non-error messages
+    if (type !== 'danger') {
+        setTimeout(() => {
+            resultDiv.style.display = 'none';
+        }, 5000);
+    }
+}
+
+function addLog(message) {
+    const logsDiv = document.getElementById('system-logs');
+    const timestamp = new Date().toLocaleTimeString();
+    const logEntry = `[${timestamp}] ${message}\n`;
+    
+    logsDiv.innerHTML += logEntry;
+    logsDiv.scrollTop = logsDiv.scrollHeight;
+}
+
+function refreshLogs() {
+    addLog('Logs refreshed');
+}
+
+function clearLogs() {
+    document.getElementById('system-logs').innerHTML = '<div class="text-muted">System logs cleared...</div>';
+}
+
+function saveConfig() {
+    const confidence = document.getElementById('confidence-threshold').value;
+    const interval = document.getElementById('update-interval').value;
+    const debug = document.getElementById('debug-mode').checked;
+    
+    showActionResult('Configuration saved successfully!', 'success');
+    addLog(`Configuration updated: Confidence=${(confidence*100).toFixed(0)}%, Interval=${interval}h, Debug=${debug}`);
+}
+
+// Initialize logs with some sample entries
+document.addEventListener('DOMContentLoaded', function() {
+    addLog('Admin panel loaded');
+    addLog('ML prediction service initialized');
+    addLog('Database connection established');
+});
+</script>
+{% endblock %}

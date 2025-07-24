@@ -5,11 +5,15 @@ import team_mapping
 from datetime import datetime
 import threading
 import time
+import prediction_engine
 
 app = Flask(__name__)
 
 # Initialize database
 db_utils.create_tables()
+
+# Initialize prediction engine
+prediction_engine_instance = prediction_engine.PredictionEngine()
 
 @app.route('/')
 def index():
@@ -167,6 +171,83 @@ def team_players(team_name):
                          team_name=team_name, 
                          players=team_players_data,
                          team_mapping=team_mapping)
+
+@app.route('/predict')
+def predict():
+    """Prediction page for performance betting"""
+    players = prediction_engine_instance.get_available_players()
+    teams = prediction_engine_instance.get_available_teams()
+    maps = ["Ascent", "Haven", "Split", "Bind", "Icebox", "Breeze", "Fracture", "Pearl", "Lotus", "Sunset"]
+    series_types = ["BO1", "BO3", "BO5"]
+    
+    return render_template('predict.html', 
+                         players=players, 
+                         teams=teams, 
+                         maps=maps, 
+                         series_types=series_types)
+
+@app.route('/api/predict', methods=['POST'])
+def api_predict():
+    """API endpoint for making predictions"""
+    try:
+        data = request.get_json()
+        
+        player_name = data.get('player_name')
+        player_team = data.get('player_team')
+        opponent_team = data.get('opponent_team')
+        map_name = data.get('map_name')
+        series_type = data.get('series_type')
+        
+        if not all([player_name, player_team, opponent_team, map_name, series_type]):
+            return jsonify({
+                'success': False,
+                'error': 'Missing required parameters'
+            }), 400
+        
+        # Make prediction
+        result = prediction_engine_instance.predict_performance(
+            player_name, player_team, opponent_team, map_name, series_type
+        )
+        
+        if 'error' in result:
+            return jsonify({
+                'success': False,
+                'error': result['error']
+            }), 400
+        
+        return jsonify({
+            'success': True,
+            'prediction': result
+        })
+        
+    except Exception as e:
+        return jsonify({
+            'success': False,
+            'error': str(e)
+        }), 500
+
+@app.route('/api/player-insights/<player_name>/<team_name>')
+def api_player_insights(player_name, team_name):
+    """API endpoint for player performance insights"""
+    try:
+        insights = prediction_engine_instance.get_performance_insights(player_name, team_name)
+        
+        if insights is None:
+            return jsonify({
+                'success': False,
+                'error': 'Player not found'
+            }), 404
+        
+        return jsonify({
+            'success': True,
+            'insights': insights
+        })
+        
+    except Exception as e:
+        return jsonify({
+            'success': False,
+            'error': str(e)
+        }), 500
 
 @app.route('/api/update-data', methods=['POST'])
 def update_data():

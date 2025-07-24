@@ -1,0 +1,806 @@
+{
+  "date": "2023-02-26 04:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "261",
+          "name": "RieNs",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "218",
+          "name": "russ",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "197",
+          "name": "AslaN",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "180",
+          "name": "reazy",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "156",
+          "name": "pAura",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "224",
+          "name": "Padisah",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "205",
+          "name": "ip0TT",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "192",
+          "name": "Best",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "182",
+          "name": "w0zzip",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "154",
+          "name": "Mykoz",
+          "team": "Fenerbah\u00e7e Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.33\n0.89\n1.77",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "177\n127\n226",
+            "hs%": "89%\n79%\n100%",
+            "kdr": "16\n7\n9",
+            "kills": "261",
+            "name": "RieNs",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "1.09\n0.99\n1.19",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "142\n136\n148",
+            "hs%": "64%\n57%\n71%",
+            "kdr": "1\n0\n1",
+            "kills": "218",
+            "name": "russ",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "0.99\n1.19\n0.80",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "128\n144\n112",
+            "hs%": "86%\n86%\n86%",
+            "kdr": "22\n14\n8",
+            "kills": "197",
+            "name": "AslaN",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "0.84\n0.85\n0.83",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "113\n143\n83",
+            "hs%": "89%\n86%\n93%",
+            "kdr": "6\n5\n1",
+            "kills": "180",
+            "name": "reazy",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "0.68\n0.72\n0.64",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "105\n95\n115",
+            "hs%": "61%\n57%\n64%",
+            "kdr": "2\n0\n2",
+            "kills": "156",
+            "name": "pAura",
+            "team": "S2G Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n1.33\n1.02",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "145\n152\n138",
+            "hs%": "82%\n86%\n79%",
+            "kdr": "2\n1\n1",
+            "kills": "224",
+            "name": "Padisah",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "1.09\n0.77\n1.41",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "142\n110\n175",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "6\n4\n2",
+            "kills": "205",
+            "name": "ip0TT",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "1.02\n0.66\n1.39",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n13\n7\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "104\n83\n126",
+            "hs%": "68%\n57%\n79%",
+            "kdr": "3\n1\n2",
+            "kills": "192",
+            "name": "Best",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.97\n1.10\n0.85",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "115\n107\n124",
+            "hs%": "71%\n64%\n79%",
+            "kdr": "14\n4\n10",
+            "kills": "182",
+            "name": "w0zzip",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.91\n0.80\n1.01",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "94\n87\n102",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "26\n13\n13",
+            "kills": "154",
+            "name": "Mykoz",
+            "team": "Fenerbah\u00e7e Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "261",
+          "name": "RieNs",
+          "team": null
+        },
+        {
+          "kills": "263",
+          "name": "AslaN",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "russ",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "reazy",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "pAura",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "ip0TT",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "Best",
+          "team": null
+        },
+        {
+          "kills": "255",
+          "name": "Padisah",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "w0zzip",
+          "team": null
+        },
+        {
+          "kills": "120",
+          "name": "Mykoz",
+          "team": null
+        },
+        {
+          "kills": "100",
+          "name": "4woodanet",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.26\n1.64\n1.40",
+            "adr": "+24\n+8\n+16",
+            "agent": "",
+            "assists": "/\n\n31\n25\n6\n\n/",
+            "deaths": "55\n33\n22",
+            "fk": "172\n165\n183",
+            "hs%": "90%\n87%\n95%",
+            "kdr": "26\n16\n10",
+            "kills": "261",
+            "name": "RieNs",
+            "team": null
+          },
+          {
+            "acs": "1.42\n1.07\n1.29",
+            "adr": "+13\n+10\n+3",
+            "agent": "",
+            "assists": "/\n\n39\n25\n14\n\n/",
+            "deaths": "52\n35\n17",
+            "fk": "157\n175\n126",
+            "hs%": "88%\n89%\n86%",
+            "kdr": "38\n26\n12",
+            "kills": "263",
+            "name": "AslaN",
+            "team": null
+          },
+          {
+            "acs": "0.94\n1.37\n1.10",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n38\n26\n12\n\n/",
+            "deaths": "51\n31\n20",
+            "fk": "144\n138\n153",
+            "hs%": "72%\n68%\n77%",
+            "kdr": "2\n0\n2",
+            "kills": "213",
+            "name": "russ",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.97\n1.02",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n36\n24\n12\n\n/",
+            "deaths": "40\n28\n12",
+            "fk": "118\n129\n99",
+            "hs%": "90%\n89%\n91%",
+            "kdr": "27\n22\n5",
+            "kills": "208",
+            "name": "reazy",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.88\n0.81",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n39\n25\n14\n\n/",
+            "deaths": "37\n21\n16",
+            "fk": "120\n105\n147",
+            "hs%": "68%\n66%\n73%",
+            "kdr": "14\n9\n5",
+            "kills": "162",
+            "name": "pAura",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.86\n1.08\n1.00",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n48\n17\n31\n\n/",
+            "deaths": "39\n10\n29",
+            "fk": "137\n117\n149",
+            "hs%": "70%\n59%\n76%",
+            "kdr": "18\n6\n12",
+            "kills": "162",
+            "name": "ip0TT",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.33\n1.00",
+            "adr": "-4\n-8\n+4",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "31\n11\n20",
+            "fk": "118\n92\n137",
+            "hs%": "65%\n50%\n77%",
+            "kdr": "4\n1\n3",
+            "kills": "170",
+            "name": "Best",
+            "team": null
+          },
+          {
+            "acs": "1.19\n0.88\n0.99",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n45\n17\n28\n\n/",
+            "deaths": "44\n19\n25",
+            "fk": "144\n161\n134",
+            "hs%": "72%\n82%\n66%",
+            "kdr": "7\n2\n5",
+            "kills": "255",
+            "name": "Padisah",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.84\n0.84",
+            "adr": "-14\n-7\n-7",
+            "agent": "",
+            "assists": "/\n\n46\n19\n27\n\n/",
+            "deaths": "32\n12\n20",
+            "fk": "106\n103\n108",
+            "hs%": "73%\n73%\n74%",
+            "kdr": "31\n9\n22",
+            "kills": "161",
+            "name": "w0zzip",
+            "team": null
+          },
+          {
+            "acs": "0.54\n0.89\n0.76",
+            "adr": "-14\n-12\n-2",
+            "agent": "",
+            "assists": "/\n\n47\n20\n27\n\n/",
+            "deaths": "33\n8\n25",
+            "fk": "96\n78\n107",
+            "hs%": "67%\n68%\n66%",
+            "kdr": "35\n16\n19",
+            "kills": "120",
+            "name": "Mykoz",
+            "team": null
+          },
+          {
+            "acs": "0.66\n0.15\n0.23",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "74\n14\n84",
+            "hs%": "64%\n100%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "100",
+            "name": "4woodanet",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "264",
+          "name": "RieNs",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "203",
+          "name": "AslaN",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "296",
+          "name": "russ",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "300",
+          "name": "pAura",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "174",
+          "name": "reazy",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "230",
+          "name": "Padisah",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "158",
+          "name": "w0zzip",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "187",
+          "name": "ip0TT",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "163",
+          "name": "Mykoz",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "108",
+          "name": "4woodanet",
+          "team": "Fenerbah\u00e7e Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.78\n1.83\n1.47",
+            "adr": "+10\n+9\n+1",
+            "agent": "",
+            "assists": "/\n\n6\n5\n1\n\n/",
+            "deaths": "16\n14\n2",
+            "fk": "201\n214\n120",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "6\n5\n1",
+            "kills": "264",
+            "name": "RieNs",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "1.60\n1.50\n2.22",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n8\n0\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "188\n197\n135",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "8\n6\n2",
+            "kills": "203",
+            "name": "AslaN",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "1.47\n1.25\n2.73",
+            "adr": "+9\n+7\n+2",
+            "agent": "",
+            "assists": "/\n\n6\n6\n0\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "160\n157\n177",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "296",
+            "name": "russ",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "1.01\n1.03\n0.92",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "142\n139\n160",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "300",
+            "name": "pAura",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "0.95\n1.02\n0.56",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "102\n104\n89",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "9\n8\n1",
+            "kills": "174",
+            "name": "reazy",
+            "team": "S2G Esports"
+          }
+        ],
+        [
+          {
+            "acs": "0.87\n0.22\n0.98",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "150\n64\n165",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "230",
+            "name": "Padisah",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.75\n0.88\n0.73",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "95\n137\n88",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "158",
+            "name": "w0zzip",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.73\n0.88\n0.70",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "138\n214\n125",
+            "hs%": "71%\n50%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "187",
+            "name": "ip0TT",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.57\n0.13\n0.65",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "86\n86\n86",
+            "hs%": "43%\n100%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "163",
+            "name": "Mykoz",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.23\n0.66\n0.15",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "74\n14\n84",
+            "hs%": "64%\n100%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "108",
+            "name": "4woodanet",
+            "team": "Fenerbah\u00e7e Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "295",
+          "name": "AslaN",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "251",
+          "name": "reazy",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "215",
+          "name": "RieNs",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "212",
+          "name": "russ",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "175",
+          "name": "pAura",
+          "team": "S2G Esports"
+        },
+        {
+          "kills": "213",
+          "name": "ip0TT",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "201",
+          "name": "Best",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "212",
+          "name": "Padisah",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "157",
+          "name": "w0zzip",
+          "team": "Fenerbah\u00e7e Esports"
+        },
+        {
+          "kills": "172",
+          "name": "Mykoz",
+          "team": "Fenerbah\u00e7e Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.50\n1.60\n1.31",
+            "adr": "+10\n+7\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "179\n190\n157",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "8\n6\n2",
+            "kills": "295",
+            "name": "AslaN",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "1.36\n1.32\n1.44",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "138\n139\n138",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "12\n9\n3",
+            "kills": "251",
+            "name": "reazy",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "1.22\n1.13\n1.40",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "142\n161\n103",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "4\n4\n0",
+            "kills": "215",
+            "name": "RieNs",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "0.83\n0.57\n1.35",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "134\n123\n158",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "212",
+            "name": "russ",
+            "team": "S2G Esports"
+          },
+          {
+            "acs": "0.83\n0.53\n1.44",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "126\n82\n215",
+            "hs%": "67%\n58%\n83%",
+            "kdr": "8\n6\n2",
+            "kills": "175",
+            "name": "pAura",
+            "team": "S2G Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.07\n1.06",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "128\n102\n141",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "213",
+            "name": "ip0TT",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.97\n0.38\n1.26",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "139\n115\n151",
+            "hs%": "61%\n33%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "201",
+            "name": "Best",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.81\n1.18\n0.62",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "136\n213\n98",
+            "hs%": "44%\n67%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "212",
+            "name": "Padisah",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.72\n0.30\n0.93",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "100\n84\n109",
+            "hs%": "67%\n83%\n58%",
+            "kdr": "11\n4\n7",
+            "kills": "157",
+            "name": "w0zzip",
+            "team": "Fenerbah\u00e7e Esports"
+          },
+          {
+            "acs": "0.69\n0.07\n1.00",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "108\n57\n134",
+            "hs%": "67%\n33%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "172",
+            "name": "Mykoz",
+            "team": "Fenerbah\u00e7e Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 165588,
+  "teams": [
+    "Fenerbah\u00e7e Esports",
+    "S2G Esports"
+  ],
+  "tournament": "Regular Season: \n\t\t\t\t\t\tWeek 7"
+}

@@ -1,0 +1,788 @@
+{
+  "date": "2021-04-17 03:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "202",
+          "name": "Baleia",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "221",
+          "name": "Alley",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "216",
+          "name": "ACCEL",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "135",
+          "name": "Eliza",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "125",
+          "name": "Foxy9",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "263",
+          "name": "WIX",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "300",
+          "name": "NakJi",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "239",
+          "name": "CoSa",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "218",
+          "name": "Hound",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "126",
+          "name": "ParkJJong",
+          "team": "SPEAR GAMING"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.97\n1.10\n0.90",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "114\n122\n109",
+            "hs%": "63%\n86%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "202",
+            "name": "Baleia",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "0.86\n0.82\n0.88",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "158\n150\n162",
+            "hs%": "58%\n57%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "221",
+            "name": "Alley",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "0.84\n0.92\n0.80",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "129\n148\n119",
+            "hs%": "53%\n57%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "216",
+            "name": "ACCEL",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "0.82\n1.56\n0.39",
+            "adr": "-3\n+4\n-7",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "90\n127\n69",
+            "hs%": "47%\n57%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "135",
+            "name": "Eliza",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "0.46\n0.38\n0.51",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "72\n29\n97",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "125",
+            "name": "Foxy9",
+            "team": "Feel So Good"
+          }
+        ],
+        [
+          {
+            "acs": "1.59\n1.78\n1.26",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "176\n194\n145",
+            "hs%": "89%\n100%\n71%",
+            "kdr": "9\n7\n2",
+            "kills": "263",
+            "name": "WIX",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "1.43\n1.52\n1.26",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "22\n16\n6",
+            "fk": "180\n228\n99",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "300",
+            "name": "NakJi",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "1.17\n1.33\n0.90",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "128\n142\n106",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "4\n3\n1",
+            "kills": "239",
+            "name": "CoSa",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.96\n1.32\n0.33",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "141\n186\n63",
+            "hs%": "74%\n83%\n57%",
+            "kdr": "6\n3\n3",
+            "kills": "218",
+            "name": "Hound",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.57\n0.33\n0.99",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "66\n48\n96",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "4\n3\n1",
+            "kills": "126",
+            "name": "ParkJJong",
+            "team": "SPEAR GAMING"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "261",
+          "name": "Baleia",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "Alley",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "Eliza",
+          "team": null
+        },
+        {
+          "kills": "231",
+          "name": "Foxy9",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "ACCEL",
+          "team": null
+        },
+        {
+          "kills": "266",
+          "name": "WIX",
+          "team": null
+        },
+        {
+          "kills": "271",
+          "name": "NakJi",
+          "team": null
+        },
+        {
+          "kills": "264",
+          "name": "Hound",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "CoSa",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "ParkJJong",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.19\n1.26\n1.23",
+            "adr": "+15\n+8\n+7",
+            "agent": "",
+            "assists": "/\n\n54\n23\n31\n\n/",
+            "deaths": "69\n31\n38",
+            "fk": "155\n162\n149",
+            "hs%": "71%\n76%\n67%",
+            "kdr": "10\n8\n2",
+            "kills": "261",
+            "name": "Baleia",
+            "team": null
+          },
+          {
+            "acs": "1.40\n0.64\n0.99",
+            "adr": "-4\n+12\n-16",
+            "agent": "",
+            "assists": "/\n\n51\n18\n33\n\n/",
+            "deaths": "47\n30\n17",
+            "fk": "132\n141\n124",
+            "hs%": "67%\n79%\n56%",
+            "kdr": "20\n7\n13",
+            "kills": "229",
+            "name": "Alley",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.75\n0.86",
+            "adr": "-7\n+1\n-8",
+            "agent": "",
+            "assists": "/\n\n53\n23\n30\n\n/",
+            "deaths": "46\n24\n22",
+            "fk": "116\n123\n109",
+            "hs%": "64%\n73%\n56%",
+            "kdr": "15\n9\n6",
+            "kills": "188",
+            "name": "Eliza",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.67\n0.80",
+            "adr": "-13\n0\n-13",
+            "agent": "",
+            "assists": "/\n\n59\n25\n34\n\n/",
+            "deaths": "46\n25\n21",
+            "fk": "121\n138\n106",
+            "hs%": "65%\n76%\n56%",
+            "kdr": "15\n8\n7",
+            "kills": "231",
+            "name": "Foxy9",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.66\n0.68",
+            "adr": "-22\n-8\n-14",
+            "agent": "",
+            "assists": "/\n\n61\n25\n36\n\n/",
+            "deaths": "39\n17\n22",
+            "fk": "110\n116\n104",
+            "hs%": "61%\n67%\n56%",
+            "kdr": "20\n11\n9",
+            "kills": "171",
+            "name": "ACCEL",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.53\n1.07\n1.32",
+            "adr": "+12\n+15\n-3",
+            "agent": "",
+            "assists": "/\n\n49\n22\n27\n\n/",
+            "deaths": "61\n37\n24",
+            "fk": "165\n176\n153",
+            "hs%": "81%\n87%\n73%",
+            "kdr": "32\n21\n11",
+            "kills": "266",
+            "name": "WIX",
+            "team": null
+          },
+          {
+            "acs": "1.28\n1.08\n1.19",
+            "adr": "+17\n+11\n+6",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "64\n36\n28",
+            "fk": "169\n183\n152",
+            "hs%": "85%\n87%\n82%",
+            "kdr": "15\n13\n2",
+            "kills": "271",
+            "name": "NakJi",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.85\n1.02",
+            "adr": "+3\n+8\n-5",
+            "agent": "",
+            "assists": "/\n\n54\n27\n27\n\n/",
+            "deaths": "57\n35\n22",
+            "fk": "149\n170\n123",
+            "hs%": "78%\n82%\n73%",
+            "kdr": "23\n12\n11",
+            "kills": "264",
+            "name": "Hound",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.93\n1.01",
+            "adr": "+7\n+9\n-2",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "53\n32\n21",
+            "fk": "116\n127\n103",
+            "hs%": "68%\n64%\n73%",
+            "kdr": "13\n6\n7",
+            "kills": "207",
+            "name": "CoSa",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.70\n0.81",
+            "adr": "-8\n+1\n-9",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "43\n25\n18",
+            "fk": "95\n99\n91",
+            "hs%": "64%\n64%\n64%",
+            "kdr": "19\n8\n11",
+            "kills": "150",
+            "name": "ParkJJong",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "262",
+          "name": "Baleia",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "137",
+          "name": "Alley",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "157",
+          "name": "Foxy9",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "211",
+          "name": "Eliza",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "160",
+          "name": "ACCEL",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "357",
+          "name": "WIX",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "181",
+          "name": "Hound",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "257",
+          "name": "NakJi",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "123",
+          "name": "ParkJJong",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "171",
+          "name": "CoSa",
+          "team": "SPEAR GAMING"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.26\n1.33\n1.19",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "29\n15\n14",
+            "fk": "159\n168\n149",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "3\n2\n1",
+            "kills": "262",
+            "name": "Baleia",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "1.19\n1.78\n0.60",
+            "adr": "+1\n+9\n-8",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "19\n15\n4",
+            "fk": "123\n143\n102",
+            "hs%": "73%\n87%\n60%",
+            "kdr": "12\n5\n7",
+            "kills": "137",
+            "name": "Alley",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "0.97\n1.26\n0.68",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "24\n15\n9",
+            "fk": "152\n210\n94",
+            "hs%": "67%\n80%\n53%",
+            "kdr": "4\n4\n0",
+            "kills": "157",
+            "name": "Foxy9",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "0.83\n0.64\n1.03",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "121\n107\n135",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "12\n9\n3",
+            "kills": "211",
+            "name": "Eliza",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "0.64\n0.70\n0.58",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "100\n107\n93",
+            "hs%": "63%\n73%\n53%",
+            "kdr": "12\n7\n5",
+            "kills": "160",
+            "name": "ACCEL",
+            "team": "Feel So Good"
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n1.12\n1.53",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "26\n9\n17",
+            "fk": "182\n124\n239",
+            "hs%": "83%\n80%\n87%",
+            "kdr": "17\n10\n7",
+            "kills": "357",
+            "name": "WIX",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "1.18\n1.60\n0.75",
+            "adr": "+5\n+9\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "26\n18\n8",
+            "fk": "162\n204\n121",
+            "hs%": "87%\n93%\n80%",
+            "kdr": "12\n5\n7",
+            "kills": "181",
+            "name": "Hound",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "1.13\n1.30\n0.96",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "178\n186\n170",
+            "hs%": "80%\n87%\n73%",
+            "kdr": "8\n7\n1",
+            "kills": "257",
+            "name": "NakJi",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.90\n1.34\n0.46",
+            "adr": "0\n+6\n-6",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "21\n15\n6",
+            "fk": "119\n154\n83",
+            "hs%": "67%\n80%\n53%",
+            "kdr": "8\n3\n5",
+            "kills": "123",
+            "name": "ParkJJong",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.82\n0.66\n0.97",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "95\n83\n107",
+            "hs%": "60%\n53%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "171",
+            "name": "CoSa",
+            "team": "SPEAR GAMING"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "308",
+          "name": "Baleia",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "201",
+          "name": "Eliza",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "200",
+          "name": "Foxy9",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "172",
+          "name": "Alley",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "155",
+          "name": "ACCEL",
+          "team": "Feel So Good"
+        },
+        {
+          "kills": "208",
+          "name": "CoSa",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "232",
+          "name": "WIX",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "227",
+          "name": "NakJi",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "229",
+          "name": "Hound",
+          "team": "SPEAR GAMING"
+        },
+        {
+          "kills": "169",
+          "name": "ParkJJong",
+          "team": "SPEAR GAMING"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.06\n1.70",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "185\n179\n190",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "308",
+            "name": "Baleia",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "0.94\n1.12\n0.77",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "130\n143\n118",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "201",
+            "name": "Eliza",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "0.86\n0.90\n0.82",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "121\n109\n132",
+            "hs%": "61%\n73%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "200",
+            "name": "Foxy9",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "0.83\n1.26\n0.44",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "122\n132\n114",
+            "hs%": "65%\n82%\n50%",
+            "kdr": "4\n1\n3",
+            "kills": "172",
+            "name": "Alley",
+            "team": "Feel So Good"
+          },
+          {
+            "acs": "0.60\n0.58\n0.62",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "106\n108\n103",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "155",
+            "name": "ACCEL",
+            "team": "Feel So Good"
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n1.36\n0.89",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "134\n168\n96",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "2\n0\n2",
+            "kills": "208",
+            "name": "CoSa",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "1.10\n1.81\n0.32",
+            "adr": "0\n+7\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "135\n221\n42",
+            "hs%": "70%\n83%\n55%",
+            "kdr": "6\n4\n2",
+            "kills": "232",
+            "name": "WIX",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "1.07\n1.02\n1.12",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "148\n135\n161",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "4\n3\n1",
+            "kills": "227",
+            "name": "NakJi",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.87\n0.47\n1.31",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "137\n113\n164",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "5\n4\n1",
+            "kills": "229",
+            "name": "Hound",
+            "team": "SPEAR GAMING"
+          },
+          {
+            "acs": "0.87\n0.89\n0.85",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "89\n81\n97",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "7\n2\n5",
+            "kills": "169",
+            "name": "ParkJJong",
+            "team": "SPEAR GAMING"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 15759,
+  "teams": [
+    "SPEAR GAMING",
+    "Feel So Good"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tElimination (C)"
+}

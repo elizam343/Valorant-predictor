@@ -1,0 +1,788 @@
+{
+  "date": "2022-12-06 21:40:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "204",
+          "name": "Dark3st",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "190",
+          "name": "duck",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "148",
+          "name": "Cohburg",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "201",
+          "name": "Soto",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "106",
+          "name": "ROY",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "308",
+          "name": "jmoh",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "286",
+          "name": "c4Lypso",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "166",
+          "name": "Precision",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "224",
+          "name": "LeviathanAG",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "137",
+          "name": "acrian",
+          "team": "Nearest Airport"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.10\n1.02\n1.16",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "122\n101\n138",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "204",
+            "name": "Dark3st",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "0.92\n1.13\n0.77",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "122\n163\n91",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "190",
+            "name": "duck",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "0.68\n0.33\n0.94",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "102\n51\n140",
+            "hs%": "62%\n56%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "148",
+            "name": "Cohburg",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "0.67\n0.52\n0.79",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "129\n125\n133",
+            "hs%": "52%\n44%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "201",
+            "name": "Soto",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "0.47\n0.26\n0.62",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "72\n48\n90",
+            "hs%": "48%\n56%\n42%",
+            "kdr": "3\n2\n1",
+            "kills": "106",
+            "name": "ROY",
+            "team": "Kitten Shelter"
+          }
+        ],
+        [
+          {
+            "acs": "1.52\n1.95\n0.95",
+            "adr": "+14\n+12\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "27\n18\n9",
+            "fk": "187\n223\n138",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "308",
+            "name": "jmoh",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.24\n0.97\n1.60",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "175\n135\n229",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "9\n6\n3",
+            "kills": "286",
+            "name": "c4Lypso",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.23\n0.97\n1.57",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "126\n94\n168",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "10\n7\n3",
+            "kills": "166",
+            "name": "Precision",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.19\n0.98\n1.46",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "156\n144\n173",
+            "hs%": "71%\n58%\n89%",
+            "kdr": "8\n3\n5",
+            "kills": "224",
+            "name": "LeviathanAG",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.79\n0.79\n0.80",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "108\n101\n118",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "137",
+            "name": "acrian",
+            "team": "Nearest Airport"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "203",
+          "name": "Dark3st",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "Cohburg",
+          "team": null
+        },
+        {
+          "kills": "236",
+          "name": "Soto",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "ROY",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "duck",
+          "team": null
+        },
+        {
+          "kills": "307",
+          "name": "jmoh",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "Precision",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "c4Lypso",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "LeviathanAG",
+          "team": null
+        },
+        {
+          "kills": "131",
+          "name": "acrian",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.20\n1.38\n1.28",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n36\n22\n14\n\n/",
+            "deaths": "44\n23\n21",
+            "fk": "146\n136\n159",
+            "hs%": "72%\n73%\n71%",
+            "kdr": "23\n18\n5",
+            "kills": "203",
+            "name": "Dark3st",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.17\n1.07",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n45\n27\n18\n\n/",
+            "deaths": "43\n26\n17",
+            "fk": "136\n125\n151",
+            "hs%": "81%\n79%\n83%",
+            "kdr": "20\n6\n14",
+            "kills": "206",
+            "name": "Cohburg",
+            "team": null
+          },
+          {
+            "acs": "1.05\n0.91\n0.99",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n41\n24\n17\n\n/",
+            "deaths": "45\n29\n16",
+            "fk": "143\n155\n126",
+            "hs%": "54%\n55%\n54%",
+            "kdr": "4\n2\n2",
+            "kills": "236",
+            "name": "Soto",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.92\n0.86",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n39\n23\n16\n\n/",
+            "deaths": "30\n17\n13",
+            "fk": "109\n110\n108",
+            "hs%": "68%\n76%\n58%",
+            "kdr": "22\n16\n6",
+            "kills": "157",
+            "name": "ROY",
+            "team": null
+          },
+          {
+            "acs": "0.80\n0.79\n0.80",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n43\n27\n16\n\n/",
+            "deaths": "35\n22\n13",
+            "fk": "115\n125\n102",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "11\n6\n5",
+            "kills": "203",
+            "name": "duck",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.54\n1.04\n1.23",
+            "adr": "+16\n+12\n+4",
+            "agent": "",
+            "assists": "/\n\n41\n16\n25\n\n/",
+            "deaths": "57\n28\n29",
+            "fk": "156\n188\n133",
+            "hs%": "70%\n71%\n70%",
+            "kdr": "10\n6\n4",
+            "kills": "307",
+            "name": "jmoh",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.29\n1.17",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n34\n15\n19\n\n/",
+            "deaths": "40\n13\n27",
+            "fk": "126\n104\n141",
+            "hs%": "81%\n83%\n79%",
+            "kdr": "25\n12\n13",
+            "kills": "159",
+            "name": "Precision",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.10\n0.97",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n45\n19\n26\n\n/",
+            "deaths": "44\n16\n28",
+            "fk": "140\n116\n157",
+            "hs%": "74%\n63%\n82%",
+            "kdr": "17\n6\n11",
+            "kills": "187",
+            "name": "c4Lypso",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.98\n0.94",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n40\n16\n24\n\n/",
+            "deaths": "37\n13\n24",
+            "fk": "132\n123\n139",
+            "hs%": "68%\n58%\n76%",
+            "kdr": "19\n8\n11",
+            "kills": "174",
+            "name": "LeviathanAG",
+            "team": null
+          },
+          {
+            "acs": "0.77\n0.66\n0.71",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n37\n16\n21\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "104\n107\n101",
+            "hs%": "67%\n71%\n64%",
+            "kdr": "13\n5\n8",
+            "kills": "131",
+            "name": "acrian",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "383",
+          "name": "Soto",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "177",
+          "name": "Dark3st",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "325",
+          "name": "Cohburg",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "186",
+          "name": "ROY",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "217",
+          "name": "duck",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "208",
+          "name": "Precision",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "278",
+          "name": "jmoh",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "167",
+          "name": "LeviathanAG",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "126",
+          "name": "c4Lypso",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "95",
+          "name": "acrian",
+          "team": "Nearest Airport"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.59\n1.24\n2.42",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n8\n8\n0\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "176\n158\n218",
+            "hs%": "76%\n67%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "383",
+            "name": "Soto",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "1.58\n1.53\n1.68",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n5\n5\n0\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "132\n128\n143",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "12\n10\n2",
+            "kills": "177",
+            "name": "Dark3st",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "1.33\n1.14\n1.78",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "140\n127\n170",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "8\n2\n6",
+            "kills": "325",
+            "name": "Cohburg",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "1.28\n1.15\n1.59",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n7\n1\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "132\n140\n114",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "10\n7\n3",
+            "kills": "186",
+            "name": "ROY",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "1.16\n1.11\n1.28",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "161\n157\n168",
+            "hs%": "76%\n67%\n100%",
+            "kdr": "5\n3\n2",
+            "kills": "217",
+            "name": "duck",
+            "team": "Kitten Shelter"
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n1.01\n1.14",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "137\n145\n134",
+            "hs%": "76%\n80%\n75%",
+            "kdr": "7\n0\n7",
+            "kills": "208",
+            "name": "Precision",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.76\n0.01\n1.17",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n0\n12",
+            "fk": "106\n14\n145",
+            "hs%": "71%\n40%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "278",
+            "name": "jmoh",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.44\n0.13\n0.58",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "92\n35\n116",
+            "hs%": "59%\n40%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "167",
+            "name": "LeviathanAG",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.38\n0.03\n0.55",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "68\n42\n79",
+            "hs%": "59%\n40%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "126",
+            "name": "c4Lypso",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.34\n0.39\n0.32",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "88\n108\n79",
+            "hs%": "53%\n60%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "95",
+            "name": "acrian",
+            "team": "Nearest Airport"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "263",
+          "name": "Cohburg",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "262",
+          "name": "Dark3st",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "184",
+          "name": "ROY",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "184",
+          "name": "Soto",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "105",
+          "name": "duck",
+          "team": "Kitten Shelter"
+        },
+        {
+          "kills": "274",
+          "name": "jmoh",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "256",
+          "name": "c4Lypso",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "173",
+          "name": "Precision",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "237",
+          "name": "LeviathanAG",
+          "team": "Nearest Airport"
+        },
+        {
+          "kills": "143",
+          "name": "acrian",
+          "team": "Nearest Airport"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.28\n1.38\n1.12",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "171\n180\n156",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "8\n3\n5",
+            "kills": "263",
+            "name": "Cohburg",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "1.20\n1.01\n1.53",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "184\n171\n206",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "4\n4\n0",
+            "kills": "262",
+            "name": "Dark3st",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "0.92\n0.90\n0.94",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "129\n126\n135",
+            "hs%": "79%\n92%\n57%",
+            "kdr": "9\n7\n2",
+            "kills": "184",
+            "name": "ROY",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "0.79\n1.25\n0.03",
+            "adr": "-3\n+3\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "12\n11\n1",
+            "fk": "130\n176\n50",
+            "hs%": "37%\n50%\n14%",
+            "kdr": "0\n0\n0",
+            "kills": "184",
+            "name": "Soto",
+            "team": "Kitten Shelter"
+          },
+          {
+            "acs": "0.33\n0.24\n0.48",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "68\n65\n73",
+            "hs%": "53%\n42%\n71%",
+            "kdr": "4\n1\n3",
+            "kills": "105",
+            "name": "duck",
+            "team": "Kitten Shelter"
+          }
+        ],
+        [
+          {
+            "acs": "1.32\n1.91\n0.97",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "168\n251\n119",
+            "hs%": "68%\n86%\n58%",
+            "kdr": "7\n5\n2",
+            "kills": "274",
+            "name": "jmoh",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.21\n1.13\n1.26",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "164\n135\n182",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "7\n0\n7",
+            "kills": "256",
+            "name": "c4Lypso",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.18\n1.08\n1.23",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "115\n92\n129",
+            "hs%": "79%\n100%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "173",
+            "name": "Precision",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "1.12\n1.25\n1.03",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "142\n151\n138",
+            "hs%": "74%\n71%\n75%",
+            "kdr": "9\n4\n5",
+            "kills": "237",
+            "name": "LeviathanAG",
+            "team": "Nearest Airport"
+          },
+          {
+            "acs": "0.94\n1.01\n0.90",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "113\n117\n110",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "143",
+            "name": "acrian",
+            "team": "Nearest Airport"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 160996,
+  "teams": [
+    "Nearest Airport",
+    "Kitten Shelter"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tQuarterfinals"
+}

@@ -1,0 +1,788 @@
+{
+  "date": "2022-05-03 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "342",
+          "name": "Toki",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "292",
+          "name": "Metzly",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "175",
+          "name": "fReeze",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "168",
+          "name": "MissLaia",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "129",
+          "name": "Poetite",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "233",
+          "name": "Neli",
+          "team": "N1MP"
+        },
+        {
+          "kills": "206",
+          "name": "Luzia",
+          "team": "N1MP"
+        },
+        {
+          "kills": "156",
+          "name": "Looxie",
+          "team": "N1MP"
+        },
+        {
+          "kills": "111",
+          "name": "cataLina",
+          "team": "N1MP"
+        },
+        {
+          "kills": "155",
+          "name": "Puri",
+          "team": "N1MP"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.56\n1.63\n1.47",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "244\n248\n239",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "342",
+            "name": "Toki",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "1.53\n1.12\n2.15",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "182\n134\n254",
+            "hs%": "70%\n58%\n88%",
+            "kdr": "2\n0\n2",
+            "kills": "292",
+            "name": "Metzly",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "1.19\n0.98\n1.51",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "121\n118\n126",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "8\n5\n3",
+            "kills": "175",
+            "name": "fReeze",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "1.12\n0.93\n1.41",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "111\n116\n105",
+            "hs%": "80%\n67%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "168",
+            "name": "MissLaia",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "0.48\n0.32\n0.72",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "87\n72\n111",
+            "hs%": "55%\n42%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "129",
+            "name": "Poetite",
+            "team": "Case Hydra"
+          }
+        ],
+        [
+          {
+            "acs": "1.13\n0.45\n1.59",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "150\n83\n194",
+            "hs%": "65%\n50%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "233",
+            "name": "Neli",
+            "team": "N1MP"
+          },
+          {
+            "acs": "0.93\n0.67\n1.11",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "125\n94\n146",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "206",
+            "name": "Luzia",
+            "team": "N1MP"
+          },
+          {
+            "acs": "0.70\n0.83\n0.61",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "105\n130\n88",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "156",
+            "name": "Looxie",
+            "team": "N1MP"
+          },
+          {
+            "acs": "0.61\n0.74\n0.53",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "80\n103\n64",
+            "hs%": "65%\n50%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "111",
+            "name": "cataLina",
+            "team": "N1MP"
+          },
+          {
+            "acs": "0.60\n0.04\n0.99",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "93\n72\n108",
+            "hs%": "60%\n63%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "155",
+            "name": "Puri",
+            "team": "N1MP"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "374",
+          "name": "Toki",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "fReeze",
+          "team": null
+        },
+        {
+          "kills": "148",
+          "name": "MissLaia",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "Metzly",
+          "team": null
+        },
+        {
+          "kills": "113",
+          "name": "Poetite",
+          "team": null
+        },
+        {
+          "kills": "257",
+          "name": "cataLina",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "Luzia",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "Neli",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Looxie",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "Puri",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.51\n1.53\n1.52",
+            "adr": "+27\n+9\n+18",
+            "agent": "",
+            "assists": "/\n\n46\n25\n21\n\n/",
+            "deaths": "73\n34\n39",
+            "fk": "222\n239\n209",
+            "hs%": "77%\n72%\n80%",
+            "kdr": "17\n6\n11",
+            "kills": "374",
+            "name": "Toki",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.17\n1.13",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n36\n19\n17\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "122\n133\n113",
+            "hs%": "81%\n76%\n86%",
+            "kdr": "23\n12\n11",
+            "kills": "219",
+            "name": "fReeze",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.34\n1.11",
+            "adr": "+12\n-3\n+15",
+            "agent": "",
+            "assists": "/\n\n39\n18\n21\n\n/",
+            "deaths": "51\n15\n36",
+            "fk": "126\n95\n152",
+            "hs%": "80%\n76%\n83%",
+            "kdr": "19\n7\n12",
+            "kills": "148",
+            "name": "MissLaia",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.13\n1.06",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n39\n17\n22\n\n/",
+            "deaths": "46\n18\n28",
+            "fk": "141\n113\n164",
+            "hs%": "72%\n66%\n77%",
+            "kdr": "14\n3\n11",
+            "kills": "180",
+            "name": "Metzly",
+            "team": null
+          },
+          {
+            "acs": "0.33\n1.01\n0.70",
+            "adr": "-13\n-14\n+1",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "35\n11\n24",
+            "fk": "107\n73\n134",
+            "hs%": "58%\n41%\n71%",
+            "kdr": "18\n5\n13",
+            "kills": "113",
+            "name": "Poetite",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.05\n1.14",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n47\n32\n15\n\n/",
+            "deaths": "48\n28\n20",
+            "fk": "155\n179\n125",
+            "hs%": "72%\n69%\n76%",
+            "kdr": "18\n12\n6",
+            "kills": "257",
+            "name": "cataLina",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.21\n0.96",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n53\n31\n22\n\n/",
+            "deaths": "50\n23\n27",
+            "fk": "135\n120\n153",
+            "hs%": "61%\n54%\n69%",
+            "kdr": "6\n4\n2",
+            "kills": "184",
+            "name": "Luzia",
+            "team": null
+          },
+          {
+            "acs": "0.66\n1.16\n0.89",
+            "adr": "-9\n-11\n+2",
+            "agent": "",
+            "assists": "/\n\n49\n28\n21\n\n/",
+            "deaths": "40\n17\n23",
+            "fk": "121\n87\n163",
+            "hs%": "73%\n69%\n79%",
+            "kdr": "20\n8\n12",
+            "kills": "133",
+            "name": "Neli",
+            "team": null
+          },
+          {
+            "acs": "0.68\n0.86\n0.75",
+            "adr": "-15\n-11\n-4",
+            "agent": "",
+            "assists": "/\n\n52\n30\n22\n\n/",
+            "deaths": "37\n19\n18",
+            "fk": "111\n111\n111",
+            "hs%": "61%\n66%\n55%",
+            "kdr": "11\n5\n6",
+            "kills": "171",
+            "name": "Looxie",
+            "team": null
+          },
+          {
+            "acs": "0.52\n0.87\n0.67",
+            "adr": "-17\n-14\n-3",
+            "agent": "",
+            "assists": "/\n\n50\n32\n18\n\n/",
+            "deaths": "33\n18\n15",
+            "fk": "94\n89\n100",
+            "hs%": "63%\n66%\n59%",
+            "kdr": "14\n7\n7",
+            "kills": "150",
+            "name": "Puri",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "425",
+          "name": "Toki",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "159",
+          "name": "fReeze",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "251",
+          "name": "MissLaia",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "208",
+          "name": "Poetite",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "113",
+          "name": "Metzly",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "279",
+          "name": "cataLina",
+          "team": "N1MP"
+        },
+        {
+          "kills": "283",
+          "name": "Luzia",
+          "team": "N1MP"
+        },
+        {
+          "kills": "227",
+          "name": "Looxie",
+          "team": "N1MP"
+        },
+        {
+          "kills": "196",
+          "name": "Neli",
+          "team": "N1MP"
+        },
+        {
+          "kills": "151",
+          "name": "Puri",
+          "team": "N1MP"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.65\n1.43\n1.87",
+            "adr": "+14\n+3\n+11",
+            "agent": "",
+            "assists": "/\n\n25\n15\n10\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "240\n237\n243",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "9\n3\n6",
+            "kills": "425",
+            "name": "Toki",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "0.90\n0.90\n0.90",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "118\n136\n99",
+            "hs%": "77%\n73%\n80%",
+            "kdr": "7\n4\n3",
+            "kills": "159",
+            "name": "fReeze",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "0.89\n0.60\n1.17",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "114\n79\n149",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "251",
+            "name": "MissLaia",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "0.56\n0.29\n0.83",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "98\n65\n131",
+            "hs%": "43%\n33%\n53%",
+            "kdr": "4\n2\n2",
+            "kills": "208",
+            "name": "Poetite",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "0.47\n0.78\n0.15",
+            "adr": "-13\n-2\n-11",
+            "agent": "",
+            "assists": "/\n\n24\n10\n14\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "92\n97\n87",
+            "hs%": "63%\n67%\n60%",
+            "kdr": "8\n2\n6",
+            "kills": "113",
+            "name": "Metzly",
+            "team": "Case Hydra"
+          }
+        ],
+        [
+          {
+            "acs": "1.54\n1.57\n1.51",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "31\n16\n15",
+            "fk": "198\n220\n175",
+            "hs%": "83%\n87%\n80%",
+            "kdr": "11\n7\n4",
+            "kills": "279",
+            "name": "cataLina",
+            "team": "N1MP"
+          },
+          {
+            "acs": "1.22\n1.02\n1.41",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "30\n15\n15",
+            "fk": "176\n177\n174",
+            "hs%": "77%\n73%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "283",
+            "name": "Luzia",
+            "team": "N1MP"
+          },
+          {
+            "acs": "0.99\n0.81\n1.17",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "128\n114\n141",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "227",
+            "name": "Looxie",
+            "team": "N1MP"
+          },
+          {
+            "acs": "0.87\n0.90\n0.84",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "120\n105\n134",
+            "hs%": "80%\n80%\n80%",
+            "kdr": "12\n6\n6",
+            "kills": "196",
+            "name": "Neli",
+            "team": "N1MP"
+          },
+          {
+            "acs": "0.79\n0.69\n0.89",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "101\n94\n108",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "151",
+            "name": "Puri",
+            "team": "N1MP"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "282",
+          "name": "Metzly",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "338",
+          "name": "MissLaia",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "229",
+          "name": "fReeze",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "210",
+          "name": "Poetite",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "220",
+          "name": "Toki",
+          "team": "Case Hydra"
+        },
+        {
+          "kills": "244",
+          "name": "cataLina",
+          "team": "N1MP"
+        },
+        {
+          "kills": "136",
+          "name": "Neli",
+          "team": "N1MP"
+        },
+        {
+          "kills": "126",
+          "name": "Puri",
+          "team": "N1MP"
+        },
+        {
+          "kills": "101",
+          "name": "Luzia",
+          "team": "N1MP"
+        },
+        {
+          "kills": "113",
+          "name": "Looxie",
+          "team": "N1MP"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.66\n1.55\n1.68",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "14\n1\n13",
+            "fk": "190\n117\n202",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "282",
+            "name": "Metzly",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "1.57\n1.89\n1.52",
+            "adr": "+13\n+3\n+10",
+            "agent": "",
+            "assists": "/\n\n8\n0\n8\n\n/",
+            "deaths": "21\n3\n18",
+            "fk": "174\n86\n188",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "5\n0\n5",
+            "kills": "338",
+            "name": "MissLaia",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "1.52\n2.97\n1.28",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "134\n202\n123",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "8\n3\n5",
+            "kills": "229",
+            "name": "fReeze",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "1.33\n0.73\n1.44",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "153\n151\n153",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "11\n2\n9",
+            "kills": "210",
+            "name": "Poetite",
+            "team": "Case Hydra"
+          },
+          {
+            "acs": "1.18\n1.46\n1.14",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "154\n190\n148",
+            "hs%": "86%\n50%\n92%",
+            "kdr": "1\n0\n1",
+            "kills": "220",
+            "name": "Toki",
+            "team": "Case Hydra"
+          }
+        ],
+        [
+          {
+            "acs": "1.02\n1.06\n0.73",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "10\n9\n1",
+            "fk": "169\n179\n111",
+            "hs%": "57%\n58%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "244",
+            "name": "cataLina",
+            "team": "N1MP"
+          },
+          {
+            "acs": "0.57\n0.49\n1.07",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "84\n65\n199",
+            "hs%": "71%\n67%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "136",
+            "name": "Neli",
+            "team": "N1MP"
+          },
+          {
+            "acs": "0.52\n0.64\n0.01",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "6\n6\n0",
+            "fk": "80\n93",
+            "hs%": "57%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "126",
+            "name": "Puri",
+            "team": "N1MP"
+          },
+          {
+            "acs": "0.45\n0.48\n0.28",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "62\n68\n30",
+            "hs%": "36%\n33%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "101",
+            "name": "Luzia",
+            "team": "N1MP"
+          },
+          {
+            "acs": "0.31\n0.42\n0.01",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "4\n4\n0",
+            "fk": "86\n96\n29",
+            "hs%": "57%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "113",
+            "name": "Looxie",
+            "team": "N1MP"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 95006,
+  "teams": [
+    "N1MP",
+    "Case Hydra"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tUpper Round of 16"
+}

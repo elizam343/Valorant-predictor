@@ -1,0 +1,594 @@
+{
+  "date": "2022-02-04 20:10:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "161",
+          "name": "ALEKSANDAR",
+          "team": "Pack a Punch"
+        },
+        {
+          "kills": "180",
+          "name": "Temperature",
+          "team": "Pack a Punch"
+        },
+        {
+          "kills": "229",
+          "name": "tech",
+          "team": "Pack a Punch"
+        },
+        {
+          "kills": "156",
+          "name": "tyti",
+          "team": "Pack a Punch"
+        },
+        {
+          "kills": "181",
+          "name": "GLYPH",
+          "team": "Pack a Punch"
+        },
+        {
+          "kills": "338",
+          "name": "Reformed",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "219",
+          "name": "YaBoiDre",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "214",
+          "name": "Boostio",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "225",
+          "name": "jawgemo",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "124",
+          "name": "pho",
+          "team": "Evil Geniuses"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "0.93\n0.70\n1.12",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "114\n131\n99",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "161",
+            "name": "ALEKSANDAR",
+            "team": "Pack a Punch"
+          },
+          {
+            "acs": "0.92\n1.02\n0.84",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "135\n138\n133",
+            "hs%": "64%\n40%\n83%",
+            "kdr": "7\n1\n6",
+            "kills": "180",
+            "name": "Temperature",
+            "team": "Pack a Punch"
+          },
+          {
+            "acs": "0.85\n0.50\n1.14",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "147\n106\n182",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "229",
+            "name": "tech",
+            "team": "Pack a Punch"
+          },
+          {
+            "acs": "0.77\n0.81\n0.73",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "124\n116\n130",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "8\n3\n5",
+            "kills": "156",
+            "name": "tyti",
+            "team": "Pack a Punch"
+          },
+          {
+            "acs": "0.70\n0.27\n1.06",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "114\n68\n151",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "181",
+            "name": "GLYPH",
+            "team": "Pack a Punch"
+          }
+        ],
+        [
+          {
+            "acs": "1.67\n1.12\n2.34",
+            "adr": "+14\n+1\n+13",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "27\n10\n17",
+            "fk": "203\n152\n265",
+            "hs%": "91%\n92%\n90%",
+            "kdr": "3\n2\n1",
+            "kills": "338",
+            "name": "Reformed",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.20\n1.76\n0.54",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "150\n212\n77",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "10\n4\n6",
+            "kills": "219",
+            "name": "YaBoiDre",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.17\n0.93\n1.45",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "139\n122\n159",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "6\n5\n1",
+            "kills": "214",
+            "name": "Boostio",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.98\n0.70\n1.31",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "136\n116\n161",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "225",
+            "name": "jawgemo",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.87\n0.80\n0.96",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "92\n85\n100",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "8\n5\n3",
+            "kills": "124",
+            "name": "pho",
+            "team": "Evil Geniuses"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "185",
+          "name": "tech",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "ALEKSANDAR",
+          "team": null
+        },
+        {
+          "kills": "113",
+          "name": "GLYPH",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "Temperature",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "tyti",
+          "team": null
+        },
+        {
+          "kills": "346",
+          "name": "YaBoiDre",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "Reformed",
+          "team": null
+        },
+        {
+          "kills": "172",
+          "name": "Boostio",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "jawgemo",
+          "team": null
+        },
+        {
+          "kills": "151",
+          "name": "pho",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.72\n1.30\n0.98",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n36\n20\n16\n\n/",
+            "deaths": "34\n14\n20",
+            "fk": "152\n121\n189",
+            "hs%": "73%\n64%\n83%",
+            "kdr": "9\n2\n7",
+            "kills": "185",
+            "name": "tech",
+            "team": null
+          },
+          {
+            "acs": "0.55\n1.19\n0.84",
+            "adr": "-7\n-9\n+2",
+            "agent": "",
+            "assists": "/\n\n31\n21\n10\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "107\n99\n117",
+            "hs%": "55%\n45%\n67%",
+            "kdr": "7\n1\n6",
+            "kills": "158",
+            "name": "ALEKSANDAR",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.86\n0.71",
+            "adr": "-12\n-11\n-1",
+            "agent": "",
+            "assists": "/\n\n33\n19\n14\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "103\n87\n123",
+            "hs%": "55%\n50%\n61%",
+            "kdr": "9\n6\n3",
+            "kills": "113",
+            "name": "GLYPH",
+            "team": null
+          },
+          {
+            "acs": "0.62\n0.83\n0.71",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n32\n19\n13\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "109\n101\n119",
+            "hs%": "50%\n32%\n72%",
+            "kdr": "8\n2\n6",
+            "kills": "130",
+            "name": "Temperature",
+            "team": null
+          },
+          {
+            "acs": "0.80\n0.49\n0.64",
+            "adr": "-15\n-6\n-9",
+            "agent": "",
+            "assists": "/\n\n32\n18\n14\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "112\n133\n87",
+            "hs%": "53%\n59%\n44%",
+            "kdr": "10\n5\n5",
+            "kills": "171",
+            "name": "tyti",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.83\n1.28\n1.53",
+            "adr": "+16\n+10\n+6",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "38\n21\n17",
+            "fk": "186\n225\n153",
+            "hs%": "85%\n83%\n86%",
+            "kdr": "12\n5\n7",
+            "kills": "346",
+            "name": "YaBoiDre",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.73\n1.44",
+            "adr": "+18\n+1\n+17",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "41\n14\n27",
+            "fk": "177\n135\n212",
+            "hs%": "88%\n89%\n86%",
+            "kdr": "7\n2\n5",
+            "kills": "216",
+            "name": "Reformed",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.41\n1.16",
+            "adr": "+11\n0\n+11",
+            "agent": "",
+            "assists": "/\n\n24\n13\n11\n\n/",
+            "deaths": "35\n13\n22",
+            "fk": "136\n119\n149",
+            "hs%": "83%\n72%\n91%",
+            "kdr": "7\n5\n2",
+            "kills": "172",
+            "name": "Boostio",
+            "team": null
+          },
+          {
+            "acs": "0.73\n1.43\n1.11",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "29\n9\n20",
+            "fk": "137\n98\n169",
+            "hs%": "73%\n61%\n82%",
+            "kdr": "19\n6\n13",
+            "kills": "144",
+            "name": "jawgemo",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.85\n0.90",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "102\n110\n95",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "14\n7\n7",
+            "kills": "151",
+            "name": "pho",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "363",
+          "name": "tech",
+          "team": "Pack a Punch"
+        },
+        {
+          "kills": "79",
+          "name": "GLYPH",
+          "team": "Pack a Punch"
+        },
+        {
+          "kills": "223",
+          "name": "ALEKSANDAR",
+          "team": "Pack a Punch"
+        },
+        {
+          "kills": "125",
+          "name": "tyti",
+          "team": "Pack a Punch"
+        },
+        {
+          "kills": "120",
+          "name": "Temperature",
+          "team": "Pack a Punch"
+        },
+        {
+          "kills": "309",
+          "name": "YaBoiDre",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "253",
+          "name": "jawgemo",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "245",
+          "name": "Reformed",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "229",
+          "name": "Boostio",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "140",
+          "name": "pho",
+          "team": "Evil Geniuses"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.14\n0.91\n1.60",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "158\n135\n205",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "363",
+            "name": "tech",
+            "team": "Pack a Punch"
+          },
+          {
+            "acs": "0.72\n0.84\n0.47",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "90\n102\n67",
+            "hs%": "44%\n50%\n33%",
+            "kdr": "3\n3\n0",
+            "kills": "79",
+            "name": "GLYPH",
+            "team": "Pack a Punch"
+          },
+          {
+            "acs": "0.72\n0.42\n1.32",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "100\n73\n153",
+            "hs%": "50%\n33%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "223",
+            "name": "ALEKSANDAR",
+            "team": "Pack a Punch"
+          },
+          {
+            "acs": "0.49\n0.79\n0.02",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "7\n7\n0",
+            "fk": "99\n148",
+            "hs%": "44%\n58%\n17%",
+            "kdr": "2\n2\n0",
+            "kills": "125",
+            "name": "tyti",
+            "team": "Pack a Punch"
+          },
+          {
+            "acs": "0.46\n0.28\n0.82",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "78\n71\n90",
+            "hs%": "33%\n25%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "120",
+            "name": "Temperature",
+            "team": "Pack a Punch"
+          }
+        ],
+        [
+          {
+            "acs": "1.92\n1.99\n1.89",
+            "adr": "+15\n+5\n+10",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "229\n253\n217",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "309",
+            "name": "YaBoiDre",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.28\n0.80\n1.52",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n3\n7\n\n/",
+            "deaths": "11\n1\n10",
+            "fk": "138\n61\n177",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "17\n5\n12",
+            "kills": "253",
+            "name": "jawgemo",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.15\n1.00\n1.22",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "145\n100\n167",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "245",
+            "name": "Reformed",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.14\n0.70\n1.37",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "131\n113\n141",
+            "hs%": "67%\n33%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "229",
+            "name": "Boostio",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.94\n1.29\n0.76",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "115\n161\n92",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "140",
+            "name": "pho",
+            "team": "Evil Geniuses"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 68693,
+  "teams": [
+    "Pack a Punch",
+    "Evil Geniuses"
+  ],
+  "tournament": "Open Qualifier #2: \n\t\t\t\t\t\tUpper Round of 16"
+}

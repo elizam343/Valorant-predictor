@@ -1,0 +1,594 @@
+{
+  "date": "2023-01-29 04:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "312",
+          "name": "da1zzie",
+          "team": "Hero Zero ANUBIS"
+        },
+        {
+          "kills": "173",
+          "name": "AmerNone",
+          "team": "Hero Zero ANUBIS"
+        },
+        {
+          "kills": "170",
+          "name": "kuroza",
+          "team": "Hero Zero ANUBIS"
+        },
+        {
+          "kills": "134",
+          "name": "Kafka",
+          "team": "Hero Zero ANUBIS"
+        },
+        {
+          "kills": "142",
+          "name": "Nythan",
+          "team": "Hero Zero ANUBIS"
+        },
+        {
+          "kills": "315",
+          "name": "Dragy",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "225",
+          "name": "klipp",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "150",
+          "name": "FrizzNatsz",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "200",
+          "name": "heyNF",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "199",
+          "name": "reeq",
+          "team": "Dewa United Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.90\n0.88",
+            "adr": "+8\n+11\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "27\n19\n8",
+            "fk": "194\n249\n138",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "312",
+            "name": "da1zzie",
+            "team": "Hero Zero ANUBIS"
+          },
+          {
+            "acs": "0.92\n1.17\n0.67",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "122\n147\n97",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "173",
+            "name": "AmerNone",
+            "team": "Hero Zero ANUBIS"
+          },
+          {
+            "acs": "0.83\n0.73\n0.93",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "111\n93\n129",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "170",
+            "name": "kuroza",
+            "team": "Hero Zero ANUBIS"
+          },
+          {
+            "acs": "0.63\n0.47\n0.78",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "86\n58\n114",
+            "hs%": "54%\n42%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "134",
+            "name": "Kafka",
+            "team": "Hero Zero ANUBIS"
+          },
+          {
+            "acs": "0.61\n0.81\n0.41",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "91\n105\n77",
+            "hs%": "58%\n67%\n50%",
+            "kdr": "17\n11\n6",
+            "kills": "142",
+            "name": "Nythan",
+            "team": "Hero Zero ANUBIS"
+          }
+        ],
+        [
+          {
+            "acs": "1.70\n2.18\n1.23",
+            "adr": "+15\n+14\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "29\n20\n9",
+            "fk": "197\n258\n135",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "315",
+            "name": "Dragy",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "1.04\n1.18\n0.90",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "150\n180\n120",
+            "hs%": "71%\n92%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "225",
+            "name": "klipp",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "1.02\n1.08\n0.96",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "101\n102\n100",
+            "hs%": "75%\n92%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "150",
+            "name": "FrizzNatsz",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.94\n0.83\n1.05",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "128\n98\n158",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "200",
+            "name": "heyNF",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.91\n0.83\n0.99",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "141\n132\n151",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "199",
+            "name": "reeq",
+            "team": "Dewa United Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "322",
+          "name": "da1zzie",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "AmerNone",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "kuroza",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "Kafka",
+          "team": null
+        },
+        {
+          "kills": "106",
+          "name": "Nythan",
+          "team": null
+        },
+        {
+          "kills": "357",
+          "name": "Dragy",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "reeq",
+          "team": null
+        },
+        {
+          "kills": "146",
+          "name": "FrizzNatsz",
+          "team": null
+        },
+        {
+          "kills": "254",
+          "name": "klipp",
+          "team": null
+        },
+        {
+          "kills": "126",
+          "name": "heyNF",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.29\n1.62\n1.44",
+            "adr": "+16\n+7\n+9",
+            "agent": "",
+            "assists": "/\n\n34\n20\n14\n\n/",
+            "deaths": "50\n27\n23",
+            "fk": "201\n194\n211",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "4\n3\n1",
+            "kills": "322",
+            "name": "da1zzie",
+            "team": null
+          },
+          {
+            "acs": "1.03\n0.72\n0.89",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "26\n16\n10",
+            "fk": "122\n130\n111",
+            "hs%": "63%\n63%\n63%",
+            "kdr": "8\n4\n4",
+            "kills": "188",
+            "name": "AmerNone",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.78\n0.82",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n34\n21\n13\n\n/",
+            "deaths": "25\n16\n9",
+            "fk": "113\n126\n97",
+            "hs%": "72%\n75%\n68%",
+            "kdr": "15\n6\n9",
+            "kills": "190",
+            "name": "kuroza",
+            "team": null
+          },
+          {
+            "acs": "0.54\n0.56\n0.55",
+            "adr": "-17\n-12\n-5",
+            "agent": "",
+            "assists": "/\n\n34\n20\n14\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "83\n83\n84",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "11\n8\n3",
+            "kills": "121",
+            "name": "Kafka",
+            "team": null
+          },
+          {
+            "acs": "0.46\n0.51\n0.49",
+            "adr": "-22\n-14\n-8",
+            "agent": "",
+            "assists": "/\n\n37\n21\n16\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "81\n74\n89",
+            "hs%": "56%\n54%\n58%",
+            "kdr": "26\n19\n7",
+            "kills": "106",
+            "name": "Nythan",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.69\n1.12\n1.37",
+            "adr": "+13\n+12\n+1",
+            "agent": "",
+            "assists": "/\n\n32\n13\n19\n\n/",
+            "deaths": "45\n25\n20",
+            "fk": "184\n226\n151",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "13\n3\n10",
+            "kills": "357",
+            "name": "Dragy",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.33\n1.26",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n23\n10\n13\n\n/",
+            "deaths": "34\n14\n20",
+            "fk": "155\n146\n162",
+            "hs%": "84%\n79%\n88%",
+            "kdr": "22\n9\n13",
+            "kills": "225",
+            "name": "reeq",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.26\n1.19",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "29\n11\n18",
+            "fk": "116\n91\n136",
+            "hs%": "77%\n79%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "146",
+            "name": "FrizzNatsz",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.20\n1.13",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n28\n14\n14\n\n/",
+            "deaths": "39\n17\n22",
+            "fk": "157\n173\n144",
+            "hs%": "79%\n89%\n71%",
+            "kdr": "10\n4\n6",
+            "kills": "254",
+            "name": "klipp",
+            "team": null
+          },
+          {
+            "acs": "0.62\n1.10\n0.89",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n29\n13\n16\n\n/",
+            "deaths": "26\n8\n18",
+            "fk": "114\n86\n136",
+            "hs%": "77%\n74%\n79%",
+            "kdr": "8\n4\n4",
+            "kills": "126",
+            "name": "heyNF",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "562",
+          "name": "da1zzie",
+          "team": "Hero Zero ANUBIS"
+        },
+        {
+          "kills": "219",
+          "name": "AmerNone",
+          "team": "Hero Zero ANUBIS"
+        },
+        {
+          "kills": "69",
+          "name": "kuroza",
+          "team": "Hero Zero ANUBIS"
+        },
+        {
+          "kills": "55",
+          "name": "Kafka",
+          "team": "Hero Zero ANUBIS"
+        },
+        {
+          "kills": "149",
+          "name": "Nythan",
+          "team": "Hero Zero ANUBIS"
+        },
+        {
+          "kills": "279",
+          "name": "reeq",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "270",
+          "name": "FrizzNatsz",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "276",
+          "name": "klipp",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "265",
+          "name": "Dragy",
+          "team": "Dewa United Esports"
+        },
+        {
+          "kills": "183",
+          "name": "heyNF",
+          "team": "Dewa United Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.50\n0.68\n2.89",
+            "adr": "+8\n-4\n+12",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "23\n8\n15",
+            "fk": "211\n138\n336",
+            "hs%": "63%\n50%\n86%",
+            "kdr": "2\n2\n0",
+            "kills": "562",
+            "name": "da1zzie",
+            "team": "Hero Zero ANUBIS"
+          },
+          {
+            "acs": "0.86\n0.89\n0.81",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "121\n113\n136",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "3\n1\n2",
+            "kills": "219",
+            "name": "AmerNone",
+            "team": "Hero Zero ANUBIS"
+          },
+          {
+            "acs": "0.81\n0.97\n0.53",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "11\n10\n1",
+            "fk": "116\n158\n44",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "10\n4\n6",
+            "kills": "69",
+            "name": "kuroza",
+            "team": "Hero Zero ANUBIS"
+          },
+          {
+            "acs": "0.45\n0.61\n0.18",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "79\n108\n31",
+            "hs%": "79%\n92%\n57%",
+            "kdr": "5\n4\n1",
+            "kills": "55",
+            "name": "Kafka",
+            "team": "Hero Zero ANUBIS"
+          },
+          {
+            "acs": "0.33\n0.12\n0.69",
+            "adr": "-12\n-11\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "68\n43\n109",
+            "hs%": "53%\n42%\n71%",
+            "kdr": "9\n8\n1",
+            "kills": "149",
+            "name": "Nythan",
+            "team": "Hero Zero ANUBIS"
+          }
+        ],
+        [
+          {
+            "acs": "1.71\n1.79\n1.66",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "172\n171\n173",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "12\n4\n8",
+            "kills": "279",
+            "name": "reeq",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "1.42\n1.18\n1.55",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "136\n73\n173",
+            "hs%": "79%\n57%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "270",
+            "name": "FrizzNatsz",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "1.25\n0.83\n1.49",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "166\n163\n167",
+            "hs%": "89%\n86%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "276",
+            "name": "klipp",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.95\n0.85\n1.00",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "169\n172\n168",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "265",
+            "name": "Dragy",
+            "team": "Dewa United Esports"
+          },
+          {
+            "acs": "0.82\n0.26\n1.15",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "96\n65\n114",
+            "hs%": "68%\n43%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "183",
+            "name": "heyNF",
+            "team": "Dewa United Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 167795,
+  "teams": [
+    "Hero Zero ANUBIS",
+    "Dewa United Esports"
+  ],
+  "tournament": "Final Qualifier: \n\t\t\t\t\t\tRound 3"
+}

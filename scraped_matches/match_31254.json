@@ -1,0 +1,788 @@
+{
+  "date": "2021-08-09 21:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "221",
+          "name": "Boltzy",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "205",
+          "name": "tetchra",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "220",
+          "name": "nillyaz",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "193",
+          "name": "Harmful",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "157",
+          "name": "Teague",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "269",
+          "name": "Reduxx",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "226",
+          "name": "intox",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "219",
+          "name": "Nurfed",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "181",
+          "name": "ethos",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "158",
+          "name": "Rejante",
+          "team": "FLICKBAITERS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "0.96\n1.09\n0.81",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "130\n194\n61",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "3\n2\n1",
+            "kills": "221",
+            "name": "Boltzy",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "0.93\n0.92\n0.95",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "127\n138\n115",
+            "hs%": "57%\n50%\n64%",
+            "kdr": "4\n2\n2",
+            "kills": "205",
+            "name": "tetchra",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "0.92\n0.72\n1.14",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "137\n131\n143",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "3\n1\n2",
+            "kills": "220",
+            "name": "nillyaz",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "0.91\n0.93\n0.88",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "121\n139\n102",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "5\n2\n3",
+            "kills": "193",
+            "name": "Harmful",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "0.81\n0.63\n1.00",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "118\n93\n144",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "9\n5\n4",
+            "kills": "157",
+            "name": "Teague",
+            "team": "Rock Bottom"
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n1.19\n1.63",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "148\n127\n168",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "1\n1\n0",
+            "kills": "269",
+            "name": "Reduxx",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "1.20\n1.10\n1.29",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "149\n124\n172",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "226",
+            "name": "intox",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "1.07\n0.88\n1.23",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "129\n107\n149",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "219",
+            "name": "Nurfed",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "0.86\n1.00\n0.73",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "119\n121\n117",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "181",
+            "name": "ethos",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "0.70\n0.73\n0.67",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "98\n93\n102",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "158",
+            "name": "Rejante",
+            "team": "FLICKBAITERS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "234",
+          "name": "Harmful",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "tetchra",
+          "team": null
+        },
+        {
+          "kills": "210",
+          "name": "Boltzy",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "Teague",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "nillyaz",
+          "team": null
+        },
+        {
+          "kills": "237",
+          "name": "Reduxx",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "intox",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "Nurfed",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Rejante",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "ethos",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.40\n1.22",
+            "adr": "+20\n+2\n+18",
+            "agent": "",
+            "assists": "/\n\n41\n24\n17\n\n/",
+            "deaths": "61\n26\n35",
+            "fk": "162\n154\n169",
+            "hs%": "76%\n72%\n80%",
+            "kdr": "12\n6\n6",
+            "kills": "234",
+            "name": "Harmful",
+            "team": null
+          },
+          {
+            "acs": "0.87\n1.20\n1.04",
+            "adr": "+7\n-3\n+10",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "51\n20\n31",
+            "fk": "124\n102\n145",
+            "hs%": "63%\n53%\n71%",
+            "kdr": "14\n7\n7",
+            "kills": "170",
+            "name": "tetchra",
+            "team": null
+          },
+          {
+            "acs": "0.93\n1.11\n1.02",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "53\n22\n31",
+            "fk": "146\n139\n153",
+            "hs%": "66%\n56%\n74%",
+            "kdr": "8\n3\n5",
+            "kills": "210",
+            "name": "Boltzy",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.96\n0.99",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n42\n24\n18\n\n/",
+            "deaths": "39\n20\n19",
+            "fk": "116\n120\n113",
+            "hs%": "73%\n69%\n77%",
+            "kdr": "20\n10\n10",
+            "kills": "197",
+            "name": "Teague",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.02\n0.93",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n48\n27\n21\n\n/",
+            "deaths": "48\n24\n24",
+            "fk": "124\n128\n120",
+            "hs%": "72%\n72%\n71%",
+            "kdr": "9\n3\n6",
+            "kills": "222",
+            "name": "nillyaz",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n1.27\n1.19",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "61\n30\n31",
+            "fk": "145\n143\n146",
+            "hs%": "64%\n60%\n69%",
+            "kdr": "6\n3\n3",
+            "kills": "237",
+            "name": "Reduxx",
+            "team": null
+          },
+          {
+            "acs": "0.77\n1.07\n0.91",
+            "adr": "-12\n-12\n0",
+            "agent": "",
+            "assists": "/\n\n52\n30\n22\n\n/",
+            "deaths": "40\n18\n22",
+            "fk": "126\n103\n151",
+            "hs%": "64%\n57%\n72%",
+            "kdr": "20\n9\n11",
+            "kills": "163",
+            "name": "intox",
+            "team": null
+          },
+          {
+            "acs": "0.68\n1.08\n0.87",
+            "adr": "-10\n-14\n+4",
+            "agent": "",
+            "assists": "/\n\n51\n30\n21\n\n/",
+            "deaths": "41\n16\n25",
+            "fk": "119\n91\n148",
+            "hs%": "64%\n57%\n72%",
+            "kdr": "22\n12\n10",
+            "kills": "143",
+            "name": "Nurfed",
+            "team": null
+          },
+          {
+            "acs": "0.82\n0.84\n0.83",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n49\n26\n23\n\n/",
+            "deaths": "42\n20\n22",
+            "fk": "118\n116\n122",
+            "hs%": "60%\n57%\n63%",
+            "kdr": "12\n7\n5",
+            "kills": "171",
+            "name": "Rejante",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.80\n0.77",
+            "adr": "-14\n-12\n-2",
+            "agent": "",
+            "assists": "/\n\n50\n27\n23\n\n/",
+            "deaths": "36\n15\n21",
+            "fk": "109\n107\n110",
+            "hs%": "57%\n46%\n69%",
+            "kdr": "13\n9\n4",
+            "kills": "145",
+            "name": "ethos",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "221",
+          "name": "Teague",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "269",
+          "name": "Harmful",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "309",
+          "name": "Boltzy",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "165",
+          "name": "nillyaz",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "243",
+          "name": "tetchra",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "215",
+          "name": "Rejante",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "194",
+          "name": "Reduxx",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "301",
+          "name": "Nurfed",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "216",
+          "name": "intox",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "137",
+          "name": "ethos",
+          "team": "FLICKBAITERS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.23\n1.32\n1.14",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "130\n122\n136",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "221",
+            "name": "Teague",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "1.22\n1.12\n1.31",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "184\n195\n173",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "269",
+            "name": "Harmful",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "1.03\n0.81\n1.23",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "171\n121\n217",
+            "hs%": "65%\n45%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "309",
+            "name": "Boltzy",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "1.02\n1.07\n0.98",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "131\n164\n101",
+            "hs%": "83%\n100%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "165",
+            "name": "nillyaz",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "0.82\n0.36\n1.24",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "96\n27\n159",
+            "hs%": "57%\n45%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "243",
+            "name": "tetchra",
+            "team": "Rock Bottom"
+          }
+        ],
+        [
+          {
+            "acs": "1.03\n1.21\n0.83",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "147\n169\n123",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "5\n3\n2",
+            "kills": "215",
+            "name": "Rejante",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "0.99\n0.97\n1.02",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "136\n152\n118",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "3\n1\n2",
+            "kills": "194",
+            "name": "Reduxx",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "0.96\n0.64\n1.31",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "137\n90\n189",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "6\n4\n2",
+            "kills": "301",
+            "name": "Nurfed",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "0.85\n0.62\n1.10",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "127\n93\n165",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "8\n3\n5",
+            "kills": "216",
+            "name": "intox",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "0.64\n0.52\n0.78",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "94\n94\n95",
+            "hs%": "43%\n33%\n55%",
+            "kdr": "2\n2\n0",
+            "kills": "137",
+            "name": "ethos",
+            "team": "FLICKBAITERS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "299",
+          "name": "Harmful",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "244",
+          "name": "tetchra",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "216",
+          "name": "Boltzy",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "131",
+          "name": "Teague",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "192",
+          "name": "nillyaz",
+          "team": "Rock Bottom"
+        },
+        {
+          "kills": "262",
+          "name": "Reduxx",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "152",
+          "name": "ethos",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "147",
+          "name": "Rejante",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "133",
+          "name": "intox",
+          "team": "FLICKBAITERS"
+        },
+        {
+          "kills": "107",
+          "name": "Nurfed",
+          "team": "FLICKBAITERS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.57\n1.04\n1.97",
+            "adr": "+15\n+2\n+13",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "183\n125\n226",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "299",
+            "name": "Harmful",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "1.41\n1.42\n1.40",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "153\n144\n159",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "244",
+            "name": "tetchra",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "1.09\n0.85\n1.27",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "136\n87\n173",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "216",
+            "name": "Boltzy",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "0.92\n1.14\n0.76",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "101\n153\n61",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "131",
+            "name": "Teague",
+            "team": "Rock Bottom"
+          },
+          {
+            "acs": "0.84\n0.71\n0.94",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "102\n81\n118",
+            "hs%": "62%\n44%\n75%",
+            "kdr": "2\n0\n2",
+            "kills": "192",
+            "name": "nillyaz",
+            "team": "Rock Bottom"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n1.21\n1.09",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "151\n149\n152",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "262",
+            "name": "Reduxx",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "0.81\n0.73\n0.92",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "114\n109\n120",
+            "hs%": "52%\n33%\n78%",
+            "kdr": "6\n4\n2",
+            "kills": "152",
+            "name": "ethos",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "0.76\n0.51\n1.09",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "110\n83\n146",
+            "hs%": "43%\n42%\n44%",
+            "kdr": "3\n2\n1",
+            "kills": "147",
+            "name": "Rejante",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "0.67\n0.62\n0.73",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "99\n94\n106",
+            "hs%": "43%\n42%\n44%",
+            "kdr": "4\n3\n1",
+            "kills": "133",
+            "name": "intox",
+            "team": "FLICKBAITERS"
+          },
+          {
+            "acs": "0.56\n0.52\n0.61",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "87\n78\n98",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "10\n5\n5",
+            "kills": "107",
+            "name": "Nurfed",
+            "team": "FLICKBAITERS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 31254,
+  "teams": [
+    "Rock Bottom",
+    "FLICKBAITERS"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tDecider (E)"
+}

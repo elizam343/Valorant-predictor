@@ -1,0 +1,806 @@
+{
+  "date": "2022-11-25 07:50:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "258",
+          "name": "V1K1NG",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "230",
+          "name": "zeddy",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "212",
+          "name": "leetroy",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "217",
+          "name": "Coffee",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "168",
+          "name": "Ninjas",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "206",
+          "name": "DVDOV",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "226",
+          "name": "TTyke",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "195",
+          "name": "madcon",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "163",
+          "name": "Minisk1N",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "124",
+          "name": "rezy",
+          "team": "NOBLES"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.12\n1.69",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "160\n115\n201",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "13\n6\n7",
+            "kills": "258",
+            "name": "V1K1NG",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "1.25\n1.63\n0.90",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "148\n184\n115",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "230",
+            "name": "zeddy",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "1.11\n1.04\n1.18",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "140\n128\n151",
+            "hs%": "57%\n45%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "212",
+            "name": "leetroy",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "1.09\n1.37\n0.83",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "140\n142\n138",
+            "hs%": "61%\n64%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "217",
+            "name": "Coffee",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "0.68\n0.36\n0.98",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "104\n80\n126",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "168",
+            "name": "Ninjas",
+            "team": "Phoenix Esport"
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n1.43\n0.68",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "128\n164\n90",
+            "hs%": "61%\n75%\n45%",
+            "kdr": "2\n1\n1",
+            "kills": "206",
+            "name": "DVDOV",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.94\n0.34\n1.60",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "146\n74\n224",
+            "hs%": "65%\n50%\n82%",
+            "kdr": "3\n1\n2",
+            "kills": "226",
+            "name": "TTyke",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.79\n0.56\n1.04",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "129\n111\n148",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "4\n3\n1",
+            "kills": "195",
+            "name": "madcon",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.71\n0.93\n0.49",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "104\n129\n76",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "5\n3\n2",
+            "kills": "163",
+            "name": "Minisk1N",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.68\n1.15\n0.16",
+            "adr": "-3\n+3\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "88\n137\n34",
+            "hs%": "48%\n67%\n27%",
+            "kdr": "1\n1\n0",
+            "kills": "124",
+            "name": "rezy",
+            "team": "NOBLES"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "212",
+          "name": "Coffee",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "V1K1NG",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "leetroy",
+          "team": null
+        },
+        {
+          "kills": "237",
+          "name": "zeddy",
+          "team": null
+        },
+        {
+          "kills": "157",
+          "name": "Ninjas",
+          "team": null
+        },
+        {
+          "kills": "265",
+          "name": "TTyke",
+          "team": null
+        },
+        {
+          "kills": "270",
+          "name": "DVDOV",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "Izuki",
+          "team": null
+        },
+        {
+          "kills": "174",
+          "name": "madcon",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "rezy",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "Minisk1N",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.95\n1.10\n1.05",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n44\n16\n28\n\n/",
+            "deaths": "44\n16\n28",
+            "fk": "156\n132\n170",
+            "hs%": "68%\n62%\n72%",
+            "kdr": "17\n4\n13",
+            "kills": "212",
+            "name": "Coffee",
+            "team": null
+          },
+          {
+            "acs": "1.10\n0.87\n0.96",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n42\n13\n29\n\n/",
+            "deaths": "36\n13\n23",
+            "fk": "128\n130\n128",
+            "hs%": "67%\n86%\n56%",
+            "kdr": "17\n8\n9",
+            "kills": "186",
+            "name": "V1K1NG",
+            "team": null
+          },
+          {
+            "acs": "0.89\n0.93\n0.92",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n41\n15\n26\n\n/",
+            "deaths": "37\n14\n23",
+            "fk": "125\n121\n128",
+            "hs%": "53%\n52%\n53%",
+            "kdr": "8\n2\n6",
+            "kills": "196",
+            "name": "leetroy",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.66\n0.85",
+            "adr": "-11\n+4\n-15",
+            "agent": "",
+            "assists": "/\n\n43\n14\n29\n\n/",
+            "deaths": "32\n18\n14",
+            "fk": "114\n151\n93",
+            "hs%": "67%\n71%\n64%",
+            "kdr": "17\n3\n14",
+            "kills": "237",
+            "name": "zeddy",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.60\n0.53",
+            "adr": "-21\n-7\n-14",
+            "agent": "",
+            "assists": "/\n\n48\n18\n30\n\n/",
+            "deaths": "27\n11\n16",
+            "fk": "90\n95\n87",
+            "hs%": "54%\n57%\n53%",
+            "kdr": "7\n1\n6",
+            "kills": "157",
+            "name": "Ninjas",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n2.08\n1.55",
+            "adr": "+28\n+12\n+16",
+            "agent": "",
+            "assists": "/\n\n36\n23\n13\n\n/",
+            "deaths": "64\n35\n29",
+            "fk": "193\n161\n248",
+            "hs%": "79%\n72%\n90%",
+            "kdr": "12\n5\n7",
+            "kills": "265",
+            "name": "TTyke",
+            "team": null
+          },
+          {
+            "acs": "1.51\n0.59\n1.17",
+            "adr": "+11\n+15\n-4",
+            "agent": "",
+            "assists": "/\n\n35\n21\n14\n\n/",
+            "deaths": "46\n36\n10",
+            "fk": "141\n177\n78",
+            "hs%": "72%\n81%\n57%",
+            "kdr": "14\n10\n4",
+            "kills": "270",
+            "name": "DVDOV",
+            "team": null
+          },
+          {
+            "acs": "1.21\n0.73\n1.07",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "24\n18\n6",
+            "fk": "120\n131\n94",
+            "hs%": "71%\n71%\n70%",
+            "kdr": "2\n2\n0",
+            "kills": "192",
+            "name": "Izuki",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.35\n1.00",
+            "adr": "-1\n-7\n+6",
+            "agent": "",
+            "assists": "/\n\n40\n26\n14\n\n/",
+            "deaths": "39\n19\n20",
+            "fk": "136\n115\n171",
+            "hs%": "74%\n69%\n81%",
+            "kdr": "28\n19\n9",
+            "kills": "174",
+            "name": "madcon",
+            "team": null
+          },
+          {
+            "acs": "1.21\n0.53\n0.96",
+            "adr": "+3\n+9\n-6",
+            "agent": "",
+            "assists": "/\n\n29\n16\n13\n\n/",
+            "deaths": "32\n25\n7",
+            "fk": "91\n114\n52",
+            "hs%": "63%\n69%\n52%",
+            "kdr": "8\n6\n2",
+            "kills": "166",
+            "name": "rezy",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.49\n0.71",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "104\n129\n76",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "5\n3\n2",
+            "kills": "207",
+            "name": "Minisk1N",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "115",
+          "name": "leetroy",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "114",
+          "name": "zeddy",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "166",
+          "name": "Coffee",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "104",
+          "name": "V1K1NG",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "160",
+          "name": "Ninjas",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "511",
+          "name": "TTyke",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "19",
+          "name": "DVDOV",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "68",
+          "name": "rezy",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "254",
+          "name": "madcon",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "110",
+          "name": "Izuki",
+          "team": "NOBLES"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.78\n1.18\n0.62",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "100\n138\n84",
+            "hs%": "41%\n60%\n33%",
+            "kdr": "3\n1\n2",
+            "kills": "115",
+            "name": "leetroy",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "0.75\n1.25\n0.54",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "105\n168\n79",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "4\n0\n4",
+            "kills": "114",
+            "name": "zeddy",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "0.63\n0.30\n0.77",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "120\n125\n118",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "6\n1\n5",
+            "kills": "166",
+            "name": "Coffee",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "0.61\n1.58\n0.20",
+            "adr": "-5\n+3\n-8",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "90\n146\n67",
+            "hs%": "59%\n100%\n42%",
+            "kdr": "2\n1\n1",
+            "kills": "104",
+            "name": "V1K1NG",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "0.50\n0.23\n0.61",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "87\n40\n106",
+            "hs%": "47%\n40%\n50%",
+            "kdr": "4\n0\n4",
+            "kills": "160",
+            "name": "Ninjas",
+            "team": "Phoenix Esport"
+          }
+        ],
+        [
+          {
+            "acs": "2.58\n2.49\n2.82",
+            "adr": "+22\n+16\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "29\n20\n9",
+            "fk": "287\n284\n295",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "5\n4\n1",
+            "kills": "511",
+            "name": "TTyke",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "1.34\n1.78\n0.30",
+            "adr": "+8\n+10\n-2",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "16\n15\n1",
+            "fk": "155\n215\n10",
+            "hs%": "76%\n92%\n40%",
+            "kdr": "5\n5\n0",
+            "kills": "19",
+            "name": "DVDOV",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "1.03\n1.28\n0.44",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "95\n101\n82",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "4\n3\n1",
+            "kills": "68",
+            "name": "rezy",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.88\n0.76\n1.17",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "97\n75\n151",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "14\n11\n3",
+            "kills": "254",
+            "name": "madcon",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "0.86\n1.10\n0.26",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "99\n111\n70",
+            "hs%": "76%\n83%\n60%",
+            "kdr": "0\n0\n0",
+            "kills": "110",
+            "name": "Izuki",
+            "team": "NOBLES"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "334",
+          "name": "Coffee",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "185",
+          "name": "leetroy",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "164",
+          "name": "V1K1NG",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "104",
+          "name": "zeddy",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "112",
+          "name": "Ninjas",
+          "team": "Phoenix Esport"
+        },
+        {
+          "kills": "276",
+          "name": "madcon",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "265",
+          "name": "TTyke",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "213",
+          "name": "Izuki",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "142",
+          "name": "rezy",
+          "team": "NOBLES"
+        },
+        {
+          "kills": "208",
+          "name": "DVDOV",
+          "team": "NOBLES"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.41\n0.69\n1.71",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "214\n118\n255",
+            "hs%": "88%\n60%\n100%",
+            "kdr": "8\n2\n6",
+            "kills": "334",
+            "name": "Coffee",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "0.79\n0.26\n1.01",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "132\n87\n150",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "1\n1\n0",
+            "kills": "185",
+            "name": "leetroy",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "0.68\n0.57\n0.72",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "124\n145\n114",
+            "hs%": "59%\n80%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "164",
+            "name": "V1K1NG",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "0.42\n0.10\n0.55",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "78\n62\n84",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "6\n0\n6",
+            "kills": "104",
+            "name": "zeddy",
+            "team": "Phoenix Esport"
+          },
+          {
+            "acs": "0.36\n0.75\n0.20",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "74\n184\n29",
+            "hs%": "41%\n60%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "112",
+            "name": "Ninjas",
+            "team": "Phoenix Esport"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.08\n2.22",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "183\n159\n242",
+            "hs%": "76%\n67%\n100%",
+            "kdr": "10\n5\n5",
+            "kills": "276",
+            "name": "madcon",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "1.33\n0.88\n2.39",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "163\n124\n256",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "4\n0\n4",
+            "kills": "265",
+            "name": "TTyke",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "1.29\n1.32\n1.19",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "141\n151\n118",
+            "hs%": "65%\n58%\n80%",
+            "kdr": "2\n2\n0",
+            "kills": "213",
+            "name": "Izuki",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "1.26\n1.19\n1.42",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "92\n104\n64",
+            "hs%": "76%\n67%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "142",
+            "name": "rezy",
+            "team": "NOBLES"
+          },
+          {
+            "acs": "1.14\n1.33\n0.68",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "144\n153\n121",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "208",
+            "name": "DVDOV",
+            "team": "NOBLES"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 159186,
+  "teams": [
+    "Phoenix Esport",
+    "NOBLES"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tLower Round 1"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2022-04-19 11:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "308",
+          "name": "Banshee",
+          "team": "BBL Queens"
+        },
+        {
+          "kills": "263",
+          "name": "Vania",
+          "team": "BBL Queens"
+        },
+        {
+          "kills": "244",
+          "name": "eva",
+          "team": "BBL Queens"
+        },
+        {
+          "kills": "132",
+          "name": "bitterzie",
+          "team": "BBL Queens"
+        },
+        {
+          "kills": "200",
+          "name": "minemosynE",
+          "team": "BBL Queens"
+        },
+        {
+          "kills": "205",
+          "name": "Asia",
+          "team": "Be\u015fikta\u015f Esports Female"
+        },
+        {
+          "kills": "212",
+          "name": "alkyia",
+          "team": "Be\u015fikta\u015f Esports Female"
+        },
+        {
+          "kills": "204",
+          "name": "Jiex",
+          "team": "Be\u015fikta\u015f Esports Female"
+        },
+        {
+          "kills": "180",
+          "name": "xenia",
+          "team": "Be\u015fikta\u015f Esports Female"
+        },
+        {
+          "kills": "100",
+          "name": "Narcius",
+          "team": "Be\u015fikta\u015f Esports Female"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.66\n1.60\n1.74",
+            "adr": "+15\n+8\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "26\n14\n12",
+            "fk": "187\n173\n202",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "3\n2\n1",
+            "kills": "308",
+            "name": "Banshee",
+            "team": "BBL Queens"
+          },
+          {
+            "acs": "1.30\n1.13\n1.50",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "145\n106\n192",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "12\n8\n4",
+            "kills": "263",
+            "name": "Vania",
+            "team": "BBL Queens"
+          },
+          {
+            "acs": "1.23\n1.03\n1.48",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "165\n148\n187",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "10\n5\n5",
+            "kills": "244",
+            "name": "eva",
+            "team": "BBL Queens"
+          },
+          {
+            "acs": "0.92\n0.95\n0.89",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "82\n89\n75",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "9\n4\n5",
+            "kills": "132",
+            "name": "bitterzie",
+            "team": "BBL Queens"
+          },
+          {
+            "acs": "0.86\n1.22\n0.41",
+            "adr": "-1\n+5\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "13\n13\n0",
+            "fk": "144\n227\n44",
+            "hs%": "82%\n92%\n70%",
+            "kdr": "5\n3\n2",
+            "kills": "200",
+            "name": "minemosynE",
+            "team": "BBL Queens"
+          }
+        ],
+        [
+          {
+            "acs": "0.96\n0.59\n1.27",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "141\n127\n153",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "205",
+            "name": "Asia",
+            "team": "Be\u015fikta\u015f Esports Female"
+          },
+          {
+            "acs": "0.87\n1.05\n0.71",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "132\n161\n109",
+            "hs%": "55%\n40%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "212",
+            "name": "alkyia",
+            "team": "Be\u015fikta\u015f Esports Female"
+          },
+          {
+            "acs": "0.86\n1.24\n0.54",
+            "adr": "-3\n+3\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "136\n171\n107",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "204",
+            "name": "Jiex",
+            "team": "Be\u015fikta\u015f Esports Female"
+          },
+          {
+            "acs": "0.86\n0.60\n1.08",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "112\n80\n139",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "180",
+            "name": "xenia",
+            "team": "Be\u015fikta\u015f Esports Female"
+          },
+          {
+            "acs": "0.24\n0.24\n0.24",
+            "adr": "-13\n-6\n-7",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "65\n71\n60",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "100",
+            "name": "Narcius",
+            "team": "Be\u015fikta\u015f Esports Female"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "287",
+          "name": "eva",
+          "team": null
+        },
+        {
+          "kills": "280",
+          "name": "Banshee",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "Vania",
+          "team": null
+        },
+        {
+          "kills": "268",
+          "name": "minemosynE",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "bitterzie",
+          "team": null
+        },
+        {
+          "kills": "294",
+          "name": "alkyia",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "xenia",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Jiex",
+          "team": null
+        },
+        {
+          "kills": "111",
+          "name": "Asia",
+          "team": null
+        },
+        {
+          "kills": "113",
+          "name": "Narcius",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.50\n1.34\n1.42",
+            "adr": "+19\n+9\n+10",
+            "agent": "",
+            "assists": "/\n\n24\n12\n12\n\n/",
+            "deaths": "43\n21\n22",
+            "fk": "187\n201\n174",
+            "hs%": "77%\n76%\n77%",
+            "kdr": "15\n7\n8",
+            "kills": "287",
+            "name": "eva",
+            "team": null
+          },
+          {
+            "acs": "1.38\n1.14\n1.25",
+            "adr": "+15\n+10\n+5",
+            "agent": "",
+            "assists": "/\n\n26\n12\n14\n\n/",
+            "deaths": "41\n22\n19",
+            "fk": "161\n167\n156",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "4\n2\n2",
+            "kills": "280",
+            "name": "Banshee",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.29\n1.21",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n28\n11\n17\n\n/",
+            "deaths": "36\n14\n22",
+            "fk": "141\n107\n174",
+            "hs%": "81%\n81%\n82%",
+            "kdr": "18\n11\n7",
+            "kills": "188",
+            "name": "Vania",
+            "team": null
+          },
+          {
+            "acs": "1.11\n0.95\n1.03",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n28\n15\n13\n\n/",
+            "deaths": "29\n19\n10",
+            "fk": "144\n191\n100",
+            "hs%": "77%\n81%\n73%",
+            "kdr": "8\n5\n3",
+            "kills": "268",
+            "name": "minemosynE",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.94\n0.92",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "88\n81\n95",
+            "hs%": "72%\n71%\n73%",
+            "kdr": "23\n17\n6",
+            "kills": "141",
+            "name": "bitterzie",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n0.88\n1.09",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n30\n17\n13\n\n/",
+            "deaths": "33\n21\n12",
+            "fk": "149\n183\n114",
+            "hs%": "72%\n68%\n76%",
+            "kdr": "9\n3\n6",
+            "kills": "294",
+            "name": "alkyia",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.96\n0.96",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "30\n16\n14",
+            "fk": "131\n136\n127",
+            "hs%": "65%\n68%\n62%",
+            "kdr": "9\n2\n7",
+            "kills": "216",
+            "name": "xenia",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.56\n0.76",
+            "adr": "-8\n+1\n-9",
+            "agent": "",
+            "assists": "/\n\n37\n17\n20\n\n/",
+            "deaths": "29\n18\n11",
+            "fk": "130\n141\n119",
+            "hs%": "63%\n59%\n67%",
+            "kdr": "8\n4\n4",
+            "kills": "217",
+            "name": "Jiex",
+            "team": null
+          },
+          {
+            "acs": "0.40\n1.06\n0.72",
+            "adr": "-12\n-10\n-2",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "100\n73\n129",
+            "hs%": "72%\n68%\n76%",
+            "kdr": "9\n6\n3",
+            "kills": "111",
+            "name": "Asia",
+            "team": null
+          },
+          {
+            "acs": "0.48\n0.50\n0.49",
+            "adr": "-17\n-9\n-8",
+            "agent": "",
+            "assists": "/\n\n36\n18\n18\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "81\n71\n91",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "11\n7\n4",
+            "kills": "113",
+            "name": "Narcius",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "260",
+          "name": "eva",
+          "team": "BBL Queens"
+        },
+        {
+          "kills": "227",
+          "name": "minemosynE",
+          "team": "BBL Queens"
+        },
+        {
+          "kills": "258",
+          "name": "Vania",
+          "team": "BBL Queens"
+        },
+        {
+          "kills": "186",
+          "name": "bitterzie",
+          "team": "BBL Queens"
+        },
+        {
+          "kills": "154",
+          "name": "Banshee",
+          "team": "BBL Queens"
+        },
+        {
+          "kills": "207",
+          "name": "alkyia",
+          "team": "Be\u015fikta\u015f Esports Female"
+        },
+        {
+          "kills": "192",
+          "name": "xenia",
+          "team": "Be\u015fikta\u015f Esports Female"
+        },
+        {
+          "kills": "187",
+          "name": "Narcius",
+          "team": "Be\u015fikta\u015f Esports Female"
+        },
+        {
+          "kills": "192",
+          "name": "Jiex",
+          "team": "Be\u015fikta\u015f Esports Female"
+        },
+        {
+          "kills": "174",
+          "name": "Asia",
+          "team": "Be\u015fikta\u015f Esports Female"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.62\n2.14\n1.23",
+            "adr": "+14\n+9\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "25\n13\n12",
+            "fk": "210\n273\n164",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "260",
+            "name": "eva",
+            "team": "BBL Queens"
+          },
+          {
+            "acs": "1.21\n0.96\n1.40",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "144\n142\n146",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "227",
+            "name": "minemosynE",
+            "team": "BBL Queens"
+          },
+          {
+            "acs": "1.12\n1.14\n1.11",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "137\n108\n158",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "258",
+            "name": "Vania",
+            "team": "BBL Queens"
+          },
+          {
+            "acs": "0.92\n0.83\n0.98",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "94\n71\n111",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "14\n13\n1",
+            "kills": "186",
+            "name": "bitterzie",
+            "team": "BBL Queens"
+          },
+          {
+            "acs": "0.82\n1.07\n0.64",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "135\n159\n117",
+            "hs%": "57%\n44%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "154",
+            "name": "Banshee",
+            "team": "BBL Queens"
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n1.50\n1.11",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "167\n202\n121",
+            "hs%": "90%\n92%\n89%",
+            "kdr": "4\n2\n2",
+            "kills": "207",
+            "name": "alkyia",
+            "team": "Be\u015fikta\u015f Esports Female"
+          },
+          {
+            "acs": "1.06\n1.26\n0.80",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "151\n182\n111",
+            "hs%": "57%\n67%\n44%",
+            "kdr": "4\n1\n3",
+            "kills": "192",
+            "name": "xenia",
+            "team": "Be\u015fikta\u015f Esports Female"
+          },
+          {
+            "acs": "0.75\n0.68\n0.85",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "97\n72\n132",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "8\n6\n2",
+            "kills": "187",
+            "name": "Narcius",
+            "team": "Be\u015fikta\u015f Esports Female"
+          },
+          {
+            "acs": "0.67\n0.72\n0.59",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "124\n115\n136",
+            "hs%": "57%\n42%\n78%",
+            "kdr": "2\n1\n1",
+            "kills": "192",
+            "name": "Jiex",
+            "team": "Be\u015fikta\u015f Esports Female"
+          },
+          {
+            "acs": "0.47\n0.24\n0.78",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "58\n28\n97",
+            "hs%": "71%\n58%\n89%",
+            "kdr": "6\n3\n3",
+            "kills": "174",
+            "name": "Asia",
+            "team": "Be\u015fikta\u015f Esports Female"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 91177,
+  "teams": [
+    "BBL Queens",
+    "Be\u015fikta\u015f Esports Female"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tQuarterfinals"
+}

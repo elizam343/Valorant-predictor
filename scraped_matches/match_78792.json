@@ -1,0 +1,594 @@
+{
+  "date": "2022-03-25 18:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "280",
+          "name": "Tacolilla",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "251",
+          "name": "adverso",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "192",
+          "name": "Melser",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "229",
+          "name": "kiNgg",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "140",
+          "name": "vaiZ",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "225",
+          "name": "HellFull",
+          "team": "FUSION"
+        },
+        {
+          "kills": "217",
+          "name": "Danielesflo",
+          "team": "FUSION"
+        },
+        {
+          "kills": "184",
+          "name": "Wyz",
+          "team": "FUSION"
+        },
+        {
+          "kills": "126",
+          "name": "AztKk",
+          "team": "FUSION"
+        },
+        {
+          "kills": "108",
+          "name": "solution",
+          "team": "FUSION"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.98\n1.09",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "177\n202\n158",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "280",
+            "name": "Tacolilla",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "1.43\n0.82\n1.88",
+            "adr": "+9\n-1\n+10",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "162\n84\n220",
+            "hs%": "81%\n67%\n92%",
+            "kdr": "8\n3\n5",
+            "kills": "251",
+            "name": "adverso",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "1.21\n1.01\n1.36",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "129\n120\n135",
+            "hs%": "90%\n78%\n100%",
+            "kdr": "11\n4\n7",
+            "kills": "192",
+            "name": "Melser",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "1.05\n0.83\n1.21",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "148\n70\n207",
+            "hs%": "71%\n56%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "229",
+            "name": "kiNgg",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.92\n1.29\n0.65",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "96\n155\n52",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "140",
+            "name": "vaiZ",
+            "team": "LEVIAT\u00c1N"
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n1.46\n0.89",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "134\n154\n107",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "225",
+            "name": "HellFull",
+            "team": "FUSION"
+          },
+          {
+            "acs": "1.00\n1.03\n0.96",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "145\n125\n172",
+            "hs%": "62%\n75%\n44%",
+            "kdr": "7\n7\n0",
+            "kills": "217",
+            "name": "Danielesflo",
+            "team": "FUSION"
+          },
+          {
+            "acs": "0.76\n0.99\n0.46",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "114\n123\n102",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "184",
+            "name": "Wyz",
+            "team": "FUSION"
+          },
+          {
+            "acs": "0.50\n0.37\n0.67",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "87\n84\n91",
+            "hs%": "62%\n50%\n78%",
+            "kdr": "8\n4\n4",
+            "kills": "126",
+            "name": "AztKk",
+            "team": "FUSION"
+          },
+          {
+            "acs": "0.49\n0.16\n0.94",
+            "adr": "-11\n-10\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "85\n64\n113",
+            "hs%": "57%\n58%\n56%",
+            "kdr": "5\n3\n2",
+            "kills": "108",
+            "name": "solution",
+            "team": "FUSION"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "161",
+          "name": "adverso",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "Melser",
+          "team": null
+        },
+        {
+          "kills": "260",
+          "name": "vaiZ",
+          "team": null
+        },
+        {
+          "kills": "295",
+          "name": "Tacolilla",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "kiNgg",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "Wyz",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "HellFull",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "Danielesflo",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "solution",
+          "team": null
+        },
+        {
+          "kills": "103",
+          "name": "AztKk",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.90\n1.62\n1.32",
+            "adr": "+14\n+1\n+13",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "35\n10\n25",
+            "fk": "154\n98\n194",
+            "hs%": "76%\n65%\n83%",
+            "kdr": "13\n4\n9",
+            "kills": "161",
+            "name": "adverso",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.40\n1.29",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "29\n11\n18",
+            "fk": "117\n112\n121",
+            "hs%": "80%\n76%\n83%",
+            "kdr": "17\n7\n10",
+            "kills": "183",
+            "name": "Melser",
+            "team": null
+          },
+          {
+            "acs": "1.46\n1.09\n1.24",
+            "adr": "+11\n+9\n+2",
+            "agent": "",
+            "assists": "/\n\n22\n8\n14\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "147\n170\n130",
+            "hs%": "78%\n88%\n71%",
+            "kdr": "6\n2\n4",
+            "kills": "260",
+            "name": "vaiZ",
+            "team": null
+          },
+          {
+            "acs": "1.72\n0.89\n1.24",
+            "adr": "+10\n+10\n0",
+            "agent": "",
+            "assists": "/\n\n24\n8\n16\n\n/",
+            "deaths": "34\n18\n16",
+            "fk": "150\n182\n128",
+            "hs%": "71%\n82%\n63%",
+            "kdr": "8\n3\n5",
+            "kills": "295",
+            "name": "Tacolilla",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.21\n1.14",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n26\n10\n16\n\n/",
+            "deaths": "32\n10\n22",
+            "fk": "149\n99\n185",
+            "hs%": "76%\n65%\n83%",
+            "kdr": "13\n4\n9",
+            "kills": "162",
+            "name": "kiNgg",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.03\n0.67\n0.88",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n33\n18\n15\n\n/",
+            "deaths": "31\n20\n11",
+            "fk": "127\n138\n112",
+            "hs%": "56%\n54%\n59%",
+            "kdr": "4\n2\n2",
+            "kills": "227",
+            "name": "Wyz",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.71\n0.83",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n32\n19\n13\n\n/",
+            "deaths": "25\n16\n9",
+            "fk": "100\n108\n87",
+            "hs%": "61%\n58%\n65%",
+            "kdr": "3\n3\n0",
+            "kills": "185",
+            "name": "HellFull",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.70\n0.79",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n30\n17\n13\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "111\n105\n120",
+            "hs%": "61%\n67%\n53%",
+            "kdr": "14\n13\n1",
+            "kills": "161",
+            "name": "Danielesflo",
+            "team": null
+          },
+          {
+            "acs": "0.66\n0.89\n0.76",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n34\n22\n12\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "128\n131\n123",
+            "hs%": "59%\n63%\n53%",
+            "kdr": "8\n4\n4",
+            "kills": "201",
+            "name": "solution",
+            "team": null
+          },
+          {
+            "acs": "0.41\n0.58\n0.48",
+            "adr": "-21\n-14\n-7",
+            "agent": "",
+            "assists": "/\n\n34\n21\n13\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "75\n68\n86",
+            "hs%": "59%\n58%\n59%",
+            "kdr": "21\n12\n9",
+            "kills": "103",
+            "name": "AztKk",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "304",
+          "name": "vaiZ",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "203",
+          "name": "Melser",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "227",
+          "name": "kiNgg",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "252",
+          "name": "adverso",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "146",
+          "name": "Tacolilla",
+          "team": "LEVIAT\u00c1N"
+        },
+        {
+          "kills": "162",
+          "name": "solution",
+          "team": "FUSION"
+        },
+        {
+          "kills": "212",
+          "name": "Wyz",
+          "team": "FUSION"
+        },
+        {
+          "kills": "82",
+          "name": "Danielesflo",
+          "team": "FUSION"
+        },
+        {
+          "kills": "109",
+          "name": "AztKk",
+          "team": "FUSION"
+        },
+        {
+          "kills": "120",
+          "name": "HellFull",
+          "team": "FUSION"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.58\n1.66\n1.53",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "199\n187\n208",
+            "hs%": "85%\n100%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "304",
+            "name": "vaiZ",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "1.38\n1.29\n1.44",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "105\n103\n106",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "203",
+            "name": "Melser",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "1.23\n1.25\n1.21",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "150\n131\n162",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "227",
+            "name": "kiNgg",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "1.22\n0.98\n1.37",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "147\n114\n169",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "252",
+            "name": "adverso",
+            "team": "LEVIAT\u00c1N"
+          },
+          {
+            "acs": "0.99\n1.43\n0.70",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "122\n159\n97",
+            "hs%": "65%\n75%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "146",
+            "name": "Tacolilla",
+            "team": "LEVIAT\u00c1N"
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n1.17\n0.84",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "173\n198\n135",
+            "hs%": "60%\n67%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "162",
+            "name": "solution",
+            "team": "FUSION"
+          },
+          {
+            "acs": "1.00\n1.07\n0.90",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "141\n153\n125",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "212",
+            "name": "Wyz",
+            "team": "FUSION"
+          },
+          {
+            "acs": "0.57\n0.67\n0.41",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "75\n85\n60",
+            "hs%": "60%\n58%\n63%",
+            "kdr": "7\n6\n1",
+            "kills": "82",
+            "name": "Danielesflo",
+            "team": "FUSION"
+          },
+          {
+            "acs": "0.47\n0.46\n0.48",
+            "adr": "-12\n-7\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "64\n52\n81",
+            "hs%": "55%\n67%\n38%",
+            "kdr": "13\n8\n5",
+            "kills": "109",
+            "name": "AztKk",
+            "team": "FUSION"
+          },
+          {
+            "acs": "0.43\n0.38\n0.51",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "64\n63\n65",
+            "hs%": "55%\n50%\n63%",
+            "kdr": "0\n0\n0",
+            "kills": "120",
+            "name": "HellFull",
+            "team": "FUSION"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 78792,
+  "teams": [
+    "FUSION",
+    "LEVIAT\u00c1N"
+  ],
+  "tournament": "Regional Finals: \n\t\t\t\t\t\tUpper Bracket Quarterfinals"
+}

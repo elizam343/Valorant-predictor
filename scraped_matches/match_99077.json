@@ -1,0 +1,788 @@
+{
+  "date": "2022-05-29 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "206",
+          "name": "tuyz",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "178",
+          "name": "ryotzz",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "154",
+          "name": "matheuzin",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "216",
+          "name": "kon4n",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "165",
+          "name": "lukzera",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "223",
+          "name": "v1xen",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "200",
+          "name": "cauanzin",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "209",
+          "name": "Jonn",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "250",
+          "name": "bezn1",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "175",
+          "name": "xand",
+          "team": "Ninjas In Pyjamas"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.00\n1.22\n0.68",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "120\n143\n84",
+            "hs%": "65%\n75%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "206",
+            "name": "tuyz",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "0.96\n1.03\n0.86",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "123\n126\n119",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "8\n6\n2",
+            "kills": "178",
+            "name": "ryotzz",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "0.84\n0.74\n0.99",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "93\n46\n164",
+            "hs%": "75%\n58%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "154",
+            "name": "matheuzin",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "0.75\n0.84\n0.61",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "156\n163\n146",
+            "hs%": "45%\n42%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "216",
+            "name": "kon4n",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "0.65\n0.99\n0.14",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "109\n132\n74",
+            "hs%": "50%\n67%\n25%",
+            "kdr": "4\n3\n1",
+            "kills": "165",
+            "name": "lukzera",
+            "team": "TBK Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.40\n1.92\n1.05",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n9\n2\n7\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "147\n178\n126",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "223",
+            "name": "v1xen",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.33\n1.17\n1.43",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "127\n108\n139",
+            "hs%": "80%\n88%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "200",
+            "name": "cauanzin",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.20\n1.51\n0.99",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "127\n155\n108",
+            "hs%": "80%\n100%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "209",
+            "name": "Jonn",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.19\n1.31\n1.11",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "165\n193\n146",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "5\n0\n5",
+            "kills": "250",
+            "name": "bezn1",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "0.55\n0.39\n0.65",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "115\n136\n101",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "175",
+            "name": "xand",
+            "team": "Ninjas In Pyjamas"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "213",
+          "name": "matheuzin",
+          "team": null
+        },
+        {
+          "kills": "259",
+          "name": "kon4n",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "ryotzz",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "lukzera",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "tuyz",
+          "team": null
+        },
+        {
+          "kills": "244",
+          "name": "Jonn",
+          "team": null
+        },
+        {
+          "kills": "251",
+          "name": "bezn1",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "v1xen",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "cauanzin",
+          "team": null
+        },
+        {
+          "kills": "203",
+          "name": "xand",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.00\n1.08",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "51\n26\n25",
+            "fk": "140\n131\n150",
+            "hs%": "75%\n72%\n79%",
+            "kdr": "21\n11\n10",
+            "kills": "213",
+            "name": "matheuzin",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.72\n0.95",
+            "adr": "-4\n+7\n-11",
+            "agent": "",
+            "assists": "/\n\n53\n24\n29\n\n/",
+            "deaths": "49\n31\n18",
+            "fk": "145\n174\n113",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "19\n11\n8",
+            "kills": "259",
+            "name": "kon4n",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.97\n0.92",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n50\n26\n24\n\n/",
+            "deaths": "39\n19\n20",
+            "fk": "120\n106\n135",
+            "hs%": "72%\n72%\n73%",
+            "kdr": "30\n19\n11",
+            "kills": "156",
+            "name": "ryotzz",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.87\n0.89",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n55\n28\n27\n\n/",
+            "deaths": "51\n29\n22",
+            "fk": "123\n129\n116",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "16\n7\n9",
+            "kills": "209",
+            "name": "lukzera",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.98\n0.84",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n53\n29\n24\n\n/",
+            "deaths": "44\n20\n24",
+            "fk": "116\n107\n126",
+            "hs%": "68%\n69%\n67%",
+            "kdr": "8\n6\n2",
+            "kills": "165",
+            "name": "tuyz",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n0.99\n1.13",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n45\n21\n24\n\n/",
+            "deaths": "53\n30\n23",
+            "fk": "138\n162\n117",
+            "hs%": "86%\n94%\n78%",
+            "kdr": "19\n11\n8",
+            "kills": "244",
+            "name": "Jonn",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.11\n1.12",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "55\n30\n25",
+            "fk": "157\n167\n148",
+            "hs%": "78%\n79%\n78%",
+            "kdr": "22\n9\n13",
+            "kills": "251",
+            "name": "bezn1",
+            "team": null
+          },
+          {
+            "acs": "1.12\n1.00\n1.06",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n43\n18\n25\n\n/",
+            "deaths": "47\n22\n25",
+            "fk": "118\n115\n122",
+            "hs%": "77%\n76%\n78%",
+            "kdr": "25\n16\n9",
+            "kills": "189",
+            "name": "v1xen",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.02\n1.06",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n46\n22\n24\n\n/",
+            "deaths": "50\n24\n26",
+            "fk": "138\n132\n142",
+            "hs%": "80%\n85%\n75%",
+            "kdr": "21\n16\n5",
+            "kills": "209",
+            "name": "cauanzin",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.09\n0.94",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n53\n26\n27\n\n/",
+            "deaths": "54\n26\n28",
+            "fk": "150\n138\n161",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "15\n7\n8",
+            "kills": "203",
+            "name": "xand",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "277",
+          "name": "matheuzin",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "257",
+          "name": "ryotzz",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "154",
+          "name": "lukzera",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "295",
+          "name": "tuyz",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "86",
+          "name": "kon4n",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "232",
+          "name": "bezn1",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "247",
+          "name": "xand",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "182",
+          "name": "v1xen",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "165",
+          "name": "Jonn",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "178",
+          "name": "cauanzin",
+          "team": "Ninjas In Pyjamas"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.19\n1.17\n1.20",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "171\n164\n178",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "8\n3\n5",
+            "kills": "277",
+            "name": "matheuzin",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "1.18\n1.12\n1.25",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "153\n121\n185",
+            "hs%": "85%\n85%\n85%",
+            "kdr": "16\n10\n6",
+            "kills": "257",
+            "name": "ryotzz",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "1.02\n1.19\n0.86",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "135\n170\n100",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "6\n3\n3",
+            "kills": "154",
+            "name": "lukzera",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "0.93\n0.57\n1.30",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "126\n83\n170",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "5\n4\n1",
+            "kills": "295",
+            "name": "tuyz",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "0.91\n1.44\n0.39",
+            "adr": "-2\n+6\n-8",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "113\n174\n51",
+            "hs%": "73%\n85%\n62%",
+            "kdr": "12\n7\n5",
+            "kills": "86",
+            "name": "kon4n",
+            "team": "TBK Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.11\n1.32",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "170\n172\n168",
+            "hs%": "81%\n85%\n77%",
+            "kdr": "10\n5\n5",
+            "kills": "232",
+            "name": "bezn1",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.17\n1.38\n0.95",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "25\n16\n9",
+            "fk": "177\n200\n154",
+            "hs%": "77%\n77%\n77%",
+            "kdr": "6\n3\n3",
+            "kills": "247",
+            "name": "xand",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "0.89\n0.92\n0.86",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "116\n118\n113",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "12\n9\n3",
+            "kills": "182",
+            "name": "v1xen",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "0.88\n1.00\n0.76",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "101\n105\n97",
+            "hs%": "85%\n92%\n77%",
+            "kdr": "11\n8\n3",
+            "kills": "165",
+            "name": "Jonn",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "0.80\n0.86\n0.75",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "128\n126\n129",
+            "hs%": "73%\n85%\n62%",
+            "kdr": "7\n6\n1",
+            "kills": "178",
+            "name": "cauanzin",
+            "team": "Ninjas In Pyjamas"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "259",
+          "name": "kon4n",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "228",
+          "name": "matheuzin",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "219",
+          "name": "lukzera",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "116",
+          "name": "ryotzz",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "144",
+          "name": "tuyz",
+          "team": "TBK Esports"
+        },
+        {
+          "kills": "271",
+          "name": "Jonn",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "221",
+          "name": "cauanzin",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "213",
+          "name": "xand",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "209",
+          "name": "bezn1",
+          "team": "Ninjas In Pyjamas"
+        },
+        {
+          "kills": "167",
+          "name": "v1xen",
+          "team": "Ninjas In Pyjamas"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.21\n1.14",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "171\n185\n158",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "259",
+            "name": "kon4n",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "1.17\n1.60\n0.78",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "147\n185\n112",
+            "hs%": "70%\n82%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "228",
+            "name": "matheuzin",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "0.96\n0.52\n1.37",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "121\n78\n161",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "219",
+            "name": "lukzera",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "0.59\n0.43\n0.74",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "80\n67\n92",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "116",
+            "name": "ryotzz",
+            "team": "TBK Esports"
+          },
+          {
+            "acs": "0.59\n0.32\n0.84",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "101\n95\n107",
+            "hs%": "57%\n55%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "144",
+            "name": "tuyz",
+            "team": "TBK Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.36\n1.45\n1.27",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "190\n228\n149",
+            "hs%": "91%\n92%\n91%",
+            "kdr": "4\n1\n3",
+            "kills": "271",
+            "name": "Jonn",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.13\n1.34\n0.90",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "158\n155\n161",
+            "hs%": "87%\n83%\n91%",
+            "kdr": "8\n5\n3",
+            "kills": "221",
+            "name": "cauanzin",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "1.03\n0.41\n1.71",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "149\n71\n235",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "2\n1\n1",
+            "kills": "213",
+            "name": "xand",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "0.97\n1.07\n0.86",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "136\n144\n127",
+            "hs%": "83%\n75%\n91%",
+            "kdr": "7\n4\n3",
+            "kills": "209",
+            "name": "bezn1",
+            "team": "Ninjas In Pyjamas"
+          },
+          {
+            "acs": "0.96\n0.81\n1.12",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "97\n70\n127",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "7\n4\n3",
+            "kills": "167",
+            "name": "v1xen",
+            "team": "Ninjas In Pyjamas"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 99077,
+  "teams": [
+    "TBK Esports",
+    "Ninjas In Pyjamas"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tWeek 3"
+}

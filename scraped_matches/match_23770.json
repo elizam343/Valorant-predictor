@@ -1,0 +1,788 @@
+{
+  "date": "2021-06-28 13:00:02",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "221",
+          "name": "ch1wie",
+          "team": "miks"
+        },
+        {
+          "kills": "267",
+          "name": "tatzuki",
+          "team": "miks"
+        },
+        {
+          "kills": "147",
+          "name": "pakko",
+          "team": "miks"
+        },
+        {
+          "kills": "191",
+          "name": "Prti",
+          "team": "miks"
+        },
+        {
+          "kills": "150",
+          "name": "k1Ng0r",
+          "team": "miks"
+        },
+        {
+          "kills": "183",
+          "name": "euanval",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "279",
+          "name": "DcTzR",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "207",
+          "name": "Viscern",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "249",
+          "name": "Alex",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "181",
+          "name": "HulkzteN",
+          "team": "The Goose House"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.02\n1.38\n0.55",
+            "adr": "-1\n+4\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "148\n174\n112",
+            "hs%": "67%\n83%\n44%",
+            "kdr": "5\n4\n1",
+            "kills": "221",
+            "name": "ch1wie",
+            "team": "miks"
+          },
+          {
+            "acs": "1.02\n1.26\n0.70",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "153\n200\n91",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "3\n0\n3",
+            "kills": "267",
+            "name": "tatzuki",
+            "team": "miks"
+          },
+          {
+            "acs": "0.81\n0.79\n0.84",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "110\n93\n133",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "5\n2\n3",
+            "kills": "147",
+            "name": "pakko",
+            "team": "miks"
+          },
+          {
+            "acs": "0.78\n0.84\n0.69",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "106\n92\n125",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "6\n2\n4",
+            "kills": "191",
+            "name": "Prti",
+            "team": "miks"
+          },
+          {
+            "acs": "0.61\n0.46\n0.80",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "85\n59\n119",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "1\n0\n1",
+            "kills": "150",
+            "name": "k1Ng0r",
+            "team": "miks"
+          }
+        ],
+        [
+          {
+            "acs": "1.36\n1.84\n1.00",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "102\n141\n73",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "183",
+            "name": "euanval",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "1.20\n1.30\n1.12",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "165\n188\n149",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "279",
+            "name": "DcTzR",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "1.02\n0.49\n1.41",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "126\n59\n176",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "207",
+            "name": "Viscern",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "1.01\n0.84\n1.14",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "148\n60\n214",
+            "hs%": "71%\n89%\n58%",
+            "kdr": "8\n5\n3",
+            "kills": "249",
+            "name": "Alex",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "0.99\n1.75\n0.42",
+            "adr": "0\n+6\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "126\n214\n60",
+            "hs%": "71%\n89%\n58%",
+            "kdr": "10\n6\n4",
+            "kills": "181",
+            "name": "HulkzteN",
+            "team": "The Goose House"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "299",
+          "name": "tatzuki",
+          "team": null
+        },
+        {
+          "kills": "146",
+          "name": "Prti",
+          "team": null
+        },
+        {
+          "kills": "244",
+          "name": "k1Ng0r",
+          "team": null
+        },
+        {
+          "kills": "279",
+          "name": "ch1wie",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "pakko",
+          "team": null
+        },
+        {
+          "kills": "231",
+          "name": "euanval",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "Viscern",
+          "team": null
+        },
+        {
+          "kills": "230",
+          "name": "HulkzteN",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "Alex",
+          "team": null
+        },
+        {
+          "kills": "302",
+          "name": "DcTzR",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.28\n0.91\n1.13",
+            "adr": "+15\n+16\n-1",
+            "agent": "",
+            "assists": "/\n\n41\n22\n19\n\n/",
+            "deaths": "56\n38\n18",
+            "fk": "150\n174\n115",
+            "hs%": "76%\n74%\n79%",
+            "kdr": "7\n1\n6",
+            "kills": "299",
+            "name": "tatzuki",
+            "team": null
+          },
+          {
+            "acs": "0.83\n1.55\n1.13",
+            "adr": "+9\n-1\n+10",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "43\n18\n25",
+            "fk": "136\n94\n196",
+            "hs%": "83%\n79%\n88%",
+            "kdr": "23\n13\n10",
+            "kills": "146",
+            "name": "Prti",
+            "team": null
+          },
+          {
+            "acs": "1.24\n0.96\n1.12",
+            "adr": "+11\n+10\n+1",
+            "agent": "",
+            "assists": "/\n\n41\n22\n19\n\n/",
+            "deaths": "52\n32\n20",
+            "fk": "135\n148\n116",
+            "hs%": "74%\n76%\n71%",
+            "kdr": "7\n4\n3",
+            "kills": "244",
+            "name": "k1Ng0r",
+            "team": null
+          },
+          {
+            "acs": "1.34\n0.65\n1.05",
+            "adr": "+5\n+13\n-8",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "46\n33\n13",
+            "fk": "148\n171\n116",
+            "hs%": "71%\n76%\n63%",
+            "kdr": "17\n10\n7",
+            "kills": "279",
+            "name": "ch1wie",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.92\n1.01",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n35\n18\n17\n\n/",
+            "deaths": "37\n22\n15",
+            "fk": "111\n112\n109",
+            "hs%": "76%\n76%\n75%",
+            "kdr": "19\n7\n12",
+            "kills": "173",
+            "name": "pakko",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.38\n0.92\n1.11",
+            "adr": "0\n+7\n-7",
+            "agent": "",
+            "assists": "/\n\n38\n14\n24\n\n/",
+            "deaths": "38\n21\n17",
+            "fk": "120\n127\n115",
+            "hs%": "71%\n92%\n56%",
+            "kdr": "17\n9\n8",
+            "kills": "231",
+            "name": "euanval",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.01\n0.90",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n47\n19\n28\n\n/",
+            "deaths": "41\n15\n26",
+            "fk": "131\n111\n145",
+            "hs%": "57%\n67%\n50%",
+            "kdr": "8\n5\n3",
+            "kills": "171",
+            "name": "Viscern",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.70\n0.88",
+            "adr": "-6\n+3\n-9",
+            "agent": "",
+            "assists": "/\n\n45\n18\n27\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "124\n156\n101",
+            "hs%": "64%\n79%\n53%",
+            "kdr": "13\n8\n5",
+            "kills": "230",
+            "name": "HulkzteN",
+            "team": null
+          },
+          {
+            "acs": "0.66\n0.78\n0.73",
+            "adr": "-19\n-8\n-11",
+            "agent": "",
+            "assists": "/\n\n51\n19\n32\n\n/",
+            "deaths": "32\n11\n21",
+            "fk": "111\n74\n137",
+            "hs%": "59%\n71%\n50%",
+            "kdr": "24\n16\n8",
+            "kills": "129",
+            "name": "Alex",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.58\n0.73",
+            "adr": "-11\n+3\n-14",
+            "agent": "",
+            "assists": "/\n\n53\n22\n31\n\n/",
+            "deaths": "42\n25\n17",
+            "fk": "136\n159\n119",
+            "hs%": "62%\n71%\n56%",
+            "kdr": "10\n4\n6",
+            "kills": "302",
+            "name": "DcTzR",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "350",
+          "name": "Prti",
+          "team": "miks"
+        },
+        {
+          "kills": "205",
+          "name": "k1Ng0r",
+          "team": "miks"
+        },
+        {
+          "kills": "225",
+          "name": "tatzuki",
+          "team": "miks"
+        },
+        {
+          "kills": "172",
+          "name": "pakko",
+          "team": "miks"
+        },
+        {
+          "kills": "188",
+          "name": "ch1wie",
+          "team": "miks"
+        },
+        {
+          "kills": "191",
+          "name": "euanval",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "214",
+          "name": "Viscern",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "266",
+          "name": "HulkzteN",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "215",
+          "name": "Alex",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "86",
+          "name": "DcTzR",
+          "team": "The Goose House"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.36\n0.84\n1.79",
+            "adr": "+9\n+1\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "172\n79\n250",
+            "hs%": "91%\n100%\n83%",
+            "kdr": "11\n7\n4",
+            "kills": "350",
+            "name": "Prti",
+            "team": "miks"
+          },
+          {
+            "acs": "1.33\n1.86\n0.89",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "169\n214\n132",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "205",
+            "name": "k1Ng0r",
+            "team": "miks"
+          },
+          {
+            "acs": "1.22\n1.21\n1.22",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "145\n146\n144",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "225",
+            "name": "tatzuki",
+            "team": "miks"
+          },
+          {
+            "acs": "0.87\n0.89\n0.86",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "96\n91\n100",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "7\n1\n6",
+            "kills": "172",
+            "name": "pakko",
+            "team": "miks"
+          },
+          {
+            "acs": "0.85\n1.02\n0.71",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "122\n125\n119",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "188",
+            "name": "ch1wie",
+            "team": "miks"
+          }
+        ],
+        [
+          {
+            "acs": "1.15\n1.26\n1.01",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "139\n129\n152",
+            "hs%": "86%\n100%\n70%",
+            "kdr": "13\n6\n7",
+            "kills": "191",
+            "name": "euanval",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "1.07\n1.11\n1.03",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "162\n165\n158",
+            "hs%": "59%\n67%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "214",
+            "name": "Viscern",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "1.03\n0.93\n1.14",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "139\n133\n146",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "2\n1\n1",
+            "kills": "266",
+            "name": "HulkzteN",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "0.72\n0.67\n0.78",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "117\n98\n139",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "16\n11\n5",
+            "kills": "215",
+            "name": "Alex",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "0.38\n0.67\n0.04",
+            "adr": "-10\n-2\n-8",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "110\n151\n60",
+            "hs%": "55%\n58%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "86",
+            "name": "DcTzR",
+            "team": "The Goose House"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "277",
+          "name": "k1Ng0r",
+          "team": "miks"
+        },
+        {
+          "kills": "236",
+          "name": "pakko",
+          "team": "miks"
+        },
+        {
+          "kills": "302",
+          "name": "ch1wie",
+          "team": "miks"
+        },
+        {
+          "kills": "205",
+          "name": "Prti",
+          "team": "miks"
+        },
+        {
+          "kills": "252",
+          "name": "tatzuki",
+          "team": "miks"
+        },
+        {
+          "kills": "195",
+          "name": "euanval",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "210",
+          "name": "DcTzR",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "160",
+          "name": "Viscern",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "155",
+          "name": "HulkzteN",
+          "team": "The Goose House"
+        },
+        {
+          "kills": "82",
+          "name": "Alex",
+          "team": "The Goose House"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.54\n1.50\n1.69",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "153\n180\n45",
+            "hs%": "73%\n67%\n100%",
+            "kdr": "0\n0\n0",
+            "kills": "277",
+            "name": "k1Ng0r",
+            "team": "miks"
+          },
+          {
+            "acs": "1.49\n1.52\n1.38",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n5\n4\n1\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "133\n149\n69",
+            "hs%": "87%\n83%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "236",
+            "name": "pakko",
+            "team": "miks"
+          },
+          {
+            "acs": "1.39\n1.56\n0.74",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "188\n206\n119",
+            "hs%": "80%\n75%\n100%",
+            "kdr": "5\n3\n2",
+            "kills": "302",
+            "name": "ch1wie",
+            "team": "miks"
+          },
+          {
+            "acs": "1.29\n0.82\n3.15",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n7\n0\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "124\n108\n192",
+            "hs%": "67%\n58%\n100%",
+            "kdr": "6\n4\n2",
+            "kills": "205",
+            "name": "Prti",
+            "team": "miks"
+          },
+          {
+            "acs": "1.14\n1.36\n0.29",
+            "adr": "+6\n+7\n-1",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "151\n172\n69",
+            "hs%": "67%\n75%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "252",
+            "name": "tatzuki",
+            "team": "miks"
+          }
+        ],
+        [
+          {
+            "acs": "0.70\n0.46\n0.76",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "117\n76\n127",
+            "hs%": "40%\n67%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "195",
+            "name": "euanval",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "0.58\n0.92\n0.50",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "132\n107\n138",
+            "hs%": "53%\n100%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "210",
+            "name": "DcTzR",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "0.50\n0.08\n0.60",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "93\n55\n103",
+            "hs%": "40%\n33%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "160",
+            "name": "Viscern",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "0.50\n0.04\n0.62",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "98\n69\n106",
+            "hs%": "47%\n67%\n42%",
+            "kdr": "1\n1\n0",
+            "kills": "155",
+            "name": "HulkzteN",
+            "team": "The Goose House"
+          },
+          {
+            "acs": "0.36\n0.08\n0.43",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "51\n16\n60",
+            "hs%": "33%\n67%\n25%",
+            "kdr": "0\n0\n0",
+            "kills": "82",
+            "name": "Alex",
+            "team": "The Goose House"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 23770,
+  "teams": [
+    "The Goose House",
+    "miks"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 256"
+}

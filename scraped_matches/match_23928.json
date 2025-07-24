@@ -1,0 +1,594 @@
+{
+  "date": "2021-07-01 17:00:22",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "358",
+          "name": "curry",
+          "team": "T1"
+        },
+        {
+          "kills": "194",
+          "name": "brax",
+          "team": "T1"
+        },
+        {
+          "kills": "223",
+          "name": "autimatic",
+          "team": "T1"
+        },
+        {
+          "kills": "186",
+          "name": "Skadoodle",
+          "team": "T1"
+        },
+        {
+          "kills": "154",
+          "name": "dawn",
+          "team": "T1"
+        },
+        {
+          "kills": "204",
+          "name": "Piejacked",
+          "team": "Dark Matter Purple"
+        },
+        {
+          "kills": "129",
+          "name": "chqse",
+          "team": "Dark Matter Purple"
+        },
+        {
+          "kills": "187",
+          "name": "corvo",
+          "team": "Dark Matter Purple"
+        },
+        {
+          "kills": "109",
+          "name": "Musty",
+          "team": "Dark Matter Purple"
+        },
+        {
+          "kills": "143",
+          "name": "chris breezy",
+          "team": "Dark Matter Purple"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.62\n1.49\n1.88",
+            "adr": "+15\n+8\n+7",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "24\n15\n9",
+            "fk": "172\n183\n150",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "358",
+            "name": "curry",
+            "team": "T1"
+          },
+          {
+            "acs": "1.41\n1.20\n1.84",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n6\n5\n1\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "138\n141\n133",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "4\n3\n1",
+            "kills": "194",
+            "name": "brax",
+            "team": "T1"
+          },
+          {
+            "acs": "1.15\n0.81\n1.82",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "137\n110\n191",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "223",
+            "name": "autimatic",
+            "team": "T1"
+          },
+          {
+            "acs": "1.08\n1.09\n1.07",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "107\n122\n77",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "186",
+            "name": "Skadoodle",
+            "team": "T1"
+          },
+          {
+            "acs": "0.92\n1.17\n0.41",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "10\n10\n0",
+            "fk": "96\n132\n24",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "154",
+            "name": "dawn",
+            "team": "T1"
+          }
+        ],
+        [
+          {
+            "acs": "0.92\n0.30\n1.24",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "124\n57\n158",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "204",
+            "name": "Piejacked",
+            "team": "Dark Matter Purple"
+          },
+          {
+            "acs": "0.71\n0.22\n0.96",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "89\n51\n108",
+            "hs%": "44%\n17%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "129",
+            "name": "chqse",
+            "team": "Dark Matter Purple"
+          },
+          {
+            "acs": "0.62\n0.30\n0.77",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n6\n12\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "119\n80\n139",
+            "hs%": "39%\n33%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "187",
+            "name": "corvo",
+            "team": "Dark Matter Purple"
+          },
+          {
+            "acs": "0.59\n0.30\n0.74",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "85\n51\n102",
+            "hs%": "50%\n17%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "109",
+            "name": "Musty",
+            "team": "Dark Matter Purple"
+          },
+          {
+            "acs": "0.55\n1.07\n0.30",
+            "adr": "-7\n+1\n-8",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "82\n131\n57",
+            "hs%": "56%\n83%\n42%",
+            "kdr": "1\n0\n1",
+            "kills": "143",
+            "name": "chris breezy",
+            "team": "Dark Matter Purple"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "321",
+          "name": "curry",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "brax",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "autimatic",
+          "team": null
+        },
+        {
+          "kills": "240",
+          "name": "dawn",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "Skadoodle",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "Piejacked",
+          "team": null
+        },
+        {
+          "kills": "118",
+          "name": "Musty",
+          "team": null
+        },
+        {
+          "kills": "82",
+          "name": "chqse",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "corvo",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "chris breezy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.48\n1.68\n1.59",
+            "adr": "+23\n+9\n+14",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "40\n17\n23",
+            "fk": "180\n162\n195",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "321",
+            "name": "curry",
+            "team": null
+          },
+          {
+            "acs": "1.14\n1.77\n1.50",
+            "adr": "+16\n+2\n+14",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "28\n9\n19",
+            "fk": "137\n128\n144",
+            "hs%": "81%\n79%\n83%",
+            "kdr": "10\n4\n6",
+            "kills": "193",
+            "name": "brax",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.67\n1.28",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "30\n8\n22",
+            "fk": "162\n109\n203",
+            "hs%": "91%\n86%\n94%",
+            "kdr": "10\n5\n5",
+            "kills": "164",
+            "name": "autimatic",
+            "team": null
+          },
+          {
+            "acs": "1.17\n1.01\n1.08",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "103\n123\n88",
+            "hs%": "88%\n93%\n83%",
+            "kdr": "14\n5\n9",
+            "kills": "240",
+            "name": "dawn",
+            "team": null
+          },
+          {
+            "acs": "1.14\n0.98\n1.05",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "114\n123\n108",
+            "hs%": "78%\n71%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "196",
+            "name": "Skadoodle",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.82\n1.17\n0.97",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n28\n17\n11\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "140\n135\n146",
+            "hs%": "72%\n72%\n71%",
+            "kdr": "3\n1\n2",
+            "kills": "224",
+            "name": "Piejacked",
+            "team": null
+          },
+          {
+            "acs": "0.48\n0.71\n0.58",
+            "adr": "-15\n-10\n-5",
+            "agent": "",
+            "assists": "/\n\n27\n16\n11\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "86\n76\n99",
+            "hs%": "56%\n44%\n71%",
+            "kdr": "10\n6\n4",
+            "kills": "118",
+            "name": "Musty",
+            "team": null
+          },
+          {
+            "acs": "0.27\n0.91\n0.55",
+            "adr": "-13\n-12\n-1",
+            "agent": "",
+            "assists": "/\n\n26\n16\n10\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "78\n64\n97",
+            "hs%": "47%\n33%\n64%",
+            "kdr": "5\n3\n2",
+            "kills": "82",
+            "name": "chqse",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.67\n0.53",
+            "adr": "-14\n-9\n-5",
+            "agent": "",
+            "assists": "/\n\n32\n18\n14\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "113\n105\n124",
+            "hs%": "50%\n56%\n43%",
+            "kdr": "4\n2\n2",
+            "kills": "163",
+            "name": "corvo",
+            "team": null
+          },
+          {
+            "acs": "0.61\n0.40\n0.52",
+            "adr": "-14\n-6\n-8",
+            "agent": "",
+            "assists": "/\n\n30\n18\n12\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "88\n113\n57",
+            "hs%": "53%\n56%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "201",
+            "name": "chris breezy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "241",
+          "name": "brax",
+          "team": "T1"
+        },
+        {
+          "kills": "330",
+          "name": "curry",
+          "team": "T1"
+        },
+        {
+          "kills": "353",
+          "name": "autimatic",
+          "team": "T1"
+        },
+        {
+          "kills": "199",
+          "name": "dawn",
+          "team": "T1"
+        },
+        {
+          "kills": "195",
+          "name": "Skadoodle",
+          "team": "T1"
+        },
+        {
+          "kills": "204",
+          "name": "Piejacked",
+          "team": "Dark Matter Purple"
+        },
+        {
+          "kills": "204",
+          "name": "Musty",
+          "team": "Dark Matter Purple"
+        },
+        {
+          "kills": "243",
+          "name": "chris breezy",
+          "team": "Dark Matter Purple"
+        },
+        {
+          "kills": "183",
+          "name": "corvo",
+          "team": "Dark Matter Purple"
+        },
+        {
+          "kills": "228",
+          "name": "chqse",
+          "team": "Dark Matter Purple"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.60\n0.74\n1.74",
+            "adr": "+9\n0\n+9",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "135\n52\n149",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "241",
+            "name": "brax",
+            "team": "T1"
+          },
+          {
+            "acs": "1.57\n1.48\n1.58",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "192\n39\n217",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "330",
+            "name": "curry",
+            "team": "T1"
+          },
+          {
+            "acs": "1.46\n0.63\n1.59",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "16\n1\n15",
+            "fk": "195\n104\n210",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "353",
+            "name": "autimatic",
+            "team": "T1"
+          },
+          {
+            "acs": "1.28\n1.16\n1.30",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "113\n68\n120",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "8\n0\n8",
+            "kills": "199",
+            "name": "dawn",
+            "team": "T1"
+          },
+          {
+            "acs": "1.01\n1.46\n0.94",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "124\n124\n124",
+            "hs%": "79%\n50%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "195",
+            "name": "Skadoodle",
+            "team": "T1"
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n1.09\n0.75",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "160\n174\n75",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "1\n0\n1",
+            "kills": "204",
+            "name": "Piejacked",
+            "team": "Dark Matter Purple"
+          },
+          {
+            "acs": "0.57\n0.58\n0.51",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "87\n89\n78",
+            "hs%": "64%\n58%\n100%",
+            "kdr": "6\n4\n2",
+            "kills": "204",
+            "name": "Musty",
+            "team": "Dark Matter Purple"
+          },
+          {
+            "acs": "0.47\n0.37\n1.06",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n15\n13\n2\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "97\n103\n57",
+            "hs%": "50%\n42%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "243",
+            "name": "chris breezy",
+            "team": "Dark Matter Purple"
+          },
+          {
+            "acs": "0.42\n0.49\n0.04",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "105\n117\n33",
+            "hs%": "64%\n67%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "183",
+            "name": "corvo",
+            "team": "Dark Matter Purple"
+          },
+          {
+            "acs": "0.35\n0.30\n0.64",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "64\n70\n26",
+            "hs%": "50%\n42%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "228",
+            "name": "chqse",
+            "team": "Dark Matter Purple"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 23928,
+  "teams": [
+    "T1",
+    "Dark Matter Purple"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 128"
+}

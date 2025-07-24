@@ -1,0 +1,788 @@
+{
+  "date": "2022-09-28 20:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "230",
+          "name": "Fractured",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "237",
+          "name": "CHAROD",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "244",
+          "name": "Casblood18",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "245",
+          "name": "Tim",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "157",
+          "name": "Kenji",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "248",
+          "name": "venture",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "232",
+          "name": "b0ssy",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "199",
+          "name": "DENYA",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "200",
+          "name": "Ali",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "152",
+          "name": "mFH",
+          "team": "PUGSTARS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.09\n1.40",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "169\n159\n178",
+            "hs%": "71%\n64%\n79%",
+            "kdr": "1\n0\n1",
+            "kills": "230",
+            "name": "Fractured",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "1.21\n1.65\n0.77",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "25\n15\n10",
+            "fk": "147\n181\n112",
+            "hs%": "71%\n79%\n64%",
+            "kdr": "9\n6\n3",
+            "kills": "237",
+            "name": "CHAROD",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "1.05\n0.76\n1.32",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n21\n11\n10\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "150\n142\n158",
+            "hs%": "82%\n86%\n79%",
+            "kdr": "5\n3\n2",
+            "kills": "244",
+            "name": "Casblood18",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "1.04\n1.23\n0.85",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "161\n186\n136",
+            "hs%": "79%\n86%\n71%",
+            "kdr": "14\n7\n7",
+            "kills": "245",
+            "name": "Tim",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "0.92\n0.99\n0.86",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "98\n108\n89",
+            "hs%": "86%\n86%\n86%",
+            "kdr": "14\n10\n4",
+            "kills": "157",
+            "name": "Kenji",
+            "team": "Lycus Empire"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.19\n1.31",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "189\n189\n188",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "11\n6\n5",
+            "kills": "248",
+            "name": "venture",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "1.10\n1.18\n1.02",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n22\n9\n13\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "149\n130\n168",
+            "hs%": "71%\n64%\n79%",
+            "kdr": "5\n2\n3",
+            "kills": "232",
+            "name": "b0ssy",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "0.89\n0.73\n1.05",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n22\n12\n10\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "128\n120\n137",
+            "hs%": "46%\n43%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "199",
+            "name": "DENYA",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "0.87\n0.95\n0.78",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "124\n126\n122",
+            "hs%": "75%\n64%\n86%",
+            "kdr": "9\n3\n6",
+            "kills": "200",
+            "name": "Ali",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "0.55\n0.61\n0.49",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n24\n11\n13\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "105\n83\n127",
+            "hs%": "68%\n64%\n71%",
+            "kdr": "6\n2\n4",
+            "kills": "152",
+            "name": "mFH",
+            "team": "PUGSTARS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "250",
+          "name": "Fractured",
+          "team": null
+        },
+        {
+          "kills": "186",
+          "name": "Casblood18",
+          "team": null
+        },
+        {
+          "kills": "258",
+          "name": "Tim",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "Kenji",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "CHAROD",
+          "team": null
+        },
+        {
+          "kills": "260",
+          "name": "b0ssy",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "DENYA",
+          "team": null
+        },
+        {
+          "kills": "265",
+          "name": "Ali",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "venture",
+          "team": null
+        },
+        {
+          "kills": "119",
+          "name": "mFH",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.17\n1.16",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n51\n29\n22\n\n/",
+            "deaths": "60\n34\n26",
+            "fk": "159\n156\n162",
+            "hs%": "74%\n71%\n76%",
+            "kdr": "10\n4\n6",
+            "kills": "250",
+            "name": "Fractured",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.24\n1.02",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n57\n30\n27\n\n/",
+            "deaths": "58\n25\n33",
+            "fk": "141\n119\n166",
+            "hs%": "75%\n76%\n74%",
+            "kdr": "19\n10\n9",
+            "kills": "186",
+            "name": "Casblood18",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.78\n0.99",
+            "adr": "-2\n+5\n-7",
+            "agent": "",
+            "assists": "/\n\n57\n29\n28\n\n/",
+            "deaths": "55\n34\n21",
+            "fk": "148\n168\n126",
+            "hs%": "72%\n79%\n65%",
+            "kdr": "28\n16\n12",
+            "kills": "258",
+            "name": "Tim",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.96\n0.93",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "40\n21\n19",
+            "fk": "109\n101\n117",
+            "hs%": "82%\n82%\n82%",
+            "kdr": "36\n22\n14",
+            "kills": "159",
+            "name": "Kenji",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.80\n0.91",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n51\n28\n23\n\n/",
+            "deaths": "47\n26\n21",
+            "fk": "107\n110\n104",
+            "hs%": "67%\n68%\n65%",
+            "kdr": "20\n13\n7",
+            "kills": "177",
+            "name": "CHAROD",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n1.06\n1.20",
+            "adr": "+15\n+10\n+5",
+            "agent": "",
+            "assists": "/\n\n54\n23\n31\n\n/",
+            "deaths": "69\n33\n36",
+            "fk": "170\n157\n182",
+            "hs%": "72%\n74%\n71%",
+            "kdr": "13\n5\n8",
+            "kills": "260",
+            "name": "b0ssy",
+            "team": null
+          },
+          {
+            "acs": "0.84\n1.28\n1.07",
+            "adr": "+7\n-2\n+9",
+            "agent": "",
+            "assists": "/\n\n51\n25\n26\n\n/",
+            "deaths": "58\n23\n35",
+            "fk": "144\n118\n167",
+            "hs%": "61%\n56%\n66%",
+            "kdr": "11\n6\n5",
+            "kills": "187",
+            "name": "DENYA",
+            "team": null
+          },
+          {
+            "acs": "1.30\n0.86\n1.07",
+            "adr": "+6\n+9\n-3",
+            "agent": "",
+            "assists": "/\n\n51\n23\n28\n\n/",
+            "deaths": "57\n32\n25",
+            "fk": "139\n162\n119",
+            "hs%": "72%\n74%\n71%",
+            "kdr": "18\n11\n7",
+            "kills": "265",
+            "name": "Ali",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.02\n0.99",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n51\n25\n26\n\n/",
+            "deaths": "44\n21\n23",
+            "fk": "141\n147\n135",
+            "hs%": "74%\n74%\n74%",
+            "kdr": "29\n15\n14",
+            "kills": "204",
+            "name": "venture",
+            "team": null
+          },
+          {
+            "acs": "0.63\n0.76\n0.70",
+            "adr": "-18\n-11\n-7",
+            "agent": "",
+            "assists": "/\n\n53\n25\n28\n\n/",
+            "deaths": "35\n14\n21",
+            "fk": "89\n67\n109",
+            "hs%": "71%\n68%\n74%",
+            "kdr": "22\n9\n13",
+            "kills": "119",
+            "name": "mFH",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "245",
+          "name": "Fractured",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "292",
+          "name": "Casblood18",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "252",
+          "name": "Tim",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "173",
+          "name": "Kenji",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "120",
+          "name": "CHAROD",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "168",
+          "name": "Ali",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "278",
+          "name": "b0ssy",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "256",
+          "name": "mFH",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "214",
+          "name": "DENYA",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "168",
+          "name": "venture",
+          "team": "PUGSTARS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.46\n1.59\n1.32",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "26\n15\n11",
+            "fk": "171\n178\n165",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "245",
+            "name": "Fractured",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "1.05\n0.75\n1.36",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "137\n83\n190",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "9\n5\n4",
+            "kills": "292",
+            "name": "Casblood18",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "0.97\n1.14\n0.80",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "155\n172\n139",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "252",
+            "name": "Tim",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "0.89\n1.02\n0.76",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "113\n101\n124",
+            "hs%": "88%\n92%\n83%",
+            "kdr": "12\n5\n7",
+            "kills": "173",
+            "name": "Kenji",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "0.64\n0.59\n0.69",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "76\n76\n77",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "10\n7\n3",
+            "kills": "120",
+            "name": "CHAROD",
+            "team": "Lycus Empire"
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n1.62\n0.76",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "155\n208\n103",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "5\n5\n0",
+            "kills": "168",
+            "name": "Ali",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "1.11\n1.19\n1.03",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "174\n142\n207",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "278",
+            "name": "b0ssy",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "0.99\n0.76\n1.22",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "109\n67\n152",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "11\n7\n4",
+            "kills": "256",
+            "name": "mFH",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "0.86\n0.63\n1.09",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "118\n99\n136",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "214",
+            "name": "DENYA",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "0.83\n0.91\n0.74",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "122\n147\n98",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "168",
+            "name": "venture",
+            "team": "PUGSTARS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "178",
+          "name": "Kenji",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "190",
+          "name": "Tim",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "220",
+          "name": "Casblood18",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "135",
+          "name": "CHAROD",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "192",
+          "name": "Fractured",
+          "team": "Lycus Empire"
+        },
+        {
+          "kills": "318",
+          "name": "DENYA",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "321",
+          "name": "b0ssy",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "236",
+          "name": "Ali",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "132",
+          "name": "venture",
+          "team": "PUGSTARS"
+        },
+        {
+          "kills": "85",
+          "name": "mFH",
+          "team": "PUGSTARS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.99\n0.70\n1.43",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "118\n92\n157",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "10\n7\n3",
+            "kills": "178",
+            "name": "Kenji",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "0.94\n1.16\n0.61",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "121\n142\n90",
+            "hs%": "65%\n75%\n50%",
+            "kdr": "8\n5\n3",
+            "kills": "190",
+            "name": "Tim",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "0.94\n0.97\n0.90",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "134\n127\n144",
+            "hs%": "60%\n58%\n63%",
+            "kdr": "5\n2\n3",
+            "kills": "220",
+            "name": "Casblood18",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "0.81\n0.69\n1.00",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "88\n60\n129",
+            "hs%": "55%\n50%\n63%",
+            "kdr": "1\n0\n1",
+            "kills": "135",
+            "name": "CHAROD",
+            "team": "Lycus Empire"
+          },
+          {
+            "acs": "0.69\n0.79\n0.53",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "131\n132\n129",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "192",
+            "name": "Fractured",
+            "team": "Lycus Empire"
+          }
+        ],
+        [
+          {
+            "acs": "1.58\n1.37\n1.72",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "197\n142\n234",
+            "hs%": "85%\n88%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "318",
+            "name": "DENYA",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "1.45\n1.89\n1.15",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "194\n226\n172",
+            "hs%": "80%\n100%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "321",
+            "name": "b0ssy",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "1.21\n1.44\n1.05",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "141\n154\n132",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "236",
+            "name": "Ali",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "0.81\n0.57\n0.97",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "97\n76\n110",
+            "hs%": "75%\n88%\n67%",
+            "kdr": "13\n7\n6",
+            "kills": "132",
+            "name": "venture",
+            "team": "PUGSTARS"
+          },
+          {
+            "acs": "0.56\n0.48\n0.62",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "43\n40\n45",
+            "hs%": "60%\n50%\n67%",
+            "kdr": "5\n0\n5",
+            "kills": "85",
+            "name": "mFH",
+            "team": "PUGSTARS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 147423,
+  "teams": [
+    "PUGSTARS",
+    "Lycus Empire"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 32"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2022-03-31 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "347",
+          "name": "Noia",
+          "team": "XSET"
+        },
+        {
+          "kills": "284",
+          "name": "starriebun",
+          "team": "XSET"
+        },
+        {
+          "kills": "171",
+          "name": "Ellie",
+          "team": "XSET"
+        },
+        {
+          "kills": "174",
+          "name": "Cille",
+          "team": "XSET"
+        },
+        {
+          "kills": "135",
+          "name": "artStar",
+          "team": "XSET"
+        },
+        {
+          "kills": "211",
+          "name": "allegedlyalexa",
+          "team": "Team Kittenz"
+        },
+        {
+          "kills": "200",
+          "name": "cyn",
+          "team": "Team Kittenz"
+        },
+        {
+          "kills": "186",
+          "name": "Krill",
+          "team": "Team Kittenz"
+        },
+        {
+          "kills": "143",
+          "name": "swg",
+          "team": "Team Kittenz"
+        },
+        {
+          "kills": "95",
+          "name": "aniN",
+          "team": "Team Kittenz"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.72\n1.87\n1.47",
+            "adr": "+12\n+9\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "24\n15\n9",
+            "fk": "220\n219\n222",
+            "hs%": "84%\n92%\n71%",
+            "kdr": "4\n4\n0",
+            "kills": "347",
+            "name": "Noia",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.49\n1.82\n0.92",
+            "adr": "+10\n+11\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "20\n16\n4",
+            "fk": "174\n214\n105",
+            "hs%": "74%\n83%\n57%",
+            "kdr": "4\n4\n0",
+            "kills": "284",
+            "name": "starriebun",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.16\n0.96\n1.48",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "115\n84\n167",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "8\n4\n4",
+            "kills": "171",
+            "name": "Ellie",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.84\n0.87\n0.79",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "110\n116\n99",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "4\n3\n1",
+            "kills": "174",
+            "name": "Cille",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.82\n0.88\n0.73",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "88\n71\n117",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "10\n8\n2",
+            "kills": "135",
+            "name": "artStar",
+            "team": "XSET"
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.07\n1.06",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "139\n144\n136",
+            "hs%": "68%\n86%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "211",
+            "name": "allegedlyalexa",
+            "team": "Team Kittenz"
+          },
+          {
+            "acs": "0.99\n1.55\n0.66",
+            "adr": "-1\n+5\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "123\n177\n92",
+            "hs%": "79%\n100%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "200",
+            "name": "cyn",
+            "team": "Team Kittenz"
+          },
+          {
+            "acs": "0.83\n1.00\n0.74",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "137\n141\n135",
+            "hs%": "74%\n100%\n58%",
+            "kdr": "6\n4\n2",
+            "kills": "186",
+            "name": "Krill",
+            "team": "Team Kittenz"
+          },
+          {
+            "acs": "0.55\n0.30\n0.70",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "85\n82\n86",
+            "hs%": "58%\n71%\n50%",
+            "kdr": "6\n4\n2",
+            "kills": "143",
+            "name": "swg",
+            "team": "Team Kittenz"
+          },
+          {
+            "acs": "0.54\n0.61\n0.49",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "60\n57\n62",
+            "hs%": "68%\n86%\n58%",
+            "kdr": "5\n0\n5",
+            "kills": "95",
+            "name": "aniN",
+            "team": "Team Kittenz"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "332",
+          "name": "starriebun",
+          "team": null
+        },
+        {
+          "kills": "312",
+          "name": "Noia",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "Ellie",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "artStar",
+          "team": null
+        },
+        {
+          "kills": "143",
+          "name": "Cille",
+          "team": null
+        },
+        {
+          "kills": "245",
+          "name": "cyn",
+          "team": null
+        },
+        {
+          "kills": "271",
+          "name": "allegedlyalexa",
+          "team": null
+        },
+        {
+          "kills": "136",
+          "name": "swg",
+          "team": null
+        },
+        {
+          "kills": "162",
+          "name": "Krill",
+          "team": null
+        },
+        {
+          "kills": "136",
+          "name": "aniN",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.49\n1.82\n1.61",
+            "adr": "+23\n+15\n+8",
+            "agent": "",
+            "assists": "/\n\n23\n14\n9\n\n/",
+            "deaths": "46\n29\n17",
+            "fk": "226\n222\n232",
+            "hs%": "76%\n75%\n79%",
+            "kdr": "9\n5\n4",
+            "kills": "332",
+            "name": "starriebun",
+            "team": null
+          },
+          {
+            "acs": "1.53\n1.53\n1.53",
+            "adr": "+17\n+11\n+6",
+            "agent": "",
+            "assists": "/\n\n25\n15\n10\n\n/",
+            "deaths": "42\n26\n16",
+            "fk": "201\n203\n198",
+            "hs%": "76%\n83%\n64%",
+            "kdr": "8\n5\n3",
+            "kills": "312",
+            "name": "Noia",
+            "team": null
+          },
+          {
+            "acs": "1.36\n1.30\n1.34",
+            "adr": "+12\n+9\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "30\n20\n10",
+            "fk": "137\n136\n139",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "10\n6\n4",
+            "kills": "220",
+            "name": "Ellie",
+            "team": null
+          },
+          {
+            "acs": "0.83\n0.79\n0.82",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n23\n13\n10\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "99\n91\n114",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "14\n12\n2",
+            "kills": "139",
+            "name": "artStar",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.69\n0.71",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n25\n15\n10\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "95\n93\n97",
+            "hs%": "68%\n71%\n64%",
+            "kdr": "13\n9\n4",
+            "kills": "143",
+            "name": "Cille",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n1.16\n1.19",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n27\n9\n18\n\n/",
+            "deaths": "29\n12\n17",
+            "fk": "145\n146\n145",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "14\n4\n10",
+            "kills": "245",
+            "name": "cyn",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.91\n0.97",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n31\n12\n19\n\n/",
+            "deaths": "31\n15\n16",
+            "fk": "139\n143\n136",
+            "hs%": "63%\n79%\n54%",
+            "kdr": "3\n2\n1",
+            "kills": "271",
+            "name": "allegedlyalexa",
+            "team": null
+          },
+          {
+            "acs": "0.49\n0.98\n0.80",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n34\n13\n21\n\n/",
+            "deaths": "24\n6\n18",
+            "fk": "116\n82\n137",
+            "hs%": "63%\n64%\n63%",
+            "kdr": "10\n6\n4",
+            "kills": "136",
+            "name": "swg",
+            "team": null
+          },
+          {
+            "acs": "0.63\n0.61\n0.62",
+            "adr": "-15\n-5\n-10",
+            "agent": "",
+            "assists": "/\n\n33\n12\n21\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "110\n118\n105",
+            "hs%": "61%\n71%\n54%",
+            "kdr": "9\n6\n3",
+            "kills": "162",
+            "name": "Krill",
+            "team": null
+          },
+          {
+            "acs": "0.43\n0.45\n0.45",
+            "adr": "-18\n-6\n-12",
+            "agent": "",
+            "assists": "/\n\n30\n12\n18\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "68\n87\n56",
+            "hs%": "58%\n71%\n50%",
+            "kdr": "9\n3\n6",
+            "kills": "136",
+            "name": "aniN",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "548",
+          "name": "starriebun",
+          "team": "XSET"
+        },
+        {
+          "kills": "143",
+          "name": "Ellie",
+          "team": "XSET"
+        },
+        {
+          "kills": "251",
+          "name": "Noia",
+          "team": "XSET"
+        },
+        {
+          "kills": "202",
+          "name": "artStar",
+          "team": "XSET"
+        },
+        {
+          "kills": "138",
+          "name": "Cille",
+          "team": "XSET"
+        },
+        {
+          "kills": "303",
+          "name": "cyn",
+          "team": "Team Kittenz"
+        },
+        {
+          "kills": "277",
+          "name": "swg",
+          "team": "Team Kittenz"
+        },
+        {
+          "kills": "194",
+          "name": "allegedlyalexa",
+          "team": "Team Kittenz"
+        },
+        {
+          "kills": "108",
+          "name": "Krill",
+          "team": "Team Kittenz"
+        },
+        {
+          "kills": "78",
+          "name": "aniN",
+          "team": "Team Kittenz"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.74\n1.16\n2.72",
+            "adr": "+13\n+4\n+9",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "278\n230\n359",
+            "hs%": "79%\n67%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "548",
+            "name": "starriebun",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.52\n1.75\n1.11",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "160\n188\n112",
+            "hs%": "84%\n75%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "143",
+            "name": "Ellie",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.34\n1.19\n1.60",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "182\n187\n173",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "4\n1\n3",
+            "kills": "251",
+            "name": "Noia",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.81\n0.79\n0.86",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "111\n112\n110",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "4\n4\n0",
+            "kills": "202",
+            "name": "artStar",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.58\n0.57\n0.59",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "80\n71\n95",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "9\n6\n3",
+            "kills": "138",
+            "name": "Cille",
+            "team": "XSET"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n0.92\n1.67",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "167\n115\n197",
+            "hs%": "79%\n57%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "303",
+            "name": "cyn",
+            "team": "Team Kittenz"
+          },
+          {
+            "acs": "1.05\n0.69\n1.26",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "148\n82\n187",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "277",
+            "name": "swg",
+            "team": "Team Kittenz"
+          },
+          {
+            "acs": "0.88\n1.09\n0.76",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "138\n142\n136",
+            "hs%": "58%\n71%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "194",
+            "name": "allegedlyalexa",
+            "team": "Team Kittenz"
+          },
+          {
+            "acs": "0.41\n0.27\n0.49",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "82\n95\n74",
+            "hs%": "47%\n43%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "108",
+            "name": "Krill",
+            "team": "Team Kittenz"
+          },
+          {
+            "acs": "0.35\n0.26\n0.41",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "75\n118\n50",
+            "hs%": "47%\n57%\n42%",
+            "kdr": "4\n3\n1",
+            "kills": "78",
+            "name": "aniN",
+            "team": "Team Kittenz"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 83735,
+  "teams": [
+    "XSET",
+    "Team Kittenz"
+  ],
+  "tournament": "Swiss Stage: \n\t\t\t\t\t\tRound 1"
+}

@@ -1,0 +1,788 @@
+{
+  "date": "2021-12-21 06:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "280",
+          "name": "Rapheleen",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "244",
+          "name": "heyNF",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "216",
+          "name": "OnigiRi",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "161",
+          "name": "Fat Penguin",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "170",
+          "name": "FrizzNatsz",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "306",
+          "name": "azys",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "194",
+          "name": "jEEE",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "182",
+          "name": "Yoshiii",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "174",
+          "name": "Kakarot",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "184",
+          "name": "Blas",
+          "team": "Fallen5"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.33\n1.23\n1.41",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "182\n158\n202",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "8\n6\n2",
+            "kills": "280",
+            "name": "Rapheleen",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "1.13\n1.29\n1.00",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "177\n193\n164",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "244",
+            "name": "heyNF",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "1.10\n1.03\n1.15",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "157\n158\n156",
+            "hs%": "73%\n70%\n75%",
+            "kdr": "9\n5\n4",
+            "kills": "216",
+            "name": "OnigiRi",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "0.73\n0.77\n0.69",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "107\n110\n104",
+            "hs%": "64%\n70%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "161",
+            "name": "Fat Penguin",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "0.58\n0.82\n0.38",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "103\n135\n77",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "170",
+            "name": "FrizzNatsz",
+            "team": "Morph Impact"
+          }
+        ],
+        [
+          {
+            "acs": "1.50\n1.95\n0.95",
+            "adr": "+9\n+9\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "25\n17\n8",
+            "fk": "197\n249\n135",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "3\n1\n2",
+            "kills": "306",
+            "name": "azys",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "1.10\n1.51\n0.60",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "127\n164\n83",
+            "hs%": "77%\n92%\n60%",
+            "kdr": "8\n7\n1",
+            "kills": "194",
+            "name": "jEEE",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "0.90\n1.03\n0.74",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "121\n123\n119",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "7\n4\n3",
+            "kills": "182",
+            "name": "Yoshiii",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "0.82\n0.18\n1.59",
+            "adr": "-2\n-7\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "108\n40\n190",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "3\n1\n2",
+            "kills": "174",
+            "name": "Kakarot",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "0.78\n0.55\n1.06",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "156\n147\n166",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "184",
+            "name": "Blas",
+            "team": "Fallen5"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "198",
+          "name": "OnigiRi",
+          "team": null
+        },
+        {
+          "kills": "243",
+          "name": "Rapheleen",
+          "team": null
+        },
+        {
+          "kills": "237",
+          "name": "FrizzNatsz",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "Fat Penguin",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "heyNF",
+          "team": null
+        },
+        {
+          "kills": "356",
+          "name": "azys",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "jEEE",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Yoshiii",
+          "team": null
+        },
+        {
+          "kills": "170",
+          "name": "Kakarot",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "Blas",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.01\n1.20\n1.11",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "47\n22\n25",
+            "fk": "147\n133\n160",
+            "hs%": "68%\n72%\n65%",
+            "kdr": "17\n12\n5",
+            "kills": "198",
+            "name": "OnigiRi",
+            "team": null
+          },
+          {
+            "acs": "1.15\n0.94\n1.04",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n41\n21\n20\n\n/",
+            "deaths": "41\n23\n18",
+            "fk": "147\n166\n129",
+            "hs%": "67%\n72%\n61%",
+            "kdr": "24\n18\n6",
+            "kills": "243",
+            "name": "Rapheleen",
+            "team": null
+          },
+          {
+            "acs": "1.09\n0.89\n0.98",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n48\n22\n26\n\n/",
+            "deaths": "48\n26\n22",
+            "fk": "146\n159\n134",
+            "hs%": "67%\n69%\n65%",
+            "kdr": "7\n4\n3",
+            "kills": "237",
+            "name": "FrizzNatsz",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.85\n0.89",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n46\n21\n25\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "124\n122\n126",
+            "hs%": "60%\n66%\n55%",
+            "kdr": "9\n7\n2",
+            "kills": "190",
+            "name": "Fat Penguin",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.59\n0.77",
+            "adr": "-14\n-3\n-11",
+            "agent": "",
+            "assists": "/\n\n43\n22\n21\n\n/",
+            "deaths": "29\n19\n10",
+            "fk": "118\n141\n97",
+            "hs%": "65%\n69%\n61%",
+            "kdr": "13\n6\n7",
+            "kills": "197",
+            "name": "heyNF",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.68\n1.28\n1.49",
+            "adr": "+24\n+19\n+5",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "68\n40\n28",
+            "fk": "205\n230\n179",
+            "hs%": "80%\n84%\n76%",
+            "kdr": "14\n6\n8",
+            "kills": "356",
+            "name": "azys",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.97\n1.03",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n40\n19\n21\n\n/",
+            "deaths": "40\n20\n20",
+            "fk": "120\n121\n119",
+            "hs%": "80%\n87%\n72%",
+            "kdr": "21\n15\n6",
+            "kills": "175",
+            "name": "jEEE",
+            "team": null
+          },
+          {
+            "acs": "0.95\n0.87\n0.91",
+            "adr": "-3\n+3\n-6",
+            "agent": "",
+            "assists": "/\n\n42\n18\n24\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "119\n115\n124",
+            "hs%": "73%\n74%\n72%",
+            "kdr": "17\n9\n8",
+            "kills": "173",
+            "name": "Yoshiii",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.93\n0.89",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "40\n18\n22",
+            "fk": "124\n113\n135",
+            "hs%": "72%\n74%\n69%",
+            "kdr": "10\n6\n4",
+            "kills": "170",
+            "name": "Kakarot",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.95\n0.84",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n41\n19\n22\n\n/",
+            "deaths": "38\n20\n18",
+            "fk": "131\n115\n148",
+            "hs%": "70%\n65%\n76%",
+            "kdr": "10\n3\n7",
+            "kills": "164",
+            "name": "Blas",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "249",
+          "name": "FrizzNatsz",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "304",
+          "name": "OnigiRi",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "87",
+          "name": "Rapheleen",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "206",
+          "name": "Fat Penguin",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "66",
+          "name": "heyNF",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "240",
+          "name": "azys",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "279",
+          "name": "jEEE",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "198",
+          "name": "Yoshiii",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "136",
+          "name": "Blas",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "157",
+          "name": "Kakarot",
+          "team": "Fallen5"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.66\n1.15",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "182\n205\n144",
+            "hs%": "63%\n75%\n43%",
+            "kdr": "2\n1\n1",
+            "kills": "249",
+            "name": "FrizzNatsz",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "1.45\n1.20\n1.86",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "149\n128\n186",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "6\n6\n0",
+            "kills": "304",
+            "name": "OnigiRi",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "0.97\n1.01\n0.91",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "122\n160\n56",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "11\n9\n2",
+            "kills": "87",
+            "name": "Rapheleen",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "0.93\n0.92\n0.94",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "116\n101\n142",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "4\n4\n0",
+            "kills": "206",
+            "name": "Fat Penguin",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "0.73\n0.97\n0.31",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "9\n8\n1",
+            "fk": "119\n154\n58",
+            "hs%": "58%\n67%\n43%",
+            "kdr": "4\n3\n1",
+            "kills": "66",
+            "name": "heyNF",
+            "team": "Morph Impact"
+          }
+        ],
+        [
+          {
+            "acs": "1.19\n1.44\n1.05",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "188\n237\n159",
+            "hs%": "79%\n86%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "240",
+            "name": "azys",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "1.09\n0.46\n1.45",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "128\n56\n170",
+            "hs%": "84%\n71%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "279",
+            "name": "jEEE",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "1.03\n1.28\n0.88",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "143\n162\n131",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "198",
+            "name": "Yoshiii",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "0.60\n0.64\n0.57",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "82\n63\n94",
+            "hs%": "53%\n43%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "136",
+            "name": "Blas",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "0.59\n0.73\n0.50",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "108\n133\n94",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "157",
+            "name": "Kakarot",
+            "team": "Fallen5"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "261",
+          "name": "Fat Penguin",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "240",
+          "name": "FrizzNatsz",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "185",
+          "name": "OnigiRi",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "180",
+          "name": "Rapheleen",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "73",
+          "name": "heyNF",
+          "team": "Morph Impact"
+        },
+        {
+          "kills": "373",
+          "name": "azys",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "247",
+          "name": "Kakarot",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "202",
+          "name": "Blas",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "158",
+          "name": "jEEE",
+          "team": "Fallen5"
+        },
+        {
+          "kills": "137",
+          "name": "Yoshiii",
+          "team": "Fallen5"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.05\n1.18\n0.97",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "152\n174\n140",
+            "hs%": "53%\n57%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "261",
+            "name": "Fat Penguin",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "0.97\n0.49\n1.24",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "159\n115\n186",
+            "hs%": "63%\n43%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "240",
+            "name": "FrizzNatsz",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "0.78\n0.63\n0.87",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "132\n105\n148",
+            "hs%": "68%\n86%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "185",
+            "name": "OnigiRi",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "0.76\n1.26\n0.47",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "130\n186\n98",
+            "hs%": "58%\n71%\n50%",
+            "kdr": "5\n3\n2",
+            "kills": "180",
+            "name": "Rapheleen",
+            "team": "Morph Impact"
+          },
+          {
+            "acs": "0.40\n0.49\n0.35",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "50\n46\n52",
+            "hs%": "53%\n57%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "73",
+            "name": "heyNF",
+            "team": "Morph Impact"
+          }
+        ],
+        [
+          {
+            "acs": "1.77\n1.55\n2.13",
+            "adr": "+14\n+7\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "232\n207\n275",
+            "hs%": "84%\n83%\n86%",
+            "kdr": "5\n4\n1",
+            "kills": "373",
+            "name": "azys",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "1.27\n1.58\n0.73",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "157\n175\n126",
+            "hs%": "84%\n92%\n71%",
+            "kdr": "3\n3\n0",
+            "kills": "247",
+            "name": "Kakarot",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "1.14\n0.96\n1.43",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "151\n114\n213",
+            "hs%": "84%\n75%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "202",
+            "name": "Blas",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "0.89\n1.02\n0.66",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "103\n116\n81",
+            "hs%": "79%\n92%\n57%",
+            "kdr": "8\n7\n1",
+            "kills": "158",
+            "name": "jEEE",
+            "team": "Fallen5"
+          },
+          {
+            "acs": "0.81\n0.69\n1.02",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "95\n79\n121",
+            "hs%": "79%\n75%\n86%",
+            "kdr": "6\n4\n2",
+            "kills": "137",
+            "name": "Yoshiii",
+            "team": "Fallen5"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 56826,
+  "teams": [
+    "Morph Impact",
+    "Fallen5"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tLower Round 2"
+}

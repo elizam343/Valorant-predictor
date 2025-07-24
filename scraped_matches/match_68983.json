@@ -1,0 +1,594 @@
+{
+  "date": "2022-02-04 02:20:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "200",
+          "name": "GTX",
+          "team": "nice try"
+        },
+        {
+          "kills": "150",
+          "name": "NeF",
+          "team": "nice try"
+        },
+        {
+          "kills": "156",
+          "name": "Ploy",
+          "team": "nice try"
+        },
+        {
+          "kills": "154",
+          "name": "JSS",
+          "team": "nice try"
+        },
+        {
+          "kills": "132",
+          "name": "ShoWTimE",
+          "team": "nice try"
+        },
+        {
+          "kills": "249",
+          "name": "\ube44\ub458\uae30 \ubc15",
+          "team": "miracle victory"
+        },
+        {
+          "kills": "343",
+          "name": "\ub108\ub791 \ubc14\ub77c\ubcf8",
+          "team": "miracle victory"
+        },
+        {
+          "kills": "208",
+          "name": "M0NK4Y",
+          "team": "miracle victory"
+        },
+        {
+          "kills": "269",
+          "name": "\ub2f9\uadfc\ub9c8\ucf13\uc0ac\uae30\uacbd\ub82523\ud68c",
+          "team": "miracle victory"
+        },
+        {
+          "kills": "111",
+          "name": "Ruka",
+          "team": "miracle victory"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "0.87\n0.79\n1.05",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "134\n114\n175",
+            "hs%": "61%\n58%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "200",
+            "name": "GTX",
+            "team": "nice try"
+          },
+          {
+            "acs": "0.85\n0.86\n0.84",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "92\n81\n114",
+            "hs%": "56%\n58%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "150",
+            "name": "NeF",
+            "team": "nice try"
+          },
+          {
+            "acs": "0.73\n0.85\n0.51",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "103\n116\n77",
+            "hs%": "72%\n83%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "156",
+            "name": "Ploy",
+            "team": "nice try"
+          },
+          {
+            "acs": "0.57\n0.80\n0.12",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "106\n131\n56",
+            "hs%": "67%\n83%\n33%",
+            "kdr": "2\n2\n0",
+            "kills": "154",
+            "name": "JSS",
+            "team": "nice try"
+          },
+          {
+            "acs": "0.40\n0.53\n0.15",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "85\n97\n62",
+            "hs%": "44%\n58%\n17%",
+            "kdr": "0\n0\n0",
+            "kills": "132",
+            "name": "ShoWTimE",
+            "team": "nice try"
+          }
+        ],
+        [
+          {
+            "acs": "1.57\n1.04\n1.84",
+            "adr": "+12\n+1\n+11",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "179\n138\n199",
+            "hs%": "78%\n67%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "249",
+            "name": "\ube44\ub458\uae30 \ubc15",
+            "team": "miracle victory"
+          },
+          {
+            "acs": "1.51\n1.54\n1.49",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "209\n210\n209",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "343",
+            "name": "\ub108\ub791 \ubc14\ub77c\ubcf8",
+            "team": "miracle victory"
+          },
+          {
+            "acs": "1.38\n1.76\n1.20",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "147\n116\n163",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "8\n2\n6",
+            "kills": "208",
+            "name": "M0NK4Y",
+            "team": "miracle victory"
+          },
+          {
+            "acs": "1.26\n2.03\n0.88",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "175\n306\n109",
+            "hs%": "83%\n100%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "269",
+            "name": "\ub2f9\uadfc\ub9c8\ucf13\uc0ac\uae30\uacbd\ub82523\ud68c",
+            "team": "miracle victory"
+          },
+          {
+            "acs": "0.74\n0.67\n0.78",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n2\n8\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "67\n19\n91",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "6\n0\n6",
+            "kills": "111",
+            "name": "Ruka",
+            "team": "miracle victory"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "171",
+          "name": "GTX",
+          "team": null
+        },
+        {
+          "kills": "122",
+          "name": "NeF",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "JSS",
+          "team": null
+        },
+        {
+          "kills": "197",
+          "name": "ShoWTimE",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "Ploy",
+          "team": null
+        },
+        {
+          "kills": "254",
+          "name": "\ube44\ub458\uae30 \ubc15",
+          "team": null
+        },
+        {
+          "kills": "433",
+          "name": "\ub2f9\uadfc\ub9c8\ucf13\uc0ac\uae30\uacbd\ub82523\ud68c",
+          "team": null
+        },
+        {
+          "kills": "247",
+          "name": "\ub108\ub791 \ubc14\ub77c\ubcf8",
+          "team": null
+        },
+        {
+          "kills": "67",
+          "name": "Ruka",
+          "team": null
+        },
+        {
+          "kills": "137",
+          "name": "M0NK4Y",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.75\n0.86\n0.80",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n31\n17\n14\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "120\n119\n120",
+            "hs%": "64%\n62%\n67%",
+            "kdr": "10\n6\n4",
+            "kills": "171",
+            "name": "GTX",
+            "team": null
+          },
+          {
+            "acs": "0.65\n0.94\n0.78",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n33\n16\n17\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "113\n87\n144",
+            "hs%": "67%\n57%\n78%",
+            "kdr": "7\n5\n2",
+            "kills": "122",
+            "name": "NeF",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.55\n0.76",
+            "adr": "-10\n-2\n-8",
+            "agent": "",
+            "assists": "/\n\n34\n18\n16\n\n/",
+            "deaths": "24\n16\n8",
+            "fk": "124\n138\n108",
+            "hs%": "67%\n81%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "222",
+            "name": "JSS",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.67\n0.69",
+            "adr": "-12\n-4\n-8",
+            "agent": "",
+            "assists": "/\n\n35\n19\n16\n\n/",
+            "deaths": "23\n15\n8",
+            "fk": "123\n123\n123",
+            "hs%": "46%\n57%\n33%",
+            "kdr": "2\n0\n2",
+            "kills": "197",
+            "name": "ShoWTimE",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.43\n0.65",
+            "adr": "-13\n-3\n-10",
+            "agent": "",
+            "assists": "/\n\n33\n18\n15\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "97\n124\n64",
+            "hs%": "62%\n76%\n44%",
+            "kdr": "9\n6\n3",
+            "kills": "200",
+            "name": "Ploy",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.42\n1.70\n1.57",
+            "adr": "+25\n+9\n+16",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "45\n19\n26",
+            "fk": "195\n188\n202",
+            "hs%": "82%\n78%\n86%",
+            "kdr": "4\n1\n3",
+            "kills": "254",
+            "name": "\ube44\ub458\uae30 \ubc15",
+            "team": null
+          },
+          {
+            "acs": "2.26\n0.92\n1.54",
+            "adr": "+18\n+19\n-1",
+            "agent": "",
+            "assists": "/\n\n23\n9\n14\n\n/",
+            "deaths": "41\n28\n13",
+            "fk": "190\n282\n111",
+            "hs%": "85%\n94%\n76%",
+            "kdr": "16\n7\n9",
+            "kills": "433",
+            "name": "\ub2f9\uadfc\ub9c8\ucf13\uc0ac\uae30\uacbd\ub82523\ud68c",
+            "team": null
+          },
+          {
+            "acs": "1.10\n1.34\n1.23",
+            "adr": "+13\n+5\n+8",
+            "agent": "",
+            "assists": "/\n\n25\n11\n14\n\n/",
+            "deaths": "38\n16\n22",
+            "fk": "172\n157\n185",
+            "hs%": "69%\n67%\n71%",
+            "kdr": "7\n3\n4",
+            "kills": "247",
+            "name": "\ub108\ub791 \ubc14\ub77c\ubcf8",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.08\n0.96",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n19\n6\n13\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "77\n38\n110",
+            "hs%": "85%\n89%\n81%",
+            "kdr": "17\n5\n12",
+            "kills": "67",
+            "name": "Ruka",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.98\n0.95",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n25\n10\n15\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "131\n91\n165",
+            "hs%": "77%\n78%\n76%",
+            "kdr": "19\n9\n10",
+            "kills": "137",
+            "name": "M0NK4Y",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "231",
+          "name": "ShoWTimE",
+          "team": "nice try"
+        },
+        {
+          "kills": "171",
+          "name": "JSS",
+          "team": "nice try"
+        },
+        {
+          "kills": "129",
+          "name": "GTX",
+          "team": "nice try"
+        },
+        {
+          "kills": "246",
+          "name": "NeF",
+          "team": "nice try"
+        },
+        {
+          "kills": "87",
+          "name": "Ploy",
+          "team": "nice try"
+        },
+        {
+          "kills": "177",
+          "name": "\ub2f9\uadfc\ub9c8\ucf13\uc0ac\uae30\uacbd\ub82523\ud68c",
+          "team": "miracle victory"
+        },
+        {
+          "kills": "319",
+          "name": "\ube44\ub458\uae30 \ubc15",
+          "team": "miracle victory"
+        },
+        {
+          "kills": "207",
+          "name": "Ruka",
+          "team": "miracle victory"
+        },
+        {
+          "kills": "239",
+          "name": "\ub108\ub791 \ubc14\ub77c\ubcf8",
+          "team": "miracle victory"
+        },
+        {
+          "kills": "234",
+          "name": "M0NK4Y",
+          "team": "miracle victory"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.94\n0.96\n0.93",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "156\n159\n154",
+            "hs%": "48%\n56%\n42%",
+            "kdr": "2\n0\n2",
+            "kills": "231",
+            "name": "ShoWTimE",
+            "team": "nice try"
+          },
+          {
+            "acs": "0.91\n1.11\n0.76",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "139\n146\n134",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "171",
+            "name": "JSS",
+            "team": "nice try"
+          },
+          {
+            "acs": "0.74\n0.69\n0.77",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "107\n126\n92",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "129",
+            "name": "GTX",
+            "team": "nice try"
+          },
+          {
+            "acs": "0.72\n0.37\n0.98",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "131\n95\n158",
+            "hs%": "76%\n56%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "246",
+            "name": "NeF",
+            "team": "nice try"
+          },
+          {
+            "acs": "0.57\n0.82\n0.39",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "91\n136\n58",
+            "hs%": "52%\n67%\n42%",
+            "kdr": "4\n2\n2",
+            "kills": "87",
+            "name": "Ploy",
+            "team": "nice try"
+          }
+        ],
+        [
+          {
+            "acs": "1.78\n2.37\n0.98",
+            "adr": "+14\n+14\n0",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "25\n19\n6",
+            "fk": "203\n269\n115",
+            "hs%": "86%\n92%\n78%",
+            "kdr": "8\n4\n4",
+            "kills": "177",
+            "name": "\ub2f9\uadfc\ub9c8\ucf13\uc0ac\uae30\uacbd\ub82523\ud68c",
+            "team": "miracle victory"
+          },
+          {
+            "acs": "1.57\n1.62\n1.51",
+            "adr": "+13\n+8\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "26\n15\n11",
+            "fk": "210\n213\n205",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "3\n1\n2",
+            "kills": "319",
+            "name": "\ube44\ub458\uae30 \ubc15",
+            "team": "miracle victory"
+          },
+          {
+            "acs": "1.14\n0.87\n1.49",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n4\n5\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "85\n47\n137",
+            "hs%": "90%\n92%\n89%",
+            "kdr": "11\n5\n6",
+            "kills": "207",
+            "name": "Ruka",
+            "team": "miracle victory"
+          },
+          {
+            "acs": "0.99\n0.88\n1.15",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "140\n130\n153",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "239",
+            "name": "\ub108\ub791 \ubc14\ub77c\ubcf8",
+            "team": "miracle victory"
+          },
+          {
+            "acs": "0.58\n0.50\n0.70",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "117\n78\n169",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "11\n7\n4",
+            "kills": "234",
+            "name": "M0NK4Y",
+            "team": "miracle victory"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 68983,
+  "teams": [
+    "miracle victory",
+    "nice try"
+  ],
+  "tournament": "Open Qualifier: Round of 42: \n\t\t\t\t\t\tGroup F"
+}

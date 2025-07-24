@@ -1,0 +1,788 @@
+{
+  "date": "2023-01-14 03:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "256",
+          "name": "OnigiRi",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "280",
+          "name": "Lilo",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "191",
+          "name": "vascalizz",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "143",
+          "name": "no1syboy",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "98",
+          "name": "mika",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "317",
+          "name": "ray4c",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "251",
+          "name": "RiseN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "214",
+          "name": "r0serade",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "184",
+          "name": "ValdyN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "190",
+          "name": "OWEN",
+          "team": "Dominatus"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.78\n0.24",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "16\n14\n2",
+            "fk": "177\n234\n79",
+            "hs%": "58%\n75%\n29%",
+            "kdr": "3\n2\n1",
+            "kills": "256",
+            "name": "OnigiRi",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "0.96\n0.39\n1.95",
+            "adr": "+1\n-6\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "18\n6\n12",
+            "fk": "180\n94\n327",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "3\n1\n2",
+            "kills": "280",
+            "name": "Lilo",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "0.87\n0.82\n0.96",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "148\n166\n118",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "6\n4\n2",
+            "kills": "191",
+            "name": "vascalizz",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "0.64\n0.23\n1.33",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "99\n58\n168",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "6\n3\n3",
+            "kills": "143",
+            "name": "no1syboy",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "0.40\n0.61\n0.05",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "66\n71\n58",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "6\n4\n2",
+            "kills": "98",
+            "name": "mika",
+            "team": "ARF TEAM"
+          }
+        ],
+        [
+          {
+            "acs": "1.82\n1.76\n1.86",
+            "adr": "+15\n+6\n+9",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "184\n174\n190",
+            "hs%": "95%\n86%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "317",
+            "name": "ray4c",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "1.31\n0.79\n1.62",
+            "adr": "+6\n-3\n+9",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "18\n2\n16",
+            "fk": "176\n108\n216",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "251",
+            "name": "RiseN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "1.16\n1.35\n1.04",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "119\n105\n127",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "214",
+            "name": "r0serade",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "1.10\n1.75\n0.71",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "130\n173\n106",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "17\n11\n6",
+            "kills": "184",
+            "name": "ValdyN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.90\n0.58\n1.09",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "117\n84\n136",
+            "hs%": "79%\n71%\n83%",
+            "kdr": "12\n6\n6",
+            "kills": "190",
+            "name": "OWEN",
+            "team": "Dominatus"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "300",
+          "name": "Lilo",
+          "team": null
+        },
+        {
+          "kills": "290",
+          "name": "OnigiRi",
+          "team": null
+        },
+        {
+          "kills": "146",
+          "name": "no1syboy",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "mika",
+          "team": null
+        },
+        {
+          "kills": "177",
+          "name": "vascalizz",
+          "team": null
+        },
+        {
+          "kills": "320",
+          "name": "ray4c",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "r0serade",
+          "team": null
+        },
+        {
+          "kills": "236",
+          "name": "ValdyN",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "OWEN",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "RiseN",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.23\n1.53\n1.38",
+            "adr": "+20\n+6\n+14",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "68\n31\n37",
+            "fk": "209\n193\n226",
+            "hs%": "76%\n72%\n81%",
+            "kdr": "13\n6\n7",
+            "kills": "300",
+            "name": "Lilo",
+            "team": null
+          },
+          {
+            "acs": "1.50\n0.73\n1.12",
+            "adr": "+8\n+14\n-6",
+            "agent": "",
+            "assists": "/\n\n43\n20\n23\n\n/",
+            "deaths": "51\n34\n17",
+            "fk": "158\n201\n114",
+            "hs%": "71%\n78%\n65%",
+            "kdr": "12\n3\n9",
+            "kills": "290",
+            "name": "OnigiRi",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.32\n1.08",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "47\n18\n29",
+            "fk": "127\n92\n164",
+            "hs%": "81%\n81%\n81%",
+            "kdr": "19\n9\n10",
+            "kills": "146",
+            "name": "no1syboy",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.85\n0.93",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "35\n17\n18",
+            "fk": "106\n106\n107",
+            "hs%": "75%\n69%\n81%",
+            "kdr": "38\n26\n12",
+            "kills": "171",
+            "name": "mika",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.70\n0.71",
+            "adr": "-16\n-8\n-8",
+            "agent": "",
+            "assists": "/\n\n51\n26\n25\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "114\n128\n100",
+            "hs%": "75%\n69%\n81%",
+            "kdr": "21\n10\n11",
+            "kills": "177",
+            "name": "vascalizz",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.59\n1.43",
+            "adr": "+24\n+10\n+14",
+            "agent": "",
+            "assists": "/\n\n45\n24\n21\n\n/",
+            "deaths": "69\n34\n35",
+            "fk": "191\n187\n196",
+            "hs%": "83%\n81%\n84%",
+            "kdr": "23\n13\n10",
+            "kills": "320",
+            "name": "ray4c",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.94\n0.97",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "43\n22\n21",
+            "fk": "107\n105\n108",
+            "hs%": "65%\n68%\n63%",
+            "kdr": "15\n9\n6",
+            "kills": "181",
+            "name": "r0serade",
+            "team": null
+          },
+          {
+            "acs": "1.14\n0.81\n0.97",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n49\n25\n24\n\n/",
+            "deaths": "45\n26\n19",
+            "fk": "129\n151\n109",
+            "hs%": "73%\n77%\n69%",
+            "kdr": "25\n15\n10",
+            "kills": "236",
+            "name": "ValdyN",
+            "team": null
+          },
+          {
+            "acs": "1.01\n0.86\n0.93",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n47\n23\n24\n\n/",
+            "deaths": "41\n21\n20",
+            "fk": "118\n115\n121",
+            "hs%": "73%\n74%\n72%",
+            "kdr": "28\n15\n13",
+            "kills": "192",
+            "name": "OWEN",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.67\n0.69",
+            "adr": "-16\n-10\n-6",
+            "agent": "",
+            "assists": "/\n\n50\n23\n27\n\n/",
+            "deaths": "34\n13\n21",
+            "fk": "116\n114\n118",
+            "hs%": "63%\n68%\n59%",
+            "kdr": "16\n11\n5",
+            "kills": "155",
+            "name": "RiseN",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "314",
+          "name": "Lilo",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "256",
+          "name": "no1syboy",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "196",
+          "name": "mika",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "148",
+          "name": "OnigiRi",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "153",
+          "name": "vascalizz",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "241",
+          "name": "ValdyN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "339",
+          "name": "ray4c",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "145",
+          "name": "r0serade",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "132",
+          "name": "OWEN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "106",
+          "name": "RiseN",
+          "team": "Dominatus"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.59\n1.80\n1.39",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "223\n241\n206",
+            "hs%": "83%\n73%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "314",
+            "name": "Lilo",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "1.38\n1.52\n1.25",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "144\n141\n147",
+            "hs%": "87%\n91%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "256",
+            "name": "no1syboy",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "1.12\n1.00\n1.23",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "122\n127\n118",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "15\n9\n6",
+            "kills": "196",
+            "name": "mika",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "0.93\n1.19\n0.69",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "142\n195\n95",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "148",
+            "name": "OnigiRi",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "0.40\n0.18\n0.60",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "69\n54\n83",
+            "hs%": "70%\n64%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "153",
+            "name": "vascalizz",
+            "team": "ARF TEAM"
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n1.24\n1.09",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "163\n160\n167",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "4\n2\n2",
+            "kills": "241",
+            "name": "ValdyN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "1.11\n0.66\n1.60",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "183\n160\n208",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "11\n7\n4",
+            "kills": "339",
+            "name": "ray4c",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.97\n1.13\n0.80",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "115\n131\n98",
+            "hs%": "74%\n92%\n55%",
+            "kdr": "7\n6\n1",
+            "kills": "145",
+            "name": "r0serade",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.96\n1.10\n0.80",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "100\n112\n88",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "6\n2\n4",
+            "kills": "132",
+            "name": "OWEN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.51\n0.83\n0.15",
+            "adr": "-10\n-2\n-8",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "104\n132\n74",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "6\n3\n3",
+            "kills": "106",
+            "name": "RiseN",
+            "team": "Dominatus"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "352",
+          "name": "Lilo",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "212",
+          "name": "OnigiRi",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "189",
+          "name": "mika",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "224",
+          "name": "no1syboy",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "205",
+          "name": "vascalizz",
+          "team": "ARF TEAM"
+        },
+        {
+          "kills": "360",
+          "name": "ray4c",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "219",
+          "name": "OWEN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "146",
+          "name": "r0serade",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "138",
+          "name": "ValdyN",
+          "team": "Dominatus"
+        },
+        {
+          "kills": "111",
+          "name": "RiseN",
+          "team": "Dominatus"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.53\n1.66\n1.43",
+            "adr": "+10\n+6\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "221\n267\n187",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "352",
+            "name": "Lilo",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "1.25\n1.51\n1.06",
+            "adr": "+7\n+6\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "158\n165\n153",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "212",
+            "name": "OnigiRi",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "1.20\n1.55\n0.94",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "125\n127\n123",
+            "hs%": "90%\n100%\n83%",
+            "kdr": "17\n13\n4",
+            "kills": "189",
+            "name": "mika",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "1.17\n0.86\n1.39",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "135\n79\n177",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "224",
+            "name": "no1syboy",
+            "team": "ARF TEAM"
+          },
+          {
+            "acs": "0.90\n1.22\n0.66",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "132\n167\n107",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "11\n4\n7",
+            "kills": "205",
+            "name": "vascalizz",
+            "team": "ARF TEAM"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.57\n1.21",
+            "adr": "+9\n+8\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "26\n17\n9",
+            "fk": "208\n221\n190",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "5\n3\n2",
+            "kills": "360",
+            "name": "ray4c",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.94\n1.16\n0.65",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "138\n136\n142",
+            "hs%": "81%\n92%\n67%",
+            "kdr": "10\n7\n3",
+            "kills": "219",
+            "name": "OWEN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.80\n0.66\n0.98",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "86\n80\n95",
+            "hs%": "52%\n50%\n56%",
+            "kdr": "4\n2\n2",
+            "kills": "146",
+            "name": "r0serade",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.64\n0.68\n0.60",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "92\n130\n41",
+            "hs%": "57%\n67%\n44%",
+            "kdr": "4\n2\n2",
+            "kills": "138",
+            "name": "ValdyN",
+            "team": "Dominatus"
+          },
+          {
+            "acs": "0.32\n0.56\n0.03",
+            "adr": "-12\n-5\n-7",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "75\n100\n42",
+            "hs%": "48%\n58%\n33%",
+            "kdr": "4\n4\n0",
+            "kills": "111",
+            "name": "RiseN",
+            "team": "Dominatus"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 165904,
+  "teams": [
+    "ARF TEAM",
+    "Dominatus"
+  ],
+  "tournament": "Qualifier 2: \n\t\t\t\t\t\tWinner's (A)"
+}

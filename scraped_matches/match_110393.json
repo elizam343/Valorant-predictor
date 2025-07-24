@@ -1,0 +1,982 @@
+{
+  "date": "2022-07-09 09:45:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "216",
+          "name": "DaviH",
+          "team": "Arroz"
+        },
+        {
+          "kills": "210",
+          "name": "f3n1x",
+          "team": "Arroz"
+        },
+        {
+          "kills": "244",
+          "name": "rlzy",
+          "team": "Arroz"
+        },
+        {
+          "kills": "211",
+          "name": "Zino",
+          "team": "Arroz"
+        },
+        {
+          "kills": "145",
+          "name": "Bati",
+          "team": "Arroz"
+        },
+        {
+          "kills": "250",
+          "name": "silenttt",
+          "team": "RESET"
+        },
+        {
+          "kills": "262",
+          "name": "furyan",
+          "team": "RESET"
+        },
+        {
+          "kills": "222",
+          "name": "nasK",
+          "team": "RESET"
+        },
+        {
+          "kills": "186",
+          "name": "k0mpa",
+          "team": "RESET"
+        },
+        {
+          "kills": "152",
+          "name": "Ds",
+          "team": "RESET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.13\n1.24\n0.99",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "122\n116\n129",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "9\n5\n4",
+            "kills": "216",
+            "name": "DaviH",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.04\n0.93\n1.18",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "136\n135\n138",
+            "hs%": "86%\n83%\n89%",
+            "kdr": "12\n8\n4",
+            "kills": "210",
+            "name": "f3n1x",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.96\n1.03\n0.86",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "16\n12\n4",
+            "fk": "171\n187\n149",
+            "hs%": "57%\n50%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "244",
+            "name": "rlzy",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.95\n0.82\n1.14",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "122\n111\n138",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "211",
+            "name": "Zino",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.69\n0.91\n0.38",
+            "adr": "-4\n+1\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "92\n115\n61",
+            "hs%": "81%\n83%\n78%",
+            "kdr": "5\n3\n2",
+            "kills": "145",
+            "name": "Bati",
+            "team": "Arroz"
+          }
+        ],
+        [
+          {
+            "acs": "1.40\n1.72\n1.16",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "21\n14\n7",
+            "fk": "151\n241\n85",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "250",
+            "name": "silenttt",
+            "team": "RESET"
+          },
+          {
+            "acs": "1.08\n0.57\n1.46",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "17\n4\n13",
+            "fk": "173\n123\n209",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "10\n3\n7",
+            "kills": "262",
+            "name": "furyan",
+            "team": "RESET"
+          },
+          {
+            "acs": "1.08\n1.50\n0.77",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "152\n202\n115",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "11\n6\n5",
+            "kills": "222",
+            "name": "nasK",
+            "team": "RESET"
+          },
+          {
+            "acs": "1.05\n1.55\n0.67",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "122\n162\n92",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "14\n10\n4",
+            "kills": "186",
+            "name": "k0mpa",
+            "team": "RESET"
+          },
+          {
+            "acs": "0.82\n0.52\n1.05",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "92\n78\n102",
+            "hs%": "57%\n44%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "152",
+            "name": "Ds",
+            "team": "RESET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "242",
+          "name": "DaviH",
+          "team": null
+        },
+        {
+          "kills": "250",
+          "name": "Zino",
+          "team": null
+        },
+        {
+          "kills": "219",
+          "name": "f3n1x",
+          "team": null
+        },
+        {
+          "kills": "283",
+          "name": "rlzy",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "Bati",
+          "team": null
+        },
+        {
+          "kills": "225",
+          "name": "nasK",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "k0mpa",
+          "team": null
+        },
+        {
+          "kills": "130",
+          "name": "Ds",
+          "team": null
+        },
+        {
+          "kills": "239",
+          "name": "silenttt",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "furyan",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.27\n1.23\n1.25",
+            "adr": "+20\n+12\n+8",
+            "agent": "",
+            "assists": "/\n\n56\n28\n28\n\n/",
+            "deaths": "76\n40\n36",
+            "fk": "145\n148\n142",
+            "hs%": "83%\n84%\n80%",
+            "kdr": "42\n26\n16",
+            "kills": "242",
+            "name": "DaviH",
+            "team": null
+          },
+          {
+            "acs": "1.23\n1.23\n1.23",
+            "adr": "+25\n+14\n+11",
+            "agent": "",
+            "assists": "/\n\n58\n30\n28\n\n/",
+            "deaths": "83\n44\n39",
+            "fk": "149\n151\n147",
+            "hs%": "72%\n76%\n68%",
+            "kdr": "6\n3\n3",
+            "kills": "250",
+            "name": "Zino",
+            "team": null
+          },
+          {
+            "acs": "1.29\n1.01\n1.16",
+            "adr": "+9\n+9\n0",
+            "agent": "",
+            "assists": "/\n\n48\n24\n24\n\n/",
+            "deaths": "57\n33\n24",
+            "fk": "131\n147\n114",
+            "hs%": "79%\n84%\n73%",
+            "kdr": "42\n22\n20",
+            "kills": "219",
+            "name": "f3n1x",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.07\n1.07",
+            "adr": "+12\n+8\n+4",
+            "agent": "",
+            "assists": "/\n\n62\n35\n27\n\n/",
+            "deaths": "74\n43\n31",
+            "fk": "173\n182\n162",
+            "hs%": "70%\n73%\n66%",
+            "kdr": "22\n11\n11",
+            "kills": "283",
+            "name": "rlzy",
+            "team": null
+          },
+          {
+            "acs": "1.05\n1.01\n1.03",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n50\n24\n26\n\n/",
+            "deaths": "47\n26\n21",
+            "fk": "110\n103\n117",
+            "hs%": "83%\n87%\n78%",
+            "kdr": "40\n23\n17",
+            "kills": "161",
+            "name": "Bati",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n1.04\n1.07",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n64\n29\n35\n\n/",
+            "deaths": "63\n30\n33",
+            "fk": "154\n152\n155",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "27\n14\n13",
+            "kills": "225",
+            "name": "nasK",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.70\n0.88",
+            "adr": "-15\n-1\n-14",
+            "agent": "",
+            "assists": "/\n\n67\n29\n38\n\n/",
+            "deaths": "52\n28\n24",
+            "fk": "124\n144\n107",
+            "hs%": "67%\n68%\n67%",
+            "kdr": "33\n20\n13",
+            "kills": "217",
+            "name": "k0mpa",
+            "team": null
+          },
+          {
+            "acs": "0.58\n1.03\n0.81",
+            "adr": "-18\n-12\n-6",
+            "agent": "",
+            "assists": "/\n\n64\n30\n34\n\n/",
+            "deaths": "46\n18\n28",
+            "fk": "106\n85\n125",
+            "hs%": "60%\n49%\n71%",
+            "kdr": "27\n5\n22",
+            "kills": "130",
+            "name": "Ds",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.62\n0.80",
+            "adr": "-13\n+2\n-15",
+            "agent": "",
+            "assists": "/\n\n68\n33\n35\n\n/",
+            "deaths": "55\n35\n20",
+            "fk": "116\n144\n91",
+            "hs%": "58%\n59%\n58%",
+            "kdr": "8\n2\n6",
+            "kills": "239",
+            "name": "silenttt",
+            "team": null
+          },
+          {
+            "acs": "0.68\n0.90\n0.79",
+            "adr": "-16\n-7\n-9",
+            "agent": "",
+            "assists": "/\n\n74\n32\n42\n\n/",
+            "deaths": "58\n25\n33",
+            "fk": "132\n118\n145",
+            "hs%": "60%\n54%\n67%",
+            "kdr": "21\n8\n13",
+            "kills": "171",
+            "name": "furyan",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "249",
+          "name": "Bati",
+          "team": "Arroz"
+        },
+        {
+          "kills": "256",
+          "name": "DaviH",
+          "team": "Arroz"
+        },
+        {
+          "kills": "243",
+          "name": "rlzy",
+          "team": "Arroz"
+        },
+        {
+          "kills": "141",
+          "name": "Zino",
+          "team": "Arroz"
+        },
+        {
+          "kills": "91",
+          "name": "f3n1x",
+          "team": "Arroz"
+        },
+        {
+          "kills": "207",
+          "name": "silenttt",
+          "team": "RESET"
+        },
+        {
+          "kills": "111",
+          "name": "nasK",
+          "team": "RESET"
+        },
+        {
+          "kills": "143",
+          "name": "furyan",
+          "team": "RESET"
+        },
+        {
+          "kills": "88",
+          "name": "k0mpa",
+          "team": "RESET"
+        },
+        {
+          "kills": "169",
+          "name": "Ds",
+          "team": "RESET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.70\n2.05\n1.50",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "159\n135\n173",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "9\n3\n6",
+            "kills": "249",
+            "name": "Bati",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.25\n1.12\n1.32",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "145\n131\n154",
+            "hs%": "84%\n100%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "256",
+            "name": "DaviH",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.20\n1.40\n1.08",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "170\n208\n147",
+            "hs%": "79%\n100%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "243",
+            "name": "rlzy",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.88\n1.47\n0.54",
+            "adr": "+1\n+5\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "110\n158\n83",
+            "hs%": "74%\n86%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "141",
+            "name": "Zino",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.83\n1.47\n0.46",
+            "adr": "-3\n+4\n-7",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "91\n140\n62",
+            "hs%": "74%\n100%\n58%",
+            "kdr": "8\n2\n6",
+            "kills": "91",
+            "name": "f3n1x",
+            "team": "Arroz"
+          }
+        ],
+        [
+          {
+            "acs": "1.05\n1.22\n0.75",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "155\n168\n134",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "0\n0\n0",
+            "kills": "207",
+            "name": "silenttt",
+            "team": "RESET"
+          },
+          {
+            "acs": "1.02\n1.46\n0.27",
+            "adr": "-2\n+3\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n11\n2",
+            "fk": "151\n196\n73",
+            "hs%": "74%\n83%\n57%",
+            "kdr": "6\n5\n1",
+            "kills": "111",
+            "name": "nasK",
+            "team": "RESET"
+          },
+          {
+            "acs": "0.74\n0.93\n0.42",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "102\n112\n86",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "2\n1\n1",
+            "kills": "143",
+            "name": "furyan",
+            "team": "RESET"
+          },
+          {
+            "acs": "0.71\n0.96\n0.29",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "134\n169\n73",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "10\n9\n1",
+            "kills": "88",
+            "name": "k0mpa",
+            "team": "RESET"
+          },
+          {
+            "acs": "0.63\n0.57\n0.74",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "104\n89\n130",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "7\n4\n3",
+            "kills": "169",
+            "name": "Ds",
+            "team": "RESET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "322",
+          "name": "Zino",
+          "team": "Arroz"
+        },
+        {
+          "kills": "228",
+          "name": "Bati",
+          "team": "Arroz"
+        },
+        {
+          "kills": "193",
+          "name": "f3n1x",
+          "team": "Arroz"
+        },
+        {
+          "kills": "269",
+          "name": "DaviH",
+          "team": "Arroz"
+        },
+        {
+          "kills": "193",
+          "name": "rlzy",
+          "team": "Arroz"
+        },
+        {
+          "kills": "248",
+          "name": "nasK",
+          "team": "RESET"
+        },
+        {
+          "kills": "177",
+          "name": "Ds",
+          "team": "RESET"
+        },
+        {
+          "kills": "210",
+          "name": "furyan",
+          "team": "RESET"
+        },
+        {
+          "kills": "127",
+          "name": "k0mpa",
+          "team": "RESET"
+        },
+        {
+          "kills": "104",
+          "name": "silenttt",
+          "team": "RESET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.79\n1.81\n1.75",
+            "adr": "+14\n+10\n+4",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "23\n16\n7",
+            "fk": "205\n215\n185",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "322",
+            "name": "Zino",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.60\n1.41\n1.97",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "158\n134\n207",
+            "hs%": "94%\n100%\n83%",
+            "kdr": "12\n8\n4",
+            "kills": "228",
+            "name": "Bati",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.41\n1.81\n0.62",
+            "adr": "+5\n+8\n-3",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "12\n11\n1",
+            "fk": "139\n169\n78",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "193",
+            "name": "f3n1x",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.33\n1.15\n1.68",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "164\n165\n162",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "7\n6\n1",
+            "kills": "269",
+            "name": "DaviH",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.58\n0.50\n0.73",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "129\n130\n128",
+            "hs%": "67%\n75%\n50%",
+            "kdr": "7\n6\n1",
+            "kills": "193",
+            "name": "rlzy",
+            "team": "Arroz"
+          }
+        ],
+        [
+          {
+            "acs": "1.10\n0.05\n1.62",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "13\n0\n13",
+            "fk": "168\n48\n228",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "248",
+            "name": "nasK",
+            "team": "RESET"
+          },
+          {
+            "acs": "0.82\n0.91\n0.77",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "125\n107\n135",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "2\n0\n2",
+            "kills": "177",
+            "name": "Ds",
+            "team": "RESET"
+          },
+          {
+            "acs": "0.61\n1.27\n0.28",
+            "adr": "-4\n+4\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "134\n229\n87",
+            "hs%": "39%\n50%\n33%",
+            "kdr": "2\n0\n2",
+            "kills": "210",
+            "name": "furyan",
+            "team": "RESET"
+          },
+          {
+            "acs": "0.58\n0.30\n0.72",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "99\n50\n124",
+            "hs%": "56%\n33%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "127",
+            "name": "k0mpa",
+            "team": "RESET"
+          },
+          {
+            "acs": "0.33\n0.68\n0.16",
+            "adr": "-11\n-2\n-9",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "75\n99\n64",
+            "hs%": "50%\n83%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "104",
+            "name": "silenttt",
+            "team": "RESET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "293",
+          "name": "rlzy",
+          "team": "Arroz"
+        },
+        {
+          "kills": "263",
+          "name": "Zino",
+          "team": "Arroz"
+        },
+        {
+          "kills": "242",
+          "name": "f3n1x",
+          "team": "Arroz"
+        },
+        {
+          "kills": "229",
+          "name": "DaviH",
+          "team": "Arroz"
+        },
+        {
+          "kills": "91",
+          "name": "Bati",
+          "team": "Arroz"
+        },
+        {
+          "kills": "220",
+          "name": "k0mpa",
+          "team": "RESET"
+        },
+        {
+          "kills": "224",
+          "name": "nasK",
+          "team": "RESET"
+        },
+        {
+          "kills": "164",
+          "name": "Ds",
+          "team": "RESET"
+        },
+        {
+          "kills": "190",
+          "name": "furyan",
+          "team": "RESET"
+        },
+        {
+          "kills": "125",
+          "name": "silenttt",
+          "team": "RESET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.38\n1.41\n1.35",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "28\n15\n13",
+            "fk": "205\n211\n198",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "5\n2\n3",
+            "kills": "293",
+            "name": "rlzy",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.31\n0.96\n1.65",
+            "adr": "+9\n-1\n+10",
+            "agent": "",
+            "assists": "/\n\n19\n13\n6\n\n/",
+            "deaths": "28\n12\n16",
+            "fk": "158\n126\n191",
+            "hs%": "64%\n64%\n64%",
+            "kdr": "0\n0\n0",
+            "kills": "263",
+            "name": "Zino",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.30\n1.06\n1.55",
+            "adr": "+7\n-2\n+9",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "150\n142\n157",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "15\n8\n7",
+            "kills": "242",
+            "name": "f3n1x",
+            "team": "Arroz"
+          },
+          {
+            "acs": "1.29\n1.45\n1.12",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "151\n171\n131",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "20\n11\n9",
+            "kills": "229",
+            "name": "DaviH",
+            "team": "Arroz"
+          },
+          {
+            "acs": "0.47\n0.36\n0.57",
+            "adr": "-14\n-9\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "6\n2\n4",
+            "fk": "58\n50\n66",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "14\n9\n5",
+            "kills": "91",
+            "name": "Bati",
+            "team": "Arroz"
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n1.22\n0.91",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "136\n151\n121",
+            "hs%": "71%\n71%\n71%",
+            "kdr": "7\n1\n6",
+            "kills": "220",
+            "name": "k0mpa",
+            "team": "RESET"
+          },
+          {
+            "acs": "1.07\n0.98\n1.17",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "147\n127\n168",
+            "hs%": "68%\n64%\n71%",
+            "kdr": "5\n1\n4",
+            "kills": "224",
+            "name": "nasK",
+            "team": "RESET"
+          },
+          {
+            "acs": "0.93\n0.48\n1.37",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "106\n77\n134",
+            "hs%": "71%\n50%\n93%",
+            "kdr": "14\n1\n13",
+            "kills": "164",
+            "name": "Ds",
+            "team": "RESET"
+          },
+          {
+            "acs": "0.73\n0.28\n1.19",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "121\n72\n170",
+            "hs%": "64%\n43%\n86%",
+            "kdr": "7\n4\n3",
+            "kills": "190",
+            "name": "furyan",
+            "team": "RESET"
+          },
+          {
+            "acs": "0.49\n0.50\n0.47",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n22\n13\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "90\n82\n98",
+            "hs%": "54%\n36%\n71%",
+            "kdr": "5\n1\n4",
+            "kills": "125",
+            "name": "silenttt",
+            "team": "RESET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 110393,
+  "teams": [
+    "RESET",
+    "Arroz"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tGrand Final"
+}

@@ -1,0 +1,788 @@
+{
+  "date": "2022-03-25 18:15:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "240",
+          "name": "zekken",
+          "team": "XSET"
+        },
+        {
+          "kills": "199",
+          "name": "dephh",
+          "team": "XSET"
+        },
+        {
+          "kills": "155",
+          "name": "BcJ",
+          "team": "XSET"
+        },
+        {
+          "kills": "122",
+          "name": "AYRIN",
+          "team": "XSET"
+        },
+        {
+          "kills": "136",
+          "name": "Cryocells",
+          "team": "XSET"
+        },
+        {
+          "kills": "270",
+          "name": "mitch",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "274",
+          "name": "Xeppaa",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "242",
+          "name": "vanity",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "134",
+          "name": "xeta",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "246",
+          "name": "leaf",
+          "team": "Cloud9"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.02\n0.68\n1.85",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "159\n127\n236",
+            "hs%": "59%\n42%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "240",
+            "name": "zekken",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.92\n0.75\n1.32",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "125\n131\n111",
+            "hs%": "65%\n50%\n100%",
+            "kdr": "2\n0\n2",
+            "kills": "199",
+            "name": "dephh",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.62\n0.45\n1.03",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "103\n100\n110",
+            "hs%": "47%\n33%\n80%",
+            "kdr": "5\n2\n3",
+            "kills": "155",
+            "name": "BcJ",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.60\n0.45\n0.97",
+            "adr": "-8\n-8\n0",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "75\n70\n88",
+            "hs%": "71%\n67%\n80%",
+            "kdr": "7\n5\n2",
+            "kills": "122",
+            "name": "AYRIN",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.59\n0.18\n1.59",
+            "adr": "-7\n-9\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "95\n63\n171",
+            "hs%": "59%\n50%\n80%",
+            "kdr": "4\n3\n1",
+            "kills": "136",
+            "name": "Cryocells",
+            "team": "XSET"
+          }
+        ],
+        [
+          {
+            "acs": "1.65\n1.08\n1.89",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "169\n166\n171",
+            "hs%": "88%\n60%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "270",
+            "name": "mitch",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.39\n0.33\n1.84",
+            "adr": "+8\n-3\n+11",
+            "agent": "",
+            "assists": "/\n\n10\n5\n5\n\n/",
+            "deaths": "18\n2\n16",
+            "fk": "165\n80\n200",
+            "hs%": "94%\n80%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "274",
+            "name": "Xeppaa",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.14\n0.44\n1.43",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "16\n2\n14",
+            "fk": "132\n74\n156",
+            "hs%": "82%\n60%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "242",
+            "name": "vanity",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.08\n0.42\n1.35",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "92\n39\n114",
+            "hs%": "76%\n40%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "134",
+            "name": "xeta",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.86\n0.81\n0.88",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "175\n154\n184",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "246",
+            "name": "leaf",
+            "team": "Cloud9"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "183",
+          "name": "Cryocells",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "zekken",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "BcJ",
+          "team": null
+        },
+        {
+          "kills": "178",
+          "name": "dephh",
+          "team": null
+        },
+        {
+          "kills": "120",
+          "name": "AYRIN",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "mitch",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "leaf",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "Xeppaa",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "vanity",
+          "team": null
+        },
+        {
+          "kills": "81",
+          "name": "xeta",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.80\n1.52\n1.06",
+            "adr": "+3\n-7\n+10",
+            "agent": "",
+            "assists": "/\n\n40\n29\n11\n\n/",
+            "deaths": "43\n22\n21",
+            "fk": "135\n110\n182",
+            "hs%": "66%\n56%\n85%",
+            "kdr": "9\n5\n4",
+            "kills": "183",
+            "name": "Cryocells",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.26\n0.96",
+            "adr": "-7\n-12\n+5",
+            "agent": "",
+            "assists": "/\n\n42\n30\n12\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "122\n110\n144",
+            "hs%": "64%\n47%\n95%",
+            "kdr": "17\n12\n5",
+            "kills": "167",
+            "name": "zekken",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.04\n0.81",
+            "adr": "-15\n-15\n0",
+            "agent": "",
+            "assists": "/\n\n44\n31\n13\n\n/",
+            "deaths": "29\n16\n13",
+            "fk": "121\n102\n154",
+            "hs%": "64%\n56%\n80%",
+            "kdr": "21\n8\n13",
+            "kills": "145",
+            "name": "BcJ",
+            "team": null
+          },
+          {
+            "acs": "0.64\n1.01\n0.77",
+            "adr": "-9\n-13\n+4",
+            "agent": "",
+            "assists": "/\n\n41\n34\n7\n\n/",
+            "deaths": "32\n21\n11",
+            "fk": "111\n120\n94",
+            "hs%": "66%\n58%\n80%",
+            "kdr": "9\n6\n3",
+            "kills": "178",
+            "name": "dephh",
+            "team": null
+          },
+          {
+            "acs": "0.62\n0.98\n0.75",
+            "adr": "-13\n-15\n+2",
+            "agent": "",
+            "assists": "/\n\n41\n30\n11\n\n/",
+            "deaths": "28\n15\n13",
+            "fk": "77\n67\n96",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "19\n14\n5",
+            "kills": "120",
+            "name": "AYRIN",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.81\n1.50\n1.25",
+            "adr": "+14\n-2\n+16",
+            "agent": "",
+            "assists": "/\n\n27\n15\n12\n\n/",
+            "deaths": "41\n13\n28",
+            "fk": "134\n120\n142",
+            "hs%": "82%\n60%\n94%",
+            "kdr": "10\n2\n8",
+            "kills": "185",
+            "name": "mitch",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.41\n1.15",
+            "adr": "+13\n-3\n+16",
+            "agent": "",
+            "assists": "/\n\n41\n17\n24\n\n/",
+            "deaths": "54\n14\n40",
+            "fk": "171\n107\n207",
+            "hs%": "61%\n45%\n69%",
+            "kdr": "13\n0\n13",
+            "kills": "190",
+            "name": "leaf",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.33\n1.14",
+            "adr": "+9\n-5\n+14",
+            "agent": "",
+            "assists": "/\n\n36\n16\n20\n\n/",
+            "deaths": "45\n11\n34",
+            "fk": "139\n112\n154",
+            "hs%": "82%\n70%\n89%",
+            "kdr": "19\n5\n14",
+            "kills": "176",
+            "name": "Xeppaa",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.12\n1.06",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n33\n13\n20\n\n/",
+            "deaths": "43\n13\n30",
+            "fk": "129\n107\n141",
+            "hs%": "73%\n65%\n78%",
+            "kdr": "17\n7\n10",
+            "kills": "169",
+            "name": "vanity",
+            "team": null
+          },
+          {
+            "acs": "0.60\n1.04\n0.88",
+            "adr": "-5\n-9\n+4",
+            "agent": "",
+            "assists": "/\n\n30\n14\n16\n\n/",
+            "deaths": "25\n5\n20",
+            "fk": "78\n53\n93",
+            "hs%": "79%\n60%\n89%",
+            "kdr": "10\n5\n5",
+            "kills": "81",
+            "name": "xeta",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "334",
+          "name": "Cryocells",
+          "team": "XSET"
+        },
+        {
+          "kills": "206",
+          "name": "zekken",
+          "team": "XSET"
+        },
+        {
+          "kills": "272",
+          "name": "BcJ",
+          "team": "XSET"
+        },
+        {
+          "kills": "188",
+          "name": "AYRIN",
+          "team": "XSET"
+        },
+        {
+          "kills": "107",
+          "name": "dephh",
+          "team": "XSET"
+        },
+        {
+          "kills": "256",
+          "name": "Xeppaa",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "211",
+          "name": "mitch",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "175",
+          "name": "vanity",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "260",
+          "name": "leaf",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "114",
+          "name": "xeta",
+          "team": "Cloud9"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.70\n1.57\n1.83",
+            "adr": "+15\n+5\n+10",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "27\n12\n15",
+            "fk": "183\n156\n210",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "334",
+            "name": "Cryocells",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.15\n1.05\n1.25",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "110\n98\n123",
+            "hs%": "75%\n50%\n100%",
+            "kdr": "4\n2\n2",
+            "kills": "206",
+            "name": "zekken",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.13\n0.99\n1.27",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "159\n124\n194",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "11\n3\n8",
+            "kills": "272",
+            "name": "BcJ",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.97\n0.73\n1.22",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "85\n59\n110",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "8\n5\n3",
+            "kills": "188",
+            "name": "AYRIN",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.62\n0.36\n0.89",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "84\n87\n81",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "6\n5\n1",
+            "kills": "107",
+            "name": "dephh",
+            "team": "XSET"
+          }
+        ],
+        [
+          {
+            "acs": "1.01\n0.85\n1.17",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "143\n127\n158",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "256",
+            "name": "Xeppaa",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.89\n0.39\n1.38",
+            "adr": "-2\n-6\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "112\n85\n139",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "211",
+            "name": "mitch",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.85\n0.96\n0.74",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "116\n110\n123",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "175",
+            "name": "vanity",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.74\n0.25\n1.23",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "106\n51\n162",
+            "hs%": "46%\n25%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "260",
+            "name": "leaf",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "0.61\n0.59\n0.64",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "59\n51\n68",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "114",
+            "name": "xeta",
+            "team": "Cloud9"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "198",
+          "name": "dephh",
+          "team": "XSET"
+        },
+        {
+          "kills": "159",
+          "name": "zekken",
+          "team": "XSET"
+        },
+        {
+          "kills": "165",
+          "name": "Cryocells",
+          "team": "XSET"
+        },
+        {
+          "kills": "133",
+          "name": "AYRIN",
+          "team": "XSET"
+        },
+        {
+          "kills": "95",
+          "name": "BcJ",
+          "team": "XSET"
+        },
+        {
+          "kills": "434",
+          "name": "leaf",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "180",
+          "name": "mitch",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "236",
+          "name": "vanity",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "150",
+          "name": "xeta",
+          "team": "Cloud9"
+        },
+        {
+          "kills": "174",
+          "name": "Xeppaa",
+          "team": "Cloud9"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "0.83\n0.79\n0.97",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "137\n142\n118",
+            "hs%": "40%\n42%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "198",
+            "name": "dephh",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.60\n0.68\n0.29",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "101\n106\n77",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "9\n8\n1",
+            "kills": "159",
+            "name": "zekken",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.57\n0.66\n0.20",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "105\n109\n89",
+            "hs%": "47%\n42%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "165",
+            "name": "Cryocells",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.55\n0.68\n0.05",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "69\n72\n54",
+            "hs%": "73%\n83%\n33%",
+            "kdr": "4\n4\n0",
+            "kills": "133",
+            "name": "AYRIN",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.53\n0.63\n0.14",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "4\n4\n0",
+            "fk": "80\n83\n70",
+            "hs%": "60%\n58%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "95",
+            "name": "BcJ",
+            "team": "XSET"
+          }
+        ],
+        [
+          {
+            "acs": "2.14\n2.26\n2.11",
+            "adr": "+16\n+4\n+12",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "24\n5\n19",
+            "fk": "270\n255\n274",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "8\n0\n8",
+            "kills": "434",
+            "name": "leaf",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.39\n2.05\n1.23",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n5\n1\n4\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "129\n181\n116",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "180",
+            "name": "mitch",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.32\n1.84\n1.18",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "145\n152\n143",
+            "hs%": "80%\n100%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "236",
+            "name": "vanity",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.10\n0.97\n1.13",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "8\n1\n7",
+            "fk": "93\n86\n95",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "3\n2\n1",
+            "kills": "150",
+            "name": "xeta",
+            "team": "Cloud9"
+          },
+          {
+            "acs": "1.07\n1.35\n1.00",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "104\n104\n104",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "174",
+            "name": "Xeppaa",
+            "team": "Cloud9"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 77797,
+  "teams": [
+    "XSET",
+    "Cloud9"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tLower Round 3"
+}

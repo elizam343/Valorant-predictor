@@ -1,0 +1,788 @@
+{
+  "date": "2021-04-09 05:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "196",
+          "name": "Einarhkays",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "195",
+          "name": "mika",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "242",
+          "name": "ValdyN",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "220",
+          "name": "meejaey",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "191",
+          "name": "zhar",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "225",
+          "name": "Kushy",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "234",
+          "name": "klipp",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "229",
+          "name": "Mexious",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "190",
+          "name": "asturobot",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "189",
+          "name": "Freckie",
+          "team": "Reckless Lads"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.02\n0.95\n1.10",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "113\n99\n127",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "196",
+            "name": "Einarhkays",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "0.99\n0.77\n1.21",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "127\n114\n140",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "4\n1\n3",
+            "kills": "195",
+            "name": "mika",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "0.97\n0.47\n1.48",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "143\n96\n190",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "242",
+            "name": "ValdyN",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "0.94\n0.73\n1.15",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "133\n109\n158",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "220",
+            "name": "meejaey",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "0.85\n1.37\n0.32",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "105\n129\n80",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "191",
+            "name": "zhar",
+            "team": "GEEK Fam ID"
+          }
+        ],
+        [
+          {
+            "acs": "1.17\n1.02\n1.32",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "139\n131\n147",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "12\n5\n7",
+            "kills": "225",
+            "name": "Kushy",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "1.13\n0.72\n1.53",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "155\n101\n209",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "4\n4\n0",
+            "kills": "234",
+            "name": "klipp",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "1.01\n0.61\n1.42",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "149\n109\n190",
+            "hs%": "75%\n58%\n92%",
+            "kdr": "5\n3\n2",
+            "kills": "229",
+            "name": "Mexious",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "0.93\n1.11\n0.74",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "121\n117\n126",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "190",
+            "name": "asturobot",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "0.83\n1.35\n0.30",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "120\n190\n49",
+            "hs%": "63%\n75%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "189",
+            "name": "Freckie",
+            "team": "Reckless Lads"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "203",
+          "name": "mika",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "ValdyN",
+          "team": null
+        },
+        {
+          "kills": "208",
+          "name": "meejaey",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "Einarhkays",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "zhar",
+          "team": null
+        },
+        {
+          "kills": "302",
+          "name": "Kushy",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "Mexious",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "klipp",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "Freckie",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "asturobot",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.03\n1.04\n1.04",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "45\n22\n23",
+            "fk": "128\n122\n134",
+            "hs%": "72%\n71%\n74%",
+            "kdr": "14\n5\n9",
+            "kills": "203",
+            "name": "mika",
+            "team": null
+          },
+          {
+            "acs": "0.42\n1.55\n1.01",
+            "adr": "+2\n-16\n+18",
+            "agent": "",
+            "assists": "/\n\n52\n30\n22\n\n/",
+            "deaths": "54\n14\n40",
+            "fk": "143\n91\n191",
+            "hs%": "72%\n68%\n76%",
+            "kdr": "16\n9\n7",
+            "kills": "150",
+            "name": "ValdyN",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.03\n0.92",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "48\n23\n25",
+            "fk": "140\n125\n154",
+            "hs%": "69%\n61%\n76%",
+            "kdr": "14\n4\n10",
+            "kills": "208",
+            "name": "meejaey",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.69\n0.70",
+            "adr": "-18\n-10\n-8",
+            "agent": "",
+            "assists": "/\n\n53\n26\n27\n\n/",
+            "deaths": "35\n16\n19",
+            "fk": "86\n76\n95",
+            "hs%": "63%\n68%\n59%",
+            "kdr": "15\n9\n6",
+            "kills": "152",
+            "name": "Einarhkays",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.51\n0.67",
+            "adr": "-21\n-7\n-14",
+            "agent": "",
+            "assists": "/\n\n55\n26\n29\n\n/",
+            "deaths": "34\n19\n15",
+            "fk": "103\n116\n91",
+            "hs%": "63%\n61%\n65%",
+            "kdr": "15\n7\n8",
+            "kills": "185",
+            "name": "zhar",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.40\n1.22\n1.32",
+            "adr": "+19\n+11\n+8",
+            "agent": "",
+            "assists": "/\n\n46\n25\n21\n\n/",
+            "deaths": "65\n36\n29",
+            "fk": "170\n184\n155",
+            "hs%": "82%\n82%\n81%",
+            "kdr": "27\n14\n13",
+            "kills": "302",
+            "name": "Kushy",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.34\n1.11",
+            "adr": "+11\n-1\n+12",
+            "agent": "",
+            "assists": "/\n\n47\n27\n20\n\n/",
+            "deaths": "58\n26\n32",
+            "fk": "152\n134\n172",
+            "hs%": "75%\n65%\n87%",
+            "kdr": "12\n5\n7",
+            "kills": "222",
+            "name": "Mexious",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.27\n1.07",
+            "adr": "+5\n-6\n+11",
+            "agent": "",
+            "assists": "/\n\n42\n23\n19\n\n/",
+            "deaths": "47\n17\n30",
+            "fk": "142\n119\n168",
+            "hs%": "68%\n56%\n81%",
+            "kdr": "16\n12\n4",
+            "kills": "155",
+            "name": "klipp",
+            "team": null
+          },
+          {
+            "acs": "1.11\n0.98\n1.05",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n42\n24\n18\n\n/",
+            "deaths": "46\n24\n22",
+            "fk": "124\n135\n112",
+            "hs%": "82%\n85%\n77%",
+            "kdr": "11\n9\n2",
+            "kills": "215",
+            "name": "Freckie",
+            "team": null
+          },
+          {
+            "acs": "0.86\n1.00\n0.93",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n39\n23\n16\n\n/",
+            "deaths": "44\n23\n21",
+            "fk": "106\n107\n105",
+            "hs%": "72%\n65%\n81%",
+            "kdr": "11\n6\n5",
+            "kills": "179",
+            "name": "asturobot",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "439",
+          "name": "ValdyN",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "137",
+          "name": "mika",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "226",
+          "name": "meejaey",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "143",
+          "name": "Einarhkays",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "86",
+          "name": "zhar",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "253",
+          "name": "Mexious",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "235",
+          "name": "Kushy",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "208",
+          "name": "asturobot",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "261",
+          "name": "Freckie",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "211",
+          "name": "klipp",
+          "team": "Reckless Lads"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.12\n0.36\n2.04",
+            "adr": "+4\n-7\n+11",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "22\n5\n17",
+            "fk": "150\n90\n222",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "3\n3\n0",
+            "kills": "439",
+            "name": "ValdyN",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "1.05\n1.40\n0.64",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "124\n169\n69",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "5\n3\n2",
+            "kills": "137",
+            "name": "mika",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "0.95\n0.95\n0.95",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "136\n154\n115",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "1\n0\n1",
+            "kills": "226",
+            "name": "meejaey",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "0.59\n0.63\n0.54",
+            "adr": "-11\n-7\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "62\n56\n69",
+            "hs%": "59%\n67%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "143",
+            "name": "Einarhkays",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "0.52\n0.73\n0.26",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "102\n129\n70",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "6\n2\n4",
+            "kills": "86",
+            "name": "zhar",
+            "team": "GEEK Fam ID"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n1.24\n1.10",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "156\n174\n142",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "253",
+            "name": "Mexious",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "1.15\n1.55\n0.81",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "163\n189\n141",
+            "hs%": "77%\n90%\n67%",
+            "kdr": "11\n5\n6",
+            "kills": "235",
+            "name": "Kushy",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "1.07\n0.92\n1.20",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "118\n106\n127",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "208",
+            "name": "asturobot",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "1.06\n0.62\n1.43",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "119\n71\n160",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "1\n1\n0",
+            "kills": "261",
+            "name": "Freckie",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "0.96\n0.70\n1.17",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "119\n91\n141",
+            "hs%": "68%\n50%\n83%",
+            "kdr": "7\n4\n3",
+            "kills": "211",
+            "name": "klipp",
+            "team": "Reckless Lads"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "229",
+          "name": "mika",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "190",
+          "name": "ValdyN",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "225",
+          "name": "meejaey",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "129",
+          "name": "zhar",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "146",
+          "name": "Einarhkays",
+          "team": "GEEK Fam ID"
+        },
+        {
+          "kills": "363",
+          "name": "Kushy",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "226",
+          "name": "Freckie",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "244",
+          "name": "Mexious",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "223",
+          "name": "klipp",
+          "team": "Reckless Lads"
+        },
+        {
+          "kills": "140",
+          "name": "asturobot",
+          "team": "Reckless Lads"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.08\n0.85\n1.21",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "135\n56\n182",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "229",
+            "name": "mika",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "0.94\n0.44\n1.22",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "137\n86\n166",
+            "hs%": "68%\n57%\n75%",
+            "kdr": "9\n3\n6",
+            "kills": "190",
+            "name": "ValdyN",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "0.86\n0.66\n0.98",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "153\n104\n181",
+            "hs%": "74%\n57%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "225",
+            "name": "meejaey",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "0.64\n0.20\n0.90",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "101\n72\n118",
+            "hs%": "58%\n57%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "129",
+            "name": "zhar",
+            "team": "GEEK Fam ID"
+          },
+          {
+            "acs": "0.43\n0.47\n0.40",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "80\n73\n84",
+            "hs%": "53%\n43%\n58%",
+            "kdr": "5\n1\n4",
+            "kills": "146",
+            "name": "Einarhkays",
+            "team": "GEEK Fam ID"
+          }
+        ],
+        [
+          {
+            "acs": "1.69\n1.65\n1.77",
+            "adr": "+14\n+7\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "26\n15\n11",
+            "fk": "218\n234\n191",
+            "hs%": "84%\n75%\n100%",
+            "kdr": "4\n4\n0",
+            "kills": "363",
+            "name": "Kushy",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "1.30\n1.27\n1.36",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "135\n133\n140",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "4\n3\n1",
+            "kills": "226",
+            "name": "Freckie",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "1.16\n0.89\n1.61",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "151\n125\n194",
+            "hs%": "74%\n58%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "244",
+            "name": "Mexious",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "1.13\n1.21\n0.99",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "154\n160\n145",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "5\n4\n1",
+            "kills": "223",
+            "name": "klipp",
+            "team": "Reckless Lads"
+          },
+          {
+            "acs": "0.76\n0.56\n1.11",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "74\n99\n32",
+            "hs%": "68%\n50%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "140",
+            "name": "asturobot",
+            "team": "Reckless Lads"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 15816,
+  "teams": [
+    "Reckless Lads",
+    "GEEK Fam ID"
+  ],
+  "tournament": "Qualifier: \n\t\t\t\t\t\tRound of 32"
+}

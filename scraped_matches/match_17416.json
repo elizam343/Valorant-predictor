@@ -1,0 +1,788 @@
+{
+  "date": "2021-04-25 13:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "363",
+          "name": "musashi",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "186",
+          "name": "KRAY",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "180",
+          "name": "Br0die",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "212",
+          "name": "stanley",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "163",
+          "name": "Russ",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "294",
+          "name": "krea6on",
+          "team": "HONK"
+        },
+        {
+          "kills": "221",
+          "name": "synsi",
+          "team": "HONK"
+        },
+        {
+          "kills": "226",
+          "name": "Dreamas",
+          "team": "HONK"
+        },
+        {
+          "kills": "190",
+          "name": "trexx",
+          "team": "HONK"
+        },
+        {
+          "kills": "99",
+          "name": "feqew",
+          "team": "HONK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.45\n1.27\n1.62",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n23\n11\n12\n\n/",
+            "deaths": "35\n15\n20",
+            "fk": "210\n177\n243",
+            "hs%": "75%\n86%\n64%",
+            "kdr": "5\n3\n2",
+            "kills": "363",
+            "name": "musashi",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "1.12\n1.33\n0.91",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "132\n160\n104",
+            "hs%": "79%\n86%\n71%",
+            "kdr": "9\n6\n3",
+            "kills": "186",
+            "name": "KRAY",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "0.99\n1.26\n0.72",
+            "adr": "+2\n+7\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "112\n121\n104",
+            "hs%": "75%\n86%\n64%",
+            "kdr": "6\n3\n3",
+            "kills": "180",
+            "name": "Br0die",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "0.96\n1.22\n0.69",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "140\n157\n123",
+            "hs%": "82%\n86%\n79%",
+            "kdr": "5\n3\n2",
+            "kills": "212",
+            "name": "stanley",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "0.88\n0.94\n0.81",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n7\n13\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "104\n81\n127",
+            "hs%": "79%\n79%\n79%",
+            "kdr": "13\n4\n9",
+            "kills": "163",
+            "name": "Russ",
+            "team": "Tarren Mill"
+          }
+        ],
+        [
+          {
+            "acs": "1.30\n1.59\n1.02",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "28\n17\n11",
+            "fk": "197\n253\n141",
+            "hs%": "68%\n86%\n50%",
+            "kdr": "7\n6\n1",
+            "kills": "294",
+            "name": "krea6on",
+            "team": "HONK"
+          },
+          {
+            "acs": "1.25\n1.42\n1.08",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "154\n168\n140",
+            "hs%": "86%\n93%\n79%",
+            "kdr": "13\n8\n5",
+            "kills": "221",
+            "name": "synsi",
+            "team": "HONK"
+          },
+          {
+            "acs": "1.01\n0.99\n1.04",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "154\n146\n162",
+            "hs%": "79%\n71%\n86%",
+            "kdr": "7\n1\n6",
+            "kills": "226",
+            "name": "Dreamas",
+            "team": "HONK"
+          },
+          {
+            "acs": "0.81\n1.11\n0.50",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "122\n163\n81",
+            "hs%": "64%\n79%\n50%",
+            "kdr": "7\n3\n4",
+            "kills": "190",
+            "name": "trexx",
+            "team": "HONK"
+          },
+          {
+            "acs": "0.37\n0.45\n0.29",
+            "adr": "-18\n-8\n-10",
+            "agent": "",
+            "assists": "/\n\n25\n12\n13\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "72\n71\n74",
+            "hs%": "75%\n79%\n71%",
+            "kdr": "9\n4\n5",
+            "kills": "99",
+            "name": "feqew",
+            "team": "HONK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "301",
+          "name": "stanley",
+          "team": null
+        },
+        {
+          "kills": "267",
+          "name": "musashi",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "Br0die",
+          "team": null
+        },
+        {
+          "kills": "201",
+          "name": "KRAY",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "Russ",
+          "team": null
+        },
+        {
+          "kills": "226",
+          "name": "synsi",
+          "team": null
+        },
+        {
+          "kills": "279",
+          "name": "krea6on",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "trexx",
+          "team": null
+        },
+        {
+          "kills": "209",
+          "name": "Dreamas",
+          "team": null
+        },
+        {
+          "kills": "141",
+          "name": "feqew",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.62\n0.90\n1.27",
+            "adr": "+17\n+19\n-2",
+            "agent": "",
+            "assists": "/\n\n40\n18\n22\n\n/",
+            "deaths": "57\n37\n20",
+            "fk": "157\n194\n118",
+            "hs%": "79%\n81%\n77%",
+            "kdr": "12\n4\n8",
+            "kills": "301",
+            "name": "stanley",
+            "team": null
+          },
+          {
+            "acs": "1.02\n1.52\n1.26",
+            "adr": "+19\n+5\n+14",
+            "agent": "",
+            "assists": "/\n\n49\n25\n24\n\n/",
+            "deaths": "68\n30\n38",
+            "fk": "172\n136\n211",
+            "hs%": "73%\n72%\n73%",
+            "kdr": "11\n5\n6",
+            "kills": "267",
+            "name": "musashi",
+            "team": null
+          },
+          {
+            "acs": "1.16\n0.88\n1.02",
+            "adr": "+2\n+8\n-6",
+            "agent": "",
+            "assists": "/\n\n40\n18\n22\n\n/",
+            "deaths": "42\n26\n16",
+            "fk": "115\n123\n107",
+            "hs%": "76%\n84%\n67%",
+            "kdr": "19\n12\n7",
+            "kills": "205",
+            "name": "Br0die",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.90\n0.96",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n41\n20\n21\n\n/",
+            "deaths": "39\n21\n18",
+            "fk": "125\n138\n112",
+            "hs%": "79%\n84%\n73%",
+            "kdr": "15\n8\n7",
+            "kills": "201",
+            "name": "KRAY",
+            "team": null
+          },
+          {
+            "acs": "0.78\n0.93\n0.85",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n43\n19\n24\n\n/",
+            "deaths": "32\n15\n17",
+            "fk": "108\n89\n129",
+            "hs%": "68%\n69%\n67%",
+            "kdr": "25\n9\n16",
+            "kills": "141",
+            "name": "Russ",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.26\n1.10\n1.17",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n44\n20\n24\n\n/",
+            "deaths": "50\n25\n25",
+            "fk": "144\n157\n132",
+            "hs%": "79%\n87%\n72%",
+            "kdr": "23\n13\n10",
+            "kills": "226",
+            "name": "synsi",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.88\n1.05",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n47\n21\n26\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "159\n188\n131",
+            "hs%": "61%\n67%\n56%",
+            "kdr": "18\n11\n7",
+            "kills": "279",
+            "name": "krea6on",
+            "team": null
+          },
+          {
+            "acs": "1.04\n0.97\n1.00",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n46\n22\n24\n\n/",
+            "deaths": "45\n22\n23",
+            "fk": "134\n148\n120",
+            "hs%": "69%\n80%\n59%",
+            "kdr": "14\n8\n6",
+            "kills": "222",
+            "name": "trexx",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.79\n0.83",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n49\n23\n26\n\n/",
+            "deaths": "44\n25\n19",
+            "fk": "124\n122\n125",
+            "hs%": "69%\n67%\n72%",
+            "kdr": "14\n3\n11",
+            "kills": "209",
+            "name": "Dreamas",
+            "team": null
+          },
+          {
+            "acs": "0.58\n0.49\n0.54",
+            "adr": "-30\n-13\n-17",
+            "agent": "",
+            "assists": "/\n\n52\n25\n27\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "80\n82\n78",
+            "hs%": "69%\n67%\n72%",
+            "kdr": "20\n10\n10",
+            "kills": "141",
+            "name": "feqew",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "221",
+          "name": "musashi",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "240",
+          "name": "Br0die",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "210",
+          "name": "Russ",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "164",
+          "name": "stanley",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "210",
+          "name": "KRAY",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "258",
+          "name": "synsi",
+          "team": "HONK"
+        },
+        {
+          "kills": "282",
+          "name": "trexx",
+          "team": "HONK"
+        },
+        {
+          "kills": "243",
+          "name": "krea6on",
+          "team": "HONK"
+        },
+        {
+          "kills": "247",
+          "name": "Dreamas",
+          "team": "HONK"
+        },
+        {
+          "kills": "56",
+          "name": "feqew",
+          "team": "HONK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.03\n1.11\n0.99",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "144\n97\n168",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "221",
+            "name": "musashi",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "0.87\n0.81\n0.90",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "123\n93\n138",
+            "hs%": "61%\n67%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "240",
+            "name": "Br0die",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "0.77\n0.11\n1.09",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "114\n62\n140",
+            "hs%": "39%\n17%\n50%",
+            "kdr": "5\n1\n4",
+            "kills": "210",
+            "name": "Russ",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "0.76\n0.60\n0.84",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "99\n74\n112",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "164",
+            "name": "stanley",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "0.74\n0.59\n0.81",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "118\n82\n136",
+            "hs%": "72%\n83%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "210",
+            "name": "KRAY",
+            "team": "Tarren Mill"
+          }
+        ],
+        [
+          {
+            "acs": "1.50\n1.48\n1.53",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "170\n186\n137",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "258",
+            "name": "synsi",
+            "team": "HONK"
+          },
+          {
+            "acs": "1.47\n1.21\n2.00",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "144\n156\n121",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "4\n4\n0",
+            "kills": "282",
+            "name": "trexx",
+            "team": "HONK"
+          },
+          {
+            "acs": "1.23\n1.30\n1.11",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "156\n165\n139",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "8\n5\n3",
+            "kills": "243",
+            "name": "krea6on",
+            "team": "HONK"
+          },
+          {
+            "acs": "0.85\n0.80\n0.94",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "123\n123\n124",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "247",
+            "name": "Dreamas",
+            "team": "HONK"
+          },
+          {
+            "acs": "0.69\n0.74\n0.59",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n9\n3\n\n/",
+            "deaths": "7\n6\n1",
+            "fk": "77\n104\n24",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "6\n5\n1",
+            "kills": "56",
+            "name": "feqew",
+            "team": "HONK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "435",
+          "name": "stanley",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "164",
+          "name": "Br0die",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "297",
+          "name": "musashi",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "165",
+          "name": "KRAY",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "175",
+          "name": "Russ",
+          "team": "Tarren Mill"
+        },
+        {
+          "kills": "191",
+          "name": "trexx",
+          "team": "HONK"
+        },
+        {
+          "kills": "152",
+          "name": "synsi",
+          "team": "HONK"
+        },
+        {
+          "kills": "158",
+          "name": "feqew",
+          "team": "HONK"
+        },
+        {
+          "kills": "162",
+          "name": "Dreamas",
+          "team": "HONK"
+        },
+        {
+          "kills": "142",
+          "name": "krea6on",
+          "team": "HONK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "2.39\n2.59\n1.78",
+            "adr": "+23\n+18\n+5",
+            "agent": "",
+            "assists": "/\n\n5\n4\n1\n\n/",
+            "deaths": "28\n22\n6",
+            "fk": "253\n298\n118",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "1\n0\n1",
+            "kills": "435",
+            "name": "stanley",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "1.26\n1.21\n1.39",
+            "adr": "+2\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n7\n0\n\n/",
+            "deaths": "9\n9\n0",
+            "fk": "112\n140\n27",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "9\n6\n3",
+            "kills": "164",
+            "name": "Br0die",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "1.20\n0.69\n2.70",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n11\n9\n2\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "139\n109\n229",
+            "hs%": "69%\n58%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "297",
+            "name": "musashi",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "0.93\n0.87\n1.12",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "122\n140\n65",
+            "hs%": "88%\n83%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "165",
+            "name": "KRAY",
+            "team": "Tarren Mill"
+          },
+          {
+            "acs": "0.91\n0.92\n0.87",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "110\n112\n103",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "175",
+            "name": "Russ",
+            "team": "Tarren Mill"
+          }
+        ],
+        [
+          {
+            "acs": "0.82\n0.27\n1.00",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "142\n73\n165",
+            "hs%": "63%\n75%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "191",
+            "name": "trexx",
+            "team": "HONK"
+          },
+          {
+            "acs": "0.67\n0.03\n0.89",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "97\n32\n119",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "152",
+            "name": "synsi",
+            "team": "HONK"
+          },
+          {
+            "acs": "0.66\n0.60\n0.68",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "98\n59\n111",
+            "hs%": "56%\n25%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "158",
+            "name": "feqew",
+            "team": "HONK"
+          },
+          {
+            "acs": "0.50\n0.74\n0.42",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "71\n38\n82",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "1\n1\n0",
+            "kills": "162",
+            "name": "Dreamas",
+            "team": "HONK"
+          },
+          {
+            "acs": "0.41\n0.02\n0.59",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "6\n0\n6",
+            "fk": "96\n31\n117",
+            "hs%": "38%\n0%\n50%",
+            "kdr": "3\n0\n3",
+            "kills": "142",
+            "name": "krea6on",
+            "team": "HONK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 17416,
+  "teams": [
+    "Tarren Mill",
+    "HONK"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tGrand Final"
+}

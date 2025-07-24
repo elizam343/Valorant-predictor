@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-29 07:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "355",
+          "name": "Georggyyy",
+          "team": "Action PH"
+        },
+        {
+          "kills": "258",
+          "name": "tesseract",
+          "team": "Action PH"
+        },
+        {
+          "kills": "261",
+          "name": "Emman",
+          "team": "Action PH"
+        },
+        {
+          "kills": "215",
+          "name": "modeskiii",
+          "team": "Action PH"
+        },
+        {
+          "kills": "124",
+          "name": "Aryu",
+          "team": "Action PH"
+        },
+        {
+          "kills": "236",
+          "name": "Epenzi",
+          "team": "717 Monster Esports"
+        },
+        {
+          "kills": "175",
+          "name": "Bulek",
+          "team": "717 Monster Esports"
+        },
+        {
+          "kills": "177",
+          "name": "gnaru",
+          "team": "717 Monster Esports"
+        },
+        {
+          "kills": "56",
+          "name": "Roden",
+          "team": "717 Monster Esports"
+        },
+        {
+          "kills": "43",
+          "name": "Chris",
+          "team": "717 Monster Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.65\n1.61\n1.66",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "215\n191\n221",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "3\n0\n3",
+            "kills": "355",
+            "name": "Georggyyy",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.65\n1.60\n1.66",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n6\n0\n6\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "161\n123\n171",
+            "hs%": "80%\n100%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "258",
+            "name": "tesseract",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.46\n0.88\n1.60",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "14\n1\n13",
+            "fk": "163\n92\n181",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "261",
+            "name": "Emman",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.41\n1.93\n1.29",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "142\n159\n137",
+            "hs%": "80%\n100%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "215",
+            "name": "modeskiii",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.17\n2.32\n0.88",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n4\n0\n4\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "76\n125\n64",
+            "hs%": "87%\n100%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "124",
+            "name": "Aryu",
+            "team": "Action PH"
+          }
+        ],
+        [
+          {
+            "acs": "0.94\n1.22\n0.02",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "12\n12\n0",
+            "fk": "144\n174\n22",
+            "hs%": "60%\n75%",
+            "kdr": "1\n1\n0",
+            "kills": "236",
+            "name": "Epenzi",
+            "team": "717 Monster Esports"
+          },
+          {
+            "acs": "0.74\n0.76\n0.69",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "126\n125\n129",
+            "hs%": "53%\n50%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "175",
+            "name": "Bulek",
+            "team": "717 Monster Esports"
+          },
+          {
+            "acs": "0.61\n0.76\n0.04",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "8\n7\n1",
+            "fk": "103\n113\n65",
+            "hs%": "47%\n50%\n33%",
+            "kdr": "3\n3\n0",
+            "kills": "177",
+            "name": "gnaru",
+            "team": "717 Monster Esports"
+          },
+          {
+            "acs": "0.06\n0.09\n0.03",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "2\n2\n0",
+            "fk": "38\n43\n20",
+            "hs%": "33%\n42%",
+            "kdr": "2\n2\n0",
+            "kills": "56",
+            "name": "Roden",
+            "team": "717 Monster Esports"
+          },
+          {
+            "acs": "0.03\n0.02\n0.34",
+            "adr": "-13\n-11\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "1\n0\n1",
+            "fk": "38\n26\n86",
+            "hs%": "27%\n25%\n33%",
+            "kdr": "1\n1\n0",
+            "kills": "43",
+            "name": "Chris",
+            "team": "717 Monster Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "114",
+          "name": "tesseract",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "Georggyyy",
+          "team": null
+        },
+        {
+          "kills": "155",
+          "name": "Aryu",
+          "team": null
+        },
+        {
+          "kills": "84",
+          "name": "Emman",
+          "team": null
+        },
+        {
+          "kills": "128",
+          "name": "modeskiii",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "gnaru",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "Epenzi",
+          "team": null
+        },
+        {
+          "kills": "129",
+          "name": "Bulek",
+          "team": null
+        },
+        {
+          "kills": "68",
+          "name": "Roden",
+          "team": null
+        },
+        {
+          "kills": "62",
+          "name": "Chris",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.53\n1.49",
+            "adr": "+13\n+2\n+11",
+            "agent": "",
+            "assists": "/\n\n10\n0\n10\n\n/",
+            "deaths": "23\n2\n21",
+            "fk": "133\n74\n145",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "6\n0\n6",
+            "kills": "114",
+            "name": "tesseract",
+            "team": null
+          },
+          {
+            "acs": "1.31\n1.45\n1.42",
+            "adr": "+16\n+3\n+13",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "28\n5\n23",
+            "fk": "159\n114\n168",
+            "hs%": "90%\n100%\n88%",
+            "kdr": "3\n0\n3",
+            "kills": "253",
+            "name": "Georggyyy",
+            "team": null
+          },
+          {
+            "acs": "1.74\n1.19\n1.28",
+            "adr": "+13\n+4\n+9",
+            "agent": "",
+            "assists": "/\n\n7\n0\n7\n\n/",
+            "deaths": "20\n4\n16",
+            "fk": "95\n75\n99",
+            "hs%": "90%\n100%\n88%",
+            "kdr": "3\n0\n3",
+            "kills": "155",
+            "name": "Aryu",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.31\n1.23",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n2\n13\n\n/",
+            "deaths": "21\n1\n20",
+            "fk": "142\n55\n160",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "11\n2\n9",
+            "kills": "84",
+            "name": "Emman",
+            "team": null
+          },
+          {
+            "acs": "1.50\n1.14\n1.20",
+            "adr": "+11\n+3\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n0\n11\n\n/",
+            "deaths": "22\n3\n19",
+            "fk": "120\n95\n125",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "128",
+            "name": "modeskiii",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.04\n0.37\n0.92",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n23\n20\n3\n\n/",
+            "deaths": "19\n18\n1",
+            "fk": "111\n126\n39",
+            "hs%": "69%\n71%\n60%",
+            "kdr": "5\n5\n0",
+            "kills": "221",
+            "name": "gnaru",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.35\n0.82",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n19\n3\n\n/",
+            "deaths": "17\n17\n0",
+            "fk": "109\n129\n13",
+            "hs%": "72%\n79%\n40%",
+            "kdr": "2\n2\n0",
+            "kills": "202",
+            "name": "Epenzi",
+            "team": null
+          },
+          {
+            "acs": "0.61\n0.76\n0.63",
+            "adr": "-14\n-13\n-1",
+            "agent": "",
+            "assists": "/\n\n24\n21\n3\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "92\n95\n77",
+            "hs%": "55%\n50%\n80%",
+            "kdr": "6\n6\n0",
+            "kills": "129",
+            "name": "Bulek",
+            "team": null
+          },
+          {
+            "acs": "0.35\n0.36\n0.34",
+            "adr": "-17\n-14\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n19\n3\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "41\n47\n12",
+            "hs%": "55%\n58%\n40%",
+            "kdr": "5\n5\n0",
+            "kills": "68",
+            "name": "Roden",
+            "team": null
+          },
+          {
+            "acs": "0.20\n0.55\n0.23",
+            "adr": "-19\n-17\n-2",
+            "agent": "",
+            "assists": "/\n\n23\n20\n3\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "47\n46\n52",
+            "hs%": "45%\n42%\n60%",
+            "kdr": "3\n3\n0",
+            "kills": "62",
+            "name": "Chris",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "216",
+          "name": "Aryu",
+          "team": "Action PH"
+        },
+        {
+          "kills": "183",
+          "name": "tesseract",
+          "team": "Action PH"
+        },
+        {
+          "kills": "196",
+          "name": "Georggyyy",
+          "team": "Action PH"
+        },
+        {
+          "kills": "182",
+          "name": "Emman",
+          "team": "Action PH"
+        },
+        {
+          "kills": "177",
+          "name": "modeskiii",
+          "team": "Action PH"
+        },
+        {
+          "kills": "212",
+          "name": "gnaru",
+          "team": "717 Monster Esports"
+        },
+        {
+          "kills": "98",
+          "name": "Epenzi",
+          "team": "717 Monster Esports"
+        },
+        {
+          "kills": "60",
+          "name": "Roden",
+          "team": "717 Monster Esports"
+        },
+        {
+          "kills": "76",
+          "name": "Bulek",
+          "team": "717 Monster Esports"
+        },
+        {
+          "kills": "83",
+          "name": "Chris",
+          "team": "717 Monster Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.40\n0.86\n1.49",
+            "adr": "+8\n\u00a0\n+8",
+            "agent": "",
+            "assists": "/\n\n3\n0\n3\n\n/",
+            "deaths": "11\n0\n11",
+            "fk": "115\n0\n134",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "1\n0\n1",
+            "kills": "216",
+            "name": "Aryu",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.32\n0.86\n1.40",
+            "adr": "+4\n\u00a0\n+4",
+            "agent": "",
+            "assists": "/\n\n4\n0\n4\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "103\n0\n120",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "3\n0\n3",
+            "kills": "183",
+            "name": "tesseract",
+            "team": "Action PH"
+          },
+          {
+            "acs": "1.18\n0.86\n1.23",
+            "adr": "+4\n\u00a0\n+4",
+            "agent": "",
+            "assists": "/\n\n5\n0\n5\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "99\n0\n115",
+            "hs%": "79%\n100%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "196",
+            "name": "Georggyyy",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.99\n0.86\n1.01",
+            "adr": "0\n\u00a0\n0",
+            "agent": "",
+            "assists": "/\n\n7\n0\n7\n\n/",
+            "deaths": "7\n0\n7",
+            "fk": "119\n0\n139",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "6\n0\n6",
+            "kills": "182",
+            "name": "Emman",
+            "team": "Action PH"
+          },
+          {
+            "acs": "0.97\n0.86\n0.99",
+            "adr": "+3\n\u00a0\n+3",
+            "agent": "",
+            "assists": "/\n\n6\n0\n6\n\n/",
+            "deaths": "9\n0\n9",
+            "fk": "97\n0\n113",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "0\n0\n0",
+            "kills": "177",
+            "name": "modeskiii",
+            "team": "Action PH"
+          }
+        ],
+        [
+          {
+            "acs": "1.25\n1.31\n0.86",
+            "adr": "+2\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n9\n0\n\n/",
+            "deaths": "11\n11\n0",
+            "fk": "119\n139",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "212",
+            "name": "gnaru",
+            "team": "717 Monster Esports"
+          },
+          {
+            "acs": "0.69\n0.66\n0.86",
+            "adr": "-4\n-4",
+            "agent": "",
+            "assists": "/\n\n9\n9\n0\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "72\n84",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "98",
+            "name": "Epenzi",
+            "team": "717 Monster Esports"
+          },
+          {
+            "acs": "0.65\n0.61\n0.86",
+            "adr": "-5\n-5",
+            "agent": "",
+            "assists": "/\n\n8\n8\n0\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "44\n52",
+            "hs%": "79%\n75%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "60",
+            "name": "Roden",
+            "team": "717 Monster Esports"
+          },
+          {
+            "acs": "0.51\n0.45\n0.86",
+            "adr": "-6\n-6",
+            "agent": "",
+            "assists": "/\n\n9\n9\n0\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "56\n65",
+            "hs%": "57%\n50%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "76",
+            "name": "Bulek",
+            "team": "717 Monster Esports"
+          },
+          {
+            "acs": "0.44\n0.37\n0.86",
+            "adr": "-6\n-6",
+            "agent": "",
+            "assists": "/\n\n9\n9\n0\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "56\n66",
+            "hs%": "64%\n58%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "83",
+            "name": "Chris",
+            "team": "717 Monster Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 65583,
+  "teams": [
+    "Action PH",
+    "717 Monster Esports"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tLower Round 1"
+}

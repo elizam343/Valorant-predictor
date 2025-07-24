@@ -1,0 +1,788 @@
+{
+  "date": "2023-01-18 21:15:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "307",
+          "name": "BlackHeart",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "282",
+          "name": "d1msumboi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "228",
+          "name": "fletcher",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "169",
+          "name": "monSi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "159",
+          "name": "khanartist",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "261",
+          "name": "Spaz",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "247",
+          "name": "Agility",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "180",
+          "name": "Momiji",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "137",
+          "name": "SwayZ",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "105",
+          "name": "nmgreen",
+          "team": "i love valorant"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.80\n1.76\n1.88",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "222\n231\n202",
+            "hs%": "94%\n92%\n100%",
+            "kdr": "8\n7\n1",
+            "kills": "307",
+            "name": "BlackHeart",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "1.50\n1.89\n0.72",
+            "adr": "+9\n+11\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "19\n17\n2",
+            "fk": "171\n214\n87",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "282",
+            "name": "d1msumboi",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "1.23\n0.95\n1.79",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "159\n124\n227",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "228",
+            "name": "fletcher",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.95\n1.19\n0.48",
+            "adr": "-1\n+2\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "118\n144\n64",
+            "hs%": "78%\n83%\n67%",
+            "kdr": "8\n7\n1",
+            "kills": "169",
+            "name": "monSi",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.51\n0.68\n0.17",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "113\n147\n45",
+            "hs%": "72%\n83%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "159",
+            "name": "khanartist",
+            "team": "The Silk Road"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.74\n1.24",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "167\n183\n158",
+            "hs%": "78%\n100%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "261",
+            "name": "Spaz",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "1.01\n1.10\n0.96",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "155\n168\n148",
+            "hs%": "72%\n83%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "247",
+            "name": "Agility",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "0.79\n0.73\n0.82",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "135\n107\n149",
+            "hs%": "78%\n83%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "180",
+            "name": "Momiji",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "0.64\n1.02\n0.45",
+            "adr": "-6\n+1\n-7",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "89\n124\n72",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "137",
+            "name": "SwayZ",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "0.35\n0.22\n0.42",
+            "adr": "-10\n-3\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n5\n12\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "93\n76\n101",
+            "hs%": "44%\n50%\n42%",
+            "kdr": "3\n0\n3",
+            "kills": "105",
+            "name": "nmgreen",
+            "team": "i love valorant"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "276",
+          "name": "BlackHeart",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "d1msumboi",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "fletcher",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "monSi",
+          "team": null
+        },
+        {
+          "kills": "245",
+          "name": "khanartist",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "Spaz",
+          "team": null
+        },
+        {
+          "kills": "258",
+          "name": "Agility",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "Momiji",
+          "team": null
+        },
+        {
+          "kills": "267",
+          "name": "SwayZ",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "nmgreen",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.57\n1.19\n1.38",
+            "adr": "+16\n+14\n+2",
+            "agent": "",
+            "assists": "/\n\n43\n19\n24\n\n/",
+            "deaths": "59\n33\n26",
+            "fk": "171\n190\n151",
+            "hs%": "79%\n84%\n73%",
+            "kdr": "22\n15\n7",
+            "kills": "276",
+            "name": "BlackHeart",
+            "team": null
+          },
+          {
+            "acs": "1.26\n0.79\n1.04",
+            "adr": "+3\n+12\n-9",
+            "agent": "",
+            "assists": "/\n\n42\n18\n24\n\n/",
+            "deaths": "45\n30\n15",
+            "fk": "144\n163\n123",
+            "hs%": "74%\n78%\n70%",
+            "kdr": "11\n6\n5",
+            "kills": "253",
+            "name": "d1msumboi",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.09\n0.99",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n43\n20\n23\n\n/",
+            "deaths": "39\n20\n19",
+            "fk": "129\n116\n142",
+            "hs%": "69%\n78%\n60%",
+            "kdr": "22\n10\n12",
+            "kills": "165",
+            "name": "fletcher",
+            "team": null
+          },
+          {
+            "acs": "1.03\n0.61\n0.83",
+            "adr": "-11\n+4\n-15",
+            "agent": "",
+            "assists": "/\n\n47\n19\n28\n\n/",
+            "deaths": "36\n23\n13",
+            "fk": "111\n123\n98",
+            "hs%": "71%\n78%\n63%",
+            "kdr": "27\n16\n11",
+            "kills": "184",
+            "name": "monSi",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.42\n0.67",
+            "adr": "-15\n0\n-15",
+            "agent": "",
+            "assists": "/\n\n55\n26\n29\n\n/",
+            "deaths": "40\n26\n14",
+            "fk": "121\n164\n76",
+            "hs%": "69%\n88%\n50%",
+            "kdr": "14\n12\n2",
+            "kills": "245",
+            "name": "khanartist",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.64\n0.97\n1.29",
+            "adr": "+11\n+17\n-6",
+            "agent": "",
+            "assists": "/\n\n38\n12\n26\n\n/",
+            "deaths": "49\n29\n20",
+            "fk": "140\n155\n127",
+            "hs%": "82%\n97%\n69%",
+            "kdr": "35\n19\n16",
+            "kills": "262",
+            "name": "Spaz",
+            "team": null
+          },
+          {
+            "acs": "1.34\n0.90\n1.11",
+            "adr": "+5\n+13\n-8",
+            "agent": "",
+            "assists": "/\n\n42\n17\n25\n\n/",
+            "deaths": "47\n30\n17",
+            "fk": "139\n166\n114",
+            "hs%": "77%\n83%\n72%",
+            "kdr": "20\n8\n12",
+            "kills": "258",
+            "name": "Agility",
+            "team": null
+          },
+          {
+            "acs": "0.92\n1.09\n1.01",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n45\n20\n25\n\n/",
+            "deaths": "49\n21\n28",
+            "fk": "144\n137\n150",
+            "hs%": "76%\n80%\n72%",
+            "kdr": "7\n4\n3",
+            "kills": "176",
+            "name": "Momiji",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.71\n0.94",
+            "adr": "-2\n+9\n-11",
+            "agent": "",
+            "assists": "/\n\n46\n19\n27\n\n/",
+            "deaths": "44\n28\n16",
+            "fk": "141\n176\n109",
+            "hs%": "77%\n87%\n69%",
+            "kdr": "17\n10\n7",
+            "kills": "267",
+            "name": "SwayZ",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.80\n0.85",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n48\n21\n27\n\n/",
+            "deaths": "41\n21\n20",
+            "fk": "122\n125\n119",
+            "hs%": "69%\n80%\n59%",
+            "kdr": "18\n10\n8",
+            "kills": "187",
+            "name": "nmgreen",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "212",
+          "name": "monSi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "156",
+          "name": "BlackHeart",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "219",
+          "name": "fletcher",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "218",
+          "name": "d1msumboi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "112",
+          "name": "khanartist",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "132",
+          "name": "Agility",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "97",
+          "name": "Spaz",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "296",
+          "name": "Momiji",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "202",
+          "name": "nmgreen",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "144",
+          "name": "SwayZ",
+          "team": "i love valorant"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.16\n1.27\n1.05",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "128\n114\n143",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "12\n6\n6",
+            "kills": "212",
+            "name": "monSi",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "1.11\n1.56\n0.66",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "126\n169\n83",
+            "hs%": "79%\n92%\n67%",
+            "kdr": "10\n7\n3",
+            "kills": "156",
+            "name": "BlackHeart",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "1.02\n0.91\n1.14",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "130\n107\n154",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "13\n5\n8",
+            "kills": "219",
+            "name": "fletcher",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.94\n0.85\n1.03",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "142\n127\n157",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "218",
+            "name": "d1msumboi",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.73\n1.29\n0.17",
+            "adr": "-4\n+4\n-8",
+            "agent": "",
+            "assists": "/\n\n21\n9\n12\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "142\n212\n73",
+            "hs%": "75%\n92%\n58%",
+            "kdr": "7\n6\n1",
+            "kills": "112",
+            "name": "khanartist",
+            "team": "The Silk Road"
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n1.80\n0.87",
+            "adr": "+6\n+8\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "140\n205\n75",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "132",
+            "name": "Agility",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "1.13\n1.73\n0.53",
+            "adr": "+2\n+8\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "114\n160\n68",
+            "hs%": "83%\n100%\n67%",
+            "kdr": "14\n9\n5",
+            "kills": "97",
+            "name": "Spaz",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "1.11\n0.90\n1.32",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "160\n149\n170",
+            "hs%": "79%\n83%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "296",
+            "name": "Momiji",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "0.89\n0.93\n0.85",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "128\n132\n124",
+            "hs%": "83%\n100%\n67%",
+            "kdr": "11\n7\n4",
+            "kills": "202",
+            "name": "nmgreen",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "0.74\n0.96\n0.52",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "133\n159\n108",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "5\n4\n1",
+            "kills": "144",
+            "name": "SwayZ",
+            "team": "i love valorant"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "263",
+          "name": "BlackHeart",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "156",
+          "name": "fletcher",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "179",
+          "name": "khanartist",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "164",
+          "name": "d1msumboi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "123",
+          "name": "monSi",
+          "team": "The Silk Road"
+        },
+        {
+          "kills": "293",
+          "name": "SwayZ",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "228",
+          "name": "Spaz",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "242",
+          "name": "nmgreen",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "181",
+          "name": "Momiji",
+          "team": "i love valorant"
+        },
+        {
+          "kills": "180",
+          "name": "Agility",
+          "team": "i love valorant"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Pearl",
+      "players": [
+        [
+          {
+            "acs": "1.34\n1.29\n1.37",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "180\n161\n193",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "263",
+            "name": "BlackHeart",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.75\n0.84\n0.69",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "100\n118\n88",
+            "hs%": "50%\n75%\n33%",
+            "kdr": "5\n3\n2",
+            "kills": "156",
+            "name": "fletcher",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.75\n0.69\n0.79",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "103\n116\n94",
+            "hs%": "60%\n88%\n42%",
+            "kdr": "4\n3\n1",
+            "kills": "179",
+            "name": "khanartist",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.73\n0.94\n0.58",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "122\n143\n108",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "164",
+            "name": "d1msumboi",
+            "team": "The Silk Road"
+          },
+          {
+            "acs": "0.32\n0.45\n0.23",
+            "adr": "-13\n-4\n-9",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "83\n104\n69",
+            "hs%": "50%\n63%\n42%",
+            "kdr": "7\n3\n4",
+            "kills": "123",
+            "name": "monSi",
+            "team": "The Silk Road"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n1.47\n1.40",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "198\n219\n165",
+            "hs%": "95%\n100%\n88%",
+            "kdr": "7\n5\n2",
+            "kills": "293",
+            "name": "SwayZ",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "1.39\n1.50\n1.22",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "148\n136\n167",
+            "hs%": "85%\n92%\n75%",
+            "kdr": "13\n7\n6",
+            "kills": "228",
+            "name": "Spaz",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "1.26\n1.22\n1.31",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "141\n142\n139",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "242",
+            "name": "nmgreen",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "1.09\n1.04\n1.17",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "133\n140\n121",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "1\n1\n0",
+            "kills": "181",
+            "name": "Momiji",
+            "team": "i love valorant"
+          },
+          {
+            "acs": "0.94\n1.00\n0.86",
+            "adr": "0\n+4\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "12\n10\n2",
+            "fk": "124\n126\n122",
+            "hs%": "85%\n83%\n88%",
+            "kdr": "10\n3\n7",
+            "kills": "180",
+            "name": "Agility",
+            "team": "i love valorant"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 167586,
+  "teams": [
+    "i love valorant",
+    "The Silk Road"
+  ],
+  "tournament": "Last Chance Qualifier: Top 32: \n\t\t\t\t\t\tLower Round 1"
+}

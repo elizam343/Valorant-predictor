@@ -1,0 +1,806 @@
+{
+  "date": "2022-08-21 02:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "308",
+          "name": "enn",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "173",
+          "name": "Interbel",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "148",
+          "name": "Valentine",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "157",
+          "name": "olulu",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "107",
+          "name": "veekay",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "236",
+          "name": "mimii",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "219",
+          "name": "Noxy",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "278",
+          "name": "cuppycake",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "175",
+          "name": "rosey",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "186",
+          "name": "Newky",
+          "team": "W Streak Esports Female"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.53\n1.19\n1.95",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "185\n156\n219",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "8\n3\n5",
+            "kills": "308",
+            "name": "enn",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "0.81\n0.58\n1.09",
+            "adr": "-3\n-6\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "94\n78\n114",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "4\n3\n1",
+            "kills": "173",
+            "name": "Interbel",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "0.69\n0.68\n0.70",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "10\n6\n4",
+            "fk": "103\n85\n125",
+            "hs%": "41%\n42%\n40%",
+            "kdr": "5\n2\n3",
+            "kills": "148",
+            "name": "Valentine",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "0.67\n0.56\n0.80",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "105\n88\n124",
+            "hs%": "50%\n42%\n60%",
+            "kdr": "11\n7\n4",
+            "kills": "157",
+            "name": "olulu",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "0.62\n0.53\n0.72",
+            "adr": "-9\n-4\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "71\n61\n84",
+            "hs%": "68%\n58%\n80%",
+            "kdr": "8\n1\n7",
+            "kills": "107",
+            "name": "veekay",
+            "team": "X Team Bo"
+          }
+        ],
+        [
+          {
+            "acs": "1.34\n1.71\n1.02",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "19\n13\n6",
+            "fk": "157\n219\n105",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "236",
+            "name": "mimii",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "1.33\n1.17\n1.46",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "145\n131\n156",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "219",
+            "name": "Noxy",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "1.21\n0.72\n1.62",
+            "adr": "+8\n-1\n+9",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "22\n7\n15",
+            "fk": "175\n138\n207",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "278",
+            "name": "cuppycake",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "1.03\n0.78\n1.24",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "120\n87\n147",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "175",
+            "name": "rosey",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "0.74\n0.42\n1.01",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "145\n111\n173",
+            "hs%": "68%\n50%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "186",
+            "name": "Newky",
+            "team": "W Streak Esports Female"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "204",
+          "name": "olulu",
+          "team": null
+        },
+        {
+          "kills": "220",
+          "name": "enn",
+          "team": null
+        },
+        {
+          "kills": "106",
+          "name": "Interbel",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "Valentine",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "veekay",
+          "team": null
+        },
+        {
+          "kills": "375",
+          "name": "mimii",
+          "team": null
+        },
+        {
+          "kills": "250",
+          "name": "rosey",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "cuppycake",
+          "team": null
+        },
+        {
+          "kills": "227",
+          "name": "Dolph",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "Noxy",
+          "team": null
+        },
+        {
+          "kills": "192",
+          "name": "Newky",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.95\n1.23\n1.09",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n53\n27\n26\n\n/",
+            "deaths": "55\n26\n29",
+            "fk": "149\n135\n163",
+            "hs%": "68%\n60%\n76%",
+            "kdr": "26\n12\n14",
+            "kills": "204",
+            "name": "olulu",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.78\n0.87",
+            "adr": "-5\n0\n-5",
+            "agent": "",
+            "assists": "/\n\n56\n27\n29\n\n/",
+            "deaths": "51\n27\n24",
+            "fk": "130\n146\n114",
+            "hs%": "67%\n66%\n68%",
+            "kdr": "13\n6\n7",
+            "kills": "220",
+            "name": "enn",
+            "team": null
+          },
+          {
+            "acs": "0.50\n1.14\n0.82",
+            "adr": "-12\n-14\n+2",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "40\n13\n27",
+            "fk": "100\n66\n134",
+            "hs%": "68%\n63%\n74%",
+            "kdr": "15\n7\n8",
+            "kills": "106",
+            "name": "Interbel",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.69\n0.82",
+            "adr": "-15\n-3\n-12",
+            "agent": "",
+            "assists": "/\n\n52\n23\n29\n\n/",
+            "deaths": "37\n20\n17",
+            "fk": "103\n97\n110",
+            "hs%": "57%\n60%\n53%",
+            "kdr": "14\n7\n7",
+            "kills": "150",
+            "name": "Valentine",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.66\n0.77",
+            "adr": "-15\n-2\n-13",
+            "agent": "",
+            "assists": "/\n\n53\n24\n29\n\n/",
+            "deaths": "38\n22\n16",
+            "fk": "109\n110\n109",
+            "hs%": "72%\n69%\n76%",
+            "kdr": "20\n6\n14",
+            "kills": "175",
+            "name": "veekay",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.78\n1.44\n1.61",
+            "adr": "+26\n+17\n+9",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "53\n31\n22",
+            "fk": "198\n226\n172",
+            "hs%": "80%\n77%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "375",
+            "name": "mimii",
+            "team": null
+          },
+          {
+            "acs": "1.37\n1.14\n1.25",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n27\n13\n14\n\n/",
+            "deaths": "35\n18\n17",
+            "fk": "162\n176\n149",
+            "hs%": "78%\n82%\n75%",
+            "kdr": "15\n8\n7",
+            "kills": "250",
+            "name": "rosey",
+            "team": null
+          },
+          {
+            "acs": "0.96\n1.20\n1.08",
+            "adr": "+9\n0\n+9",
+            "agent": "",
+            "assists": "/\n\n43\n22\n21\n\n/",
+            "deaths": "52\n22\n30",
+            "fk": "139\n124\n154",
+            "hs%": "84%\n88%\n80%",
+            "kdr": "20\n14\n6",
+            "kills": "175",
+            "name": "cuppycake",
+            "team": null
+          },
+          {
+            "acs": "1.24\n0.90\n1.08",
+            "adr": "+2\n+6\n-4",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "32\n21\n11",
+            "fk": "129\n151\n106",
+            "hs%": "81%\n79%\n83%",
+            "kdr": "14\n7\n7",
+            "kills": "227",
+            "name": "Dolph",
+            "team": null
+          },
+          {
+            "acs": "0.99\n0.95\n0.97",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "44\n24\n20",
+            "fk": "119\n125\n113",
+            "hs%": "72%\n76%\n69%",
+            "kdr": "17\n8\n9",
+            "kills": "196",
+            "name": "Noxy",
+            "team": null
+          },
+          {
+            "acs": "0.74\n1.07\n0.91",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n50\n27\n23\n\n/",
+            "deaths": "50\n22\n28",
+            "fk": "145\n133\n157",
+            "hs%": "71%\n65%\n77%",
+            "kdr": "11\n9\n2",
+            "kills": "192",
+            "name": "Newky",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "320",
+          "name": "olulu",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "174",
+          "name": "veekay",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "226",
+          "name": "Interbel",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "109",
+          "name": "Valentine",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "138",
+          "name": "enn",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "439",
+          "name": "mimii",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "136",
+          "name": "Dolph",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "133",
+          "name": "cuppycake",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "138",
+          "name": "Newky",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "103",
+          "name": "Noxy",
+          "team": "W Streak Esports Female"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.25\n0.95\n1.52",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "163\n138\n186",
+            "hs%": "74%\n64%\n83%",
+            "kdr": "5\n0\n5",
+            "kills": "320",
+            "name": "olulu",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "0.92\n1.20\n0.66",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "139\n151\n128",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "174",
+            "name": "veekay",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "0.92\n0.75\n1.08",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "116\n83\n146",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "226",
+            "name": "Interbel",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "0.64\n0.84\n0.45",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "85\n92\n78",
+            "hs%": "52%\n45%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "109",
+            "name": "Valentine",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "0.55\n0.82\n0.31",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "103\n122\n86",
+            "hs%": "57%\n55%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "138",
+            "name": "enn",
+            "team": "X Team Bo"
+          }
+        ],
+        [
+          {
+            "acs": "1.87\n1.84\n1.90",
+            "adr": "+19\n+10\n+9",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "34\n18\n16",
+            "fk": "238\n232\n244",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "1\n1\n0",
+            "kills": "439",
+            "name": "mimii",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "1.34\n1.59\n1.07",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "128\n163\n90",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "7\n5\n2",
+            "kills": "136",
+            "name": "Dolph",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "0.93\n0.99\n0.86",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "113\n115\n111",
+            "hs%": "83%\n92%\n73%",
+            "kdr": "7\n6\n1",
+            "kills": "133",
+            "name": "cuppycake",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "0.86\n0.93\n0.78",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "133\n162\n101",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "6\n5\n1",
+            "kills": "138",
+            "name": "Newky",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "0.63\n0.77\n0.48",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "108\n139\n74",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "103",
+            "name": "Noxy",
+            "team": "W Streak Esports Female"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "242",
+          "name": "olulu",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "208",
+          "name": "Valentine",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "173",
+          "name": "veekay",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "136",
+          "name": "Interbel",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "167",
+          "name": "enn",
+          "team": "X Team Bo"
+        },
+        {
+          "kills": "269",
+          "name": "rosey",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "238",
+          "name": "Newky",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "196",
+          "name": "cuppycake",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "177",
+          "name": "Noxy",
+          "team": "W Streak Esports Female"
+        },
+        {
+          "kills": "189",
+          "name": "Dolph",
+          "team": "W Streak Esports Female"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.32\n1.34\n1.30",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "175\n179\n172",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "242",
+            "name": "olulu",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "1.10\n1.29\n0.92",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "122\n114\n129",
+            "hs%": "75%\n92%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "208",
+            "name": "Valentine",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "0.76\n0.92\n0.61",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "116\n120\n111",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "173",
+            "name": "veekay",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "0.72\n0.19\n1.25",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "89\n40\n138",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "4\n1\n3",
+            "kills": "136",
+            "name": "Interbel",
+            "team": "X Team Bo"
+          },
+          {
+            "acs": "0.57\n0.87\n0.27",
+            "adr": "-7\n0\n-7",
+            "agent": "",
+            "assists": "/\n\n22\n10\n12\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "106\n159\n54",
+            "hs%": "63%\n67%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "167",
+            "name": "enn",
+            "team": "X Team Bo"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.86\n1.04",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "200\n250\n151",
+            "hs%": "88%\n100%\n75%",
+            "kdr": "7\n5\n2",
+            "kills": "269",
+            "name": "rosey",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "1.11\n0.82\n1.41",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "157\n121\n193",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "3\n3\n0",
+            "kills": "238",
+            "name": "Newky",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "1.11\n1.13\n1.08",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "131\n122\n139",
+            "hs%": "88%\n92%\n83%",
+            "kdr": "10\n6\n4",
+            "kills": "196",
+            "name": "cuppycake",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "0.97\n1.06\n0.88",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "107\n107\n107",
+            "hs%": "67%\n83%\n50%",
+            "kdr": "6\n4\n2",
+            "kills": "177",
+            "name": "Noxy",
+            "team": "W Streak Esports Female"
+          },
+          {
+            "acs": "0.83\n0.89\n0.76",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "129\n138\n120",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "189",
+            "name": "Dolph",
+            "team": "W Streak Esports Female"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 129680,
+  "teams": [
+    "W Streak Esports Female",
+    "X Team Bo"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tLower Final"
+}

@@ -1,0 +1,594 @@
+{
+  "date": "2022-04-02 00:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "423",
+          "name": "Kohaibi",
+          "team": "Team SMG GC"
+        },
+        {
+          "kills": "284",
+          "name": "Envious",
+          "team": "Team SMG GC"
+        },
+        {
+          "kills": "201",
+          "name": "YOKY",
+          "team": "Team SMG GC"
+        },
+        {
+          "kills": "223",
+          "name": "fixky",
+          "team": "Team SMG GC"
+        },
+        {
+          "kills": "160",
+          "name": "Kaephrodite",
+          "team": "Team SMG GC"
+        },
+        {
+          "kills": "188",
+          "name": "biubiu",
+          "team": "Forsaken Esports Scylla"
+        },
+        {
+          "kills": "147",
+          "name": "Shuni",
+          "team": "Forsaken Esports Scylla"
+        },
+        {
+          "kills": "132",
+          "name": "Jinx",
+          "team": "Forsaken Esports Scylla"
+        },
+        {
+          "kills": "133",
+          "name": "torts",
+          "team": "Forsaken Esports Scylla"
+        },
+        {
+          "kills": "103",
+          "name": "imjiiix",
+          "team": "Forsaken Esports Scylla"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "2.42\n2.87\n2.31",
+            "adr": "+20\n+5\n+15",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "24\n6\n18",
+            "fk": "231\n233\n231",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "423",
+            "name": "Kohaibi",
+            "team": "Team SMG GC"
+          },
+          {
+            "acs": "1.46\n2.02\n1.32",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n9\n1\n8\n\n/",
+            "deaths": "16\n3\n13",
+            "fk": "194\n130\n210",
+            "hs%": "73%\n67%\n75%",
+            "kdr": "3\n0\n3",
+            "kills": "284",
+            "name": "Envious",
+            "team": "Team SMG GC"
+          },
+          {
+            "acs": "1.45\n1.46\n1.45",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n5\n2\n3\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "134\n183\n122",
+            "hs%": "87%\n67%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "201",
+            "name": "YOKY",
+            "team": "Team SMG GC"
+          },
+          {
+            "acs": "1.18\n0.43\n1.37",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "144\n37\n171",
+            "hs%": "93%\n67%\n100%",
+            "kdr": "7\n0\n7",
+            "kills": "223",
+            "name": "fixky",
+            "team": "Team SMG GC"
+          },
+          {
+            "acs": "0.91\n0.59\n0.99",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "115\n165\n103",
+            "hs%": "87%\n67%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "160",
+            "name": "Kaephrodite",
+            "team": "Team SMG GC"
+          }
+        ],
+        [
+          {
+            "acs": "0.96\n1.03\n0.68",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "111\n119\n83",
+            "hs%": "60%\n50%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "188",
+            "name": "biubiu",
+            "team": "Forsaken Esports Scylla"
+          },
+          {
+            "acs": "0.47\n0.45\n0.55",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "7\n5\n2",
+            "fk": "104\n93\n150",
+            "hs%": "73%\n75%\n67%",
+            "kdr": "5\n4\n1",
+            "kills": "147",
+            "name": "Shuni",
+            "team": "Forsaken Esports Scylla"
+          },
+          {
+            "acs": "0.47\n0.54\n0.19",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n11\n3\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "87\n89\n81",
+            "hs%": "73%\n67%\n100%",
+            "kdr": "5\n3\n2",
+            "kills": "132",
+            "name": "Jinx",
+            "team": "Forsaken Esports Scylla"
+          },
+          {
+            "acs": "0.41\n0.37\n0.61",
+            "adr": "-9\n-9\n0",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "83\n78\n101",
+            "hs%": "47%\n42%\n67%",
+            "kdr": "4\n4\n0",
+            "kills": "133",
+            "name": "torts",
+            "team": "Forsaken Esports Scylla"
+          },
+          {
+            "acs": "0.25\n0.29\n0.06",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n12\n3\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "71\n86\n14",
+            "hs%": "40%\n42%\n33%",
+            "kdr": "3\n3\n0",
+            "kills": "103",
+            "name": "imjiiix",
+            "team": "Forsaken Esports Scylla"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "515",
+          "name": "Kohaibi",
+          "team": null
+        },
+        {
+          "kills": "222",
+          "name": "fixky",
+          "team": null
+        },
+        {
+          "kills": "145",
+          "name": "YOKY",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "Envious",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "Kaephrodite",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "Jinx",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "Shuni",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "torts",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "biubiu",
+          "team": null
+        },
+        {
+          "kills": "120",
+          "name": "imjiiix",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "2.59\n2.04\n2.17",
+            "adr": "+37\n+11\n+26",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "52\n14\n38",
+            "fk": "272\n298\n264",
+            "hs%": "97%\n100%\n96%",
+            "kdr": "5\n2\n3",
+            "kills": "515",
+            "name": "Kohaibi",
+            "team": null
+          },
+          {
+            "acs": "1.48\n1.49\n1.49",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n15\n3\n12\n\n/",
+            "deaths": "27\n6\n21",
+            "fk": "182\n130\n197",
+            "hs%": "97%\n86%\n100%",
+            "kdr": "21\n2\n19",
+            "kills": "222",
+            "name": "fixky",
+            "team": null
+          },
+          {
+            "acs": "1.01\n1.44\n1.34",
+            "adr": "+12\n0\n+12",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "24\n4\n20",
+            "fk": "125\n97\n133",
+            "hs%": "87%\n86%\n88%",
+            "kdr": "13\n3\n10",
+            "kills": "145",
+            "name": "YOKY",
+            "team": null
+          },
+          {
+            "acs": "1.97\n1.13\n1.32",
+            "adr": "+10\n+5\n+5",
+            "agent": "",
+            "assists": "/\n\n19\n2\n17\n\n/",
+            "deaths": "29\n7\n22",
+            "fk": "168\n144\n175",
+            "hs%": "81%\n86%\n79%",
+            "kdr": "10\n2\n8",
+            "kills": "253",
+            "name": "Envious",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.72\n0.75",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n5\n15\n\n/",
+            "deaths": "16\n4\n12",
+            "fk": "95\n115\n89",
+            "hs%": "81%\n86%\n79%",
+            "kdr": "11\n7\n4",
+            "kills": "190",
+            "name": "Kaephrodite",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.98\n0.61\n0.90",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n27\n20\n7\n\n/",
+            "deaths": "22\n19\n3",
+            "fk": "123\n125\n116",
+            "hs%": "74%\n75%\n71%",
+            "kdr": "8\n6\n2",
+            "kills": "212",
+            "name": "Jinx",
+            "team": null
+          },
+          {
+            "acs": "0.74\n0.36\n0.66",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n29\n22\n7\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "120\n125\n100",
+            "hs%": "65%\n71%\n43%",
+            "kdr": "8\n7\n1",
+            "kills": "184",
+            "name": "Shuni",
+            "team": null
+          },
+          {
+            "acs": "0.64\n0.45\n0.60",
+            "adr": "-14\n-10\n-4",
+            "agent": "",
+            "assists": "/\n\n30\n23\n7\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "121\n124\n112",
+            "hs%": "52%\n54%\n43%",
+            "kdr": "10\n10\n0",
+            "kills": "180",
+            "name": "torts",
+            "team": null
+          },
+          {
+            "acs": "0.53\n0.35\n0.48",
+            "adr": "-18\n-14\n-4",
+            "agent": "",
+            "assists": "/\n\n32\n25\n7\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "86\n89\n76",
+            "hs%": "52%\n46%\n71%",
+            "kdr": "5\n3\n2",
+            "kills": "139",
+            "name": "biubiu",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.26\n0.38",
+            "adr": "-19\n-14\n-5",
+            "agent": "",
+            "assists": "/\n\n30\n23\n7\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "77\n82\n61",
+            "hs%": "45%\n50%\n29%",
+            "kdr": "7\n7\n0",
+            "kills": "120",
+            "name": "imjiiix",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "424",
+          "name": "Kohaibi",
+          "team": "Team SMG GC"
+        },
+        {
+          "kills": "304",
+          "name": "fixky",
+          "team": "Team SMG GC"
+        },
+        {
+          "kills": "237",
+          "name": "YOKY",
+          "team": "Team SMG GC"
+        },
+        {
+          "kills": "219",
+          "name": "Envious",
+          "team": "Team SMG GC"
+        },
+        {
+          "kills": "127",
+          "name": "Kaephrodite",
+          "team": "Team SMG GC"
+        },
+        {
+          "kills": "190",
+          "name": "Jinx",
+          "team": "Forsaken Esports Scylla"
+        },
+        {
+          "kills": "142",
+          "name": "Shuni",
+          "team": "Forsaken Esports Scylla"
+        },
+        {
+          "kills": "135",
+          "name": "torts",
+          "team": "Forsaken Esports Scylla"
+        },
+        {
+          "kills": "128",
+          "name": "imjiiix",
+          "team": "Forsaken Esports Scylla"
+        },
+        {
+          "kills": "83",
+          "name": "biubiu",
+          "team": "Forsaken Esports Scylla"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.93\n2.37\n1.78",
+            "adr": "+17\n+6\n+11",
+            "agent": "",
+            "assists": "/\n\n11\n2\n9\n\n/",
+            "deaths": "28\n8\n20",
+            "fk": "310\n348\n297",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "424",
+            "name": "Kohaibi",
+            "team": "Team SMG GC"
+          },
+          {
+            "acs": "1.77\n2.28\n1.61",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n7\n1\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "217\n200\n223",
+            "hs%": "100%\n100%\n100%",
+            "kdr": "14\n2\n12",
+            "kills": "304",
+            "name": "fixky",
+            "team": "Team SMG GC"
+          },
+          {
+            "acs": "1.24\n0.67\n1.43",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n7\n2\n5\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "116\n33\n144",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "237",
+            "name": "YOKY",
+            "team": "Team SMG GC"
+          },
+          {
+            "acs": "1.19\n1.93\n0.94",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n10\n1\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "144\n154\n141",
+            "hs%": "88%\n100%\n83%",
+            "kdr": "7\n2\n5",
+            "kills": "219",
+            "name": "Envious",
+            "team": "Team SMG GC"
+          },
+          {
+            "acs": "0.60\n1.05\n0.45",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "76\n77\n75",
+            "hs%": "75%\n100%\n67%",
+            "kdr": "6\n5\n1",
+            "kills": "127",
+            "name": "Kaephrodite",
+            "team": "Team SMG GC"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.43\n0.92",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "16\n14\n2",
+            "fk": "156\n161\n142",
+            "hs%": "75%\n83%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "190",
+            "name": "Jinx",
+            "team": "Forsaken Esports Scylla"
+          },
+          {
+            "acs": "0.83\n1.04\n0.22",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "134\n158\n62",
+            "hs%": "56%\n67%\n25%",
+            "kdr": "3\n3\n0",
+            "kills": "142",
+            "name": "Shuni",
+            "team": "Forsaken Esports Scylla"
+          },
+          {
+            "acs": "0.77\n0.91\n0.33",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "10\n10\n0",
+            "fk": "157\n170\n120",
+            "hs%": "56%\n67%\n25%",
+            "kdr": "6\n6\n0",
+            "kills": "135",
+            "name": "torts",
+            "team": "Forsaken Esports Scylla"
+          },
+          {
+            "acs": "0.51\n0.54\n0.42",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "83\n78\n97",
+            "hs%": "50%\n58%\n25%",
+            "kdr": "4\n4\n0",
+            "kills": "128",
+            "name": "imjiiix",
+            "team": "Forsaken Esports Scylla"
+          },
+          {
+            "acs": "0.03\n0.03\n0.10",
+            "adr": "-14\n-11\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n14\n4\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "62\n59\n71",
+            "hs%": "44%\n42%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "83",
+            "name": "biubiu",
+            "team": "Forsaken Esports Scylla"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 84188,
+  "teams": [
+    "Team SMG GC",
+    "Forsaken Esports Scylla"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup E"
+}

@@ -1,0 +1,788 @@
+{
+  "date": "2022-11-05 11:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "268",
+          "name": "1nput",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "202",
+          "name": "Tian",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "157",
+          "name": "kENZ",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "168",
+          "name": "pyrolll",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "106",
+          "name": "ALLIN",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "305",
+          "name": "barni",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "229",
+          "name": "graoody",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "213",
+          "name": "SkyL1ne",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "149",
+          "name": "Ckanic",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "159",
+          "name": "Bia",
+          "team": "Team Lixa"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.45\n1.39",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "185\n206\n165",
+            "hs%": "65%\n62%\n69%",
+            "kdr": "5\n0\n5",
+            "kills": "268",
+            "name": "1nput",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "0.86\n0.55\n1.17",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "141\n99\n183",
+            "hs%": "58%\n54%\n62%",
+            "kdr": "6\n1\n5",
+            "kills": "202",
+            "name": "Tian",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "0.78\n0.74\n0.82",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "96\n95\n97",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "11\n4\n7",
+            "kills": "157",
+            "name": "kENZ",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "0.75\n0.86\n0.64",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "119\n118\n120",
+            "hs%": "69%\n77%\n62%",
+            "kdr": "5\n3\n2",
+            "kills": "168",
+            "name": "pyrolll",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "0.37\n0.34\n0.39",
+            "adr": "-14\n-6\n-8",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "67\n81\n53",
+            "hs%": "54%\n31%\n77%",
+            "kdr": "13\n5\n8",
+            "kills": "106",
+            "name": "ALLIN",
+            "team": "Team Divinity"
+          }
+        ],
+        [
+          {
+            "acs": "1.77\n1.66\n1.89",
+            "adr": "+16\n+7\n+9",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "31\n15\n16",
+            "fk": "194\n183\n204",
+            "hs%": "81%\n77%\n85%",
+            "kdr": "5\n3\n2",
+            "kills": "305",
+            "name": "barni",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "1.20\n1.24\n1.17",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "155\n133\n177",
+            "hs%": "77%\n85%\n69%",
+            "kdr": "5\n2\n3",
+            "kills": "229",
+            "name": "graoody",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "1.10\n1.30\n0.91",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "152\n187\n116",
+            "hs%": "81%\n92%\n69%",
+            "kdr": "10\n8\n2",
+            "kills": "213",
+            "name": "SkyL1ne",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "0.96\n1.08\n0.83",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "95\n115\n76",
+            "hs%": "65%\n69%\n62%",
+            "kdr": "9\n4\n5",
+            "kills": "149",
+            "name": "Ckanic",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "0.86\n0.61\n1.11",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "98\n88\n108",
+            "hs%": "69%\n69%\n69%",
+            "kdr": "4\n4\n0",
+            "kills": "159",
+            "name": "Bia",
+            "team": "Team Lixa"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "234",
+          "name": "1nput",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "pyrolll",
+          "team": null
+        },
+        {
+          "kills": "270",
+          "name": "Tian",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "kENZ",
+          "team": null
+        },
+        {
+          "kills": "127",
+          "name": "ALLIN",
+          "team": null
+        },
+        {
+          "kills": "221",
+          "name": "barni",
+          "team": null
+        },
+        {
+          "kills": "231",
+          "name": "graoody",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "Ckanic",
+          "team": null
+        },
+        {
+          "kills": "191",
+          "name": "SkyL1ne",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "Bia",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.21\n1.29",
+            "adr": "+14\n+9\n+5",
+            "agent": "",
+            "assists": "/\n\n46\n23\n23\n\n/",
+            "deaths": "60\n32\n28",
+            "fk": "154\n160\n146",
+            "hs%": "72%\n65%\n81%",
+            "kdr": "27\n13\n14",
+            "kills": "234",
+            "name": "1nput",
+            "team": null
+          },
+          {
+            "acs": "1.17\n1.03\n1.11",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n45\n23\n22\n\n/",
+            "deaths": "52\n30\n22",
+            "fk": "145\n147\n143",
+            "hs%": "74%\n76%\n72%",
+            "kdr": "13\n6\n7",
+            "kills": "217",
+            "name": "pyrolll",
+            "team": null
+          },
+          {
+            "acs": "1.16\n1.00\n1.08",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n49\n27\n22\n\n/",
+            "deaths": "59\n35\n24",
+            "fk": "159\n175\n141",
+            "hs%": "67%\n73%\n59%",
+            "kdr": "11\n4\n7",
+            "kills": "270",
+            "name": "Tian",
+            "team": null
+          },
+          {
+            "acs": "0.88\n0.86\n0.87",
+            "adr": "-11\n-5\n-6",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "96\n97\n95",
+            "hs%": "70%\n68%\n72%",
+            "kdr": "36\n16\n20",
+            "kills": "144",
+            "name": "kENZ",
+            "team": null
+          },
+          {
+            "acs": "0.50\n0.87\n0.67",
+            "adr": "-18\n-15\n-3",
+            "agent": "",
+            "assists": "/\n\n55\n28\n27\n\n/",
+            "deaths": "37\n13\n24",
+            "fk": "105\n84\n129",
+            "hs%": "64%\n51%\n78%",
+            "kdr": "34\n17\n17",
+            "kills": "127",
+            "name": "ALLIN",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.18\n1.22\n1.20",
+            "adr": "+9\n+5\n+4",
+            "agent": "",
+            "assists": "/\n\n46\n22\n24\n\n/",
+            "deaths": "55\n27\n28",
+            "fk": "140\n144\n136",
+            "hs%": "77%\n78%\n76%",
+            "kdr": "21\n11\n10",
+            "kills": "221",
+            "name": "barni",
+            "team": null
+          },
+          {
+            "acs": "1.39\n0.77\n1.06",
+            "adr": "-1\n+9\n-10",
+            "agent": "",
+            "assists": "/\n\n49\n20\n29\n\n/",
+            "deaths": "48\n29\n19",
+            "fk": "141\n161\n123",
+            "hs%": "77%\n84%\n70%",
+            "kdr": "10\n5\n5",
+            "kills": "231",
+            "name": "graoody",
+            "team": null
+          },
+          {
+            "acs": "1.21\n0.93\n1.06",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n46\n22\n24\n\n/",
+            "deaths": "48\n25\n23",
+            "fk": "132\n138\n126",
+            "hs%": "72%\n78%\n68%",
+            "kdr": "27\n14\n13",
+            "kills": "213",
+            "name": "Ckanic",
+            "team": null
+          },
+          {
+            "acs": "0.91\n1.02\n0.97",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n47\n24\n23\n\n/",
+            "deaths": "43\n20\n23",
+            "fk": "127\n126\n129",
+            "hs%": "75%\n88%\n65%",
+            "kdr": "22\n15\n7",
+            "kills": "191",
+            "name": "SkyL1ne",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.03\n0.81",
+            "adr": "-9\n-12\n+3",
+            "agent": "",
+            "assists": "/\n\n53\n27\n26\n\n/",
+            "deaths": "44\n15\n29",
+            "fk": "116\n98\n132",
+            "hs%": "65%\n63%\n68%",
+            "kdr": "11\n7\n4",
+            "kills": "149",
+            "name": "Bia",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "271",
+          "name": "1nput",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "141",
+          "name": "Tian",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "467",
+          "name": "ALLIN",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "150",
+          "name": "pyrolll",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "144",
+          "name": "kENZ",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "245",
+          "name": "Ckanic",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "233",
+          "name": "SkyL1ne",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "339",
+          "name": "Bia",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "113",
+          "name": "graoody",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "96",
+          "name": "barni",
+          "team": "Team Lixa"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.40\n1.40\n1.40",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "158\n143\n176",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "13\n7\n6",
+            "kills": "271",
+            "name": "1nput",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "1.35\n1.71\n0.91",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "160\n219\n89",
+            "hs%": "73%\n83%\n60%",
+            "kdr": "1\n1\n0",
+            "kills": "141",
+            "name": "Tian",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "1.07\n0.33\n1.96",
+            "adr": "+1\n-8\n+9",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n2\n16",
+            "fk": "157\n65\n268",
+            "hs%": "64%\n50%\n80%",
+            "kdr": "10\n5\n5",
+            "kills": "467",
+            "name": "ALLIN",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "1.00\n0.96\n1.04",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "126\n133\n118",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "6\n2\n4",
+            "kills": "150",
+            "name": "pyrolll",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "0.82\n0.62\n1.07",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "87\n96\n77",
+            "hs%": "68%\n50%\n90%",
+            "kdr": "10\n3\n7",
+            "kills": "144",
+            "name": "kENZ",
+            "team": "Team Divinity"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.54\n1.12",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "175\n168\n181",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "245",
+            "name": "Ckanic",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "1.06\n0.76\n1.31",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "135\n99\n166",
+            "hs%": "77%\n80%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "233",
+            "name": "SkyL1ne",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "0.83\n0.03\n1.53",
+            "adr": "-1\n-9\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n1\n15",
+            "fk": "128\n55\n189",
+            "hs%": "64%\n40%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "339",
+            "name": "Bia",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "0.77\n1.17\n0.43",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "118\n161\n81",
+            "hs%": "82%\n80%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "113",
+            "name": "graoody",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "0.52\n0.29\n0.71",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "57\n48\n64",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "96",
+            "name": "barni",
+            "team": "Team Lixa"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "313",
+          "name": "pyrolll",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "281",
+          "name": "Tian",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "140",
+          "name": "kENZ",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "174",
+          "name": "1nput",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "160",
+          "name": "ALLIN",
+          "team": "Team Divinity"
+        },
+        {
+          "kills": "243",
+          "name": "barni",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "192",
+          "name": "graoody",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "188",
+          "name": "Ckanic",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "198",
+          "name": "Bia",
+          "team": "Team Lixa"
+        },
+        {
+          "kills": "150",
+          "name": "SkyL1ne",
+          "team": "Team Lixa"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Fracture",
+      "players": [
+        [
+          {
+            "acs": "1.66\n1.73\n1.57",
+            "adr": "+14\n+10\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "25\n14\n11",
+            "fk": "198\n193\n204",
+            "hs%": "81%\n92%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "313",
+            "name": "pyrolll",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "1.09\n1.28\n0.85",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "21\n13\n8",
+            "fk": "181\n212\n139",
+            "hs%": "71%\n83%\n56%",
+            "kdr": "4\n2\n2",
+            "kills": "281",
+            "name": "Tian",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "1.03\n1.28\n0.69",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "106\n101\n112",
+            "hs%": "76%\n83%\n67%",
+            "kdr": "15\n9\n6",
+            "kills": "140",
+            "name": "kENZ",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "1.00\n1.20\n0.74",
+            "adr": "-1\n+3\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "109\n128\n85",
+            "hs%": "81%\n75%\n89%",
+            "kdr": "9\n6\n3",
+            "kills": "174",
+            "name": "1nput",
+            "team": "Team Divinity"
+          },
+          {
+            "acs": "0.64\n0.85\n0.35",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "97\n108\n84",
+            "hs%": "76%\n75%\n78%",
+            "kdr": "11\n7\n4",
+            "kills": "160",
+            "name": "ALLIN",
+            "team": "Team Divinity"
+          }
+        ],
+        [
+          {
+            "acs": "1.21\n1.48\n1.01",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "159\n194\n133",
+            "hs%": "81%\n100%\n67%",
+            "kdr": "11\n5\n6",
+            "kills": "243",
+            "name": "barni",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "1.18\n1.86\n0.67",
+            "adr": "-1\n+5\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "147\n202\n106",
+            "hs%": "71%\n89%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "192",
+            "name": "graoody",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "0.93\n1.03\n0.86",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "14\n6\n8",
+            "fk": "132\n139\n127",
+            "hs%": "76%\n89%\n67%",
+            "kdr": "10\n8\n2",
+            "kills": "188",
+            "name": "Ckanic",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "0.74\n1.13\n0.45",
+            "adr": "-4\n+2\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "126\n160\n101",
+            "hs%": "62%\n78%\n50%",
+            "kdr": "4\n2\n2",
+            "kills": "198",
+            "name": "Bia",
+            "team": "Team Lixa"
+          },
+          {
+            "acs": "0.69\n0.50\n0.84",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "89\n67\n105",
+            "hs%": "67%\n89%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "150",
+            "name": "SkyL1ne",
+            "team": "Team Lixa"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 155139,
+  "teams": [
+    "Team Lixa",
+    "Team Divinity"
+  ],
+  "tournament": "Wildcard: \n\t\t\t\t\t\tRound of 16"
+}

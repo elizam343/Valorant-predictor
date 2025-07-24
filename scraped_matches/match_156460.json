@@ -1,0 +1,788 @@
+{
+  "date": "2022-11-12 16:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "370",
+          "name": "PooperScooper",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "231",
+          "name": "ScooperPooper",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "272",
+          "name": "Tsorouka",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "138",
+          "name": "YungSavageScully",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "151",
+          "name": "FaTaLPooper",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "259",
+          "name": "anders",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "207",
+          "name": "finchy",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "224",
+          "name": "inconsistent",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "181",
+          "name": "KBK",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "150",
+          "name": "soupy",
+          "team": "Laurier Golden Hawks"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.68\n1.31\n2.23",
+            "adr": "+11\n+4\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "224\n171\n303",
+            "hs%": "80%\n67%\n100%",
+            "kdr": "6\n2\n4",
+            "kills": "370",
+            "name": "PooperScooper",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "1.20\n1.53\n0.71",
+            "adr": "+5\n+7\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "18\n15\n3",
+            "fk": "161\n218\n74",
+            "hs%": "80%\n83%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "231",
+            "name": "ScooperPooper",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "1.05\n0.96\n1.19",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "191\n215\n156",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "9\n4\n5",
+            "kills": "272",
+            "name": "Tsorouka",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "0.95\n0.84\n1.11",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "86\n87\n83",
+            "hs%": "70%\n67%\n75%",
+            "kdr": "10\n5\n5",
+            "kills": "138",
+            "name": "YungSavageScully",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "0.91\n0.85\n1.01",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "100\n76\n136",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "6\n2\n4",
+            "kills": "151",
+            "name": "FaTaLPooper",
+            "team": "DSU Valorant"
+          }
+        ],
+        [
+          {
+            "acs": "1.27\n0.99\n1.46",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "170\n153\n181",
+            "hs%": "85%\n63%\n100%",
+            "kdr": "6\n1\n5",
+            "kills": "259",
+            "name": "anders",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "1.04\n1.16\n0.96",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "131\n170\n104",
+            "hs%": "60%\n50%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "207",
+            "name": "finchy",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "0.78\n0.81\n0.77",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n7\n12\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "157\n157\n157",
+            "hs%": "65%\n75%\n58%",
+            "kdr": "7\n4\n3",
+            "kills": "224",
+            "name": "inconsistent",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "0.66\n0.58\n0.71",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "111\n61\n145",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "181",
+            "name": "KBK",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "0.57\n0.35\n0.72",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "101\n90\n108",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "6\n1\n5",
+            "kills": "150",
+            "name": "soupy",
+            "team": "Laurier Golden Hawks"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "274",
+          "name": "PooperScooper",
+          "team": null
+        },
+        {
+          "kills": "255",
+          "name": "Tsorouka",
+          "team": null
+        },
+        {
+          "kills": "248",
+          "name": "ScooperPooper",
+          "team": null
+        },
+        {
+          "kills": "99",
+          "name": "YungSavageScully",
+          "team": null
+        },
+        {
+          "kills": "110",
+          "name": "FaTaLPooper",
+          "team": null
+        },
+        {
+          "kills": "282",
+          "name": "finchy",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "anders",
+          "team": null
+        },
+        {
+          "kills": "175",
+          "name": "inconsistent",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "KBK",
+          "team": null
+        },
+        {
+          "kills": "279",
+          "name": "soupy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.35\n1.31",
+            "adr": "+13\n+7\n+6",
+            "agent": "",
+            "assists": "/\n\n42\n17\n25\n\n/",
+            "deaths": "55\n24\n31",
+            "fk": "181\n161\n197",
+            "hs%": "72%\n72%\n72%",
+            "kdr": "16\n4\n12",
+            "kills": "274",
+            "name": "PooperScooper",
+            "team": null
+          },
+          {
+            "acs": "0.94\n1.28\n1.13",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n48\n23\n25\n\n/",
+            "deaths": "48\n20\n28",
+            "fk": "182\n178\n185",
+            "hs%": "72%\n72%\n72%",
+            "kdr": "19\n7\n12",
+            "kills": "255",
+            "name": "Tsorouka",
+            "team": null
+          },
+          {
+            "acs": "1.12\n0.62\n0.84",
+            "adr": "-11\n+4\n-15",
+            "agent": "",
+            "assists": "/\n\n44\n19\n25\n\n/",
+            "deaths": "33\n23\n10",
+            "fk": "125\n167\n93",
+            "hs%": "68%\n76%\n63%",
+            "kdr": "27\n9\n18",
+            "kills": "248",
+            "name": "ScooperPooper",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.79\n0.61",
+            "adr": "-18\n-13\n-5",
+            "agent": "",
+            "assists": "/\n\n45\n21\n24\n\n/",
+            "deaths": "27\n8\n19",
+            "fk": "83\n66\n97",
+            "hs%": "47%\n40%\n53%",
+            "kdr": "11\n5\n6",
+            "kills": "99",
+            "name": "YungSavageScully",
+            "team": null
+          },
+          {
+            "acs": "0.69\n0.45\n0.56",
+            "adr": "-24\n-8\n-16",
+            "agent": "",
+            "assists": "/\n\n43\n18\n25\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "79\n77\n81",
+            "hs%": "51%\n56%\n47%",
+            "kdr": "14\n5\n9",
+            "kills": "110",
+            "name": "FaTaLPooper",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.51\n1.15\n1.35",
+            "adr": "+22\n+19\n+3",
+            "agent": "",
+            "assists": "/\n\n31\n17\n14\n\n/",
+            "deaths": "53\n36\n17",
+            "fk": "146\n171\n113",
+            "hs%": "75%\n78%\n72%",
+            "kdr": "5\n2\n3",
+            "kills": "282",
+            "name": "finchy",
+            "team": null
+          },
+          {
+            "acs": "1.27\n1.24\n1.25",
+            "adr": "+13\n+8\n+5",
+            "agent": "",
+            "assists": "/\n\n30\n16\n14\n\n/",
+            "deaths": "43\n24\n19",
+            "fk": "137\n136\n139",
+            "hs%": "82%\n78%\n88%",
+            "kdr": "20\n14\n6",
+            "kills": "211",
+            "name": "anders",
+            "team": null
+          },
+          {
+            "acs": "1.02\n1.19\n1.09",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n39\n20\n19\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "143\n120\n172",
+            "hs%": "74%\n78%\n68%",
+            "kdr": "20\n14\n6",
+            "kills": "175",
+            "name": "inconsistent",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.17\n1.01",
+            "adr": "-1\n-6\n+5",
+            "agent": "",
+            "assists": "/\n\n38\n22\n16\n\n/",
+            "deaths": "37\n16\n21",
+            "fk": "122\n88\n165",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "20\n10\n10",
+            "kills": "149",
+            "name": "KBK",
+            "team": null
+          },
+          {
+            "acs": "1.07\n0.81\n0.96",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n44\n24\n20\n\n/",
+            "deaths": "48\n31\n17",
+            "fk": "158\n178\n131",
+            "hs%": "68%\n72%\n64%",
+            "kdr": "16\n8\n8",
+            "kills": "279",
+            "name": "soupy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "218",
+          "name": "Tsorouka",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "233",
+          "name": "PooperScooper",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "127",
+          "name": "ScooperPooper",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "107",
+          "name": "FaTaLPooper",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "85",
+          "name": "YungSavageScully",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "339",
+          "name": "finchy",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "244",
+          "name": "anders",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "384",
+          "name": "inconsistent",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "351",
+          "name": "soupy",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "191",
+          "name": "KBK",
+          "team": "Laurier Golden Hawks"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.88\n0.55\n0.94",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "146\n121\n150",
+            "hs%": "57%\n100%\n50%",
+            "kdr": "3\n1\n2",
+            "kills": "218",
+            "name": "Tsorouka",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "0.79\n1.05\n0.75",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "151\n160\n150",
+            "hs%": "71%\n100%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "233",
+            "name": "PooperScooper",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "0.35\n0.41\n0.34",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n14\n2\n12\n\n/",
+            "deaths": "4\n1\n3",
+            "fk": "100\n112\n98",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "7\n1\n6",
+            "kills": "127",
+            "name": "ScooperPooper",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "0.33\n0.66\n0.27",
+            "adr": "-10\n-1\n-9",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "3\n1\n2",
+            "fk": "88\n72\n91",
+            "hs%": "43%\n50%\n42%",
+            "kdr": "3\n1\n2",
+            "kills": "107",
+            "name": "FaTaLPooper",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "0.30\n0.01\n0.43",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "4\n0\n4",
+            "fk": "52\n0\n61",
+            "hs%": "43%\n0%\n50%",
+            "kdr": "1\n0\n1",
+            "kills": "85",
+            "name": "YungSavageScully",
+            "team": "DSU Valorant"
+          }
+        ],
+        [
+          {
+            "acs": "2.11\n1.97\n2.92",
+            "adr": "+14\n+11\n+3",
+            "agent": "",
+            "assists": "/\n\n5\n5\n0\n\n/",
+            "deaths": "19\n16\n3",
+            "fk": "203\n203\n206",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "339",
+            "name": "finchy",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "1.69\n1.94\n0.18",
+            "adr": "+9\n+10\n-1",
+            "agent": "",
+            "assists": "/\n\n4\n3\n1\n\n/",
+            "deaths": "13\n13\n0",
+            "fk": "154\n180",
+            "hs%": "86%\n92%\n50%",
+            "kdr": "9\n9\n0",
+            "kills": "244",
+            "name": "anders",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "1.54\n1.50\n1.74",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n5\n4\n1\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "134\n130\n155",
+            "hs%": "86%\n83%\n100%",
+            "kdr": "7\n7\n0",
+            "kills": "384",
+            "name": "inconsistent",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "1.39\n1.30\n1.88",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "16\n14\n2",
+            "fk": "227\n231\n205",
+            "hs%": "71%\n75%\n50%",
+            "kdr": "6\n4\n2",
+            "kills": "351",
+            "name": "soupy",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "0.84\n0.83\n0.91",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "72\n59\n151",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "7\n6\n1",
+            "kills": "191",
+            "name": "KBK",
+            "team": "Laurier Golden Hawks"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "297",
+          "name": "Tsorouka",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "246",
+          "name": "PooperScooper",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "163",
+          "name": "ScooperPooper",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "153",
+          "name": "YungSavageScully",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "87",
+          "name": "FaTaLPooper",
+          "team": "DSU Valorant"
+        },
+        {
+          "kills": "253",
+          "name": "KBK",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "205",
+          "name": "finchy",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "188",
+          "name": "inconsistent",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "268",
+          "name": "soupy",
+          "team": "Laurier Golden Hawks"
+        },
+        {
+          "kills": "154",
+          "name": "anders",
+          "team": "Laurier Golden Hawks"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.36\n0.99\n1.70",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "23\n9\n14",
+            "fk": "196\n148\n239",
+            "hs%": "78%\n64%\n92%",
+            "kdr": "7\n2\n5",
+            "kills": "297",
+            "name": "Tsorouka",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "1.30\n1.23\n1.37",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "163\n150\n175",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "8\n1\n7",
+            "kills": "246",
+            "name": "PooperScooper",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "0.82\n0.79\n0.84",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "110\n120\n101",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "17\n7\n10",
+            "kills": "163",
+            "name": "ScooperPooper",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "0.50\n0.04\n0.93",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "101\n55\n143",
+            "hs%": "30%\n18%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "153",
+            "name": "YungSavageScully",
+            "team": "DSU Valorant"
+          },
+          {
+            "acs": "0.38\n0.53\n0.24",
+            "adr": "-12\n-5\n-7",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "55\n79\n34",
+            "hs%": "43%\n45%\n42%",
+            "kdr": "5\n2\n3",
+            "kills": "87",
+            "name": "FaTaLPooper",
+            "team": "DSU Valorant"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.14\n1.71",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "160\n134\n190",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "10\n4\n6",
+            "kills": "253",
+            "name": "KBK",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "1.16\n1.29\n1.03",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "124\n140\n106",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "2\n1\n1",
+            "kills": "205",
+            "name": "finchy",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "1.09\n0.66\n1.55",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "136\n86\n191",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "6\n3\n3",
+            "kills": "188",
+            "name": "inconsistent",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "1.03\n1.32\n0.72",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "165\n185\n143",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "4\n3\n1",
+            "kills": "268",
+            "name": "soupy",
+            "team": "Laurier Golden Hawks"
+          },
+          {
+            "acs": "0.97\n0.77\n1.18",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "98\n80\n118",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "5\n4\n1",
+            "kills": "154",
+            "name": "anders",
+            "team": "Laurier Golden Hawks"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 156460,
+  "teams": [
+    "DSU Valorant",
+    "Laurier Golden Hawks"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tRound of 32"
+}

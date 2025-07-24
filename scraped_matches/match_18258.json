@@ -1,0 +1,594 @@
+{
+  "date": "2021-04-23 02:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "258",
+          "name": "AC",
+          "team": "Shenzhen NTER"
+        },
+        {
+          "kills": "248",
+          "name": "Eren",
+          "team": "Shenzhen NTER"
+        },
+        {
+          "kills": "203",
+          "name": "x8",
+          "team": "Shenzhen NTER"
+        },
+        {
+          "kills": "141",
+          "name": "Bing9z",
+          "team": "Shenzhen NTER"
+        },
+        {
+          "kills": "202",
+          "name": "XiaoShi77",
+          "team": "Shenzhen NTER"
+        },
+        {
+          "kills": "299",
+          "name": "Biank",
+          "team": "ex-O2 Gaming"
+        },
+        {
+          "kills": "270",
+          "name": "Chappie",
+          "team": "ex-O2 Gaming"
+        },
+        {
+          "kills": "214",
+          "name": "rin",
+          "team": "ex-O2 Gaming"
+        },
+        {
+          "kills": "202",
+          "name": "accHr",
+          "team": "ex-O2 Gaming"
+        },
+        {
+          "kills": "132",
+          "name": "BEWATER",
+          "team": "ex-O2 Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.27\n1.50\n1.03",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "143\n158\n128",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "9\n4\n5",
+            "kills": "258",
+            "name": "AC",
+            "team": "Shenzhen NTER"
+          },
+          {
+            "acs": "1.19\n1.21\n1.17",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "176\n160\n191",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "248",
+            "name": "Eren",
+            "team": "Shenzhen NTER"
+          },
+          {
+            "acs": "0.87\n1.02\n0.72",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "137\n172\n103",
+            "hs%": "63%\n75%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "203",
+            "name": "x8",
+            "team": "Shenzhen NTER"
+          },
+          {
+            "acs": "0.78\n0.77\n0.79",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "80\n78\n83",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n2\n2",
+            "kills": "141",
+            "name": "Bing9z",
+            "team": "Shenzhen NTER"
+          },
+          {
+            "acs": "0.78\n0.87\n0.69",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "120\n136\n105",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "10\n8\n2",
+            "kills": "202",
+            "name": "XiaoShi77",
+            "team": "Shenzhen NTER"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.16\n1.75",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "24\n9\n15",
+            "fk": "189\n132\n246",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "15\n9\n6",
+            "kills": "299",
+            "name": "Biank",
+            "team": "ex-O2 Gaming"
+          },
+          {
+            "acs": "1.20\n2.07\n0.34",
+            "adr": "+3\n+9\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "22\n18\n4",
+            "fk": "156\n226\n85",
+            "hs%": "79%\n100%\n58%",
+            "kdr": "9\n6\n3",
+            "kills": "270",
+            "name": "Chappie",
+            "team": "ex-O2 Gaming"
+          },
+          {
+            "acs": "1.09\n1.38\n0.79",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "159\n143\n176",
+            "hs%": "88%\n92%\n83%",
+            "kdr": "9\n7\n2",
+            "kills": "214",
+            "name": "rin",
+            "team": "ex-O2 Gaming"
+          },
+          {
+            "acs": "0.83\n0.54\n1.12",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "139\n114\n163",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "202",
+            "name": "accHr",
+            "team": "ex-O2 Gaming"
+          },
+          {
+            "acs": "0.67\n0.41\n0.93",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "98\n76\n120",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "0\n0\n0",
+            "kills": "132",
+            "name": "BEWATER",
+            "team": "ex-O2 Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "237",
+          "name": "Eren",
+          "team": null
+        },
+        {
+          "kills": "236",
+          "name": "x8",
+          "team": null
+        },
+        {
+          "kills": "181",
+          "name": "AC",
+          "team": null
+        },
+        {
+          "kills": "140",
+          "name": "Bing9z",
+          "team": null
+        },
+        {
+          "kills": "150",
+          "name": "XiaoShi77",
+          "team": null
+        },
+        {
+          "kills": "263",
+          "name": "Biank",
+          "team": null
+        },
+        {
+          "kills": "195",
+          "name": "rin",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "accHr",
+          "team": null
+        },
+        {
+          "kills": "296",
+          "name": "Chappie",
+          "team": null
+        },
+        {
+          "kills": "106",
+          "name": "BEWATER",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.18\n1.37\n1.27",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n36\n19\n17\n\n/",
+            "deaths": "41\n19\n22",
+            "fk": "190\n157\n225",
+            "hs%": "72%\n58%\n86%",
+            "kdr": "12\n4\n8",
+            "kills": "237",
+            "name": "Eren",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.07\n1.05",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n35\n20\n15\n\n/",
+            "deaths": "36\n20\n16",
+            "fk": "150\n166\n133",
+            "hs%": "70%\n79%\n59%",
+            "kdr": "5\n4\n1",
+            "kills": "236",
+            "name": "x8",
+            "team": null
+          },
+          {
+            "acs": "0.90\n0.79\n0.85",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n38\n20\n18\n\n/",
+            "deaths": "29\n15\n14",
+            "fk": "112\n118\n104",
+            "hs%": "70%\n71%\n68%",
+            "kdr": "17\n6\n11",
+            "kills": "181",
+            "name": "AC",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.88\n0.79",
+            "adr": "-12\n-9\n-3",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "94\n90\n98",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "10\n4\n6",
+            "kills": "140",
+            "name": "Bing9z",
+            "team": null
+          },
+          {
+            "acs": "0.56\n0.71\n0.63",
+            "adr": "-14\n-11\n-3",
+            "agent": "",
+            "assists": "/\n\n37\n21\n16\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "101\n95\n108",
+            "hs%": "67%\n63%\n73%",
+            "kdr": "14\n11\n3",
+            "kills": "150",
+            "name": "XiaoShi77",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n1.44\n1.33",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n29\n15\n14\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "162\n139\n184",
+            "hs%": "85%\n82%\n88%",
+            "kdr": "26\n15\n11",
+            "kills": "263",
+            "name": "Biank",
+            "team": null
+          },
+          {
+            "acs": "1.18\n1.20\n1.19",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n26\n13\n13\n\n/",
+            "deaths": "35\n15\n20",
+            "fk": "144\n125\n161",
+            "hs%": "85%\n77%\n92%",
+            "kdr": "11\n8\n3",
+            "kills": "195",
+            "name": "rin",
+            "team": null
+          },
+          {
+            "acs": "0.94\n1.35\n1.15",
+            "adr": "+10\n0\n+10",
+            "agent": "",
+            "assists": "/\n\n32\n17\n15\n\n/",
+            "deaths": "42\n17\n25",
+            "fk": "170\n143\n195",
+            "hs%": "80%\n77%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "216",
+            "name": "accHr",
+            "team": null
+          },
+          {
+            "acs": "1.32\n0.68\n0.99",
+            "adr": "+1\n+6\n-5",
+            "agent": "",
+            "assists": "/\n\n34\n17\n17\n\n/",
+            "deaths": "35\n23\n12",
+            "fk": "124\n141\n110",
+            "hs%": "67%\n73%\n63%",
+            "kdr": "15\n8\n7",
+            "kills": "296",
+            "name": "Chappie",
+            "team": null
+          },
+          {
+            "acs": "0.54\n1.00\n0.78",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n30\n15\n15\n\n/",
+            "deaths": "26\n8\n18",
+            "fk": "101\n80\n120",
+            "hs%": "67%\n59%\n75%",
+            "kdr": "3\n3\n0",
+            "kills": "106",
+            "name": "BEWATER",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "378",
+          "name": "Eren",
+          "team": "Shenzhen NTER"
+        },
+        {
+          "kills": "250",
+          "name": "x8",
+          "team": "Shenzhen NTER"
+        },
+        {
+          "kills": "166",
+          "name": "Bing9z",
+          "team": "Shenzhen NTER"
+        },
+        {
+          "kills": "167",
+          "name": "XiaoShi77",
+          "team": "Shenzhen NTER"
+        },
+        {
+          "kills": "123",
+          "name": "AC",
+          "team": "Shenzhen NTER"
+        },
+        {
+          "kills": "352",
+          "name": "accHr",
+          "team": "ex-O2 Gaming"
+        },
+        {
+          "kills": "246",
+          "name": "rin",
+          "team": "ex-O2 Gaming"
+        },
+        {
+          "kills": "210",
+          "name": "Biank",
+          "team": "ex-O2 Gaming"
+        },
+        {
+          "kills": "202",
+          "name": "BEWATER",
+          "team": "ex-O2 Gaming"
+        },
+        {
+          "kills": "208",
+          "name": "Chappie",
+          "team": "ex-O2 Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.15\n1.61",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "205\n154\n266",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "4\n1\n3",
+            "kills": "378",
+            "name": "Eren",
+            "team": "Shenzhen NTER"
+          },
+          {
+            "acs": "1.24\n1.04\n1.48",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "164\n159\n170",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "0\n0\n0",
+            "kills": "250",
+            "name": "x8",
+            "team": "Shenzhen NTER"
+          },
+          {
+            "acs": "0.81\n0.66\n0.98",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "110\n103\n117",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "6\n2\n4",
+            "kills": "166",
+            "name": "Bing9z",
+            "team": "Shenzhen NTER"
+          },
+          {
+            "acs": "0.47\n0.25\n0.74",
+            "adr": "-10\n-9\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "81\n55\n111",
+            "hs%": "59%\n50%\n70%",
+            "kdr": "4\n3\n1",
+            "kills": "167",
+            "name": "XiaoShi77",
+            "team": "Shenzhen NTER"
+          },
+          {
+            "acs": "0.39\n0.31\n0.49",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "7\n4\n3",
+            "fk": "78\n79\n76",
+            "hs%": "64%\n67%\n60%",
+            "kdr": "8\n2\n6",
+            "kills": "123",
+            "name": "AC",
+            "team": "Shenzhen NTER"
+          }
+        ],
+        [
+          {
+            "acs": "1.51\n1.43\n1.58",
+            "adr": "+12\n+4\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "204\n178\n226",
+            "hs%": "91%\n90%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "352",
+            "name": "accHr",
+            "team": "ex-O2 Gaming"
+          },
+          {
+            "acs": "1.31\n0.95\n1.61",
+            "adr": "+8\n0\n+8",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "127\n104\n146",
+            "hs%": "82%\n60%\n100%",
+            "kdr": "2\n1\n1",
+            "kills": "246",
+            "name": "rin",
+            "team": "ex-O2 Gaming"
+          },
+          {
+            "acs": "1.20\n1.28\n1.14",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "133\n147\n122",
+            "hs%": "91%\n90%\n92%",
+            "kdr": "11\n6\n5",
+            "kills": "210",
+            "name": "Biank",
+            "team": "ex-O2 Gaming"
+          },
+          {
+            "acs": "0.89\n0.68\n1.07",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "104\n84\n120",
+            "hs%": "64%\n50%\n75%",
+            "kdr": "3\n3\n0",
+            "kills": "202",
+            "name": "BEWATER",
+            "team": "ex-O2 Gaming"
+          },
+          {
+            "acs": "0.75\n0.41\n1.03",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "90\n38\n134",
+            "hs%": "55%\n40%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "208",
+            "name": "Chappie",
+            "team": "ex-O2 Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 18258,
+  "teams": [
+    "Shenzhen NTER",
+    "ex-O2 Gaming"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup C"
+}

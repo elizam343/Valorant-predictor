@@ -1,0 +1,788 @@
+{
+  "date": "2022-08-13 03:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "265",
+          "name": "KEI",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "195",
+          "name": "Bisha",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "269",
+          "name": "choco",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "164",
+          "name": "Zukuri",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "167",
+          "name": "Kahel",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "230",
+          "name": "Duck",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "218",
+          "name": "KiNDRXD",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "206",
+          "name": "Bless",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "213",
+          "name": "cjsakura",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "170",
+          "name": "toffywoffy",
+          "team": "Blitz Zen"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.49\n1.34",
+            "adr": "+9\n+4\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "27\n14\n13",
+            "fk": "187\n188\n186",
+            "hs%": "70%\n60%\n80%",
+            "kdr": "7\n1\n6",
+            "kills": "265",
+            "name": "KEI",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "1.05\n0.66\n1.45",
+            "adr": "+2\n-7\n+9",
+            "agent": "",
+            "assists": "/\n\n17\n14\n3\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "133\n116\n150",
+            "hs%": "87%\n73%\n100%",
+            "kdr": "14\n6\n8",
+            "kills": "195",
+            "name": "Bisha",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "0.98\n0.61\n1.36",
+            "adr": "+1\n-5\n+6",
+            "agent": "",
+            "assists": "/\n\n25\n15\n10\n\n/",
+            "deaths": "26\n10\n16",
+            "fk": "160\n144\n177",
+            "hs%": "67%\n60%\n73%",
+            "kdr": "4\n3\n1",
+            "kills": "269",
+            "name": "choco",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "0.91\n0.40\n1.42",
+            "adr": "-3\n-9\n+6",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "17\n3\n14",
+            "fk": "106\n49\n164",
+            "hs%": "60%\n33%\n87%",
+            "kdr": "8\n2\n6",
+            "kills": "164",
+            "name": "Zukuri",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "0.71\n0.34\n1.07",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n24\n15\n9\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "118\n94\n142",
+            "hs%": "63%\n47%\n80%",
+            "kdr": "3\n1\n2",
+            "kills": "167",
+            "name": "Kahel",
+            "team": "LFG Calyx"
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n0.99\n1.72",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "163\n140\n186",
+            "hs%": "80%\n60%\n100%",
+            "kdr": "8\n5\n3",
+            "kills": "230",
+            "name": "Duck",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "1.07\n0.84\n1.30",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "147\n119\n176",
+            "hs%": "80%\n87%\n73%",
+            "kdr": "16\n7\n9",
+            "kills": "218",
+            "name": "KiNDRXD",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "0.94\n0.75\n1.13",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n22\n15\n7\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "123\n114\n132",
+            "hs%": "63%\n60%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "206",
+            "name": "Bless",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "0.86\n0.50\n1.23",
+            "adr": "-3\n-7\n+4",
+            "agent": "",
+            "assists": "/\n\n25\n13\n12\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "129\n84\n174",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "10\n4\n6",
+            "kills": "213",
+            "name": "cjsakura",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "0.77\n0.39\n1.15",
+            "adr": "-5\n-9\n+4",
+            "agent": "",
+            "assists": "/\n\n22\n14\n8\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "107\n85\n130",
+            "hs%": "63%\n53%\n73%",
+            "kdr": "4\n4\n0",
+            "kills": "170",
+            "name": "toffywoffy",
+            "team": "Blitz Zen"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "266",
+          "name": "KEI",
+          "team": null
+        },
+        {
+          "kills": "149",
+          "name": "Bisha",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "choco",
+          "team": null
+        },
+        {
+          "kills": "100",
+          "name": "Zukuri",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "Kahel",
+          "team": null
+        },
+        {
+          "kills": "190",
+          "name": "Duck",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "cjsakura",
+          "team": null
+        },
+        {
+          "kills": "277",
+          "name": "Bless",
+          "team": null
+        },
+        {
+          "kills": "212",
+          "name": "KiNDRXD",
+          "team": null
+        },
+        {
+          "kills": "102",
+          "name": "toffywoffy",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.36\n1.47\n1.42",
+            "adr": "+20\n+6\n+14",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "70\n34\n36",
+            "fk": "181\n172\n192",
+            "hs%": "71%\n64%\n78%",
+            "kdr": "25\n9\n16",
+            "kills": "266",
+            "name": "KEI",
+            "team": null
+          },
+          {
+            "acs": "0.79\n1.13\n0.95",
+            "adr": "-4\n-10\n+6",
+            "agent": "",
+            "assists": "/\n\n46\n30\n16\n\n/",
+            "deaths": "42\n20\n22",
+            "fk": "109\n99\n120",
+            "hs%": "73%\n59%\n89%",
+            "kdr": "23\n8\n15",
+            "kills": "149",
+            "name": "Bisha",
+            "team": null
+          },
+          {
+            "acs": "0.52\n1.21\n0.85",
+            "adr": "-9\n-17\n+8",
+            "agent": "",
+            "assists": "/\n\n63\n37\n26\n\n/",
+            "deaths": "54\n20\n34",
+            "fk": "133\n112\n157",
+            "hs%": "67%\n64%\n69%",
+            "kdr": "13\n8\n5",
+            "kills": "180",
+            "name": "choco",
+            "team": null
+          },
+          {
+            "acs": "0.47\n1.14\n0.79",
+            "adr": "-19\n-22\n+3",
+            "agent": "",
+            "assists": "/\n\n56\n33\n23\n\n/",
+            "deaths": "37\n11\n26",
+            "fk": "98\n74\n125",
+            "hs%": "67%\n49%\n86%",
+            "kdr": "25\n13\n12",
+            "kills": "100",
+            "name": "Zukuri",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.83\n0.77",
+            "adr": "-13\n-12\n-1",
+            "agent": "",
+            "assists": "/\n\n61\n36\n25\n\n/",
+            "deaths": "48\n24\n24",
+            "fk": "116\n121\n110",
+            "hs%": "63%\n56%\n69%",
+            "kdr": "7\n4\n3",
+            "kills": "182",
+            "name": "Kahel",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.98\n1.63\n1.32",
+            "adr": "+16\n-4\n+20",
+            "agent": "",
+            "assists": "/\n\n43\n26\n17\n\n/",
+            "deaths": "59\n22\n37",
+            "fk": "157\n122\n190",
+            "hs%": "76%\n64%\n87%",
+            "kdr": "30\n14\n16",
+            "kills": "190",
+            "name": "Duck",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.39\n1.11",
+            "adr": "+12\n-5\n+17",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "62\n23\n39",
+            "fk": "136\n114\n157",
+            "hs%": "80%\n72%\n87%",
+            "kdr": "23\n11\n12",
+            "kills": "184",
+            "name": "cjsakura",
+            "team": null
+          },
+          {
+            "acs": "1.17\n0.99\n1.07",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n53\n30\n23\n\n/",
+            "deaths": "64\n36\n28",
+            "fk": "155\n173\n138",
+            "hs%": "79%\n72%\n85%",
+            "kdr": "9\n2\n7",
+            "kills": "277",
+            "name": "Bless",
+            "team": null
+          },
+          {
+            "acs": "0.90\n1.14\n1.03",
+            "adr": "0\n-7\n+7",
+            "agent": "",
+            "assists": "/\n\n51\n28\n23\n\n/",
+            "deaths": "51\n21\n30",
+            "fk": "151\n145\n158",
+            "hs%": "77%\n75%\n79%",
+            "kdr": "31\n16\n15",
+            "kills": "212",
+            "name": "KiNDRXD",
+            "team": null
+          },
+          {
+            "acs": "0.42\n1.09\n0.77",
+            "adr": "-14\n-19\n+5",
+            "agent": "",
+            "assists": "/\n\n54\n30\n24\n\n/",
+            "deaths": "40\n11\n29",
+            "fk": "103\n72\n132",
+            "hs%": "71%\n58%\n82%",
+            "kdr": "18\n9\n9",
+            "kills": "102",
+            "name": "toffywoffy",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "354",
+          "name": "KEI",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "136",
+          "name": "Bisha",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "217",
+          "name": "choco",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "91",
+          "name": "Kahel",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "153",
+          "name": "Zukuri",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "236",
+          "name": "cjsakura",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "323",
+          "name": "toffywoffy",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "190",
+          "name": "Bless",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "190",
+          "name": "KiNDRXD",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "142",
+          "name": "Duck",
+          "team": "Blitz Zen"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.42\n1.01\n1.82",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "158\n115\n202",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "10\n5\n5",
+            "kills": "354",
+            "name": "KEI",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "1.11\n1.18\n1.05",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "120\n132\n108",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "136",
+            "name": "Bisha",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "0.89\n0.57\n1.21",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "117\n100\n134",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "217",
+            "name": "choco",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "0.81\n1.08\n0.54",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "96\n131\n61",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "91",
+            "name": "Kahel",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "0.78\n0.62\n0.94",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "91\n92\n91",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "153",
+            "name": "Zukuri",
+            "team": "LFG Calyx"
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n0.97\n1.49",
+            "adr": "+8\n+2\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "21\n10\n11",
+            "fk": "152\n147\n158",
+            "hs%": "88%\n83%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "236",
+            "name": "cjsakura",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "1.18\n0.60\n1.75",
+            "adr": "+4\n-4\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "19\n4\n15",
+            "fk": "144\n84\n204",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "323",
+            "name": "toffywoffy",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "0.97\n1.19\n0.76",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "152\n184\n121",
+            "hs%": "96%\n92%\n100%",
+            "kdr": "4\n0\n4",
+            "kills": "190",
+            "name": "Bless",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "0.92\n1.05\n0.79",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "139\n158\n121",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "190",
+            "name": "KiNDRXD",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "0.71\n0.53\n0.89",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "92\n85\n98",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "142",
+            "name": "Duck",
+            "team": "Blitz Zen"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "328",
+          "name": "KEI",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "217",
+          "name": "Kahel",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "135",
+          "name": "Zukuri",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "106",
+          "name": "Bisha",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "177",
+          "name": "choco",
+          "team": "LFG Calyx"
+        },
+        {
+          "kills": "371",
+          "name": "Duck",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "288",
+          "name": "Bless",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "220",
+          "name": "cjsakura",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "232",
+          "name": "KiNDRXD",
+          "team": "Blitz Zen"
+        },
+        {
+          "kills": "62",
+          "name": "toffywoffy",
+          "team": "Blitz Zen"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.55\n1.23",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "22\n14\n8",
+            "fk": "200\n209\n187",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "8\n3\n5",
+            "kills": "328",
+            "name": "KEI",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "0.81\n0.80\n0.82",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "135\n146\n121",
+            "hs%": "57%\n50%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "217",
+            "name": "Kahel",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "0.63\n0.40\n0.94",
+            "adr": "-9\n-8\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "95\n88\n105",
+            "hs%": "71%\n50%\n100%",
+            "kdr": "11\n8\n3",
+            "kills": "135",
+            "name": "Zukuri",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "0.62\n0.56\n0.70",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "62\n45\n85",
+            "hs%": "57%\n42%\n78%",
+            "kdr": "1\n0\n1",
+            "kills": "106",
+            "name": "Bisha",
+            "team": "LFG Calyx"
+          },
+          {
+            "acs": "0.62\n0.36\n0.97",
+            "adr": "-6\n-7\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "114\n84\n153",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "177",
+            "name": "choco",
+            "team": "LFG Calyx"
+          }
+        ],
+        [
+          {
+            "acs": "1.96\n1.55\n2.27",
+            "adr": "+15\n+2\n+13",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "26\n7\n19",
+            "fk": "224\n141\n286",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "13\n5\n8",
+            "kills": "371",
+            "name": "Duck",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "1.38\n1.83\n1.04",
+            "adr": "+8\n+6\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "203\n257\n163",
+            "hs%": "81%\n67%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "288",
+            "name": "Bless",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "1.33\n1.11\n1.50",
+            "adr": "+7\n0\n+7",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "128\n119\n135",
+            "hs%": "86%\n67%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "220",
+            "name": "cjsakura",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "1.09\n0.82\n1.30",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "171\n170\n172",
+            "hs%": "76%\n56%\n92%",
+            "kdr": "9\n5\n4",
+            "kills": "232",
+            "name": "KiNDRXD",
+            "team": "Blitz Zen"
+          },
+          {
+            "acs": "0.30\n0.21\n0.37",
+            "adr": "-13\n-6\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "4\n2\n2",
+            "fk": "49\n32\n63",
+            "hs%": "86%\n67%\n100%",
+            "kdr": "7\n3\n4",
+            "kills": "62",
+            "name": "toffywoffy",
+            "team": "Blitz Zen"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 128763,
+  "teams": [
+    "LFG Calyx",
+    "Blitz Zen"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tGroup A"
+}

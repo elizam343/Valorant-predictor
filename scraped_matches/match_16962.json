@@ -1,0 +1,788 @@
+{
+  "date": "2021-04-20 17:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "262",
+          "name": "ALEKSANDAR",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "294",
+          "name": "Temperature",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "262",
+          "name": "Osias",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "158",
+          "name": "potter",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "141",
+          "name": "clawdia",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "225",
+          "name": "ZeroData",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "220",
+          "name": "Eletrik",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "148",
+          "name": "LuckyLeader",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "176",
+          "name": "steph",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "177",
+          "name": "12pk",
+          "team": "HEAD HUNTERS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.58\n1.43\n1.86",
+            "adr": "+10\n+4\n+6",
+            "agent": "",
+            "assists": "/\n\n8\n7\n1\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "162\n170\n146",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "8\n6\n2",
+            "kills": "262",
+            "name": "ALEKSANDAR",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.26\n1.07\n1.66",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "177\n172\n189",
+            "hs%": "83%\n75%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "294",
+            "name": "Temperature",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.19\n1.28\n1.00",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "175\n188\n148",
+            "hs%": "89%\n83%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "262",
+            "name": "Osias",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.05\n1.10\n0.94",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "103\n108\n93",
+            "hs%": "72%\n67%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "158",
+            "name": "potter",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.63\n0.49\n0.91",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "87\n109\n44",
+            "hs%": "61%\n58%\n67%",
+            "kdr": "5\n5\n0",
+            "kills": "141",
+            "name": "clawdia",
+            "team": "Evil Geniuses"
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.04\n1.07",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "157\n110\n181",
+            "hs%": "72%\n50%\n83%",
+            "kdr": "8\n3\n5",
+            "kills": "225",
+            "name": "ZeroData",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "0.97\n0.55\n1.18",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "132\n97\n149",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "220",
+            "name": "Eletrik",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "0.87\n0.91\n0.85",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "115\n136\n104",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "148",
+            "name": "LuckyLeader",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "0.77\n0.41\n0.94",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "104\n42\n134",
+            "hs%": "50%\n33%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "176",
+            "name": "steph",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "0.60\n0.53\n0.64",
+            "adr": "-6\n-2\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "112\n113\n111",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "177",
+            "name": "12pk",
+            "team": "HEAD HUNTERS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "290",
+          "name": "ALEKSANDAR",
+          "team": null
+        },
+        {
+          "kills": "251",
+          "name": "Temperature",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "potter",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "Osias",
+          "team": null
+        },
+        {
+          "kills": "165",
+          "name": "clawdia",
+          "team": null
+        },
+        {
+          "kills": "302",
+          "name": "steph",
+          "team": null
+        },
+        {
+          "kills": "176",
+          "name": "LuckyLeader",
+          "team": null
+        },
+        {
+          "kills": "240",
+          "name": "12pk",
+          "team": null
+        },
+        {
+          "kills": "100",
+          "name": "ZeroData",
+          "team": null
+        },
+        {
+          "kills": "246",
+          "name": "Eletrik",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.29\n1.39\n1.33",
+            "adr": "+16\n+9\n+7",
+            "agent": "",
+            "assists": "/\n\n35\n21\n14\n\n/",
+            "deaths": "51\n30\n21",
+            "fk": "170\n185\n150",
+            "hs%": "81%\n76%\n87%",
+            "kdr": "17\n10\n7",
+            "kills": "290",
+            "name": "ALEKSANDAR",
+            "team": null
+          },
+          {
+            "acs": "1.04\n1.40\n1.20",
+            "adr": "+12\n+6\n+6",
+            "agent": "",
+            "assists": "/\n\n39\n21\n18\n\n/",
+            "deaths": "51\n27\n24",
+            "fk": "172\n162\n184",
+            "hs%": "75%\n72%\n78%",
+            "kdr": "20\n9\n11",
+            "kills": "251",
+            "name": "Temperature",
+            "team": null
+          },
+          {
+            "acs": "1.07\n1.10\n1.09",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n34\n16\n18\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "129\n110\n153",
+            "hs%": "77%\n69%\n87%",
+            "kdr": "22\n7\n15",
+            "kills": "161",
+            "name": "potter",
+            "team": null
+          },
+          {
+            "acs": "1.03\n0.86\n0.95",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n38\n20\n18\n\n/",
+            "deaths": "37\n21\n16",
+            "fk": "133\n136\n128",
+            "hs%": "71%\n76%\n65%",
+            "kdr": "12\n6\n6",
+            "kills": "205",
+            "name": "Osias",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.68\n0.73",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n36\n22\n14\n\n/",
+            "deaths": "25\n16\n9",
+            "fk": "94\n119\n61",
+            "hs%": "62%\n62%\n61%",
+            "kdr": "9\n7\n2",
+            "kills": "165",
+            "name": "clawdia",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.20\n1.06\n1.12",
+            "adr": "+4\n+6\n-2",
+            "agent": "",
+            "assists": "/\n\n41\n17\n24\n\n/",
+            "deaths": "45\n23\n22",
+            "fk": "164\n168\n162",
+            "hs%": "69%\n65%\n72%",
+            "kdr": "16\n5\n11",
+            "kills": "302",
+            "name": "steph",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.96\n0.96",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n35\n16\n19\n\n/",
+            "deaths": "31\n13\n18",
+            "fk": "111\n111\n110",
+            "hs%": "69%\n65%\n72%",
+            "kdr": "16\n5\n11",
+            "kills": "176",
+            "name": "LuckyLeader",
+            "team": null
+          },
+          {
+            "acs": "1.00\n0.92\n0.95",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n41\n17\n24\n\n/",
+            "deaths": "41\n19\n22",
+            "fk": "137\n148\n129",
+            "hs%": "69%\n65%\n72%",
+            "kdr": "9\n3\n6",
+            "kills": "240",
+            "name": "12pk",
+            "team": null
+          },
+          {
+            "acs": "0.62\n1.12\n0.90",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n35\n16\n19\n\n/",
+            "deaths": "30\n8\n22",
+            "fk": "104\n56\n141",
+            "hs%": "67%\n57%\n76%",
+            "kdr": "22\n11\n11",
+            "kills": "100",
+            "name": "ZeroData",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.75\n0.80",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n45\n22\n23\n\n/",
+            "deaths": "34\n18\n16",
+            "fk": "125\n154\n102",
+            "hs%": "67%\n78%\n59%",
+            "kdr": "12\n7\n5",
+            "kills": "246",
+            "name": "Eletrik",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "217",
+          "name": "potter",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "249",
+          "name": "ALEKSANDAR",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "255",
+          "name": "Temperature",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "143",
+          "name": "clawdia",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "147",
+          "name": "Osias",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "237",
+          "name": "steph",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "206",
+          "name": "LuckyLeader",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "355",
+          "name": "12pk",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "96",
+          "name": "Eletrik",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "301",
+          "name": "ZeroData",
+          "team": "HEAD HUNTERS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.99\n0.88\n1.04",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "147\n97\n169",
+            "hs%": "76%\n60%\n83%",
+            "kdr": "11\n2\n9",
+            "kills": "217",
+            "name": "potter",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.99\n0.37\n1.26",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "141\n91\n162",
+            "hs%": "71%\n40%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "249",
+            "name": "ALEKSANDAR",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.75\n0.08\n1.02",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "132\n38\n171",
+            "hs%": "59%\n40%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "255",
+            "name": "Temperature",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.71\n0.85\n0.66",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "94\n110\n87",
+            "hs%": "53%\n40%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "143",
+            "name": "clawdia",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.44\n0.34\n0.48",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "101\n72\n114",
+            "hs%": "47%\n60%\n42%",
+            "kdr": "4\n1\n3",
+            "kills": "147",
+            "name": "Osias",
+            "team": "Evil Geniuses"
+          }
+        ],
+        [
+          {
+            "acs": "1.68\n1.82\n1.33",
+            "adr": "+10\n+10\n0",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "22\n18\n4",
+            "fk": "239\n278\n146",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "8\n3\n5",
+            "kills": "237",
+            "name": "steph",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "1.24\n1.17\n1.41",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "94\n111\n52",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "4\n3\n1",
+            "kills": "206",
+            "name": "LuckyLeader",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "1.22\n1.07\n1.59",
+            "adr": "+6\n+2\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "136\n131\n149",
+            "hs%": "71%\n67%\n80%",
+            "kdr": "3\n1\n2",
+            "kills": "355",
+            "name": "12pk",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "1.15\n1.26\n0.88",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n12\n10\n2\n\n/",
+            "deaths": "15\n13\n2",
+            "fk": "158\n199\n60",
+            "hs%": "88%\n92%\n80%",
+            "kdr": "4\n3\n1",
+            "kills": "96",
+            "name": "Eletrik",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "0.85\n0.46\n1.79",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n7\n2\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "66\n31\n153",
+            "hs%": "71%\n58%\n100%",
+            "kdr": "7\n4\n3",
+            "kills": "301",
+            "name": "ZeroData",
+            "team": "HEAD HUNTERS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "324",
+          "name": "Temperature",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "326",
+          "name": "ALEKSANDAR",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "227",
+          "name": "potter",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "220",
+          "name": "Osias",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "135",
+          "name": "clawdia",
+          "team": "Evil Geniuses"
+        },
+        {
+          "kills": "261",
+          "name": "12pk",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "255",
+          "name": "steph",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "214",
+          "name": "LuckyLeader",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "151",
+          "name": "ZeroData",
+          "team": "HEAD HUNTERS"
+        },
+        {
+          "kills": "115",
+          "name": "Eletrik",
+          "team": "HEAD HUNTERS"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.58\n1.40\n2.00",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "206\n205\n209",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "11\n6\n5",
+            "kills": "324",
+            "name": "Temperature",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.42\n1.54\n1.13",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "21\n17\n4",
+            "fk": "206\n240\n127",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "6\n3\n3",
+            "kills": "326",
+            "name": "ALEKSANDAR",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.22\n1.13\n1.44",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "139\n118\n189",
+            "hs%": "82%\n75%\n100%",
+            "kdr": "6\n3\n3",
+            "kills": "227",
+            "name": "potter",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "1.22\n1.05\n1.61",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "119\n112\n137",
+            "hs%": "76%\n75%\n80%",
+            "kdr": "2\n2\n0",
+            "kills": "220",
+            "name": "Osias",
+            "team": "Evil Geniuses"
+          },
+          {
+            "acs": "0.84\n1.00\n0.46",
+            "adr": "-2\n0\n-2",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "8\n8\n0",
+            "fk": "101\n134\n21",
+            "hs%": "71%\n75%\n60%",
+            "kdr": "3\n2\n1",
+            "kills": "135",
+            "name": "clawdia",
+            "team": "Evil Geniuses"
+          }
+        ],
+        [
+          {
+            "acs": "1.06\n1.40\n0.91",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "165\n231\n138",
+            "hs%": "71%\n60%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "261",
+            "name": "12pk",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "0.94\n0.65\n1.06",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "13\n3\n10",
+            "fk": "154\n53\n195",
+            "hs%": "76%\n60%\n83%",
+            "kdr": "4\n0\n4",
+            "kills": "255",
+            "name": "steph",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "0.77\n0.53\n0.88",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "123\n82\n140",
+            "hs%": "59%\n40%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "214",
+            "name": "LuckyLeader",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "0.77\n0.51\n0.88",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "84\n55\n97",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "7\n4\n3",
+            "kills": "151",
+            "name": "ZeroData",
+            "team": "HEAD HUNTERS"
+          },
+          {
+            "acs": "0.28\n0.29\n0.27",
+            "adr": "-12\n-5\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "85\n116\n73",
+            "hs%": "53%\n80%\n42%",
+            "kdr": "7\n4\n3",
+            "kills": "115",
+            "name": "Eletrik",
+            "team": "HEAD HUNTERS"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 16962,
+  "teams": [
+    "Evil Geniuses",
+    "HEAD HUNTERS"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tQuarterfinals"
+}

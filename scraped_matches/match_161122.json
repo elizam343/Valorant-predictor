@@ -1,0 +1,788 @@
+{
+  "date": "2022-10-29 07:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "203",
+          "name": "Joe",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "210",
+          "name": "Kafenji420",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "177",
+          "name": "xumusagaming",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "152",
+          "name": "Adgaa",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "183",
+          "name": "3D DONUT",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "411",
+          "name": "JanK162",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "250",
+          "name": "Alex Merser",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "246",
+          "name": "bokata",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "99",
+          "name": "T\u00e1llon",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "59",
+          "name": "cunny good",
+          "team": "TretiKursTU"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.06\n0.86\n1.27",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "138\n101\n175",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "203",
+            "name": "Joe",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "0.94\n0.81\n1.06",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "134\n138\n130",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "210",
+            "name": "Kafenji420",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "0.86\n0.60\n1.13",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "124\n85\n163",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "177",
+            "name": "xumusagaming",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "0.84\n0.35\n1.33",
+            "adr": "-2\n-8\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n12\n4\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "106\n94\n118",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "8\n6\n2",
+            "kills": "152",
+            "name": "Adgaa",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "0.84\n0.49\n1.19",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "102\n75\n128",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "183",
+            "name": "3D DONUT",
+            "team": "AzisFanGroup"
+          }
+        ],
+        [
+          {
+            "acs": "1.94\n2.11\n1.77",
+            "adr": "+18\n+9\n+9",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "33\n17\n16",
+            "fk": "283\n312\n255",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "5\n3\n2",
+            "kills": "411",
+            "name": "JanK162",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "1.16\n0.63\n1.70",
+            "adr": "+3\n-4\n+7",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "170\n81\n259",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "250",
+            "name": "Alex Merser",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "1.10\n0.45\n1.74",
+            "adr": "+5\n-5\n+10",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "161\n116\n205",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "246",
+            "name": "bokata",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "0.74\n0.33\n1.15",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "60\n29\n92",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "4\n3\n1",
+            "kills": "99",
+            "name": "T\u00e1llon",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "0.38\n0.45\n0.32",
+            "adr": "-12\n-6\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "4\n3\n1",
+            "fk": "45\n60\n29",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "59",
+            "name": "cunny good",
+            "team": "TretiKursTU"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "203",
+          "name": "Joe",
+          "team": null
+        },
+        {
+          "kills": "253",
+          "name": "Kafenji420",
+          "team": null
+        },
+        {
+          "kills": "120",
+          "name": "Adgaa",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "3D DONUT",
+          "team": null
+        },
+        {
+          "kills": "169",
+          "name": "xumusagaming",
+          "team": null
+        },
+        {
+          "kills": "348",
+          "name": "JanK162",
+          "team": null
+        },
+        {
+          "kills": "204",
+          "name": "Alex Merser",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "bokata",
+          "team": null
+        },
+        {
+          "kills": "74",
+          "name": "T\u00e1llon",
+          "team": null
+        },
+        {
+          "kills": "94",
+          "name": "cunny good",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.06\n1.35\n1.21",
+            "adr": "+9\n-2\n+11",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "57\n23\n34",
+            "fk": "164\n133\n192",
+            "hs%": "75%\n70%\n80%",
+            "kdr": "16\n8\n8",
+            "kills": "203",
+            "name": "Joe",
+            "team": null
+          },
+          {
+            "acs": "1.10\n1.12\n1.11",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n48\n28\n20\n\n/",
+            "deaths": "55\n30\n25",
+            "fk": "148\n155\n140",
+            "hs%": "76%\n73%\n80%",
+            "kdr": "10\n3\n7",
+            "kills": "253",
+            "name": "Kafenji420",
+            "team": null
+          },
+          {
+            "acs": "0.56\n1.37\n0.98",
+            "adr": "+4\n-13\n+17",
+            "agent": "",
+            "assists": "/\n\n36\n25\n11\n\n/",
+            "deaths": "40\n12\n28",
+            "fk": "94\n85\n102",
+            "hs%": "69%\n58%\n80%",
+            "kdr": "27\n14\n13",
+            "kills": "120",
+            "name": "Adgaa",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.10\n0.94",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n49\n24\n25\n\n/",
+            "deaths": "49\n21\n28",
+            "fk": "131\n118\n143",
+            "hs%": "68%\n58%\n77%",
+            "kdr": "12\n4\n8",
+            "kills": "180",
+            "name": "3D DONUT",
+            "team": null
+          },
+          {
+            "acs": "0.59\n0.92\n0.76",
+            "adr": "-11\n-11\n0",
+            "agent": "",
+            "assists": "/\n\n54\n29\n25\n\n/",
+            "deaths": "43\n18\n25",
+            "fk": "125\n117\n133",
+            "hs%": "65%\n61%\n69%",
+            "kdr": "11\n7\n4",
+            "kills": "169",
+            "name": "xumusagaming",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.63\n1.58\n1.61",
+            "adr": "+30\n+11\n+19",
+            "agent": "",
+            "assists": "/\n\n44\n27\n17\n\n/",
+            "deaths": "74\n38\n36",
+            "fk": "225\n243\n205",
+            "hs%": "78%\n69%\n88%",
+            "kdr": "14\n10\n4",
+            "kills": "348",
+            "name": "JanK162",
+            "team": null
+          },
+          {
+            "acs": "0.97\n1.46\n1.21",
+            "adr": "+13\n-3\n+16",
+            "agent": "",
+            "assists": "/\n\n51\n27\n24\n\n/",
+            "deaths": "64\n24\n40",
+            "fk": "176\n132\n222",
+            "hs%": "72%\n66%\n79%",
+            "kdr": "18\n8\n10",
+            "kills": "204",
+            "name": "Alex Merser",
+            "team": null
+          },
+          {
+            "acs": "0.68\n1.22\n0.94",
+            "adr": "-1\n-9\n+8",
+            "agent": "",
+            "assists": "/\n\n49\n29\n20\n\n/",
+            "deaths": "48\n20\n28",
+            "fk": "143\n138\n149",
+            "hs%": "71%\n66%\n76%",
+            "kdr": "16\n7\n9",
+            "kills": "200",
+            "name": "bokata",
+            "team": null
+          },
+          {
+            "acs": "0.32\n0.81\n0.56",
+            "adr": "-26\n-22\n-4",
+            "agent": "",
+            "assists": "/\n\n51\n31\n20\n\n/",
+            "deaths": "25\n9\n16",
+            "fk": "65\n41\n92",
+            "hs%": "63%\n63%\n64%",
+            "kdr": "14\n8\n6",
+            "kills": "74",
+            "name": "T\u00e1llon",
+            "team": null
+          },
+          {
+            "acs": "0.41\n0.61\n0.50",
+            "adr": "-27\n-17\n-10",
+            "agent": "",
+            "assists": "/\n\n49\n29\n20\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "59\n57\n61",
+            "hs%": "54%\n46%\n64%",
+            "kdr": "3\n1\n2",
+            "kills": "94",
+            "name": "cunny good",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "294",
+          "name": "Joe",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "318",
+          "name": "3D DONUT",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "278",
+          "name": "Kafenji420",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "133",
+          "name": "Adgaa",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "185",
+          "name": "xumusagaming",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "398",
+          "name": "Alex Merser",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "340",
+          "name": "JanK162",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "134",
+          "name": "bokata",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "85",
+          "name": "T\u00e1llon",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "21",
+          "name": "cunny good",
+          "team": "TretiKursTU"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.65\n1.12",
+            "adr": "+8\n+4\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "22\n9\n13",
+            "fk": "185\n195\n178",
+            "hs%": "76%\n78%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "294",
+            "name": "Joe",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "1.26\n1.21\n1.31",
+            "adr": "+4\n+1\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "152\n101\n191",
+            "hs%": "81%\n67%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "318",
+            "name": "3D DONUT",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "1.11\n0.67\n1.43",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "150\n122\n172",
+            "hs%": "76%\n67%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "278",
+            "name": "Kafenji420",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "0.86\n0.49\n1.14",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "71\n60\n80",
+            "hs%": "71%\n56%\n83%",
+            "kdr": "8\n1\n7",
+            "kills": "133",
+            "name": "Adgaa",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "0.79\n0.74\n0.82",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "12\n4\n8",
+            "fk": "119\n130\n110",
+            "hs%": "67%\n78%\n58%",
+            "kdr": "4\n4\n0",
+            "kills": "185",
+            "name": "xumusagaming",
+            "team": "AzisFanGroup"
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.42\n1.58",
+            "adr": "+9\n+2\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "203\n174\n243",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "6\n3\n3",
+            "kills": "398",
+            "name": "Alex Merser",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "1.43\n1.22\n1.72",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "196\n190\n204",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "6\n5\n1",
+            "kills": "340",
+            "name": "JanK162",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "1.00\n1.01\n0.98",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "147\n192\n88",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "3\n2\n1",
+            "kills": "134",
+            "name": "bokata",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "0.43\n0.36\n0.52",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "63\n51\n77",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "6\n5\n1",
+            "kills": "85",
+            "name": "T\u00e1llon",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "0.07\n0.15\n0.03",
+            "adr": "-15\n-8\n-7",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "4\n4\n0",
+            "fk": "39\n52\n21",
+            "hs%": "43%\n42%\n44%",
+            "kdr": "1\n0\n1",
+            "kills": "21",
+            "name": "cunny good",
+            "team": "TretiKursTU"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "262",
+          "name": "Kafenji420",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "237",
+          "name": "Joe",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "176",
+          "name": "Adgaa",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "202",
+          "name": "3D DONUT",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "200",
+          "name": "xumusagaming",
+          "team": "AzisFanGroup"
+        },
+        {
+          "kills": "276",
+          "name": "JanK162",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "156",
+          "name": "cunny good",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "252",
+          "name": "Alex Merser",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "196",
+          "name": "bokata",
+          "team": "TretiKursTU"
+        },
+        {
+          "kills": "131",
+          "name": "T\u00e1llon",
+          "team": "TretiKursTU"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.29\n1.70\n0.85",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "20\n15\n5",
+            "fk": "159\n198\n117",
+            "hs%": "83%\n83%\n82%",
+            "kdr": "4\n0\n4",
+            "kills": "262",
+            "name": "Kafenji420",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "1.24\n0.83\n1.68",
+            "adr": "+3\n-2\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "170\n119\n226",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "5\n4\n1",
+            "kills": "237",
+            "name": "Joe",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "1.23\n0.82\n1.67",
+            "adr": "+6\n-2\n+8",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "103\n96\n111",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "11\n7\n4",
+            "kills": "176",
+            "name": "Adgaa",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "0.76\n0.76\n0.77",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "142\n173\n108",
+            "hs%": "61%\n50%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "202",
+            "name": "3D DONUT",
+            "team": "AzisFanGroup"
+          },
+          {
+            "acs": "0.62\n0.47\n0.78",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n20\n11\n9\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "132\n139\n125",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "4\n2\n2",
+            "kills": "200",
+            "name": "xumusagaming",
+            "team": "AzisFanGroup"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.54\n1.29",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "189\n226\n155",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "276",
+            "name": "JanK162",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "1.01\n0.65\n1.34",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "93\n60\n123",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "156",
+            "name": "cunny good",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "1.00\n0.87\n1.12",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "156\n140\n170",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "252",
+            "name": "Alex Merser",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "0.74\n0.58\n0.89",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "122\n104\n138",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "196",
+            "name": "bokata",
+            "team": "TretiKursTU"
+          },
+          {
+            "acs": "0.48\n0.26\n0.68",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "73\n42\n102",
+            "hs%": "52%\n55%\n50%",
+            "kdr": "4\n0\n4",
+            "kills": "131",
+            "name": "T\u00e1llon",
+            "team": "TretiKursTU"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 161122,
+  "teams": [
+    "AzisFanGroup",
+    "TretiKursTU"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tQuarterfinals"
+}

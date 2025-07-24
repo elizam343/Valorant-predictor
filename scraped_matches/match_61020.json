@@ -1,0 +1,788 @@
+{
+  "date": "2021-12-05 18:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "253",
+          "name": "amnesia",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "284",
+          "name": "rise",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "174",
+          "name": "bENITA",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "185",
+          "name": "clawdia",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "104",
+          "name": "bungee",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "216",
+          "name": "starriebun",
+          "team": "XSET"
+        },
+        {
+          "kills": "261",
+          "name": "maryna",
+          "team": "XSET"
+        },
+        {
+          "kills": "201",
+          "name": "artStar",
+          "team": "XSET"
+        },
+        {
+          "kills": "171",
+          "name": "ARIANARCHIST",
+          "team": "XSET"
+        },
+        {
+          "kills": "158",
+          "name": "Ellie",
+          "team": "XSET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.47\n1.67\n1.24",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "167\n177\n156",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "5\n0\n5",
+            "kills": "253",
+            "name": "amnesia",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "1.47\n1.69\n1.23",
+            "adr": "+11\n+10\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "24\n17\n7",
+            "fk": "186\n236\n132",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "3\n3\n0",
+            "kills": "284",
+            "name": "rise",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "0.89\n0.51\n1.31",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "136\n84\n192",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "8\n4\n4",
+            "kills": "174",
+            "name": "bENITA",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "0.76\n0.78\n0.73",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "123\n138\n107",
+            "hs%": "61%\n67%\n55%",
+            "kdr": "7\n5\n2",
+            "kills": "185",
+            "name": "clawdia",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "0.51\n0.40\n0.63",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "72\n53\n92",
+            "hs%": "70%\n75%\n64%",
+            "kdr": "6\n3\n3",
+            "kills": "104",
+            "name": "bungee",
+            "team": "CLG Red"
+          }
+        ],
+        [
+          {
+            "acs": "1.24\n0.72\n1.71",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "151\n74\n222",
+            "hs%": "83%\n82%\n83%",
+            "kdr": "6\n0\n6",
+            "kills": "216",
+            "name": "starriebun",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.17\n1.37\n0.99",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "162\n167\n158",
+            "hs%": "61%\n73%\n50%",
+            "kdr": "7\n5\n2",
+            "kills": "261",
+            "name": "maryna",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.01\n1.09\n0.94",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "120\n124\n116",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "201",
+            "name": "artStar",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.84\n0.88\n0.80",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "115\n107\n121",
+            "hs%": "52%\n45%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "171",
+            "name": "ARIANARCHIST",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.67\n0.91\n0.46",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n20\n9\n11\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "122\n145\n101",
+            "hs%": "57%\n82%\n33%",
+            "kdr": "8\n7\n1",
+            "kills": "158",
+            "name": "Ellie",
+            "team": "XSET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "270",
+          "name": "rise",
+          "team": null
+        },
+        {
+          "kills": "282",
+          "name": "amnesia",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "clawdia",
+          "team": null
+        },
+        {
+          "kills": "154",
+          "name": "bungee",
+          "team": null
+        },
+        {
+          "kills": "91",
+          "name": "bENITA",
+          "team": null
+        },
+        {
+          "kills": "252",
+          "name": "artStar",
+          "team": null
+        },
+        {
+          "kills": "238",
+          "name": "Ellie",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "ARIANARCHIST",
+          "team": null
+        },
+        {
+          "kills": "260",
+          "name": "maryna",
+          "team": null
+        },
+        {
+          "kills": "138",
+          "name": "starriebun",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.44\n0.84\n1.12",
+            "adr": "+6\n+12\n-6",
+            "agent": "",
+            "assists": "/\n\n45\n19\n26\n\n/",
+            "deaths": "51\n31\n20",
+            "fk": "146\n177\n121",
+            "hs%": "74%\n77%\n71%",
+            "kdr": "17\n9\n8",
+            "kills": "270",
+            "name": "rise",
+            "team": null
+          },
+          {
+            "acs": "1.48\n0.75\n1.09",
+            "adr": "+5\n+13\n-8",
+            "agent": "",
+            "assists": "/\n\n43\n17\n26\n\n/",
+            "deaths": "48\n30\n18",
+            "fk": "132\n170\n99",
+            "hs%": "74%\n80%\n69%",
+            "kdr": "16\n6\n10",
+            "kills": "282",
+            "name": "amnesia",
+            "team": null
+          },
+          {
+            "acs": "0.68\n1.01\n0.86",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "46\n17\n29",
+            "fk": "129\n127\n132",
+            "hs%": "72%\n70%\n74%",
+            "kdr": "15\n10\n5",
+            "kills": "182",
+            "name": "clawdia",
+            "team": null
+          },
+          {
+            "acs": "0.70\n0.96\n0.84",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n51\n23\n28\n\n/",
+            "deaths": "41\n18\n23",
+            "fk": "119\n103\n133",
+            "hs%": "74%\n70%\n77%",
+            "kdr": "20\n7\n13",
+            "kills": "154",
+            "name": "bungee",
+            "team": null
+          },
+          {
+            "acs": "0.43\n1.08\n0.78",
+            "adr": "-16\n-16\n0",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "35\n8\n27",
+            "fk": "124\n75\n166",
+            "hs%": "66%\n60%\n71%",
+            "kdr": "22\n11\n11",
+            "kills": "91",
+            "name": "bENITA",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.47\n0.98\n1.24",
+            "adr": "+14\n+12\n+2",
+            "agent": "",
+            "assists": "/\n\n38\n21\n17\n\n/",
+            "deaths": "52\n33\n19",
+            "fk": "134\n158\n106",
+            "hs%": "74%\n80%\n67%",
+            "kdr": "19\n16\n3",
+            "kills": "252",
+            "name": "artStar",
+            "team": null
+          },
+          {
+            "acs": "1.36\n0.90\n1.15",
+            "adr": "+7\n+11\n-4",
+            "agent": "",
+            "assists": "/\n\n46\n22\n24\n\n/",
+            "deaths": "53\n33\n20",
+            "fk": "146\n150\n140",
+            "hs%": "74%\n89%\n57%",
+            "kdr": "21\n14\n7",
+            "kills": "238",
+            "name": "Ellie",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.21\n1.04",
+            "adr": "+2\n-3\n+5",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "46\n22\n24",
+            "fk": "134\n120\n151",
+            "hs%": "66%\n69%\n63%",
+            "kdr": "16\n12\n4",
+            "kills": "184",
+            "name": "ARIANARCHIST",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.06\n1.02",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n51\n28\n23\n\n/",
+            "deaths": "51\n29\n22",
+            "fk": "162\n169\n154",
+            "hs%": "68%\n66%\n70%",
+            "kdr": "17\n10\n7",
+            "kills": "260",
+            "name": "maryna",
+            "team": null
+          },
+          {
+            "acs": "0.76\n1.18\n0.95",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n42\n23\n19\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "130\n98\n166",
+            "hs%": "74%\n69%\n80%",
+            "kdr": "23\n9\n14",
+            "kills": "138",
+            "name": "starriebun",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "237",
+          "name": "bungee",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "276",
+          "name": "clawdia",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "197",
+          "name": "bENITA",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "141",
+          "name": "rise",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "99",
+          "name": "amnesia",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "176",
+          "name": "artStar",
+          "team": "XSET"
+        },
+        {
+          "kills": "287",
+          "name": "maryna",
+          "team": "XSET"
+        },
+        {
+          "kills": "222",
+          "name": "Ellie",
+          "team": "XSET"
+        },
+        {
+          "kills": "155",
+          "name": "starriebun",
+          "team": "XSET"
+        },
+        {
+          "kills": "307",
+          "name": "ARIANARCHIST",
+          "team": "XSET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.38\n1.68\n1.23",
+            "adr": "+3\n+3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "153\n145\n156",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "7\n1\n6",
+            "kills": "237",
+            "name": "bungee",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "0.91\n0.57\n1.08",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "140\n107\n157",
+            "hs%": "89%\n83%\n92%",
+            "kdr": "6\n3\n3",
+            "kills": "276",
+            "name": "clawdia",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "0.69\n0.51\n0.78",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "116\n72\n138",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "197",
+            "name": "bENITA",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "0.55\n0.36\n0.64",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "99\n72\n113",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "6\n3\n3",
+            "kills": "141",
+            "name": "rise",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "0.49\n0.66\n0.40",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "73\n111\n54",
+            "hs%": "72%\n67%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "99",
+            "name": "amnesia",
+            "team": "CLG Red"
+          }
+        ],
+        [
+          {
+            "acs": "1.67\n1.95\n1.12",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "16\n13\n3",
+            "fk": "153\n174\n112",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "9\n8\n1",
+            "kills": "176",
+            "name": "artStar",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.30\n1.16\n1.60",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "20\n13\n7",
+            "fk": "193\n203\n173",
+            "hs%": "78%\n67%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "287",
+            "name": "maryna",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.26\n1.46\n0.86",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "15\n11\n4",
+            "fk": "169\n148\n209",
+            "hs%": "94%\n100%\n83%",
+            "kdr": "8\n4\n4",
+            "kills": "222",
+            "name": "Ellie",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.99\n1.13\n0.70",
+            "adr": "+2\n+3\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "13\n10\n3",
+            "fk": "145\n151\n133",
+            "hs%": "72%\n75%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "155",
+            "name": "starriebun",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.97\n0.43\n2.05",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "137\n95\n221",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "5\n5\n0",
+            "kills": "307",
+            "name": "ARIANARCHIST",
+            "team": "XSET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "210",
+          "name": "rise",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "231",
+          "name": "amnesia",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "204",
+          "name": "clawdia",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "186",
+          "name": "bungee",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "180",
+          "name": "bENITA",
+          "team": "CLG Red"
+        },
+        {
+          "kills": "273",
+          "name": "Ellie",
+          "team": "XSET"
+        },
+        {
+          "kills": "248",
+          "name": "ARIANARCHIST",
+          "team": "XSET"
+        },
+        {
+          "kills": "204",
+          "name": "artStar",
+          "team": "XSET"
+        },
+        {
+          "kills": "191",
+          "name": "maryna",
+          "team": "XSET"
+        },
+        {
+          "kills": "117",
+          "name": "starriebun",
+          "team": "XSET"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.21\n1.74\n0.69",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "143\n169\n118",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "8\n3\n5",
+            "kills": "210",
+            "name": "rise",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "1.17\n1.69\n0.65",
+            "adr": "+4\n+7\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "20\n14\n6",
+            "fk": "142\n193\n90",
+            "hs%": "71%\n92%\n50%",
+            "kdr": "6\n5\n1",
+            "kills": "231",
+            "name": "amnesia",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "0.92\n0.63\n1.22",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "127\n125\n129",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "204",
+            "name": "clawdia",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "0.76\n0.52\n1.00",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "15\n7\n8",
+            "fk": "139\n131\n146",
+            "hs%": "71%\n58%\n83%",
+            "kdr": "7\n3\n4",
+            "kills": "186",
+            "name": "bungee",
+            "team": "CLG Red"
+          },
+          {
+            "acs": "0.75\n0.33\n1.17",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "119\n67\n171",
+            "hs%": "58%\n50%\n67%",
+            "kdr": "8\n5\n3",
+            "kills": "180",
+            "name": "bENITA",
+            "team": "CLG Red"
+          }
+        ],
+        [
+          {
+            "acs": "1.52\n1.68\n1.37",
+            "adr": "+11\n+8\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "26\n15\n11",
+            "fk": "151\n158\n145",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "273",
+            "name": "Ellie",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.27\n1.34\n1.20",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "20\n10\n10",
+            "fk": "151\n156\n146",
+            "hs%": "71%\n83%\n58%",
+            "kdr": "6\n5\n1",
+            "kills": "248",
+            "name": "ARIANARCHIST",
+            "team": "XSET"
+          },
+          {
+            "acs": "1.15\n1.34\n0.95",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "134\n175\n93",
+            "hs%": "63%\n75%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "204",
+            "name": "artStar",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.67\n0.48\n0.85",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "139\n138\n141",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "191",
+            "name": "maryna",
+            "team": "XSET"
+          },
+          {
+            "acs": "0.66\n0.43\n0.89",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "98\n67\n128",
+            "hs%": "67%\n50%\n83%",
+            "kdr": "11\n6\n5",
+            "kills": "117",
+            "name": "starriebun",
+            "team": "XSET"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 61020,
+  "teams": [
+    "XSET",
+    "CLG Red"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tUpper Semifinals"
+}

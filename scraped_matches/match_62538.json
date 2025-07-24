@@ -1,0 +1,594 @@
+{
+  "date": "2022-01-10 12:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "235",
+          "name": "crab1k",
+          "team": "SMARACIS eSports"
+        },
+        {
+          "kills": "304",
+          "name": "Edelweiss",
+          "team": "SMARACIS eSports"
+        },
+        {
+          "kills": "296",
+          "name": "Tian",
+          "team": "SMARACIS eSports"
+        },
+        {
+          "kills": "275",
+          "name": "ALLIN",
+          "team": "SMARACIS eSports"
+        },
+        {
+          "kills": "85",
+          "name": "Optimist",
+          "team": "SMARACIS eSports"
+        },
+        {
+          "kills": "135",
+          "name": "sAn1k",
+          "team": "KANAFI"
+        },
+        {
+          "kills": "168",
+          "name": "SkiLZaR",
+          "team": "KANAFI"
+        },
+        {
+          "kills": "79",
+          "name": "Ninja245",
+          "team": "KANAFI"
+        },
+        {
+          "kills": "119",
+          "name": "8lax",
+          "team": "KANAFI"
+        },
+        {
+          "kills": "100",
+          "name": "SeGaCeNt",
+          "team": "KANAFI"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.88\n1.83\n2.11",
+            "adr": "+12\n+9\n+3",
+            "agent": "",
+            "assists": "/\n\n2\n2\n0\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "167\n164\n178",
+            "hs%": "87%\n83%\n100%",
+            "kdr": "9\n8\n1",
+            "kills": "235",
+            "name": "crab1k",
+            "team": "SMARACIS eSports"
+          },
+          {
+            "acs": "1.69\n1.48\n2.50",
+            "adr": "+11\n+6\n+5",
+            "agent": "",
+            "assists": "/\n\n7\n6\n1\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "184\n166\n257",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "3\n3\n0",
+            "kills": "304",
+            "name": "Edelweiss",
+            "team": "SMARACIS eSports"
+          },
+          {
+            "acs": "1.60\n1.65\n1.39",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n8\n5\n3\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "185\n176\n223",
+            "hs%": "93%\n92%\n100%",
+            "kdr": "3\n2\n1",
+            "kills": "296",
+            "name": "Tian",
+            "team": "SMARACIS eSports"
+          },
+          {
+            "acs": "1.35\n1.46\n0.93",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "192\n208\n127",
+            "hs%": "87%\n92%\n67%",
+            "kdr": "4\n3\n1",
+            "kills": "275",
+            "name": "ALLIN",
+            "team": "SMARACIS eSports"
+          },
+          {
+            "acs": "1.15\n1.22\n0.86",
+            "adr": "+2\n+2",
+            "agent": "",
+            "assists": "/\n\n3\n3\n0\n\n/",
+            "deaths": "5\n5\n0",
+            "fk": "81\n101",
+            "hs%": "87%\n83%\n100%",
+            "kdr": "6\n6\n0",
+            "kills": "85",
+            "name": "Optimist",
+            "team": "SMARACIS eSports"
+          }
+        ],
+        [
+          {
+            "acs": "0.60\n0.36\n0.66",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "87\n83\n88",
+            "hs%": "60%\n100%\n50%",
+            "kdr": "3\n3\n0",
+            "kills": "135",
+            "name": "sAn1k",
+            "team": "KANAFI"
+          },
+          {
+            "acs": "0.51\n0.97\n0.40",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "126\n216\n103",
+            "hs%": "67%\n100%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "168",
+            "name": "SkiLZaR",
+            "team": "KANAFI"
+          },
+          {
+            "acs": "0.44\n0.02\n0.56",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "5\n1\n4",
+            "fk": "40\n9\n48",
+            "hs%": "27%\n33%\n25%",
+            "kdr": "1\n0\n1",
+            "kills": "79",
+            "name": "Ninja245",
+            "team": "KANAFI"
+          },
+          {
+            "acs": "0.37\n0.71\n0.28",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "84\n118\n75",
+            "hs%": "47%\n67%\n42%",
+            "kdr": "3\n0\n3",
+            "kills": "119",
+            "name": "8lax",
+            "team": "KANAFI"
+          },
+          {
+            "acs": "0.32\n0.04\n0.40",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n13\n3\n10\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "59\n24\n68",
+            "hs%": "33%\n33%\n33%",
+            "kdr": "0\n0\n0",
+            "kills": "100",
+            "name": "SeGaCeNt",
+            "team": "KANAFI"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "272",
+          "name": "ALLIN",
+          "team": null
+        },
+        {
+          "kills": "284",
+          "name": "crab1k",
+          "team": null
+        },
+        {
+          "kills": "262",
+          "name": "Edelweiss",
+          "team": null
+        },
+        {
+          "kills": "91",
+          "name": "Optimist",
+          "team": null
+        },
+        {
+          "kills": "279",
+          "name": "Tian",
+          "team": null
+        },
+        {
+          "kills": "257",
+          "name": "8lax",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "sAn1k",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "SeGaCeNt",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "SkiLZaR",
+          "team": null
+        },
+        {
+          "kills": "119",
+          "name": "Ninja245",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.52\n1.76\n1.64",
+            "adr": "+16\n+6\n+10",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "33\n13\n20",
+            "fk": "224\n198\n248",
+            "hs%": "90%\n93%\n87%",
+            "kdr": "9\n3\n6",
+            "kills": "272",
+            "name": "ALLIN",
+            "team": null
+          },
+          {
+            "acs": "2.11\n1.00\n1.54",
+            "adr": "+14\n+14\n0",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "22\n16\n6",
+            "fk": "154\n200\n110",
+            "hs%": "83%\n86%\n80%",
+            "kdr": "16\n9\n7",
+            "kills": "284",
+            "name": "crab1k",
+            "team": null
+          },
+          {
+            "acs": "1.43\n1.53\n1.48",
+            "adr": "+18\n+7\n+11",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "157\n160\n155",
+            "hs%": "83%\n86%\n80%",
+            "kdr": "9\n3\n6",
+            "kills": "262",
+            "name": "Edelweiss",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.73\n1.42",
+            "adr": "+13\n+1\n+12",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "20\n5\n15",
+            "fk": "140\n87\n190",
+            "hs%": "86%\n79%\n93%",
+            "kdr": "8\n6\n2",
+            "kills": "91",
+            "name": "Optimist",
+            "team": null
+          },
+          {
+            "acs": "1.60\n1.21\n1.40",
+            "adr": "+12\n+7\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "28\n13\n15",
+            "fk": "175\n171\n179",
+            "hs%": "90%\n93%\n87%",
+            "kdr": "5\n3\n2",
+            "kills": "279",
+            "name": "Tian",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.12\n0.24\n0.67",
+            "adr": "-12\n-2\n-10",
+            "agent": "",
+            "assists": "/\n\n27\n14\n13\n\n/",
+            "deaths": "15\n12\n3",
+            "fk": "117\n165\n65",
+            "hs%": "41%\n47%\n36%",
+            "kdr": "3\n0\n3",
+            "kills": "257",
+            "name": "8lax",
+            "team": null
+          },
+          {
+            "acs": "0.44\n0.69\n0.56",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n25\n14\n11\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "88\n87\n89",
+            "hs%": "48%\n47%\n50%",
+            "kdr": "5\n4\n1",
+            "kills": "133",
+            "name": "sAn1k",
+            "team": null
+          },
+          {
+            "acs": "0.59\n0.47\n0.53",
+            "adr": "-13\n-8\n-5",
+            "agent": "",
+            "assists": "/\n\n27\n15\n12\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "99\n109\n88",
+            "hs%": "45%\n47%\n43%",
+            "kdr": "1\n1\n0",
+            "kills": "159",
+            "name": "SeGaCeNt",
+            "team": null
+          },
+          {
+            "acs": "0.52\n0.34\n0.41",
+            "adr": "-18\n-10\n-8",
+            "agent": "",
+            "assists": "/\n\n28\n15\n13\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "93\n93\n92",
+            "hs%": "55%\n60%\n50%",
+            "kdr": "11\n9\n2",
+            "kills": "121",
+            "name": "SkiLZaR",
+            "team": null
+          },
+          {
+            "acs": "0.31\n0.51\n0.40",
+            "adr": "-18\n-10\n-8",
+            "agent": "",
+            "assists": "/\n\n27\n15\n12\n\n/",
+            "deaths": "9\n5\n4",
+            "fk": "68\n87\n48",
+            "hs%": "34%\n47%\n21%",
+            "kdr": "3\n2\n1",
+            "kills": "119",
+            "name": "Ninja245",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "392",
+          "name": "ALLIN",
+          "team": "SMARACIS eSports"
+        },
+        {
+          "kills": "335",
+          "name": "Optimist",
+          "team": "SMARACIS eSports"
+        },
+        {
+          "kills": "214",
+          "name": "Edelweiss",
+          "team": "SMARACIS eSports"
+        },
+        {
+          "kills": "245",
+          "name": "Tian",
+          "team": "SMARACIS eSports"
+        },
+        {
+          "kills": "111",
+          "name": "crab1k",
+          "team": "SMARACIS eSports"
+        },
+        {
+          "kills": "237",
+          "name": "8lax",
+          "team": "KANAFI"
+        },
+        {
+          "kills": "304",
+          "name": "SeGaCeNt",
+          "team": "KANAFI"
+        },
+        {
+          "kills": "164",
+          "name": "sAn1k",
+          "team": "KANAFI"
+        },
+        {
+          "kills": "51",
+          "name": "Ninja245",
+          "team": "KANAFI"
+        },
+        {
+          "kills": "26",
+          "name": "SkiLZaR",
+          "team": "KANAFI"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.95\n1.84\n1.97",
+            "adr": "+12\n+2\n+10",
+            "agent": "",
+            "assists": "/\n\n7\n0\n7\n\n/",
+            "deaths": "19\n2\n17",
+            "fk": "257\n135\n278",
+            "hs%": "93%\n100%\n92%",
+            "kdr": "5\n0\n5",
+            "kills": "392",
+            "name": "ALLIN",
+            "team": "SMARACIS eSports"
+          },
+          {
+            "acs": "1.70\n0.22\n1.95",
+            "adr": "+11\n-1\n+12",
+            "agent": "",
+            "assists": "/\n\n4\n1\n3\n\n/",
+            "deaths": "15\n0\n15",
+            "fk": "204\n0\n238",
+            "hs%": "86%\n50%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "335",
+            "name": "Optimist",
+            "team": "SMARACIS eSports"
+          },
+          {
+            "acs": "1.26\n1.09\n1.29",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n6\n1\n5\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "128\n120\n130",
+            "hs%": "71%\n50%\n75%",
+            "kdr": "6\n0\n6",
+            "kills": "214",
+            "name": "Edelweiss",
+            "team": "SMARACIS eSports"
+          },
+          {
+            "acs": "1.18\n1.31\n1.16",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n1\n7\n\n/",
+            "deaths": "13\n1\n12",
+            "fk": "164\n139\n168",
+            "hs%": "86%\n100%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "245",
+            "name": "Tian",
+            "team": "SMARACIS eSports"
+          },
+          {
+            "acs": "1.17\n3.81\n0.73",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n6\n0\n6\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "140\n420\n94",
+            "hs%": "79%\n100%\n75%",
+            "kdr": "7\n1\n6",
+            "kills": "111",
+            "name": "crab1k",
+            "team": "SMARACIS eSports"
+          }
+        ],
+        [
+          {
+            "acs": "1.00\n1.22\n0.01",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "10\n10\n0",
+            "fk": "152\n177",
+            "hs%": "36%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "237",
+            "name": "8lax",
+            "team": "KANAFI"
+          },
+          {
+            "acs": "0.75\n0.73\n0.89",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "141\n131\n204",
+            "hs%": "57%\n50%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "304",
+            "name": "SeGaCeNt",
+            "team": "KANAFI"
+          },
+          {
+            "acs": "0.51\n0.45\n0.85",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "6\n5\n1",
+            "fk": "90\n89\n99",
+            "hs%": "36%\n33%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "164",
+            "name": "sAn1k",
+            "team": "KANAFI"
+          },
+          {
+            "acs": "0.36\n0.38\n0.20",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "4\n4\n0",
+            "fk": "99\n107\n51",
+            "hs%": "43%\n50%",
+            "kdr": "2\n2\n0",
+            "kills": "51",
+            "name": "Ninja245",
+            "team": "KANAFI"
+          },
+          {
+            "acs": "0.31\n0.41\n0.01",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n12\n2\n\n/",
+            "deaths": "3\n3\n0",
+            "fk": "58\n63\n26",
+            "hs%": "43%\n50%",
+            "kdr": "7\n7\n0",
+            "kills": "26",
+            "name": "SkiLZaR",
+            "team": "KANAFI"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 62538,
+  "teams": [
+    "SMARACIS eSports",
+    "KANAFI"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 64"
+}

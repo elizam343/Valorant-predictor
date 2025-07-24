@@ -1,0 +1,788 @@
+{
+  "date": "2021-04-29 05:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "342",
+          "name": "t0bi",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "270",
+          "name": "Zheats",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "160",
+          "name": "DANIEL",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "168",
+          "name": "loubert",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "140",
+          "name": "eth6n",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "257",
+          "name": "MikeOxlong",
+          "team": "McTeam"
+        },
+        {
+          "kills": "223",
+          "name": "Diinky",
+          "team": "McTeam"
+        },
+        {
+          "kills": "193",
+          "name": "McEgg",
+          "team": "McTeam"
+        },
+        {
+          "kills": "185",
+          "name": "YDNA",
+          "team": "McTeam"
+        },
+        {
+          "kills": "186",
+          "name": "relapse",
+          "team": "McTeam"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.57\n1.26\n1.88",
+            "adr": "+10\n+1\n+9",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "29\n10\n19",
+            "fk": "201\n137\n265",
+            "hs%": "88%\n75%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "342",
+            "name": "t0bi",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "1.14\n1.21\n1.07",
+            "adr": "+6\n+3\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "144\n183\n104",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "270",
+            "name": "Zheats",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "0.96\n0.97\n0.94",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "107\n97\n117",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "160",
+            "name": "DANIEL",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "0.83\n1.29\n0.37",
+            "adr": "-5\n+2\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "114\n165\n62",
+            "hs%": "67%\n75%\n58%",
+            "kdr": "6\n3\n3",
+            "kills": "168",
+            "name": "loubert",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "0.55\n0.49\n0.62",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "80\n73\n87",
+            "hs%": "54%\n42%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "140",
+            "name": "eth6n",
+            "team": "Frat Frogs"
+          }
+        ],
+        [
+          {
+            "acs": "1.29\n1.08\n1.50",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "169\n153\n186",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "257",
+            "name": "MikeOxlong",
+            "team": "McTeam"
+          },
+          {
+            "acs": "1.12\n0.94\n1.29",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "127\n95\n159",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "8\n5\n3",
+            "kills": "223",
+            "name": "Diinky",
+            "team": "McTeam"
+          },
+          {
+            "acs": "0.96\n1.66\n0.25",
+            "adr": "-4\n+5\n-9",
+            "agent": "",
+            "assists": "/\n\n18\n7\n11\n\n/",
+            "deaths": "14\n12\n2",
+            "fk": "130\n175\n85",
+            "hs%": "75%\n83%\n67%",
+            "kdr": "15\n9\n6",
+            "kills": "193",
+            "name": "McEgg",
+            "team": "McTeam"
+          },
+          {
+            "acs": "0.81\n0.67\n0.94",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "143\n149\n138",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "7\n4\n3",
+            "kills": "185",
+            "name": "YDNA",
+            "team": "McTeam"
+          },
+          {
+            "acs": "0.70\n0.78\n0.62",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "126\n132\n120",
+            "hs%": "58%\n58%\n58%",
+            "kdr": "2\n0\n2",
+            "kills": "186",
+            "name": "relapse",
+            "team": "McTeam"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "288",
+          "name": "t0bi",
+          "team": null
+        },
+        {
+          "kills": "283",
+          "name": "Zheats",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "DANIEL",
+          "team": null
+        },
+        {
+          "kills": "153",
+          "name": "eth6n",
+          "team": null
+        },
+        {
+          "kills": "156",
+          "name": "loubert",
+          "team": null
+        },
+        {
+          "kills": "249",
+          "name": "McEgg",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "MikeOxlong",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "relapse",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "YDNA",
+          "team": null
+        },
+        {
+          "kills": "167",
+          "name": "Diinky",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.54\n1.98\n1.73",
+            "adr": "+37\n+14\n+23",
+            "agent": "",
+            "assists": "/\n\n41\n23\n18\n\n/",
+            "deaths": "78\n37\n41",
+            "fk": "205\n183\n235",
+            "hs%": "78%\n72%\n85%",
+            "kdr": "11\n5\n6",
+            "kills": "288",
+            "name": "t0bi",
+            "team": null
+          },
+          {
+            "acs": "1.14\n0.87\n1.02",
+            "adr": "+6\n+5\n+1",
+            "agent": "",
+            "assists": "/\n\n47\n30\n17\n\n/",
+            "deaths": "53\n35\n18",
+            "fk": "137\n171\n92",
+            "hs%": "71%\n72%\n70%",
+            "kdr": "5\n3\n2",
+            "kills": "283",
+            "name": "Zheats",
+            "team": null
+          },
+          {
+            "acs": "0.76\n0.83\n0.79",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n42\n23\n19\n\n/",
+            "deaths": "34\n17\n17",
+            "fk": "99\n88\n113",
+            "hs%": "67%\n58%\n78%",
+            "kdr": "12\n8\n4",
+            "kills": "133",
+            "name": "DANIEL",
+            "team": null
+          },
+          {
+            "acs": "0.68\n0.85\n0.76",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n45\n27\n18\n\n/",
+            "deaths": "36\n21\n15",
+            "fk": "99\n103\n95",
+            "hs%": "62%\n53%\n74%",
+            "kdr": "15\n5\n10",
+            "kills": "153",
+            "name": "eth6n",
+            "team": null
+          },
+          {
+            "acs": "0.71\n0.75\n0.73",
+            "adr": "-18\n-11\n-7",
+            "agent": "",
+            "assists": "/\n\n46\n27\n19\n\n/",
+            "deaths": "28\n16\n12",
+            "fk": "103\n104\n102",
+            "hs%": "65%\n67%\n63%",
+            "kdr": "21\n13\n8",
+            "kills": "156",
+            "name": "loubert",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.38\n0.83\n1.06",
+            "adr": "-3\n+7\n-10",
+            "agent": "",
+            "assists": "/\n\n45\n17\n28\n\n/",
+            "deaths": "42\n24\n18",
+            "fk": "143\n145\n141",
+            "hs%": "78%\n81%\n75%",
+            "kdr": "32\n13\n19",
+            "kills": "249",
+            "name": "McEgg",
+            "team": null
+          },
+          {
+            "acs": "0.75\n1.22\n1.02",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n39\n21\n18\n\n/",
+            "deaths": "41\n16\n25",
+            "fk": "123\n104\n138",
+            "hs%": "67%\n59%\n72%",
+            "kdr": "12\n4\n8",
+            "kills": "188",
+            "name": "MikeOxlong",
+            "team": null
+          },
+          {
+            "acs": "0.80\n1.11\n0.97",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n47\n22\n25\n\n/",
+            "deaths": "49\n17\n32",
+            "fk": "135\n103\n160",
+            "hs%": "62%\n63%\n61%",
+            "kdr": "8\n5\n3",
+            "kills": "200",
+            "name": "relapse",
+            "team": null
+          },
+          {
+            "acs": "0.81\n1.03\n0.91",
+            "adr": "-3\n-5\n+2",
+            "agent": "",
+            "assists": "/\n\n52\n24\n28\n\n/",
+            "deaths": "49\n19\n30",
+            "fk": "158\n145\n168",
+            "hs%": "63%\n56%\n69%",
+            "kdr": "13\n5\n8",
+            "kills": "206",
+            "name": "YDNA",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.98\n0.87",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n46\n20\n26\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "109\n92\n122",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "16\n9\n7",
+            "kills": "167",
+            "name": "Diinky",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "566",
+          "name": "t0bi",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "98",
+          "name": "Zheats",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "183",
+          "name": "eth6n",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "232",
+          "name": "DANIEL",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "266",
+          "name": "loubert",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "304",
+          "name": "relapse",
+          "team": "McTeam"
+        },
+        {
+          "kills": "306",
+          "name": "McEgg",
+          "team": "McTeam"
+        },
+        {
+          "kills": "170",
+          "name": "MikeOxlong",
+          "team": "McTeam"
+        },
+        {
+          "kills": "267",
+          "name": "YDNA",
+          "team": "McTeam"
+        },
+        {
+          "kills": "119",
+          "name": "Diinky",
+          "team": "McTeam"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "2.01\n1.44\n3.13",
+            "adr": "+17\n+5\n+12",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "227\n177\n328",
+            "hs%": "78%\n67%\n100%",
+            "kdr": "2\n0\n2",
+            "kills": "566",
+            "name": "t0bi",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "1.18\n1.42\n0.69",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "17\n14\n3",
+            "fk": "161\n219\n46",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "98",
+            "name": "Zheats",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "0.83\n0.52\n1.43",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n9\n8\n1\n\n/",
+            "deaths": "7\n3\n4",
+            "fk": "61\n60\n63",
+            "hs%": "56%\n33%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "183",
+            "name": "eth6n",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "0.77\n0.69\n0.95",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "108\n89\n146",
+            "hs%": "56%\n42%\n83%",
+            "kdr": "3\n1\n2",
+            "kills": "232",
+            "name": "DANIEL",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "0.62\n0.21\n1.45",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "83\n56\n137",
+            "hs%": "67%\n58%\n83%",
+            "kdr": "9\n6\n3",
+            "kills": "266",
+            "name": "loubert",
+            "team": "Frat Frogs"
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n1.07\n1.49",
+            "adr": "+6\n0\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "168\n136\n185",
+            "hs%": "83%\n100%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "304",
+            "name": "relapse",
+            "team": "McTeam"
+          },
+          {
+            "acs": "0.92\n0.17\n1.29",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n2\n11",
+            "fk": "158\n28\n222",
+            "hs%": "72%\n50%\n83%",
+            "kdr": "5\n1\n4",
+            "kills": "306",
+            "name": "McEgg",
+            "team": "McTeam"
+          },
+          {
+            "acs": "0.88\n0.49\n1.08",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "116\n118\n116",
+            "hs%": "72%\n50%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "170",
+            "name": "MikeOxlong",
+            "team": "McTeam"
+          },
+          {
+            "acs": "0.63\n0.01\n1.08",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "11\n0\n11",
+            "fk": "132\n9\n194",
+            "hs%": "50%\n17%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "267",
+            "name": "YDNA",
+            "team": "McTeam"
+          },
+          {
+            "acs": "0.55\n0.23\n0.70",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "7\n2\n5",
+            "fk": "57\n33\n69",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "119",
+            "name": "Diinky",
+            "team": "McTeam"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "313",
+          "name": "t0bi",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "228",
+          "name": "eth6n",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "168",
+          "name": "Zheats",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "140",
+          "name": "loubert",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "127",
+          "name": "DANIEL",
+          "team": "Frat Frogs"
+        },
+        {
+          "kills": "227",
+          "name": "McEgg",
+          "team": "McTeam"
+        },
+        {
+          "kills": "305",
+          "name": "YDNA",
+          "team": "McTeam"
+        },
+        {
+          "kills": "201",
+          "name": "relapse",
+          "team": "McTeam"
+        },
+        {
+          "kills": "197",
+          "name": "Diinky",
+          "team": "McTeam"
+        },
+        {
+          "kills": "138",
+          "name": "MikeOxlong",
+          "team": "McTeam"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.67\n1.91\n1.35",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "191\n234\n133",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "4\n4\n0",
+            "kills": "313",
+            "name": "t0bi",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "0.93\n1.04\n0.78",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "154\n175\n126",
+            "hs%": "76%\n83%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "228",
+            "name": "eth6n",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "0.75\n0.77\n0.72",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "109\n112\n107",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "168",
+            "name": "Zheats",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "0.70\n0.62\n0.80",
+            "adr": "-7\n-5\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "109\n92\n132",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "6\n4\n2",
+            "kills": "140",
+            "name": "loubert",
+            "team": "Frat Frogs"
+          },
+          {
+            "acs": "0.61\n0.61\n0.61",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "82\n79\n87",
+            "hs%": "71%\n67%\n78%",
+            "kdr": "5\n5\n0",
+            "kills": "127",
+            "name": "DANIEL",
+            "team": "Frat Frogs"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.81\n0.94",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n12\n4\n8\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "145\n183\n116",
+            "hs%": "86%\n100%\n75%",
+            "kdr": "12\n3\n9",
+            "kills": "227",
+            "name": "McEgg",
+            "team": "McTeam"
+          },
+          {
+            "acs": "1.27\n1.53\n1.08",
+            "adr": "+6\n+6\n0",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "23\n13\n10",
+            "fk": "197\n230\n172",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "305",
+            "name": "YDNA",
+            "team": "McTeam"
+          },
+          {
+            "acs": "0.96\n0.63\n1.22",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "118\n42\n175",
+            "hs%": "48%\n44%\n50%",
+            "kdr": "4\n3\n1",
+            "kills": "201",
+            "name": "relapse",
+            "team": "McTeam"
+          },
+          {
+            "acs": "0.86\n0.75\n0.94",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "133\n126\n138",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "2\n2\n0",
+            "kills": "197",
+            "name": "Diinky",
+            "team": "McTeam"
+          },
+          {
+            "acs": "0.82\n0.50\n1.07",
+            "adr": "-2\n-3\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "77\n29\n112",
+            "hs%": "57%\n56%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "138",
+            "name": "MikeOxlong",
+            "team": "McTeam"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 17675,
+  "teams": [
+    "Frat Frogs",
+    "McTeam"
+  ],
+  "tournament": "Open Qualifier #2: \n\t\t\t\t\t\tRound of 16"
+}

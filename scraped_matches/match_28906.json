@@ -1,0 +1,806 @@
+{
+  "date": "2021-07-28 08:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "261",
+          "name": "GatsH",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "205",
+          "name": "rodeN",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "170",
+          "name": "logaN",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "218",
+          "name": "TakaS",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "144",
+          "name": "AKUMAAAAA",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "315",
+          "name": "Br0die",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "276",
+          "name": "Polvi",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "196",
+          "name": "Russ",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "194",
+          "name": "stanley",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "139",
+          "name": "KRAY",
+          "team": "TENSTAR"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "0.98\n0.39\n1.18",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "14\n2\n12",
+            "fk": "152\n69\n179",
+            "hs%": "50%\n75%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "261",
+            "name": "GatsH",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.93\n0.76\n0.99",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n2\n11\n\n/",
+            "deaths": "10\n1\n9",
+            "fk": "123\n34\n153",
+            "hs%": "63%\n100%\n50%",
+            "kdr": "2\n1\n1",
+            "kills": "205",
+            "name": "rodeN",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.80\n0.97\n0.75",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n12\n2\n10\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "129\n108\n136",
+            "hs%": "75%\n100%\n67%",
+            "kdr": "7\n2\n5",
+            "kills": "170",
+            "name": "logaN",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.75\n1.77\n0.41",
+            "adr": "-2\n+4\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "83\n130\n68",
+            "hs%": "75%\n100%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "218",
+            "name": "TakaS",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.49\n0.73\n0.41",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n14\n3\n11\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "99\n106\n96",
+            "hs%": "50%\n75%\n42%",
+            "kdr": "2\n1\n1",
+            "kills": "144",
+            "name": "AKUMAAAAA",
+            "team": "Team BDS"
+          }
+        ],
+        [
+          {
+            "acs": "1.50\n1.71\n0.87",
+            "adr": "+8\n+9\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "19\n16\n3",
+            "fk": "207\n229\n143",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "1\n0\n1",
+            "kills": "315",
+            "name": "Br0die",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "1.34\n1.41\n1.15",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "16\n14\n2",
+            "fk": "174\n186\n139",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "4\n1\n3",
+            "kills": "276",
+            "name": "Polvi",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "1.11\n1.18\n0.88",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "115\n124\n91",
+            "hs%": "81%\n83%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "196",
+            "name": "Russ",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "0.99\n0.98\n1.02",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "107\n123\n61",
+            "hs%": "81%\n75%\n100%",
+            "kdr": "2\n2\n0",
+            "kills": "194",
+            "name": "stanley",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "0.77\n0.85\n0.56",
+            "adr": "-3\n-2\n-1",
+            "agent": "",
+            "assists": "/\n\n11\n8\n3\n\n/",
+            "deaths": "8\n6\n2",
+            "fk": "98\n120\n34",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "7\n7\n0",
+            "kills": "139",
+            "name": "KRAY",
+            "team": "TENSTAR"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "540",
+          "name": "TakaS",
+          "team": null
+        },
+        {
+          "kills": "223",
+          "name": "GatsH",
+          "team": null
+        },
+        {
+          "kills": "196",
+          "name": "rodeN",
+          "team": null
+        },
+        {
+          "kills": "180",
+          "name": "logaN",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "hoppY",
+          "team": null
+        },
+        {
+          "kills": "159",
+          "name": "AKUMAAAAA",
+          "team": null
+        },
+        {
+          "kills": "300",
+          "name": "KRAY",
+          "team": null
+        },
+        {
+          "kills": "294",
+          "name": "Polvi",
+          "team": null
+        },
+        {
+          "kills": "206",
+          "name": "Br0die",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "stanley",
+          "team": null
+        },
+        {
+          "kills": "173",
+          "name": "Russ",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "2.49\n0.51\n1.32",
+            "adr": "+11\n+22\n-11",
+            "agent": "",
+            "assists": "/\n\n32\n11\n21\n\n/",
+            "deaths": "43\n33\n10",
+            "fk": "169\n289\n84",
+            "hs%": "77%\n94%\n65%",
+            "kdr": "5\n1\n4",
+            "kills": "540",
+            "name": "TakaS",
+            "team": null
+          },
+          {
+            "acs": "1.33\n0.95\n1.11",
+            "adr": "+3\n+6\n-3",
+            "agent": "",
+            "assists": "/\n\n28\n8\n20\n\n/",
+            "deaths": "31\n14\n17",
+            "fk": "146\n150\n144",
+            "hs%": "68%\n81%\n59%",
+            "kdr": "4\n2\n2",
+            "kills": "223",
+            "name": "GatsH",
+            "team": null
+          },
+          {
+            "acs": "0.93\n0.92\n0.93",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n47\n19\n28\n\n/",
+            "deaths": "43\n19\n24",
+            "fk": "132\n137\n127",
+            "hs%": "67%\n75%\n61%",
+            "kdr": "10\n9\n1",
+            "kills": "196",
+            "name": "rodeN",
+            "team": null
+          },
+          {
+            "acs": "0.92\n0.89\n0.91",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n45\n18\n27\n\n/",
+            "deaths": "39\n18\n21",
+            "fk": "130\n130\n131",
+            "hs%": "72%\n79%\n67%",
+            "kdr": "17\n8\n9",
+            "kills": "180",
+            "name": "logaN",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.58\n0.78",
+            "adr": "-8\n+1\n-9",
+            "agent": "",
+            "assists": "/\n\n32\n14\n18\n\n/",
+            "deaths": "24\n15\n9",
+            "fk": "105\n117\n91",
+            "hs%": "67%\n75%\n57%",
+            "kdr": "15\n9\n6",
+            "kills": "179",
+            "name": "hoppY",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.63\n0.71",
+            "adr": "-11\n-1\n-10",
+            "agent": "",
+            "assists": "/\n\n46\n17\n29\n\n/",
+            "deaths": "35\n16\n19",
+            "fk": "109\n117\n103",
+            "hs%": "62%\n61%\n64%",
+            "kdr": "9\n4\n5",
+            "kills": "159",
+            "name": "AKUMAAAAA",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.60\n0.94\n1.30",
+            "adr": "+15\n+17\n-2",
+            "agent": "",
+            "assists": "/\n\n42\n19\n23\n\n/",
+            "deaths": "57\n36\n21",
+            "fk": "169\n194\n140",
+            "hs%": "70%\n85%\n54%",
+            "kdr": "16\n12\n4",
+            "kills": "300",
+            "name": "KRAY",
+            "team": null
+          },
+          {
+            "acs": "1.34\n1.11\n1.23",
+            "adr": "+10\n+14\n-4",
+            "agent": "",
+            "assists": "/\n\n44\n21\n23\n\n/",
+            "deaths": "54\n35\n19",
+            "fk": "170\n179\n159",
+            "hs%": "72%\n76%\n68%",
+            "kdr": "14\n6\n8",
+            "kills": "294",
+            "name": "Polvi",
+            "team": null
+          },
+          {
+            "acs": "1.18\n0.72\n0.97",
+            "adr": "-4\n+7\n-11",
+            "agent": "",
+            "assists": "/\n\n44\n19\n25\n\n/",
+            "deaths": "40\n26\n14",
+            "fk": "117\n129\n103",
+            "hs%": "66%\n79%\n50%",
+            "kdr": "21\n12\n9",
+            "kills": "206",
+            "name": "Br0die",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.92\n0.94",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n42\n22\n20\n\n/",
+            "deaths": "46\n25\n21",
+            "fk": "120\n122\n119",
+            "hs%": "74%\n79%\n68%",
+            "kdr": "14\n10\n4",
+            "kills": "199",
+            "name": "stanley",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.50\n0.75",
+            "adr": "-10\n+1\n-11",
+            "agent": "",
+            "assists": "/\n\n43\n20\n23\n\n/",
+            "deaths": "33\n21\n12",
+            "fk": "91\n101\n80",
+            "hs%": "70%\n82%\n57%",
+            "kdr": "19\n13\n6",
+            "kills": "173",
+            "name": "Russ",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "261",
+          "name": "logaN",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "134",
+          "name": "GatsH",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "148",
+          "name": "hoppY",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "131",
+          "name": "rodeN",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "155",
+          "name": "AKUMAAAAA",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "252",
+          "name": "Polvi",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "250",
+          "name": "KRAY",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "115",
+          "name": "Br0die",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "138",
+          "name": "Russ",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "121",
+          "name": "stanley",
+          "team": "TENSTAR"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.39\n1.48\n1.28",
+            "adr": "+9\n+6\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "168\n194\n138",
+            "hs%": "82%\n92%\n70%",
+            "kdr": "6\n4\n2",
+            "kills": "261",
+            "name": "logaN",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "1.20\n1.65\n0.67",
+            "adr": "+3\n+7\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "17\n12\n5",
+            "fk": "142\n177\n101",
+            "hs%": "82%\n83%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "134",
+            "name": "GatsH",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "1.00\n1.04\n0.96",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "96\n101\n89",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "7\n4\n3",
+            "kills": "148",
+            "name": "hoppY",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.93\n1.21\n0.59",
+            "adr": "0\n+3\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "16\n11\n5",
+            "fk": "143\n198\n76",
+            "hs%": "73%\n75%\n70%",
+            "kdr": "4\n4\n0",
+            "kills": "131",
+            "name": "rodeN",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.80\n0.96\n0.60",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "99\n140\n50",
+            "hs%": "73%\n67%\n80%",
+            "kdr": "2\n1\n1",
+            "kills": "155",
+            "name": "AKUMAAAAA",
+            "team": "Team BDS"
+          }
+        ],
+        [
+          {
+            "acs": "1.41\n1.69\n1.18",
+            "adr": "+5\n+6\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "20\n11\n9",
+            "fk": "190\n211\n173",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "4\n2\n2",
+            "kills": "252",
+            "name": "Polvi",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "1.07\n1.25\n0.92",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "182\n194\n173",
+            "hs%": "59%\n80%\n42%",
+            "kdr": "6\n3\n3",
+            "kills": "250",
+            "name": "KRAY",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "0.86\n1.01\n0.73",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "72\n72\n72",
+            "hs%": "59%\n80%\n42%",
+            "kdr": "9\n7\n2",
+            "kills": "115",
+            "name": "Br0die",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "0.77\n1.06\n0.53",
+            "adr": "-3\n+2\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "99\n116\n86",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "138",
+            "name": "Russ",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "0.50\n0.64\n0.38",
+            "adr": "-9\n-2\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "82\n78\n85",
+            "hs%": "68%\n80%\n58%",
+            "kdr": "6\n5\n1",
+            "kills": "121",
+            "name": "stanley",
+            "team": "TENSTAR"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "366",
+          "name": "TakaS",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "212",
+          "name": "rodeN",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "199",
+          "name": "AKUMAAAAA",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "165",
+          "name": "hoppY",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "118",
+          "name": "logaN",
+          "team": "Team BDS"
+        },
+        {
+          "kills": "364",
+          "name": "KRAY",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "278",
+          "name": "stanley",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "241",
+          "name": "Polvi",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "144",
+          "name": "Br0die",
+          "team": "TENSTAR"
+        },
+        {
+          "kills": "119",
+          "name": "Russ",
+          "team": "TENSTAR"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.72\n2.73\n0.62",
+            "adr": "+13\n+18\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "30\n25\n5",
+            "fk": "228\n343\n102",
+            "hs%": "78%\n92%\n64%",
+            "kdr": "3\n0\n3",
+            "kills": "366",
+            "name": "TakaS",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.92\n0.71\n1.15",
+            "adr": "-1\n-2\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "128\n110\n147",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "4\n4\n0",
+            "kills": "212",
+            "name": "rodeN",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.78\n0.68\n0.88",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n19\n8\n11\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "126\n97\n158",
+            "hs%": "61%\n50%\n73%",
+            "kdr": "5\n2\n3",
+            "kills": "199",
+            "name": "AKUMAAAAA",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.57\n0.87\n0.23",
+            "adr": "-9\n-1\n-8",
+            "agent": "",
+            "assists": "/\n\n20\n8\n12\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "114\n133\n93",
+            "hs%": "57%\n67%\n45%",
+            "kdr": "8\n5\n3",
+            "kills": "165",
+            "name": "hoppY",
+            "team": "Team BDS"
+          },
+          {
+            "acs": "0.51\n0.34\n0.70",
+            "adr": "-11\n-6\n-5",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "9\n4\n5",
+            "fk": "94\n73\n118",
+            "hs%": "61%\n58%\n64%",
+            "kdr": "4\n2\n2",
+            "kills": "118",
+            "name": "logaN",
+            "team": "Team BDS"
+          }
+        ],
+        [
+          {
+            "acs": "1.88\n2.74\n1.09",
+            "adr": "+18\n+17\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "32\n21\n11",
+            "fk": "205\n275\n142",
+            "hs%": "78%\n100%\n58%",
+            "kdr": "3\n2\n1",
+            "kills": "364",
+            "name": "KRAY",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "1.32\n1.22\n1.42",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "25\n12\n13",
+            "fk": "166\n161\n171",
+            "hs%": "74%\n82%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "278",
+            "name": "stanley",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "0.98\n0.94\n1.02",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n8\n10\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "148\n144\n153",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "241",
+            "name": "Polvi",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "0.71\n0.76\n0.66",
+            "adr": "-6\n-1\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "97\n70\n122",
+            "hs%": "65%\n82%\n50%",
+            "kdr": "11\n5\n6",
+            "kills": "144",
+            "name": "Br0die",
+            "team": "TENSTAR"
+          },
+          {
+            "acs": "0.49\n0.64\n0.35",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "67\n64\n70",
+            "hs%": "65%\n82%\n50%",
+            "kdr": "8\n6\n2",
+            "kills": "119",
+            "name": "Russ",
+            "team": "TENSTAR"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 28906,
+  "teams": [
+    "Team BDS",
+    "TENSTAR"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tUpper Quarterfinals"
+}

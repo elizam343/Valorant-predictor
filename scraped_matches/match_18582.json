@@ -1,0 +1,788 @@
+{
+  "date": "2021-05-09 09:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "144",
+          "name": "OzNNN",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "199",
+          "name": "Maxildez",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "223",
+          "name": "lux9",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "185",
+          "name": "ARIA",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "87",
+          "name": "gog0oo",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "224",
+          "name": "bsp",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "214",
+          "name": "Sco",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "207",
+          "name": "MichelCastr0",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "235",
+          "name": "SimteK",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "218",
+          "name": "PABLITO",
+          "team": "DNA PEEK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.92\n1.13\n0.63",
+            "adr": "-4\n0\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "103\n125\n72",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "5\n2\n3",
+            "kills": "144",
+            "name": "OzNNN",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "0.87\n0.99\n0.70",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "124\n151\n87",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "2\n2\n0",
+            "kills": "199",
+            "name": "Maxildez",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "0.82\n0.43\n1.34",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n13\n6\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "124\n114\n136",
+            "hs%": "57%\n50%\n67%",
+            "kdr": "0\n0\n0",
+            "kills": "223",
+            "name": "lux9",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "0.73\n0.88\n0.53",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "13\n9\n4",
+            "fk": "111\n135\n79",
+            "hs%": "57%\n67%\n44%",
+            "kdr": "2\n1\n1",
+            "kills": "185",
+            "name": "ARIA",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "0.35\n0.21\n0.55",
+            "adr": "-13\n-9\n-4",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "57\n69\n41",
+            "hs%": "48%\n58%\n33%",
+            "kdr": "6\n3\n3",
+            "kills": "87",
+            "name": "gog0oo",
+            "team": "La Smartance"
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.14\n1.43",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "141\n107\n166",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "6\n5\n1",
+            "kills": "224",
+            "name": "bsp",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "1.28\n1.22\n1.32",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "120\n94\n140",
+            "hs%": "86%\n78%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "214",
+            "name": "Sco",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "1.19\n1.14\n1.23",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "141\n133\n148",
+            "hs%": "86%\n67%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "207",
+            "name": "MichelCastr0",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "1.06\n1.27\n0.89",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "125\n129\n122",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "2\n2\n0",
+            "kills": "235",
+            "name": "SimteK",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "1.06\n0.97\n1.14",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "127\n113\n138",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "218",
+            "name": "PABLITO",
+            "team": "DNA PEEK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "293",
+          "name": "OzNNN",
+          "team": null
+        },
+        {
+          "kills": "245",
+          "name": "lux9",
+          "team": null
+        },
+        {
+          "kills": "158",
+          "name": "Maxildez",
+          "team": null
+        },
+        {
+          "kills": "117",
+          "name": "gog0oo",
+          "team": null
+        },
+        {
+          "kills": "133",
+          "name": "ARIA",
+          "team": null
+        },
+        {
+          "kills": "306",
+          "name": "SimteK",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "MichelCastr0",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "Sco",
+          "team": null
+        },
+        {
+          "kills": "152",
+          "name": "bsp",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "PABLITO",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.58\n0.85\n1.23",
+            "adr": "+8\n+13\n-5",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "47\n32\n15",
+            "fk": "140\n174\n103",
+            "hs%": "67%\n74%\n59%",
+            "kdr": "15\n7\n8",
+            "kills": "293",
+            "name": "OzNNN",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.05\n1.04",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "51\n28\n23",
+            "fk": "142\n160\n122",
+            "hs%": "63%\n65%\n62%",
+            "kdr": "6\n3\n3",
+            "kills": "245",
+            "name": "lux9",
+            "team": null
+          },
+          {
+            "acs": "0.70\n1.01\n0.85",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n43\n22\n21\n\n/",
+            "deaths": "41\n17\n24",
+            "fk": "125\n107\n144",
+            "hs%": "73%\n74%\n72%",
+            "kdr": "7\n4\n3",
+            "kills": "158",
+            "name": "Maxildez",
+            "team": null
+          },
+          {
+            "acs": "0.42\n0.94\n0.67",
+            "adr": "-20\n-18\n-2",
+            "agent": "",
+            "assists": "/\n\n46\n29\n17\n\n/",
+            "deaths": "26\n11\n15",
+            "fk": "92\n75\n111",
+            "hs%": "60%\n61%\n59%",
+            "kdr": "16\n8\n8",
+            "kills": "117",
+            "name": "gog0oo",
+            "team": null
+          },
+          {
+            "acs": "0.59\n0.42\n0.51",
+            "adr": "-23\n-10\n-13",
+            "agent": "",
+            "assists": "/\n\n47\n24\n23\n\n/",
+            "deaths": "24\n14\n10",
+            "fk": "76\n80\n70",
+            "hs%": "60%\n68%\n52%",
+            "kdr": "15\n7\n8",
+            "kills": "133",
+            "name": "ARIA",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.61\n1.30\n1.45",
+            "adr": "+30\n+18\n+12",
+            "agent": "",
+            "assists": "/\n\n37\n17\n20\n\n/",
+            "deaths": "67\n35\n32",
+            "fk": "165\n174\n156",
+            "hs%": "73%\n76%\n71%",
+            "kdr": "5\n3\n2",
+            "kills": "306",
+            "name": "SimteK",
+            "team": null
+          },
+          {
+            "acs": "1.15\n1.05\n1.10",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n36\n18\n18\n\n/",
+            "deaths": "39\n19\n20",
+            "fk": "131\n129\n132",
+            "hs%": "82%\n72%\n90%",
+            "kdr": "18\n4\n14",
+            "kills": "187",
+            "name": "MichelCastr0",
+            "team": null
+          },
+          {
+            "acs": "1.13\n0.95\n1.04",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n34\n14\n20\n\n/",
+            "deaths": "36\n16\n20",
+            "fk": "111\n102\n119",
+            "hs%": "75%\n76%\n74%",
+            "kdr": "20\n11\n9",
+            "kills": "164",
+            "name": "Sco",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.01\n0.98",
+            "adr": "-1\n-1\n0",
+            "agent": "",
+            "assists": "/\n\n38\n16\n22\n\n/",
+            "deaths": "37\n15\n22",
+            "fk": "109\n94\n123",
+            "hs%": "80%\n83%\n77%",
+            "kdr": "20\n12\n8",
+            "kills": "152",
+            "name": "bsp",
+            "team": null
+          },
+          {
+            "acs": "0.58\n1.14\n0.87",
+            "adr": "-4\n-7\n+3",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "40\n16\n24",
+            "fk": "119\n97\n139",
+            "hs%": "63%\n52%\n74%",
+            "kdr": "16\n7\n9",
+            "kills": "171",
+            "name": "PABLITO",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "228",
+          "name": "lux9",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "225",
+          "name": "OzNNN",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "236",
+          "name": "Maxildez",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "135",
+          "name": "gog0oo",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "119",
+          "name": "ARIA",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "240",
+          "name": "SimteK",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "157",
+          "name": "MichelCastr0",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "222",
+          "name": "PABLITO",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "140",
+          "name": "Sco",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "98",
+          "name": "bsp",
+          "team": "DNA PEEK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.72\n1.99\n1.31",
+            "adr": "+14\n+12\n+2",
+            "agent": "",
+            "assists": "/\n\n9\n5\n4\n\n/",
+            "deaths": "23\n17\n6",
+            "fk": "187\n234\n115",
+            "hs%": "85%\n92%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "228",
+            "name": "lux9",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "1.72\n2.10\n1.15",
+            "adr": "+14\n+12\n+2",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "25\n18\n7",
+            "fk": "207\n246\n148",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "4\n3\n1",
+            "kills": "225",
+            "name": "OzNNN",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "0.87\n0.80\n0.98",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "105\n104\n108",
+            "hs%": "90%\n100%\n75%",
+            "kdr": "4\n2\n2",
+            "kills": "236",
+            "name": "Maxildez",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "0.83\n0.81\n0.86",
+            "adr": "-4\n-1\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "9\n7\n2",
+            "fk": "100\n97\n103",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "5\n3\n2",
+            "kills": "135",
+            "name": "gog0oo",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "0.56\n0.59\n0.51",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "64\n57\n75",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "6\n3\n3",
+            "kills": "119",
+            "name": "ARIA",
+            "team": "La Smartance"
+          }
+        ],
+        [
+          {
+            "acs": "1.39\n1.73\n1.16",
+            "adr": "+8\n+7\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "155\n155\n155",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "2\n0\n2",
+            "kills": "240",
+            "name": "SimteK",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "0.88\n1.20\n0.66",
+            "adr": "-5\n+1\n-6",
+            "agent": "",
+            "assists": "/\n\n15\n4\n11\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "125\n125\n125",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "157",
+            "name": "MichelCastr0",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "0.66\n0.30\n0.90",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "12\n3\n9",
+            "fk": "111\n79\n133",
+            "hs%": "55%\n38%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "222",
+            "name": "PABLITO",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "0.63\n0.87\n0.47",
+            "adr": "-8\n-1\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n4\n12\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "89\n64\n105",
+            "hs%": "55%\n63%\n50%",
+            "kdr": "6\n3\n3",
+            "kills": "140",
+            "name": "Sco",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "0.50\n0.71\n0.37",
+            "adr": "-10\n-2\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "6\n3\n3",
+            "fk": "70\n74\n68",
+            "hs%": "60%\n63%\n58%",
+            "kdr": "5\n2\n3",
+            "kills": "98",
+            "name": "bsp",
+            "team": "DNA PEEK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "197",
+          "name": "OzNNN",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "186",
+          "name": "gog0oo",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "227",
+          "name": "Maxildez",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "179",
+          "name": "lux9",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "71",
+          "name": "ARIA",
+          "team": "La Smartance"
+        },
+        {
+          "kills": "359",
+          "name": "SimteK",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "219",
+          "name": "MichelCastr0",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "171",
+          "name": "Sco",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "197",
+          "name": "bsp",
+          "team": "DNA PEEK"
+        },
+        {
+          "kills": "198",
+          "name": "PABLITO",
+          "team": "DNA PEEK"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.05\n1.45\n0.82",
+            "adr": "-2\n+1\n-3",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "12\n7\n5",
+            "fk": "110\n134\n96",
+            "hs%": "63%\n71%\n58%",
+            "kdr": "6\n2\n4",
+            "kills": "197",
+            "name": "OzNNN",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "0.87\n0.12\n1.30",
+            "adr": "-3\n-8\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "12\n1\n11",
+            "fk": "124\n47\n169",
+            "hs%": "63%\n43%\n75%",
+            "kdr": "5\n2\n3",
+            "kills": "186",
+            "name": "gog0oo",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "0.81\n0.04\n1.26",
+            "adr": "-2\n-5\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "146\n36\n211",
+            "hs%": "68%\n43%\n83%",
+            "kdr": "1\n0\n1",
+            "kills": "227",
+            "name": "Maxildez",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "0.58\n0.45\n0.66",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "115\n113\n116",
+            "hs%": "47%\n43%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "179",
+            "name": "lux9",
+            "team": "La Smartance"
+          },
+          {
+            "acs": "0.21\n0.08\n0.28",
+            "adr": "-14\n-7\n-7",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "3\n0\n3",
+            "fk": "48\n26\n61",
+            "hs%": "53%\n57%\n50%",
+            "kdr": "7\n3\n4",
+            "kills": "71",
+            "name": "ARIA",
+            "team": "La Smartance"
+          }
+        ],
+        [
+          {
+            "acs": "1.94\n1.77\n2.22",
+            "adr": "+17\n+7\n+10",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "27\n15\n12",
+            "fk": "219\n221\n216",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "1\n1\n0",
+            "kills": "359",
+            "name": "SimteK",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "1.22\n1.11\n1.40",
+            "adr": "+4\n0\n+4",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "14\n8\n6",
+            "fk": "125\n129\n118",
+            "hs%": "84%\n75%\n100%",
+            "kdr": "7\n2\n5",
+            "kills": "219",
+            "name": "MichelCastr0",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "1.20\n1.25\n1.13",
+            "adr": "+4\n+2\n+2",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "123\n133\n106",
+            "hs%": "84%\n83%\n86%",
+            "kdr": "6\n4\n2",
+            "kills": "171",
+            "name": "Sco",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "1.13\n0.98\n1.39",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "114\n98\n141",
+            "hs%": "95%\n92%\n100%",
+            "kdr": "9\n5\n4",
+            "kills": "197",
+            "name": "bsp",
+            "team": "DNA PEEK"
+          },
+          {
+            "acs": "0.88\n0.47\n1.57",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n10\n3\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "119\n98\n155",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "9\n4\n5",
+            "kills": "198",
+            "name": "PABLITO",
+            "team": "DNA PEEK"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 18582,
+  "teams": [
+    "La Smartance",
+    "DNA PEEK"
+  ],
+  "tournament": "Tournament: \n\t\t\t\t\t\tLower Round 1"
+}

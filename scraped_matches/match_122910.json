@@ -1,0 +1,788 @@
+{
+  "date": "2022-07-29 21:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "334",
+          "name": "wasd",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "281",
+          "name": "Neprix",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "234",
+          "name": "yen",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "159",
+          "name": "stee",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "203",
+          "name": "YellowFISH",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "224",
+          "name": "PelT",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "260",
+          "name": "Tays",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "223",
+          "name": "Toskri",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "215",
+          "name": "Falax",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "111",
+          "name": "Osu",
+          "team": "Alpha 1"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.83\n1.39\n2.09",
+            "adr": "+11\n+2\n+9",
+            "agent": "",
+            "assists": "/\n\n11\n3\n8\n\n/",
+            "deaths": "22\n5\n17",
+            "fk": "210\n151\n244",
+            "hs%": "84%\n86%\n83%",
+            "kdr": "12\n3\n9",
+            "kills": "334",
+            "name": "wasd",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "1.33\n0.42\n1.86",
+            "adr": "+4\n-3\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "18\n4\n14",
+            "fk": "194\n128\n233",
+            "hs%": "79%\n57%\n92%",
+            "kdr": "14\n1\n13",
+            "kills": "281",
+            "name": "Neprix",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "1.09\n1.78\n0.69",
+            "adr": "+3\n+5\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "17\n11\n6",
+            "fk": "165\n278\n98",
+            "hs%": "79%\n100%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "234",
+            "name": "yen",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "0.83\n0.92\n0.78",
+            "adr": "0\n0\n0",
+            "agent": "",
+            "assists": "/\n\n11\n5\n6\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "104\n130\n89",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "159",
+            "name": "stee",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "0.83\n0.79\n0.86",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "137\n133\n139",
+            "hs%": "89%\n86%\n92%",
+            "kdr": "9\n3\n6",
+            "kills": "203",
+            "name": "YellowFISH",
+            "team": "Surf Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n0.89\n1.39",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n9\n7",
+            "fk": "135\n123\n157",
+            "hs%": "63%\n67%\n57%",
+            "kdr": "3\n2\n1",
+            "kills": "224",
+            "name": "PelT",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "1.07\n0.57\n1.94",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "155\n113\n228",
+            "hs%": "79%\n67%\n100%",
+            "kdr": "7\n5\n2",
+            "kills": "260",
+            "name": "Tays",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "1.05\n1.14\n0.89",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "137\n147\n120",
+            "hs%": "68%\n67%\n71%",
+            "kdr": "5\n2\n3",
+            "kills": "223",
+            "name": "Toskri",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "0.99\n1.10\n0.81",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "159\n175\n132",
+            "hs%": "68%\n58%\n86%",
+            "kdr": "6\n1\n5",
+            "kills": "215",
+            "name": "Falax",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "0.28\n0.44\n0.04",
+            "adr": "-14\n-8\n-6",
+            "agent": "",
+            "assists": "/\n\n19\n12\n7\n\n/",
+            "deaths": "5\n4\n1",
+            "fk": "85\n107\n49",
+            "hs%": "74%\n83%\n57%",
+            "kdr": "8\n5\n3",
+            "kills": "111",
+            "name": "Osu",
+            "team": "Alpha 1"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "219",
+          "name": "wasd",
+          "team": null
+        },
+        {
+          "kills": "289",
+          "name": "yen",
+          "team": null
+        },
+        {
+          "kills": "134",
+          "name": "Neprix",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "YellowFISH",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "stee",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "Tays",
+          "team": null
+        },
+        {
+          "kills": "205",
+          "name": "Toskri",
+          "team": null
+        },
+        {
+          "kills": "211",
+          "name": "Falax",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "PelT",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Osu",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.24\n1.38\n1.31",
+            "adr": "+15\n+6\n+9",
+            "agent": "",
+            "assists": "/\n\n40\n18\n22\n\n/",
+            "deaths": "55\n24\n31",
+            "fk": "162\n160\n163",
+            "hs%": "82%\n87%\n78%",
+            "kdr": "23\n9\n14",
+            "kills": "219",
+            "name": "wasd",
+            "team": null
+          },
+          {
+            "acs": "1.21\n1.08\n1.14",
+            "adr": "+13\n+8\n+5",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "59\n32\n27",
+            "fk": "174\n195\n154",
+            "hs%": "73%\n67%\n78%",
+            "kdr": "5\n0\n5",
+            "kills": "289",
+            "name": "yen",
+            "team": null
+          },
+          {
+            "acs": "0.72\n1.44\n1.09",
+            "adr": "+1\n-10\n+11",
+            "agent": "",
+            "assists": "/\n\n41\n22\n19\n\n/",
+            "deaths": "42\n12\n30",
+            "fk": "145\n93\n194",
+            "hs%": "74%\n70%\n78%",
+            "kdr": "30\n12\n18",
+            "kills": "134",
+            "name": "Neprix",
+            "team": null
+          },
+          {
+            "acs": "0.85\n1.04\n0.95",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n50\n24\n26\n\n/",
+            "deaths": "46\n19\n27",
+            "fk": "134\n129\n139",
+            "hs%": "74%\n70%\n78%",
+            "kdr": "24\n9\n15",
+            "kills": "200",
+            "name": "YellowFISH",
+            "team": null
+          },
+          {
+            "acs": "0.85\n0.73\n0.79",
+            "adr": "-7\n-1\n-6",
+            "agent": "",
+            "assists": "/\n\n44\n22\n22\n\n/",
+            "deaths": "37\n21\n16",
+            "fk": "112\n119\n106",
+            "hs%": "65%\n63%\n66%",
+            "kdr": "8\n4\n4",
+            "kills": "194",
+            "name": "stee",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.83\n1.43\n1.12",
+            "adr": "+7\n-4\n+11",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "57\n24\n33",
+            "fk": "164\n136\n194",
+            "hs%": "71%\n59%\n83%",
+            "kdr": "10\n5\n5",
+            "kills": "213",
+            "name": "Tays",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.94\n0.96",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n47\n25\n22\n\n/",
+            "deaths": "43\n21\n22",
+            "fk": "138\n135\n142",
+            "hs%": "61%\n59%\n63%",
+            "kdr": "11\n6\n5",
+            "kills": "205",
+            "name": "Toskri",
+            "team": null
+          },
+          {
+            "acs": "0.97\n0.93\n0.95",
+            "adr": "-5\n-2\n-3",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "40\n24\n16",
+            "fk": "126\n141\n110",
+            "hs%": "68%\n63%\n73%",
+            "kdr": "19\n7\n12",
+            "kills": "211",
+            "name": "Falax",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.82\n0.89",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n48\n25\n23\n\n/",
+            "deaths": "45\n24\n21",
+            "fk": "121\n126\n116",
+            "hs%": "63%\n63%\n63%",
+            "kdr": "6\n3\n3",
+            "kills": "202",
+            "name": "PelT",
+            "team": null
+          },
+          {
+            "acs": "0.73\n0.94\n0.83",
+            "adr": "-13\n-10\n-3",
+            "agent": "",
+            "assists": "/\n\n49\n28\n21\n\n/",
+            "deaths": "36\n18\n18",
+            "fk": "129\n128\n130",
+            "hs%": "71%\n78%\n63%",
+            "kdr": "17\n11\n6",
+            "kills": "179",
+            "name": "Osu",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "219",
+          "name": "YellowFISH",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "176",
+          "name": "wasd",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "302",
+          "name": "yen",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "180",
+          "name": "Neprix",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "187",
+          "name": "stee",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "213",
+          "name": "Osu",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "241",
+          "name": "PelT",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "199",
+          "name": "Toskri",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "147",
+          "name": "Falax",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "261",
+          "name": "Tays",
+          "team": "Alpha 1"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.22\n1.32\n1.13",
+            "adr": "+5\n+4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "159\n173\n147",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "6\n1\n5",
+            "kills": "219",
+            "name": "YellowFISH",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "1.05\n1.41\n0.71",
+            "adr": "+1\n+4\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "18\n11\n7",
+            "fk": "165\n222\n114",
+            "hs%": "83%\n100%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "176",
+            "name": "wasd",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "1.04\n0.76\n1.29",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "147\n109\n183",
+            "hs%": "65%\n45%\n83%",
+            "kdr": "3\n0\n3",
+            "kills": "302",
+            "name": "yen",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "0.71\n0.75\n0.68",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "107\n76\n136",
+            "hs%": "61%\n73%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "180",
+            "name": "Neprix",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "0.55\n0.28\n0.81",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "92\n41\n139",
+            "hs%": "65%\n55%\n75%",
+            "kdr": "5\n1\n4",
+            "kills": "187",
+            "name": "stee",
+            "team": "Surf Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.16\n1.10\n1.22",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "169\n180\n157",
+            "hs%": "83%\n92%\n73%",
+            "kdr": "8\n6\n2",
+            "kills": "213",
+            "name": "Osu",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "1.14\n1.35\n0.91",
+            "adr": "+3\n+4\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "162\n169\n155",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "3\n1\n2",
+            "kills": "241",
+            "name": "PelT",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "1.11\n1.25\n0.95",
+            "adr": "+2\n+2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "145\n145\n145",
+            "hs%": "57%\n58%\n55%",
+            "kdr": "3\n2\n1",
+            "kills": "199",
+            "name": "Toskri",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "1.08\n1.07\n1.10",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "15\n9\n6",
+            "fk": "114\n129\n98",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "7\n4\n3",
+            "kills": "147",
+            "name": "Falax",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "0.88\n0.67\n1.10",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "133\n89\n182",
+            "hs%": "57%\n42%\n73%",
+            "kdr": "1\n0\n1",
+            "kills": "261",
+            "name": "Tays",
+            "team": "Alpha 1"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "314",
+          "name": "yen",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "202",
+          "name": "Neprix",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "197",
+          "name": "wasd",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "234",
+          "name": "stee",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "173",
+          "name": "YellowFISH",
+          "team": "Surf Esports"
+        },
+        {
+          "kills": "332",
+          "name": "Tays",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "187",
+          "name": "Osu",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "161",
+          "name": "Falax",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "195",
+          "name": "Toskri",
+          "team": "Alpha 1"
+        },
+        {
+          "kills": "116",
+          "name": "PelT",
+          "team": "Alpha 1"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.31\n1.30\n1.34",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "22\n13\n9",
+            "fk": "214\n226\n196",
+            "hs%": "75%\n67%\n88%",
+            "kdr": "1\n0\n1",
+            "kills": "314",
+            "name": "yen",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "1.29\n0.86\n1.94",
+            "adr": "+3\n-3\n+6",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "142\n89\n222",
+            "hs%": "85%\n75%\n100%",
+            "kdr": "12\n7\n5",
+            "kills": "202",
+            "name": "Neprix",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "1.13\n1.01\n1.31",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "112\n110\n117",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "7\n5\n2",
+            "kills": "197",
+            "name": "wasd",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "1.02\n1.34\n0.54",
+            "adr": "+2\n+5\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "144\n184\n83",
+            "hs%": "60%\n67%\n50%",
+            "kdr": "0\n0\n0",
+            "kills": "234",
+            "name": "stee",
+            "team": "Surf Esports"
+          },
+          {
+            "acs": "0.74\n0.45\n1.18",
+            "adr": "-5\n-7\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "104\n87\n129",
+            "hs%": "70%\n75%\n63%",
+            "kdr": "9\n5\n4",
+            "kills": "173",
+            "name": "YellowFISH",
+            "team": "Surf Esports"
+          }
+        ],
+        [
+          {
+            "acs": "1.44\n1.46\n1.42",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "23\n11\n12",
+            "fk": "209\n243\n186",
+            "hs%": "80%\n75%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "332",
+            "name": "Tays",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "0.97\n0.61\n1.21",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "124\n81\n152",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "1\n0\n1",
+            "kills": "187",
+            "name": "Osu",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "0.76\n0.64\n0.85",
+            "adr": "-5\n-3\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "108\n109\n108",
+            "hs%": "60%\n50%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "161",
+            "name": "Falax",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "0.69\n0.28\n0.97",
+            "adr": "-5\n-6\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "12\n2\n10",
+            "fk": "132\n101\n152",
+            "hs%": "60%\n50%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "195",
+            "name": "Toskri",
+            "team": "Alpha 1"
+          },
+          {
+            "acs": "0.42\n0.46\n0.40",
+            "adr": "-7\n-4\n-3",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "61\n68\n56",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "0\n0\n0",
+            "kills": "116",
+            "name": "PelT",
+            "team": "Alpha 1"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 122910,
+  "teams": [
+    "Surf Esports",
+    "Alpha 1"
+  ],
+  "tournament": "Group Stage: \n\t\t\t\t\t\tDecider (L)"
+}

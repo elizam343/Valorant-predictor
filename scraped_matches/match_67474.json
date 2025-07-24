@@ -1,0 +1,788 @@
+{
+  "date": "2022-01-29 21:30:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "281",
+          "name": "Anashi",
+          "team": "0Zero"
+        },
+        {
+          "kills": "242",
+          "name": "xfathan",
+          "team": "0Zero"
+        },
+        {
+          "kills": "298",
+          "name": "IcaaaPftw",
+          "team": "0Zero"
+        },
+        {
+          "kills": "277",
+          "name": "Edw4rd",
+          "team": "0Zero"
+        },
+        {
+          "kills": "137",
+          "name": "jans0n",
+          "team": "0Zero"
+        },
+        {
+          "kills": "186",
+          "name": "edamawee",
+          "team": "Inertia"
+        },
+        {
+          "kills": "179",
+          "name": "reagzYY",
+          "team": "Inertia"
+        },
+        {
+          "kills": "168",
+          "name": "Cursed",
+          "team": "Inertia"
+        },
+        {
+          "kills": "92",
+          "name": "Rave",
+          "team": "Inertia"
+        },
+        {
+          "kills": "109",
+          "name": "BELLEFATFOREHEAD",
+          "team": "Inertia"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Icebox",
+      "players": [
+        [
+          {
+            "acs": "1.67\n1.64\n1.68",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "168\n152\n175",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "13\n6\n7",
+            "kills": "281",
+            "name": "Anashi",
+            "team": "0Zero"
+          },
+          {
+            "acs": "1.47\n1.19\n1.59",
+            "adr": "+9\n+3\n+6",
+            "agent": "",
+            "assists": "/\n\n6\n2\n4\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "167\n148\n174",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "7\n1\n6",
+            "kills": "242",
+            "name": "xfathan",
+            "team": "0Zero"
+          },
+          {
+            "acs": "1.44\n1.26\n1.52",
+            "adr": "+10\n+2\n+8",
+            "agent": "",
+            "assists": "/\n\n9\n3\n6\n\n/",
+            "deaths": "19\n5\n14",
+            "fk": "207\n186\n216",
+            "hs%": "76%\n100%\n67%",
+            "kdr": "3\n2\n1",
+            "kills": "298",
+            "name": "IcaaaPftw",
+            "team": "0Zero"
+          },
+          {
+            "acs": "1.42\n1.52\n1.38",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n2\n6\n\n/",
+            "deaths": "18\n5\n13",
+            "fk": "168\n163\n171",
+            "hs%": "94%\n100%\n92%",
+            "kdr": "5\n1\n4",
+            "kills": "277",
+            "name": "Edw4rd",
+            "team": "0Zero"
+          },
+          {
+            "acs": "0.95\n0.96\n0.94",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n8\n3\n5\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "102\n154\n81",
+            "hs%": "88%\n80%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "137",
+            "name": "jans0n",
+            "team": "0Zero"
+          }
+        ],
+        [
+          {
+            "acs": "0.93\n0.84\n1.12",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "11\n7\n4",
+            "fk": "109\n97\n137",
+            "hs%": "47%\n33%\n80%",
+            "kdr": "4\n2\n2",
+            "kills": "186",
+            "name": "edamawee",
+            "team": "Inertia"
+          },
+          {
+            "acs": "0.80\n0.90\n0.54",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "10\n7\n3",
+            "fk": "128\n125\n137",
+            "hs%": "53%\n50%\n60%",
+            "kdr": "3\n3\n0",
+            "kills": "179",
+            "name": "reagzYY",
+            "team": "Inertia"
+          },
+          {
+            "acs": "0.56\n0.38\n0.99",
+            "adr": "-9\n-7\n-2",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "113\n108\n125",
+            "hs%": "47%\n42%\n60%",
+            "kdr": "4\n2\n2",
+            "kills": "168",
+            "name": "Cursed",
+            "team": "Inertia"
+          },
+          {
+            "acs": "0.48\n0.55\n0.31",
+            "adr": "-10\n-6\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "4\n4\n0",
+            "fk": "63\n85\n9",
+            "hs%": "35%\n33%\n40%",
+            "kdr": "6\n3\n3",
+            "kills": "92",
+            "name": "Rave",
+            "team": "Inertia"
+          },
+          {
+            "acs": "0.35\n0.35\n0.36",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n12\n5\n\n/",
+            "deaths": "6\n4\n2",
+            "fk": "74\n69\n86",
+            "hs%": "41%\n42%\n40%",
+            "kdr": "2\n2\n0",
+            "kills": "109",
+            "name": "BELLEFATFOREHEAD",
+            "team": "Inertia"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "208",
+          "name": "Anashi",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "IcaaaPftw",
+          "team": null
+        },
+        {
+          "kills": "217",
+          "name": "Edw4rd",
+          "team": null
+        },
+        {
+          "kills": "194",
+          "name": "xfathan",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "jans0n",
+          "team": null
+        },
+        {
+          "kills": "229",
+          "name": "reagzYY",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "BELLEFATFOREHEAD",
+          "team": null
+        },
+        {
+          "kills": "207",
+          "name": "Cursed",
+          "team": null
+        },
+        {
+          "kills": "109",
+          "name": "edamawee",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "Rave",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.15\n1.18\n1.17",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n38\n15\n23\n\n/",
+            "deaths": "43\n18\n25",
+            "fk": "142\n138\n144",
+            "hs%": "81%\n83%\n81%",
+            "kdr": "20\n7\n13",
+            "kills": "208",
+            "name": "Anashi",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.38\n1.15",
+            "adr": "+10\n-4\n+14",
+            "agent": "",
+            "assists": "/\n\n42\n19\n23\n\n/",
+            "deaths": "52\n15\n37",
+            "fk": "161\n123\n186",
+            "hs%": "71%\n74%\n69%",
+            "kdr": "18\n10\n8",
+            "kills": "183",
+            "name": "IcaaaPftw",
+            "team": null
+          },
+          {
+            "acs": "1.12\n1.14\n1.13",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n39\n17\n22\n\n/",
+            "deaths": "46\n18\n28",
+            "fk": "146\n155\n140",
+            "hs%": "81%\n91%\n75%",
+            "kdr": "21\n8\n13",
+            "kills": "217",
+            "name": "Edw4rd",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.11\n1.00",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n39\n17\n22\n\n/",
+            "deaths": "40\n15\n25",
+            "fk": "143\n135\n148",
+            "hs%": "66%\n61%\n69%",
+            "kdr": "19\n7\n12",
+            "kills": "194",
+            "name": "xfathan",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.90\n0.83",
+            "adr": "-10\n-4\n-6",
+            "agent": "",
+            "assists": "/\n\n43\n18\n25\n\n/",
+            "deaths": "33\n14\n19",
+            "fk": "130\n131\n130",
+            "hs%": "76%\n65%\n83%",
+            "kdr": "17\n7\n10",
+            "kills": "185",
+            "name": "jans0n",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.14\n1.30\n1.21",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n42\n28\n14\n\n/",
+            "deaths": "50\n29\n21",
+            "fk": "166\n155\n184",
+            "hs%": "73%\n72%\n74%",
+            "kdr": "14\n11\n3",
+            "kills": "229",
+            "name": "reagzYY",
+            "team": null
+          },
+          {
+            "acs": "1.03\n1.13\n1.07",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n43\n27\n16\n\n/",
+            "deaths": "45\n27\n18",
+            "fk": "126\n121\n133",
+            "hs%": "64%\n64%\n65%",
+            "kdr": "18\n9\n9",
+            "kills": "193",
+            "name": "BELLEFATFOREHEAD",
+            "team": null
+          },
+          {
+            "acs": "0.82\n1.35\n1.03",
+            "adr": "-5\n-8\n+3",
+            "agent": "",
+            "assists": "/\n\n47\n30\n17\n\n/",
+            "deaths": "42\n22\n20",
+            "fk": "149\n138\n166",
+            "hs%": "73%\n67%\n83%",
+            "kdr": "21\n12\n9",
+            "kills": "207",
+            "name": "Cursed",
+            "team": null
+          },
+          {
+            "acs": "0.49\n1.26\n0.79",
+            "adr": "-9\n-17\n+8",
+            "agent": "",
+            "assists": "/\n\n45\n30\n15\n\n/",
+            "deaths": "36\n13\n23",
+            "fk": "110\n67\n177",
+            "hs%": "59%\n44%\n83%",
+            "kdr": "16\n5\n11",
+            "kills": "109",
+            "name": "edamawee",
+            "team": null
+          },
+          {
+            "acs": "0.96\n0.49\n0.77",
+            "adr": "-10\n+1\n-11",
+            "agent": "",
+            "assists": "/\n\n38\n23\n15\n\n/",
+            "deaths": "28\n24\n4",
+            "fk": "77\n107\n29",
+            "hs%": "61%\n58%\n65%",
+            "kdr": "17\n10\n7",
+            "kills": "164",
+            "name": "Rave",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "263",
+          "name": "IcaaaPftw",
+          "team": "0Zero"
+        },
+        {
+          "kills": "213",
+          "name": "Anashi",
+          "team": "0Zero"
+        },
+        {
+          "kills": "112",
+          "name": "Edw4rd",
+          "team": "0Zero"
+        },
+        {
+          "kills": "245",
+          "name": "jans0n",
+          "team": "0Zero"
+        },
+        {
+          "kills": "172",
+          "name": "xfathan",
+          "team": "0Zero"
+        },
+        {
+          "kills": "151",
+          "name": "BELLEFATFOREHEAD",
+          "team": "Inertia"
+        },
+        {
+          "kills": "205",
+          "name": "reagzYY",
+          "team": "Inertia"
+        },
+        {
+          "kills": "236",
+          "name": "Cursed",
+          "team": "Inertia"
+        },
+        {
+          "kills": "128",
+          "name": "Rave",
+          "team": "Inertia"
+        },
+        {
+          "kills": "491",
+          "name": "edamawee",
+          "team": "Inertia"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.16\n0.71\n1.39",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "15\n3\n12",
+            "fk": "139\n116\n150",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "5\n1\n4",
+            "kills": "263",
+            "name": "IcaaaPftw",
+            "team": "0Zero"
+          },
+          {
+            "acs": "0.89\n0.43\n1.13",
+            "adr": "-5\n-4\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "9\n1\n8",
+            "fk": "127\n78\n151",
+            "hs%": "67%\n50%\n75%",
+            "kdr": "4\n0\n4",
+            "kills": "213",
+            "name": "Anashi",
+            "team": "0Zero"
+          },
+          {
+            "acs": "0.84\n1.00\n0.76",
+            "adr": "-5\n-1\n-4",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "8\n4\n4",
+            "fk": "101\n126\n89",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "6\n1\n5",
+            "kills": "112",
+            "name": "Edw4rd",
+            "team": "0Zero"
+          },
+          {
+            "acs": "0.61\n0.04\n0.89",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "8\n0\n8",
+            "fk": "125\n52\n162",
+            "hs%": "67%\n33%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "245",
+            "name": "jans0n",
+            "team": "0Zero"
+          },
+          {
+            "acs": "0.53\n0.32\n0.64",
+            "adr": "-10\n-5\n-5",
+            "agent": "",
+            "assists": "/\n\n17\n6\n11\n\n/",
+            "deaths": "7\n1\n6",
+            "fk": "119\n103\n126",
+            "hs%": "56%\n50%\n58%",
+            "kdr": "7\n3\n4",
+            "kills": "172",
+            "name": "xfathan",
+            "team": "0Zero"
+          }
+        ],
+        [
+          {
+            "acs": "1.67\n1.81\n1.38",
+            "adr": "+10\n+8\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n5\n2\n\n/",
+            "deaths": "17\n13\n4",
+            "fk": "132\n155\n84",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "14\n5\n9",
+            "kills": "151",
+            "name": "BELLEFATFOREHEAD",
+            "team": "Inertia"
+          },
+          {
+            "acs": "1.49\n1.51\n1.47",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n9\n1\n\n/",
+            "deaths": "18\n14\n4",
+            "fk": "180\n207\n126",
+            "hs%": "94%\n100%\n83%",
+            "kdr": "6\n5\n1",
+            "kills": "205",
+            "name": "reagzYY",
+            "team": "Inertia"
+          },
+          {
+            "acs": "1.25\n1.01\n1.72",
+            "adr": "+5\n+2\n+3",
+            "agent": "",
+            "assists": "/\n\n10\n8\n2\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "160\n157\n166",
+            "hs%": "83%\n75%\n100%",
+            "kdr": "5\n2\n3",
+            "kills": "236",
+            "name": "Cursed",
+            "team": "Inertia"
+          },
+          {
+            "acs": "0.97\n0.89\n1.13",
+            "adr": "+3\n+2\n+1",
+            "agent": "",
+            "assists": "/\n\n8\n6\n2\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "86\n102\n55",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "6\n5\n1",
+            "kills": "128",
+            "name": "Rave",
+            "team": "Inertia"
+          },
+          {
+            "acs": "0.89\n0.20\n2.29",
+            "adr": "+1\n-8\n+9",
+            "agent": "",
+            "assists": "/\n\n13\n11\n2\n\n/",
+            "deaths": "14\n3\n11",
+            "fk": "151\n61\n329",
+            "hs%": "61%\n42%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "491",
+            "name": "edamawee",
+            "team": "Inertia"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "249",
+          "name": "Edw4rd",
+          "team": "0Zero"
+        },
+        {
+          "kills": "196",
+          "name": "Anashi",
+          "team": "0Zero"
+        },
+        {
+          "kills": "218",
+          "name": "xfathan",
+          "team": "0Zero"
+        },
+        {
+          "kills": "223",
+          "name": "IcaaaPftw",
+          "team": "0Zero"
+        },
+        {
+          "kills": "222",
+          "name": "jans0n",
+          "team": "0Zero"
+        },
+        {
+          "kills": "267",
+          "name": "reagzYY",
+          "team": "Inertia"
+        },
+        {
+          "kills": "257",
+          "name": "Cursed",
+          "team": "Inertia"
+        },
+        {
+          "kills": "233",
+          "name": "BELLEFATFOREHEAD",
+          "team": "Inertia"
+        },
+        {
+          "kills": "127",
+          "name": "Rave",
+          "team": "Inertia"
+        },
+        {
+          "kills": "125",
+          "name": "edamawee",
+          "team": "Inertia"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.15\n1.01\n1.28",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "20\n9\n11",
+            "fk": "164\n166\n161",
+            "hs%": "83%\n100%\n67%",
+            "kdr": "10\n6\n4",
+            "kills": "249",
+            "name": "Edw4rd",
+            "team": "0Zero"
+          },
+          {
+            "acs": "1.02\n1.32\n0.72",
+            "adr": "+2\n+4\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "135\n163\n107",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "3\n1\n2",
+            "kills": "196",
+            "name": "Anashi",
+            "team": "0Zero"
+          },
+          {
+            "acs": "1.02\n0.92\n1.11",
+            "adr": "+2\n0\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "145\n146\n144",
+            "hs%": "54%\n50%\n58%",
+            "kdr": "5\n3\n2",
+            "kills": "218",
+            "name": "xfathan",
+            "team": "0Zero"
+          },
+          {
+            "acs": "0.92\n0.62\n1.23",
+            "adr": "-1\n-4\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "18\n7\n11",
+            "fk": "145\n100\n190",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "10\n7\n3",
+            "kills": "223",
+            "name": "IcaaaPftw",
+            "team": "0Zero"
+          },
+          {
+            "acs": "0.91\n0.95\n0.86",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "154\n160\n148",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "222",
+            "name": "jans0n",
+            "team": "0Zero"
+          }
+        ],
+        [
+          {
+            "acs": "1.28\n1.01\n1.54",
+            "adr": "+4\n-1\n+5",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "22\n8\n14",
+            "fk": "184\n135\n232",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "267",
+            "name": "reagzYY",
+            "team": "Inertia"
+          },
+          {
+            "acs": "1.19\n1.07\n1.32",
+            "adr": "-1\n-3\n+2",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "19\n7\n12",
+            "fk": "166\n149\n183",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "12\n8\n4",
+            "kills": "257",
+            "name": "Cursed",
+            "team": "Inertia"
+          },
+          {
+            "acs": "1.13\n0.93\n1.33",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "22\n10\n12",
+            "fk": "158\n139\n176",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "2\n2\n0",
+            "kills": "233",
+            "name": "BELLEFATFOREHEAD",
+            "team": "Inertia"
+          },
+          {
+            "acs": "0.84\n1.43\n0.24",
+            "adr": "-3\n+5\n-8",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "13\n12\n1",
+            "fk": "79\n134\n25",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "127",
+            "name": "Rave",
+            "team": "Inertia"
+          },
+          {
+            "acs": "0.62\n0.44\n0.79",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "11\n3\n8",
+            "fk": "80\n43\n117",
+            "hs%": "67%\n58%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "125",
+            "name": "edamawee",
+            "team": "Inertia"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 67474,
+  "teams": [
+    "0Zero",
+    "Inertia"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tLower Round 3"
+}

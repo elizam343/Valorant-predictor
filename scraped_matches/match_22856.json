@@ -1,0 +1,630 @@
+{
+  "date": "2021-06-20 13:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "230",
+          "name": "lauren",
+          "team": "100emoji"
+        },
+        {
+          "kills": "264",
+          "name": "ksweet",
+          "team": "100emoji"
+        },
+        {
+          "kills": "157",
+          "name": "Starlight",
+          "team": "100emoji"
+        },
+        {
+          "kills": "249",
+          "name": "lunah",
+          "team": "100emoji"
+        },
+        {
+          "kills": "158",
+          "name": "Shockah Bobackah",
+          "team": "100emoji"
+        },
+        {
+          "kills": "398",
+          "name": "kei",
+          "team": "besties"
+        },
+        {
+          "kills": "214",
+          "name": "wetboosy",
+          "team": "besties"
+        },
+        {
+          "kills": "193",
+          "name": "koi",
+          "team": "besties"
+        },
+        {
+          "kills": "144",
+          "name": "kateuuu",
+          "team": "besties"
+        },
+        {
+          "kills": "83",
+          "name": "memrice",
+          "team": "besties"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.56\n0.92\n2.14",
+            "adr": "+11\n-1\n+12",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "147\n81\n207",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "230",
+            "name": "lauren",
+            "team": "100emoji"
+          },
+          {
+            "acs": "1.30\n1.10\n1.48",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "169\n148\n188",
+            "hs%": "74%\n55%\n92%",
+            "kdr": "11\n3\n8",
+            "kills": "264",
+            "name": "ksweet",
+            "team": "100emoji"
+          },
+          {
+            "acs": "0.93\n0.57\n1.25",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "120\n85\n152",
+            "hs%": "57%\n45%\n67%",
+            "kdr": "11\n4\n7",
+            "kills": "157",
+            "name": "Starlight",
+            "team": "100emoji"
+          },
+          {
+            "acs": "0.89\n1.02\n0.77",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "118\n106\n129",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "249",
+            "name": "lunah",
+            "team": "100emoji"
+          },
+          {
+            "acs": "0.69\n0.87\n0.53",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "117\n128\n108",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "8\n2\n6",
+            "kills": "158",
+            "name": "Shockah Bobackah",
+            "team": "100emoji"
+          }
+        ],
+        [
+          {
+            "acs": "1.59\n1.81\n1.35",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "30\n18\n12",
+            "fk": "239\n262\n214",
+            "hs%": "91%\n92%\n91%",
+            "kdr": "8\n4\n4",
+            "kills": "398",
+            "name": "kei",
+            "team": "besties"
+          },
+          {
+            "acs": "0.95\n1.08\n0.81",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "127\n146\n105",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "6\n3\n3",
+            "kills": "214",
+            "name": "wetboosy",
+            "team": "besties"
+          },
+          {
+            "acs": "0.90\n0.60\n1.23",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "100\n59\n145",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "11\n9\n2",
+            "kills": "193",
+            "name": "koi",
+            "team": "besties"
+          },
+          {
+            "acs": "0.85\n0.64\n1.08",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "84\n93\n74",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "3\n3\n0",
+            "kills": "144",
+            "name": "kateuuu",
+            "team": "besties"
+          },
+          {
+            "acs": "0.33\n0.15\n0.54",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "62\n68\n55",
+            "hs%": "52%\n33%\n73%",
+            "kdr": "6\n3\n3",
+            "kills": "83",
+            "name": "memrice",
+            "team": "besties"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "131",
+          "name": "lauren",
+          "team": null
+        },
+        {
+          "kills": "216",
+          "name": "ksweet",
+          "team": null
+        },
+        {
+          "kills": "93",
+          "name": "Starlight",
+          "team": null
+        },
+        {
+          "kills": "284",
+          "name": "lunah",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "Shockah Bobackah",
+          "team": null
+        },
+        {
+          "kills": "",
+          "name": "Kayleigh",
+          "team": null
+        },
+        {
+          "kills": "443",
+          "name": "kei",
+          "team": null
+        },
+        {
+          "kills": "234",
+          "name": "wetboosy",
+          "team": null
+        },
+        {
+          "kills": "121",
+          "name": "koi",
+          "team": null
+        },
+        {
+          "kills": "144",
+          "name": "kateuuu",
+          "team": null
+        },
+        {
+          "kills": "85",
+          "name": "memrice",
+          "team": null
+        },
+        {
+          "kills": "",
+          "name": "arentIkawaii",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.92\n2.14\n1.56",
+            "adr": "+11\n-1\n+12",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "22\n6\n16",
+            "fk": "147\n81\n207",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "131",
+            "name": "lauren",
+            "team": null
+          },
+          {
+            "acs": "1.10\n1.48\n1.30",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "169\n148\n188",
+            "hs%": "74%\n55%\n92%",
+            "kdr": "11\n3\n8",
+            "kills": "216",
+            "name": "ksweet",
+            "team": null
+          },
+          {
+            "acs": "0.57\n1.25\n0.93",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "11\n2\n9",
+            "fk": "120\n85\n152",
+            "hs%": "57%\n45%\n67%",
+            "kdr": "11\n4\n7",
+            "kills": "93",
+            "name": "Starlight",
+            "team": null
+          },
+          {
+            "acs": "1.02\n0.77\n0.89",
+            "adr": "-3\n0\n-3",
+            "agent": "",
+            "assists": "/\n\n22\n11\n11\n\n/",
+            "deaths": "19\n11\n8",
+            "fk": "118\n106\n129",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "3\n0\n3",
+            "kills": "284",
+            "name": "lunah",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.53\n0.69",
+            "adr": "-8\n-2\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "9\n6\n3",
+            "fk": "117\n128\n108",
+            "hs%": "61%\n55%\n67%",
+            "kdr": "8\n2\n6",
+            "kills": "184",
+            "name": "Shockah Bobackah",
+            "team": null
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Kayleigh",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.81\n1.35\n1.59",
+            "adr": "+11\n+7\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "30\n18\n12",
+            "fk": "239\n262\n214",
+            "hs%": "91%\n92%\n91%",
+            "kdr": "8\n4\n4",
+            "kills": "443",
+            "name": "kei",
+            "team": null
+          },
+          {
+            "acs": "1.08\n0.81\n0.95",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "17\n10\n7",
+            "fk": "127\n146\n105",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "6\n3\n3",
+            "kills": "234",
+            "name": "wetboosy",
+            "team": null
+          },
+          {
+            "acs": "0.60\n1.23\n0.90",
+            "adr": "+2\n-5\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "100\n59\n145",
+            "hs%": "74%\n75%\n73%",
+            "kdr": "11\n9\n2",
+            "kills": "121",
+            "name": "koi",
+            "team": null
+          },
+          {
+            "acs": "0.64\n1.08\n0.85",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "84\n93\n74",
+            "hs%": "65%\n67%\n64%",
+            "kdr": "3\n3\n0",
+            "kills": "144",
+            "name": "kateuuu",
+            "team": null
+          },
+          {
+            "acs": "0.15\n0.54\n0.33",
+            "adr": "-12\n-8\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "62\n68\n55",
+            "hs%": "52%\n33%\n73%",
+            "kdr": "6\n3\n3",
+            "kills": "85",
+            "name": "memrice",
+            "team": null
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "arentIkawaii",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "",
+          "name": "Starlight",
+          "team": "100emoji"
+        },
+        {
+          "kills": "",
+          "name": "ksweet",
+          "team": "100emoji"
+        },
+        {
+          "kills": "",
+          "name": "lauren",
+          "team": "100emoji"
+        },
+        {
+          "kills": "",
+          "name": "Kayleigh",
+          "team": "100emoji"
+        },
+        {
+          "kills": "",
+          "name": "Shockah Bobackah",
+          "team": "100emoji"
+        },
+        {
+          "kills": "",
+          "name": "kei",
+          "team": "besties"
+        },
+        {
+          "kills": "",
+          "name": "arentIkawaii",
+          "team": "besties"
+        },
+        {
+          "kills": "",
+          "name": "kateuuu",
+          "team": "besties"
+        },
+        {
+          "kills": "",
+          "name": "koi",
+          "team": "besties"
+        },
+        {
+          "kills": "",
+          "name": "memrice",
+          "team": "besties"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Starlight",
+            "team": "100emoji"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "ksweet",
+            "team": "100emoji"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "lauren",
+            "team": "100emoji"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Kayleigh",
+            "team": "100emoji"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "Shockah Bobackah",
+            "team": "100emoji"
+          }
+        ],
+        [
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "kei",
+            "team": "besties"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "arentIkawaii",
+            "team": "besties"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "kateuuu",
+            "team": "besties"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "koi",
+            "team": "besties"
+          },
+          {
+            "acs": "",
+            "adr": "",
+            "agent": "",
+            "assists": "/\n\n\u00a0\n\u00a0\n\u00a0\n\n/",
+            "deaths": "",
+            "fk": "",
+            "hs%": "",
+            "kdr": "",
+            "kills": "",
+            "name": "memrice",
+            "team": "besties"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 22856,
+  "teams": [
+    "besties",
+    "100emoji"
+  ],
+  "tournament": "Qualifier: \n\t\t\t\t\t\tLower Round 2"
+}

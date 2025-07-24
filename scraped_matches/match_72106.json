@@ -1,0 +1,982 @@
+{
+  "date": "2022-02-26 08:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "241",
+          "name": "SAABO",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "161",
+          "name": "kn1fed",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "161",
+          "name": "SomebodyY",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "165",
+          "name": "TNKJ",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "132",
+          "name": "troublemaker",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "232",
+          "name": "SalvoN",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "220",
+          "name": "AntiBiotique",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "233",
+          "name": "siz",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "208",
+          "name": "Lemignon",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "226",
+          "name": "cactuzio",
+          "team": "MLC Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.11\n0.92\n1.43",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n11\n5\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "158\n149\n173",
+            "hs%": "63%\n58%\n71%",
+            "kdr": "8\n4\n4",
+            "kills": "241",
+            "name": "SAABO",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.93\n1.11\n0.62",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "11\n9\n2",
+            "fk": "105\n141\n44",
+            "hs%": "53%\n50%\n57%",
+            "kdr": "2\n2\n0",
+            "kills": "161",
+            "name": "kn1fed",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.86\n0.60\n1.30",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n11\n4\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "97\n83\n121",
+            "hs%": "68%\n75%\n57%",
+            "kdr": "2\n1\n1",
+            "kills": "161",
+            "name": "SomebodyY",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.60\n0.29\n1.12",
+            "adr": "-7\n-7\n0",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "112\n76\n172",
+            "hs%": "58%\n50%\n71%",
+            "kdr": "2\n2\n0",
+            "kills": "165",
+            "name": "TNKJ",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.55\n0.87\n0.03",
+            "adr": "-9\n-3\n-6",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "8\n8\n0",
+            "fk": "86\n114\n37",
+            "hs%": "53%\n58%\n43%",
+            "kdr": "4\n2\n2",
+            "kills": "132",
+            "name": "troublemaker",
+            "team": "Mustang Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.11\n1.65",
+            "adr": "+8\n+1\n+7",
+            "agent": "",
+            "assists": "/\n\n8\n4\n4\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "144\n136\n149",
+            "hs%": "89%\n86%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "232",
+            "name": "SalvoN",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "1.38\n1.32\n1.41",
+            "adr": "+10\n+3\n+7",
+            "agent": "",
+            "assists": "/\n\n7\n3\n4\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "152\n157\n150",
+            "hs%": "95%\n86%\n100%",
+            "kdr": "2\n0\n2",
+            "kills": "220",
+            "name": "AntiBiotique",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "1.11\n0.63\n1.38",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "18\n3\n15",
+            "fk": "149\n80\n190",
+            "hs%": "68%\n43%\n83%",
+            "kdr": "2\n0\n2",
+            "kills": "233",
+            "name": "siz",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "0.94\n1.51\n0.61",
+            "adr": "+1\n+3\n-2",
+            "agent": "",
+            "assists": "/\n\n12\n3\n9\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "137\n165\n120",
+            "hs%": "68%\n71%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "208",
+            "name": "Lemignon",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "0.93\n0.73\n1.04",
+            "adr": "+2\n-1\n+3",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "15\n5\n10",
+            "fk": "143\n119\n157",
+            "hs%": "79%\n57%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "226",
+            "name": "cactuzio",
+            "team": "MLC Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "179",
+          "name": "SomebodyY",
+          "team": null
+        },
+        {
+          "kills": "193",
+          "name": "kn1fed",
+          "team": null
+        },
+        {
+          "kills": "187",
+          "name": "SAABO",
+          "team": null
+        },
+        {
+          "kills": "189",
+          "name": "troublemaker",
+          "team": null
+        },
+        {
+          "kills": "147",
+          "name": "TNKJ",
+          "team": null
+        },
+        {
+          "kills": "252",
+          "name": "Lemignon",
+          "team": null
+        },
+        {
+          "kills": "261",
+          "name": "cactuzio",
+          "team": null
+        },
+        {
+          "kills": "166",
+          "name": "siz",
+          "team": null
+        },
+        {
+          "kills": "106",
+          "name": "SalvoN",
+          "team": null
+        },
+        {
+          "kills": "188",
+          "name": "AntiBiotique",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "0.96\n1.05\n1.00",
+            "adr": "-6\n-4\n-2",
+            "agent": "",
+            "assists": "/\n\n62\n32\n30\n\n/",
+            "deaths": "56\n28\n28",
+            "fk": "129\n113\n146",
+            "hs%": "68%\n64%\n73%",
+            "kdr": "13\n4\n9",
+            "kills": "179",
+            "name": "SomebodyY",
+            "team": null
+          },
+          {
+            "acs": "0.87\n0.95\n0.91",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n59\n35\n24\n\n/",
+            "deaths": "50\n30\n20",
+            "fk": "127\n129\n124",
+            "hs%": "65%\n60%\n70%",
+            "kdr": "10\n4\n6",
+            "kills": "193",
+            "name": "kn1fed",
+            "team": null
+          },
+          {
+            "acs": "0.78\n1.00\n0.89",
+            "adr": "-8\n-7\n-1",
+            "agent": "",
+            "assists": "/\n\n63\n35\n28\n\n/",
+            "deaths": "55\n28\n27",
+            "fk": "118\n116\n121",
+            "hs%": "65%\n57%\n73%",
+            "kdr": "22\n9\n13",
+            "kills": "187",
+            "name": "SAABO",
+            "team": null
+          },
+          {
+            "acs": "0.86\n0.68\n0.77",
+            "adr": "-22\n-11\n-11",
+            "agent": "",
+            "assists": "/\n\n68\n37\n31\n\n/",
+            "deaths": "46\n26\n20",
+            "fk": "112\n123\n101",
+            "hs%": "62%\n67%\n58%",
+            "kdr": "24\n14\n10",
+            "kills": "189",
+            "name": "troublemaker",
+            "team": null
+          },
+          {
+            "acs": "0.60\n0.93\n0.76",
+            "adr": "-16\n-14\n-2",
+            "agent": "",
+            "assists": "/\n\n61\n34\n27\n\n/",
+            "deaths": "45\n20\n25",
+            "fk": "103\n92\n115",
+            "hs%": "68%\n64%\n73%",
+            "kdr": "11\n7\n4",
+            "kills": "147",
+            "name": "TNKJ",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.31\n1.14\n1.22",
+            "adr": "+17\n+8\n+9",
+            "agent": "",
+            "assists": "/\n\n52\n27\n25\n\n/",
+            "deaths": "69\n35\n34",
+            "fk": "159\n166\n152",
+            "hs%": "73%\n70%\n76%",
+            "kdr": "27\n12\n15",
+            "kills": "252",
+            "name": "Lemignon",
+            "team": null
+          },
+          {
+            "acs": "1.19\n1.07\n1.12",
+            "adr": "+18\n+10\n+8",
+            "agent": "",
+            "assists": "/\n\n57\n29\n28\n\n/",
+            "deaths": "75\n39\n36",
+            "fk": "154\n159\n150",
+            "hs%": "71%\n70%\n71%",
+            "kdr": "16\n9\n7",
+            "kills": "261",
+            "name": "cactuzio",
+            "team": null
+          },
+          {
+            "acs": "0.94\n1.28\n1.11",
+            "adr": "+13\n-1\n+14",
+            "agent": "",
+            "assists": "/\n\n52\n25\n27\n\n/",
+            "deaths": "65\n24\n41",
+            "fk": "144\n114\n172",
+            "hs%": "76%\n73%\n79%",
+            "kdr": "24\n12\n12",
+            "kills": "166",
+            "name": "siz",
+            "team": null
+          },
+          {
+            "acs": "0.89\n1.19\n1.04",
+            "adr": "+7\n-4\n+11",
+            "agent": "",
+            "assists": "/\n\n40\n19\n21\n\n/",
+            "deaths": "47\n15\n32",
+            "fk": "104\n67\n139",
+            "hs%": "79%\n78%\n81%",
+            "kdr": "23\n9\n14",
+            "kills": "106",
+            "name": "SalvoN",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.99\n0.97",
+            "adr": "+6\n+4\n+2",
+            "agent": "",
+            "assists": "/\n\n51\n24\n27\n\n/",
+            "deaths": "57\n28\n29",
+            "fk": "131\n120\n141",
+            "hs%": "72%\n70%\n74%",
+            "kdr": "11\n5\n6",
+            "kills": "188",
+            "name": "AntiBiotique",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "206",
+          "name": "troublemaker",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "128",
+          "name": "TNKJ",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "231",
+          "name": "kn1fed",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "131",
+          "name": "SAABO",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "177",
+          "name": "SomebodyY",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "341",
+          "name": "siz",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "226",
+          "name": "Lemignon",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "194",
+          "name": "AntiBiotique",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "224",
+          "name": "cactuzio",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "281",
+          "name": "SalvoN",
+          "team": "MLC Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "0.95\n0.96\n0.94",
+            "adr": "-4\n-2\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "16\n10\n6",
+            "fk": "148\n161\n131",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "6\n2\n4",
+            "kills": "206",
+            "name": "troublemaker",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.94\n1.00\n0.86",
+            "adr": "-2\n-1\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "12\n8\n4",
+            "fk": "108\n124\n87",
+            "hs%": "86%\n92%\n78%",
+            "kdr": "5\n2\n3",
+            "kills": "128",
+            "name": "TNKJ",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.83\n0.59\n1.15",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "144\n117\n179",
+            "hs%": "76%\n67%\n89%",
+            "kdr": "6\n2\n4",
+            "kills": "231",
+            "name": "kn1fed",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.68\n0.83\n0.48",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "14\n11\n3",
+            "fk": "105\n126\n76",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "4\n3\n1",
+            "kills": "131",
+            "name": "SAABO",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.67\n0.60\n0.76",
+            "adr": "-8\n-5\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "10\n5\n5",
+            "fk": "97\n86\n112",
+            "hs%": "62%\n58%\n67%",
+            "kdr": "5\n3\n2",
+            "kills": "177",
+            "name": "SomebodyY",
+            "team": "Mustang Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.36\n1.00\n1.64",
+            "adr": "+7\n+1\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "20\n6\n14",
+            "fk": "173\n92\n233",
+            "hs%": "86%\n89%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "341",
+            "name": "siz",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "1.19\n1.45\n1.00",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "165\n174\n158",
+            "hs%": "71%\n56%\n83%",
+            "kdr": "8\n2\n6",
+            "kills": "226",
+            "name": "Lemignon",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "1.06\n1.31\n0.87",
+            "adr": "+4\n+5\n-1",
+            "agent": "",
+            "assists": "/\n\n13\n4\n9\n\n/",
+            "deaths": "17\n9\n8",
+            "fk": "145\n140\n148",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "194",
+            "name": "AntiBiotique",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "1.05\n1.32\n0.85",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "21\n11\n10",
+            "fk": "167\n222\n126",
+            "hs%": "71%\n78%\n67%",
+            "kdr": "3\n3\n0",
+            "kills": "224",
+            "name": "cactuzio",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "1.04\n0.80\n1.21",
+            "adr": "+1\n-4\n+5",
+            "agent": "",
+            "assists": "/\n\n10\n4\n6\n\n/",
+            "deaths": "11\n0\n11",
+            "fk": "114\n34\n175",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "8\n4\n4",
+            "kills": "281",
+            "name": "SalvoN",
+            "team": "MLC Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "279",
+          "name": "SomebodyY",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "215",
+          "name": "kn1fed",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "212",
+          "name": "SAABO",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "198",
+          "name": "troublemaker",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "124",
+          "name": "TNKJ",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "292",
+          "name": "Lemignon",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "179",
+          "name": "siz",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "136",
+          "name": "cactuzio",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "86",
+          "name": "SalvoN",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "165",
+          "name": "AntiBiotique",
+          "team": "MLC Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.41\n1.44\n1.38",
+            "adr": "+8\n+5\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "23\n12\n11",
+            "fk": "202\n168\n236",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "5\n0\n5",
+            "kills": "279",
+            "name": "SomebodyY",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "1.23\n1.10\n1.36",
+            "adr": "+5\n+1\n+4",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "18\n10\n8",
+            "fk": "158\n158\n158",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "2\n0\n2",
+            "kills": "215",
+            "name": "kn1fed",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "1.12\n0.78\n1.46",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "127\n104\n151",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "5\n2\n3",
+            "kills": "212",
+            "name": "SAABO",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "1.11\n1.03\n1.20",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "135\n107\n163",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "9\n7\n2",
+            "kills": "198",
+            "name": "troublemaker",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.69\n0.43\n0.95",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n9\n5\n\n/",
+            "deaths": "10\n4\n6",
+            "fk": "75\n63\n88",
+            "hs%": "58%\n42%\n75%",
+            "kdr": "3\n2\n1",
+            "kills": "124",
+            "name": "TNKJ",
+            "team": "Mustang Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.45\n1.08\n1.81",
+            "adr": "+7\n-2\n+9",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "25\n10\n15",
+            "fk": "187\n175\n198",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "292",
+            "name": "Lemignon",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "0.95\n0.81\n1.08",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "130\n120\n140",
+            "hs%": "63%\n58%\n67%",
+            "kdr": "7\n3\n4",
+            "kills": "179",
+            "name": "siz",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "0.75\n0.77\n0.74",
+            "adr": "-6\n-3\n-3",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "89\n81\n98",
+            "hs%": "54%\n50%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "136",
+            "name": "cactuzio",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "0.60\n0.45\n0.75",
+            "adr": "-9\n-6\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "6\n1\n5",
+            "fk": "58\n18\n98",
+            "hs%": "63%\n50%\n75%",
+            "kdr": "7\n2\n5",
+            "kills": "86",
+            "name": "SalvoN",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "0.58\n0.50\n0.67",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n21\n10\n11\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "107\n82\n133",
+            "hs%": "50%\n50%\n50%",
+            "kdr": "3\n2\n1",
+            "kills": "165",
+            "name": "AntiBiotique",
+            "team": "MLC Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "166",
+          "name": "SomebodyY",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "222",
+          "name": "TNKJ",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "138",
+          "name": "SAABO",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "129",
+          "name": "kn1fed",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "93",
+          "name": "troublemaker",
+          "team": "Mustang Gaming"
+        },
+        {
+          "kills": "387",
+          "name": "cactuzio",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "211",
+          "name": "Lemignon",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "187",
+          "name": "SalvoN",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "176",
+          "name": "siz",
+          "team": "MLC Esports"
+        },
+        {
+          "kills": "182",
+          "name": "AntiBiotique",
+          "team": "MLC Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.01\n1.43\n0.80",
+            "adr": "-2\n+2\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n4\n10\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "102\n114\n96",
+            "hs%": "61%\n50%\n67%",
+            "kdr": "1\n0\n1",
+            "kills": "166",
+            "name": "SomebodyY",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.83\n0.79\n0.84",
+            "adr": "-3\n-1\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "125\n116\n130",
+            "hs%": "72%\n83%\n67%",
+            "kdr": "1\n1\n0",
+            "kills": "222",
+            "name": "TNKJ",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.58\n0.40\n0.67",
+            "adr": "-8\n-3\n-5",
+            "agent": "",
+            "assists": "/\n\n16\n5\n11\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "82\n52\n96",
+            "hs%": "56%\n33%\n67%",
+            "kdr": "5\n0\n5",
+            "kills": "138",
+            "name": "SAABO",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.56\n0.51\n0.58",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n15\n5\n10\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "89\n73\n96",
+            "hs%": "44%\n50%\n42%",
+            "kdr": "0\n0\n0",
+            "kills": "129",
+            "name": "kn1fed",
+            "team": "Mustang Gaming"
+          },
+          {
+            "acs": "0.32\n0.29\n0.33",
+            "adr": "-11\n-4\n-7",
+            "agent": "",
+            "assists": "/\n\n16\n6\n10\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "68\n96\n54",
+            "hs%": "50%\n67%\n42%",
+            "kdr": "5\n3\n2",
+            "kills": "93",
+            "name": "troublemaker",
+            "team": "Mustang Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.91\n1.77\n2.20",
+            "adr": "+18\n+11\n+7",
+            "agent": "",
+            "assists": "/\n\n9\n6\n3\n\n/",
+            "deaths": "27\n17\n10",
+            "fk": "237\n212\n286",
+            "hs%": "83%\n92%\n67%",
+            "kdr": "6\n3\n3",
+            "kills": "387",
+            "name": "cactuzio",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "1.26\n1.32\n1.14",
+            "adr": "+4\n+4\n0",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "14\n10\n4",
+            "fk": "137\n150\n112",
+            "hs%": "83%\n83%\n83%",
+            "kdr": "5\n3\n2",
+            "kills": "211",
+            "name": "Lemignon",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "1.22\n1.26\n1.14",
+            "adr": "+7\n+5\n+2",
+            "agent": "",
+            "assists": "/\n\n7\n4\n3\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "111\n100\n134",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "2\n2\n0",
+            "kills": "187",
+            "name": "SalvoN",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "1.04\n1.19\n0.75",
+            "adr": "+1\n+2\n-1",
+            "agent": "",
+            "assists": "/\n\n10\n6\n4\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "123\n145\n81",
+            "hs%": "89%\n92%\n83%",
+            "kdr": "6\n4\n2",
+            "kills": "176",
+            "name": "siz",
+            "team": "MLC Esports"
+          },
+          {
+            "acs": "0.95\n0.89\n1.05",
+            "adr": "+1\n+1\n0",
+            "agent": "",
+            "assists": "/\n\n10\n7\n3\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "123\n121\n128",
+            "hs%": "78%\n75%\n83%",
+            "kdr": "5\n2\n3",
+            "kills": "182",
+            "name": "AntiBiotique",
+            "team": "MLC Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 72106,
+  "teams": [
+    "Mustang Gaming",
+    "MLC Esports"
+  ],
+  "tournament": "Main Event: \n\t\t\t\t\t\tGrand Final"
+}

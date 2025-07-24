@@ -1,0 +1,806 @@
+{
+  "date": "2021-06-26 13:00:13",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "340",
+          "name": "mina",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "235",
+          "name": "zambie",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "230",
+          "name": "Kyro",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "172",
+          "name": "Moechilla",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "148",
+          "name": "cevv",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "269",
+          "name": "Cab8ts",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "199",
+          "name": "cruella",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "222",
+          "name": "Bluebear",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "153",
+          "name": "Imskiboski",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "115",
+          "name": "Trademark",
+          "team": "Overstressed"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.82\n1.71\n1.95",
+            "adr": "+15\n+7\n+8",
+            "agent": "",
+            "assists": "/\n\n13\n7\n6\n\n/",
+            "deaths": "28\n14\n14",
+            "fk": "242\n250\n233",
+            "hs%": "82%\n75%\n90%",
+            "kdr": "3\n2\n1",
+            "kills": "340",
+            "name": "mina",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "1.17\n1.20\n1.13",
+            "adr": "+2\n+1\n+1",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "16\n8\n8",
+            "fk": "152\n168\n133",
+            "hs%": "77%\n83%\n70%",
+            "kdr": "7\n2\n5",
+            "kills": "235",
+            "name": "zambie",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "1.11\n1.10\n1.12",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "140\n149\n130",
+            "hs%": "77%\n75%\n80%",
+            "kdr": "5\n5\n0",
+            "kills": "230",
+            "name": "Kyro",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "0.89\n0.71\n1.11",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "15\n8\n7",
+            "fk": "110\n91\n133",
+            "hs%": "86%\n75%\n100%",
+            "kdr": "5\n1\n4",
+            "kills": "172",
+            "name": "Moechilla",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "0.70\n0.54\n0.90",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "85\n111\n54",
+            "hs%": "73%\n58%\n90%",
+            "kdr": "10\n5\n5",
+            "kills": "148",
+            "name": "cevv",
+            "team": "OOKERS"
+          }
+        ],
+        [
+          {
+            "acs": "1.03\n0.60\n1.39",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "19\n6\n13",
+            "fk": "167\n102\n221",
+            "hs%": "73%\n60%\n83%",
+            "kdr": "6\n1\n5",
+            "kills": "269",
+            "name": "Cab8ts",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "0.97\n0.89\n1.04",
+            "adr": "-3\n-3\n0",
+            "agent": "",
+            "assists": "/\n\n18\n9\n9\n\n/",
+            "deaths": "15\n6\n9",
+            "fk": "131\n130\n133",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "9\n4\n5",
+            "kills": "199",
+            "name": "cruella",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "0.97\n0.63\n1.26",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n19\n9\n10\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "148\n122\n170",
+            "hs%": "68%\n60%\n75%",
+            "kdr": "5\n0\n5",
+            "kills": "222",
+            "name": "Bluebear",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "0.66\n0.38\n0.90",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "88\n79\n95",
+            "hs%": "68%\n70%\n67%",
+            "kdr": "2\n1\n1",
+            "kills": "153",
+            "name": "Imskiboski",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "0.63\n0.86\n0.43",
+            "adr": "-6\n0\n-6",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "10\n8\n2",
+            "fk": "75\n106\n50",
+            "hs%": "59%\n60%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "115",
+            "name": "Trademark",
+            "team": "Overstressed"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "340",
+          "name": "mina",
+          "team": null
+        },
+        {
+          "kills": "179",
+          "name": "Reptar",
+          "team": null
+        },
+        {
+          "kills": "168",
+          "name": "Kyro",
+          "team": null
+        },
+        {
+          "kills": "164",
+          "name": "zambie",
+          "team": null
+        },
+        {
+          "kills": "115",
+          "name": "Moechilla",
+          "team": null
+        },
+        {
+          "kills": "139",
+          "name": "cevv",
+          "team": null
+        },
+        {
+          "kills": "182",
+          "name": "cruella",
+          "team": null
+        },
+        {
+          "kills": "198",
+          "name": "Cab8ts",
+          "team": null
+        },
+        {
+          "kills": "161",
+          "name": "Imskiboski",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "Bluebear",
+          "team": null
+        },
+        {
+          "kills": "184",
+          "name": "Trademark",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.68\n1.52\n1.61",
+            "adr": "+35\n+17\n+18",
+            "agent": "",
+            "assists": "/\n\n44\n25\n19\n\n/",
+            "deaths": "79\n42\n37",
+            "fk": "216\n238\n191",
+            "hs%": "80%\n72%\n88%",
+            "kdr": "10\n4\n6",
+            "kills": "340",
+            "name": "mina",
+            "team": null
+          },
+          {
+            "acs": "0.99\n1.74\n1.35",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "139\n125\n154",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "4\n2\n2",
+            "kills": "179",
+            "name": "Reptar",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.30\n1.08",
+            "adr": "+6\n-6\n+12",
+            "agent": "",
+            "assists": "/\n\n46\n24\n22\n\n/",
+            "deaths": "52\n18\n34",
+            "fk": "145\n113\n181",
+            "hs%": "77%\n72%\n82%",
+            "kdr": "22\n11\n11",
+            "kills": "168",
+            "name": "Kyro",
+            "team": null
+          },
+          {
+            "acs": "0.88\n1.12\n1.00",
+            "adr": "0\n-5\n+5",
+            "agent": "",
+            "assists": "/\n\n45\n25\n20\n\n/",
+            "deaths": "45\n20\n25",
+            "fk": "122\n117\n128",
+            "hs%": "72%\n67%\n79%",
+            "kdr": "17\n6\n11",
+            "kills": "164",
+            "name": "zambie",
+            "team": null
+          },
+          {
+            "acs": "0.50\n1.42\n0.94",
+            "adr": "-4\n-9\n+5",
+            "agent": "",
+            "assists": "/\n\n34\n19\n15\n\n/",
+            "deaths": "30\n10\n20",
+            "fk": "123\n73\n177",
+            "hs%": "76%\n58%\n95%",
+            "kdr": "13\n5\n8",
+            "kills": "115",
+            "name": "Moechilla",
+            "team": null
+          },
+          {
+            "acs": "0.52\n0.68\n0.59",
+            "adr": "-24\n-14\n-10",
+            "agent": "",
+            "assists": "/\n\n53\n30\n23\n\n/",
+            "deaths": "29\n16\n13",
+            "fk": "90\n100\n80",
+            "hs%": "72%\n64%\n82%",
+            "kdr": "25\n11\n14",
+            "kills": "139",
+            "name": "cevv",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "0.79\n1.24\n1.02",
+            "adr": "-1\n-8\n+7",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "49\n20\n29",
+            "fk": "137\n116\n156",
+            "hs%": "75%\n70%\n81%",
+            "kdr": "22\n10\n12",
+            "kills": "182",
+            "name": "cruella",
+            "team": null
+          },
+          {
+            "acs": "0.64\n1.24\n0.95",
+            "adr": "+2\n-7\n+9",
+            "agent": "",
+            "assists": "/\n\n55\n30\n25\n\n/",
+            "deaths": "57\n23\n34",
+            "fk": "155\n127\n180",
+            "hs%": "70%\n58%\n81%",
+            "kdr": "15\n5\n10",
+            "kills": "198",
+            "name": "Cab8ts",
+            "team": null
+          },
+          {
+            "acs": "0.69\n1.16\n0.94",
+            "adr": "-1\n-7\n+6",
+            "agent": "",
+            "assists": "/\n\n45\n26\n19\n\n/",
+            "deaths": "44\n19\n25",
+            "fk": "110\n96\n123",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "13\n5\n8",
+            "kills": "161",
+            "name": "Imskiboski",
+            "team": null
+          },
+          {
+            "acs": "0.84\n0.95\n0.90",
+            "adr": "-8\n-4\n-4",
+            "agent": "",
+            "assists": "/\n\n54\n28\n26\n\n/",
+            "deaths": "46\n24\n22",
+            "fk": "122\n113\n130",
+            "hs%": "70%\n61%\n78%",
+            "kdr": "18\n4\n14",
+            "kills": "202",
+            "name": "Bluebear",
+            "team": null
+          },
+          {
+            "acs": "0.72\n0.90\n0.81",
+            "adr": "-10\n-8\n-2",
+            "agent": "",
+            "assists": "/\n\n52\n29\n23\n\n/",
+            "deaths": "42\n21\n21",
+            "fk": "117\n124\n110",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "15\n10\n5",
+            "kills": "184",
+            "name": "Trademark",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "274",
+          "name": "mina",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "186",
+          "name": "zambie",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "317",
+          "name": "Moechilla",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "233",
+          "name": "Kyro",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "158",
+          "name": "cevv",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "311",
+          "name": "Imskiboski",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "187",
+          "name": "cruella",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "226",
+          "name": "Cab8ts",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "111",
+          "name": "Bluebear",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "214",
+          "name": "Trademark",
+          "team": "Overstressed"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.71\n1.69\n1.73",
+            "adr": "+13\n+6\n+7",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "28\n14\n14",
+            "fk": "211\n215\n207",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "274",
+            "name": "mina",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "1.15\n0.93\n1.38",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n8\n6\n\n/",
+            "deaths": "17\n7\n10",
+            "fk": "103\n81\n126",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "9\n3\n6",
+            "kills": "186",
+            "name": "zambie",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "0.98\n0.30\n1.67",
+            "adr": "-4\n-8\n+4",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "15\n2\n13",
+            "fk": "134\n55\n213",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "317",
+            "name": "Moechilla",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "0.90\n0.54\n1.25",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "109\n72\n147",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "10\n2\n8",
+            "kills": "233",
+            "name": "Kyro",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "0.72\n0.71\n0.73",
+            "adr": "-7\n-3\n-4",
+            "agent": "",
+            "assists": "/\n\n20\n10\n10\n\n/",
+            "deaths": "13\n7\n6",
+            "fk": "125\n124\n125",
+            "hs%": "71%\n67%\n75%",
+            "kdr": "8\n3\n5",
+            "kills": "158",
+            "name": "cevv",
+            "team": "OOKERS"
+          }
+        ],
+        [
+          {
+            "acs": "1.23\n0.70\n1.76",
+            "adr": "+5\n-3\n+8",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "20\n7\n13",
+            "fk": "146\n101\n191",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "7\n3\n4",
+            "kills": "311",
+            "name": "Imskiboski",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "1.08\n0.92\n1.23",
+            "adr": "+3\n0\n+3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "18\n9\n9",
+            "fk": "130\n127\n134",
+            "hs%": "75%\n67%\n83%",
+            "kdr": "6\n3\n3",
+            "kills": "187",
+            "name": "cruella",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "0.78\n0.53\n1.04",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "19\n9\n10",
+            "fk": "127\n121\n134",
+            "hs%": "71%\n50%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "226",
+            "name": "Cab8ts",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "0.78\n0.99\n0.57",
+            "adr": "-7\n-2\n-5",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "12\n9\n3",
+            "fk": "116\n158\n74",
+            "hs%": "67%\n67%\n67%",
+            "kdr": "11\n3\n8",
+            "kills": "111",
+            "name": "Bluebear",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "0.74\n0.35\n1.12",
+            "adr": "-4\n-6\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "112\n102\n123",
+            "hs%": "58%\n58%\n58%",
+            "kdr": "4\n4\n0",
+            "kills": "214",
+            "name": "Trademark",
+            "team": "Overstressed"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "248",
+          "name": "Reptar",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "289",
+          "name": "mina",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "281",
+          "name": "Kyro",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "139",
+          "name": "zambie",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "89",
+          "name": "cevv",
+          "team": "OOKERS"
+        },
+        {
+          "kills": "228",
+          "name": "Trademark",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "239",
+          "name": "Cab8ts",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "227",
+          "name": "cruella",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "189",
+          "name": "Bluebear",
+          "team": "Overstressed"
+        },
+        {
+          "kills": "136",
+          "name": "Imskiboski",
+          "team": "Overstressed"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Breeze",
+      "players": [
+        [
+          {
+            "acs": "1.35\n0.99\n1.74",
+            "adr": "+5\n0\n+5",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "139\n125\n154",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "4\n2\n2",
+            "kills": "248",
+            "name": "Reptar",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "1.29\n1.64\n0.91",
+            "adr": "+7\n+4\n+3",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "23\n14\n9",
+            "fk": "196\n250\n137",
+            "hs%": "78%\n67%\n91%",
+            "kdr": "5\n1\n4",
+            "kills": "289",
+            "name": "mina",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "1.24\n0.99\n1.51",
+            "adr": "+5\n-2\n+7",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "21\n6\n15",
+            "fk": "189\n119\n264",
+            "hs%": "70%\n67%\n73%",
+            "kdr": "7\n4\n3",
+            "kills": "281",
+            "name": "Kyro",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "0.67\n0.52\n0.83",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "114\n104\n125",
+            "hs%": "57%\n42%\n73%",
+            "kdr": "1\n1\n0",
+            "kills": "139",
+            "name": "zambie",
+            "team": "OOKERS"
+          },
+          {
+            "acs": "0.36\n0.31\n0.41",
+            "adr": "-13\n-7\n-6",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "5\n3\n2",
+            "fk": "59\n64\n54",
+            "hs%": "74%\n67%\n82%",
+            "kdr": "7\n3\n4",
+            "kills": "89",
+            "name": "cevv",
+            "team": "OOKERS"
+          }
+        ],
+        [
+          {
+            "acs": "1.07\n1.01\n1.13",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "160\n164\n157",
+            "hs%": "78%\n73%\n83%",
+            "kdr": "9\n5\n4",
+            "kills": "228",
+            "name": "Trademark",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "1.06\n0.81\n1.28",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "171\n156\n186",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "5\n2\n3",
+            "kills": "239",
+            "name": "Cab8ts",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "1.02\n0.56\n1.45",
+            "adr": "-1\n-5\n+4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "16\n5\n11",
+            "fk": "150\n93\n203",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "7\n3\n4",
+            "kills": "227",
+            "name": "cruella",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "0.96\n0.88\n1.03",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "104\n58\n146",
+            "hs%": "74%\n55%\n92%",
+            "kdr": "2\n1\n1",
+            "kills": "189",
+            "name": "Bluebear",
+            "team": "Overstressed"
+          },
+          {
+            "acs": "0.89\n0.98\n0.82",
+            "adr": "-1\n+1\n-2",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "94\n106\n84",
+            "hs%": "70%\n73%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "136",
+            "name": "Imskiboski",
+            "team": "Overstressed"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 23358,
+  "teams": [
+    "Overstressed",
+    "OOKERS"
+  ],
+  "tournament": "Series I: \n\t\t\t\t\t\tQuarterfinals"
+}

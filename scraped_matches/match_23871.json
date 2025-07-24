@@ -1,0 +1,788 @@
+{
+  "date": "2021-06-29 15:20:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "356",
+          "name": "Hardy",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "213",
+          "name": "Hugstar",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "171",
+          "name": "rizK",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "128",
+          "name": "fanCy",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "51",
+          "name": "Mavera",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "351",
+          "name": "GatsH",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "186",
+          "name": "TiduS",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "179",
+          "name": "PetitSkel",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "159",
+          "name": "mikee",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "192",
+          "name": "KONEQT",
+          "team": "Edelweiss Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.72\n1.34\n2.29",
+            "adr": "+12\n+3\n+9",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "26\n13\n13",
+            "fk": "206\n178\n248",
+            "hs%": "65%\n58%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "356",
+            "name": "Hardy",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.95\n1.20\n0.56",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "137\n167\n93",
+            "hs%": "60%\n67%\n50%",
+            "kdr": "4\n4\n0",
+            "kills": "213",
+            "name": "Hugstar",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.74\n0.53\n1.04",
+            "adr": "-4\n-5\n+1",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "11\n5\n6",
+            "fk": "105\n84\n138",
+            "hs%": "55%\n50%\n63%",
+            "kdr": "4\n3\n1",
+            "kills": "171",
+            "name": "rizK",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.67\n0.68\n0.66",
+            "adr": "-9\n-5\n-4",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "8\n5\n3",
+            "fk": "85\n66\n113",
+            "hs%": "65%\n58%\n75%",
+            "kdr": "8\n2\n6",
+            "kills": "128",
+            "name": "fanCy",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.37\n0.25\n0.57",
+            "adr": "-10\n-7\n-3",
+            "agent": "",
+            "assists": "/\n\n15\n9\n6\n\n/",
+            "deaths": "5\n2\n3",
+            "fk": "32\n18\n52",
+            "hs%": "65%\n75%\n50%",
+            "kdr": "5\n1\n4",
+            "kills": "51",
+            "name": "Mavera",
+            "team": "Average Joes"
+          }
+        ],
+        [
+          {
+            "acs": "1.49\n1.43\n1.53",
+            "adr": "+8\n+3\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n7\n8\n\n/",
+            "deaths": "23\n10\n13",
+            "fk": "199\n185\n208",
+            "hs%": "85%\n88%\n83%",
+            "kdr": "6\n2\n4",
+            "kills": "351",
+            "name": "GatsH",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "1.03\n1.14\n0.96",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n6\n6\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "143\n182\n117",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "4\n3\n1",
+            "kills": "186",
+            "name": "TiduS",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "1.02\n0.72\n1.22",
+            "adr": "+1\n-1\n+2",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "101\n41\n141",
+            "hs%": "65%\n63%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "179",
+            "name": "PetitSkel",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "0.90\n0.65\n1.07",
+            "adr": "+2\n-2\n+4",
+            "agent": "",
+            "assists": "/\n\n11\n6\n5\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "101\n66\n124",
+            "hs%": "80%\n63%\n92%",
+            "kdr": "3\n1\n2",
+            "kills": "159",
+            "name": "mikee",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "0.87\n0.56\n1.07",
+            "adr": "0\n-2\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n6\n8\n\n/",
+            "deaths": "14\n4\n10",
+            "fk": "132\n83\n165",
+            "hs%": "60%\n50%\n67%",
+            "kdr": "4\n0\n4",
+            "kills": "192",
+            "name": "KONEQT",
+            "team": "Edelweiss Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "274",
+          "name": "Hardy",
+          "team": null
+        },
+        {
+          "kills": "183",
+          "name": "Hugstar",
+          "team": null
+        },
+        {
+          "kills": "202",
+          "name": "rizK",
+          "team": null
+        },
+        {
+          "kills": "87",
+          "name": "fanCy",
+          "team": null
+        },
+        {
+          "kills": "124",
+          "name": "Mavera",
+          "team": null
+        },
+        {
+          "kills": "290",
+          "name": "GatsH",
+          "team": null
+        },
+        {
+          "kills": "199",
+          "name": "PetitSkel",
+          "team": null
+        },
+        {
+          "kills": "215",
+          "name": "mikee",
+          "team": null
+        },
+        {
+          "kills": "213",
+          "name": "TiduS",
+          "team": null
+        },
+        {
+          "kills": "117",
+          "name": "KONEQT",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.19\n1.40\n1.28",
+            "adr": "+20\n+9\n+11",
+            "agent": "",
+            "assists": "/\n\n47\n28\n19\n\n/",
+            "deaths": "67\n37\n30",
+            "fk": "152\n142\n163",
+            "hs%": "64%\n69%\n59%",
+            "kdr": "5\n2\n3",
+            "kills": "274",
+            "name": "Hardy",
+            "team": null
+          },
+          {
+            "acs": "0.81\n0.88\n0.84",
+            "adr": "-7\n-8\n+1",
+            "agent": "",
+            "assists": "/\n\n50\n28\n22\n\n/",
+            "deaths": "43\n20\n23",
+            "fk": "122\n122\n121",
+            "hs%": "61%\n54%\n69%",
+            "kdr": "11\n7\n4",
+            "kills": "183",
+            "name": "Hugstar",
+            "team": null
+          },
+          {
+            "acs": "0.91\n0.66\n0.78",
+            "adr": "-11\n-3\n-8",
+            "agent": "",
+            "assists": "/\n\n50\n27\n23\n\n/",
+            "deaths": "39\n24\n15",
+            "fk": "119\n125\n111",
+            "hs%": "55%\n54%\n55%",
+            "kdr": "13\n7\n6",
+            "kills": "202",
+            "name": "rizK",
+            "team": null
+          },
+          {
+            "acs": "0.44\n0.91\n0.66",
+            "adr": "-22\n-19\n-3",
+            "agent": "",
+            "assists": "/\n\n50\n29\n21\n\n/",
+            "deaths": "28\n10\n18",
+            "fk": "85\n56\n120",
+            "hs%": "63%\n60%\n66%",
+            "kdr": "15\n7\n8",
+            "kills": "87",
+            "name": "fanCy",
+            "team": null
+          },
+          {
+            "acs": "0.62\n0.64\n0.63",
+            "adr": "-19\n-8\n-11",
+            "agent": "",
+            "assists": "/\n\n47\n26\n21\n\n/",
+            "deaths": "28\n18\n10",
+            "fk": "68\n64\n74",
+            "hs%": "64%\n69%\n59%",
+            "kdr": "18\n8\n10",
+            "kills": "124",
+            "name": "Mavera",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n1.64\n1.51",
+            "adr": "+30\n+9\n+21",
+            "agent": "",
+            "assists": "/\n\n42\n20\n22\n\n/",
+            "deaths": "72\n29\n43",
+            "fk": "182\n159\n201",
+            "hs%": "81%\n83%\n80%",
+            "kdr": "10\n5\n5",
+            "kills": "290",
+            "name": "GatsH",
+            "team": null
+          },
+          {
+            "acs": "1.11\n1.16\n1.14",
+            "adr": "+11\n+1\n+10",
+            "agent": "",
+            "assists": "/\n\n39\n19\n20\n\n/",
+            "deaths": "50\n20\n30",
+            "fk": "142\n120\n160",
+            "hs%": "70%\n76%\n66%",
+            "kdr": "13\n6\n7",
+            "kills": "199",
+            "name": "PetitSkel",
+            "team": null
+          },
+          {
+            "acs": "1.27\n0.87\n1.05",
+            "adr": "+7\n+7\n0",
+            "agent": "",
+            "assists": "/\n\n36\n17\n19\n\n/",
+            "deaths": "43\n24\n19",
+            "fk": "120\n129\n112",
+            "hs%": "77%\n76%\n77%",
+            "kdr": "11\n6\n5",
+            "kills": "215",
+            "name": "mikee",
+            "team": null
+          },
+          {
+            "acs": "0.94\n0.85\n0.89",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "45\n21\n24",
+            "fk": "133\n139\n127",
+            "hs%": "72%\n66%\n77%",
+            "kdr": "14\n9\n5",
+            "kills": "213",
+            "name": "TiduS",
+            "team": null
+          },
+          {
+            "acs": "0.57\n0.88\n0.74",
+            "adr": "-10\n-11\n+1",
+            "agent": "",
+            "assists": "/\n\n44\n23\n21\n\n/",
+            "deaths": "34\n12\n22",
+            "fk": "106\n81\n127",
+            "hs%": "69%\n59%\n77%",
+            "kdr": "17\n6\n11",
+            "kills": "117",
+            "name": "KONEQT",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "201",
+          "name": "Hardy",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "279",
+          "name": "Hugstar",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "244",
+          "name": "rizK",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "137",
+          "name": "Mavera",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "148",
+          "name": "fanCy",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "300",
+          "name": "GatsH",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "252",
+          "name": "PetitSkel",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "232",
+          "name": "TiduS",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "112",
+          "name": "mikee",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "143",
+          "name": "KONEQT",
+          "team": "Edelweiss Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Split",
+      "players": [
+        [
+          {
+            "acs": "1.14\n1.45\n0.85",
+            "adr": "+5\n+5\n0",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "21\n12\n9",
+            "fk": "117\n117\n118",
+            "hs%": "65%\n73%\n58%",
+            "kdr": "3\n1\n2",
+            "kills": "201",
+            "name": "Hardy",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.98\n0.62\n1.31",
+            "adr": "0\n-3\n+3",
+            "agent": "",
+            "assists": "/\n\n17\n8\n9\n\n/",
+            "deaths": "17\n5\n12",
+            "fk": "138\n108\n165",
+            "hs%": "70%\n55%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "279",
+            "name": "Hugstar",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.96\n1.05\n0.88",
+            "adr": "0\n+1\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n7\n10\n\n/",
+            "deaths": "17\n8\n9",
+            "fk": "138\n110\n165",
+            "hs%": "61%\n45%\n75%",
+            "kdr": "6\n2\n4",
+            "kills": "244",
+            "name": "rizK",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.88\n0.88\n0.88",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "75\n43\n104",
+            "hs%": "65%\n64%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "137",
+            "name": "Mavera",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.57\n0.31\n0.82",
+            "adr": "-7\n-6\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n9\n8\n\n/",
+            "deaths": "10\n3\n7",
+            "fk": "79\n53\n102",
+            "hs%": "57%\n45%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "148",
+            "name": "fanCy",
+            "team": "Average Joes"
+          }
+        ],
+        [
+          {
+            "acs": "1.33\n1.38\n1.28",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "22\n11\n11",
+            "fk": "154\n184\n122",
+            "hs%": "78%\n83%\n73%",
+            "kdr": "2\n2\n0",
+            "kills": "300",
+            "name": "GatsH",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "1.16\n1.07\n1.26",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n9\n4\n\n/",
+            "deaths": "18\n8\n10",
+            "fk": "154\n140\n170",
+            "hs%": "65%\n75%\n55%",
+            "kdr": "3\n2\n1",
+            "kills": "252",
+            "name": "PetitSkel",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "0.96\n1.04\n0.86",
+            "adr": "+1\n-2\n+3",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "168\n197\n136",
+            "hs%": "78%\n75%\n82%",
+            "kdr": "6\n5\n1",
+            "kills": "232",
+            "name": "TiduS",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "0.90\n1.22\n0.54",
+            "adr": "-3\n+1\n-4",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "11\n8\n3",
+            "fk": "105\n118\n90",
+            "hs%": "70%\n83%\n55%",
+            "kdr": "6\n4\n2",
+            "kills": "112",
+            "name": "mikee",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "0.62\n0.64\n0.61",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "11\n6\n5",
+            "fk": "101\n104\n98",
+            "hs%": "65%\n58%\n73%",
+            "kdr": "7\n5\n2",
+            "kills": "143",
+            "name": "KONEQT",
+            "team": "Edelweiss Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "254",
+          "name": "Hardy",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "151",
+          "name": "fanCy",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "167",
+          "name": "rizK",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "154",
+          "name": "Mavera",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "162",
+          "name": "Hugstar",
+          "team": "Average Joes"
+        },
+        {
+          "kills": "339",
+          "name": "GatsH",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "250",
+          "name": "mikee",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "280",
+          "name": "PetitSkel",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "127",
+          "name": "KONEQT",
+          "team": "Edelweiss Esports"
+        },
+        {
+          "kills": "149",
+          "name": "TiduS",
+          "team": "Edelweiss Esports"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.03\n0.80\n1.35",
+            "adr": "+3\n+1\n+2",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "20\n12\n8",
+            "fk": "138\n130\n149",
+            "hs%": "62%\n75%\n44%",
+            "kdr": "0\n0\n0",
+            "kills": "254",
+            "name": "Hardy",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.73\n0.33\n1.26",
+            "adr": "-6\n-8\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "92\n49\n151",
+            "hs%": "67%\n75%\n56%",
+            "kdr": "4\n4\n0",
+            "kills": "151",
+            "name": "fanCy",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.63\n1.15\n0.02",
+            "adr": "-7\n+1\n-8",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "11\n11\n0",
+            "fk": "110\n181\n14",
+            "hs%": "48%\n67%\n22%",
+            "kdr": "3\n2\n1",
+            "kills": "167",
+            "name": "rizK",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.61\n0.77\n0.39",
+            "adr": "-7\n+1\n-8",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "11\n11\n0",
+            "fk": "95\n127\n53",
+            "hs%": "62%\n67%\n56%",
+            "kdr": "7\n3\n4",
+            "kills": "154",
+            "name": "Mavera",
+            "team": "Average Joes"
+          },
+          {
+            "acs": "0.59\n0.58\n0.60",
+            "adr": "-6\n-5\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "12\n6\n6",
+            "fk": "89\n91\n87",
+            "hs%": "52%\n42%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "162",
+            "name": "Hugstar",
+            "team": "Average Joes"
+          }
+        ],
+        [
+          {
+            "acs": "1.71\n1.23\n2.07",
+            "adr": "+15\n+3\n+12",
+            "agent": "",
+            "assists": "/\n\n12\n5\n7\n\n/",
+            "deaths": "27\n8\n19",
+            "fk": "196\n101\n267",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "339",
+            "name": "GatsH",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "1.36\n1.88\n0.98",
+            "adr": "+8\n+8\n0",
+            "agent": "",
+            "assists": "/\n\n11\n4\n7\n\n/",
+            "deaths": "19\n12\n7",
+            "fk": "154\n198\n121",
+            "hs%": "81%\n78%\n83%",
+            "kdr": "2\n1\n1",
+            "kills": "250",
+            "name": "mikee",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "1.24\n1.52\n1.02",
+            "adr": "+5\n+3\n+2",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "19\n8\n11",
+            "fk": "166\n163\n169",
+            "hs%": "81%\n89%\n75%",
+            "kdr": "6\n4\n2",
+            "kills": "280",
+            "name": "PetitSkel",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "0.75\n0.50\n0.93",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n13\n6\n7\n\n/",
+            "deaths": "9\n2\n7",
+            "fk": "86\n48\n115",
+            "hs%": "81%\n67%\n92%",
+            "kdr": "6\n1\n5",
+            "kills": "127",
+            "name": "KONEQT",
+            "team": "Edelweiss Esports"
+          },
+          {
+            "acs": "0.69\n0.62\n0.74",
+            "adr": "-1\n0\n-1",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "13\n5\n8",
+            "fk": "84\n25\n129",
+            "hs%": "67%\n56%\n75%",
+            "kdr": "4\n1\n3",
+            "kills": "149",
+            "name": "TiduS",
+            "team": "Edelweiss Esports"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 23871,
+  "teams": [
+    "Edelweiss Esports",
+    "Average Joes"
+  ],
+  "tournament": "Open Qualifier: \n\t\t\t\t\t\tRound of 32"
+}

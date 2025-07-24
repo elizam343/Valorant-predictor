@@ -1,0 +1,788 @@
+{
+  "date": "2021-04-29 06:00:00",
+  "map_stats": [
+    {
+      "flat_players": [
+        {
+          "kills": "226",
+          "name": "WEIRDO",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "228",
+          "name": "kawaii",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "171",
+          "name": "Smoggy",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "198",
+          "name": "FengF",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "126",
+          "name": "ICEKING",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "309",
+          "name": "unknown1",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "283",
+          "name": "yosemite",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "232",
+          "name": "Ninebody",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "185",
+          "name": "YiHao",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "167",
+          "name": "coldfish",
+          "team": "Suning Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Bind",
+      "players": [
+        [
+          {
+            "acs": "1.01\n0.78\n1.30",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "132\n113\n155",
+            "hs%": "77%\n67%\n90%",
+            "kdr": "9\n3\n6",
+            "kills": "226",
+            "name": "WEIRDO",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "0.96\n1.34\n0.50",
+            "adr": "0\n+2\n-2",
+            "agent": "",
+            "assists": "/\n\n18\n10\n8\n\n/",
+            "deaths": "18\n12\n6",
+            "fk": "162\n214\n99",
+            "hs%": "68%\n75%\n60%",
+            "kdr": "2\n1\n1",
+            "kills": "228",
+            "name": "kawaii",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "0.88\n0.71\n1.08",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n17\n11\n6\n\n/",
+            "deaths": "14\n7\n7",
+            "fk": "115\n99\n134",
+            "hs%": "55%\n50%\n60%",
+            "kdr": "3\n1\n2",
+            "kills": "171",
+            "name": "Smoggy",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "0.73\n0.53\n0.97",
+            "adr": "-5\n-5\n0",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "13\n6\n7",
+            "fk": "117\n101\n138",
+            "hs%": "64%\n58%\n70%",
+            "kdr": "6\n3\n3",
+            "kills": "198",
+            "name": "FengF",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "0.31\n0.07\n0.59",
+            "adr": "-11\n-9\n-2",
+            "agent": "",
+            "assists": "/\n\n20\n12\n8\n\n/",
+            "deaths": "9\n3\n6",
+            "fk": "79\n55\n107",
+            "hs%": "50%\n42%\n60%",
+            "kdr": "4\n2\n2",
+            "kills": "126",
+            "name": "ICEKING",
+            "team": "Weibo Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.63\n1.91\n1.40",
+            "adr": "+11\n+5\n+6",
+            "agent": "",
+            "assists": "/\n\n13\n5\n8\n\n/",
+            "deaths": "24\n10\n14",
+            "fk": "193\n185\n200",
+            "hs%": "73%\n80%\n67%",
+            "kdr": "10\n5\n5",
+            "kills": "309",
+            "name": "unknown1",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "1.41\n1.20\n1.60",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n14\n7\n7\n\n/",
+            "deaths": "20\n8\n12",
+            "fk": "183\n169\n194",
+            "hs%": "86%\n80%\n92%",
+            "kdr": "10\n5\n5",
+            "kills": "283",
+            "name": "yosemite",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "1.29\n1.32\n1.26",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n12\n7\n5\n\n/",
+            "deaths": "19\n10\n9",
+            "fk": "145\n148\n142",
+            "hs%": "91%\n90%\n92%",
+            "kdr": "4\n1\n3",
+            "kills": "232",
+            "name": "Ninebody",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "0.97\n0.70\n1.19",
+            "adr": "0\n-4\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "15\n4\n11",
+            "fk": "120\n68\n163",
+            "hs%": "86%\n70%\n100%",
+            "kdr": "3\n1\n2",
+            "kills": "185",
+            "name": "YiHao",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "0.70\n0.36\n0.99",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n16\n9\n7\n\n/",
+            "deaths": "14\n5\n9",
+            "fk": "107\n65\n142",
+            "hs%": "77%\n70%\n83%",
+            "kdr": "4\n2\n2",
+            "kills": "167",
+            "name": "coldfish",
+            "team": "Suning Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "233",
+          "name": "Smoggy",
+          "team": null
+        },
+        {
+          "kills": "200",
+          "name": "WEIRDO",
+          "team": null
+        },
+        {
+          "kills": "224",
+          "name": "kawaii",
+          "team": null
+        },
+        {
+          "kills": "127",
+          "name": "FengF",
+          "team": null
+        },
+        {
+          "kills": "146",
+          "name": "ICEKING",
+          "team": null
+        },
+        {
+          "kills": "277",
+          "name": "Ninebody",
+          "team": null
+        },
+        {
+          "kills": "185",
+          "name": "unknown1",
+          "team": null
+        },
+        {
+          "kills": "163",
+          "name": "coldfish",
+          "team": null
+        },
+        {
+          "kills": "171",
+          "name": "yosemite",
+          "team": null
+        },
+        {
+          "kills": "125",
+          "name": "YiHao",
+          "team": null
+        }
+      ],
+      "halftime_score": null,
+      "map": "",
+      "players": [
+        [
+          {
+            "acs": "1.03\n1.27\n1.14",
+            "adr": "+7\n-3\n+10",
+            "agent": "",
+            "assists": "/\n\n53\n33\n20\n\n/",
+            "deaths": "60\n30\n30",
+            "fk": "163\n152\n176",
+            "hs%": "68%\n67%\n70%",
+            "kdr": "12\n7\n5",
+            "kills": "233",
+            "name": "Smoggy",
+            "team": null
+          },
+          {
+            "acs": "0.95\n1.31\n1.12",
+            "adr": "+3\n-5\n+8",
+            "agent": "",
+            "assists": "/\n\n47\n29\n18\n\n/",
+            "deaths": "50\n24\n26",
+            "fk": "129\n121\n139",
+            "hs%": "79%\n78%\n80%",
+            "kdr": "22\n12\n10",
+            "kills": "200",
+            "name": "WEIRDO",
+            "team": null
+          },
+          {
+            "acs": "1.12\n1.06\n1.09",
+            "adr": "+6\n+1\n+5",
+            "agent": "",
+            "assists": "/\n\n44\n27\n17\n\n/",
+            "deaths": "50\n28\n22",
+            "fk": "138\n153\n121",
+            "hs%": "76%\n75%\n77%",
+            "kdr": "15\n8\n7",
+            "kills": "224",
+            "name": "kawaii",
+            "team": null
+          },
+          {
+            "acs": "0.43\n1.12\n0.74",
+            "adr": "-15\n-18\n+3",
+            "agent": "",
+            "assists": "/\n\n49\n30\n19\n\n/",
+            "deaths": "34\n12\n22",
+            "fk": "115\n87\n149",
+            "hs%": "62%\n53%\n73%",
+            "kdr": "17\n8\n9",
+            "kills": "127",
+            "name": "FengF",
+            "team": null
+          },
+          {
+            "acs": "0.46\n0.83\n0.63",
+            "adr": "-21\n-18\n-3",
+            "agent": "",
+            "assists": "/\n\n56\n35\n21\n\n/",
+            "deaths": "35\n17\n18",
+            "fk": "103\n97\n111",
+            "hs%": "64%\n56%\n73%",
+            "kdr": "15\n9\n6",
+            "kills": "146",
+            "name": "ICEKING",
+            "team": null
+          }
+        ],
+        [
+          {
+            "acs": "1.22\n1.47\n1.35",
+            "adr": "+21\n+8\n+13",
+            "agent": "",
+            "assists": "/\n\n43\n22\n21\n\n/",
+            "deaths": "64\n30\n34",
+            "fk": "180\n163\n193",
+            "hs%": "74%\n63%\n83%",
+            "kdr": "13\n2\n11",
+            "kills": "277",
+            "name": "Ninebody",
+            "team": null
+          },
+          {
+            "acs": "1.08\n1.06\n1.07",
+            "adr": "+6\n-1\n+7",
+            "agent": "",
+            "assists": "/\n\n47\n21\n26\n\n/",
+            "deaths": "53\n20\n33",
+            "fk": "133\n107\n155",
+            "hs%": "74%\n73%\n75%",
+            "kdr": "15\n8\n7",
+            "kills": "185",
+            "name": "unknown1",
+            "team": null
+          },
+          {
+            "acs": "0.64\n1.39\n1.05",
+            "adr": "+8\n-8\n+16",
+            "agent": "",
+            "assists": "/\n\n46\n26\n20\n\n/",
+            "deaths": "54\n18\n36",
+            "fk": "138\n92\n177",
+            "hs%": "76%\n70%\n81%",
+            "kdr": "20\n5\n15",
+            "kills": "163",
+            "name": "coldfish",
+            "team": null
+          },
+          {
+            "acs": "0.62\n1.00\n0.83",
+            "adr": "-9\n-11\n+2",
+            "agent": "",
+            "assists": "/\n\n48\n26\n22\n\n/",
+            "deaths": "39\n15\n24",
+            "fk": "118\n110\n125",
+            "hs%": "68%\n63%\n72%",
+            "kdr": "17\n9\n8",
+            "kills": "171",
+            "name": "yosemite",
+            "team": null
+          },
+          {
+            "acs": "0.56\n1.03\n0.82",
+            "adr": "-7\n-13\n+6",
+            "agent": "",
+            "assists": "/\n\n46\n26\n20\n\n/",
+            "deaths": "39\n13\n26",
+            "fk": "99\n85\n110",
+            "hs%": "76%\n63%\n86%",
+            "kdr": "17\n6\n11",
+            "kills": "125",
+            "name": "YiHao",
+            "team": null
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "346",
+          "name": "Smoggy",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "195",
+          "name": "kawaii",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "184",
+          "name": "WEIRDO",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "227",
+          "name": "FengF",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "181",
+          "name": "ICEKING",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "323",
+          "name": "Ninebody",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "285",
+          "name": "coldfish",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "215",
+          "name": "unknown1",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "157",
+          "name": "yosemite",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "115",
+          "name": "YiHao",
+          "team": "Suning Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Haven",
+      "players": [
+        [
+          {
+            "acs": "1.35\n1.23\n1.54",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "22\n12\n10",
+            "fk": "194\n175\n222",
+            "hs%": "80%\n75%\n88%",
+            "kdr": "3\n2\n1",
+            "kills": "346",
+            "name": "Smoggy",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "1.11\n1.22\n0.95",
+            "adr": "+4\n+3\n+1",
+            "agent": "",
+            "assists": "/\n\n11\n7\n4\n\n/",
+            "deaths": "15\n10\n5",
+            "fk": "103\n127\n69",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "5\n3\n2",
+            "kills": "195",
+            "name": "kawaii",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "1.06\n1.03\n1.10",
+            "adr": "+1\n0\n+1",
+            "agent": "",
+            "assists": "/\n\n12\n8\n4\n\n/",
+            "deaths": "13\n8\n5",
+            "fk": "108\n130\n74",
+            "hs%": "75%\n75%\n75%",
+            "kdr": "7\n4\n3",
+            "kills": "184",
+            "name": "WEIRDO",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "0.92\n0.64\n1.33",
+            "adr": "-2\n-4\n+2",
+            "agent": "",
+            "assists": "/\n\n13\n8\n5\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "128\n118\n144",
+            "hs%": "75%\n67%\n88%",
+            "kdr": "7\n4\n3",
+            "kills": "227",
+            "name": "FengF",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "0.79\n0.78\n0.82",
+            "adr": "-4\n-3\n-1",
+            "agent": "",
+            "assists": "/\n\n18\n12\n6\n\n/",
+            "deaths": "14\n9\n5",
+            "fk": "131\n143\n113",
+            "hs%": "75%\n83%\n63%",
+            "kdr": "7\n5\n2",
+            "kills": "181",
+            "name": "ICEKING",
+            "team": "Weibo Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.46\n1.31\n1.57",
+            "adr": "+7\n+3\n+4",
+            "agent": "",
+            "assists": "/\n\n14\n5\n9\n\n/",
+            "deaths": "21\n8\n13",
+            "fk": "198\n155\n227",
+            "hs%": "55%\n50%\n58%",
+            "kdr": "3\n0\n3",
+            "kills": "323",
+            "name": "Ninebody",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "1.07\n0.85\n1.21",
+            "adr": "0\n-1\n+1",
+            "agent": "",
+            "assists": "/\n\n16\n7\n9\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "155\n114\n182",
+            "hs%": "70%\n75%\n67%",
+            "kdr": "10\n1\n9",
+            "kills": "285",
+            "name": "coldfish",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "0.86\n0.76\n0.93",
+            "adr": "-2\n-2\n0",
+            "agent": "",
+            "assists": "/\n\n15\n6\n9\n\n/",
+            "deaths": "13\n4\n9",
+            "fk": "106\n69\n131",
+            "hs%": "70%\n63%\n75%",
+            "kdr": "2\n1\n1",
+            "kills": "215",
+            "name": "unknown1",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "0.69\n0.51\n0.82",
+            "adr": "-4\n-4\n0",
+            "agent": "",
+            "assists": "/\n\n15\n8\n7\n\n/",
+            "deaths": "11\n4\n7",
+            "fk": "94\n93\n94",
+            "hs%": "60%\n50%\n67%",
+            "kdr": "3\n1\n2",
+            "kills": "157",
+            "name": "yosemite",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "0.41\n0.21\n0.54",
+            "adr": "-8\n-6\n-2",
+            "agent": "",
+            "assists": "/\n\n16\n8\n8\n\n/",
+            "deaths": "8\n2\n6",
+            "fk": "56\n39\n68",
+            "hs%": "50%\n38%\n58%",
+            "kdr": "2\n1\n1",
+            "kills": "115",
+            "name": "YiHao",
+            "team": "Suning Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    },
+    {
+      "flat_players": [
+        {
+          "kills": "249",
+          "name": "WEIRDO",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "282",
+          "name": "Smoggy",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "216",
+          "name": "kawaii",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "138",
+          "name": "ICEKING",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "147",
+          "name": "FengF",
+          "team": "Weibo Gaming"
+        },
+        {
+          "kills": "263",
+          "name": "coldfish",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "300",
+          "name": "Ninebody",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "191",
+          "name": "YiHao",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "177",
+          "name": "unknown1",
+          "team": "Suning Gaming"
+        },
+        {
+          "kills": "113",
+          "name": "yosemite",
+          "team": "Suning Gaming"
+        }
+      ],
+      "halftime_score": null,
+      "map": "Ascent",
+      "players": [
+        [
+          {
+            "acs": "1.25\n1.04\n1.47",
+            "adr": "+5\n-1\n+6",
+            "agent": "",
+            "assists": "/\n\n16\n10\n6\n\n/",
+            "deaths": "21\n9\n12",
+            "fk": "144\n120\n168",
+            "hs%": "83%\n92%\n75%",
+            "kdr": "6\n5\n1",
+            "kills": "249",
+            "name": "WEIRDO",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "1.20\n1.16\n1.25",
+            "adr": "+3\n-1\n+4",
+            "agent": "",
+            "assists": "/\n\n21\n12\n9\n\n/",
+            "deaths": "24\n11\n13",
+            "fk": "182\n183\n181",
+            "hs%": "71%\n75%\n67%",
+            "kdr": "6\n4\n2",
+            "kills": "282",
+            "name": "Smoggy",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "1.20\n0.80\n1.61",
+            "adr": "+2\n-4\n+6",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "17\n6\n11",
+            "fk": "145\n117\n174",
+            "hs%": "83%\n75%\n92%",
+            "kdr": "8\n4\n4",
+            "kills": "216",
+            "name": "kawaii",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "0.78\n0.53\n1.03",
+            "adr": "-6\n-6\n0",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "12\n5\n7",
+            "fk": "103\n93\n114",
+            "hs%": "67%\n42%\n92%",
+            "kdr": "4\n2\n2",
+            "kills": "138",
+            "name": "ICEKING",
+            "team": "Weibo Gaming"
+          },
+          {
+            "acs": "0.61\n0.11\n1.11",
+            "adr": "-8\n-9\n+1",
+            "agent": "",
+            "assists": "/\n\n18\n11\n7\n\n/",
+            "deaths": "10\n2\n8",
+            "fk": "103\n43\n162",
+            "hs%": "50%\n33%\n67%",
+            "kdr": "4\n1\n3",
+            "kills": "147",
+            "name": "FengF",
+            "team": "Weibo Gaming"
+          }
+        ],
+        [
+          {
+            "acs": "1.35\n0.73\n1.98",
+            "adr": "+10\n-3\n+13",
+            "agent": "",
+            "assists": "/\n\n14\n10\n4\n\n/",
+            "deaths": "24\n7\n17",
+            "fk": "153\n101\n206",
+            "hs%": "79%\n67%\n92%",
+            "kdr": "6\n2\n4",
+            "kills": "263",
+            "name": "coldfish",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "1.33\n1.07\n1.58",
+            "adr": "+7\n+2\n+5",
+            "agent": "",
+            "assists": "/\n\n17\n10\n7\n\n/",
+            "deaths": "24\n12\n12",
+            "fk": "196\n182\n210",
+            "hs%": "75%\n50%\n100%",
+            "kdr": "6\n1\n5",
+            "kills": "300",
+            "name": "Ninebody",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "1.02\n0.69\n1.34",
+            "adr": "+1\n-3\n+4",
+            "agent": "",
+            "assists": "/\n\n15\n10\n5\n\n/",
+            "deaths": "16\n7\n9",
+            "fk": "115\n131\n99",
+            "hs%": "88%\n75%\n100%",
+            "kdr": "12\n4\n8",
+            "kills": "191",
+            "name": "YiHao",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "0.73\n0.61\n0.85",
+            "adr": "-3\n-4\n+1",
+            "agent": "",
+            "assists": "/\n\n19\n10\n9\n\n/",
+            "deaths": "16\n6\n10",
+            "fk": "100\n67\n133",
+            "hs%": "79%\n75%\n83%",
+            "kdr": "3\n2\n1",
+            "kills": "177",
+            "name": "unknown1",
+            "team": "Suning Gaming"
+          },
+          {
+            "acs": "0.40\n0.20\n0.59",
+            "adr": "-11\n-8\n-3",
+            "agent": "",
+            "assists": "/\n\n19\n11\n8\n\n/",
+            "deaths": "8\n3\n5",
+            "fk": "78\n71\n86",
+            "hs%": "58%\n58%\n58%",
+            "kdr": "4\n3\n1",
+            "kills": "113",
+            "name": "yosemite",
+            "team": "Suning Gaming"
+          }
+        ]
+      ],
+      "round_results": [],
+      "total_score": null
+    }
+  ],
+  "maps": [],
+  "match_id": 18147,
+  "teams": [
+    "Suning Gaming",
+    "Weibo Gaming"
+  ],
+  "tournament": "Playoffs: \n\t\t\t\t\t\tUpper Quarterfinals"
+}
