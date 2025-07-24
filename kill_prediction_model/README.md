@@ -37,6 +37,39 @@ pip install -r requirements.txt
 
 2. Make sure your Valorant player database is accessible from the Scraper folder.
 
+## Windows Setup Instructions
+
+1. **Clone the repository:**
+   ```
+   git clone git@github.com:elizam343/Valorant-predictor.git
+   cd Valorant-predictor
+   ```
+2. **Install Python (3.8+ recommended) and pip if not already installed.**
+3. **Install dependencies:**
+   ```
+   pip install -r kill_prediction_model/requirements.txt
+   pip install -r Scraper/requirements.txt
+   ```
+4. **Transfer your database file** (`valorant_matches.db`) to the `Scraper/` directory:
+   - Place it at: `Scraper/valorant_matches.db`
+   - You can use Google Drive, OneDrive, or a USB drive for the transfer.
+5. **(Optional) Install VSCode or Cursor and recommended extensions** (see earlier in this chat for a list).
+
+## Training the Model with the New Dataset
+
+After transferring your database and setting up your environment, you can train the model using the new, large dataset:
+
+```
+python kill_prediction_model/gpu_trainer.py
+```
+
+- By default, this will use all available data in the database.
+- You can limit the number of matches for a test run with:
+  ```
+  python kill_prediction_model/gpu_trainer.py --limit-matches 1000
+  ```
+- The trained model and training report will be saved in `kill_prediction_model/models/`.
+
 ## Series-Level Data Pipeline (New)
 
 The new pipeline aggregates player stats per match (series), capturing:
@@ -104,6 +137,11 @@ No change, but now the model expects series-level aggregation. See the new data 
 
 - If you see errors about missing directories, ensure `kill_prediction_model/models/` exists.
 - If you see NaN predictions, check that the player and match context exist in your data and that all features are present.
+- If you encounter errors about missing dependencies, double-check your Python and pip installation.
+- If you see database errors, ensure the `.db` file is in the correct location and not open in another program.
+
+## Next Steps
+- After training, you can use the prediction scripts in `kill_prediction_model/` to evaluate or deploy your model.
 
 ## Future Enhancements
 
