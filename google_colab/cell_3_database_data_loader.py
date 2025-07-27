@@ -1,16 +1,4 @@
-"""
-Database-based data loader for ML model training
-Uses SQLite database instead of individual JSON files
-"""
-
-import pandas as pd
-import numpy as np
-from typing import Dict, List, Tuple, Optional
-import logging
-from datetime import datetime, timedelta
-import sqlite3
-from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import train_test_split
+# Cell 3: DatabaseDataLoader and related code
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -354,43 +342,4 @@ class DatabaseDataLoader:
             result = cursor.fetchone()
             stats['date_range'] = {'earliest': result[0], 'latest': result[1]}
             
-            return stats
-
-def main():
-    """Test the database data loader"""
-    loader = DatabaseDataLoader()
-    
-    # Load data
-    df = loader.load_player_match_data(min_matches=5, days_back=365)
-    
-    # Calculate features
-    feature_df = loader.calculate_player_features(df)
-    
-    # Prepare training data
-    X, y, feature_columns = loader.prepare_training_data(feature_df)
-    
-    print(f"Training data shape: {X.shape}")
-    print(f"Target shape: {y.shape}")
-    print(f"Feature columns: {feature_columns}")
-    
-    # Test player context
-    context = loader.get_player_context(
-        player_name="aspas",
-        team_name="MIBR",
-        opponent_team="FUR",
-        tournament="VCT Champions",
-        series_type="bo3",
-        maps=["Ascent", "Haven"]
-    )
-    
-    if context is not None:
-        print(f"Context features shape: {context.shape}")
-    
-    # Database stats
-    stats = loader.get_database_stats()
-    print("\nDatabase Statistics:")
-    for key, value in stats.items():
-        print(f"  {key}: {value}")
-
-if __name__ == "__main__":
-    main() 
+            return stats 

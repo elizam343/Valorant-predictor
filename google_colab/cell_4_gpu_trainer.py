@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# ... (Paste all of gpu_trainer.py here, but remove import statements, argparse, main, and torch_directml usage. Set device = torch.device("cuda" if torch.cuda.is_available() else "cpu") ) ... #!/usr/bin/env python3
 """
 GPU-Accelerated Kill Prediction Trainer
 Uses PyTorch for faster training on GPU
@@ -129,8 +129,7 @@ class GPUTrainer:
         y_test_tensor = torch.FloatTensor(y_test).to(device)
         return X_train_tensor, y_train_tensor, X_test_tensor, y_test_tensor
     
-    def train_neural_network(self, X_train: torch.Tensor, y_train: torch.Tensor, 
-                           X_test: torch.Tensor, y_test: torch.Tensor, X_df: pd.DataFrame) -> Dict:
+    def train_neural_network(self, X_train, y_train, X_test, y_test, feature_columns):
         """Train neural network on GPU"""
         print("\n=== Training Neural Network on GPU ===")
         
@@ -215,7 +214,7 @@ class GPUTrainer:
         print(f"\nFinal Results:")
         print(f"MSE: {mse:.6f}")
         print(f"MAE: {mae:.6f}")
-        print(f"R²: {r2:.6f}")
+        print(f"R2: {r2:.6f}")
         
         return {
             'model': model,
@@ -223,11 +222,11 @@ class GPUTrainer:
             'mse': mse,
             'mae': mae,
             'r2': r2,
-            'feature_columns': list(X_df.columns),
+            'feature_columns': feature_columns,
             'train_losses': train_losses,
             'val_losses': val_losses
         }
-    
+
     def train_all_models(self, limit_matches: int = None):
         """Train all models using GPU acceleration"""
         print("=== GPU-Accelerated Kill Prediction Training ===")
@@ -236,14 +235,12 @@ class GPUTrainer:
         X_train, y_train, X_test, y_test = self.prepare_data(limit_matches)
         
         # Get original X dataframe for feature columns
-        # loader = EnhancedDataLoader() # This line is no longer needed as data is loaded directly
-        # X, y = loader.prepare_training_data(limit_matches=limit_matches) # This line is no longer needed
         X = self.data_loader.load_player_match_data() # Load data directly from DB
         X = self.data_loader.calculate_player_features(X) # Calculate features
         X, y, feature_columns = self.data_loader.prepare_training_data(X) # Prepare features and target
 
         # Train neural network
-        nn_result = self.train_neural_network(X_train, y_train, X_test, y_test, X)
+        nn_result = self.train_neural_network(X_train, y_train, X_test, y_test, feature_columns)
         self.results['neural_network'] = nn_result
         
         # Save models
@@ -306,7 +303,7 @@ class GPUTrainer:
         # Print summary
         print("\n=== Training Summary ===")
         for model_name, perf in report['model_performance'].items():
-            print(f"{model_name}: MSE={perf['mse']:.6f}, MAE={perf['mae']:.6f}, R²={perf['r2']:.6f}")
+            print(f"{model_name}: MSE={perf['mse']:.6f}, MAE={perf['mae']:.6f}, R2={perf['r2']:.6f}")
 
 def main():
     parser = argparse.ArgumentParser(description='GPU-Accelerated Kill Prediction Training')

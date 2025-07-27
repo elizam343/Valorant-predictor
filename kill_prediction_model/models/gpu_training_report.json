@@ -1,15 +1,15 @@
 {
   "training_info": {
-    "device_used": "cpu",
+    "device_used": "privateuseone:0",
     "models_trained": [
       "neural_network"
     ]
   },
   "model_performance": {
     "neural_network": {
-      "mse": 16158.5986328125,
-      "mae": 125.67963409423828,
-      "r2": 0.15844255685806274
+      "mse": 36146.125,
+      "mae": 13.102252006530762,
+      "r2": -1.131124496459961
     }
   }
 }

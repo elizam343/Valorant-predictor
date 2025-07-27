@@ -215,7 +215,7 @@ class GPUTrainer:
         print(f"\nFinal Results:")
         print(f"MSE: {mse:.6f}")
         print(f"MAE: {mae:.6f}")
-        print(f"R²: {r2:.6f}")
+        print(f"R2: {r2:.6f}")
         
         return {
             'model': model,
@@ -306,7 +306,7 @@ class GPUTrainer:
         # Print summary
         print("\n=== Training Summary ===")
         for model_name, perf in report['model_performance'].items():
-            print(f"{model_name}: MSE={perf['mse']:.6f}, MAE={perf['mae']:.6f}, R²={perf['r2']:.6f}")
+            print(f"{model_name}: MSE={perf['mse']:.6f}, MAE={perf['mae']:.6f}, R2={perf['r2']:.6f}")
 
 def main():
     parser = argparse.ArgumentParser(description='GPU-Accelerated Kill Prediction Training')

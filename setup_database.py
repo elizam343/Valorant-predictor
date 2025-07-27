@@ -9,6 +9,7 @@ import sys
 import argparse
 import logging
 from pathlib import Path
+import sqlite3
 
 # Add Scraper to path
 sys.path.append('Scraper')
@@ -18,6 +19,33 @@ from Scraper.migrate_json_to_db import JSONToDatabaseMigrator
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
+
+def ensure_players_table_columns(db_path):
+    required_columns = [
+        ('team', 'TEXT'),
+        ('rating', 'REAL'),
+        ('average_combat_score', 'REAL'),
+        ('kill_deaths', 'REAL'),
+        ('kill_assists_survived_traded', 'REAL'),
+        ('average_damage_per_round', 'REAL'),
+        ('kills_per_round', 'REAL'),
+        ('assists_per_round', 'REAL'),
+        ('first_kills_per_round', 'REAL'),
+        ('first_deaths_per_round', 'REAL'),
+        ('headshot_percentage', 'REAL'),
+        ('clutch_success_percentage', 'REAL'),
+    ]
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+    cursor.execute("PRAGMA table_info(players);")
+    existing_columns = [row[1] for row in cursor.fetchall()]
+    for col, col_type in required_columns:
+        if col not in existing_columns:
+            print(f"Adding missing column '{col}' to players table...")
+            cursor.execute(f"ALTER TABLE players ADD COLUMN {col} {col_type}")
+    conn.commit()
+    conn.close()
+    print("Players table schema is up to date.")
 
 def setup_database(json_dir: str = "scraped_matches", db_path: str = "Scraper/valorant_matches.db"):
     """Set up the database and migrate JSON files"""
@@ -250,4 +278,6 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
+    db_path = "Scraper/valorant_matches.db"
+    ensure_players_table_columns(db_path)
     main() 
