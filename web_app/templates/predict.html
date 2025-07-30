@@ -1,0 +1,799 @@
+{% extends "base.html" %}
+
+{% block title %}Make Prediction - Valorant Kill Predictor{% endblock %}
+
+{% block extra_css %}
+<style>
+    .prediction-form {
+        max-width: 600px;
+        margin: 0 auto;
+        background: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    .form-group {
+        margin-bottom: 20px;
+    }
+    
+    .autocomplete-container {
+        position: relative;
+    }
+    
+    .autocomplete-suggestions {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: white;
+        border: 1px solid #ddd;
+        border-top: none;
+        border-radius: 0 0 5px 5px;
+        max-height: 200px;
+        overflow-y: auto;
+        z-index: 1000;
+        display: none;
+    }
+    
+    .autocomplete-suggestion {
+        padding: 10px;
+        cursor: pointer;
+        border-bottom: 1px solid #eee;
+    }
+    
+    .autocomplete-suggestion:hover {
+        background-color: #f8f9fa;
+    }
+    
+    .autocomplete-suggestion:last-child {
+        border-bottom: none;
+    }
+    
+    .prediction-result {
+        margin-top: 30px;
+        padding: 25px;
+        border-radius: 10px;
+        display: none;
+    }
+    
+    .result-success {
+        background-color: #d4edda;
+        border: 1px solid #c3e6cb;
+        color: #155724;
+    }
+    
+    .result-error {
+        background-color: #f8d7da;
+        border: 1px solid #f5c6cb;
+        color: #721c24;
+    }
+    
+    .prediction-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    
+    .predicted-kills {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #007bff;
+    }
+    
+    .confidence-badge {
+        padding: 5px 15px;
+        border-radius: 20px;
+        font-weight: bold;
+        font-size: 0.9rem;
+    }
+    
+    .confidence-high {
+        background-color: #28a745;
+        color: white;
+    }
+    
+    .confidence-medium {
+        background-color: #ffc107;
+        color: #212529;
+    }
+    
+    .confidence-low {
+        background-color: #dc3545;
+        color: white;
+    }
+    
+    .recommendation {
+        padding: 15px;
+        border-radius: 8px;
+        margin: 15px 0;
+        font-weight: bold;
+        text-align: center;
+        font-size: 1.1rem;
+    }
+    
+    .recommendation-over {
+        background-color: #d4edda;
+        border: 2px solid #28a745;
+        color: #155724;
+    }
+    
+    .recommendation-under {
+        background-color: #fff3cd;
+        border: 2px solid #ffc107;
+        color: #856404;
+    }
+    
+    .recommendation-unsure {
+        background-color: #f8d7da;
+        border: 2px solid #dc3545;
+        color: #721c24;
+    }
+    
+    .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 15px;
+        margin: 20px 0;
+    }
+    
+    .stat-item {
+        background-color: #f8f9fa;
+        padding: 15px;
+        border-radius: 8px;
+        text-align: center;
+    }
+    
+    .stat-value {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #007bff;
+    }
+    
+    .stat-label {
+        font-size: 0.9rem;
+        color: #6c757d;
+        margin-top: 5px;
+    }
+    
+    .loading {
+        text-align: center;
+        padding: 20px;
+    }
+    
+    .spinner-border {
+        width: 3rem;
+        height: 3rem;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <h1 class="text-center mb-4">
+                <i class="fas fa-crosshairs"></i> Kill Prediction
+            </h1>
+            <p class="text-center text-muted mb-5">
+                Get AI-powered kill predictions for Valorant players with confidence analysis
+            </p>
+        </div>
+    </div>
+    
+    <div class="prediction-form">
+        <form id="predictionForm">
+            <div class="form-group">
+                <label for="playerName" class="form-label">
+                    <i class="fas fa-user"></i> Player Name *
+                </label>
+                <div class="autocomplete-container">
+                    <input type="text" 
+                           class="form-control" 
+                           id="playerName" 
+                           name="player_name"
+                           placeholder="Enter player name (e.g., TenZ, s1mple)"
+                           required
+                           autocomplete="off">
+                    <div id="playerSuggestions" class="autocomplete-suggestions"></div>
+                </div>
+                <div class="form-text">Start typing to see player suggestions</div>
+            </div>
+            
+            <div class="form-group">
+                <label class="form-label">
+                    <i class="fas fa-target"></i> Prediction Type *
+                </label>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="prediction_type" id="singleMap" value="single" checked>
+                            <label class="form-check-label" for="singleMap">
+                                Single Map
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="prediction_type" id="firstTwoMaps" value="series_2">
+                            <label class="form-check-label" for="firstTwoMaps">
+                                First 2 Maps
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="prediction_type" id="firstThreeMaps" value="series_3">
+                            <label class="form-check-label" for="firstThreeMaps">
+                                First 3 Maps
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Series Maps Selection (hidden by default) -->
+            <div id="seriesMapsSection" class="form-group" style="display: none;">
+                <label class="form-label">
+                    <i class="fas fa-list"></i> Series Maps (Optional)
+                </label>
+                <div class="row" id="mapsSelectionContainer">
+                    <div class="col-md-6 mb-2">
+                        <select class="form-control map-select" data-map-number="1">
+                            <option value="">Map 1 (Auto)</option>
+                            <option value="Ascent">Ascent</option>
+                            <option value="Bind">Bind</option>
+                            <option value="Breeze">Breeze</option>
+                            <option value="Fracture">Fracture</option>
+                            <option value="Haven">Haven</option>
+                            <option value="Icebox">Icebox</option>
+                            <option value="Lotus">Lotus</option>
+                            <option value="Pearl">Pearl</option>
+                            <option value="Split">Split</option>
+                            <option value="Sunset">Sunset</option>
+                        </select>
+                    </div>
+                    <div class="col-md-6 mb-2">
+                        <select class="form-control map-select" data-map-number="2">
+                            <option value="">Map 2 (Auto)</option>
+                            <option value="Ascent">Ascent</option>
+                            <option value="Bind">Bind</option>
+                            <option value="Breeze">Breeze</option>
+                            <option value="Fracture">Fracture</option>
+                            <option value="Haven">Haven</option>
+                            <option value="Icebox">Icebox</option>
+                            <option value="Lotus">Lotus</option>
+                            <option value="Pearl">Pearl</option>
+                            <option value="Split">Split</option>
+                            <option value="Sunset">Sunset</option>
+                        </select>
+                    </div>
+                    <div class="col-md-6 mb-2" id="map3Container" style="display: none;">
+                        <select class="form-control map-select" data-map-number="3">
+                            <option value="">Map 3 (Auto)</option>
+                            <option value="Ascent">Ascent</option>
+                            <option value="Bind">Bind</option>
+                            <option value="Breeze">Breeze</option>
+                            <option value="Fracture">Fracture</option>
+                            <option value="Haven">Haven</option>
+                            <option value="Icebox">Icebox</option>
+                            <option value="Lotus">Lotus</option>
+                            <option value="Pearl">Pearl</option>
+                            <option value="Split">Split</option>
+                            <option value="Sunset">Sunset</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-text">Leave maps as "Auto" to use average performance across all maps</div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="opponentTeam" class="form-label">
+                            <i class="fas fa-users"></i> Opponent Team
+                        </label>
+                        <input type="text" 
+                               class="form-control" 
+                               id="opponentTeam" 
+                               name="opponent_team"
+                               placeholder="e.g., Team Liquid, Fnatic">
+                    </div>
+                </div>
+                
+                <div class="col-md-6" id="singleMapContainer">
+                    <div class="form-group">
+                        <label for="mapName" class="form-label">
+                            <i class="fas fa-map"></i> Map
+                        </label>
+                        <select class="form-control" id="mapName" name="map_name">
+                            <option value="">Any Map</option>
+                            <option value="Ascent">Ascent</option>
+                            <option value="Bind">Bind</option>
+                            <option value="Breeze">Breeze</option>
+                            <option value="Fracture">Fracture</option>
+                            <option value="Haven">Haven</option>
+                            <option value="Icebox">Icebox</option>
+                            <option value="Lotus">Lotus</option>
+                            <option value="Pearl">Pearl</option>
+                            <option value="Split">Split</option>
+                            <option value="Sunset">Sunset</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="seriesType" class="form-label">
+                            <i class="fas fa-trophy"></i> Series Type
+                        </label>
+                        <select class="form-control" id="seriesType" name="series_type">
+                            <option value="bo3">Best of 3 (BO3)</option>
+                            <option value="bo1">Best of 1 (BO1)</option>
+                            <option value="bo5">Best of 5 (BO5)</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="tournament" class="form-label">
+                            <i class="fas fa-medal"></i> Tournament Tier
+                        </label>
+                        <select class="form-control" id="tournament" name="tournament">
+                            <option value="regional">Regional</option>
+                            <option value="masters">Masters</option>
+                            <option value="champions">Champions</option>
+                            <option value="qualifier">Qualifier</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label for="killLine" class="form-label">
+                    <i class="fas fa-bullseye"></i> Kill Line (Optional)
+                </label>
+                <input type="number" 
+                       class="form-control" 
+                       id="killLine" 
+                       name="kill_line"
+                       step="0.5"
+                       min="0"
+                       max="40"
+                       placeholder="e.g., 15.5">
+                <div class="form-text">Enter the bookmaker's kill line to get over/under recommendation</div>
+            </div>
+            
+            <button type="submit" class="btn btn-primary btn-lg w-100 mt-3">
+                <i class="fas fa-magic"></i> Predict Kills
+            </button>
+        </form>
+    </div>
+    
+    <!-- Loading indicator -->
+    <div id="loadingIndicator" class="loading" style="display: none;">
+        <div class="spinner-border text-primary" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+        <p class="mt-3">Analyzing player data and generating prediction...</p>
+    </div>
+    
+    <!-- Results area -->
+    <div id="predictionResult" class="prediction-result">
+        <!-- Results will be populated by JavaScript -->
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+$(document).ready(function() {
+    let suggestionTimeout;
+    
+    // Player autocomplete
+    $('#playerName').on('input', function() {
+        clearTimeout(suggestionTimeout);
+        const query = $(this).val().trim();
+        
+        if (query.length < 2) {
+            $('#playerSuggestions').hide();
+            return;
+        }
+        
+        suggestionTimeout = setTimeout(function() {
+            $.get('/api/search_players', { q: query })
+                .done(function(players) {
+                    if (players.length > 0) {
+                        let html = '';
+                        players.forEach(function(player) {
+                            html += `<div class="autocomplete-suggestion" data-player="${player}">${player}</div>`;
+                        });
+                        $('#playerSuggestions').html(html).show();
+                    } else {
+                        $('#playerSuggestions').hide();
+                    }
+                })
+                .fail(function() {
+                    $('#playerSuggestions').hide();
+                });
+        }, 300);
+    });
+    
+    // Handle suggestion clicks
+    $(document).on('click', '.autocomplete-suggestion', function() {
+        const playerName = $(this).data('player');
+        $('#playerName').val(playerName);
+        $('#playerSuggestions').hide();
+    });
+    
+    // Hide suggestions when clicking outside
+    $(document).on('click', function(e) {
+        if (!$(e.target).closest('.autocomplete-container').length) {
+            $('#playerSuggestions').hide();
+        }
+    });
+    
+    // Prediction type radio buttons
+    $('input[name="prediction_type"]').on('change', function() {
+        const predictionType = $(this).val();
+        
+        if (predictionType === 'single') {
+            $('#seriesMapsSection').hide();
+            $('#singleMapContainer').show();
+            $('#map3Container').hide();
+        } else if (predictionType === 'series_2') {
+            $('#seriesMapsSection').show();
+            $('#singleMapContainer').hide();
+            $('#map3Container').hide();
+        } else if (predictionType === 'series_3') {
+            $('#seriesMapsSection').show();
+            $('#singleMapContainer').hide();
+            $('#map3Container').show();
+        }
+    });
+    
+    // Series maps selection
+    $(document).on('change', '.map-select', function() {
+        const mapNumber = $(this).data('map-number');
+        const selectedMap = $(this).val();
+
+        if (selectedMap === '') {
+            $(`#map${mapNumber}Container`).hide();
+            $(`#map${mapNumber}Container select`).prop('required', false);
+            $(`#map${mapNumber}Container select`).val('');
+        } else {
+            $(`#map${mapNumber}Container`).show();
+            $(`#map${mapNumber}Container select`).prop('required', true);
+        }
+    });
+
+    // Form submission
+    $('#predictionForm').on('submit', function(e) {
+        e.preventDefault();
+        
+        const formData = {
+            player_name: $('#playerName').val().trim(),
+            prediction_type: $('input[name="prediction_type"]:checked').val(),
+            series_maps: [],
+            series_type: $('#seriesType').val(),
+            tournament: $('#tournament').val(),
+            kill_line: $('#killLine').val() ? parseFloat($('#killLine').val()) : null
+        };
+
+        if (formData.prediction_type === 'series_2') {
+            formData.series_maps = [
+                $('#mapsSelectionContainer select[data-map-number="1"]').val(),
+                $('#mapsSelectionContainer select[data-map-number="2"]').val()
+            ];
+        } else if (formData.prediction_type === 'series_3') {
+            formData.series_maps = [
+                $('#mapsSelectionContainer select[data-map-number="1"]').val(),
+                $('#mapsSelectionContainer select[data-map-number="2"]').val(),
+                $('#map3Container select[data-map-number="3"]').val()
+            ];
+        } else {
+            formData.map_name = $('#mapName').val();
+        }
+
+        // Validation
+        if (!formData.player_name) {
+            alert('Please enter a player name');
+            return;
+        }
+        
+        // Additional validation for series predictions
+        if (formData.prediction_type.startsWith('series_')) {
+            if (!$('#opponentTeam').val().trim()) {
+                alert('Opponent team is required for series predictions');
+                return;
+            }
+            
+            if (!formData.kill_line) {
+                alert('Kill line is required for series predictions');
+                return;
+            }
+        }
+        
+        // Show loading
+        $('#loadingIndicator').show();
+        $('#predictionResult').hide();
+        
+        // Determine API endpoint and prepare data
+        let apiUrl, apiData;
+        if (formData.prediction_type === 'single') {
+            apiUrl = '/api/predict';
+            apiData = {
+                player_name: formData.player_name,
+                opponent_team: $('#opponentTeam').val().trim(),
+                map_name: formData.map_name,
+                series_type: formData.series_type,
+                tournament: formData.tournament,
+                kill_line: formData.kill_line
+            };
+        } else {
+            apiUrl = '/api/predict_series';
+            const mapsToPredict = formData.prediction_type === 'series_2' ? 2 : 3;
+            
+            // Filter out empty maps
+            const selectedMaps = formData.series_maps.filter(map => map && map.trim() !== '');
+            
+            apiData = {
+                player_name: formData.player_name,
+                opponent_team: $('#opponentTeam').val().trim(),
+                maps: selectedMaps,
+                series_type: formData.series_type,
+                tournament: formData.tournament,
+                kill_line: formData.kill_line,
+                maps_to_predict: mapsToPredict
+            };
+        }
+        
+        // Make prediction request
+        $.ajax({
+            url: apiUrl,
+            method: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify(apiData),
+            success: function(result) {
+                $('#loadingIndicator').hide();
+                if (formData.prediction_type === 'single') {
+                    displayResult(result);
+                } else {
+                    displaySeriesResult(result);
+                }
+            },
+            error: function(xhr) {
+                $('#loadingIndicator').hide();
+                const error = xhr.responseJSON || { error: 'Prediction failed' };
+                displayError(error);
+            }
+        });
+    });
+    
+    function displayResult(result) {
+        if (!result.success) {
+            displayError(result);
+            return;
+        }
+        
+        const confidenceClass = getConfidenceClass(result.confidence_level);
+        let recommendationHtml = '';
+        
+        if (result.recommendation) {
+            const rec = result.recommendation;
+            const recClass = getRecommendationClass(rec.action);
+            recommendationHtml = `
+                <div class="recommendation ${recClass}">
+                    <strong>${rec.action}</strong> - ${rec.reasoning}
+                    <div style="font-size: 0.9rem; margin-top: 5px;">
+                        Difference: ${rec.difference > 0 ? '+' : ''}${rec.difference} kills (${rec.percentage_diff > 0 ? '+' : ''}${rec.percentage_diff.toFixed(1)}%)
+                    </div>
+                </div>
+            `;
+        }
+        
+        const html = `
+            <div class="prediction-header">
+                <div>
+                    <h3 class="mb-0">${result.player}</h3>
+                    <small class="text-muted">${result.player_stats.role}</small>
+                </div>
+                <div class="text-center">
+                    <div class="predicted-kills">${result.predicted_kills}</div>
+                    <small class="text-muted">predicted kills</small>
+                </div>
+                <div class="text-center">
+                    <span class="confidence-badge ${confidenceClass}">
+                        ${result.confidence}% confidence
+                    </span>
+                </div>
+            </div>
+            
+            ${recommendationHtml}
+            
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-value">${result.player_stats.recent_avg}</div>
+                    <div class="stat-label">Recent Average</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">${result.player_stats.historical_avg}</div>
+                    <div class="stat-label">Historical Average</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">${result.player_stats.momentum > 0 ? '+' : ''}${result.player_stats.momentum}</div>
+                    <div class="stat-label">Momentum Trend</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">${result.player_stats.experience_maps}</div>
+                    <div class="stat-label">Maps Played</div>
+                </div>
+            </div>
+            
+            <div class="row mt-3">
+                <div class="col-md-6">
+                    <h6><i class="fas fa-info-circle"></i> Match Context</h6>
+                    <ul class="list-unstyled small">
+                        <li><strong>Opponent:</strong> ${result.match_context.opponent || 'Not specified'}</li>
+                        <li><strong>Map:</strong> ${result.match_context.map || 'Any map'}</li>
+                        <li><strong>Series:</strong> ${result.match_context.series_type}</li>
+                        <li><strong>Tournament:</strong> ${result.match_context.tournament}</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6><i class="fas fa-chart-line"></i> Model Performance</h6>
+                    <ul class="list-unstyled small">
+                        <li><strong>Model MAE:</strong> ${result.model_performance.mae}</li>
+                        <li><strong>Accuracy:</strong> ${result.model_performance.accuracy_note}</li>
+                    </ul>
+                </div>
+            </div>
+        `;
+        
+        $('#predictionResult').removeClass('result-error').addClass('result-success').html(html).show();
+    }
+    
+    function displayError(error) {
+        let errorMessage = error.error || 'An unknown error occurred';
+        let suggestionHtml = '';
+        
+        if (error.suggestion) {
+            suggestionHtml = `<div class="mt-2"><strong>Suggestion:</strong> ${error.suggestion}</div>`;
+        }
+        
+        const html = `
+            <h4><i class="fas fa-exclamation-triangle"></i> Prediction Failed</h4>
+            <p>${errorMessage}</p>
+            ${suggestionHtml}
+        `;
+        
+        $('#predictionResult').removeClass('result-success').addClass('result-error').html(html).show();
+    }
+    
+    function getConfidenceClass(level) {
+        switch(level) {
+            case 'High': return 'confidence-high';
+            case 'Medium': return 'confidence-medium';
+            case 'Low': return 'confidence-low';
+            default: return 'confidence-medium';
+        }
+    }
+    
+    function getRecommendationClass(action) {
+        switch(action) {
+            case 'OVER': return 'recommendation-over';
+            case 'UNDER': return 'recommendation-under';
+            case 'UNSURE': return 'recommendation-unsure';
+            default: return 'recommendation-unsure';
+        }
+    }
+
+    function displaySeriesResult(result) {
+        if (!result.success) {
+            displayError(result);
+            return;
+        }
+        
+        const confidenceClass = getConfidenceClass(result.confidence_level);
+        let recommendationHtml = '';
+        
+        if (result.recommendation) {
+            const rec = result.recommendation;
+            const recClass = getRecommendationClass(rec.action);
+            recommendationHtml = `
+                <div class="recommendation ${recClass}">
+                    <strong>${rec.action}</strong> - ${rec.reasoning}
+                    <div style="font-size: 0.9rem; margin-top: 5px;">
+                        Difference: ${rec.difference > 0 ? '+' : ''}${rec.difference} kills (${rec.percentage_diff > 0 ? '+' : ''}${rec.percentage_diff.toFixed(1)}%)
+                    </div>
+                </div>
+            `;
+        }
+        
+        // Build map predictions HTML
+        let mapPredictionsHtml = '';
+        if (result.map_predictions && result.map_predictions.length > 0) {
+            mapPredictionsHtml = '<div class="mt-3"><h6>Individual Map Predictions:</h6><div class="row">';
+            result.map_predictions.forEach(function(mapPred, index) {
+                mapPredictionsHtml += `
+                    <div class="col-md-${result.map_predictions.length === 2 ? '6' : '4'} mb-2">
+                        <div class="stat-item">
+                            <div class="stat-value">${mapPred.predicted_kills.toFixed(1)}</div>
+                            <div class="stat-label">${mapPred.map}</div>
+                        </div>
+                    </div>
+                `;
+            });
+            mapPredictionsHtml += '</div></div>';
+        }
+        
+        const html = `
+            <div class="prediction-header">
+                <div>
+                    <h3 class="mb-0">${result.player}</h3>
+                    <small class="text-muted">${result.player_stats.role} • ${result.series_type}</small>
+                </div>
+                <div class="text-center">
+                    <div class="predicted-kills">${result.predicted_kills}</div>
+                    <small class="text-muted">total kills (${result.average_per_map} avg/map)</small>
+                </div>
+                <div class="text-center">
+                    <span class="confidence-badge ${confidenceClass}">
+                        ${result.confidence}% confidence
+                    </span>
+                </div>
+            </div>
+            
+            ${recommendationHtml}
+            
+            ${mapPredictionsHtml}
+            
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-value">${result.player_stats.recent_avg}</div>
+                    <div class="stat-label">Recent Average</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">${result.player_stats.historical_avg}</div>
+                    <div class="stat-label">Historical Average</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">${result.player_stats.momentum > 0 ? '+' : ''}${result.player_stats.momentum}</div>
+                    <div class="stat-label">Momentum Trend</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value">${result.player_stats.experience_maps}</div>
+                    <div class="stat-label">Maps Played</div>
+                </div>
+            </div>
+            
+            <div class="row mt-3">
+                <div class="col-md-6">
+                    <h6><i class="fas fa-info-circle"></i> Series Context</h6>
+                    <ul class="list-unstyled small">
+                        <li><strong>Opponent:</strong> ${result.series_context.opponent || 'Not specified'}</li>
+                        <li><strong>Maps:</strong> ${result.series_context.maps.join(', ')}</li>
+                        <li><strong>Series:</strong> ${result.series_context.series_type}</li>
+                        <li><strong>Tournament:</strong> ${result.series_context.tournament}</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h6><i class="fas fa-chart-line"></i> Model Performance</h6>
+                    <ul class="list-unstyled small">
+                        <li><strong>Model MAE:</strong> ${result.model_performance.mae}</li>
+                        <li><strong>Series Accuracy:</strong> ${result.model_performance.accuracy_note}</li>
+                    </ul>
+                </div>
+            </div>
+        `;
+        
+        $('#predictionResult').removeClass('result-error').addClass('result-success').html(html).show();
+    }
+});
+</script>
+{% endblock %} 
