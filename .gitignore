@@ -63,9 +63,20 @@ Thumbs.db
 .clineignore
 switch.py
 
+# Scraped data (760MB+ — keep locally, don't track in git)
+scraped_matches/
+
+# Runtime / checkpoint files
+Scraper/.results_scraper_checkpoint.json
+*_log.txt
+
+# Secrets
+.env
+web_app/.env
+
 # Node modules (if any)
 node_modules/
 
 # Build artifacts
 dist/
-build/ 
+build/ Scraper/valorant_matches.db

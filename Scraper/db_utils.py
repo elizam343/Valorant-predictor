@@ -1,6 +1,9 @@
 import sqlite3
 
-DB_PATH = "vlr_players.db"
+import os
+
+# Get the absolute path to the database file
+DB_PATH = os.path.join(os.path.dirname(__file__), "vlr_players.db")
 
 def get_connection():
     return sqlite3.connect(DB_PATH)
@@ -30,7 +33,37 @@ def create_tables():
     conn.commit()
     conn.close()
 
+def has_verified_team(team):
+    return team and len(team) > 2 and not team.isdigit() and not team.startswith('(+')
+
+def is_coach_or_analyst(player_name, team):
+    return (
+        'coach' in player_name.lower() or 'analyst' in player_name.lower() or
+        'coach' in team.lower() or 'analyst' in team.lower()
+    )
+
+def has_match_history(player):
+    # Use kills_per_round, average_combat_score, kill_deaths as proxy for match history
+    try:
+        kpr = float(player.get("kills_per_round", 0) or 0)
+        acs = float(player.get("average_combat_score", 0) or 0)
+        kd = float(player.get("kill_deaths", 0) or 0)
+        return (kpr > 0 or acs > 0 or kd > 0)
+    except Exception:
+        return False
+
 def upsert_player(player):
+    name = player.get("player")
+    team = player.get("org")
+    if not has_verified_team(team):
+        print(f"[SKIP] {name} ({team}): Unverified team")
+        return
+    if is_coach_or_analyst(name, team):
+        print(f"[SKIP] {name} ({team}): Coach/Analyst")
+        return
+    if not has_match_history(player):
+        print(f"[SKIP] {name} ({team}): No match history")
+        return
     conn = get_connection()
     c = conn.cursor()
     c.execute("""
@@ -52,8 +85,8 @@ def upsert_player(player):
             headshot_percentage=excluded.headshot_percentage,
             clutch_success_percentage=excluded.clutch_success_percentage
     """, (
-        player.get("player"),
-        player.get("org"),
+        name,
+        team,
         player.get("rating"),
         player.get("average_combat_score"),
         player.get("kill_deaths"),
@@ -91,4 +124,4 @@ def get_players_by_team(team):
     c.execute("SELECT * FROM players WHERE team = ? ORDER BY name", (team,))
     players = c.fetchall()
     conn.close()
-    return players 
+    return players

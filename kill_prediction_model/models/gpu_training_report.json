@@ -1,0 +1,21 @@
+{
+  "training_info": {
+    "device_used": "cpu",
+    "models_trained": [
+      "neural_network",
+      "gradient_boosting"
+    ]
+  },
+  "model_performance": {
+    "neural_network": {
+      "mse": 40.4412841796875,
+      "mae": 5.008464336395264,
+      "r2": 0.15270501375198364
+    },
+    "gradient_boosting": {
+      "mse": 37.81031732950772,
+      "mae": 4.818114273060724,
+      "r2": 0.207827065430511
+    }
+  }
+}

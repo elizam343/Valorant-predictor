@@ -1,11 +1,17 @@
 import requests
 import db_utils
 import time
+from flask import Flask, jsonify
+from bs4 import BeautifulSoup
 
 API_BASE_URL = "https://vlrggapi.vercel.app"
+VLR_BASE_URL = "https://www.vlr.gg"
 
 # All available regions
 REGIONS = ["na", "eu", "ap", "kr", "br", "latam", "oce", "mn", "gc", "cn"]
+
+# Flask app for API endpoints
+app = Flask(__name__)
 
 # Fetch player stats for a given region and timespan
 def fetch_players(region="na", timespan="all"):
@@ -43,21 +49,148 @@ def fetch_all_regions(timespan="all"):
     
     return all_players
 
+# --- NEW: Scrape full match details from VLR.gg ---
+def scrape_match_details(match_id):
+    url = f"{VLR_BASE_URL}/{match_id}"
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, "html.parser")
+    match_data = {"match_id": match_id}
+    
+    # Teams - try multiple selectors
+    teams = []
+    # Try primary selector
+    team_elements = soup.select(".match-header-vs-team-name")
+    if team_elements:
+        teams = [t.text.strip() for t in team_elements]
+    else:
+        # Try alternative selectors
+        team_elements = soup.select(".match-header-vs-team")
+        if team_elements:
+            teams = [t.text.strip() for t in team_elements]
+        else:
+            # Try finding teams in the match header
+            team_elements = soup.select(".match-header .team-name")
+            if team_elements:
+                teams = [t.text.strip() for t in team_elements]
+    
+    match_data["teams"] = teams
+    
+    # Date, tournament
+    match_data["date"] = soup.select_one(".moment-tz-convert").get("data-utc-ts", "") if soup.select_one(".moment-tz-convert") else ""
+    match_data["tournament"] = soup.select_one(".match-header-event-series").text.strip() if soup.select_one(".match-header-event-series") else ""
+    
+    # Maps
+    maps = [m.text.strip().split("\n")[0].strip() for m in soup.select(".vm-stats-gamesnav .map")]
+    match_data["maps"] = maps
+    
+    # Player stats per map
+    match_data["map_stats"] = []
+    map_idx = 0
+    all_teams_found = set()  # Track all teams found in player data
+    
+    for map_tab in soup.select(".vm-stats-game"):  # Each map
+        map_name = map_tab.select_one(".map").text.strip() if map_tab.select_one(".map") else ""
+        map_name = map_name.split("\n")[0].strip()  # Clean up map name
+        players = []
+        team_names = [t.text.strip() for t in map_tab.select(".team-name")]
+        team_idx = 0
+        for team_table in map_tab.select(".wf-table-inset"):  # Each team
+            team_players = []
+            team_name = team_names[team_idx] if team_idx < len(team_names) else None
+            for row in team_table.select("tbody tr"):
+                cols = [td.text.strip() for td in row.select("td")]
+                if len(cols) >= 10:
+                    def _split_stat(raw, idx):
+                        parts = [p.strip() for p in raw.split("\n") if p.strip()]
+                        return parts[idx] if idx < len(parts) else (parts[0] if parts else "0")
+
+                    player = {
+                        "name": cols[0].split("\n")[0].strip(),
+                        "agent": cols[1].split("\n")[0].strip(),
+                        "rating": _split_stat(cols[2], map_idx),
+                        "acs": _split_stat(cols[3], map_idx),
+                        "kills": _split_stat(cols[4], map_idx),
+                        "deaths": _split_stat(cols[5], map_idx),
+                        "assists": _split_stat(cols[6], map_idx),
+                        "kd_diff": _split_stat(cols[7], map_idx),
+                        "kast": _split_stat(cols[8], map_idx),
+                        "adr": _split_stat(cols[9], map_idx),
+                        "hs%": _split_stat(cols[10], map_idx) if len(cols) > 10 else "0%",
+                        "fk": _split_stat(cols[11], map_idx) if len(cols) > 11 else "0",
+                        "fd": _split_stat(cols[12], map_idx) if len(cols) > 12 else "0",
+                        "team": team_name
+                    }
+                    team_players.append(player)
+                    if team_name:
+                        all_teams_found.add(team_name)
+            players.append(team_players)
+            team_idx += 1
+        
+        # --- NEW: Extract round-by-round results and half-time scores ---
+        round_results = []
+        halftime_score = None
+        round_timeline = map_tab.select_one(".scoreboard-rounds")
+        if round_timeline:
+            round_icons = round_timeline.select(".scoreboard-round")
+            for icon in round_icons:
+                winner = None
+                if "left" in icon.get("class", []):
+                    winner = "team1"
+                elif "right" in icon.get("class", []):
+                    winner = "team2"
+                round_results.append(winner)
+            if len(round_results) >= 12:
+                halftime_score = {
+                    "team1": round_results[:12].count("team1"),
+                    "team2": round_results[:12].count("team2")
+                }
+        total_score = {
+            "team1": round_results.count("team1"),
+            "team2": round_results.count("team2")
+        } if round_results else None
+        # Add flat player list for this map with full stats
+        flat_players = []
+        for team in players:
+            for p in team:
+                flat_players.append({
+                    "name": p["name"],
+                    "team": p["team"],
+                    "agent": p.get("agent", ""),
+                    "rating": p.get("rating", "0"),
+                    "acs": p.get("acs", "0"),
+                    "kills": p.get("kills", "0"),
+                    "deaths": p.get("deaths", "0"),
+                    "assists": p.get("assists", "0"),
+                    "kd_diff": p.get("kd_diff", "0"),
+                    "kast": p.get("kast", "0"),
+                    "adr": p.get("adr", "0"),
+                    "hs%": p.get("hs%", "0%"),
+                    "fk": p.get("fk", "0"),
+                    "fd": p.get("fd", "0"),
+                })
+        match_data["map_stats"].append({
+            "map": map_name,
+            "players": players,
+            "flat_players": flat_players,
+            "round_results": round_results,
+            "halftime_score": halftime_score,
+            "total_score": total_score
+        })
+        map_idx += 1
+    
+    # If we didn't find teams in header but found them in player data, use those
+    if not teams and all_teams_found:
+        teams = list(all_teams_found)
+        match_data["teams"] = teams
+    
+    return match_data
+
+@app.route("/match/<int:match_id>")
+def api_match(match_id):
+    match_details = scrape_match_details(match_id)
+    return jsonify(match_details)
+
 if __name__ == "__main__":
-    db_utils.create_tables()
-    
-    print("Fetching player data from all regions...")
-    all_players = fetch_all_regions()
-    
-    print(f"\nTotal players fetched from all regions: {len(all_players)}")
-    
-    # Update database with all players
-    updated_count = 0
-    for player in all_players:
-        try:
-            db_utils.upsert_player(player)
-            updated_count += 1
-        except Exception as e:
-            print(f"Error updating player {player.get('player', 'Unknown')}: {e}")
-    
-    print(f"Database updated with {updated_count} player records from all regions.")
+    # Only create tables if needed, but do not write any player or match data
+    # db_utils.create_tables()  # Optional: comment out if tables are already created
+    app.run(debug=True, host="0.0.0.0", port=5003)

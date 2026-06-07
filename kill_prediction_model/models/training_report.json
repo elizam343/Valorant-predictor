@@ -1,0 +1,83 @@
+{
+  "training_date": "2025-07-20T15:59:38.469538",
+  "models_trained": [
+    "random_forest",
+    "gradient_boosting",
+    "linear_regression",
+    "ridge",
+    "lasso",
+    "neural_network"
+  ],
+  "model_performance": {
+    "random_forest": {
+      "mse": 5310.149047884109,
+      "mae": 56.404514636311234,
+      "r2": -2.691946170862991e-06,
+      "cv_mse": -5335.139856523051,
+      "cv_std": 49.20951330161481,
+      "best_params": {
+        "max_depth": 10,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "n_estimators": 100
+      }
+    },
+    "gradient_boosting": {
+      "mse": 5310.189123434289,
+      "mae": 56.4134267511921,
+      "r2": -1.0238939240014844e-05,
+      "cv_mse": -5335.111080300629,
+      "cv_std": 49.19058666919219,
+      "best_params": {
+        "learning_rate": 0.2,
+        "max_depth": 3,
+        "n_estimators": 300,
+        "subsample": 0.8
+      }
+    },
+    "linear_regression": {
+      "mse": 5310.16067168477,
+      "mae": 56.40776463810124,
+      "r2": -4.8809302928276566e-06,
+      "cv_mse": -5335.137149311612,
+      "cv_std": 49.202806155200065,
+      "best_params": {}
+    },
+    "ridge": {
+      "mse": 5310.16067168477,
+      "mae": 56.40776463810124,
+      "r2": -4.8809302928276566e-06,
+      "cv_mse": -5335.137149311612,
+      "cv_std": 49.202806155200065,
+      "best_params": {}
+    },
+    "lasso": {
+      "mse": 5310.16067168477,
+      "mae": 56.40776463810124,
+      "r2": -4.8809302928276566e-06,
+      "cv_mse": -5335.137149311612,
+      "cv_std": 49.202806155200065,
+      "best_params": {}
+    },
+    "neural_network": {
+      "mse": 5310.173919918552,
+      "mae": 56.37961199470594,
+      "r2": -7.3758262602030555e-06,
+      "cv_mse": -5335.36369089957,
+      "cv_std": 49.37015959772708,
+      "best_params": {
+        "alpha": 0.0001,
+        "hidden_layer_sizes": [
+          50,
+          25
+        ],
+        "learning_rate_init": 0.001
+      }
+    }
+  },
+  "ensemble_performance": null,
+  "recommendations": [
+    "Best individual model: random_forest (MSE: 5310.1490)",
+    "Use random_forest model for best performance"
+  ]
+}

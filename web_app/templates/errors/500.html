@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}Server Error - Valorant Kill Line Predictor{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-6 text-center">
+        <div class="card">
+            <div class="card-body py-5">
+                <i class="fas fa-server fa-5x text-danger mb-4"></i>
+                <h1 class="display-4">500</h1>
+                <h3>Internal Server Error</h3>
+                <p class="text-muted">Something went wrong on our end. We're working to fix it.</p>
+                
+                <div class="mt-4">
+                    <a href="{{ url_for('index') }}" class="btn btn-primary">
+                        <i class="fas fa-home"></i> Go Home
+                    </a>
+                    <button onclick="location.reload()" class="btn btn-secondary">
+                        <i class="fas fa-redo"></i> Try Again
+                    </button>
+                </div>
+                
+                <div class="mt-4">
+                    <div class="alert alert-info">
+                        <small>If this problem persists, please contact the administrator.</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

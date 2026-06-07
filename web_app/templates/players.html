@@ -1,0 +1,293 @@
+{% extends "base.html" %}
+
+{% block title %}Players - Valorant Kill Line Predictor{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="d-flex justify-content-between align-items-center">
+                    <h5><i class="fas fa-users"></i> Player Statistics</h5>
+                    <div class="d-flex gap-2">
+                        <select class="form-select form-select-sm" id="team-filter" style="width: auto;">
+                            <option value="">All Teams</option>
+                            {% for team in teams %}
+                            <option value="{{ team }}">{{ team }}</option>
+                            {% endfor %}
+                        </select>
+                        <input type="text" class="form-control form-control-sm" id="player-search" placeholder="Search players..." style="width: 200px;">
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                {% if players %}
+                    <div class="table-responsive">
+                        <table class="table table-striped table-hover" id="players-table">
+                            <thead>
+                                <tr>
+                                    <th>Player</th>
+                                    <th>Team</th>
+                                    <th>Rating</th>
+                                    <th>ACS</th>
+                                    <th>K/D</th>
+                                    <th>K/R</th>
+                                    <th>A/R</th>
+                                    <th>HS%</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for player in players %}
+                                <tr>
+                                    <td><strong>{{ player[1] }}</strong></td>
+                                    <td>{{ player[2] }}</td>
+                                    <td>{{ player[3] or 'N/A' }}</td>
+                                    <td>{{ player[4] or 'N/A' }}</td>
+                                    <td>{{ player[5] or 'N/A' }}</td>
+                                    <td>{{ player[8] or 'N/A' }}</td>
+                                    <td>{{ player[9] or 'N/A' }}</td>
+                                    <td>{{ player[12] or 'N/A' }}</td>
+                                    <td>
+                                        {% if current_user.is_authenticated %}
+                                            <button class="btn btn-sm btn-primary" onclick="quickPredict('{{ player[1] }}', '{{ player[2] }}')">
+                                                <i class="fas fa-chart-line"></i> Predict
+                                            </button>
+                                        {% endif %}
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                {% else %}
+                    <div class="text-center py-5">
+                        <i class="fas fa-users fa-3x text-muted mb-3"></i>
+                        <h5>No players found</h5>
+                        <p class="text-muted">Player data may still be loading. Try refreshing the page.</p>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-chart-bar"></i> Statistics Legend</h5>
+            </div>
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    <li><strong>Rating:</strong> Overall performance rating</li>
+                    <li><strong>ACS:</strong> Average Combat Score</li>
+                    <li><strong>K/D:</strong> Kill/Death ratio</li>
+                    <li><strong>K/R:</strong> Kills per round</li>
+                    <li><strong>A/R:</strong> Assists per round</li>
+                    <li><strong>HS%:</strong> Headshot percentage</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-trophy"></i> Top Performers</h5>
+            </div>
+            <div class="card-body">
+                <div id="top-performers">
+                    <p class="text-muted">Loading top performers...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-info-circle"></i> Player Data</h5>
+            </div>
+            <div class="card-body">
+                <p>Player statistics are sourced from VLR.gg and updated regularly.</p>
+                
+                <div class="alert alert-info">
+                    <small><strong>Tip:</strong> Click "Predict" next to any player to quickly create a kill line prediction.</small>
+                </div>
+                
+                <div class="alert alert-warning">
+                    <small><strong>Note:</strong> Statistics reflect recent performance and may not include the most recent matches.</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Quick Prediction Modal -->
+<div class="modal fade" id="quickPredictModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Quick Prediction</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <form id="quick-predict-form">
+                    <div class="mb-3">
+                        <label class="form-label">Player</label>
+                        <input type="text" class="form-control" id="modal-player" readonly>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Team</label>
+                        <input type="text" class="form-control" id="modal-team" readonly>
+                    </div>
+                    <div class="mb-3">
+                        <label for="modal-kill-line" class="form-label">Kill Line</label>
+                        <input type="number" class="form-control" id="modal-kill-line" step="0.5" min="0" max="50" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="modal-opponent" class="form-label">Opponent Team (Optional)</label>
+                        <input type="text" class="form-control" id="modal-opponent" placeholder="e.g., Cloud9">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-primary" onclick="submitQuickPredict()">
+                    <i class="fas fa-calculator"></i> Get Prediction
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+// Search and filter functionality
+document.getElementById('player-search').addEventListener('input', filterPlayers);
+document.getElementById('team-filter').addEventListener('change', filterPlayers);
+
+function filterPlayers() {
+    const searchTerm = document.getElementById('player-search').value.toLowerCase();
+    const teamFilter = document.getElementById('team-filter').value;
+    const rows = document.querySelectorAll('#players-table tbody tr');
+    
+    rows.forEach(row => {
+        const playerName = row.cells[0].textContent.toLowerCase();
+        const teamName = row.cells[1].textContent;
+        
+        const matchesSearch = playerName.includes(searchTerm);
+        const matchesTeam = !teamFilter || teamName === teamFilter;
+        
+        row.style.display = (matchesSearch && matchesTeam) ? '' : 'none';
+    });
+}
+
+// Quick prediction functionality
+function quickPredict(playerName, teamName) {
+    document.getElementById('modal-player').value = playerName;
+    document.getElementById('modal-team').value = teamName;
+    document.getElementById('modal-kill-line').value = '';
+    document.getElementById('modal-opponent').value = '';
+    
+    const modal = new bootstrap.Modal(document.getElementById('quickPredictModal'));
+    modal.show();
+}
+
+function submitQuickPredict() {
+    const player = document.getElementById('modal-player').value;
+    const team = document.getElementById('modal-team').value;
+    const killLine = document.getElementById('modal-kill-line').value;
+    const opponent = document.getElementById('modal-opponent').value;
+    
+    if (!killLine) {
+        alert('Please enter a kill line');
+        return;
+    }
+    
+    // Make prediction API call
+    fetch('/api/predict', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+            team: team,
+            player_name: player,
+            kill_line: parseFloat(killLine),
+            opponent_team: opponent
+        })
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            const prediction = data.prediction;
+            const confidencePercent = (prediction.confidence * 100).toFixed(1);
+            
+            alert(`Prediction for ${player}:\n` +
+                  `Kill Line: ${prediction.kill_line}\n` +
+                  `Prediction: ${prediction.prediction}\n` +
+                  `Confidence: ${confidencePercent}%\n` +
+                  `Recommendation: ${prediction.recommended_action}`);
+            
+            // Close modal
+            const modal = bootstrap.Modal.getInstance(document.getElementById('quickPredictModal'));
+            modal.hide();
+            
+            // Redirect to predictions page for full details
+            window.location.href = '/predictions';
+        } else {
+            alert('Error making prediction: ' + data.error);
+        }
+    })
+    .catch(error => {
+        console.error('Error:', error);
+        alert('Error making prediction. Please try again.');
+    });
+}
+
+// Load top performers
+function loadTopPerformers() {
+    const rows = Array.from(document.querySelectorAll('#players-table tbody tr'));
+    
+    // Sort by rating (assuming it's in column 2, index 2)
+    const topPlayers = rows
+        .filter(row => row.cells[2].textContent !== 'N/A')
+        .sort((a, b) => {
+            const ratingA = parseFloat(a.cells[2].textContent) || 0;
+            const ratingB = parseFloat(b.cells[2].textContent) || 0;
+            return ratingB - ratingA;
+        })
+        .slice(0, 5);
+    
+    const topPerformersDiv = document.getElementById('top-performers');
+    
+    if (topPlayers.length > 0) {
+        let html = '<ol class="list-unstyled">';
+        topPlayers.forEach((row, index) => {
+            const playerName = row.cells[0].textContent;
+            const teamName = row.cells[1].textContent;
+            const rating = row.cells[2].textContent;
+            
+            html += `<li class="mb-2">
+                <div class="d-flex justify-content-between">
+                    <span><strong>${playerName}</strong> (${teamName})</span>
+                    <span class="badge bg-primary">${rating}</span>
+                </div>
+            </li>`;
+        });
+        html += '</ol>';
+        topPerformersDiv.innerHTML = html;
+    } else {
+        topPerformersDiv.innerHTML = '<p class="text-muted">No rating data available</p>';
+    }
+}
+
+// Load top performers when page loads
+document.addEventListener('DOMContentLoaded', function() {
+    loadTopPerformers();
+});
+</script>
+{% endblock %}

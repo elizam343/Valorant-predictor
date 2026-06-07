@@ -1,0 +1,199 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - Valorant Kill Predictor{% endblock %}
+
+{% block content %}
+<div class="container">
+    <!-- Hero Section -->
+    <div class="row mb-5">
+        <div class="col-12 text-center">
+            <h1 class="display-4 mb-3">
+                <i class="fas fa-crosshairs text-primary"></i> Valorant Kill Predictor
+            </h1>
+            <p class="lead text-muted">
+                AI-powered kill predictions for professional Valorant esports with {{ model_info.performance.mae if model_info.loaded else 'N/A' }} MAE accuracy
+            </p>
+            <a href="{{ url_for('predict_page') }}" class="btn btn-primary btn-lg">
+                <i class="fas fa-magic"></i> Make Prediction
+            </a>
+        </div>
+    </div>
+
+    <!-- Model Status -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="card-title mb-0">
+                        <i class="fas fa-robot"></i> Model Status
+                    </h5>
+                </div>
+                <div class="card-body">
+                    {% if model_info.loaded %}
+                        <div class="alert alert-success" role="alert">
+                            <i class="fas fa-check-circle"></i> <strong>Model Loaded Successfully</strong>
+                            <div class="mt-2">
+                                <small>
+                                    Performance: {{ model_info.performance.mae }} MAE | 
+                                    Features: {{ model_info.features_count }} | 
+                                    Database: {{ '✅ Connected' if model_info.database_available else '❌ Not Found' }}
+                                </small>
+                            </div>
+                        </div>
+                    {% else %}
+                        <div class="alert alert-warning" role="alert">
+                            <i class="fas fa-exclamation-triangle"></i> <strong>Model Not Available</strong>
+                            <div class="mt-2">
+                                <small>The prediction model is not currently loaded. Please check the server configuration.</small>
+                            </div>
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Features Grid -->
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body text-center">
+                    <i class="fas fa-brain fa-3x text-primary mb-3"></i>
+                    <h5 class="card-title">AI-Powered Predictions</h5>
+                    <p class="card-text">
+                        Advanced neural network trained on thousands of professional Valorant matches to predict player kill performance.
+                    </p>
+                    <a href="{{ url_for('predict_page') }}" class="btn btn-outline-primary">
+                        Start Predicting
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body text-center">
+                    <i class="fas fa-chart-line fa-3x text-success mb-3"></i>
+                    <h5 class="card-title">Confidence Analysis</h5>
+                    <p class="card-text">
+                        Every prediction comes with confidence levels and detailed analysis of player form, momentum, and historical performance.
+                    </p>
+                    {% if current_user.is_authenticated %}
+                        <a href="{{ url_for('prediction_history') }}" class="btn btn-outline-success">
+                            View History
+                        </a>
+                    {% else %}
+                        <a href="{{ url_for('register') }}" class="btn btn-outline-success">
+                            Sign Up
+                        </a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body text-center">
+                    <i class="fas fa-bullseye fa-3x text-warning mb-3"></i>
+                    <h5 class="card-title">Betting Recommendations</h5>
+                    <p class="card-text">
+                        Get over/under recommendations with detailed reasoning when you provide bookmaker kill lines.
+                    </p>
+                    <a href="{{ url_for('predict_page') }}" class="btn btn-outline-warning">
+                        Try It Now
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Recent Stats (if available) -->
+    {% if model_info.loaded %}
+    <div class="row mt-4">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="card-title mb-0">
+                        <i class="fas fa-info-circle"></i> Model Information
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-3 text-center">
+                            <div class="h4 text-primary">{{ model_info.performance.mae }}</div>
+                            <small class="text-muted">Mean Absolute Error</small>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <div class="h4 text-success">{{ model_info.features_count }}</div>
+                            <small class="text-muted">Features</small>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <div class="h4 text-info">Professional</div>
+                            <small class="text-muted">Grade Model</small>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <div class="h4 text-warning">Real-time</div>
+                            <small class="text-muted">Predictions</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- How It Works -->
+    <div class="row mt-5">
+        <div class="col-12">
+            <h3 class="text-center mb-4">How It Works</h3>
+            <div class="row">
+                <div class="col-md-3 text-center mb-3">
+                    <div class="bg-primary text-white rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                        <span class="h4 mb-0">1</span>
+                    </div>
+                    <h6 class="mt-2">Enter Player Info</h6>
+                    <small class="text-muted">Input player name and match context</small>
+                </div>
+                <div class="col-md-3 text-center mb-3">
+                    <div class="bg-success text-white rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                        <span class="h4 mb-0">2</span>
+                    </div>
+                    <h6 class="mt-2">AI Analysis</h6>
+                    <small class="text-muted">Model analyzes historical performance and context</small>
+                </div>
+                <div class="col-md-3 text-center mb-3">
+                    <div class="bg-info text-white rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                        <span class="h4 mb-0">3</span>
+                    </div>
+                    <h6 class="mt-2">Get Prediction</h6>
+                    <small class="text-muted">Receive kill prediction with confidence level</small>
+                </div>
+                <div class="col-md-3 text-center mb-3">
+                    <div class="bg-warning text-white rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                        <span class="h4 mb-0">4</span>
+                    </div>
+                    <h6 class="mt-2">Betting Advice</h6>
+                    <small class="text-muted">Get over/under recommendations</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+// Check model status periodically
+function checkModelStatus() {
+    $.get('/api/model_status')
+        .done(function(data) {
+            if (data.loaded && !$('.alert-success').length) {
+                location.reload(); // Reload if model becomes available
+            }
+        });
+}
+
+// Check every 30 seconds
+setInterval(checkModelStatus, 30000);
+</script>
+{% endblock %} 

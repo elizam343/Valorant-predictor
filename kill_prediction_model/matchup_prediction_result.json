@@ -1,0 +1,35 @@
+{
+  "matchup": {
+    "player_name": "mina",
+    "player_team": "Unknown",
+    "opponent_team": "Unknown",
+    "tournament": "VCT Champions",
+    "series_type": "bo3",
+    "maps": [
+      "Ascent",
+      "Haven"
+    ],
+    "kill_line": 28
+  },
+  "prediction": {
+    "predicted_kills_per_round": NaN,
+    "confidence_interval_95": [
+      NaN,
+      NaN
+    ],
+    "confidence_interval_90": [
+      NaN,
+      NaN
+    ],
+    "confidence_interval_80": [
+      NaN,
+      NaN
+    ],
+    "prediction_std": NaN,
+    "confidence_score": 0.5,
+    "recommendation": "UNSURE",
+    "statistical_significance": NaN,
+    "effect_size": NaN,
+    "reasoning": "Low statistical significance (p=nan) - model predicts nan kills/round vs 28.000 line"
+  }
+}

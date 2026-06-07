@@ -1,0 +1,258 @@
+{% extends "base.html" %}
+{% block title %}Prediction History — Valorant Kill Line Predictor{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-3">
+  <h3><i class="fas fa-history"></i> Prediction History</h3>
+  <a href="{{ url_for('predictions') }}" class="btn btn-primary btn-sm">
+    <i class="fas fa-plus"></i> New Prediction
+  </a>
+</div>
+
+{# ── Summary cards ──────────────────────────────────────────────── #}
+<div class="row g-3 mb-4">
+  <div class="col-6 col-md-3">
+    <div class="card text-center h-100">
+      <div class="card-body py-2">
+        <div class="text-muted small">Total</div>
+        <div class="fs-3 fw-bold">{{ total }}</div>
+      </div>
+    </div>
+  </div>
+  <div class="col-6 col-md-3">
+    <div class="card text-center h-100 border-warning">
+      <div class="card-body py-2">
+        <div class="text-muted small">Pending</div>
+        <div class="fs-3 fw-bold text-warning">{{ pending }}</div>
+      </div>
+    </div>
+  </div>
+  <div class="col-6 col-md-3">
+    <div class="card text-center h-100 border-{{ 'success' if hit_rate and hit_rate >= 0.524 else 'secondary' }}">
+      <div class="card-body py-2">
+        <div class="text-muted small">Hit rate ({{ settled }} settled)</div>
+        <div class="fs-3 fw-bold text-{{ 'success' if hit_rate and hit_rate >= 0.524 else 'secondary' }}">
+          {% if hit_rate is not none %}{{ "%.1f"|format(hit_rate * 100) }}%{% else %}—{% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-6 col-md-3">
+    <div class="card text-center h-100">
+      <div class="card-body py-2">
+        <div class="text-muted small">Break-even</div>
+        <div class="fs-3 fw-bold text-info">52.4%</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{# ── Hit rate by edge band ───────────────────────────────────────── #}
+{% if settled > 0 %}
+<div class="card mb-4">
+  <div class="card-header"><strong>Hit rate by edge band</strong></div>
+  <div class="card-body p-0">
+    <table class="table table-sm mb-0">
+      <thead class="table-dark">
+        <tr><th>Edge band</th><th class="text-end">Settled</th>
+            <th class="text-end">Correct</th><th class="text-end">Hit rate</th></tr>
+      </thead>
+      <tbody>
+        {% for b in band_stats %}
+        <tr>
+          <td>{{ b.label }}</td>
+          <td class="text-end">{{ b.n }}</td>
+          <td class="text-end">{{ b.correct }}</td>
+          <td class="text-end {{ 'text-success' if b.hit_rate and b.hit_rate >= 0.524 else ('text-danger' if b.hit_rate else '') }}">
+            {% if b.hit_rate is not none %}{{ "%.1f"|format(b.hit_rate * 100) }}%{% else %}—{% endif %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endif %}
+
+{# ── Prediction table ────────────────────────────────────────────── #}
+{% if predictions %}
+<div class="card">
+  <div class="card-body p-0">
+    <div class="table-responsive">
+      <table class="table table-hover align-middle mb-0" id="pred-table">
+        <thead class="table-dark">
+          <tr>
+            <th>Player</th>
+            <th>Matchup</th>
+            <th class="text-end">Kill line</th>
+            <th class="text-end">Predicted</th>
+            <th class="text-end">Edge</th>
+            <th class="text-center">Call</th>
+            <th class="text-center">Result</th>
+            <th class="text-end">Date</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for p in predictions %}
+          <tr id="row-{{ p.id }}">
+            <td>
+              <strong>{{ p.player_name }}</strong>
+              {% if p.player_team %}<br><small class="text-muted">{{ p.player_team }}</small>{% endif %}
+            </td>
+            <td>
+              <small>vs {{ p.opponent_team or '?' }}</small><br>
+              <small class="text-muted">{{ p.map_name }} · {{ p.series_type }}</small>
+            </td>
+            <td class="text-end">
+              {{ p.kill_line }}
+              <small class="text-muted d-block">{{ p.kill_line_unit or 'per_map' }}</small>
+            </td>
+            <td class="text-end">
+              {{ "%.1f"|format(p.predicted_user_unit) if p.predicted_user_unit else '—' }}
+              {% if p.ci_low and p.ci_high %}
+              <small class="text-muted d-block">{{ "%.1f"|format(p.ci_low) }}–{{ "%.1f"|format(p.ci_high) }}</small>
+              {% endif %}
+            </td>
+            <td class="text-end">
+              <span class="badge bg-{{ 'success' if p.pct_edge and p.pct_edge >= 20 else ('warning text-dark' if p.pct_edge and p.pct_edge >= 10 else 'secondary') }}">
+                {{ "%.0f"|format(p.pct_edge) if p.pct_edge else '?' }}%
+              </span>
+            </td>
+            <td class="text-center">
+              <span class="badge bg-{{ 'success' if p.recommendation == 'OVER' else ('danger' if p.recommendation == 'UNDER' else 'warning text-dark') }}">
+                {{ p.recommendation }}
+              </span>
+            </td>
+            <td class="text-center" id="result-{{ p.id }}">
+              {% if p.was_correct == 1 %}
+                <span class="badge bg-success">✓ Correct</span>
+                <small class="text-muted d-block">{{ p.actual_kills }} actual</small>
+              {% elif p.was_correct == 0 %}
+                <span class="badge bg-danger">✗ Wrong</span>
+                <small class="text-muted d-block">{{ p.actual_kills }} actual</small>
+              {% else %}
+                <span class="text-muted small">Pending</span>
+              {% endif %}
+            </td>
+            <td class="text-end">
+              <small class="text-muted">{{ p.created_at[:10] if p.created_at else '?' }}</small>
+            </td>
+            <td>
+              {% if p.was_correct is none %}
+              <button class="btn btn-outline-secondary btn-sm record-btn"
+                      data-id="{{ p.id }}"
+                      data-kl="{{ p.kill_line_per_map }}"
+                      title="Record actual result">
+                <i class="fas fa-edit"></i>
+              </button>
+              {% endif %}
+              <button class="btn btn-outline-danger btn-sm ms-1 delete-btn"
+                      data-id="{{ p.id }}" title="Delete">
+                <i class="fas fa-trash"></i>
+              </button>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+{% else %}
+<div class="text-center text-muted py-5">
+  <i class="fas fa-history fa-3x mb-3 d-block"></i>
+  No predictions yet. <a href="{{ url_for('predictions') }}">Make your first prediction →</a>
+</div>
+{% endif %}
+
+{# ── Record result modal ─────────────────────────────────────────── #}
+<div class="modal fade" id="recordModal" tabindex="-1">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h6 class="modal-title">Record actual result</h6>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <p class="text-muted small mb-2">
+          Kill line (per map): <strong id="modal-kl">—</strong>
+        </p>
+        <div class="mb-2">
+          <label class="form-label small">Actual kills (per map)</label>
+          <input type="number" class="form-control form-control-sm" id="actual-kills-input"
+                 step="1" min="0" placeholder="e.g. 18">
+        </div>
+        <div class="mb-2">
+          <label class="form-label small">Notes (optional)</label>
+          <input type="text" class="form-control form-control-sm" id="notes-input"
+                 placeholder="e.g. good game">
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary btn-sm" data-bs-dismiss="modal">Cancel</button>
+        <button class="btn btn-primary btn-sm" id="save-result-btn">Save</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+let _activePredId = null;
+
+// Record result modal
+document.querySelectorAll('.record-btn').forEach(btn => {
+  btn.addEventListener('click', function () {
+    _activePredId = this.dataset.id;
+    document.getElementById('modal-kl').textContent = parseFloat(this.dataset.kl).toFixed(2);
+    document.getElementById('actual-kills-input').value = '';
+    document.getElementById('notes-input').value = '';
+    new bootstrap.Modal(document.getElementById('recordModal')).show();
+  });
+});
+
+document.getElementById('save-result-btn')?.addEventListener('click', function () {
+  const actualKills = document.getElementById('actual-kills-input').value;
+  const notes       = document.getElementById('notes-input').value;
+  if (!actualKills) { alert('Please enter actual kills'); return; }
+
+  fetch(`/api/predictions/${_activePredId}/result`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ actual_kills: parseFloat(actualKills), notes })
+  })
+  .then(r => r.json())
+  .then(d => {
+    if (d.success) {
+      const resultCell = document.getElementById(`result-${_activePredId}`);
+      const badgeClass = d.was_correct ? 'bg-success' : 'bg-danger';
+      const label      = d.was_correct ? '✓ Correct' : '✗ Wrong';
+      resultCell.innerHTML = `<span class="badge ${badgeClass}">${label}</span>
+        <small class="text-muted d-block">${d.actual_kills} actual</small>`;
+      // Remove the record button
+      const row = document.getElementById(`row-${_activePredId}`);
+      row?.querySelector('.record-btn')?.remove();
+      bootstrap.Modal.getInstance(document.getElementById('recordModal')).hide();
+    } else {
+      alert('Error: ' + d.error);
+    }
+  });
+});
+
+// Delete prediction
+document.querySelectorAll('.delete-btn').forEach(btn => {
+  btn.addEventListener('click', function () {
+    if (!confirm('Delete this prediction?')) return;
+    const id = this.dataset.id;
+    fetch(`/api/predictions/${id}`, { method: 'DELETE' })
+      .then(r => r.json())
+      .then(d => {
+        if (d.success) document.getElementById(`row-${id}`)?.remove();
+      });
+  });
+});
+</script>
+{% endblock %}
