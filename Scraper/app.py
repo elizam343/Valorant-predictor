@@ -191,40 +191,30 @@ def api_predict():
     """API endpoint for making predictions"""
     try:
         data = request.get_json()
-        
-        player_name = data.get('player_name')
-        player_team = data.get('player_team')
+
+        player_name   = data.get('player_name')
+        player_team   = data.get('player_team')
         opponent_team = data.get('opponent_team')
-        map_name = data.get('map_name')
-        series_type = data.get('series_type')
-        
+        map_name      = data.get('map_name')
+        series_type   = data.get('series_type')
+        kill_line     = data.get('kill_line')
+        tournament    = data.get('tournament', 'Unknown Tournament')
+
         if not all([player_name, player_team, opponent_team, map_name, series_type]):
-            return jsonify({
-                'success': False,
-                'error': 'Missing required parameters'
-            }), 400
-        
-        # Make prediction
+            return jsonify({'success': False, 'error': 'Missing required parameters'}), 400
+
         result = prediction_engine_instance.predict_performance(
-            player_name, player_team, opponent_team, map_name, series_type
+            player_name, player_team, opponent_team,
+            map_name, series_type, kill_line, tournament
         )
-        
+
         if 'error' in result:
-            return jsonify({
-                'success': False,
-                'error': result['error']
-            }), 400
-        
-        return jsonify({
-            'success': True,
-            'prediction': result
-        })
-        
+            return jsonify({'success': False, 'error': result['error']}), 400
+
+        return jsonify({'success': True, 'prediction': result})
+
     except Exception as e:
-        return jsonify({
-            'success': False,
-            'error': str(e)
-        }), 500
+        return jsonify({'success': False, 'error': str(e)}), 500
 
 @app.route('/api/player-insights/<player_name>/<team_name>')
 def api_player_insights(player_name, team_name):

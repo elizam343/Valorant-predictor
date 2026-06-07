@@ -1,0 +1,79 @@
+{
+  "backtest_config": {
+    "train_period": "before 2022-07-01",
+    "test_period": "2022-07-01 to 2023-01-28",
+    "matches": "34596 (2021-2023 only, stale)",
+    "train_rows": 414826,
+    "test_rows": 170291,
+    "kill_line_method": "synthetic (10-match rolling avg) \u2014 not real bookmaker lines"
+  },
+  "model_performance": {
+    "train_r2": 0.211,
+    "oos_r2": 0.07,
+    "oos_mae_kills_per_map": 5.225
+  },
+  "betting_accuracy": {
+    "always_over": 0.468,
+    "naive_baseline": 0.566,
+    "model_overall": 0.601,
+    "bookmaker_breakeven": 0.5238,
+    "model_vs_naive_delta": 0.035
+  },
+  "threshold_results": [
+    {
+      "min_edge_pct": 0,
+      "n_bets": 170291,
+      "pct_of_pool": 100.0,
+      "accuracy": 0.601,
+      "ev_per_110": 16.17
+    },
+    {
+      "min_edge_pct": 5,
+      "n_bets": 140972,
+      "pct_of_pool": 82.8,
+      "accuracy": 0.618,
+      "ev_per_110": 19.86
+    },
+    {
+      "min_edge_pct": 10,
+      "n_bets": 112470,
+      "pct_of_pool": 66.0,
+      "accuracy": 0.637,
+      "ev_per_110": 23.75
+    },
+    {
+      "min_edge_pct": 15,
+      "n_bets": 86139,
+      "pct_of_pool": 50.6,
+      "accuracy": 0.658,
+      "ev_per_110": 28.07
+    },
+    {
+      "min_edge_pct": 20,
+      "n_bets": 63732,
+      "pct_of_pool": 37.4,
+      "accuracy": 0.675,
+      "ev_per_110": 31.83
+    },
+    {
+      "min_edge_pct": 25,
+      "n_bets": 46185,
+      "pct_of_pool": 27.1,
+      "accuracy": 0.69,
+      "ev_per_110": 34.85
+    },
+    {
+      "min_edge_pct": 30,
+      "n_bets": 33552,
+      "pct_of_pool": 19.7,
+      "accuracy": 0.699,
+      "ev_per_110": 36.78
+    }
+  ],
+  "caveats": [
+    "Kill lines are synthetic (rolling avg), not real bookmaker lines",
+    "Data covers 2021-2023 only \u2014 3.5 years stale as of June 2026",
+    "True edge vs real bookmakers likely 2-5pp lower than reported",
+    "Must validate against real historical kill lines before real money"
+  ]
+}

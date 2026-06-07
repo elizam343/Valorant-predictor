@@ -91,8 +91,18 @@
                         <div class="col-md-6">
                     <div class="mb-3">
                         <label for="kill_line" class="form-label">Kill Line</label>
-                        <input type="number" class="form-control" id="kill_line" step="0.5" required>
-                        <div class="form-text">Enter the kill line (e.g., 18.5)</div>
+                        <div class="input-group">
+                            <input type="number" class="form-control" id="kill_line"
+                                   step="0.5" min="0" placeholder="e.g. 18.5" required>
+                            <select class="form-select" id="kill_line_unit" style="max-width:180px;">
+                                <option value="per_map" selected>per map</option>
+                                <option value="series_total">series total</option>
+                                <option value="per_round">per round</option>
+                            </select>
+                        </div>
+                        <div class="form-text" id="kill_line_hint">
+                            Enter kills per map (e.g. 15). Model predicts per-map kills.
+                        </div>
                     </div>
                     
                     <div class="mb-3">
@@ -220,9 +230,26 @@
 
 {% block extra_js %}
 <script>
-// Initialize searchable dropdowns
+// Kill line unit hint
+const UNIT_HINTS = {
+    'per_map':      'Enter kills per map (e.g. 15). Model predicts per-map kills.',
+    'series_total': 'Enter total kills across the series (e.g. 37.5 for a BO3). Model converts automatically.',
+    'per_round':    'Enter kills per round (e.g. 0.85). Model converts automatically.'
+};
+const UNIT_EXAMPLES = { 'per_map': 'e.g. 15', 'series_total': 'e.g. 37.5', 'per_round': 'e.g. 0.85' };
+
 document.addEventListener('DOMContentLoaded', function() {
     initializeSearchableDropdowns();
+
+    const unitSelect = document.getElementById('kill_line_unit');
+    const killLineInput = document.getElementById('kill_line');
+    const killLineHint = document.getElementById('kill_line_hint');
+
+    unitSelect.addEventListener('change', function() {
+        killLineHint.textContent = UNIT_HINTS[this.value];
+        killLineInput.placeholder = UNIT_EXAMPLES[this.value];
+        killLineInput.step = this.value === 'per_round' ? '0.05' : '0.5';
+    });
 });
 
 function initializeSearchableDropdowns() {
@@ -472,12 +499,13 @@ document.getElementById('prediction-form').addEventListener('submit', function(e
     const team = document.getElementById('team-select').value;
     const player = document.getElementById('player-select').value;
     const killLine = document.getElementById('kill_line').value;
+    const killLineUnit = document.getElementById('kill_line_unit').value;
     const opponentTeam = document.getElementById('opponent-team').value;
     const mapName = document.getElementById('map-name').value;
     const tournament = document.getElementById('tournament').value;
     const seriesType = document.getElementById('series_type').value;
     const mapsScope = document.getElementById('maps_scope').value;
-    
+
     if (!team || !player || !killLine) {
         alert('Please fill in team, player, and kill line');
         return;
@@ -498,6 +526,7 @@ document.getElementById('prediction-form').addEventListener('submit', function(e
             team: team,
             player_name: player,
             kill_line: parseFloat(killLine),
+            kill_line_unit: killLineUnit,
             opponent_team: opponentTeam,
             map: mapName,
             tournament: tournament,
@@ -525,89 +554,77 @@ document.getElementById('prediction-form').addEventListener('submit', function(e
 
 function displayPredictionResult(prediction) {
     const resultDiv = document.getElementById('prediction-result');
-    
-    let badgeClass = 'secondary';
-    let actionClass = 'secondary';
-    
-    if (prediction.prediction === 'OVER') {
-        badgeClass = 'success';
-        actionClass = 'success';
-    } else if (prediction.prediction === 'UNDER') {
-        badgeClass = 'danger';
-        actionClass = 'danger';
-    } else {
-        badgeClass = 'warning';
-        actionClass = 'warning';
-    }
-    
-    const confidencePercent = (prediction.confidence * 100).toFixed(1);
-    const overPercent = (prediction.over_probability * 100).toFixed(1);
-    const underPercent = (prediction.under_probability * 100).toFixed(1);
-    
+
+    const rec = prediction.prediction;
+    const badgeClass   = rec === 'OVER' ? 'success' : rec === 'UNDER' ? 'danger' : 'warning';
+    const alertClass   = rec === 'OVER' ? 'success' : rec === 'UNDER' ? 'danger' : 'warning';
+    const edge         = prediction.pct_edge || 0;
+    const edgeClass    = edge >= 20 ? 'success' : edge >= 10 ? 'warning' : 'danger';
+
+    // Show predicted value and kill line in the unit the user chose
+    const unitLabel  = prediction.unit_label || 'kills/map';
+    const predicted  = prediction.predicted_in_user_unit ?? prediction.predicted_kills;
+    const killLine   = prediction.kill_line_display ?? prediction.kill_line;
+
+    // 95% CI — convert to user unit
+    const ciLow  = prediction.confidence_interval_95
+                    ? _fromPerMap(prediction.confidence_interval_95[0], prediction.kill_line_unit)
+                    : null;
+    const ciHigh = prediction.confidence_interval_95
+                    ? _fromPerMap(prediction.confidence_interval_95[1], prediction.kill_line_unit)
+                    : null;
+
     resultDiv.innerHTML = `
-        <div class="alert alert-info">
-            <h5><i class="fas fa-chart-line"></i> Prediction Result</h5>
-            
-            <div class="row">
-                <div class="col-md-6">
-                    <h6>${prediction.player_name} (${prediction.team})</h6>
-                    <p><strong>Kill Line:</strong> ${prediction.kill_line}</p>
-                    <p><strong>Prediction:</strong> <span class="badge bg-${badgeClass}">${prediction.prediction}</span></p>
-                    <p><strong>Confidence:</strong> ${confidencePercent}%</p>
-                </div>
-                <div class="col-md-6">
-                    <h6>Probabilities</h6>
-                    <div class="progress mb-2">
-                        <div class="progress-bar bg-success" style="width: ${overPercent}%">${overPercent}% Over</div>
-                    </div>
-                    <div class="progress mb-2">
-                        <div class="progress-bar bg-danger" style="width: ${underPercent}%">${underPercent}% Under</div>
-                    </div>
-                </div>
+        <div class="card border-${badgeClass} mt-3">
+            <div class="card-header bg-${badgeClass} text-white d-flex justify-content-between align-items-center">
+                <strong><i class="fas fa-chart-line"></i> Prediction: ${rec}</strong>
+                <span class="badge bg-light text-dark">${edge.toFixed(1)}% model edge</span>
             </div>
-            
-            <div class="alert alert-${actionClass} mt-3">
-                <strong>Recommendation:</strong> ${prediction.recommended_action}
-            </div>
-            
-            ${prediction.confidence >= 0.7 ? 
-                '<div class="alert alert-success"><i class="fas fa-check-circle"></i> High confidence prediction - Good for betting!</div>' :
-                '<div class="alert alert-warning"><i class="fas fa-exclamation-triangle"></i> Low confidence - Consider avoiding this bet.</div>'
-            }
-            
-            ${prediction.explanation ? `
-                <div class="mt-4">
-                    <h6><i class="fas fa-lightbulb"></i> Detailed Analysis</h6>
-                    <div class="card">
-                        <div class="card-body">
-                            <pre style="white-space: pre-wrap; font-family: inherit; margin: 0;">${prediction.explanation}</pre>
-                        </div>
+            <div class="card-body">
+
+                <div class="row mb-3">
+                    <div class="col-6">
+                        <div class="text-muted small">Kill line (${unitLabel})</div>
+                        <div class="fs-4 fw-bold">${killLine}</div>
+                    </div>
+                    <div class="col-6">
+                        <div class="text-muted small">Model predicts (${unitLabel})</div>
+                        <div class="fs-4 fw-bold text-${badgeClass}">${predicted}</div>
+                        ${ciLow !== null ? `<div class="text-muted small">95% CI: ${ciLow.toFixed(1)} – ${ciHigh.toFixed(1)}</div>` : ''}
                     </div>
                 </div>
-            ` : ''}
-            
-            ${prediction.player_stats && Object.keys(prediction.player_stats).length > 0 ? `
+
+                <div class="alert alert-${edgeClass} py-2 mb-2">
+                    <i class="fas fa-${edge >= 20 ? 'check-circle' : edge >= 10 ? 'exclamation-circle' : 'times-circle'}"></i>
+                    ${prediction.edge_label || ''}
+                </div>
+
+                <div class="alert alert-${alertClass} py-2 mb-0">
+                    <strong>Recommended action:</strong> ${prediction.recommended_action}
+                </div>
+
+                ${prediction.explanation ? `
                 <div class="mt-3">
-                    <h6><i class="fas fa-chart-bar"></i> Player Statistics</h6>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <small><strong>Rating:</strong> ${prediction.player_stats.rating?.toFixed(2) || 'N/A'}</small><br>
-                            <small><strong>Kills/Round:</strong> ${prediction.player_stats.kills_per_round?.toFixed(2) || 'N/A'}</small><br>
-                            <small><strong>ACS:</strong> ${prediction.player_stats.average_combat_score?.toFixed(0) || 'N/A'}</small>
-                        </div>
-                        <div class="col-md-6">
-                            <small><strong>K/D:</strong> ${prediction.player_stats.kill_deaths?.toFixed(2) || 'N/A'}</small><br>
-                            <small><strong>HS%:</strong> ${prediction.player_stats.headshot_percentage?.toFixed(1) || 'N/A'}%</small><br>
-                            <small><strong>Clutch%:</strong> ${prediction.player_stats.clutch_success_percentage?.toFixed(1) || 'N/A'}%</small>
-                        </div>
-                    </div>
-                </div>
-            ` : ''}
+                    <div class="text-muted small mb-1">Reasoning</div>
+                    <div class="text-muted small">${prediction.explanation}</div>
+                </div>` : ''}
+
+            </div>
         </div>
     `;
-    
+
     resultDiv.style.display = 'block';
     resultDiv.scrollIntoView({ behavior: 'smooth' });
+}
+
+// Helper so the client-side can mirror the backend unit conversion for the CI display
+function _fromPerMap(killsPerMap, unit) {
+    const AVG_ROUNDS = 18.5;
+    const EXPECTED_MAPS = { 'BO1': 1.0, 'BO3': 2.5, 'BO5': 3.5 };
+    const seriesType = document.getElementById('series_type')?.value || 'BO3';
+    if (unit === 'per_round')    return killsPerMap / AVG_ROUNDS;
+    if (unit === 'series_total') return killsPerMap * (EXPECTED_MAPS[seriesType] || 2.5);
+    return killsPerMap;
 }
 </script>
 {% endblock %}

@@ -271,19 +271,29 @@ class ValorantDatabase:
                     team_name = player_data.get('team', 'Unknown Team')
                     team_id = self.get_or_create_team(team_name, conn=conn, cursor=cursor)
                     player_id = self.get_or_create_player(player_name, team_id, conn=conn, cursor=cursor)
-                    kills = int(player_data.get('kills', 0))
-                    deaths = int(player_data.get('deaths', 0)) if player_data.get('deaths') else 0
-                    assists = int(player_data.get('assists', 0)) if player_data.get('assists') else 0
-                    acs_str = player_data.get('acs', '0')
-                    adr_str = player_data.get('adr', '0')
-                    fk_str = player_data.get('fk', '0')
-                    hs_str = player_data.get('hs%', '0%')
-                    kdr_str = player_data.get('kdr', '0')
-                    acs = float(acs_str.split('\n')[0]) if acs_str and acs_str != '0' else 0.0
-                    adr = float(adr_str.split('\n')[0]) if adr_str and adr_str != '0' else 0.0
-                    fk = int(fk_str.split('\n')[0]) if fk_str and fk_str != '0' else 0
-                    hs_percentage = float(hs_str.replace('%', '').split('\n')[0]) if hs_str and hs_str != '0%' else 0.0
-                    kdr = float(kdr_str.split('\n')[0]) if kdr_str and kdr_str != '0' else 0.0
+                    def _p(v, default="0"):
+                        return str(v).split("\n")[0].strip() or default
+
+                    def _pf(v, default=0.0):
+                        try:
+                            return float(_p(v))
+                        except (ValueError, TypeError):
+                            return default
+
+                    def _pi(v, default=0):
+                        try:
+                            return int(float(_p(v)))
+                        except (ValueError, TypeError):
+                            return default
+
+                    kills   = _pi(player_data.get('kills', 0))
+                    deaths  = _pi(player_data.get('deaths', 0))
+                    assists = _pi(player_data.get('assists', 0))
+                    acs     = _pf(player_data.get('acs', '0'))
+                    adr     = _pf(player_data.get('adr', '0'))
+                    fk      = _pi(player_data.get('fk', '0'))
+                    hs_percentage = _pf(str(player_data.get('hs%', '0%')).replace('%', ''))
+                    kdr     = _pf(player_data.get('kd_diff', player_data.get('kdr', '0')))
                     cursor.execute("""
                         INSERT INTO player_match_stats 
                         (match_id, map_id, player_id, team_id, kills, deaths, assists, acs, adr, fk, hs_percentage, kdr)

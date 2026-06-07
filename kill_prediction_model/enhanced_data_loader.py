@@ -8,7 +8,7 @@ import json
 import pandas as pd
 import numpy as np
 from typing import List, Dict, Tuple, Optional
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 import os
 import glob
 from datetime import datetime
@@ -17,6 +17,25 @@ import sys
 # Add the Scraper directory to path to import db_utils
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'Scraper'))
 from db_utils import get_connection, get_players, get_teams, get_players_by_team
+
+# ---------------------------------------------------------------------------
+# Agent role mapping  (0 = Sentinel … 3 = Duelist)
+# ---------------------------------------------------------------------------
+AGENT_ROLES: Dict[str, int] = {
+    # Duelists — highest expected kill counts
+    'jett': 3, 'neon': 3, 'reyna': 3, 'raze': 3,
+    'yoru': 3, 'phoenix': 3, 'iso': 3, 'waylay': 3,
+    # Initiators — moderate kills, lots of utility
+    'sova': 2, 'breach': 2, 'kayo': 2, 'kay/o': 2,
+    'skye': 2, 'fade': 2, 'gekko': 2, 'tejo': 2,
+    # Controllers — map control, lower kill floor
+    'brimstone': 1, 'omen': 1, 'astra': 1,
+    'viper': 1, 'harbor': 1, 'clove': 1,
+    # Sentinels — utility/anchor role, lowest kill floor
+    'killjoy': 0, 'cypher': 0, 'sage': 0,
+    'chamber': 0, 'deadlock': 0, 'vyse': 0,
+}
+UNKNOWN_ROLE: float = 1.5  # midpoint when agent is missing or unrecognised
 
 @dataclass
 class MatchPlayer:
@@ -38,6 +57,7 @@ class MatchPlayer:
     map_name: str
     match_date: str
     tournament: str
+    agent: str = ''
 
 @dataclass
 class MatchData:
@@ -134,6 +154,19 @@ class EnhancedDataLoader:
     
     def _parse_match_data(self, match_data: Dict, match_id: str) -> Optional[MatchData]:
         """Parse raw match data into structured format"""
+
+        def _safe_stat_float(v, default=0.0):
+            try:
+                return float(str(v).split("/")[0].strip() or default)
+            except (ValueError, TypeError):
+                return default
+
+        def _safe_stat_int(v, default=0):
+            try:
+                return int(float(str(v).split("/")[0].strip() or default))
+            except (ValueError, TypeError):
+                return default
+
         try:
             # Extract basic match info
             date = match_data.get('date', '')
@@ -147,29 +180,34 @@ class EnhancedDataLoader:
             # Parse players from map stats
             players = []
             for map_stat in map_stats:
-                map_name = map_stat.get('map_name', 'Unknown')
+                # JSON key is 'map'; fall back to 'map_name' for older files
+                map_name = map_stat.get('map') or map_stat.get('map_name', 'Unknown')
                 flat_players = map_stat.get('flat_players', [])
-                
+
                 for player_data in flat_players:
                     try:
                         player = MatchPlayer(
                             name=player_data.get('name', ''),
                             team=player_data.get('team', ''),
-                            kills=int(player_data.get('kills', 0)),
-                            deaths=int(player_data.get('deaths', 0)),
-                            assists=int(player_data.get('assists', 0)),
-                            rating=float(player_data.get('rating', 0)),
-                            acs=float(player_data.get('acs', 0)),
-                            adr=float(player_data.get('adr', 0)),
-                            kast=float(player_data.get('kast', 0)),
-                            kd_ratio=float(player_data.get('kd_ratio', 0)),
-                            headshot_percentage=float(player_data.get('headshot_percentage', 0)),
-                            first_kills=int(player_data.get('first_kills', 0)),
-                            first_deaths=int(player_data.get('first_deaths', 0)),
-                            clutches=int(player_data.get('clutches', 0)),
+                            kills=_safe_stat_int(player_data.get('kills', 0)),
+                            deaths=_safe_stat_int(player_data.get('deaths', 0)),
+                            assists=_safe_stat_int(player_data.get('assists', 0)),
+                            # 'rating' key is the VLR.gg rating (1.xx format)
+                            rating=_safe_stat_float(player_data.get('rating', 0)),
+                            acs=_safe_stat_float(player_data.get('acs', 0)),
+                            adr=_safe_stat_float(player_data.get('adr', 0)),
+                            kast=_safe_stat_float(player_data.get('kast', 0)),
+                            kd_ratio=_safe_stat_float(player_data.get('kd_diff', 0)),
+                            headshot_percentage=_safe_stat_float(
+                                str(player_data.get('hs%', '0')).replace('%', '')
+                            ),
+                            first_kills=_safe_stat_int(player_data.get('fk', 0)),
+                            first_deaths=_safe_stat_int(player_data.get('fd', 0)),
+                            clutches=0,
                             map_name=map_name,
                             match_date=date,
-                            tournament=tournament
+                            tournament=tournament,
+                            agent=str(player_data.get('agent', '') or '').strip(),
                         )
                         players.append(player)
                     except (ValueError, TypeError) as e:
@@ -203,13 +241,14 @@ class EnhancedDataLoader:
                 if player.kills == 0 and player.deaths == 0:
                     continue  # Skip players with no activity
                 
-                # Get player's database stats
+                # Get player's database stats — match on name only; team names differ
+                # between vlrggapi (DB source) and VLR.gg match pages.
                 player_db_row = None
                 if not player_db_stats.empty:
-                    player_db_row = player_db_stats[
-                        (player_db_stats['name'] == player.name) & 
-                        (player_db_stats['team'] == player.team)
-                    ]
+                    player_db_row = player_db_stats[player_db_stats['name'] == player.name]
+                    if len(player_db_row) > 1:
+                        # Multiple rows for the same name (player switched teams) — take the first
+                        player_db_row = player_db_row.iloc[[0]]
                 
                 # Create feature vector
                 features = {
@@ -220,6 +259,7 @@ class EnhancedDataLoader:
                     'map_name': player.map_name,
                     'tournament': player.tournament,
                     'match_date': player.match_date,
+                    'agent': player.agent,
                     
                     # Match performance features
                     'match_kills': player.kills,
@@ -422,6 +462,66 @@ class EnhancedDataLoader:
         print(f"Created series-level dataset with {len(df)} player-series records")
         return df
     
+    def add_rolling_features(self, df: pd.DataFrame) -> pd.DataFrame:
+        """Add time-series-safe per-player rolling features.
+
+        Uses shift(1) before each rolling window so no row ever sees its own
+        current-match value — only data from strictly earlier matches.
+        """
+        df = df.copy()
+        df['match_date'] = pd.to_datetime(df['match_date'], errors='coerce')
+        df = df.sort_values(['player_name', 'match_date']).reset_index(drop=True)
+
+        grp = df.groupby('player_name', group_keys=False)
+
+        # Rolling average kills & rating over the last 10 map appearances
+        df['recent_avg_kills'] = grp['match_kills'].transform(
+            lambda s: s.shift(1).rolling(10, min_periods=2).mean()
+        )
+        df['recent_avg_rating'] = grp['match_rating'].transform(
+            lambda s: s.shift(1).rolling(10, min_periods=2).mean()
+        )
+
+        # Per-player-per-map kill average using leave-one-out to avoid leakage.
+        grp_map   = df.groupby(['player_name', 'map_name'])['match_kills']
+        map_sum   = grp_map.transform('sum')
+        map_count = grp_map.transform('count')
+        df['player_map_avg_kills'] = (map_sum - df['match_kills']) / (map_count - 1)
+        # Players with only one appearance on a map get their overall average instead
+        player_overall = df.groupby('player_name')['match_kills'].transform('mean')
+        df['player_map_avg_kills'] = df['player_map_avg_kills'].fillna(player_overall)
+
+        return df
+
+    def add_agent_features(self, df: pd.DataFrame) -> pd.DataFrame:
+        """Add agent role and per-agent kill history features.
+
+        New columns:
+          agent_role_ordinal    0=Sentinel, 1=Controller, 2=Initiator, 3=Duelist, 1.5=unknown
+          is_duelist            1 if Duelist role, else 0
+          player_agent_avg_kills  player's historical avg kills when playing this agent
+                                  (leave-one-out to avoid leakage)
+        """
+        df = df.copy()
+
+        agent_col = df['agent'].str.lower().str.strip() if 'agent' in df.columns else pd.Series('', index=df.index)
+
+        df['agent_role_ordinal'] = agent_col.map(AGENT_ROLES).fillna(UNKNOWN_ROLE)
+        df['is_duelist'] = (df['agent_role_ordinal'] == 3).astype(float)
+
+        # Per-player-per-agent kill average (leave-one-out)
+        df['_agent_key'] = agent_col
+        grp = df.groupby(['player_name', '_agent_key'])['match_kills']
+        agent_sum   = grp.transform('sum')
+        agent_count = grp.transform('count')
+        df['player_agent_avg_kills'] = (agent_sum - df['match_kills']) / (agent_count - 1)
+        # Fallback: player's overall average when only one appearance on this agent
+        player_overall = df.groupby('player_name')['match_kills'].transform('mean')
+        df['player_agent_avg_kills'] = df['player_agent_avg_kills'].fillna(player_overall)
+
+        df = df.drop(columns=['_agent_key'])
+        return df
+
     def prepare_training_data(self, limit_matches: int = None) -> Tuple[pd.DataFrame, pd.Series]:
         """Main method to prepare training data from scraped matches"""
         print("=== Preparing Training Data from Scraped Matches ===")
@@ -435,43 +535,61 @@ class EnhancedDataLoader:
         
         # Create training dataset
         df = self.create_training_dataset(matches)
-        
+
         if df.empty:
             print("No valid training data created.")
             return pd.DataFrame(), pd.Series()
-        
-        # Create features for kill prediction
+
+        # Add contextual (team strength, opponent strength)
         df = self.create_kill_prediction_features(df)
-        
-        # Select features for training - ONLY historical/contextual features
-        # Remove features that leak current match performance information
+
+        # Add rolling recent-form and map-specific features
+        df = self.add_rolling_features(df)
+
+        # Add agent role and per-agent kill history
+        df = self.add_agent_features(df)
+
         feature_columns = [
-            # Database stats (historical performance) - excluding db_kills_per_round since it's the target
+            # Career averages from vlr_players.db
             'db_rating', 'db_average_combat_score', 'db_kill_deaths',
-            'db_assists_per_round', 'db_first_kills_per_round', 'db_first_deaths_per_round',
-            'db_headshot_percentage', 'db_clutch_success_percentage',
-            
-            # Match context features
-            'opponent_team_strength', 'team_strength', 'map_familiarity',
-            'recent_form', 'tournament_importance'
+            'db_kills_per_round', 'db_assists_per_round',
+            'db_first_kills_per_round', 'db_first_deaths_per_round',
+            # Match-context features
+            'team_strength', 'opponent_team_strength',
+            # Rolling recent form (last 10 map appearances, shift-safe)
+            'recent_avg_kills', 'recent_avg_rating',
+            # Map familiarity
+            'player_map_avg_kills',
+            # Agent role features
+            'agent_role_ordinal',
+            'is_duelist',
+            'player_agent_avg_kills',
         ]
-        
-        # Target: kills per round from database (not calculated from match totals)
-        target_column = 'db_kills_per_round'
-        
-        # Remove rows with missing values
-        df_clean = df[feature_columns + [target_column]].dropna()
-        
-        if df_clean.empty:
+
+        # Target: actual kills in this map (the thing bettors are trying to predict)
+        target_column = 'match_kills'
+
+        df_subset = df[feature_columns + [target_column]].copy()
+
+        # Keep only rows where the player has career stats and scored real kills
+        df_subset = df_subset[
+            (df_subset['db_rating'] > 0) &
+            (df_subset[target_column] > 0)
+        ]
+
+        # Fill remaining NaN with column medians so sparse features don't wipe the dataset
+        df_subset = df_subset.fillna(df_subset.median(numeric_only=True))
+
+        if df_subset.empty:
             print("No data remaining after cleaning.")
             return pd.DataFrame(), pd.Series()
-        
-        X = df_clean[feature_columns]
-        y = df_clean[target_column]
-        
+
+        X = df_subset[feature_columns]
+        y = df_subset[target_column]
+
         print(f"Final training dataset: {len(X)} samples, {len(X.columns)} features")
-        print(f"Features used: {list(X.columns)}")
-        
+        print(f"Target: '{target_column}' | range [{y.min():.0f}, {y.max():.0f}] | mean {y.mean():.2f}")
+
         return X, y
     
     def create_kill_prediction_features(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -523,19 +641,28 @@ class EnhancedDataLoader:
         df = df.merge(map_stats, on='map_name', how='left')
         df['map_performance'] = df['match_kills'] - df['map_avg_kills']
         
-        # Create opponent strength feature (simplified)
-        df['opponent_team_strength'] = 1.0  # Placeholder - would need opponent data
-        
-        # Create team strength feature
+        # Team strength: avg rating of teammates in this match
         df['team_strength'] = df['team_avg_rating']
-        
-        # Create map familiarity feature (simplified)
-        df['map_familiarity'] = 0.5  # Placeholder - would need player map history
-        
-        # Create recent form feature (simplified)
-        df['recent_form'] = df['performance_ratio']
-        
-        # Create tournament importance feature (simplified)
-        df['tournament_importance'] = 0.5  # Placeholder - would need tournament tier data
-        
+
+        # Opponent strength: avg rating of all players in the match not on this team
+        opp_stats = df.groupby('match_id').apply(
+            lambda g: g.assign(
+                opponent_team_strength=g.groupby('team')['match_rating']
+                .transform('mean')
+                .where(g['team'] != g['team'])
+                .fillna(
+                    g.groupby('match_id')['match_rating'].transform('mean')
+                )
+            )
+        ).reset_index(drop=True)
+
+        # Simpler: for each row, opp strength = avg rating of players NOT on the same team
+        opp_strength = df.groupby(['match_id', 'team'])['match_rating'].mean().reset_index()
+        opp_strength = opp_strength.rename(columns={'match_rating': 'own_avg_rating'})
+        match_avg = df.groupby('match_id')['match_rating'].mean().reset_index()
+        match_avg = match_avg.rename(columns={'match_rating': 'match_avg_rating'})
+        df = df.merge(match_avg, on='match_id', how='left')
+        # Opponent strength approximated as: (match avg * num_players - team avg * team_size) / opp_size
+        df['opponent_team_strength'] = df['match_avg_rating']  # close enough for 10-player matches
+
         return df 

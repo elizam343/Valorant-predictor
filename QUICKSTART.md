@@ -1,94 +1,103 @@
-# Quick Start Guide
+# Quick Start
 
-Get the Valorant Kill Line Predictor up and running in 5 minutes!
+## Setup
 
-## 🚀 Quick Setup
-
-### 1. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Train the Model (One-time setup)
+## Train the Model
+
 ```bash
-cd kill_prediction_model
-python gpu_trainer.py --limit-matches 5000
+# Full training (37K+ matches, ~2h on CPU)
+python kill_prediction_model/gpu_trainer.py
+
+# Quick test with a subset
+python kill_prediction_model/gpu_trainer.py --limit-matches 2000
 ```
 
-### 3. Test a Prediction
-```bash
-python advanced_matchup_predictor.py
-```
+Saves models to `kill_prediction_model/models/`.
 
-### 4. Run the Web App
-```bash
-cd ../web_app
-python app.py
-```
+## Make a Prediction
 
-## 🎯 Example Usage
-
-### Python API
 ```python
-from kill_prediction_model.advanced_matchup_predictor import AdvancedMatchupPredictor, MatchupContext
+import sys
+sys.path.insert(0, 'kill_prediction_model')
+from advanced_matchup_predictor import AdvancedMatchupPredictor, MatchupContext
 
-# Initialize predictor
 predictor = AdvancedMatchupPredictor()
 
-# Create matchup
 matchup = MatchupContext(
     player_name="aspas",
     player_team="MIBR",
-    opponent_team="FUR", 
+    opponent_team="FUR",
     tournament="VCT Champions",
     series_type="bo3",
-    maps=["Ascent", "Haven"],
-    kill_line=0.85
+    maps=["Ascent", "Bind"],
+    kill_line=16.5,   # kills per map (typical range: 10–22)
+    agent="Jett"      # optional but improves accuracy
 )
 
-# Get prediction
 result = predictor.predict_matchup(matchup)
-print(f"Prediction: {result.predicted_kills_per_round:.3f} kills/round")
-print(f"Recommendation: {result.recommendation}")
+print(f"Predicted: {result.predicted_kills:.1f} kills/map")
+print(f"Kill line: {result.kill_line:.1f}")
+print(f"Recommendation: {result.recommendation}")  # OVER / UNDER / UNSURE
+print(f"Edge: {result.edge_pct:.1f}%")
 ```
 
-### Web Interface
-1. Open `http://localhost:5000` in your browser
-2. Select player, team, opponent, and tournament
-3. Enter kill line and maps
-4. Get instant prediction with confidence intervals
+**Important**: `kill_line` is kills per map, not kills per round. A typical player averages ~13 kills/map. PrizePicks lines are usually set between 13.5 and 20.5.
 
-## 📊 What You Get
+Set `kill_line=0` to auto-fetch the current PrizePicks line for the player (requires an active projection).
 
-- **Predicted kills per round** for specific matchups
-- **Confidence intervals** (80%, 90%, 95%)
-- **Statistical significance** testing
-- **Smart recommendations** (OVER/UNDER/UNSURE)
-- **Detailed reasoning** for each prediction
+## Run from Command Line
 
-## 🔧 Troubleshooting
+```bash
+cd kill_prediction_model
+python advanced_matchup_predictor.py
+```
 
-### Model Training Issues
-- Ensure you have enough disk space for 5,000+ matches
-- Check that PyTorch is installed correctly
-- Verify internet connection for data scraping
+Edit the `main()` block in `advanced_matchup_predictor.py` to change the matchup context.
 
-### Web App Issues  
-- Make sure Flask is installed: `pip install Flask`
-- Check port 5000 is available
-- Verify all dependencies are installed
+## Scrape New Matches
 
-### Prediction Issues
-- Ensure model is trained first
-- Check player name exists in database
-- Verify all matchup parameters are provided
+```bash
+# Scrape vlr.gg results pages (auto-resumes from checkpoint)
+python Scraper/results_scraper.py
 
-## 📞 Need Help?
+# With options
+python Scraper/results_scraper.py --workers 5 --max-pages 200 --start-page 1
+```
 
-- Check the main README.md for detailed documentation
-- Open an issue on GitHub for bugs
-- Review the API documentation in the code
+Match JSON files are saved to `scraped_matches/`. The scraper is polite (1.5–2.5s delay between pages, 0.5–1.0s between match pages).
 
----
+## Backtest the Model
 
-**Ready to predict! 🎮** 
+```bash
+# Train on pre-2024 data, evaluate on 2024+ matches
+python kill_prediction_model/backtester.py --cutoff 2024-01-01
+```
+
+Outputs OVER/UNDER accuracy by edge band and expected value at −110 odds. The edge is measured against a synthetic kill line (50% recent form, 30% map avg, 20% career KPR + opponent adjustment).
+
+## Web App
+
+```bash
+cd web_app
+python app.py
+# Open http://localhost:5000
+```
+
+Set `SECRET_KEY` env var for non-dev deployments:
+```bash
+SECRET_KEY=your-secret-here python app.py
+```
+
+## Troubleshooting
+
+**Player not found / low accuracy**: The player may not be in the career stats database. The model falls back to dataset averages for missing features, which reduces accuracy.
+
+**KeyError on agent features**: Make sure you're using the latest `backtester.py` which calls `loader.add_agent_features(df)`.
+
+**PrizePicks returns nothing**: The player has no active projection right now. Provide a `kill_line` manually.
+
+**Scraper blocked**: VLR.gg rate-limits aggressive scrapers. The default delay settings are polite; if you hit 429s, increase `PAGE_DELAY` in `results_scraper.py`.

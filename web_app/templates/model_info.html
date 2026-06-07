@@ -1,0 +1,188 @@
+{% extends "base.html" %}
+{% block title %}Model Info — Valorant Kill Line Predictor{% endblock %}
+
+{% block content %}
+{% if report.error is defined %}
+<div class="alert alert-danger mt-3">
+  <strong><i class="fas fa-exclamation-circle"></i> Backtest report unavailable</strong><br>
+  {{ report.error }}<br>
+  <small class="text-muted">Run <code>python3 kill_prediction_model/backtester.py</code> from the project root to generate it.</small>
+</div>
+{% else %}
+<div class="row mb-3">
+  <div class="col-12">
+    <h3><i class="fas fa-flask"></i> Model Performance & Backtest Results</h3>
+    <p class="text-muted">
+      How the model was built, how accurate it is, and at what confidence threshold
+      it is historically profitable. Read this before using predictions for betting.
+    </p>
+  </div>
+</div>
+
+{# ── Caveat banner ──────────────────────────────────────────────── #}
+<div class="alert alert-warning">
+  <strong><i class="fas fa-exclamation-triangle"></i> Important caveats</strong>
+  <ul class="mb-0 mt-1">
+    {% for c in report.caveats %}
+    <li>{{ c }}</li>
+    {% endfor %}
+  </ul>
+</div>
+
+{# ── Summary cards ──────────────────────────────────────────────── #}
+<div class="row g-3 mb-4">
+  <div class="col-md-3">
+    <div class="card text-center h-100">
+      <div class="card-body">
+        <div class="text-muted small">Out-of-sample R²</div>
+        <div class="display-6 fw-bold">{{ "%.3f"|format(report.model_performance.oos_r2) }}</div>
+        <div class="text-muted small">train={{ "%.3f"|format(report.model_performance.train_r2) }}</div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-3">
+    <div class="card text-center h-100">
+      <div class="card-body">
+        <div class="text-muted small">Mean abs. error</div>
+        <div class="display-6 fw-bold">{{ "%.2f"|format(report.model_performance.oos_mae_kills_per_map) }}</div>
+        <div class="text-muted small">kills / map</div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-3">
+    <div class="card text-center h-100 border-{{ 'success' if report.betting_accuracy.model_overall >= report.betting_accuracy.bookmaker_breakeven else 'danger' }}">
+      <div class="card-body">
+        <div class="text-muted small">Overall accuracy</div>
+        <div class="display-6 fw-bold text-{{ 'success' if report.betting_accuracy.model_overall >= report.betting_accuracy.bookmaker_breakeven else 'danger' }}">
+          {{ "%.1f"|format(report.betting_accuracy.model_overall * 100) }}%
+        </div>
+        <div class="text-muted small">
+          vs naive {{ "%.1f"|format(report.betting_accuracy.naive_baseline * 100) }}%
+          &nbsp;(+{{ "%.1f"|format(report.betting_accuracy.model_vs_naive_delta * 100) }}pp)
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-3">
+    <div class="card text-center h-100 border-info">
+      <div class="card-body">
+        <div class="text-muted small">Break-even (−110)</div>
+        <div class="display-6 fw-bold text-info">
+          {{ "%.1f"|format(report.betting_accuracy.bookmaker_breakeven * 100) }}%
+        </div>
+        <div class="text-muted small">
+          test rows: {{ "{:,}".format(report.backtest_config.test_rows) }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{# ── Threshold table ─────────────────────────────────────────────── #}
+<div class="card mb-4">
+  <div class="card-header d-flex justify-content-between align-items-center">
+    <strong><i class="fas fa-sliders-h"></i> Accuracy by minimum edge threshold</strong>
+    <span class="text-muted small">Bet only when model edge ≥ X%</span>
+  </div>
+  <div class="card-body p-0">
+    <table class="table table-hover mb-0">
+      <thead class="table-dark">
+        <tr>
+          <th>Min edge</th>
+          <th class="text-end">Bets available</th>
+          <th class="text-end">% of all matchups</th>
+          <th class="text-end">Accuracy</th>
+          <th class="text-end">EV / $110 bet</th>
+          <th class="text-center">Profitable?</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in report.threshold_results %}
+        {% set is_recommended = row.min_edge_pct == 20 %}
+        <tr class="{{ 'table-success fw-bold' if is_recommended else '' }}">
+          <td>
+            ≥ {{ row.min_edge_pct }}%
+            {% if is_recommended %}
+              <span class="badge bg-success ms-1">recommended</span>
+            {% endif %}
+          </td>
+          <td class="text-end">{{ "{:,}".format(row.n_bets) }}</td>
+          <td class="text-end">{{ "%.1f"|format(row.pct_of_pool) }}%</td>
+          <td class="text-end {{ 'text-success' if row.accuracy >= report.betting_accuracy.bookmaker_breakeven else 'text-danger' }}">
+            {{ "%.1f"|format(row.accuracy * 100) }}%
+          </td>
+          <td class="text-end {{ 'text-success' if row.ev_per_110 > 0 else 'text-danger' }}">
+            ${{ "%+.2f"|format(row.ev_per_110) }}
+          </td>
+          <td class="text-center">
+            {% if row.profitable %}
+              <span class="badge bg-success">YES</span>
+            {% else %}
+              <span class="badge bg-secondary">no</span>
+            {% endif %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <div class="card-footer text-muted small">
+    EV calculated at −110 odds (standard US sportsbook). Break-even = 52.38%.
+    "Recommended" row (≥20% edge) covers {{ "%.0f"|format(report.threshold_results[4].pct_of_pool) }}%
+    of matchups with {{ "%.1f"|format(report.threshold_results[4].accuracy * 100) }}% historical accuracy.
+  </div>
+</div>
+
+{# ── How to use callout ──────────────────────────────────────────── #}
+<div class="card border-primary mb-4">
+  <div class="card-header bg-primary text-white">
+    <strong><i class="fas fa-lightbulb"></i> How to use this in practice</strong>
+  </div>
+  <div class="card-body">
+    <ol class="mb-0">
+      <li>Make a prediction on the <a href="{{ url_for('predictions') }}">Predictions page</a>.</li>
+      <li>Check the <strong>model edge %</strong> shown on the result card.</li>
+      <li>
+        Only consider betting when edge is <strong>≥ 20%</strong>
+        (historically {{ "%.1f"|format(report.threshold_results[4].accuracy * 100) }}% accurate,
+        ${{ "%+.2f"|format(report.threshold_results[4].ev_per_110) }} EV per $110).
+      </li>
+      <li>Below 10% edge the model is not profitable — skip those matchups.</li>
+      <li>
+        <strong>These numbers are based on 2021–2023 data with synthetic kill lines.</strong>
+        Accuracy against real sportsbook lines will be lower. Validate with real lines
+        for several weeks before sizing bets.
+      </li>
+    </ol>
+  </div>
+</div>
+
+{# ── Backtest config ─────────────────────────────────────────────── #}
+<div class="card mb-4">
+  <div class="card-header">
+    <strong><i class="fas fa-info-circle"></i> Backtest configuration</strong>
+  </div>
+  <div class="card-body">
+    <div class="row">
+      <div class="col-md-6">
+        <table class="table table-sm table-borderless mb-0">
+          <tr><td class="text-muted">Train period</td><td>{{ report.backtest_config.train_period }}</td></tr>
+          <tr><td class="text-muted">Test period</td><td>{{ report.backtest_config.test_period }}</td></tr>
+          <tr><td class="text-muted">Training rows</td><td>{{ "{:,}".format(report.backtest_config.train_rows) }}</td></tr>
+          <tr><td class="text-muted">Test rows</td><td>{{ "{:,}".format(report.backtest_config.test_rows) }}</td></tr>
+        </table>
+      </div>
+      <div class="col-md-6">
+        <table class="table table-sm table-borderless mb-0">
+          <tr><td class="text-muted">Data coverage</td><td>{{ report.backtest_config.matches }}</td></tr>
+          <tr><td class="text-muted">Kill line method</td><td>{{ report.backtest_config.kill_line_method }}</td></tr>
+          <tr><td class="text-muted">Model</td><td>Gradient Boosting (400 trees, depth 5)</td></tr>
+          <tr><td class="text-muted">Features</td><td>12 (career stats + rolling form + map avg)</td></tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endif %}
+{% endblock %}

@@ -13,7 +13,8 @@ from scipy import stats
 from dataclasses import dataclass
 import json
 from gpu_trainer import KillPredictionNN
-from enhanced_data_loader import EnhancedDataLoader
+from enhanced_data_loader import EnhancedDataLoader, AGENT_ROLES, UNKNOWN_ROLE
+from kill_line_fetcher import KillLineFetcher
 
 @dataclass
 class MatchupContext:
@@ -25,6 +26,7 @@ class MatchupContext:
     series_type: str  # e.g., "bo3", "bo5", "group_stage", "playoffs"
     maps: List[str]
     kill_line: float  # bookmaker's kill line (kills per round)
+    agent: str = ''   # agent the player is expected to play (optional)
     
     def to_dict(self) -> Dict:
         return {
@@ -66,35 +68,90 @@ class PredictionResult:
         }
 
 class AdvancedMatchupPredictor:
-    def __init__(self, model_path: str = "models/neural_network_gpu_model.pkl"):
-        """Initialize the advanced predictor with trained model"""
+    def __init__(self, model_path: str = "models/neural_network_gpu_model.pkl",
+                 cache_matches: int = 3000):
+        """Initialize the advanced predictor with trained model.
+
+        Loads match history once at startup and precomputes per-player/team
+        lookup tables so each prediction is a dict lookup rather than a full
+        disk scan.  cache_matches controls how many recent match files are
+        read for the cache (more = better coverage, slower startup).
+        """
         self.load_model(model_path)
         self.data_loader = EnhancedDataLoader()
+        self._build_cache(cache_matches)
+        self._line_fetcher = KillLineFetcher()
+
+    # ------------------------------------------------------------------
+    # One-time cache build
+    # ------------------------------------------------------------------
+
+    def _build_cache(self, limit: int):
+        """Precompute team strengths and per-player stats from match history."""
+        from collections import defaultdict
+        print(f"Building prediction cache from {limit} matches...", flush=True)
+
+        matches = self.data_loader.load_scraped_matches(limit=limit)
+
+        team_ratings: dict     = defaultdict(list)
+        player_ratings: dict   = defaultdict(list)
+        player_kills: dict     = defaultdict(list)
+        player_map_kills: dict = defaultdict(list)
+        player_agent_kills: dict = defaultdict(list)
+
+        for match in matches:
+            for player in match.players:
+                if player.rating > 0:
+                    team_ratings[player.team].append(player.rating)
+                    player_ratings[player.name].append(player.rating)
+                if player.kills > 0:
+                    player_kills[player.name].append(player.kills)
+                    if player.map_name:
+                        player_map_kills[(player.name, player.map_name)].append(player.kills)
+                    if player.agent:
+                        player_agent_kills[(player.name, player.agent.lower())].append(player.kills)
+
+        # Recent form = average of the most recent 10 appearances (list is
+        # in file-system order which is roughly chronological by match ID)
+        self._cache_team_strength   = {t: float(np.mean(v)) for t, v in team_ratings.items()}
+        self._cache_player_rating   = {p: float(np.mean(v[-10:])) for p, v in player_ratings.items()}
+        self._cache_player_kills    = {p: float(np.mean(v[-10:])) for p, v in player_kills.items()}
+        self._cache_map_kills       = {k: float(np.mean(v)) for k, v in player_map_kills.items()}
+        self._cache_agent_kills     = {k: float(np.mean(v)) for k, v in player_agent_kills.items()}
+
+        print(f"Cache ready: {len(self._cache_team_strength)} teams, "
+              f"{len(self._cache_player_kills)} players", flush=True)
         
     def load_model(self, model_path: str):
-        """Load the trained model"""
+        """Load the trained model — supports both neural network and sklearn models."""
         try:
             self.model_data = joblib.load(model_path)
-            
+
             if 'model_state_dict' in self.model_data:
-                # GPU model
-                input_size = self.model_data['input_size']
+                input_size  = self.model_data['input_size']
                 hidden_sizes = self.model_data['hidden_sizes']
                 self.model = KillPredictionNN(input_size, hidden_sizes=hidden_sizes).to('cpu')
                 self.model.load_state_dict(self.model_data['model_state_dict'])
                 self.model.eval()
-                self.scaler = self.model_data['scaler']
-                self.feature_columns = self.model_data['feature_columns']
-                self.model_type = 'gpu'
-                print(f"Loaded GPU model with {len(self.feature_columns)} features")
+                self.model_type = 'neural_network'
+            elif 'model' in self.model_data:
+                self.model = self.model_data['model']
+                self.model_type = 'sklearn'
             else:
-                raise ValueError("Model format not supported")
-                
+                raise ValueError("Unrecognised model format")
+
+            self.scaler = self.model_data['scaler']
+            self.feature_columns = self.model_data['feature_columns']
+            perf = self.model_data.get('performance', {})
+            print(f"Loaded {self.model_type} model | features={len(self.feature_columns)} | "
+                  f"R²={perf.get('r2', '?'):.4f}")
+
         except Exception as e:
             print(f"Error loading model: {e}")
             self.model = None
             self.scaler = None
             self.feature_columns = None
+            self.model_type = None
     
     def get_player_stats(self, player_name: str) -> Optional[Dict]:
         """Get player's database statistics"""
@@ -123,72 +180,44 @@ class AdvancedMatchupPredictor:
             return None
     
     def calculate_team_strength(self, team_name: str) -> float:
-        """Calculate team strength based on recent performance"""
-        try:
-            # Load recent matches to calculate team strength
-            matches = self.data_loader.load_scraped_matches(limit=1000)
-            
-            team_ratings = []
-            for match in matches:
-                for player in match.players:
-                    if player.team == team_name:
-                        team_ratings.append(player.rating)
-            
-            if team_ratings:
-                return np.mean(team_ratings)
-            else:
-                return 1.0  # Default team strength
-        except:
-            return 1.0
-    
+        return self._cache_team_strength.get(team_name, 1.0)
+
     def calculate_map_familiarity(self, player_name: str, maps: List[str]) -> float:
-        """Calculate player's familiarity with the maps"""
-        try:
-            matches = self.data_loader.load_scraped_matches(limit=2000)
-            
-            player_map_performance = {}
-            for match in matches:
-                for player in match.players:
-                    if player.name == player_name:
-                        if player.map_name not in player_map_performance:
-                            player_map_performance[player.map_name] = []
-                        player_map_performance[player.map_name].append(player.rating)
-            
-            # Calculate average performance on the specific maps
-            map_ratings = []
-            for map_name in maps:
-                if map_name in player_map_performance:
-                    map_ratings.extend(player_map_performance[map_name])
-            
-            if map_ratings:
-                return np.mean(map_ratings) / 1.5  # Normalize to 0-1 range
-            else:
-                return 0.5  # Default familiarity
-        except:
-            return 0.5
-    
+        # Kept for API compatibility; map_avg_kills supersedes this
+        vals = [self._cache_map_kills.get((player_name, m)) for m in maps]
+        vals = [v for v in vals if v is not None]
+        return float(np.mean(vals) / 1.5) if vals else 0.5
+
     def calculate_recent_form(self, player_name: str) -> float:
-        """Calculate player's recent form based on last 10 matches"""
-        try:
-            matches = self.data_loader.load_scraped_matches(limit=2000)
-            
-            player_recent_matches = []
-            for match in matches:
-                for player in match.players:
-                    if player.name == player_name:
-                        player_recent_matches.append(player.rating)
-                        if len(player_recent_matches) >= 10:
-                            break
-                if len(player_recent_matches) >= 10:
-                    break
-            
-            if player_recent_matches:
-                return np.mean(player_recent_matches) / 1.5  # Normalize
-            else:
-                return 1.0  # Default form
-        except:
-            return 1.0
+        return self._cache_player_rating.get(player_name, 1.0)
+
+    def calculate_recent_form_kills(self, player_name: str) -> float:
+        return self._cache_player_kills.get(player_name, 13.0)
+
+    def calculate_map_avg_kills(self, player_name: str, maps: List[str]) -> float:
+        vals = [self._cache_map_kills.get((player_name, m)) for m in maps]
+        vals = [v for v in vals if v is not None]
+        return float(np.mean(vals)) if vals else 13.0
+
+    def calculate_agent_avg_kills(self, player_name: str, agent: str) -> float:
+        """Player's historical average kills on this specific agent."""
+        if not agent:
+            return self._cache_player_kills.get(player_name, 13.0)
+        return self._cache_agent_kills.get(
+            (player_name, agent.lower()),
+            self._cache_player_kills.get(player_name, 13.0),
+        )
     
+    def fetch_live_kill_line(self, player_name: str) -> Optional[float]:
+        """
+        Try to fetch a live kill line from PrizePicks.
+        Returns the line value, or None if the player has no active projection today.
+        """
+        line = self._line_fetcher.get_live_line(player_name)
+        if line is not None:
+            print(f"  [PrizePicks] {player_name}: {line} kills (live)", flush=True)
+        return line
+
     def calculate_tournament_importance(self, tournament: str, series_type: str) -> float:
         """Calculate tournament importance factor"""
         importance_map = {
@@ -215,27 +244,36 @@ class AdvancedMatchupPredictor:
         return (tournament_importance + series_importance_val) / 2
     
     def create_matchup_features(self, matchup: MatchupContext) -> Dict:
-        """Create feature vector for the specific matchup"""
+        """Create feature vector for the specific matchup.
+
+        Returns features in exactly the order stored in self.feature_columns so
+        the scaler receives the right values regardless of model version.
+        """
         player_stats = self.get_player_stats(matchup.player_name)
         if not player_stats:
             raise ValueError(f"Player {matchup.player_name} not found in database")
-        
-        # Calculate contextual features
-        player_team_strength = self.calculate_team_strength(matchup.player_team)
-        opponent_team_strength = self.calculate_team_strength(matchup.opponent_team)
-        map_familiarity = self.calculate_map_familiarity(matchup.player_name, matchup.maps)
-        recent_form = self.calculate_recent_form(matchup.player_name)
-        tournament_importance = self.calculate_tournament_importance(matchup.tournament, matchup.series_type)
-        
+
+        player_team_strength    = self.calculate_team_strength(matchup.player_team)
+        opponent_team_strength  = self.calculate_team_strength(matchup.opponent_team)
+        recent_avg_kills        = self.calculate_recent_form_kills(matchup.player_name)
+        recent_avg_rating       = self.calculate_recent_form(matchup.player_name)
+        player_map_avg_kills    = self.calculate_map_avg_kills(matchup.player_name, matchup.maps)
+        player_agent_avg_kills  = self.calculate_agent_avg_kills(matchup.player_name, matchup.agent)
+        agent_role_ordinal      = float(AGENT_ROLES.get(matchup.agent.lower().strip(), UNKNOWN_ROLE))
+        is_duelist              = 1.0 if agent_role_ordinal == 3.0 else 0.0
+
         features = {
             **player_stats,
-            'opponent_team_strength': opponent_team_strength,
-            'team_strength': player_team_strength,
-            'map_familiarity': map_familiarity,
-            'recent_form': recent_form,
-            'tournament_importance': tournament_importance
+            'team_strength':            player_team_strength,
+            'opponent_team_strength':   opponent_team_strength,
+            'recent_avg_kills':         recent_avg_kills,
+            'recent_avg_rating':        recent_avg_rating,
+            'player_map_avg_kills':     player_map_avg_kills,
+            'agent_role_ordinal':       agent_role_ordinal,
+            'is_duelist':               is_duelist,
+            'player_agent_avg_kills':   player_agent_avg_kills,
         }
-        
+
         return features
     
     def predict_with_uncertainty(self, features: Dict, n_bootstrap: int = 1000) -> Tuple[float, float, List[float]]:
@@ -257,19 +295,17 @@ class AdvancedMatchupPredictor:
         # Bootstrap predictions
         predictions = []
         for _ in range(n_bootstrap):
-            # Add small noise to features for bootstrap
             noise = np.random.normal(0, 0.01, len(feature_vector))
             noisy_features = np.array(feature_vector) + noise
             noisy_features_scaled = self.scaler.transform([noisy_features])
-            
-            # Make prediction
-            if self.model_type == 'gpu':
+
+            if self.model_type == 'neural_network':
                 with torch.no_grad():
                     features_tensor = torch.FloatTensor(noisy_features_scaled)
                     pred = self.model(features_tensor).item()
             else:
                 pred = self.model.predict(noisy_features_scaled)[0]
-            
+
             predictions.append(pred)
         
         # Calculate statistics
@@ -307,11 +343,26 @@ class AdvancedMatchupPredictor:
     
     def predict_matchup(self, matchup: MatchupContext) -> PredictionResult:
         """Predict kills per round for a specific matchup with confidence intervals"""
+        # Auto-fetch live kill line when caller passes 0 / None
+        if not matchup.kill_line or matchup.kill_line <= 0:
+            live = self.fetch_live_kill_line(matchup.player_name)
+            if live is not None:
+                matchup = MatchupContext(
+                    player_name=matchup.player_name,
+                    player_team=matchup.player_team,
+                    opponent_team=matchup.opponent_team,
+                    tournament=matchup.tournament,
+                    series_type=matchup.series_type,
+                    maps=matchup.maps,
+                    kill_line=live,
+                )
+
         print(f"\n=== Predicting for {matchup.player_name} vs {matchup.opponent_team} ===")
         print(f"Tournament: {matchup.tournament} ({matchup.series_type})")
         print(f"Maps: {', '.join(matchup.maps)}")
-        print(f"Kill Line: {matchup.kill_line:.3f} kills/round")
-        
+        kill_line_label = f"{matchup.kill_line:.1f}" if matchup.kill_line > 0 else "not set"
+        print(f"Kill Line: {kill_line_label} kills/map")
+
         # Create features for this matchup
         features = self.create_matchup_features(matchup)
         
@@ -353,7 +404,7 @@ class AdvancedMatchupPredictor:
         )
         
         # Print results
-        print(f"\nPrediction: {predicted_kills:.3f} kills/round (±{prediction_std:.3f})")
+        print(f"\nPrediction: {predicted_kills:.3f} kills/map (±{prediction_std:.3f})")
         print(f"95% CI: [{intervals['confidence_interval_95'][0]:.3f}, {intervals['confidence_interval_95'][1]:.3f}]")
         print(f"Recommendation: {recommendation}")
         print(f"Confidence: {confidence_score:.1%}")
@@ -363,22 +414,23 @@ class AdvancedMatchupPredictor:
         return result
     
     def _get_default_value(self, feature_name: str) -> float:
-        """Get default values for missing features"""
+        """Fallback values for features not found in the player lookup."""
         defaults = {
-            'db_rating': 1.0,
-            'db_average_combat_score': 200.0,
-            'db_kill_deaths': 1.0,
-            'db_kills_per_round': 0.8,
-            'db_assists_per_round': 0.3,
-            'db_first_kills_per_round': 0.1,
-            'db_first_deaths_per_round': 0.1,
-            'db_headshot_percentage': 0.25,
-            'db_clutch_success_percentage': 0.5,
-            'opponent_team_strength': 1.0,
-            'team_strength': 1.0,
-            'map_familiarity': 0.5,
-            'recent_form': 1.0,
-            'tournament_importance': 0.5
+            'db_rating':                 1.0,
+            'db_average_combat_score':   193.0,
+            'db_kill_deaths':            0.92,
+            'db_kills_per_round':        0.67,
+            'db_assists_per_round':      0.27,
+            'db_first_kills_per_round':  0.09,
+            'db_first_deaths_per_round': 0.10,
+            'team_strength':             1.0,
+            'opponent_team_strength':    1.0,
+            'recent_avg_kills':         13.0,
+            'recent_avg_rating':         1.0,
+            'player_map_avg_kills':     13.0,
+            'agent_role_ordinal':        UNKNOWN_ROLE,
+            'is_duelist':                0.0,
+            'player_agent_avg_kills':   13.0,
         }
         return defaults.get(feature_name, 0.0)
 

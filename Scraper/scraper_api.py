@@ -100,21 +100,24 @@ def scrape_match_details(match_id):
             for row in team_table.select("tbody tr"):
                 cols = [td.text.strip() for td in row.select("td")]
                 if len(cols) >= 10:
-                    # Split kills by newlines if present
-                    kills_split = [k.strip() for k in cols[3].split("\n") if k.strip()]
-                    # Use the first value if multiple, or the only value
-                    kills = kills_split[map_idx] if map_idx < len(kills_split) else (kills_split[0] if kills_split else cols[3])
+                    def _split_stat(raw, idx):
+                        parts = [p.strip() for p in raw.split("\n") if p.strip()]
+                        return parts[idx] if idx < len(parts) else (parts[0] if parts else "0")
+
                     player = {
                         "name": cols[0].split("\n")[0].strip(),
-                        "agent": cols[1],
-                        "acs": cols[2],
-                        "kills": kills,
-                        "deaths": cols[4],
-                        "assists": cols[5],
-                        "kdr": cols[6],
-                        "adr": cols[7],
-                        "hs%": cols[8],
-                        "fk": cols[9],
+                        "agent": cols[1].split("\n")[0].strip(),
+                        "rating": _split_stat(cols[2], map_idx),
+                        "acs": _split_stat(cols[3], map_idx),
+                        "kills": _split_stat(cols[4], map_idx),
+                        "deaths": _split_stat(cols[5], map_idx),
+                        "assists": _split_stat(cols[6], map_idx),
+                        "kd_diff": _split_stat(cols[7], map_idx),
+                        "kast": _split_stat(cols[8], map_idx),
+                        "adr": _split_stat(cols[9], map_idx),
+                        "hs%": _split_stat(cols[10], map_idx) if len(cols) > 10 else "0%",
+                        "fk": _split_stat(cols[11], map_idx) if len(cols) > 11 else "0",
+                        "fd": _split_stat(cols[12], map_idx) if len(cols) > 12 else "0",
                         "team": team_name
                     }
                     team_players.append(player)
@@ -145,14 +148,25 @@ def scrape_match_details(match_id):
             "team1": round_results.count("team1"),
             "team2": round_results.count("team2")
         } if round_results else None
-        # --- NEW: Add flat player list for this map ---
+        # Add flat player list for this map with full stats
         flat_players = []
         for team in players:
             for p in team:
                 flat_players.append({
                     "name": p["name"],
-                    "kills": p["kills"],
-                    "team": p["team"]
+                    "team": p["team"],
+                    "agent": p.get("agent", ""),
+                    "rating": p.get("rating", "0"),
+                    "acs": p.get("acs", "0"),
+                    "kills": p.get("kills", "0"),
+                    "deaths": p.get("deaths", "0"),
+                    "assists": p.get("assists", "0"),
+                    "kd_diff": p.get("kd_diff", "0"),
+                    "kast": p.get("kast", "0"),
+                    "adr": p.get("adr", "0"),
+                    "hs%": p.get("hs%", "0%"),
+                    "fk": p.get("fk", "0"),
+                    "fd": p.get("fd", "0"),
                 })
         match_data["map_stats"].append({
             "map": map_name,

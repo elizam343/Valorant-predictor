@@ -1,205 +1,111 @@
-# Project Summary - Valorant Kill Line Predictor
+# Project Summary — Valorant Kill Line Predictor
 
-## 🎯 Project Status: **PRODUCTION READY**
+## Current Status
 
-This project has been successfully cleaned, organized, and is now ready for production use.
+Active development. Core scraping, training, and prediction pipeline is functional. Model accuracy is honest but limited (R²≈0.21); the system is most useful for identifying high-edge spots rather than betting everything it outputs.
 
-## 📊 What Was Accomplished
+## What's Built
 
-### ✅ **Complete System Integration**
-- **Advanced Matchup Predictor**: Sophisticated prediction system with confidence intervals
-- **GPU-Accelerated Training**: PyTorch-based neural network with perfect accuracy
-- **Web Scraping Pipeline**: Real-time data collection from VLR.gg
-- **Web Application**: Full-featured Flask app with search and predictions
-- **Statistical Analysis**: Bootstrap uncertainty estimation and significance testing
+### Data Collection
+- `Scraper/results_scraper.py` — parallel scraper that paginates vlr.gg/matches/results with checkpointing and resume support; 5 workers by default
+- `Scraper/scraper_api.py` — single-match scraper that serves match JSON on port 5003
+- `Scraper/app.py` — career stats API on port 5001, pulls from vlrggapi.vercel.app
+- ~38,800 raw JSON match files in `scraped_matches/`, covering 2021–2026
 
-### ✅ **Data Processing**
-- **5,000+ matches** processed and analyzed
-- **92,168 player-match records** for training
-- **5,332+ players** in comprehensive database
-- **13 advanced features** including team strength, map familiarity, recent form
+### ML Pipeline
+- `enhanced_data_loader.py` — loads JSON files, joins career stats from DB, engineers 15 features including agent role, map-specific history, rolling form
+- `gpu_trainer.py` — trains Gradient Boosting and PyTorch NN; saves models to `models/`
+- `backtester.py` — temporal train/test split (configurable cutoff), evaluates OVER/UNDER accuracy by edge band with EV calculation at −110 odds
+- `kill_line_fetcher.py` — SmartSyntheticLine for backtesting (weighted blend of form/map/career stats) and PrizePicks live client for real predictions
 
-### ✅ **Machine Learning**
-- **Perfect accuracy** (R² = 1.000) on training data
-- **4-layer neural network** [256, 128, 64, 32] with batch normalization
-- **GPU acceleration** for faster training
-- **Bootstrap uncertainty estimation** for robust confidence intervals
+### Prediction
+- `advanced_matchup_predictor.py` — loads saved GBR + NN models, generates predictions with confidence estimates and OVER/UNDER recommendations
+- Auto-fetches PrizePicks line when `kill_line=0`
 
-### ✅ **Statistical Analysis**
-- **Confidence intervals** at 80%, 90%, 95% levels
-- **Statistical significance testing** with p-values
-- **Effect size calculation** (Cohen's d)
-- **Smart recommendations** (OVER/UNDER/UNSURE)
+### Web App
+- Flask app on port 5000 with form-based prediction UI
+- Session authentication with `SECRET_KEY` env var
 
-## 🏗️ Clean Architecture
+## Performance Metrics
+
+Retrained June 2026 on 37,137 matches, 638,527 player-map rows, 15 features.
+
+| Model | R² | MAE (kills/map) |
+|---|---|---|
+| Gradient Boosting | 0.208 | 4.82 |
+| Neural Network | 0.153 | 5.01 |
+
+Previous best was R²=0.094. Improvement came from fixing a silent bug (`map_name` key was `'map'` in JSON, causing `player_map_avg_kills` to collapse across all maps) and adding 3 agent-role features.
+
+Feature importances (Gradient Boosting):
+- `player_map_avg_kills`: 29.5%
+- `team_strength`: 25.4%
+- `player_agent_avg_kills`: 13.9%
+- `opponent_team_strength`: 7.7%
+- `recent_avg_kills`: 5.1%
+
+## 15 Features
+
+| Feature | Source |
+|---|---|
+| db_rating | Career stats DB |
+| db_average_combat_score | Career stats DB |
+| db_kill_deaths | Career stats DB |
+| db_kills_per_round | Career stats DB |
+| db_assists_per_round | Career stats DB |
+| db_first_kills_per_round | Career stats DB |
+| db_first_deaths_per_round | Career stats DB |
+| team_strength | Aggregated match win rates |
+| opponent_team_strength | Aggregated match win rates |
+| recent_avg_kills | Rolling 5-match kill average |
+| recent_avg_rating | Rolling 5-match rating average |
+| player_map_avg_kills | Player's LOO avg kills on this map |
+| agent_role_ordinal | 0=Sentinel, 1=Controller, 2=Initiator, 3=Duelist |
+| is_duelist | Binary flag |
+| player_agent_avg_kills | Player's LOO avg kills on this agent |
+
+## Fixed Bugs (June 2026)
+
+1. **map_name key** — JSON uses `'map'` not `'map_name'`; `player_map_avg_kills` was always computing across all maps. Fixed in `_parse_match_data()`.
+2. **Agent extraction** — VLR.gg stores agent in `<img alt="Jett">`, not text. Old scraper used `td.text.strip()` which returned `''`. Fixed in `results_scraper.py`.
+3. **Backtester missing agent features** — `_load_full_dataset()` wasn't calling `add_agent_features()`, causing a KeyError. Fixed.
+
+## Remaining Limitations
+
+1. **Synthetic kill lines** — historical backtesting uses a computed proxy for the bookmaker line; real lines include sharp money and public betting data that we cannot replicate. Expect true live accuracy to be ~1–3pp lower than backtested results.
+2. **No live inference loop** — predictions are manual (CLI or web app); there is no scheduled bot.
+3. **Agent data gaps** — matches scraped with the old pipeline (IDs < ~440K) may have empty agent fields, which lowers the value of `player_agent_avg_kills` for older players.
+4. **Model is weak at extremes** — R²=0.21 means there is meaningful unexplained variance. High-kill matches (star fraggers in easy opponents) and low-kill matches (support players) are harder to predict.
+
+## File Structure
 
 ```
-valorant-kill-line-predictor/
-├── Scraper/                    # Web scraping and data collection
-│   ├── scraper_api.py         # Main scraper for VLR.gg data
-│   ├── bulk_scrape_matches.py # Bulk match data collection
-│   ├── app.py                 # Flask API server
-│   ├── db_utils.py            # Database utilities
-│   └── templates/             # Web interface templates
-├── kill_prediction_model/      # ML models and prediction engine
-│   ├── enhanced_data_loader.py    # Advanced data processing
-│   ├── gpu_trainer.py             # GPU-accelerated model training
-│   ├── advanced_matchup_predictor.py # Sophisticated matchup predictions
-│   ├── predict_kills.py            # Basic prediction interface
-│   └── models/                     # Trained model files
-├── web_app/                   # Web application
-│   ├── app.py                 # Main Flask application
-│   ├── templates/             # HTML templates
-│   └── static/                # CSS/JS assets
-├── scraped_matches/           # Raw scraped match data
-├── docs/                      # Documentation
-├── scripts/                   # Utility scripts
-├── tests/                     # Test files
-├── requirements.txt           # Python dependencies
-├── README.md                  # Comprehensive documentation
-└── QUICKSTART.md             # Quick start guide
+├── Scraper/
+│   ├── results_scraper.py         # Primary scraper (parallel, checkpoint)
+│   ├── scraper_api.py             # Single-match scraper / Flask API
+│   ├── database_schema.py         # DB schema
+│   ├── app.py                     # Career stats API
+│   └── db_utils.py
+├── kill_prediction_model/
+│   ├── enhanced_data_loader.py
+│   ├── gpu_trainer.py
+│   ├── advanced_matchup_predictor.py
+│   ├── kill_line_fetcher.py       # SmartSyntheticLine + PrizePicks client
+│   ├── backtester.py
+│   └── models/
+│       ├── gradient_boosting_gpu_model.pkl
+│       ├── neural_network_gpu_model.pkl
+│       └── gpu_training_report.json
+├── web_app/
+│   ├── app.py
+│   └── templates/
+├── scraped_matches/               # ~38,800 JSON files
+└── requirements.txt
 ```
 
-## 🚀 Key Features Delivered
+## Roadmap
 
-### 🔍 **Advanced Matchup Predictions**
-- Context-aware predictions for specific matchups
-- Confidence intervals using bootstrap uncertainty estimation
-- Statistical significance testing with p-values and effect sizes
-- Smart recommendations (OVER/UNDER/UNSURE) based on statistical analysis
-
-### 🧠 **Machine Learning Excellence**
-- GPU-accelerated training using PyTorch neural networks
-- Advanced feature engineering including player stats, team strength, map familiarity
-- Bootstrap uncertainty estimation for robust confidence intervals
-- Perfect accuracy (R² = 1.000) on 5,000+ matches with 92,168 player records
-
-### 📊 **Data Processing Pipeline**
-- Real-time web scraping from VLR.gg for live match data
-- Comprehensive player database with 5,332+ players
-- Match history analysis with 5,000+ matches processed
-- Advanced feature extraction including recent form, tournament importance
-
-### 🌐 **Web Interface**
-- Searchable player/team dropdowns with JavaScript
-- Real-time predictions with detailed statistical analysis
-- Responsive design for desktop and mobile
-- API endpoints for integration
-
-## 📈 Performance Metrics
-
-- **Training Data**: 92,168 player-match records from 5,000+ matches
-- **Features**: 13 contextual features (player stats, team strength, map familiarity, etc.)
-- **Accuracy**: R² = 1.000 (perfect fit on training data)
-- **Architecture**: 4-layer neural network [256, 128, 64, 32] with batch normalization
-- **Training**: GPU-accelerated with early stopping and learning rate scheduling
-
-## 🔬 Statistical Analysis Capabilities
-
-- **Bootstrap uncertainty estimation** (1000 iterations)
-- **Confidence intervals** at multiple levels (80%, 90%, 95%)
-- **Statistical significance testing** (t-tests against kill lines)
-- **Effect size calculation** (Cohen's d for standardized differences)
-- **Prediction stability metrics** for confidence scoring
-
-## 🎮 Supported Features
-
-### Tournament Types
-- VCT Champions, Masters, International
-- Regional tournaments and qualifiers
-- Showmatches and exhibition games
-
-### Series Types
-- Best of 1, 3, 5 (BO1, BO3, BO5)
-- Playoffs, group stage, finals
-
-### Maps
-- All current Valorant maps
-- Map-specific performance analysis
-- Player familiarity scoring
-
-### Teams & Players
-- 5,332+ players in database
-- Team strength calculations
-- Recent form analysis
-- Historical performance tracking
-
-## 🛠️ Technical Stack
-
-### Machine Learning
-- **Framework**: PyTorch with GPU acceleration
-- **Architecture**: Feedforward neural network with dropout and batch normalization
-- **Optimization**: Adam optimizer with learning rate scheduling
-- **Regularization**: Early stopping and weight decay
-
-### Statistical Methods
-- **Bootstrap resampling**: Uncertainty estimation
-- **T-tests**: Statistical significance testing
-- **Effect size**: Standardized difference measures
-- **Confidence intervals**: Percentile-based intervals
-
-### Web Technologies
-- **Backend**: Flask with RESTful API
-- **Frontend**: HTML/CSS/JavaScript with responsive design
-- **Database**: SQLite with SQLAlchemy ORM
-- **Scraping**: BeautifulSoup4 with requests
-
-## 📝 Files Cleaned Up
-
-### Removed Files
-- `performance_analysis_2000_summary.md`
-- `performance_analysis_summary.md`
-- `accuracy_improvement_guide.md`
-- `performance_scenarios.json`
-- `improved_training_data.json`
-- `training_historical_data.json`
-- `enhanced_trainer.py`
-- `advanced_trainer.py`
-- `improved_trainer.py`
-- `performance_analyzer.py`
-- `train_with_matches.py`
-- `models.py`
-- `data_loader.py`
-- `predictor.py`
-- `main.py`
-- `utils.py`
-- `__init__.py`
-- `vlr_players.db`
-- `requirements.txt` (old version)
-- `postedit_codebase_sonnet.zip`
-- `postedit_codebase_antelope.zip`
-- `preprompt_codebase.zip`
-- `match_history_scraper.py`
-- `test_system.py`
-- `switch.py`
-- Various cache and temporary files
-
-### Organized Structure
-- Created `docs/`, `scripts/`, `tests/` directories
-- Moved utility files to appropriate locations
-- Cleaned up root directory
-- Updated all documentation
-
-## 🎯 Ready for Production
-
-The project is now:
-- ✅ **Fully functional** with all components integrated
-- ✅ **Well documented** with comprehensive README and quick start guide
-- ✅ **Clean architecture** with organized file structure
-- ✅ **Production ready** with proper error handling and validation
-- ✅ **Scalable** with modular design and API endpoints
-- ✅ **Maintainable** with clear code organization and documentation
-
-## 🚀 Next Steps
-
-1. **Deploy to production** using the provided Flask application
-2. **Set up monitoring** for model performance and data quality
-3. **Add user authentication** if needed for multi-user access
-4. **Implement automated retraining** for model updates
-5. **Add more advanced features** like player comparison and trend analysis
-
----
-
-**Project Status**: ✅ **COMPLETE AND PRODUCTION READY**
-**Last Updated**: December 2024
-**Version**: 2.0.0 
+1. **More recent data** — scraper is still running, adding 2023–2026 matches. Re-train once stable.
+2. **Live betting integration** — PrizePicks client is built; need a scheduler to run predictions before each match day.
+3. **Line history** — storing historical PrizePicks lines would allow true out-of-sample evaluation without synthetic proxies.
+4. **Series-level target** — current target is per-map kills; a per-series (bo3 total) target might better match PrizePicks lines.

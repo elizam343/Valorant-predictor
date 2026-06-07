@@ -13,6 +13,7 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+from sklearn.ensemble import GradientBoostingRegressor
 import joblib
 import json
 import argparse
@@ -21,46 +22,10 @@ from enhanced_data_loader import EnhancedDataLoader
 import platform
 import time
 import os
-import torch_directml
-import sqlite3
-from database_data_loader import DatabaseDataLoader
 
 # Force CPU usage
-device = torch_directml.device()
-print('Using device:', device)
-
-def check_database_schema(db_path):
-    if not os.path.exists(db_path):
-        print(f"ERROR: Database file not found at {db_path}")
-        return False
-    try:
-        conn = sqlite3.connect(db_path)
-        cursor = conn.cursor()
-        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='players';")
-        result = cursor.fetchone()
-        if not result:
-            print("ERROR: 'players' table not found in the database.")
-            conn.close()
-            return False
-        # Optionally, check for required columns
-        cursor.execute("PRAGMA table_info(players);")
-        columns = [row[1] for row in cursor.fetchall()]
-        required_columns = [
-            'name', 'team', 'rating', 'average_combat_score', 'kill_deaths',
-            'kill_assists_survived_traded', 'average_damage_per_round',
-            'kills_per_round', 'assists_per_round', 'first_kills_per_round',
-            'first_deaths_per_round', 'headshot_percentage', 'clutch_success_percentage'
-        ]
-        missing = [col for col in required_columns if col not in columns]
-        if missing:
-            print(f"ERROR: Missing columns in 'players' table: {missing}")
-            conn.close()
-            return False
-        conn.close()
-        return True
-    except Exception as e:
-        print(f"ERROR: Could not check database schema: {e}")
-        return False
+device = torch.device('cpu')
+print('Using device: cpu (forced)')
 
 class KillPredictionDataset(Dataset):
     """PyTorch dataset for kill prediction"""
@@ -103,34 +68,35 @@ class GPUTrainer:
         self.scaler = StandardScaler()
         self.models = {}
         self.results = {}
-        self.data_loader = DatabaseDataLoader(db_path=os.path.join(os.path.dirname(__file__), '..', 'Scraper', 'valorant_matches.db'))
+    
+    def prepare_data(self, limit_matches: int = None):
+        """Prepare data for training: career stats as features, match kills as target."""
+        print("=== Preparing Training Data ===")
+        loader = EnhancedDataLoader()
+        X, y = loader.prepare_training_data(limit_matches=limit_matches)
 
-    def prepare_data(self, limit_matches: int = None) -> Tuple[torch.Tensor, torch.Tensor, torch.Tensor, torch.Tensor]:
-        """Prepare data for GPU training using the database"""
-        print("=== Preparing Data for GPU Training from Database ===")
-        # Load player match data from the database
-        df = self.data_loader.load_player_match_data()
-        df = self.data_loader.calculate_player_features(df)
-        # Prepare features and target
-        X, y, feature_columns = self.data_loader.prepare_training_data(df)
-        if X.size == 0 or y.size == 0:
-            raise ValueError("No data available for training from database")
-        # Split data
+        if X.empty:
+            raise ValueError("No data available for training")
+
+        feature_columns = list(X.columns)
+
         X_train, X_test, y_train, y_test = train_test_split(
             X, y, test_size=0.2, random_state=42
         )
-        # Scale features
         X_train_scaled = self.scaler.fit_transform(X_train)
         X_test_scaled = self.scaler.transform(X_test)
-        # Convert to tensors
-        X_train_tensor = torch.FloatTensor(X_train_scaled).to(device)
-        y_train_tensor = torch.FloatTensor(y_train).to(device)
-        X_test_tensor = torch.FloatTensor(X_test_scaled).to(device)
-        y_test_tensor = torch.FloatTensor(y_test).to(device)
-        return X_train_tensor, y_train_tensor, X_test_tensor, y_test_tensor
+
+        return (
+            torch.FloatTensor(X_train_scaled).to(device),
+            torch.FloatTensor(y_train.values).to(device),
+            torch.FloatTensor(X_test_scaled).to(device),
+            torch.FloatTensor(y_test.values).to(device),
+            feature_columns,
+        )
     
-    def train_neural_network(self, X_train: torch.Tensor, y_train: torch.Tensor, 
-                           X_test: torch.Tensor, y_test: torch.Tensor, X_df: pd.DataFrame) -> Dict:
+    def train_neural_network(self, X_train: torch.Tensor, y_train: torch.Tensor,
+                           X_test: torch.Tensor, y_test: torch.Tensor,
+                           feature_columns: List[str]) -> Dict:
         """Train neural network on GPU"""
         print("\n=== Training Neural Network on GPU ===")
         
@@ -143,9 +109,9 @@ class GPUTrainer:
         scheduler = optim.lr_scheduler.ReduceLROnPlateau(optimizer, patience=10, factor=0.5)
         
         # Training parameters
-        batch_size = 64
+        batch_size = 1024
         epochs = 100
-        early_stopping_patience = 15
+        early_stopping_patience = 20
         
         # Create data loaders
         train_dataset = KillPredictionDataset(X_train.cpu().numpy(), y_train.cpu().numpy())
@@ -223,28 +189,71 @@ class GPUTrainer:
             'mse': mse,
             'mae': mae,
             'r2': r2,
-            'feature_columns': list(X_df.columns),
+            'feature_columns': feature_columns,
             'train_losses': train_losses,
             'val_losses': val_losses
         }
     
+    def train_gradient_boosting(self, X_train: np.ndarray, y_train: np.ndarray,
+                               X_test: np.ndarray, y_test: np.ndarray,
+                               feature_columns: List[str]) -> Dict:
+        """Train a gradient boosting regressor as a strong tabular baseline."""
+        print("\n=== Training Gradient Boosting ===")
+
+        model = GradientBoostingRegressor(
+            n_estimators=400,
+            learning_rate=0.05,
+            max_depth=5,
+            subsample=0.8,
+            min_samples_leaf=20,
+            random_state=42,
+            verbose=0,
+        )
+        model.fit(X_train, y_train)
+
+        y_pred = model.predict(X_test)
+        mse = mean_squared_error(y_test, y_pred)
+        mae = mean_absolute_error(y_test, y_pred)
+        r2  = r2_score(y_test, y_pred)
+
+        print(f"Gradient Boosting — MSE: {mse:.4f}  MAE: {mae:.4f}  R²: {r2:.6f}")
+
+        # Feature importances
+        importances = sorted(
+            zip(feature_columns, model.feature_importances_),
+            key=lambda x: x[1], reverse=True
+        )
+        print("Top feature importances:")
+        for name, imp in importances[:8]:
+            print(f"  {name}: {imp:.4f}")
+
+        return {
+            'model': model,
+            'scaler': self.scaler,
+            'mse': mse,
+            'mae': mae,
+            'r2': r2,
+            'feature_columns': feature_columns,
+            'feature_importances': dict(importances),
+        }
+
     def train_all_models(self, limit_matches: int = None):
         """Train all models using GPU acceleration"""
-        print("=== GPU-Accelerated Kill Prediction Training ===")
-        
-        # Prepare data
-        X_train, y_train, X_test, y_test = self.prepare_data(limit_matches)
-        
-        # Get original X dataframe for feature columns
-        # loader = EnhancedDataLoader() # This line is no longer needed as data is loaded directly
-        # X, y = loader.prepare_training_data(limit_matches=limit_matches) # This line is no longer needed
-        X = self.data_loader.load_player_match_data() # Load data directly from DB
-        X = self.data_loader.calculate_player_features(X) # Calculate features
-        X, y, feature_columns = self.data_loader.prepare_training_data(X) # Prepare features and target
+        print("=== Kill Prediction Training ===")
 
-        # Train neural network
-        nn_result = self.train_neural_network(X_train, y_train, X_test, y_test, X)
+        X_train, y_train, X_test, y_test, feature_columns = self.prepare_data(limit_matches)
+
+        # Convert tensors back to numpy for gradient boosting
+        X_train_np = X_train.cpu().numpy()
+        y_train_np = y_train.cpu().numpy()
+        X_test_np  = X_test.cpu().numpy()
+        y_test_np  = y_test.cpu().numpy()
+
+        nn_result = self.train_neural_network(X_train, y_train, X_test, y_test, feature_columns)
         self.results['neural_network'] = nn_result
+
+        gb_result = self.train_gradient_boosting(X_train_np, y_train_np, X_test_np, y_test_np, feature_columns)
+        self.results['gradient_boosting'] = gb_result
         
         # Save models
         self.save_models()
@@ -262,22 +271,24 @@ class GPUTrainer:
         os.makedirs(models_dir, exist_ok=True)
         for model_name, result in self.results.items():
             model_path = os.path.join(models_dir, f"{model_name}_gpu_model.pkl")
-            # For PyTorch models, save state dict and other components
             if model_name == 'neural_network':
                 model_data = {
                     'model_state_dict': result['model'].state_dict(),
                     'input_size': result['model'].network[0].in_features,
-                    'hidden_sizes': [256, 128, 64, 32],  # Save the architecture
+                    'hidden_sizes': [256, 128, 64, 32],
                     'scaler': result['scaler'],
                     'feature_columns': result['feature_columns'],
-                    'performance': {
-                        'mse': result['mse'],
-                        'mae': result['mae'],
-                        'r2': result['r2']
-                    }
+                    'performance': {'mse': result['mse'], 'mae': result['mae'], 'r2': result['r2']},
+                }
+            else:
+                model_data = {
+                    'model': result['model'],
+                    'scaler': result['scaler'],
+                    'feature_columns': result['feature_columns'],
+                    'performance': {'mse': result['mse'], 'mae': result['mae'], 'r2': result['r2']},
                 }
             joblib.dump(model_data, model_path)
-            print(f"Saved {model_name} model to {model_path}")
+            print(f"Saved {model_name} to {model_path}")
     
     def generate_training_report(self):
         """Generate training report"""
@@ -313,13 +324,7 @@ def main():
     parser.add_argument('--limit-matches', type=int, default=None, 
                        help='Limit number of matches to use for training')
     args = parser.parse_args()
-
-    # Database check before training
-    db_path = os.path.join(os.path.dirname(__file__), '..', 'Scraper', 'valorant_matches.db')
-    if not check_database_schema(db_path):
-        print("Aborting training due to database issues.")
-        return
-
+    
     trainer = GPUTrainer()
     trainer.train_all_models(limit_matches=args.limit_matches)
 

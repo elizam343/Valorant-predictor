@@ -1,226 +1,149 @@
 # Valorant Kill Line Predictor
 
-A sophisticated machine learning system that predicts player kill performance in Valorant matches and provides statistical analysis for betting recommendations.
+A machine learning system that predicts per-map kill counts for Valorant esports players, built to support OVER/UNDER betting analysis against bookmaker kill lines.
 
-## 🎯 Project Overview
+## Overview
 
-This system combines web scraping, machine learning, and statistical analysis to predict kills per round for Valorant players in specific matchups. It provides confidence intervals, statistical significance testing, and betting recommendations based on comprehensive player and match data.
+Data is scraped from VLR.gg, stored as JSON match files, and used to train regression models that predict how many kills a player will get on a given map. The system compares predictions against kill lines to generate OVER/UNDER recommendations with an edge estimate.
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 valorant-kill-line-predictor/
-├── Scraper/                    # Web scraping and data collection
-│   ├── database_schema.py     # SQLite database schema and management
-│   ├── migrate_json_to_db.py  # JSON to database migration tool
-│   ├── enhanced_scraper.py    # Enhanced scraper with database storage
-│   ├── scraper_api.py         # Main scraper for VLR.gg data
-│   ├── bulk_scrape_matches.py # Bulk match data collection
-│   ├── app.py                 # Flask API server
-│   ├── db_utils.py            # Database utilities
-│   └── templates/             # Web interface templates
-├── kill_prediction_model/      # ML models and prediction engine
-│   ├── database_data_loader.py    # Database-based data loading
-│   ├── enhanced_data_loader.py    # Legacy JSON-based data processing
-│   ├── gpu_trainer.py             # GPU-accelerated model training
-│   ├── advanced_matchup_predictor.py # Sophisticated matchup predictions
-│   ├── predict_kills.py            # Basic prediction interface
-│   └── models/                     # Trained model files
-├── web_app/                   # Web application
-│   ├── app.py                 # Main Flask application
-│   ├── templates/             # HTML templates
-│   └── static/                # CSS/JS assets
-├── scraped_matches/           # Raw scraped match data (JSON files)
-├── docs/                      # Documentation
-├── scripts/                   # Utility scripts
-├── tests/                     # Test files
-├── setup_database.py          # Database setup and migration script
-├── requirements.txt           # Python dependencies
-├── README.md                  # Comprehensive documentation
-└── QUICKSTART.md             # Quick start guide
+├── Scraper/
+│   ├── results_scraper.py         # Parallel scraper (vlr.gg/matches/results)
+│   ├── scraper_api.py             # Single-match scraper / Flask API (port 5003)
+│   ├── database_schema.py         # SQLite schema and migration helpers
+│   ├── app.py                     # Career stats API (port 5001, vlrggapi data)
+│   └── db_utils.py                # Database utilities
+├── kill_prediction_model/
+│   ├── enhanced_data_loader.py    # Loads JSON files, engineers features
+│   ├── gpu_trainer.py             # Trains GBR + PyTorch NN models
+│   ├── advanced_matchup_predictor.py  # Loads saved models, makes predictions
+│   ├── kill_line_fetcher.py       # SmartSyntheticLine + PrizePicks live client
+│   ├── backtester.py              # Temporal train/test split evaluation
+│   └── models/                    # Saved .pkl model files + training report
+├── web_app/
+│   ├── app.py                     # Flask web interface (port 5000)
+│   └── templates/
+├── scraped_matches/               # Raw JSON match files (~38,800 files)
+├── requirements.txt
+└── README.md
 ```
 
-## 🚀 Key Features
+## Model Performance
 
-### 🔍 Advanced Matchup Predictions
-- **Context-aware predictions** for specific matchups (player, team, opponent, tournament, maps)
-- **Confidence intervals** (80%, 90%, 95%) using bootstrap uncertainty estimation
-- **Statistical significance testing** with p-values and effect sizes
-- **Smart recommendations** (OVER/UNDER/UNSURE) based on statistical analysis
+Retrained June 2026 on 37,137 matches (638,527 player-map rows), 15 features.
 
-### 🧠 Machine Learning
-- **GPU-accelerated training** using PyTorch neural networks
-- **Advanced feature engineering** including player stats, team strength, map familiarity
-- **Bootstrap uncertainty estimation** for robust confidence intervals
-- **Perfect accuracy** (R² = 1.000) on 5,000+ matches with 92,168 player records
+| Model | R² | MAE |
+|---|---|---|
+| Gradient Boosting (primary) | 0.208 | 4.82 kills/map |
+| PyTorch Neural Network | 0.153 | 5.01 kills/map |
 
-### 📊 Data Processing
-- **SQLite database storage** for efficient data management and querying
-- **Real-time web scraping** from VLR.gg for live match data
-- **Comprehensive player database** with 5,332+ players
-- **Match history analysis** with 5,000+ matches processed
-- **Advanced feature extraction** including recent form, tournament importance
-- **Incremental updates** to keep data current with new matches
+Target variable: kills per map (range 1–94, mean ~13). Kill lines are typically 13–20 kills/map.
 
-### 🌐 Web Interface
-- **Searchable player/team dropdowns** with JavaScript
-- **Real-time predictions** with detailed statistical analysis
-- **Responsive design** for desktop and mobile
-- **API endpoints** for integration
+Top features by importance (Gradient Boosting):
+1. `player_map_avg_kills` — 29.5%
+2. `team_strength` — 25.4%
+3. `player_agent_avg_kills` — 13.9%
+4. `opponent_team_strength` — 7.7%
+5. `recent_avg_kills` — 5.1%
 
-## 🛠️ Installation
+Note: R² of 0.2 reflects genuine difficulty — kills per map are noisy (round count varies, side distributions vary, opponent tier varies). The model is useful when it generates a >10% edge against the kill line.
 
-1. **Clone the repository**
-```bash
-git clone <repository-url>
-cd valorant-kill-line-predictor
-```
+## Installation
 
-2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-3. **Set up the database (NEW!)**
-```bash
-# Migrate JSON files to SQLite database
-python setup_database.py
+Requires Python 3.8+. PyTorch CPU is fine for inference; GPU speeds up training only.
 
-# Or run with options
-python setup_database.py --test-ml --skip-cleanup
+## Training
+
+```bash
+# Full training (~2h on CPU, uses all JSON files)
+python kill_prediction_model/gpu_trainer.py
+
+# Quick test run
+python kill_prediction_model/gpu_trainer.py --limit-matches 2000
 ```
 
-## 📈 Usage
+Models are saved to `kill_prediction_model/models/`.
 
-### Training the Model
-```bash
-cd kill_prediction_model
-python gpu_trainer.py --limit-matches 5000
-```
+## Prediction
 
-### Making Predictions
 ```python
+import sys
+sys.path.insert(0, 'kill_prediction_model')
 from advanced_matchup_predictor import AdvancedMatchupPredictor, MatchupContext
 
 predictor = AdvancedMatchupPredictor()
 
 matchup = MatchupContext(
     player_name="aspas",
-    player_team="MIBR", 
+    player_team="MIBR",
     opponent_team="FUR",
     tournament="VCT Champions",
     series_type="bo3",
-    maps=["Ascent", "Haven"],
-    kill_line=0.85
+    maps=["Ascent", "Bind"],
+    kill_line=16.5,   # kills per map (NOT kills per round)
+    agent="Jett"      # optional; improves prediction
 )
 
 result = predictor.predict_matchup(matchup)
-print(f"Prediction: {result.predicted_kills_per_round:.3f} kills/round")
-print(f"Recommendation: {result.recommendation}")
-print(f"Confidence: {result.confidence_score:.1%}")
+print(f"Predicted kills/map: {result.predicted_kills:.1f}")
+print(f"Kill line: {result.kill_line:.1f}")
+print(f"Recommendation: {result.recommendation}")  # OVER / UNDER / UNSURE
+print(f"Edge: {result.edge_pct:.1f}%")
 ```
 
-### Running the Web App
+Set `kill_line=0` to auto-fetch a live line from PrizePicks (when the player has an active projection).
+
+## Scraping New Matches
+
+```bash
+# Scrape from vlr.gg/matches/results — auto-resumes from checkpoint
+python Scraper/results_scraper.py
+
+# Options
+python Scraper/results_scraper.py --workers 5 --max-pages 100
+```
+
+Checkpoint is saved to `Scraper/.results_scraper_checkpoint.json`. The scraper writes JSON files to `scraped_matches/` and also inserts into `Scraper/valorant_matches.db`.
+
+## Backtesting
+
+```bash
+# Evaluate OVER/UNDER accuracy with a temporal train/test split
+python kill_prediction_model/backtester.py --cutoff 2024-01-01
+```
+
+The backtester trains only on pre-cutoff data, then measures accuracy on post-cutoff matches against synthetic kill lines (50% recent form, 30% map avg, 20% career KPR + opponent adjustment). Live bookmaker lines are not available historically, so the synthetic line is an approximation.
+
+## Web App
+
 ```bash
 cd web_app
 python app.py
+# Open http://localhost:5000
 ```
 
-## 📊 Model Performance
+The web app provides a form-based interface for single-player predictions. Authentication is session-based with a secret key set via the `SECRET_KEY` environment variable.
 
-- **Training Data**: 92,168 player-match records from 5,000+ matches
-- **Features**: 13 contextual features (player stats, team strength, map familiarity, etc.)
-- **Accuracy**: R² = 1.000 (perfect fit on training data)
-- **Architecture**: 4-layer neural network [256, 128, 64, 32] with batch normalization
-- **Training**: GPU-accelerated with early stopping and learning rate scheduling
+## Data Sources
 
-## 🔬 Statistical Analysis
+- **Match data**: VLR.gg match result pages scraped via BeautifulSoup
+- **Career stats**: vlrggapi.vercel.app (used for `db_rating`, `db_kills_per_round`, etc.)
+- **Live kill lines**: PrizePicks public projections API (Valorant league ID 36)
 
-The system provides comprehensive statistical analysis:
+## Known Limitations
 
-- **Bootstrap uncertainty estimation** (1000 iterations)
-- **Confidence intervals** at multiple levels (80%, 90%, 95%)
-- **Statistical significance testing** (t-tests against kill lines)
-- **Effect size calculation** (Cohen's d for standardized differences)
-- **Prediction stability metrics** for confidence scoring
+- Kill lines are synthetic for historical backtesting — real bookmaker lines include public betting patterns that the model cannot see.
+- Agent data is missing for older matches scraped before agent extraction was fixed.
+- `player_map_avg_kills` had a silent bug (used 'map_name' key instead of 'map') for the first ~34K matches; those have been re-patched.
+- No live inference pipeline — predictions are generated manually or via the web app.
 
-## 🎮 Supported Features
+## License
 
-### Tournament Types
-- VCT Champions, Masters, International
-- Regional tournaments and qualifiers
-- Showmatches and exhibition games
-
-### Series Types
-- Best of 1, 3, 5 (BO1, BO3, BO5)
-- Playoffs, group stage, finals
-
-### Maps
-- All current Valorant maps
-- Map-specific performance analysis
-- Player familiarity scoring
-
-### Teams & Players
-- 5,332+ players in database
-- Team strength calculations
-- Recent form analysis
-- Historical performance tracking
-
-## 🔧 Technical Details
-
-### Data Sources
-- **VLR.gg**: Primary data source for match results and player stats
-- **Real-time scraping**: Live match data collection
-- **Historical analysis**: Player performance over time
-
-### Machine Learning
-- **Framework**: PyTorch with GPU acceleration
-- **Architecture**: Feedforward neural network with dropout and batch normalization
-- **Optimization**: Adam optimizer with learning rate scheduling
-- **Regularization**: Early stopping and weight decay
-
-### Statistical Methods
-- **Bootstrap resampling**: Uncertainty estimation
-- **T-tests**: Statistical significance testing
-- **Effect size**: Standardized difference measures
-- **Confidence intervals**: Percentile-based intervals
-
-## 📝 API Endpoints
-
-### Scraper API (`Scraper/app.py`)
-- `GET /players` - Get all players
-- `GET /teams` - Get all teams  
-- `GET /match/<match_id>` - Get specific match data
-- `POST /scrape_match/<match_id>` - Scrape new match
-
-### Web App API (`web_app/app.py`)
-- `GET /` - Main prediction interface
-- `POST /predict` - Make matchup prediction
-- `GET /players` - Search players
-- `GET /teams` - Search teams
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is for educational and research purposes. Please respect VLR.gg's terms of service when using the scraper.
-
-## 🚨 Disclaimer
-
-This system is designed for educational purposes and statistical analysis. Any betting decisions should be made responsibly and in accordance with local laws and regulations.
-
-## 📞 Support
-
-For questions or issues, please open an issue on GitHub or contact the development team.
-
----
-
-**Last Updated**: December 2024
-**Version**: 2.0.0
-**Status**: Production Ready 
+Educational and research use only. Respect VLR.gg's terms of service when scraping.
