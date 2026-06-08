@@ -80,3 +80,11 @@ node_modules/
 # Build artifacts
 dist/
 build/ Scraper/valorant_matches.db
+
+# Generated player cache (36MB; rebuild with: bet_slate.py --rebuild-cache)
+player_cache.pkl
+
+# Local backups / temp model artifacts (not for the repo)
+*.leaky.bak.pkl
+bet_results.backup-*.csv
+comparison_report.random_split.json

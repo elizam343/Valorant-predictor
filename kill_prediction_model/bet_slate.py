@@ -264,6 +264,19 @@ class PlayerCache:
               f'{len(self.db_stats)} career stat entries, '
               f'{len(self.db_kill_hist)} DB kill distributions')
 
+    # -- Persistence: build the cache once, reuse it instantly thereafter -----
+    def save(self, path: str) -> None:
+        """Pickle the computed lookup tables so future runs skip the JSON parse."""
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        joblib.dump(self.__dict__, path)
+
+    @classmethod
+    def from_file(cls, path: str) -> 'PlayerCache':
+        """Reconstruct a cache from a saved pickle without re-running __init__."""
+        obj = cls.__new__(cls)          # bypass __init__ (no JSON parsing)
+        obj.__dict__ = joblib.load(path)
+        return obj
+
     def likely_agent(self, player_name: str) -> str:
         """Return the agent this player has played most often historically."""
         candidates = {
@@ -737,6 +750,38 @@ def print_slate(rows: List[Dict], skipped_debuts: List, min_edge: float,
 # CLI
 # ---------------------------------------------------------------------------
 
+CACHE_PATH = os.path.join(os.path.dirname(__file__), 'models', 'player_cache.pkl')
+
+
+def get_player_cache(limit: Optional[int], rebuild: bool = False,
+                     path: str = CACHE_PATH) -> 'PlayerCache':
+    """Load a prebuilt player cache if present (≈2s), else build it from the
+    JSON match history (≈minutes) and save it for next time.
+
+    The cache is just aggregated lookup tables, so it only needs rebuilding when
+    new matches are scraped — pass --rebuild-cache then (or delete the pickle).
+    """
+    if not rebuild and os.path.exists(path):
+        # Warn if the match DB is newer than the cached snapshot.
+        try:
+            db = os.path.join(os.path.dirname(__file__), '..', 'Scraper', 'valorant_matches.db')
+            if os.path.exists(db) and os.path.getmtime(db) > os.path.getmtime(path):
+                print('  Note: match DB is newer than the cache — consider --rebuild-cache')
+        except OSError:
+            pass
+        print(f'Loading prebuilt player cache ({os.path.basename(path)})...')
+        cache = PlayerCache.from_file(path)
+        print(f'Cache loaded: {len(cache.player_kills)} players, '
+              f'{len(cache.db_kill_hist)} DB kill distributions')
+        return cache
+
+    print('Building player cache from match history (one-time — reused after this)...')
+    cache = PlayerCache(limit=limit)
+    cache.save(path)
+    print(f'Cache saved → {os.path.basename(path)}.  Future runs load it in ~2s.')
+    return cache
+
+
 def main():
     parser = argparse.ArgumentParser(description='Generate daily PrizePicks Valorant bet slate')
     parser.add_argument('--min-edge',      type=float, default=3.0,
@@ -746,8 +791,11 @@ def main():
                         help='JSON file with per-player matchup context (team, opponent, maps, agent)')
     parser.add_argument('--min-appearances', type=int, default=15,
                         help='Skip players with fewer than N map appearances in history (default: 15)')
-    parser.add_argument('--cache-matches', type=int,   default=2000,
-                        help='Match files to load for player cache (default: 2000)')
+    parser.add_argument('--cache-matches', type=int,   default=None,
+                        help='Cap match files when BUILDING the cache (default: all). '
+                             'Ignored once a prebuilt cache exists.')
+    parser.add_argument('--rebuild-cache', action='store_true',
+                        help='Rebuild the player cache from match history (do this after scraping)')
     parser.add_argument('--league-id',     type=int,   default=159,
                         help='PrizePicks league ID for Valorant (default: 159)')
     parser.add_argument('--no-save', action='store_true',
@@ -783,8 +831,8 @@ def main():
         clf = clf_scaler = clf_cols = None
         print('Classifier not found — using regression for edge calculation')
 
-    # Build player cache
-    cache = PlayerCache(limit=args.cache_matches)
+    # Build player cache (or load the prebuilt one — the big speedup)
+    cache = get_player_cache(args.cache_matches, rebuild=args.rebuild_cache)
 
     # Fetch live lines
     print('Fetching PrizePicks lines...')
