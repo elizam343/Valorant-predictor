@@ -107,8 +107,9 @@ class PrizePicksClient:
     """
 
     BASE_URL = 'https://api.prizepicks.com'
-    DEFAULT_LEAGUE_ID = 36
-    KILL_STAT_TYPES = {'Kills', 'Kills+Assists'}
+    DEFAULT_LEAGUE_ID = 159  # VAL (was 36 pre-2026)
+    # Stat types to include; "Combo" variants are multi-player parlays — skip them
+    KILL_STAT_TYPES = {'Kills', 'Kills+Assists', 'MAPS 1-2 Kills'}
 
     def __init__(self, league_id: int = DEFAULT_LEAGUE_ID, timeout: int = 10):
         self.league_id = league_id
@@ -133,6 +134,9 @@ class PrizePicksClient:
         Returns {normalized_player_name: kill_line} for all active Valorant
         kill projections.  Results are cached per instance.
 
+        As of 2026, PrizePicks uses "MAPS 1-2 Kills" (2-map totals, ~25-38).
+        Player names are resolved from the `included` section.
+
         Returns empty dict if the API is unreachable or returns no results.
         """
         if self._cache is not None and not force_refresh:
@@ -147,18 +151,38 @@ class PrizePicksClient:
             logger.warning(f'PrizePicks fetch failed: {e}')
             return {}
 
+        # Build player id → name lookup from included objects
+        player_lookup: Dict[str, str] = {}
+        for obj in data.get('included', []):
+            if obj.get('type') == 'new_player':
+                attrs = obj.get('attributes', {})
+                name = (attrs.get('display_name') or attrs.get('name') or '').strip()
+                if name:
+                    player_lookup[obj['id']] = name
+
         lines: Dict[str, float] = {}
         for item in data.get('data', []):
             attrs = item.get('attributes', {})
-            stat = attrs.get('stat_type', '')
+            stat  = attrs.get('stat_type', '')
+
+            # Skip combo (multi-player parlay) entries
+            if 'Combo' in stat or 'combo' in stat:
+                continue
             if stat not in self.KILL_STAT_TYPES:
                 continue
-            name = attrs.get('name', '').strip().lower()
+
             score_raw = attrs.get('line_score')
-            if not name or score_raw is None:
+            if score_raw is None:
                 continue
+
+            # Resolve player name from included lookup first, fallback to attrs
+            pid  = item.get('relationships', {}).get('new_player', {}).get('data', {}).get('id', '')
+            name = player_lookup.get(pid) or attrs.get('name', '').strip()
+            if not name:
+                continue
+
             try:
-                lines[name] = float(score_raw)
+                lines[name.lower()] = float(score_raw)
             except (ValueError, TypeError):
                 continue
 
