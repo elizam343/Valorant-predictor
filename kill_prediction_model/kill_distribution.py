@@ -50,9 +50,14 @@ DEFAULT_SHIFT_CAP = 2.0
 # fraction of our disagreement:  μ_adj = line/map + λ·(μ̂ − line/map).
 #   λ = 1.0 → trust μ̂ fully (old behaviour)   λ = 0.0 → pure market, never bets
 # λ < 1 preserves the DIRECTION of our read but shrinks its MAGNITUDE, so a hot
-# μ̂ can't mint huge fake edges. HEURISTIC like shift_cap — cannot be fit until
-# the line_history corpus has enough settled results; raise λ as μ̂ improves.
-DEFAULT_MARKET_WEIGHT = 0.5
+# μ̂ can't mint huge fake edges.
+# Dropped 0.5 → 0.25 on 2026-06-09 after the first 24 settled bets: a λ sweep
+# showed our OVERs were systematically losing (overs 7W/14L) and that shrinking
+# harder toward the market monotonically improved win-rate/ROI. STILL a heuristic
+# fit on a TINY (n=24) sample — the DIRECTION (shrink more) is corroborated by
+# residual analysis + calibration, but the exact value is noisy. Re-tune as the
+# corpus grows; raise λ again only once μ̂'s over-bias is actually fixed.
+DEFAULT_MARKET_WEIGHT = 0.25
 
 
 def series_sum_samples(mu_per_map: float, sigma_per_map: float,
