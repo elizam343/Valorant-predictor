@@ -126,24 +126,29 @@ def scrape_match_details(match_id):
             players.append(team_players)
             team_idx += 1
         
-        # --- NEW: Extract round-by-round results and half-time scores ---
+        # --- Extract round-by-round results and half-time scores ---
+        # VLR's round timeline is `.vlr-rounds-row-col[title]` (one col per round;
+        # title = running "team1-team2" score). Each col has two `.rnd-sq`, one per
+        # team row; the winner's square carries `mod-win`. (The old `.scoreboard-*`
+        # selectors were dead — fixed 2026-06-09, #5.)
         round_results = []
         halftime_score = None
-        round_timeline = map_tab.select_one(".scoreboard-rounds")
-        if round_timeline:
-            round_icons = round_timeline.select(".scoreboard-round")
-            for icon in round_icons:
-                winner = None
-                if "left" in icon.get("class", []):
+        for col in map_tab.select(".vlr-rounds-row-col"):
+            if not col.get("title"):          # spacer / half-divider cols have no title
+                continue
+            sqs = col.select(".rnd-sq")
+            winner = None
+            if len(sqs) >= 2:
+                if "mod-win" in (sqs[0].get("class") or []):
                     winner = "team1"
-                elif "right" in icon.get("class", []):
+                elif "mod-win" in (sqs[1].get("class") or []):
                     winner = "team2"
-                round_results.append(winner)
-            if len(round_results) >= 12:
-                halftime_score = {
-                    "team1": round_results[:12].count("team1"),
-                    "team2": round_results[:12].count("team2")
-                }
+            round_results.append(winner)
+        if len(round_results) >= 12:
+            halftime_score = {
+                "team1": round_results[:12].count("team1"),
+                "team2": round_results[:12].count("team2")
+            }
         total_score = {
             "team1": round_results.count("team1"),
             "team2": round_results.count("team2")
