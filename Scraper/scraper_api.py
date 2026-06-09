@@ -52,7 +52,8 @@ def fetch_all_regions(timespan="all"):
 # --- NEW: Scrape full match details from VLR.gg ---
 def scrape_match_details(match_id):
     url = f"{VLR_BASE_URL}/{match_id}"
-    response = requests.get(url)
+    response = requests.get(url, timeout=15,
+                            headers={"User-Agent": "Mozilla/5.0 (compatible; valorant-research/1.0)"})
     soup = BeautifulSoup(response.text, "html.parser")
     match_data = {"match_id": match_id}
     

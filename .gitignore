@@ -65,6 +65,10 @@ switch.py
 
 # Scraped data (760MB+ — keep locally, don't track in git)
 scraped_matches/
+scraped_matches_scored/
+
+# Round-count pilot output (regenerate with Scraper/round_pilot.py)
+Scraper/round_proxy_validation.csv
 
 # Runtime / checkpoint files
 Scraper/.results_scraper_checkpoint.json
