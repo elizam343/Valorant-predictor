@@ -63,6 +63,12 @@ def _load_aliases() -> Dict[str, str]:
 BREAKEVEN   = 0.5238   # -110 odds
 # Min historical hit rate at the PP line to recommend OVER
 BASE_RATE_THRESHOLD = 0.45
+
+# Role-conditioned variance (v1): bootstrap the kill distribution from the
+# player's ON-AGENT history when they're locked on a well-sampled agent, so a
+# flex player's blended career shape doesn't misprice P(over). See scope notes.
+MIN_AGENT_MAPS  = 20    # need at least this many maps on the agent to trust its shape
+MIN_AGENT_SHARE = 0.40  # if the agent was GUESSED, only filter when it's clearly their main
 FEATURE_COLS = [
     'db_rating', 'db_average_combat_score', 'db_kill_deaths',
     'db_kills_per_round', 'db_assists_per_round',
@@ -73,6 +79,7 @@ FEATURE_COLS = [
     'recent_avg_kills', 'recent_avg_rating',
     'recent_avg_kills_3',
     'form_slope',
+    'rating_form_slope',
     'days_since_last_match',
     'h2h_avg_kills',
     'h2h_data_exists',
@@ -96,6 +103,7 @@ DEFAULTS = {
     'recent_avg_rating':              1.0,
     'recent_avg_kills_3':            13.0,
     'form_slope':                     0.0,
+    'rating_form_slope':              0.0,
     'days_since_last_match':          7.0,
     'h2h_avg_kills':                 13.0,
     'h2h_data_exists':                0.0,
@@ -157,6 +165,7 @@ class PlayerCache:
 
         self.team_strength      = {t: float(np.mean(v))       for t, v in team_ratings.items()}
         self.player_rating      = {p: float(np.mean(v[-10:])) for p, v in player_ratings.items()}
+        self.player_rating_hist = dict(player_ratings)         # raw list for rating_form_slope
         self.player_kills       = {p: float(np.mean(v[-10:])) for p, v in player_kills.items()}
         self.player_kill_hist   = dict(player_kills)           # raw list for form_slope + hit rate
         self.player_kill_std    = {
@@ -165,6 +174,10 @@ class PlayerCache:
         }
         self.map_kills          = {k: float(np.mean(v))        for k, v in player_map_kills.items()}
         self.agent_kills        = {k: float(np.mean(v))        for k, v in player_agent_kills.items()}
+        # Raw per-(player, agent) kill lists — the empirical SHAPE used to
+        # bootstrap a role-correct distribution when the player is locked on a
+        # well-sampled agent (flex players' blended career hist is wrong-shaped).
+        self.player_agent_hist  = {k: list(v)                  for k, v in player_agent_kills.items()}
         self.player_agent_freq  = dict(player_agent_freq)
         self.team_map_freq      = dict(team_map_freq)
         self.h2h_kills          = {k: float(np.mean(v))        for k, v in h2h_kills.items()}
@@ -288,6 +301,39 @@ class PlayerCache:
             return ''
         return max(candidates, key=candidates.get)
 
+    def select_kill_hist(self, player_name: str, agent: str,
+                         agent_guessed: bool) -> Tuple[list, str]:
+        """Pick the empirical per-map kill history to bootstrap the distribution.
+
+        Role-conditioned variance (v1): when the player is locked on a
+        well-sampled agent we use their ON-AGENT history (correct shape for a
+        flexing player); otherwise we fall back to the full career distribution.
+        Returns ``(hist, source)`` where source ∈ {'agent', 'career'} for logging.
+        """
+        career = (self.db_kill_hist.get(player_name)
+                  or self.player_kill_hist.get(player_name, []))
+
+        agent_key = (agent or '').lower()
+        on_agent  = self.player_agent_hist.get((player_name, agent_key), [])
+        if len(on_agent) >= MIN_AGENT_MAPS:
+            # A guessed agent is just likely_agent's pick (their main); trust it
+            # only when it's clearly their main to avoid filtering on a bad guess.
+            if agent_guessed:
+                # Share is vs AGENT-KNOWN maps, not all appearances — the JSON
+                # has many agentless maps that would otherwise dilute the share.
+                if not hasattr(self, '_agent_known_total'):
+                    _tot: dict = defaultdict(int)
+                    for (_p, _a), _n in self.player_agent_freq.items():
+                        _tot[_p] += _n
+                    self._agent_known_total = dict(_tot)
+                total = self._agent_known_total.get(player_name, 0)
+                share = len(on_agent) / total if total else 0.0
+                if share >= MIN_AGENT_SHARE:
+                    return on_agent, 'agent'
+            else:
+                return on_agent, 'agent'   # agent explicitly provided → trust it
+        return career, 'career'
+
     def _resolve_team(self, name: str) -> str:
         """Return the canonical team name from our cache, case-insensitively."""
         return self._team_lower.get(name.lower(), name)
@@ -385,6 +431,16 @@ class PlayerCache:
         else:
             slope = DEFAULTS['form_slope']
         f['form_slope'] = slope
+
+        # --- Rating form slope (efficiency trajectory, last 5 maps) ---
+        # Mirrors form_slope but on VLR rating — role/round-robust, so it tracks
+        # genuine improvement/decline independent of kill volume. Same as training.
+        rhist = self.player_rating_hist.get(player_name, [])
+        if len(rhist) >= 3:
+            recent5r = rhist[-5:]
+            f['rating_form_slope'] = float(np.polyfit(range(len(recent5r)), recent5r, 1)[0])
+        else:
+            f['rating_form_slope'] = DEFAULTS['rating_form_slope']
 
         # --- Days since last match ---
         from datetime import date as _today_date
@@ -528,6 +584,7 @@ def build_slate(
     clf=None,
     clf_scaler=None,
     clf_cols: Optional[List[str]] = None,
+    market_weight: float = kd.DEFAULT_MARKET_WEIGHT,
 ) -> List[Dict]:
     # PrizePicks now uses "MAPS 1-2 Kills" (2-map totals).
     # Model predicts per-map kills, so multiply by 2 to compare.
@@ -578,11 +635,11 @@ def build_slate(
         pred_per_map = predict(model, scaler, feature_cols, feat)
         pred_total   = pred_per_map * MAPS
 
-        # Per-map kill history (DB career preferred) — both for the hit-rate
-        # reference stat and as the empirical shape for the series distribution.
+        # Per-map kill history — the empirical shape for the series distribution.
+        # Role-conditioned (v1): prefer the player's ON-AGENT history when they're
+        # locked on a well-sampled agent, else the full career distribution.
         per_map_line = line / MAPS
-        hist = (cache.db_kill_hist.get(player)
-                or cache.player_kill_hist.get(player, []))
+        hist, hist_source = cache.select_kill_hist(player, agent, agent_guessed)
         hit_rate = float((np.array(hist) > per_map_line).mean()) if hist else 0.5
         n_maps   = len(hist)
 
@@ -598,15 +655,21 @@ def build_slate(
         ev = kd.evaluate_pick(
             line, mu_per_map=pred_per_map, sigma_per_map=sigma_pm,
             hist_per_map=hist, n_maps=MAPS, clf_p_over=clf_p_over,
-            break_even=BREAKEVEN,
+            break_even=BREAKEVEN, market_weight=market_weight,
         )
+
+        # Market-shrunk μ̂ is what actually drives the bet — report that, not the
+        # raw (hot) regression output, so display/logging match the decision.
+        adj_per_map = ev['mu_adj']
+        adj_total   = adj_per_map * MAPS
 
         rows.append({
             'player':        player_raw,
             'player_lookup': player,
             'line':          line,
-            'pred_per_map':  pred_per_map,
-            'pred_total':    pred_total,
+            'pred_per_map':  adj_per_map,
+            'pred_total':    adj_total,
+            'pred_per_map_raw': pred_per_map,
             'prob_over':     ev['p_over'],      # distributional P(OVER), primary
             'p_win':         ev['p_win'],
             'edge':          ev['edge_pts'],    # percentage POINTS over break-even
@@ -618,6 +681,7 @@ def build_slate(
             'cross_note':    ev['cross_note'],
             'hit_rate':      hit_rate,
             'n_maps':        n_maps,
+            'hist_source':   hist_source,   # 'agent' | 'career' — for calibration A/B
             'conflict':      bool(ev['cross_note']),
             'using_clf':     using_clf,
             'missing':       missing,
@@ -655,6 +719,8 @@ def _ctx_label(row: Dict) -> str:
 def _notes(r: Dict) -> str:
     """Context label plus a ⚠ flag when the classifier cross-check disagrees."""
     parts = [_ctx_label(r), f"hit {r.get('hit_rate', 0.5):.0%}"]
+    src = r.get('hist_source')
+    parts.append(f"dist:{'on-agent' if src == 'agent' else 'career'} ({r.get('n_maps', 0)}m)")
     if r.get('cross_note'):
         parts.append(f"⚠ {r['cross_note']}")
     return '  '.join(p for p in parts if p)
@@ -675,7 +741,8 @@ def _meta_label(meta: Optional[Dict], kind: str) -> str:
 
 def print_slate(rows: List[Dict], skipped_debuts: List, min_edge: float,
                 min_appearances: int = 15, reg_meta: Optional[Dict] = None,
-                clf_meta: Optional[Dict] = None):
+                clf_meta: Optional[Dict] = None,
+                market_weight: float = kd.DEFAULT_MARKET_WEIGHT):
     today     = date.today().isoformat()
     using_clf = any(r.get('using_clf') for r in rows)
 
@@ -693,6 +760,8 @@ def print_slate(rows: List[Dict], skipped_debuts: List, min_edge: float,
           f'cross-check: {_meta_label(clf_meta, "clf") if using_clf else "none"}')
     print(f'Recommend edge ≥ {min_edge:.0f}pt  |  Break-even at -110: {BREAKEVEN:.1%}  |  '
           f'stake = ¼-Kelly (cap 5%)')
+    print(f'Market shrink λ={market_weight:.2f} (μ̂ pulled toward the line; '
+          f'1=trust μ̂, 0=pure market)')
     print()
 
     # ── Recommended bets ────────────────────────────────────────────────────
@@ -791,6 +860,9 @@ def main():
                         help='JSON file with per-player matchup context (team, opponent, maps, agent)')
     parser.add_argument('--min-appearances', type=int, default=15,
                         help='Skip players with fewer than N map appearances in history (default: 15)')
+    parser.add_argument('--market-weight', type=float, default=kd.DEFAULT_MARKET_WEIGHT,
+                        help='λ: fraction of our μ̂-vs-line disagreement to keep (0=pure market, '
+                             f'1=trust μ̂ fully). Shrinks a hot μ̂ toward the line. Default: {kd.DEFAULT_MARKET_WEIGHT}')
     parser.add_argument('--cache-matches', type=int,   default=None,
                         help='Cap match files when BUILDING the cache (default: all). '
                              'Ignored once a prebuilt cache exists.')
@@ -855,9 +927,11 @@ def main():
         cache, model, scaler, feature_cols, lines, context,
         args.min_edge, args.min_appearances,
         clf=clf, clf_scaler=clf_scaler, clf_cols=clf_cols,
+        market_weight=args.market_weight,
     )
     print_slate(rows, skipped_debuts, args.min_edge, args.min_appearances,
-                reg_meta=reg_meta, clf_meta=clf_meta if clf_result is not None else None)
+                reg_meta=reg_meta, clf_meta=clf_meta if clf_result is not None else None,
+                market_weight=args.market_weight)
 
     # Auto-save recommended bets to results tracker
     if not args.no_save:

@@ -67,6 +67,7 @@ FEATURE_COLS = [
     'recent_avg_kills', 'recent_avg_rating',
     'recent_avg_kills_3',        # last 3 maps (faster recency)
     'form_slope',
+    'rating_form_slope',         # efficiency trajectory (rating trend)
     'days_since_last_match',     # rest days
     'h2h_avg_kills',
     'h2h_data_exists',

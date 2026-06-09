@@ -48,7 +48,7 @@ LINE_HISTORY_FILE = Path(__file__).parent / 'line_history.csv'
 LINE_HISTORY_COLUMNS = [
     'date', 'player', 'pp_line', 'pred_per_map', 'pred_total', 'prob_over',
     'p_win', 'edge_pct', 'kelly_stake', 'rec', 'bet_rec', 'hit_rate', 'hist_maps',
-    'team', 'opponent', 'agent', 'filter_reason', 'actual', 'line_result',
+    'hist_source', 'team', 'opponent', 'agent', 'filter_reason', 'actual', 'line_result',
 ]
 
 
@@ -175,6 +175,7 @@ def log_line_history(rows: List[Dict], today: Optional[str] = None) -> int:
             'bet_rec':       r.get('bet_rec', ''),
             'hit_rate':      _fmt(r.get('hit_rate'), 3),
             'hist_maps':     str(r.get('n_maps', '')),
+            'hist_source':   r.get('hist_source', ''),
             'team':          ctx.get('team', ''),
             'opponent':      ctx.get('opponent', ''),
             'agent':         ctx.get('agent', ''),

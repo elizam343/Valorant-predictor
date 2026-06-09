@@ -44,6 +44,16 @@ DEFAULT_SIMS = 20000
 # — should be tuned against the backtest corpus once results accumulate.
 DEFAULT_SHIFT_CAP = 2.0
 
+# Market shrinkage (λ). Our μ̂ runs hot (MAE ~4.7/map) and, left alone, sits ~2
+# kills/map ABOVE the PrizePicks line on most legs — manufacturing one-sided
+# all-OVER slates. We treat the market line as a strong prior and keep only a
+# fraction of our disagreement:  μ_adj = line/map + λ·(μ̂ − line/map).
+#   λ = 1.0 → trust μ̂ fully (old behaviour)   λ = 0.0 → pure market, never bets
+# λ < 1 preserves the DIRECTION of our read but shrinks its MAGNITUDE, so a hot
+# μ̂ can't mint huge fake edges. HEURISTIC like shift_cap — cannot be fit until
+# the line_history corpus has enough settled results; raise λ as μ̂ improves.
+DEFAULT_MARKET_WEIGHT = 0.5
+
 
 def series_sum_samples(mu_per_map: float, sigma_per_map: float,
                        hist_per_map=None, n_maps: int = 2,
@@ -97,14 +107,22 @@ def evaluate_pick(line: float, mu_per_map: float, sigma_per_map: float,
                   break_even: float = DEFAULT_BREAK_EVEN,
                   kelly_fraction: float = 0.25, kelly_cap: float = 0.05,
                   conflict_margin: float = 0.10,
-                  shift_cap: float = DEFAULT_SHIFT_CAP) -> dict:
+                  shift_cap: float = DEFAULT_SHIFT_CAP,
+                  market_weight: float = DEFAULT_MARKET_WEIGHT) -> dict:
     """Score a single OVER/UNDER pick distributionally.
 
     Returns p_over, the recommended side, win prob, edge (percentage POINTS over
     break-even), Kelly stake, a BET / NO BET flag, and a classifier cross-check.
     A *confident* classifier disagreement vetoes the bet; a mild one is a note.
+
+    Before scoring, μ̂ is shrunk toward the market line by ``market_weight`` (λ)
+    so a hot μ̂ can't manufacture one-sided slates — see DEFAULT_MARKET_WEIGHT.
+    ``mu_raw`` and ``mu_adj`` (per-map) are returned for transparency/logging.
     """
-    p_over = prob_over(line, mu_per_map, sigma_per_map, hist_per_map, n_maps,
+    per_map_line = line / n_maps
+    mu_adj = per_map_line + market_weight * (mu_per_map - per_map_line)
+
+    p_over = prob_over(line, mu_adj, sigma_per_map, hist_per_map, n_maps,
                        shift_cap=shift_cap)
     rec    = 'OVER' if p_over >= 0.5 else 'UNDER'
     p_win  = p_over if rec == 'OVER' else 1.0 - p_over
@@ -129,6 +147,7 @@ def evaluate_pick(line: float, mu_per_map: float, sigma_per_map: float,
         'edge_pts': edge_pts, 'stake': stake,
         'bet_rec': bet_rec, 'filter_reason': reason,
         'clf_p_over': clf_p_over, 'cross_note': cross_note,
+        'mu_raw': mu_per_map, 'mu_adj': mu_adj,
     }
 
 
@@ -173,5 +192,22 @@ if __name__ == '__main__':
                         hist_per_map=hist, clf_p_over=0.20)
     assert ev2['bet_rec'] == 'NO BET' and 'conflict' in ev2['filter_reason'], ev2
     print('  conflict veto:', ev2['filter_reason'])
+
+    # 6) Market shrinkage halves our disagreement and shrinks the edge.
+    #    line=30 → line/map=15; raw μ̂=20 ⇒ +5/map over market.
+    full   = evaluate_pick(line=30.0, mu_per_map=20.0, sigma_per_map=5.0,
+                           hist_per_map=hist, market_weight=1.0)   # trust μ̂
+    shrunk = evaluate_pick(line=30.0, mu_per_map=20.0, sigma_per_map=5.0,
+                           hist_per_map=hist, market_weight=0.5)   # halve it
+    assert abs(shrunk['mu_adj'] - 17.5) < 1e-9, shrunk['mu_adj']   # 15 + .5·(20−15)
+    assert shrunk['mu_adj'] < full['mu_adj'], (shrunk['mu_adj'], full['mu_adj'])
+    assert shrunk['edge_pts'] < full['edge_pts'], (shrunk['edge_pts'], full['edge_pts'])
+    # λ=0 collapses onto the market line → coin-flip, no edge, no bet.
+    pure = evaluate_pick(line=30.0, mu_per_map=20.0, sigma_per_map=5.0,
+                         hist_per_map=hist, market_weight=0.0)
+    assert pure['bet_rec'] == 'NO BET', pure
+    print(f"  shrinkage μ̂ 20→{shrunk['mu_adj']:.1f}/map (λ=.5),"
+          f" edge {full['edge_pts']:.1f}→{shrunk['edge_pts']:.1f}pt;"
+          f" λ=0 → {pure['bet_rec']}")
 
     print('\n  ✓ all self-tests passed')

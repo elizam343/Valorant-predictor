@@ -503,6 +503,19 @@ class EnhancedDataLoader:
         )
         df['form_slope'] = df['form_slope'].fillna(0.0)
 
+        # rating_form_slope — EFFICIENCY trajectory (slope of last 5 maps' VLR
+        # rating). Unlike form_slope (kills), rating is role/round-robust, so it
+        # tracks whether a player is genuinely improving/declining independent of
+        # kill volume — a leading indicator the market (which prices recent kills)
+        # tends to lag. Same shift(1) leak-safety as the kills slope.
+        df['rating_form_slope'] = grp['match_rating'].transform(
+            lambda s: s.shift(1).rolling(5, min_periods=3).apply(
+                lambda y: float(np.polyfit(range(len(y)), y, 1)[0]),
+                raw=True,
+            )
+        )
+        df['rating_form_slope'] = df['rating_form_slope'].fillna(0.0)
+
         # Per-player-per-map kill average using leave-one-out to avoid leakage.
         grp_map   = df.groupby(['player_name', 'map_name'])['match_kills']
         map_sum   = grp_map.transform('sum')
@@ -598,6 +611,7 @@ class EnhancedDataLoader:
             'recent_avg_kills', 'recent_avg_rating',
             'recent_avg_kills_3',        # last 3 maps (faster recency signal)
             'form_slope',
+            'rating_form_slope',         # efficiency trajectory (rating trend)
             'days_since_last_match',     # rest days — freshness / preparation
             # Head-to-head history
             'h2h_avg_kills',
