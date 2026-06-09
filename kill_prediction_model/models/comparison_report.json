@@ -1,25 +1,25 @@
 {
   "regression": [
     {
-      "name": "LightGBM",
-      "r2": 0.3889,
-      "mae": 4.6261,
-      "rmse": 6.0422,
-      "train_time_s": 5.9
+      "name": "XGBoost",
+      "r2": 0.3771,
+      "mae": 4.5903,
+      "rmse": 6.1,
+      "train_time_s": 57.2
     },
     {
-      "name": "XGBoost",
-      "r2": 0.3877,
-      "mae": 4.628,
-      "rmse": 6.0482,
-      "train_time_s": 5.7
+      "name": "LightGBM",
+      "r2": 0.377,
+      "mae": 4.5917,
+      "rmse": 6.1008,
+      "train_time_s": 9.3
     },
     {
       "name": "Random Forest",
       "r2": 0.3296,
       "mae": 4.8525,
       "rmse": 6.3285,
-      "train_time_s": 159.2
+      "train_time_s": 158.1
     },
     {
       "name": "Linear Regression",
@@ -40,7 +40,7 @@
       "r2": 0.1902,
       "mae": 5.337,
       "rmse": 6.9553,
-      "train_time_s": 1.1
+      "train_time_s": 1.2
     }
   ],
   "classification": [
@@ -49,28 +49,28 @@
       "accuracy": 0.7006,
       "f1": 0.6905,
       "auc": 0.7645,
-      "train_time_s": 6.1
+      "train_time_s": 6.0
     },
     {
       "name": "LightGBM",
       "accuracy": 0.7004,
       "f1": 0.6909,
       "auc": 0.7641,
-      "train_time_s": 8.3
+      "train_time_s": 7.0
     },
     {
       "name": "Random Forest",
       "accuracy": 0.6864,
       "f1": 0.6682,
       "auc": 0.7371,
-      "train_time_s": 43.1
+      "train_time_s": 42.8
     },
     {
       "name": "Logistic Regression",
       "accuracy": 0.6084,
       "f1": 0.5831,
       "auc": 0.6523,
-      "train_time_s": 1.2
+      "train_time_s": 1.0
     },
     {
       "name": "Naive Bayes",

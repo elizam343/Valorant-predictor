@@ -226,13 +226,18 @@ def regression_models(include_slow: bool = True) -> dict:
                                                              max_depth=5, subsample=0.8,
                                                              min_samples_leaf=20, random_state=42),
     }
+    # L1 objective: default L2 optimizes the conditional MEAN, but we report and
+    # bet on MAE (minimized by the conditional MEDIAN). L1 directly targets it —
+    # measured ~0.035 MAE improvement over L2 on the chronological holdout (#2).
     if HAS_XGB:
-        models['XGBoost'] = xgb.XGBRegressor(n_estimators=400, learning_rate=0.05,
+        models['XGBoost'] = xgb.XGBRegressor(objective='reg:absoluteerror',
+                                               n_estimators=400, learning_rate=0.05,
                                                max_depth=5, subsample=0.8,
                                                colsample_bytree=0.8, n_jobs=-1,
                                                random_state=42, verbosity=0)
     if HAS_LGB:
-        models['LightGBM'] = lgb.LGBMRegressor(n_estimators=400, learning_rate=0.05,
+        models['LightGBM'] = lgb.LGBMRegressor(objective='regression_l1',
+                                                 n_estimators=400, learning_rate=0.05,
                                                  max_depth=5, num_leaves=31, subsample=0.8,
                                                  n_jobs=-1, random_state=42, verbose=-1)
     # sklearn GBR is ~150x slower than XGBoost for ~identical metrics — skip in fast mode.
