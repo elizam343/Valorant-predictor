@@ -30,6 +30,10 @@ from db_utils import get_connection as get_career_conn
 
 DB_PATH = os.path.join(os.path.dirname(__file__), '..', 'Scraper', 'valorant_matches.db')
 
+# NOTE: DB-only (--use-db) feature set, NOT the canonical serving list in
+# features.py. The DB lacks per-map rating, so it can't produce rating_form_slope
+# — the --use-db path is incompatible with the current models (which train via
+# EnhancedDataLoader). Kept for reference only.
 FEATURE_COLUMNS = [
     'db_rating', 'db_average_combat_score', 'db_kill_deaths',
     'db_kills_per_round', 'db_assists_per_round',

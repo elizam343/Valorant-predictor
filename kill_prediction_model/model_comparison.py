@@ -57,28 +57,8 @@ except ImportError:
 MODELS_DIR = Path(__file__).parent / 'models'
 
 # 23 features (20 previous + 3 new)
-FEATURE_COLS = [
-    'db_rating', 'db_average_combat_score', 'db_kill_deaths',
-    'db_kills_per_round', 'db_assists_per_round',
-    'db_first_kills_per_round', 'db_first_deaths_per_round',
-    'team_strength',
-    'opponent_team_strength',
-    'opponent_kills_allowed_per_map',
-    'recent_avg_kills', 'recent_avg_rating',
-    'recent_avg_kills_3',        # last 3 maps (faster recency)
-    'form_slope',
-    'rating_form_slope',         # efficiency trajectory (rating trend)
-    'days_since_last_match',     # rest days
-    'h2h_avg_kills',
-    'h2h_data_exists',
-    'player_map_avg_kills',
-    'avg_rounds_vs_opponent',    # expected rounds from team-matchup history
-    'kill_std',
-    'agent_role_ordinal', 'is_duelist', 'player_agent_avg_kills',
-]
-
-# Classification gets two extra features: the kill line + player historical hit rate
-CLF_EXTRA = ['synthetic_line', 'player_hit_rate_at_line']
+# Feature lists live in features.py — single source of truth (see #6).
+from features import FEATURE_COLS, CLF_EXTRA
 
 
 # ---------------------------------------------------------------------------

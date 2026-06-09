@@ -598,35 +598,8 @@ class EnhancedDataLoader:
         # Add agent role and per-agent kill history
         df = self.add_agent_features(df)
 
-        feature_columns = [
-            # Career averages from vlr_players.db
-            'db_rating', 'db_average_combat_score', 'db_kill_deaths',
-            'db_kills_per_round', 'db_assists_per_round',
-            'db_first_kills_per_round', 'db_first_deaths_per_round',
-            # Match-context features
-            'team_strength',
-            'opponent_team_strength',
-            'opponent_kills_allowed_per_map',
-            # Rolling recent form
-            'recent_avg_kills', 'recent_avg_rating',
-            'recent_avg_kills_3',        # last 3 maps (faster recency signal)
-            'form_slope',
-            'rating_form_slope',         # efficiency trajectory (rating trend)
-            'days_since_last_match',     # rest days — freshness / preparation
-            # Head-to-head history
-            'h2h_avg_kills',
-            'h2h_data_exists',
-            # Map familiarity
-            'player_map_avg_kills',
-            # Match context
-            'avg_rounds_vs_opponent',    # expected rounds based on team-matchup history
-            # Kill variance
-            'kill_std',
-            # Agent role features
-            'agent_role_ordinal',
-            'is_duelist',
-            'player_agent_avg_kills',
-        ]
+        from features import FEATURE_COLS   # single source of truth (#6)
+        feature_columns = list(FEATURE_COLS)
 
         # Target: actual kills in this map (the thing bettors are trying to predict)
         target_column = 'match_kills'

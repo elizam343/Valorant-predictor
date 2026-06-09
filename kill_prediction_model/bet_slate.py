@@ -69,25 +69,8 @@ BASE_RATE_THRESHOLD = 0.45
 # flex player's blended career shape doesn't misprice P(over). See scope notes.
 MIN_AGENT_MAPS  = 20    # need at least this many maps on the agent to trust its shape
 MIN_AGENT_SHARE = 0.40  # if the agent was GUESSED, only filter when it's clearly their main
-FEATURE_COLS = [
-    'db_rating', 'db_average_combat_score', 'db_kill_deaths',
-    'db_kills_per_round', 'db_assists_per_round',
-    'db_first_kills_per_round', 'db_first_deaths_per_round',
-    'team_strength',
-    'opponent_team_strength',
-    'opponent_kills_allowed_per_map',
-    'recent_avg_kills', 'recent_avg_rating',
-    'recent_avg_kills_3',
-    'form_slope',
-    'rating_form_slope',
-    'days_since_last_match',
-    'h2h_avg_kills',
-    'h2h_data_exists',
-    'player_map_avg_kills',
-    'avg_rounds_vs_opponent',
-    'kill_std',
-    'agent_role_ordinal', 'is_duelist', 'player_agent_avg_kills',
-]
+# Feature list lives in features.py — single source of truth (see #6).
+from features import FEATURE_COLS
 DEFAULTS = {
     'db_rating':                      1.0,
     'db_average_combat_score':      193.0,
