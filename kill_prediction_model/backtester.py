@@ -36,6 +36,8 @@ ODDS_LOSS   = 110           # Loss per bet at −110
 
 _smart_line = SmartSyntheticLine()
 
+# NOTE: intentionally a SEPARATE, smaller DB-only feature set for this backtester's
+# own model — NOT the canonical serving list in features.py. Don't unify them.
 FEATURE_COLUMNS = [
     'db_rating', 'db_average_combat_score', 'db_kill_deaths',
     'db_kills_per_round', 'db_assists_per_round',

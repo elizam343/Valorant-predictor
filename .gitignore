@@ -65,6 +65,10 @@ switch.py
 
 # Scraped data (760MB+ — keep locally, don't track in git)
 scraped_matches/
+scraped_matches_scored/
+
+# Round-count pilot output (regenerate with Scraper/round_pilot.py)
+Scraper/round_proxy_validation.csv
 
 # Runtime / checkpoint files
 Scraper/.results_scraper_checkpoint.json
@@ -80,3 +84,11 @@ node_modules/
 # Build artifacts
 dist/
 build/ Scraper/valorant_matches.db
+
+# Generated player cache (36MB; rebuild with: bet_slate.py --rebuild-cache)
+player_cache.pkl
+
+# Local backups / temp model artifacts (not for the repo)
+*.leaky.bak.pkl
+bet_results.backup-*.csv
+comparison_report.random_split.json

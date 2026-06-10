@@ -481,6 +481,40 @@ class EnhancedDataLoader:
         df['recent_avg_rating'] = grp['match_rating'].transform(
             lambda s: s.shift(1).rolling(10, min_periods=2).mean()
         )
+        df['recent_avg_kills_3'] = grp['match_kills'].transform(
+            lambda s: s.shift(1).rolling(3, min_periods=1).mean()
+        ).fillna(df['match_kills'].mean())
+
+        # days_since_last_match — rest days between consecutive appearances
+        df['_prev_date'] = df.groupby('player_name')['match_date'].shift(1)
+        df['days_since_last_match'] = (
+            (df['match_date'] - df['_prev_date']).dt.days
+            .fillna(7.0).clip(0, 30)
+        )
+        df = df.drop(columns=['_prev_date'])
+
+        # form_slope — linear trend (slope) of last 5 map kills
+        # Positive = trending up, negative = trending down
+        df['form_slope'] = grp['match_kills'].transform(
+            lambda s: s.shift(1).rolling(5, min_periods=3).apply(
+                lambda y: float(np.polyfit(range(len(y)), y, 1)[0]),
+                raw=True,
+            )
+        )
+        df['form_slope'] = df['form_slope'].fillna(0.0)
+
+        # rating_form_slope — EFFICIENCY trajectory (slope of last 5 maps' VLR
+        # rating). Unlike form_slope (kills), rating is role/round-robust, so it
+        # tracks whether a player is genuinely improving/declining independent of
+        # kill volume — a leading indicator the market (which prices recent kills)
+        # tends to lag. Same shift(1) leak-safety as the kills slope.
+        df['rating_form_slope'] = grp['match_rating'].transform(
+            lambda s: s.shift(1).rolling(5, min_periods=3).apply(
+                lambda y: float(np.polyfit(range(len(y)), y, 1)[0]),
+                raw=True,
+            )
+        )
+        df['rating_form_slope'] = df['rating_form_slope'].fillna(0.0)
 
         # Per-player-per-map kill average using leave-one-out to avoid leakage.
         grp_map   = df.groupby(['player_name', 'map_name'])['match_kills']
@@ -490,6 +524,21 @@ class EnhancedDataLoader:
         # Players with only one appearance on a map get their overall average instead
         player_overall = df.groupby('player_name')['match_kills'].transform('mean')
         df['player_map_avg_kills'] = df['player_map_avg_kills'].fillna(player_overall)
+
+        # h2h_avg_kills — player's historical avg kills vs this specific opponent (leave-one-out)
+        grp_h2h   = df.groupby(['player_name', 'opponent_team'])['match_kills']
+        h2h_sum   = grp_h2h.transform('sum')
+        h2h_count = grp_h2h.transform('count')
+        df['h2h_avg_kills'] = (h2h_sum - df['match_kills']) / (h2h_count - 1)
+        df['h2h_avg_kills'] = df['h2h_avg_kills'].fillna(player_overall)
+
+        # h2h_data_exists — 1 if real h2h data, 0 if first-time matchup
+        df['h2h_data_exists'] = (h2h_count > 1).astype(float)
+
+        # kill_std — player's historical kill standard deviation
+        df['kill_std'] = (
+            df.groupby('player_name')['match_kills'].transform('std').fillna(3.0)
+        )
 
         return df
 
@@ -549,27 +598,21 @@ class EnhancedDataLoader:
         # Add agent role and per-agent kill history
         df = self.add_agent_features(df)
 
-        feature_columns = [
-            # Career averages from vlr_players.db
-            'db_rating', 'db_average_combat_score', 'db_kill_deaths',
-            'db_kills_per_round', 'db_assists_per_round',
-            'db_first_kills_per_round', 'db_first_deaths_per_round',
-            # Match-context features
-            'team_strength', 'opponent_team_strength',
-            # Rolling recent form (last 10 map appearances, shift-safe)
-            'recent_avg_kills', 'recent_avg_rating',
-            # Map familiarity
-            'player_map_avg_kills',
-            # Agent role features
-            'agent_role_ordinal',
-            'is_duelist',
-            'player_agent_avg_kills',
-        ]
+        from features import FEATURE_COLS   # single source of truth (#6)
+        feature_columns = list(FEATURE_COLS)
 
         # Target: actual kills in this map (the thing bettors are trying to predict)
         target_column = 'match_kills'
 
-        df_subset = df[feature_columns + [target_column]].copy()
+        extra_cols = [target_column]
+        if 'player_name' in df.columns:
+            extra_cols.append('player_name')
+        # match_date is carried through (not a feature) so the trainer can do a
+        # leak-free chronological split instead of a random one.
+        if 'match_date' in df.columns:
+            extra_cols.append('match_date')
+
+        df_subset = df[feature_columns + extra_cols].copy()
 
         # Keep only rows where the player has career stats and scored real kills
         df_subset = df_subset[
@@ -584,7 +627,11 @@ class EnhancedDataLoader:
             print("No data remaining after cleaning.")
             return pd.DataFrame(), pd.Series()
 
-        X = df_subset[feature_columns]
+        X = df_subset[feature_columns].copy()
+        if 'player_name' in df_subset.columns:
+            X['player_name'] = df_subset['player_name'].values
+        if 'match_date' in df_subset.columns:
+            X['match_date'] = df_subset['match_date'].values
         y = df_subset[target_column]
 
         print(f"Final training dataset: {len(X)} samples, {len(X.columns)} features")
@@ -595,74 +642,63 @@ class EnhancedDataLoader:
     def create_kill_prediction_features(self, df: pd.DataFrame) -> pd.DataFrame:
         """Create features specifically for predicting actual kills"""
         print("Creating kill prediction features...")
-        
-        # Calculate derived features
-        df['total_rounds'] = df['match_kills'] + df['match_deaths'] + df['match_assists']
-        df['kills_per_round'] = df['match_kills'] / df['total_rounds'].replace(0, 1)
-        df['deaths_per_round'] = df['match_deaths'] / df['total_rounds'].replace(0, 1)
-        df['assists_per_round'] = df['match_assists'] / df['total_rounds'].replace(0, 1)
-        
-        # Performance ratios (historical vs current)
-        df['performance_ratio'] = df['match_rating'] / df['db_rating'].replace(0, 1)
-        df['acs_ratio'] = df['match_acs'] / df['db_average_combat_score'].replace(0, 1)
-        
-        # Efficiency metrics
-        df['kill_efficiency'] = df['match_kills'] / (df['match_kills'] + df['match_deaths']).replace(0, 1)
-        df['impact_score'] = df['match_kills'] + (df['match_assists'] * 0.5)
-        
-        # Team performance features
-        team_stats = df.groupby(['match_id', 'team']).agg({
-            'match_kills': 'sum',
-            'match_rating': 'mean',
-            'match_acs': 'mean'
-        }).reset_index()
-        
-        team_stats = team_stats.rename(columns={
-            'match_kills': 'team_total_kills',
-            'match_rating': 'team_avg_rating',
-            'match_acs': 'team_avg_acs'
-        })
-        
+
+        # Team performance in this match
+        team_stats = df.groupby(['match_id', 'team']).agg(
+            team_total_kills=('match_kills', 'sum'),
+            team_avg_rating=('match_rating', 'mean'),
+            team_avg_acs=('match_acs', 'mean'),
+        ).reset_index()
         df = df.merge(team_stats, on=['match_id', 'team'], how='left')
-        
-        # Player's contribution to team
-        df['team_kill_contribution'] = df['match_kills'] / df['team_total_kills'].replace(0, 1)
-        df['relative_rating'] = df['match_rating'] - df['team_avg_rating']
-        
-        # Map-specific features
-        map_stats = df.groupby('map_name').agg({
-            'match_kills': 'mean',
-            'match_rating': 'mean'
-        }).rename(columns={
-            'match_kills': 'map_avg_kills',
-            'match_rating': 'map_avg_rating'
-        })
-        
-        df = df.merge(map_stats, on='map_name', how='left')
-        df['map_performance'] = df['match_kills'] - df['map_avg_kills']
-        
-        # Team strength: avg rating of teammates in this match
+
+        # team_strength = own team's avg rating in this match
         df['team_strength'] = df['team_avg_rating']
 
-        # Opponent strength: avg rating of all players in the match not on this team
-        opp_stats = df.groupby('match_id').apply(
-            lambda g: g.assign(
-                opponent_team_strength=g.groupby('team')['match_rating']
-                .transform('mean')
-                .where(g['team'] != g['team'])
-                .fillna(
-                    g.groupby('match_id')['match_rating'].transform('mean')
-                )
-            )
-        ).reset_index(drop=True)
+        # opponent_team_strength = ACTUAL opposing team's avg rating in this match
+        # (previously was just match_avg_rating — now fixed)
+        opp_ratings = (
+            df.groupby(['match_id', 'team'])['match_rating']
+            .mean()
+            .reset_index()
+            .rename(columns={'team': 'opponent_team', 'match_rating': 'opponent_team_strength'})
+        )
+        df = df.merge(opp_ratings, on=['match_id', 'opponent_team'], how='left')
+        df['opponent_team_strength'] = df['opponent_team_strength'].fillna(df['team_avg_rating'])
 
-        # Simpler: for each row, opp strength = avg rating of players NOT on the same team
-        opp_strength = df.groupby(['match_id', 'team'])['match_rating'].mean().reset_index()
-        opp_strength = opp_strength.rename(columns={'match_rating': 'own_avg_rating'})
-        match_avg = df.groupby('match_id')['match_rating'].mean().reset_index()
-        match_avg = match_avg.rename(columns={'match_rating': 'match_avg_rating'})
-        df = df.merge(match_avg, on='match_id', how='left')
-        # Opponent strength approximated as: (match avg * num_players - team avg * team_size) / opp_size
-        df['opponent_team_strength'] = df['match_avg_rating']  # close enough for 10-player matches
+        # opponent_kills_allowed_per_map — historical avg kills opponents score vs this team
+        # i.e. how many kills does this opponent allow per map (their defensive rating)
+        opp_allowed = (
+            df.groupby('opponent_team')['match_kills']
+            .mean()
+            .reset_index()
+            .rename(columns={'match_kills': 'opponent_kills_allowed_per_map'})
+        )
+        df = df.merge(opp_allowed, on='opponent_team', how='left')
+        df['opponent_kills_allowed_per_map'] = df['opponent_kills_allowed_per_map'].fillna(
+            df['match_kills'].mean()
+        )
 
-        return df 
+        # Map-average kills (global, for context)
+        map_avg = (
+            df.groupby('map_name')['match_kills']
+            .mean()
+            .reset_index()
+            .rename(columns={'match_kills': 'map_avg_kills'})
+        )
+        df = df.merge(map_avg, on='map_name', how='left')
+
+        # avg_rounds_vs_opponent — estimated rounds from total kills per map instance
+        map_totals = (df.groupby(['match_id', 'map_name'])['match_kills']
+                      .sum().reset_index()
+                      .rename(columns={'match_kills': 'map_total_kills'}))
+        map_totals['estimated_rounds'] = map_totals['map_total_kills'] / 6.0
+        df = df.merge(map_totals[['match_id', 'map_name', 'estimated_rounds']],
+                      on=['match_id', 'map_name'], how='left')
+        grp_r   = df.groupby(['team', 'opponent_team'])['estimated_rounds']
+        r_sum   = grp_r.transform('sum')
+        r_count = grp_r.transform('count')
+        df['avg_rounds_vs_opponent'] = (
+            (r_sum - df['estimated_rounds']) / (r_count - 1)
+        ).fillna(df['estimated_rounds'].mean())
+
+        return df
