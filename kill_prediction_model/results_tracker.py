@@ -257,7 +257,14 @@ def cmd_result(args) -> None:
         candidates = [(i, r) for i, r in enumerate(rows) if _matches(r)]
 
     if not candidates:
-        print(f"\n  No pending pick for '{args.player}'.")
+        # Not a pending BET — but it may still be a logged MARKET line (bet or
+        # not). Settle that so the slate-wide corpus is complete (needed for the
+        # over-rate / base-rate analysis), even though it never affects P&L.
+        if _settle_line_history(player_lower, args.actual, date=args.date or None):
+            print(f"\n  [MARKET]  {args.player:<20}  actual={args.actual:.1f}  "
+                  f"→ settled line_history (not a bet)\n")
+            return
+        print(f"\n  No pending pick or logged line for '{args.player}'.")
         known = sorted({r['date'] for r in rows if r['player'].lower() == player_lower})
         if known:
             print(f"  Dates on record: {', '.join(known)}")
@@ -371,6 +378,89 @@ def cmd_history(args) -> None:
     print()
 
 
+def _pearson(x, y):
+    n = len(x)
+    if n < 3:
+        return None
+    mx, my = sum(x) / n, sum(y) / n
+    sxy = sum((a - mx) * (b - my) for a, b in zip(x, y))
+    sxx = sum((a - mx) ** 2 for a in x)
+    syy = sum((b - my) ** 2 for b in y)
+    return sxy / (sxx * syy) ** 0.5 if sxx > 0 and syy > 0 else None
+
+
+def cmd_slate(args) -> None:
+    """Per-slate OVER rate vs our results — 'do we beat the night or ride it?'
+
+    For each day: the slate-wide OVER rate (what % of the WHOLE board cleared),
+    our bets' win rate, and a SELECTION EDGE = our wins minus the wins we'd
+    expect from betting the same DIRECTION on random players (i.e. the slate's
+    base rate). Positive selection edge = our pick-selection beats blind
+    directional betting; correlation of our win rate with the slate OVER rate
+    tells us how much we're just riding over-heavy nights.
+    """
+    rows = [r for r in _load_file(LINE_HISTORY_FILE)
+            if r.get('line_result') in ('OVER', 'UNDER', 'PUSH')]
+    if not rows:
+        print('\n  No settled market lines yet — settle slates first.\n')
+        return
+
+    from collections import defaultdict
+    by = defaultdict(list)
+    for r in rows:
+        by[r['date']].append(r)
+
+    print('\n  ' + '=' * 74)
+    print('   SLATE OVER-RATE vs OUR RESULTS  (do we beat the night, or ride it?)')
+    print('  ' + '=' * 74)
+    print(f"  {'date':<12}{'lines':>6}{'OVER%':>7}{'bets':>6}{'win%':>7}"
+          f"{'ourOVER%':>9}{'selEdge':>9}")
+    print('  ' + '-' * 74)
+
+    over_rates, win_rates = [], []
+    T_bets = T_wins = 0
+    T_exp = 0.0
+    for date in sorted(by):
+        rs = by[date]
+        dec = [r for r in rs if r['line_result'] in ('OVER', 'UNDER')]
+        if not dec:
+            continue
+        over_rate = sum(r['line_result'] == 'OVER' for r in dec) / len(dec)
+        # "our bet" = recommended (bet_rec BET *and* edge ≥ 3pt threshold we act on)
+        bets = [r for r in rs if r.get('bet_rec') == 'BET'
+                and float(r.get('edge_pct') or 0) >= 3.0
+                and r['line_result'] in ('OVER', 'UNDER')]
+        nb = len(bets)
+        wins = sum(r['rec'] == r['line_result'] for r in bets)
+        our_over = (sum(r['rec'] == 'OVER' for r in bets) / nb) if nb else 0.0
+        # expected wins if we'd bet the same DIRECTION on random players
+        exp = sum(over_rate if r['rec'] == 'OVER' else (1 - over_rate) for r in bets)
+        wr = wins / nb if nb else None
+        sel = (wins - exp) if nb else None
+        wr_s = f'{wr*100:>5.0f}%' if wr is not None else '   — '
+        sel_s = f'{sel:+.2f}' if sel is not None else '   —'
+        print(f"  {date:<12}{len(dec):>6}{over_rate*100:>6.0f}%{nb:>6}{wr_s:>7}"
+              f"{our_over*100:>8.0f}%{sel_s:>9}")
+        if nb:
+            over_rates.append(over_rate); win_rates.append(wr)
+            T_bets += nb; T_wins += wins; T_exp += exp
+
+    print('  ' + '-' * 74)
+    if T_bets:
+        print(f"  TOTAL bets {T_bets}: {T_wins}W ({T_wins/T_bets*100:.0f}%)  "
+              f"vs base-rate expectation {T_exp:.1f}  →  "
+              f"selection edge {T_wins - T_exp:+.1f} wins ({(T_wins-T_exp)/T_bets*100:+.1f} pts)")
+    r = _pearson(over_rates, win_rates)
+    if r is not None:
+        print(f"  corr(slate OVER-rate, our win-rate) = {r:+.2f}  "
+              f"({'RIDING the night' if r > 0.5 else 'some independence'} — need more slates)")
+    else:
+        print(f"  (need ≥3 fully-settled slates for the ride-the-night correlation; "
+              f"have {len(over_rates)})")
+    print(f"\n  NOTE: only fully-settled slates are accurate — settle NON-bet lines too\n"
+          f"  (results_tracker result <player> <kills> now settles market lines even if not a bet).\n")
+
+
 # ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
@@ -400,6 +490,8 @@ examples:
 
     sub.add_parser('stats', help='Running win rate and P&L')
 
+    sub.add_parser('slate', help='Per-slate OVER rate vs our results (ride-the-night check)')
+
     p_hist = sub.add_parser('history', help='Full result log')
     p_hist.add_argument('--n', type=int, default=0, metavar='N',
                         help='Show only last N rows (default: all)')
@@ -410,6 +502,7 @@ examples:
         'pending': cmd_pending,
         'result':  cmd_result,
         'stats':   cmd_stats,
+        'slate':   cmd_slate,
         'history': cmd_history,
     }
 
