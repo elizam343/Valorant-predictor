@@ -38,7 +38,6 @@ from sklearn.preprocessing import StandardScaler
 warnings.filterwarnings('ignore')
 sys.path.insert(0, os.path.dirname(__file__))
 from enhanced_data_loader import EnhancedDataLoader
-from db_data_loader import DBDataLoader
 
 try:
     import xgboost as xgb
@@ -89,13 +88,12 @@ def _make_synthetic_line(row: pd.Series) -> float:
 # Data loading
 # ---------------------------------------------------------------------------
 
-def load_data(limit_matches: int = None, use_db: bool = False) -> pd.DataFrame:
-    if use_db:
-        loader = DBDataLoader()
-        X, y = loader.prepare_training_data()
-    else:
-        loader = EnhancedDataLoader()
-        X, y = loader.prepare_training_data(limit_matches=limit_matches)
+def load_data(limit_matches: int = None) -> pd.DataFrame:
+    # The DB-only loader (db_data_loader) can't produce rating_form_slope (the DB
+    # lacks per-map rating), so it's incompatible with the current feature set —
+    # the --use-db path was removed (#8 hygiene). Training is JSON-based.
+    loader = EnhancedDataLoader()
+    X, y = loader.prepare_training_data(limit_matches=limit_matches)
     if X.empty:
         raise RuntimeError('No training data loaded.')
     df = X.copy()
@@ -402,8 +400,6 @@ def main() -> None:
                         help='Cap on match JSON files to load (default: all)')
     parser.add_argument('--test-size', type=float, default=0.2,
                         help='Fraction held out for evaluation (default: 0.2)')
-    parser.add_argument('--use-db', action='store_true',
-                        help='Load from valorant_matches.db instead of JSON files (faster)')
     parser.add_argument('--save-best', action='store_true',
                         help='Save the best regression and classification models to models/')
     parser.add_argument('--fast', action='store_true',
@@ -434,9 +430,8 @@ def main() -> None:
     # ── Load data ────────────────────────────────────────────────────────────
     print('\n[1/4] Loading training data...')
     t0 = time.time()
-    df = load_data(limit_matches=args.limit_matches, use_db=args.use_db)
-    src = 'DB' if args.use_db else 'JSON files'
-    print(f'  {len(df):,} rows loaded from {src} in {time.time()-t0:.1f}s')
+    df = load_data(limit_matches=args.limit_matches)
+    print(f'  {len(df):,} rows loaded from JSON files in {time.time()-t0:.1f}s')
 
     # ── Build feature sets ───────────────────────────────────────────────────
     print('\n[2/4] Building feature sets...')

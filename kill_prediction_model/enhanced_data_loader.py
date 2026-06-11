@@ -547,7 +547,6 @@ class EnhancedDataLoader:
 
         New columns:
           agent_role_ordinal    0=Sentinel, 1=Controller, 2=Initiator, 3=Duelist, 1.5=unknown
-          is_duelist            1 if Duelist role, else 0
           player_agent_avg_kills  player's historical avg kills when playing this agent
                                   (leave-one-out to avoid leakage)
         """
@@ -556,7 +555,6 @@ class EnhancedDataLoader:
         agent_col = df['agent'].str.lower().str.strip() if 'agent' in df.columns else pd.Series('', index=df.index)
 
         df['agent_role_ordinal'] = agent_col.map(AGENT_ROLES).fillna(UNKNOWN_ROLE)
-        df['is_duelist'] = (df['agent_role_ordinal'] == 3).astype(float)
 
         # Per-player-per-agent kill average (leave-one-out)
         df['_agent_key'] = agent_col

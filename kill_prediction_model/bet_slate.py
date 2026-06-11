@@ -94,7 +94,6 @@ DEFAULTS = {
     'avg_rounds_vs_opponent':        20.0,
     'kill_std':                       5.0,
     'agent_role_ordinal':        UNKNOWN_ROLE,
-    'is_duelist':                     0.0,
     'player_agent_avg_kills':        13.0,
     'player_hit_rate_at_line':        0.5,
 }
@@ -484,14 +483,12 @@ class PlayerCache:
         if agent:
             role = float(AGENT_ROLES.get(agent.lower().strip(), UNKNOWN_ROLE))
             f['agent_role_ordinal'] = role
-            f['is_duelist'] = 1.0 if role == 3.0 else 0.0
             ak = self.agent_kills.get((player_name, agent.lower()))
             f['player_agent_avg_kills'] = ak if ak else (
                 self.player_kills.get(player_name) or DEFAULTS['player_agent_avg_kills']
             )
         else:
             f['agent_role_ordinal']    = DEFAULTS['agent_role_ordinal']
-            f['is_duelist']            = DEFAULTS['is_duelist']
             f['player_agent_avg_kills'] = (
                 self.player_kills.get(player_name) or DEFAULTS['player_agent_avg_kills']
             )

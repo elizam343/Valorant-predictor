@@ -39,8 +39,9 @@ FEATURE_COLS = [
     'kill_std',
     # Agent role features
     'agent_role_ordinal',
-    'is_duelist',
     'player_agent_avg_kills',
+    # NOTE: is_duelist dropped 2026-06-09 — 0.0 feature importance (role already
+    # captured by agent_role_ordinal / player_agent_avg_kills). See #8 hygiene.
 ]
 
 # Classification gets two extra features: the kill line + player historical hit rate

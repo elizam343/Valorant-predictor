@@ -1,18 +1,18 @@
 {
   "regression": [
     {
-      "name": "XGBoost",
-      "r2": 0.3771,
-      "mae": 4.5903,
-      "rmse": 6.1,
-      "train_time_s": 57.2
-    },
-    {
       "name": "LightGBM",
       "r2": 0.377,
       "mae": 4.5917,
       "rmse": 6.1008,
-      "train_time_s": 9.3
+      "train_time_s": 8.7
+    },
+    {
+      "name": "XGBoost",
+      "r2": 0.3763,
+      "mae": 4.589,
+      "rmse": 6.1038,
+      "train_time_s": 54.9
     },
     {
       "name": "Random Forest",
@@ -23,60 +23,60 @@
     },
     {
       "name": "Linear Regression",
-      "r2": 0.1937,
-      "mae": 5.3259,
-      "rmse": 6.9403,
+      "r2": 0.193,
+      "mae": 5.3282,
+      "rmse": 6.9431,
       "train_time_s": 0.4
     },
     {
       "name": "Ridge",
-      "r2": 0.1937,
-      "mae": 5.3259,
-      "rmse": 6.9403,
+      "r2": 0.193,
+      "mae": 5.3282,
+      "rmse": 6.9431,
       "train_time_s": 0.2
     },
     {
       "name": "Lasso",
-      "r2": 0.1902,
-      "mae": 5.337,
-      "rmse": 6.9553,
-      "train_time_s": 1.2
+      "r2": 0.1898,
+      "mae": 5.3385,
+      "rmse": 6.9568,
+      "train_time_s": 1.1
     }
   ],
   "classification": [
     {
       "name": "XGBoost",
-      "accuracy": 0.7006,
+      "accuracy": 0.7008,
       "f1": 0.6905,
-      "auc": 0.7645,
-      "train_time_s": 6.0
+      "auc": 0.7644,
+      "train_time_s": 5.8
     },
     {
       "name": "LightGBM",
       "accuracy": 0.7004,
       "f1": 0.6909,
       "auc": 0.7641,
-      "train_time_s": 7.0
+      "train_time_s": 7.1
     },
     {
       "name": "Random Forest",
-      "accuracy": 0.6864,
-      "f1": 0.6682,
-      "auc": 0.7371,
-      "train_time_s": 42.8
+      "accuracy": 0.6871,
+      "f1": 0.6713,
+      "auc": 0.7367,
+      "train_time_s": 44.2
     },
     {
       "name": "Logistic Regression",
-      "accuracy": 0.6084,
-      "f1": 0.5831,
-      "auc": 0.6523,
-      "train_time_s": 1.0
+      "accuracy": 0.6079,
+      "f1": 0.5818,
+      "auc": 0.6517,
+      "train_time_s": 0.8
     },
     {
       "name": "Naive Bayes",
-      "accuracy": 0.5743,
-      "f1": 0.3473,
-      "auc": 0.6351,
+      "accuracy": 0.5716,
+      "f1": 0.3283,
+      "auc": 0.6359,
       "train_time_s": 0.3
     }
   ]
