@@ -1,189 +1,114 @@
-# Valorant Kill Line Predictor
+# Valorant Esports Kill Predictor
 
-A machine learning system that predicts per-map kill counts for Valorant esports players and recommends OVER/UNDER bets against PrizePicks kill lines.
+An end-to-end machine learning pipeline that predicts how many kills a professional Valorant player will get per map, and whether they'll go over or under a given kill line.
 
----
+It covers the full data lifecycle: scraping 52,000+ pro match records, storing them in SQLite, engineering 25 features, training gradient boosting models, and running a daily prediction pipeline that tracks real-world results.
 
-## Where We Left Off (2026-06-07)
-
-**Active pipeline is `bet_slate.py`** — not the old `gpu_trainer.py` / `advanced_matchup_predictor.py`. Those are legacy.
-
-**Last session work:**
-- Fixed 3 data quality leaks (see Data Quality section below)
-- Backfilled career stats for 1,887 previously-missing players
-- Model: GBR Classifier 71.4% acc, AUC=0.784 / Regressor R²=0.307, MAE=3.93
-
-**Pending — retrain was killed mid-run:**
-```bash
-cd kill_prediction_model
-python model_comparison.py --use-db --save-best
-```
-This will take ~5-10 minutes using the DB loader. Run this before the next slate.
-
-**Today's slate (2026-06-07) matches:**
-- Vitality vs FUT Esports
-- NRG vs Leviatán
-- Dragon Ranger vs Xi Lai Gaming
-- Global Esports vs FULL SENSE
-
-Results not yet logged. After games finish:
-```bash
-python kill_prediction_model/results_tracker.py result <player> <actual_kills>
-```
+**Tech stack:** Python · SQL / SQLite · scikit-learn · pandas · NumPy · BeautifulSoup · requests
 
 ---
 
-## Daily Workflow
+## Results
 
-```bash
-# 1. Update context.json with today's matchups (team/opponent per player)
-#    File: kill_prediction_model/context.json
+| Model | Task | Performance (held-out test set) |
+|---|---|---|
+| Gradient Boosting Regressor | Predict kills per map | MAE = 3.93 kills, R² = 0.307 |
+| Gradient Boosting Classifier | Predict over/under a kill line | 71.4% accuracy, AUC = 0.784 |
 
-# 2. Run the slate
-cd kill_prediction_model
-python bet_slate.py --context context.json
-
-# 3. Log results after games
-python results_tracker.py result kingg 24
-python results_tracker.py result blowz 18
-```
-
-Results are saved to `kill_prediction_model/bet_results.csv`.
+**Live tracking:** the model has been tested on real kill lines, and every pick is logged to `bet_results.csv`. The early live sample is small (33 picks: 15 correct, 18 incorrect) and below the offline accuracy. That gap is why the test set uses synthetic historical lines. I'm working on closing it with calibration and significance testing (`calibration_audit.py`, `significance_test.py`).
 
 ---
 
-## Architecture
+## How it works
 
 ```
-valorant-kill-line-predictor/
-├── Scraper/
-│   ├── valorant_matches.db        # Match-by-match stats (kills, deaths, ACS per map)
-│   ├── vlr_players.db             # Career aggregate stats (rating, KPR, KD, etc.)
-│   ├── results_scraper.py         # Scraper: paginates vlr.gg/matches/results
-│   ├── database_schema.py         # Inserts scraped matches into valorant_matches.db
-│   └── db_utils.py                # Connection helper for vlr_players.db
+vlr.gg ──► Scraper ──► SQLite databases ──► Feature engineering ──► Model training
+                         │                                              │
+                         └──────────────► Daily prediction pipeline ◄───┘
+                                                  │
+                                         Results tracker (CSV)
+```
+
+1. **Scraping.** `Scraper/results_scraper.py` paginates through vlr.gg match results and resumes from a checkpoint if it's interrupted.
+2. **Storage.** There are two SQLite databases:
+   - `valorant_matches.db` stores per-map match stats (kills, deaths, ACS, ADR, assists).
+   - `vlr_players.db` stores career aggregate stats (rating, KPR, K/D).
+3. **Features.** There are 25 features in five groups:
+   - **Career:** rating, ACS, K/D, kills/assists/first kills/first deaths per round.
+   - **Context:** team strength, opponent strength, opponent kills allowed per map.
+   - **Form:** recent average kills, form trend, days since the last match.
+   - **Head-to-head:** past performance against the same opponent.
+   - **Map and agent:** player average kills on the map, agent role, duelist flag.
+4. **Training.** `model_comparison.py` compares models and saves the best one.
+5. **Daily predictions.** `bet_slate.py` pulls the day's kill lines, runs both models and applies filters. A pick is skipped when:
+   - the edge is under 10%,
+   - the regressor and classifier disagree, or
+   - the player has fewer than 15 map appearances.
+6. **Tracking.** `results_tracker.py` logs actual outcomes so accuracy can be measured over time.
+
+---
+
+## Data quality work
+
+Several silent data bugs were distorting the model. I found and fixed them:
+
+- **Corrupted K/D column.** About 50% of rows stored *kills − deaths* instead of *kills ÷ deaths*, which produced negative "ratios." Fixed by computing K/D directly from raw kills and deaths.
+- **1,887 players missing from training.** Players with real match history had zeroed career stats and were being filtered out. I wrote `backfill_career_stats.py` to rebuild their stats from match data.
+- **Duplicate players.** Players who changed teams showed up more than once. Fixed by deduplicating before the merge.
+- **A SQL aggregate crash.** A nested `AVG(SUM(...))` query failed at runtime. Fixed by removing the bad query.
+
+---
+
+## Project structure
+
+```
+├── Scraper/                    # vlr.gg scraper + SQLite schema
 ├── kill_prediction_model/
-│   ├── bet_slate.py               # MAIN DAILY SCRIPT — fetches lines, runs model, outputs picks
-│   ├── model_comparison.py        # Training script — run to retrain
-│   ├── db_data_loader.py          # Fast training data loader from valorant_matches.db
-│   ├── enhanced_data_loader.py    # Slow training data loader from 52k JSON files
-│   ├── backfill_career_stats.py   # Syncs vlr_players.db from match data (run after scraping)
-│   ├── results_tracker.py         # Logs actual outcomes to bet_results.csv
-│   ├── kill_line_fetcher.py       # PrizePicks live API client
-│   ├── name_resolver.py           # Fuzzy-matches PP player names to VLR DB names
-│   ├── context.json               # TODAY'S matchups — update this daily
-│   ├── name_aliases.json          # PP name → VLR canonical name mappings
-│   ├── bet_results.csv            # Running log of all picks + outcomes
-│   └── models/                    # Saved model .pkl files
-├── scraped_matches/               # 52k+ raw JSON match files
-└── README.md
+│   ├── bet_slate.py            # Daily prediction pipeline (main entry point)
+│   ├── model_comparison.py     # Training + model selection
+│   ├── db_data_loader.py       # Fast training data loader (SQLite)
+│   ├── backfill_career_stats.py
+│   ├── name_resolver.py        # Fuzzy-matches player names across sources
+│   ├── results_tracker.py      # Logs actual outcomes
+│   └── models/                 # Saved models
+├── docs/                       # Design notes, diagnostics, backlog
+└── requirements.txt
 ```
 
 ---
 
-## Two Databases — Critical Distinction
-
-| Database | What it stores | How it's populated |
-|---|---|---|
-| `Scraper/valorant_matches.db` | Per-map match stats (kills, deaths, ACS, ADR, assists) | `database_schema.py` / `results_scraper.py` |
-| `Scraper/vlr_players.db` | Career aggregate stats (rating, KPR, KD, etc.) | VLR player-page scraper (separate process) |
-
-**These are independent** — vlr_players.db is NOT auto-populated when new matches come in. After any bulk scraping session, run:
+## Getting started
 
 ```bash
-cd kill_prediction_model
-python backfill_career_stats.py
-```
+pip install -r requirements.txt   # Python 3.9+, no GPU required
 
-This computes career averages from match data and inserts them for any player not already in vlr_players.db. It also runs automatically at the start of `model_comparison.py`.
-
----
-
-## Model
-
-Two models are used together at inference time:
-
-| Model | Task | Performance |
-|---|---|---|
-| GBR Regressor | Predicts kill count | R²=0.307, MAE=3.93 kills/map |
-| GBR Classifier | Predicts OVER/UNDER probability | 71.4% accuracy, AUC=0.784 |
-
-**23 features** (regression) / **25 features** (classification adds `synthetic_line` + `player_hit_rate_at_line`):
-- Career: `db_rating`, `db_average_combat_score`, `db_kill_deaths`, `db_kills_per_round`, `db_assists_per_round`, `db_first_kills_per_round`, `db_first_deaths_per_round`
-- Context: `team_strength`, `opponent_team_strength`, `opponent_kills_allowed_per_map`, `avg_rounds_vs_opponent`
-- Form: `recent_avg_kills`, `recent_avg_kills_3`, `recent_avg_rating`, `form_slope`, `days_since_last_match`
-- H2H: `h2h_avg_kills`, `h2h_data_exists`
-- Map/Agent: `player_map_avg_kills`, `kill_std`, `agent_role_ordinal`, `is_duelist`, `player_agent_avg_kills`
-
-**Bet filters applied at inference:**
-- `player_hit_rate_at_line < 45%` and direction is OVER → **NO BET** (base-rate filter)
-- Regressor says UNDER but classifier says OVER → **NO BET** (conflict filter)
-- Edge < 10% → **Weak signal** (don't bet)
-- < 15 map appearances → **Skipped**
-
-Break-even at −110 odds: 52.4%
-
----
-
-## Training
-
-```bash
-cd kill_prediction_model
-
-# Fast (recommended) — reads from valorant_matches.db, ~5 min
-python model_comparison.py --use-db --save-best
-
-# Thorough (slow) — reads all 52k JSON files, ~2 hours
-python model_comparison.py --save-best
-
-# Quick dev check
-python model_comparison.py --use-db --limit-matches 5000
-```
-
----
-
-## Scraping New Matches
-
-```bash
-# Scrape from vlr.gg/matches/results — auto-resumes from checkpoint
+# 1. Scrape new matches (resumes automatically)
 python Scraper/results_scraper.py
 
-# After scraping, sync career stats DB
+# 2. Sync career stats
 python kill_prediction_model/backfill_career_stats.py
 
-# Then retrain
-python kill_prediction_model/model_comparison.py --use-db --save-best
+# 3. Train (~5 min)
+cd kill_prediction_model
+python model_comparison.py --use-db --save-best
+
+# 4. Run today's predictions
+python bet_slate.py --context context.json
 ```
 
 ---
 
-## Data Quality Issues (Fixed 2026-06-07)
+## Known limitations
 
-1. **`kdr` column corrupt in `player_match_stats`** — `database_schema.py` stored `kd_diff` (kills−deaths) as primary value with kd_ratio as fallback, so ~50% of rows had negative "KDR". Fixed in `db_data_loader.py` to compute kills/deaths directly.
-
-2. **Career DB coverage gap** — 1,887 players with real match history had 0.0 for all career features and were being silently excluded from training (enhanced_data_loader filters `db_rating > 0`). Fixed by `backfill_career_stats.py`.
-
-3. **Duplicate player names in `vlr_players.db`** — same player listed under multiple teams. Fixed in `_load_career_stats()` via deduplication before merge.
-
-4. **SQL crash in rounds query** — nested `AVG(SUM(...))` in `bet_slate.py` PlayerCache threw `misuse of aggregate function`. Fixed by removing the bad query.
+- Career rating for backfilled players is estimated from ACS (r = 0.516 with the real VLR rating).
+- First-kill and first-death rates for backfilled players use league averages.
+- Historical kill lines are synthetic. Real lines are only available live.
+- Players on newly promoted teams often have no match history yet.
 
 ---
 
-## Known Limitations
+## What's next
 
-- `db_rating` for backfilled players is estimated from ACS (r=0.516 vs real VLR composite rating) — not exact but much better than 0.0
-- `first_kills_per_round` / `first_deaths_per_round` for backfilled players use league mean (0.092 / 0.107) — per-map FK data not stored in the DB
-- Kill lines are synthetic for historical data — real PrizePicks lines are fetched live at inference
-- Dragon Ranger / Xi Lai Gaming players routinely have 0 DB appearances (debut skips)
-- `p.rating` in JSON match files is the per-match VLR rating; `db_rating` in vlr_players.db is a career aggregate — different scales, both used in different parts of the pipeline
-
----
-
-## Installation
-
-```bash
-pip install -r requirements.txt
-# Python 3.9+, no GPU required
-```
-
-Place both SQLite databases in `Scraper/` before running.
+- Calibrate the classifier's probabilities and grow the live sample to test whether the edge is real.
+- Add per-map first-kill data to the scraper.
+- Schedule the daily pipeline automatically instead of running it by hand.
