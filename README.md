@@ -15,7 +15,7 @@ It covers the full data lifecycle: scraping 52,000+ pro match records, storing t
 | Gradient Boosting Regressor | Predict kills per map | MAE = 3.93 kills, R² = 0.307 |
 | Gradient Boosting Classifier | Predict over/under a kill line | 71.4% accuracy, AUC = 0.784 |
 
-**Live tracking:** the model has been tested on real kill lines, and every pick is logged to `bet_results.csv`. The early live sample is small (33 picks: 15 correct, 18 incorrect) and below the offline accuracy. That gap is why the test set uses synthetic historical lines. I'm working on closing it with calibration and significance testing (`calibration_audit.py`, `significance_test.py`).
+**Live tracking:** the model has been tested on real kill lines, and every pick is logged to `bet_results.csv`. The early live sample is small (33 picks: 15 correct, 18 incorrect) and below the offline accuracy. A likely reason for the gap is that the offline test uses synthetic historical lines, which may be easier to beat than real ones. I'm working on closing it with calibration and significance testing (`calibration_audit.py`, `significance_test.py`).
 
 ---
 
